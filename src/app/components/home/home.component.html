@@ -253,7 +253,14 @@
 <div
   class="tw-w-full container-fluid p-0 tw-overflow-hidden smarter-trade-features-div !tw-h-[280px] md:tw-h-[350px]"
 >
-  <video autoplay loop muted class="tw-w-full tw-object-contain">
+    <video
+    #smartVideo
+    loop
+    playsinline
+    preload="none"
+    [muted]="true"
+    class="tw-w-full tw-object-contain"
+  >
     <source
       [src]="s3URl + 'assets/videos/smart_trading.webm'"
       type="video/webm"

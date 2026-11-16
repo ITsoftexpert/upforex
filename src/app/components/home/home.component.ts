@@ -1,11 +1,15 @@
 import {
+  AfterViewInit,
   Component,
+  ElementRef,
   Inject,
-  OnDestroy, 
+  OnDestroy,
   OnInit,
   PLATFORM_ID,
   Renderer2,
+  ViewChild,
 } from '@angular/core';
+
 import {
   mobileAppData,
   smarterTradeData,
@@ -24,7 +28,7 @@ import { DOCUMENT, isPlatformBrowser } from '@angular/common';   // DOCUMENT add
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.scss'],
 })
-export class HomeComponent implements OnInit ,OnDestroy  {
+export class HomeComponent implements OnInit ,AfterViewInit ,OnDestroy  {
   smarterTradeCardData = smarterTradeData;
   smartTradeFeaturesData = smartTradeFeaturesData;
   mobileAppData = mobileAppData;
@@ -187,9 +191,45 @@ export class HomeComponent implements OnInit ,OnDestroy  {
     this.document.head.appendChild(script);
   }
 
+    @ViewChild('smartVideo') smartVideo?: ElementRef<HTMLVideoElement>;
+  private videoObserver?: IntersectionObserver;
+
+  ngAfterViewInit(): void {
+    if (!isPlatformBrowser(this.platformId) || !this.smartVideo) return;
+    const video = this.smartVideo.nativeElement;
+
+    video.muted = true;
+    video.defaultMuted = true;
+    video.playsInline = true;
+    video.load();
+
+    const tryPlay = () => {
+      video.play().catch(() => {});
+    };
+
+    if (!('IntersectionObserver' in window)) {
+      tryPlay();
+      return;
+    }
+
+    this.videoObserver = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            tryPlay();
+          } else {
+            video.pause();
+          }
+        });
+      },
+      { rootMargin: '200px' }
+    );
+    this.videoObserver.observe(video);
+  }
+
   ngOnDestroy(): void {
-    // Home se dusre page par jaate hi schema hat jaye (SPA navigation me bhi)
     this.document.getElementById(this.schemaId)?.remove();
+    this.videoObserver?.disconnect();
   }
 
   scrollToTop() {
