@@ -78,7 +78,7 @@
                 {{ "nav.products" | translate }}
               </button>
               <div ngbDropdownMenu aria-labelledby="products">
-                <button
+                <a
                   ngbDropdownItem
                   [routerLink]="menu.routerLink"
                   *ngFor="let menu of productsDropdown"
@@ -95,7 +95,7 @@
                   "
                 >
                   {{ menu.name }}
-                </button>
+                </a>
               </div>
             </div>
           </li>
@@ -118,7 +118,7 @@
                 {{ "nav.trading" | translate }}
               </button>
               <div ngbDropdownMenu aria-labelledby="accounts">
-                <button
+                <a
                   ngbDropdownItem
                   [routerLink]="menu.routerLink"
                   *ngFor="let menu of accountsDropdown; let i = index"
@@ -132,7 +132,7 @@
                   [ngClass]="i === selectedIndex ? 'active-route' : ''"
                 >
                   {{ menu.name }}
-                </button>
+                </a>
               </div>
             </div>
           </li>
@@ -178,7 +178,7 @@
                 {{ "nav.partnerships" | translate }}
               </button>
               <div ngbDropdownMenu aria-labelledby="platforms">
-                <button
+                <a
                   ngbDropdownItem
                   [routerLink]="menu.routerLink"
                   *ngFor="let menu of partnershipDropdown"
@@ -195,7 +195,7 @@
                   "
                 >
                   {{ menu.name }}
-                </button>
+                </a>
               </div>
             </div>
           </li>
@@ -214,7 +214,7 @@
                 {{ "nav.resources" | translate }}
               </button>
               <div ngbDropdownMenu aria-labelledby="platforms">
-                <button
+                <a
                   ngbDropdownItem
                   [routerLink]="menu.routerLink"
                   *ngFor="let menu of resourceDropdown"
@@ -231,7 +231,7 @@
                   "
                 >
                   {{ menu.name }}
-                </button>
+                </a>
               </div>
             </div>
           </li>

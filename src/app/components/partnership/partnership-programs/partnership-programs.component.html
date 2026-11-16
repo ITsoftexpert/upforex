@@ -1,4 +1,42 @@
 <div class="container tw-font-montserrat">
+  <section
+    class="md:tw-p-0 tw-p-8"
+    aria-labelledby="partnership-links-heading"
+  >
+    <h1
+      id="partnership-links-heading"
+      class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-bold md:tw-my-4"
+    >
+      UPFOREX Partnership Programs
+    </h1>
+    <p class="tw-text-sm tw-text-gray-200 tw-leading-relaxed">
+      Explore partnership options and learn more about the programs available
+      at UPFOREX.
+    </p>
+    <ul class="tw-flex tw-flex-wrap tw-gap-4 tw-list-none tw-p-0">
+      <li>
+        <a
+          routerLink="/partnerships/ib-programs"
+          class="text-white tw-underline"
+          >Introducing Broker Program</a
+        >
+      </li>
+      <li>
+        <a
+          routerLink="/partnerships/education-partners"
+          class="text-white tw-underline"
+          >Education Partners Program</a
+        >
+      </li>
+      <li>
+        <a
+          routerLink="/partnerships/social-trading"
+          class="text-white tw-underline"
+          >Social Trading Program</a
+        >
+      </li>
+    </ul>
+  </section>
   <div class="md:tw-p-0 tw-p-8" *ngFor="let item of partnershipPrograms">
     <div
       class="tw-flex tw-justify-center tw-flex-col lg:tw-flex-row lg:tw-p-4 tw-p-0 tw-gap-8"

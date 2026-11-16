@@ -12,6 +12,16 @@ import { InstitutionalServiceComponent } from './institutional-service/instituti
 
 const routes: Routes = [
   {
+    path: '',
+    component: PartnershipProgramsComponent,
+    title: 'UPFOREX Partnerships | IB, Education & Social Trading',
+    data: {
+      title: 'UPFOREX Partnerships | IB, Education & Social Trading',
+      description:
+        'Explore UPFOREX partnership programs for introducing brokers, educators, money managers and social trading partners.',
+    },
+  },
+  {
     path: 'partnership-benefits',
     component: UpforexAgentComponent,
     title: 'UPFOREX Partnership Program | Benefits & Earnings',

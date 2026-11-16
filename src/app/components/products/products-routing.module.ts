@@ -9,6 +9,16 @@ import { CryptoCfdComponent } from './crypto-cfd/crypto-cfd.component';
 
 const routes: Routes = [
   {
+    path: 'index-future',
+    redirectTo: 'index-cfds',
+    pathMatch: 'full',
+  },
+  {
+    path: 'energy-future',
+    redirectTo: 'energy-cfds',
+    pathMatch: 'full',
+  },
+  {
     path: 'forex-cfds',
     component: ForexComponent,
     title: 'Forex CFD Trading in UAE | MT5 Platform | UPFOREX',

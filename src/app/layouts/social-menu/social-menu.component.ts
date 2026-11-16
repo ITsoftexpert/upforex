@@ -56,6 +56,10 @@ export class SocialMenuComponent implements AfterViewInit {
       title: 'FOOTER.BLOGS',
       link: '/blogs',
     },
+    {
+      title: 'Partnerships',
+      link: '/partnerships',
+    },
   ];
   usefullLinks = [
     {
@@ -74,6 +78,30 @@ export class SocialMenuComponent implements AfterViewInit {
       // footer link
       title: 'FOOTER.LEGAL_DOCUMENTS',
       link: 'legal-documents',
+    },
+    {
+      title: 'Introduction to Forex',
+      link: '/resources/introduction-to-forex',
+    },
+    {
+      title: 'Trading Glossary',
+      link: '/resources/trading-glossary',
+    },
+    {
+      title: 'Trading Rules',
+      link: '/resources/trading-rules',
+    },
+    {
+      title: 'Contract Specifications',
+      link: '/resources/contract-specifications',
+    },
+    {
+      title: 'Education Partners',
+      link: '/partnerships/education-partners',
+    },
+    {
+      title: 'Social Trading',
+      link: '/partnerships/social-trading',
     },
   ];
 

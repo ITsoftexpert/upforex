@@ -47,12 +47,16 @@ const routes: Routes = [
         'Find answers to frequently asked questions about forex and CFD trading, accounts and platforms with UPFOREX. Get help in seconds.',
     },
   },
-  // Uncomment this if needed
-  // {
-  //   path: 'contract-specifications',
-  //   component: ContactSpecificationsComponent,
-  //   title: 'Contract Specifications | Instrument Details & Trading Conditions'
-  // },
+  {
+    path: 'contract-specifications',
+    component: ContactSpecificationsComponent,
+    title: 'UPFOREX Contract Specifications | Forex & CFD Trading',
+    data: {
+      title: 'UPFOREX Contract Specifications | Forex & CFD Trading',
+      description:
+        'Review UPFOREX instrument contract sizes, trading conditions, swap values and market hours for forex and CFD products.',
+    },
+  },
   {
     path: 'tools',
     loadChildren: () =>

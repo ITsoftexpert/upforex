@@ -26,6 +26,29 @@ export function app(): express.Express {
   server.set('view engine', 'html');
   server.set('views', distFolder);
 
+  server.use((req, res, next) => {
+    const queryIndex = req.url.indexOf('?');
+    const requestPath =
+      queryIndex === -1 ? req.url : req.url.slice(0, queryIndex);
+    const query = queryIndex === -1 ? '' : req.url.slice(queryIndex);
+    const normalizedPath = requestPath.replace(/\/{2,}/g, '/');
+
+    if (normalizedPath !== requestPath) {
+      res.redirect(301, `${normalizedPath}${query}`);
+      return;
+    }
+
+    next();
+  });
+
+  server.get('/products/index-future', (req, res) => {
+    res.redirect(301, `/products/index-cfds${req.url.slice(req.path.length)}`);
+  });
+
+  server.get('/products/energy-future', (req, res) => {
+    res.redirect(301, `/products/energy-cfds${req.url.slice(req.path.length)}`);
+  });
+
   // Example Express Rest API endpoints
   // server.get('/api/**', (req, res) => { });
   // Serve static files from /browser

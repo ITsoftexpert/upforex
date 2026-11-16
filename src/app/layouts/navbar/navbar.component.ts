@@ -113,6 +113,10 @@ export class NavbarComponent implements OnInit {
 
   partnershipDropdown = [
     {
+      name: 'Partnerships Overview',
+      routerLink: 'partnerships',
+    },
+    {
       name: 'Partnership Benefits',
       routerLink: 'partnerships/partnership-benefits',
     },
@@ -168,13 +172,14 @@ export class NavbarComponent implements OnInit {
       routerLink: 'resources/tools',
     },
     {
+      name: 'Contract Specifications',
+      routerLink: 'resources/contract-specifications',
+    },
+    {
       name: 'Faq',
       routerLink: 'resources/faq',
     },
-    // {
-    //   name: 'Contract Specification',
-    //   routerLink: 'resources/contract-specifications',
-    // },
+    
   ];
   dropDownBtnClicked(subMenu: string, menu: string, index?: number) {
     this.menuName = menu;

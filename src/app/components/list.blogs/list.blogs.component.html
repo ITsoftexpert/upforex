@@ -20,46 +20,48 @@
 <div *ngIf="!isLoading" class="container py-5">
   <div class="row g-4 justify-content-center">
     <div class="col-12 p-0 col-md-6 col-lg-3" *ngFor="let article of articles">
-      <a
-        [routerLink]="['/blogs', article.permaLink]"
-        class="text-decoration-none"
-      >
-        <div class="card article-card">
-          <div class="card-header">
-            <img
-              [src]="s3URL + article.featuredImageUrl"
-              class="img-fluid rounded article-image mb-3"
-              [alt]="article.imageAltTag"
-            />
+      <article class="card article-card">
+        <div class="card-header">
+          <img
+            [src]="s3URL + article.featuredImageUrl"
+            class="img-fluid rounded article-image mb-3"
+            [alt]="article.imageAltTag"
+          />
+        </div>
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3">
+            <span class="article-time">
+              <ng-icon name="matDateRange"></ng-icon>
+              {{ article.createdAt.slice(0, 10) }}</span
+            >
           </div>
-          <div class="card-body p-4">
-            <div class="d-flex align-items-center mb-3">
-              <span class="article-time">
-                <ng-icon name="matDateRange"></ng-icon>
-                {{ article.createdAt.slice(0, 10) }}</span
-              >
-            </div>
-            <h5 class="article-title d-block mb-3 text-white">
-              {{ article.title }}
-            </h5>
-          </div>
-          <div class="card-footer mb-2 d-flex justify-content-between">
-            <ng-container *ngIf="article.categories.length">
-              <a class="article-tag">
-                {{ article.categories[0].categoryName }}
-              </a>
-            </ng-container>
+          <h5 class="article-title d-block mb-3">
             <a
               [routerLink]="['/blogs', article.permaLink]"
-              class="btn text-white"
-              >Read More <ng-icon name="matOpenInNew"></ng-icon
-            ></a>
-          </div>
+              class="text-white text-decoration-none"
+              >{{ article.title }}</a
+            >
+          </h5>
+          <p class="text-white">
+            {{ article.description }}
+          </p>
         </div>
-      </a>
+        <div class="card-footer mb-2 d-flex justify-content-between">
+          <ng-container *ngIf="article.categories.length">
+            <span class="article-tag">
+              {{ article.categories[0].categoryName }}
+            </span>
+          </ng-container>
+          <a
+            [routerLink]="['/blogs', article.permaLink]"
+            class="btn text-white"
+            >Read More <ng-icon name="matOpenInNew"></ng-icon
+          ></a>
+        </div>
+      </article>
     </div>
   </div>
-  <div class="row my-2" *ngIf="articles.length != totalPageSize">
+  <div class="row my-2" *ngIf="pageNum < totalPages">
     <div class="col-12 d-flex justify-content-center">
       <button
         [disabled]="isLoading"
@@ -72,4 +74,18 @@
     </div>
   </div>
 </div>
+<section class="container py-4" aria-labelledby="featured-guides-heading">
+  <h2 id="featured-guides-heading" class="text-white">
+    Featured Trading Guides
+  </h2>
+  <ul class="tw-list-disc tw-pl-5">
+    <li *ngFor="let guide of featuredGuides" class="py-1">
+      <a
+        [routerLink]="['/blogs', guide.slug]"
+        class="text-white tw-underline"
+        >{{ guide.anchor }}</a
+      >
+    </li>
+  </ul>
+</section>
 <!-- </div> -->
