@@ -39,20 +39,20 @@ interface LegalDoc {
 
 export class LegelDocumentPgeComponent {
 docs: LegalDoc[] = [
-  {
-    slug: 'addendum-monthly',
-    name: 'Addendum Monthly Settlement',
-    about: 'Addendum to the Partnership Agreement for net revenue share with monthly settlement.',
-    viewUrl: DOCS_BASE + 'Addendum-Monthly-Settlement-V2.pdf',
-    downloadUrl: DOCS_BASE + 'Addendum-Monthly-Settlement-V2.pdf'
-  },
-  {
-    slug: 'addendum-quarterly',
-    name: 'Addendum Quarterly Settlement',
-    about: 'Addendum to the Partnership Agreement for net revenue share with quarterly settlement.',
-    viewUrl: DOCS_BASE + 'Addendum-Quarterly-Settlement-V2.pdf',
-    downloadUrl: DOCS_BASE + 'Addendum-Quarterly-Settlement-V2.pdf'
-  },
+  // {
+  //   slug: 'addendum-monthly',
+  //   name: 'Addendum Monthly Settlement',
+  //   about: 'Addendum to the Partnership Agreement for net revenue share with monthly settlement.',
+  //   viewUrl: DOCS_BASE + 'Addendum-Monthly-Settlement-V2.pdf',
+  //   downloadUrl: DOCS_BASE + 'Addendum-Monthly-Settlement-V2.pdf'
+  // },
+  // {
+  //   slug: 'addendum-quarterly',
+  //   name: 'Addendum Quarterly Settlement',
+  //   about: 'Addendum to the Partnership Agreement for net revenue share with quarterly settlement.',
+  //   viewUrl: DOCS_BASE + 'Addendum-Quarterly-Settlement-V2.pdf',
+  //   downloadUrl: DOCS_BASE + 'Addendum-Quarterly-Settlement-V2.pdf'
+  // },
   {
     slug: 'bonus-terms',
     name: 'Bonus Terms & Conditions',
@@ -95,13 +95,13 @@ docs: LegalDoc[] = [
     viewUrl: DOCS_BASE + 'Leverage-Schedule-V2.pdf',
     downloadUrl: DOCS_BASE + 'Leverage-Schedule-V2.pdf'
   },
-  {
-    slug: 'partnership-agreement',
-    name: 'Partnership Agreement',
-    about: 'Agreement outlining partnership terms for introducing brokers and affiliates.',
-    viewUrl: DOCS_BASE + 'Partnership-Agreement-V2.pdf',
-    downloadUrl: DOCS_BASE + 'Partnership-Agreement-V2.pdf'
-  },
+  // {
+  //   slug: 'partnership-agreement',
+  //   name: 'Partnership Agreement',
+  //   about: 'Agreement outlining partnership terms for introducing brokers and affiliates.',
+  //   viewUrl: DOCS_BASE + 'Partnership-Agreement-V2.pdf',
+  //   downloadUrl: DOCS_BASE + 'Partnership-Agreement-V2.pdf'
+  // },
   {
     slug: 'confidentiality-policy',
     name: 'Privacy & Confidentiality Policy',
