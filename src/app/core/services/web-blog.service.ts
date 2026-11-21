@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { ApiResp, BaseService } from './base.service';
 import { map, Observable } from 'rxjs';
+import { cmsBlogSlug, correctPublicBlogCopy } from './blog-copy-corrections';
 @Injectable({
   providedIn: 'root',
 })
@@ -19,30 +20,41 @@ export class WebBlogService extends BaseService {
       .pipe(
         map((res) => {
           if (!res.status) this.toastr.error(res.message, 'Error');
-          return res;
+          return this.correctResponseCopy(res);
         })
       );
   }
 
   getBlogById(id: string) {
     return this.http
-      .get<ApiResp>(`${this.baseUrl}/${this.blogEndPoint}/${id}`)
+      .get<ApiResp>(`${this.baseUrl}/${this.blogEndPoint}/${cmsBlogSlug(id)}`)
       .pipe(
         map((res) => {
           if (!res.status) this.toastr.error(res.message, 'Error');
-          return res;
+          return this.correctResponseCopy(res, id);
         })
       );
   }
 
   getRecommended(id: string) {
     return this.http
-      .get<ApiResp>(`${this.baseUrl}/${this.blogEndPoint}/${id}/recommended`)
+      .get<ApiResp>(`${this.baseUrl}/${this.blogEndPoint}/${cmsBlogSlug(id)}/recommended`)
       .pipe(
         map((res) => {
           if (!res.status) this.toastr.error(res.message, 'Error');
-          return res;
+          return this.correctResponseCopy(res);
         })
       );
+  }
+
+  private correctResponseCopy(res: ApiResp, requestedSlug = ''): ApiResp {
+    if (!res.status || !res.data) return res;
+
+    return {
+      ...res,
+      data: Array.isArray(res.data)
+        ? res.data.map((blog) => correctPublicBlogCopy(blog))
+        : correctPublicBlogCopy(res.data, requestedSlug),
+    };
   }
 }

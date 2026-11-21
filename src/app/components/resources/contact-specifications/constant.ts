@@ -144,7 +144,7 @@ export const forex = [
   },
   {
     instrument: 'EURGBP',
-    fullName: 'Euro vs British Pounds',
+    fullName: 'Euro vs British Pound',
     notionalValue: 'EUR 100 000',
     quotePrecision: 1e-5,
     minOrderSize: 0.01,
@@ -248,7 +248,7 @@ export const forex = [
   },
   {
     instrument: 'GBPAUD',
-    fullName: 'British Pounds vs Australian Dollar',
+    fullName: 'British Pound vs Australian Dollar',
     notionalValue: 'GBP 100 000',
     quotePrecision: 1e-5,
     minOrderSize: 0.01,
@@ -261,7 +261,7 @@ export const forex = [
   },
   {
     instrument: 'GBPCAD',
-    fullName: 'British Pounds vs Canadian Dollar',
+    fullName: 'British Pound vs Canadian Dollar',
     notionalValue: 'GBP 100 000',
     quotePrecision: 1e-5,
     minOrderSize: 0.01,
@@ -274,7 +274,7 @@ export const forex = [
   },
   {
     instrument: 'GBPCHF',
-    fullName: 'British Pounds vs Swiss Franc',
+    fullName: 'British Pound vs Swiss Franc',
     notionalValue: 'GBP 100 000',
     quotePrecision: 1e-5,
     minOrderSize: 0.01,
@@ -287,7 +287,7 @@ export const forex = [
   },
   {
     instrument: 'GBPJPY',
-    fullName: 'British Pounds vs Japanese Yen',
+    fullName: 'British Pound vs Japanese Yen',
     notionalValue: 'GBP 100 000',
     quotePrecision: 0.001,
     minOrderSize: 0.01,
@@ -300,7 +300,7 @@ export const forex = [
   },
   {
     instrument: 'GBPNZD',
-    fullName: 'British Pounds vs New Zealand Dollar',
+    fullName: 'British Pound vs New Zealand Dollar',
     notionalValue: 'GBP 100 000',
     quotePrecision: 1e-5,
     minOrderSize: 0.01,
@@ -313,7 +313,7 @@ export const forex = [
   },
   {
     instrument: 'GBPUSD',
-    fullName: 'British Pounds vs US Dollar',
+    fullName: 'British Pound vs US Dollar',
     notionalValue: 'GBP 100 000',
     quotePrecision: 1e-5,
     minOrderSize: 0.01,

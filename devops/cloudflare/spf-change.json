@@ -1,0 +1,17 @@
+{
+  "zone": "upforex.com",
+  "verified_on": "2026-11-21",
+  "source": "Google Public DNS over HTTPS",
+  "replace_only_these_spf_records": [
+    "v=spf1 include:_spf.google.com include:zoho.com ~all",
+    "v=spf1 include:zcsend.net ~all"
+  ],
+  "replacement_record": {
+    "type": "TXT",
+    "name": "upforex.com",
+    "content": "v=spf1 include:_spf.google.com include:zoho.com include:zcsend.net ~all"
+  },
+  "current_worst_case_dns_lookup_terms": 7,
+  "dns_lookup_limit": 10,
+  "note": "Retain other TXT records, DKIM and DMARC. Edit one SPF record and remove the other so exactly one v=spf1 record remains. Recheck provider includes when applying because they can change."
+}

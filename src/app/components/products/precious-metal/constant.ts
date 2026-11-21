@@ -19,7 +19,7 @@ export const benefits = [
   },
   {
     boldText: 'High Leverage (Up to 1:300)',
-    subText: 'Amplify your trading positions potential.',
+    subText: "Amplify your trading positions' potential.",
   },
   {
     boldText: 'Zero Commissions',
@@ -32,7 +32,7 @@ export const benefits = [
   {
     boldText: 'Rapid Execution & No Re-quotes',
     subText:
-      'Trade at the prices you see, a key advantage for active platinum trading and gold',
+      'Trade at the prices you see, a key advantage for active platinum and gold trading.',
   },
   {
     boldText: 'VPS Access',

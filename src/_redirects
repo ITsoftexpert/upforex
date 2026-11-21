@@ -1,2 +1,6 @@
 https://upforex.com/*  https://www.upforex.com/:splat  301!
+/anti-monry-laundering /anti-money-laundering 301!
+/:language/anti-monry-laundering /:language/anti-money-laundering 301!
+/blogs/trump-tarrif /blogs/trump-tariff 301!
+/:language/blogs/trump-tarrif /:language/blogs/trump-tariff 301!
 /* /index.html 200

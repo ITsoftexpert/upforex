@@ -7,9 +7,13 @@ import { existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { AppServerModule } from './src/main.server';
 import { createProxyMiddleware } from 'http-proxy-middleware';
+import { marketingCacheHeaders, securityHeaders, staticCacheHeaders } from './server/http-policy';
+import { INITIAL_SITE_LANGUAGE, languageFromPath } from './src/app/core/services/bundled-translation.loader';
 // The Express app is exported so that it can be used by serverless Functions.
 export function app(): express.Express {
   const server = express();
+  server.disable('x-powered-by');
+  server.use(securityHeaders);
   const distFolder = join(process.cwd(), 'dist/upforex_Frontend/browser');
   const indexHtml = existsSync(join(distFolder, 'index.original.html'))
     ? 'index.original.html'
@@ -35,6 +39,15 @@ export function app(): express.Express {
 
     if (normalizedPath !== requestPath) {
       res.redirect(301, `${normalizedPath}${query}`);
+      return;
+    }
+
+    const correctedPath = normalizedPath
+      .replace(/\/anti-monry-laundering\/?$/, '/anti-money-laundering')
+      .replace(/\/blogs\/trump-tarrif\/?$/, '/blogs/trump-tariff');
+
+    if (correctedPath !== normalizedPath) {
+      res.redirect(301, `${correctedPath}${query}`);
       return;
     }
 
@@ -81,7 +94,8 @@ export function app(): express.Express {
   server.get(
     '*.*',
     express.static(distFolder, {
-      maxAge: '1y',
+      maxAge: '1h',
+      setHeaders: staticCacheHeaders,
     })
   );
 
@@ -89,7 +103,18 @@ export function app(): express.Express {
   server.get('*', (req, res) => {
     res.render(indexHtml, {
       req,
-      providers: [{ provide: APP_BASE_HREF, useValue: req.baseUrl }],
+      providers: [
+        { provide: APP_BASE_HREF, useValue: req.baseUrl },
+        { provide: INITIAL_SITE_LANGUAGE, useValue: languageFromPath(req.path) || 'en' },
+      ],
+    }, (error: Error | null, html: string) => {
+      if (error) {
+        console.error('Unable to render page:', error);
+        res.status(500).send('Unable to load this page. Please try again later.');
+        return;
+      }
+      marketingCacheHeaders(req, res, html);
+      res.send(html);
     });
   });
 

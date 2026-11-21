@@ -2,6 +2,7 @@ import { Injectable, Inject, Optional } from '@angular/core';
 import { DOCUMENT } from '@angular/common';
 import { TranslateService } from '@ngx-translate/core';
 import { BehaviorSubject, Observable } from 'rxjs';
+import { INITIAL_SITE_LANGUAGE, languageFromPath } from './bundled-translation.loader';
 
 export interface Language {
   code: string;
@@ -53,7 +54,8 @@ export class LanguageService {
 
   constructor(
     private translate: TranslateService,
-    @Optional() @Inject(DOCUMENT) private document: Document
+    @Optional() @Inject(DOCUMENT) private document: Document,
+    @Inject(INITIAL_SITE_LANGUAGE) private initialLanguage: string
   ) {
     // Initialize BehaviorSubject with current language
     this.currentLanguageSubject = new BehaviorSubject<Language>(this.getCurrentLanguage());
@@ -71,6 +73,13 @@ export class LanguageService {
     if (!this.isBrowser()) {
       // On server, just set default language
       this.translate.setDefaultLang('en');
+      this.setLanguage(this.initialLanguage);
+      return;
+    }
+
+    const routeLanguage = languageFromPath(this.document?.location?.pathname || '');
+    if (routeLanguage) {
+      this.setLanguage(routeLanguage, true);
       return;
     }
 
@@ -159,11 +168,13 @@ export class LanguageService {
           localStorage.setItem(this.GT_MANUAL_SELECTION_KEY, 'true');
         }
 
-        // Set RTL/LTR direction for Arabic
-        if (document) {
-          document.documentElement.setAttribute('dir', lang.dir);
-          document.documentElement.setAttribute('lang', langCode);
-        }
+      }
+
+      // The injected document also exists during SSR; update the rendered HTML
+      // language and direction instead of relying on the browser's global document.
+      if (this.document?.documentElement) {
+        this.document.documentElement.setAttribute('dir', lang.dir);
+        this.document.documentElement.setAttribute('lang', langCode);
       }
 
       // Emit language change to all subscribers (including navbar)
@@ -172,7 +183,12 @@ export class LanguageService {
   }
 
   getCurrentLanguage(): Language {
-    let savedLang = 'en';
+    const routeLanguage = languageFromPath(this.document?.location?.pathname || '');
+    if (routeLanguage) {
+      return this.languages.find((language) => language.code === routeLanguage)!;
+    }
+
+    let savedLang = this.initialLanguage;
 
     // Only read from localStorage in browser environment
     if (this.isBrowser()) {

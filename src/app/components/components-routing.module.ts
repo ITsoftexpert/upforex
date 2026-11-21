@@ -61,6 +61,11 @@ const routes: Routes = [
   },
   {
     path: 'anti-monry-laundering',
+    redirectTo: 'anti-money-laundering',
+    pathMatch: 'full',
+  },
+  {
+    path: 'anti-money-laundering',
     component: AntiMoneyLaunderingComponent,
     data: {
       title: 'Anti-Money Laundering Policy | UpForex',
@@ -93,9 +98,9 @@ const routes: Routes = [
   {
     path: 'platforms/mt5',
     data: {
-      title: 'Trade on MT5 Platform | Top Multi Asset Trading Platform',
-      description: 'Trade on MT5 Platform with UPFOREX, the trusted Multi Asset Trading Platform offering powerful tools, secure trading, and affordable costs. Trade Smarter!',
-      keywords: 'mt5 platform, multi asset trading platform​'
+      title: 'Trade on MT5 Platform | Top Multi-Asset Trading Platform',
+      description: 'Trade on MT5 Platform with UPFOREX, the trusted Multi-Asset Trading Platform offering powerful tools, secure trading, and affordable costs. Trade Smarter!',
+      keywords: 'mt5 platform, multi-asset trading platform​'
     },
     loadChildren: () => import('./platforms/platforms.module').then((m) => m.PlatformsModule),
   },
@@ -214,6 +219,11 @@ const routes: Routes = [
       description: 'Level up your trading with the UPFOREX blog. Get expert market analysis, forex strategies, MT5 guides, and insights on indices, commodities, and crypto.',
       keywords: 'forex blog, trading tips, market analysis'
     }
+  },
+  {
+    path: 'blogs/trump-tarrif',
+    redirectTo: 'blogs/trump-tariff',
+    pathMatch: 'full',
   },
   {
     path: 'blogs/:id',

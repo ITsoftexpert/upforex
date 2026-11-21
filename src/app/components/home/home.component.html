@@ -5,7 +5,7 @@
   fetchpriority="high"
   class="tw-absolute tw-inset-0 tw-w-full tw-h-[85vh] md:tw-h-[95vh] lg:tw-h-[85vh] tw-object-cover tw-opacity-70"
   [src]="
-    currentLanguage?.code === 'ar'
+    currentLanguage.code === 'ar'
       ? 'assets/images/PNG/Upforex.png'
       : s3URl + 'assets/images/JPG/home_banner_temp_1.webp'
   "
@@ -25,8 +25,8 @@
           </h1>
         </div>
         <div class="my-2 tw-px-4 pt-2 banner-subtext tw-font-montserrat">
-          Trade Forex, Stock CFDs, Precious Metal, Index CFDs, Energy CFDs and
-          Crypto Currencies CFD from your Upforex Trading Account
+          Trade Forex, Stock CFDs, Precious Metals, Index CFDs, Energy CFDs and
+          Cryptocurrency CFDs from your UPFOREX Trading Account
         </div>
         <div
           class="my-2 md:tw-pt-4 tw-pl-4 tw-flex tw-justify-start tw-gap-4 banner-button"
@@ -428,7 +428,7 @@
                         : i === 4
                           ? 'mobile trading view'
                           : i === 6
-                            ? 'live trading viewchart'
+                            ? 'live trading view chart'
                             : 'upforex trade vision'
               "
             />
@@ -462,7 +462,7 @@
     <p
       class="tw-text-white tw-font-semibold tw-text-sm md:tw-text-base tw-tracking-wider tw-font-montserrat"
     >
-      Discover the Power of Global Trading from Single Account
+      Discover the Power of Global Trading from a Single Account
       <a
         (click)="scrollToTop()"
         class="tw-text-[#3cff19] text-decoration-none tw-cursor-pointer tw-font-extrabold"

@@ -7,7 +7,7 @@ export const trustedChoiceCardData: TrustedChoiceCard[] = [
   {
     title: 'Ultra-Modern Trading Platform',
     description:
-      'Our ultra-modern platform provides powerful analytical tools, live data feeds, and ability to access from various devices, ensuring an exceptional trading experience.',
+      'Our ultra-modern platform provides powerful analytical tools, live data feeds, and the ability to access it from various devices, ensuring an exceptional trading experience.',
     icon: 'matComputer',
   },
   {
@@ -17,7 +17,7 @@ export const trustedChoiceCardData: TrustedChoiceCard[] = [
     icon: 'matSupportAgent',
   },
   {
-    title: 'User Friendly Account Options',
+    title: 'User-Friendly Account Options',
     description:
       "We offer solutions designed to meet various trading requirements, whether you're a beginner retail trader or a seasoned institutional investor.",
     icon: 'matPerson',

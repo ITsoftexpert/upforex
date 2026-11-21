@@ -133,7 +133,7 @@ export class SouthAfricaForexReview2Component implements OnInit {
         'Keep records of deposits, withdrawals, realised gains and losses, fees, statements and currency conversions. SARS publishes exchange-rate information for translating foreign-currency amounts into rand.',
     },
     {
-      boldText: 'This page is not tax advice',
+      boldText: 'Seek professional tax advice',
       subText:
         "This page is not tax advice. A registered tax practitioner should review the trader's circumstances and filing duties.",
     },

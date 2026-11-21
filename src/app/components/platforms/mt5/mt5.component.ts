@@ -24,16 +24,16 @@ export class Mt5Component implements OnInit {
 
     // ✅ Set Meta Title & Description
     this.titleService.setTitle(
-      'Trade on MT5 Platform | Top Multi Asset Trading Platform'
+      'Trade on MT5 Platform | Top Multi-Asset Trading Platform'
     );
     this.metaService.updateTag({
       name: 'description',
       content:
-        'Trade on MT5 Platform with UPFOREX, the trusted Multi Asset Trading Platform offering powerful tools, secure trading, and affordable costs. Trade Smarter!',
+        'Trade on MT5 Platform with UPFOREX, the trusted Multi-Asset Trading Platform offering powerful tools, secure trading, and affordable costs. Trade Smarter!',
     });
     this.metaService.updateTag({
       name: 'keywords',
-      content: 'mt5 platform, multi asset trading platform​',
+      content: 'mt5 platform, multi-asset trading platform​',
     });
   }
 

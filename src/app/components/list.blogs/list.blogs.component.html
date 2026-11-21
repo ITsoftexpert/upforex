@@ -74,18 +74,37 @@
     </div>
   </div>
 </div>
-<section class="container py-4" aria-labelledby="featured-guides-heading">
-  <h2 id="featured-guides-heading" class="text-white">
-    Featured Trading Guides
-  </h2>
-  <ul class="tw-list-disc tw-pl-5">
-    <li *ngFor="let guide of featuredGuides" class="py-1">
+<section
+  class="container featured-guides tw-font-montserrat"
+  aria-labelledby="featured-guides-heading"
+>
+  <div class="featured-guides-header">
+    <div>
+      <p class="featured-guides-eyebrow">The trading library</p>
+      <h2 id="featured-guides-heading">Featured Trading Guides</h2>
+    </div>
+    <p class="featured-guides-intro">
+      Explore forex fundamentals, market insights and practical guides for your
+      next step in trading.
+    </p>
+  </div>
+  <ul class="featured-guides-grid" role="list">
+    <li *ngFor="let guide of featuredGuides">
       <a
         [routerLink]="['/blogs', guide.slug]"
-        class="text-white tw-underline"
-        >{{ guide.anchor }}</a
+        class="featured-guide"
       >
+        <span class="featured-guide-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" focusable="false">
+            <path d="M12 5.5C9 3.5 5.5 3.5 3 4.5v15c2.5-1 6-1 9 1 3-2 6.5-2 9-1v-15c-2.5-1-6-1-9 1Z" />
+            <path d="M12 5.5v15M6.5 8.5l2 .5M6.5 12l2 .5M15.5 9l2-.5M15.5 12.5l2-.5" />
+          </svg>
+        </span>
+        <span class="featured-guide-copy">
+          <span class="featured-guide-title">{{ guide.anchor }}</span>
+          <span class="featured-guide-cta" aria-hidden="true">Read guide</span>
+        </span>
+      </a>
     </li>
   </ul>
 </section>
-<!-- </div> -->

@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { APP_INITIALIZER, NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -6,13 +6,12 @@ import { LayoutsModule } from './layouts/layouts.module';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { HTTP_INTERCEPTORS, HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
-import { TranslateHttpLoader } from '@ngx-translate/http-loader';
-import { HttpClient } from '@angular/common/http';
-
-export function HttpLoaderFactory(http: HttpClient) {
-  return new TranslateHttpLoader(http, './assets/i18n/', '.json');
-}
+import { TranslateModule, TranslateLoader, TranslateService } from '@ngx-translate/core';
+import {
+  BundledTranslationLoader,
+  INITIAL_SITE_LANGUAGE,
+  initializeTranslations,
+} from './core/services/bundled-translation.loader';
 import { ToastrModule } from 'ngx-toastr';
 import { NgIconsModule } from '@ng-icons/core';
 import {
@@ -63,13 +62,18 @@ import { LegelDocumentPgeComponent } from './legel-document-pge/legel-document-p
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,
-        useFactory: HttpLoaderFactory,
-        deps: [HttpClient],
+        useClass: BundledTranslationLoader,
       },
       defaultLanguage: 'en',
     }),
   ],
   providers: [
+    {
+      provide: APP_INITIALIZER,
+      useFactory: initializeTranslations,
+      deps: [TranslateService, INITIAL_SITE_LANGUAGE],
+      multi: true,
+    },
     {
       provide: HTTP_INTERCEPTORS,
       useClass: AuthInterceptor,

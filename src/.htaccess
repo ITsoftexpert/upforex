@@ -1,6 +1,10 @@
 # BEGIN Upforex 410 Rules
 RewriteEngine On
 
+# Keep links to the misspelled addresses working.
+RewriteRule ^((?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?anti-monry-laundering/?$ /$1anti-money-laundering [R=301,L,NE]
+RewriteRule ^((?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?blogs/trump-tarrif/?$ /$1blogs/trump-tariff [R=301,L,NE]
+
 # Set specific pages to 410 Gone
 Redirect 410 /products/us-stocks
 Redirect 410 /products/stocks-cfd

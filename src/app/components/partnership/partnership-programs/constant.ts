@@ -221,7 +221,7 @@ export const partnershipPrograms = [
   {
     heading: 'Country Partners Program',
     headingPrimary: [
-      'At UPFOREX, our multinational growth and extensive client base have allowed us to form successful partnerships worldwide. We understand the value of working closely with local partners to provide tailored Country client support.',
+      'At UPFOREX, our multinational growth and extensive client base have allowed us to form successful partnerships worldwide. We understand the value of working closely with local partners to provide tailored country client support.',
     ],
     headingSecondary: [
       {

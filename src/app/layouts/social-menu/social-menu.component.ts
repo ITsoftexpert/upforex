@@ -68,7 +68,7 @@ export class SocialMenuComponent implements AfterViewInit {
     },
     {
       title: 'FOOTER.PREVENT_MONEY_LAUNDERING',
-      link: 'anti-monry-laundering',
+      link: 'anti-money-laundering',
     },
     {
       title: 'FOOTER.PRIVACY_POLICY',

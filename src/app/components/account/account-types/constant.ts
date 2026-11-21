@@ -39,9 +39,9 @@ export const data: IData[] = [
   },
   {
     accountType: 'Leverage',
-    standard: 'Upto 1:300',
-    proEcn: 'Upto 1:300',
-    eliteEcn: 'Upto 1:300',
+    standard: 'Up to 1:300',
+    proEcn: 'Up to 1:300',
+    eliteEcn: 'Up to 1:300',
     hasSup: true,
     hasIcon: false,
     sup: '(1)',
