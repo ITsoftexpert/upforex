@@ -1,0 +1,407 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "td7bea7a48e50b67c",
+      "english": "<span data-i18n-slot=\"0\">Upside breakout-style entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Entrada al alza con estilo de ruptura</span>"
+    },
+    {
+      "key": "t29e78022c772cdb0",
+      "english": "<span data-i18n-slot=\"0\">Slippage can occur after trigger</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Puede ocurrir un deslizamiento después del disparo</span>"
+    },
+    {
+      "key": "t6736d9a5effb84ab",
+      "english": "<span data-i18n-slot=\"0\">Downside breakout-style entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Entrada de estilo de ruptura a la baja</span>"
+    },
+    {
+      "key": "t815e9afb82fd7e7d",
+      "english": "<span data-i18n-slot=\"0\">Stop-Limit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Orden stop-limit</span>"
+    },
+    {
+      "key": "t3c3344e851a88eb8",
+      "english": "<span data-i18n-slot=\"0\">Limit price or better after the stop trigger, if filled</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Precio límite o mejor después del activador de parada, si se completa</span>"
+    },
+    {
+      "key": "tc2c825d32a538295",
+      "english": "<span data-i18n-slot=\"0\">Trigger plus added price control</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Activador más control de precios añadido</span>"
+    },
+    {
+      "key": "td8da0c5dc34f8e63",
+      "english": "<span data-i18n-slot=\"0\">Triggered limit order may remain unfilled</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La orden límite activada puede permanecer sin completar</span>"
+    },
+    {
+      "key": "t4e08b293bd0f5af1",
+      "english": "<span data-i18n-slot=\"0\">A trader has decided to enter at the current market and does not require a retracement first.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un operador ha decidido ingresar al mercado actual y no requiere un retroceso primero.</span>"
+    },
+    {
+      "key": "t80e9900f18b335cf",
+      "english": "<span data-i18n-slot=\"0\">Planned Pullback</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Retroceso planificado</span>"
+    },
+    {
+      "key": "t818e902a73da0d1a",
+      "english": "<span data-i18n-slot=\"0\">Limit Order vs Stop Order: What's the Real Difference?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Orden limitada frente a orden stop: ¿cuál es la diferencia real?</span>"
+    },
+    {
+      "key": "t972f1a566421f130",
+      "english": "<span data-i18n-slot=\"0\">A trader expecting a pullback before continuation might use a limit order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un operador que espera un retroceso antes de la continuación podría utilizar una orden limitada.</span>"
+    },
+    {
+      "key": "tb256147eb81fc8e2",
+      "english": "<span data-i18n-slot=\"0\">A trader who only wants to enter after price crosses a breakout level might use a stop order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un operador que sólo quiera entrar después de que el precio cruce un nivel de ruptura podría utilizar una orden de parada.</span>"
+    },
+    {
+      "key": "tb6d22b1d71cb654d",
+      "english": "<span data-i18n-slot=\"0\">Limit Order vs Stop-Limit Order</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Orden limitada frente a orden stop-limit</span>"
+    },
+    {
+      "key": "t9f193f6d1fb739fd",
+      "english": "<span data-i18n-slot=\"0\">So in a limit order vs stop limit order comparison, the additional trigger determines when the limit instruction is created.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por tanto, al comparar una orden limitada con una orden stop-limit, el activador adicional determina cuándo se crea la instrucción limitada.</span>"
+    },
+    {
+      "key": "t39f0f60c3213052e",
+      "english": "<span data-i18n-slot=\"0\">Worked Example Same Trade, Three Order Types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ejemplo trabajado en la misma operación, tres tipos de órdenes</span>"
+    },
+    {
+      "key": "ta644bba2f95c2638",
+      "english": "<span data-i18n-slot=\"0\">Trader's Goal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Objetivo del comerciante</span>"
+    },
+    {
+      "key": "t2c028695ca1c71b1",
+      "english": "<span data-i18n-slot=\"0\">Entry Trigger</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Activador de entrada</span>"
+    },
+    {
+      "key": "t67a1c52ffdf7d4e3",
+      "english": "<span data-i18n-slot=\"0\">Request goes to market immediately; fill depends on execution conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La solicitud va al mercado de inmediato; el precio de ejecución depende de las condiciones de ejecución</span>"
+    },
+    {
+      "key": "t2d5690b8d4903bc2",
+      "english": "<span data-i18n-slot=\"0\">Wait for a pullback</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Esperar un retroceso</span>"
+    },
+    {
+      "key": "tab55a8745b5d2460",
+      "english": "<span data-i18n-slot=\"0\">Enter after upside confirmation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ingrese después de la confirmación alcista</span>"
+    },
+    {
+      "key": "t4c109257fe0ed40b",
+      "english": "<span data-i18n-slot=\"0\">Price must reach the stop trigger</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El precio debe alcanzar el activador de parada</span>"
+    },
+    {
+      "key": "t0db84a7bd1478a1f",
+      "english": "<span data-i18n-slot=\"0\">The market-order trader has already submitted an entry.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El operador de orden de mercado ya ha enviado una entrada.</span>"
+    },
+    {
+      "key": "t814e5936af400ffe",
+      "english": "<span data-i18n-slot=\"0\">Trade size and account exposure still need to be considered separately. The</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Leverage &amp; Margin Explained</span></span><span data-i18n-slot=\"4\"> guide covers those mechanics.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El tamaño de la operación y la exposición de la cuenta aún deben considerarse por separado. La guía</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Explicación del apalancamiento y el margen</span></span><span data-i18n-slot=\"4\"> cubre esas mecánicas.</span>"
+    },
+    {
+      "key": "tbacbdbb73baa3c15",
+      "english": "<span data-i18n-slot=\"0\">How Do You Place Each Order Type on MT5?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo se coloca cada tipo de orden en MT5?</span>"
+    },
+    {
+      "key": "t90fbb88985d12109",
+      "english": "<span data-i18n-slot=\"0\">Choose Buy or Sell according to the intended direction.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Elija Comprar o Vender según la dirección deseada.</span>"
+    },
+    {
+      "key": "t0ea5cbb86cb973f6",
+      "english": "<span data-i18n-slot=\"0\">Review the resulting position after execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Revisar la posición resultante después de la ejecución.</span>"
+    },
+    {
+      "key": "t4b8b5964ac33b5e6",
+      "english": "<span data-i18n-slot=\"0\">Limit Order</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Orden límite</span>"
+    },
+    {
+      "key": "te757770fe308788d",
+      "english": "<span data-i18n-slot=\"0\">Review the expiration setting.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Revise la configuración de vencimiento.</span>"
+    },
+    {
+      "key": "ta0920675a0c5b1d5",
+      "english": "<span data-i18n-slot=\"0\">[SCREENSHOT: MT5 order ticket set to Buy Limit with price field highlighted]</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">[CAPTURA DE PANTALLA: ventana de órdenes de MT5 configurada en Buy Limit con el campo de precio resaltado]</span>"
+    },
+    {
+      "key": "td10fc6ac256bae9e",
+      "english": "<span data-i18n-slot=\"0\">Enter the required trigger price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ingrese el precio de activación requerido.</span>"
+    },
+    {
+      "key": "tf324e6c32ddff293",
+      "english": "<span data-i18n-slot=\"0\">Review the expiration and submit the order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Revise el vencimiento y envíe la orden.</span>"
+    },
+    {
+      "key": "tc8f361c056fa6622",
+      "english": "<span data-i18n-slot=\"0\">[SCREENSHOT: MT5 order ticket set to Buy Stop with trigger price highlighted]</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">[CAPTURA DE PANTALLA: ventana de órdenes de MT5 configurada en Buy Stop con el precio de activación resaltado]</span>"
+    },
+    {
+      "key": "t86a1c0edaeea1859",
+      "english": "<span data-i18n-slot=\"0\">Forgetting to review pending-order expiration settings.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Olvidar revisar la configuración de vencimiento de las órdenes pendientes.</span>"
+    },
+    {
+      "key": "ta0106ac7ee7ef1c7",
+      "english": "<span data-i18n-slot=\"0\">Focusing on entry type while overlooking trade size and leverage.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Centrarse en el tipo de entrada sin tener en cuenta el tamaño y el apalancamiento de la operación.</span>"
+    },
+    {
+      "key": "tb3146b47b6819763",
+      "english": "<span data-i18n-slot=\"0\">Q: What is a limit order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">P: ¿Qué es una orden limitada?</span>"
+    },
+    {
+      "key": "tdbd15bdc590f028e",
+      "english": "<span data-i18n-slot=\"0\">Q: What is a stop order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">P: ¿Qué es una orden stop?</span>"
+    },
+    {
+      "key": "tdfc715874c38eb37",
+      "english": "<span data-i18n-slot=\"0\">Q: Can UAE traders use these order types on MT5?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">P: ¿Pueden los comerciantes de los EAU utilizar estos tipos de órdenes en MT5?</span>"
+    },
+    {
+      "key": "t79f5dea124118df3",
+      "english": "<span data-i18n-slot=\"0\">Practice the Order Logic Before Trading Live</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Practique la lógica de las órdenes antes de operar en vivo</span>"
+    },
+    {
+      "key": "t73c7feeaf683a9dc",
+      "english": "<span data-i18n-slot=\"0\">Eligible traders can review</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UPFOREX trading accounts</span></span><span data-i18n-slot=\"4\"> and practice the order workflow through UPFOREX's MT5 environment before deciding whether to trade live.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los operadores elegibles pueden revisar</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UPFOREX cuentas comerciales</span></span><span data-i18n-slot=\"4\"> y practicar el flujo de trabajo de pedidos a través del entorno MT5 de UPFOREX antes de decidir si operarán en vivo.</span>"
+    },
+    {
+      "key": "tcd054a75e19d1c2f",
+      "english": "<span data-i18n-slot=\"0\">Understanding forex correlation helps traders identify these relationships before opening additional positions. It can also improve how traders interpret correlation matrices, compare market exposure and assess whether several trades are genuinely different ideas or variations of the same one.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comprender la correlación de divisas ayuda a los operadores a identificar estas relaciones antes de abrir posiciones adicionales. También puede mejorar la forma en que los operadores interpretan las matrices de correlación, comparan la exposición al mercado y evalúan si varias operaciones son ideas realmente diferentes o variaciones de la misma.</span>"
+    }
+  ]
+}

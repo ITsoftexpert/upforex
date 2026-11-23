@@ -1,0 +1,552 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t1b5427294307012d",
+      "english": "<span data-i18n-slot=\"0\">The published starting spreads are not guaranteed and may change depending on market conditions and liquidity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los diferenciales iniciales publicados no están garantizados y pueden cambiar según las condiciones del mercado y la liquidez.</span>"
+    },
+    {
+      "key": "t92ba0f49252a339b",
+      "english": "<span data-i18n-slot=\"0\">8. Check Regulatory Information Before Choosing a Trading Provider</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">8. Consulte la información reglamentaria antes de elegir un proveedor comercial</span>"
+    },
+    {
+      "key": "tfd709516af166a58",
+      "english": "<span data-i18n-slot=\"0\">When researching forex trading in Abu Dhabi, take time to understand which company will provide the actual trading service and which regulator is responsible for its activities.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cuando investigue el comercio de divisas en Abu Dabi, tómese el tiempo para comprender qué empresa proporcionará el servicio comercial real y qué regulador es responsable de sus actividades.</span>"
+    },
+    {
+      "key": "t1dba5558479ba98e",
+      "english": "<span data-i18n-slot=\"0\">This step is just as important as comparing <span data-i18n-slot=\"1\">account</span> features and trading costs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Este paso es tan importante como comparar las características de la <span data-i18n-slot=\"1\">cuenta</span> y los costos comerciales.</span>"
+    },
+    {
+      "key": "ta511e0b248be4ae0",
+      "english": "<span data-i18n-slot=\"0\">If you are new to forex trading, a demo account can help you understand how a trading platform works without immediately risking real money.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Si es nuevo en el comercio de divisas, una cuenta de demostración puede ayudarle a comprender cómo funciona una plataforma de operaciones sin arriesgar inmediatamente dinero real.</span>"
+    },
+    {
+      "key": "t3399b4830786175d",
+      "english": "<span data-i18n-slot=\"0\">Reading price charts</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Lectura de gráficos de precios</span>"
+    },
+    {
+      "key": "ta3aa52e8c3e89dbc",
+      "english": "<span data-i18n-slot=\"0\">Understanding order types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comprender los tipos de órdenes</span>"
+    },
+    {
+      "key": "t1efc9fba26eb1be6",
+      "english": "<span data-i18n-slot=\"0\">However, remember that demo trading is not the same as live trading. Real-market execution, emotions, spreads and liquidity conditions can be different.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sin embargo, recuerde que el comercio de demostración no es lo mismo que el comercio real. La ejecución en el mercado real, las emociones, los diferenciales y las condiciones de liquidez pueden ser diferentes.</span>"
+    },
+    {
+      "key": "tfd4ba812e80a4d96",
+      "english": "<span data-i18n-slot=\"0\">Treat demo trading as a learning tool rather than proof that a strategy will generate profits.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Trate el comercio de demostración como una herramienta de aprendizaje en lugar de una prueba de que una estrategia generará ganancias.</span>"
+    },
+    {
+      "key": "te5288f340bbea422",
+      "english": "<span data-i18n-slot=\"0\">One common mistake among new traders is concentrating too much on potential returns and not enough on possible losses.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un error común entre los nuevos operadores es concentrarse demasiado en los rendimientos potenciales y no lo suficiente en las posibles pérdidas.</span>"
+    },
+    {
+      "key": "tac7c9c13af4aa185",
+      "english": "<span data-i18n-slot=\"0\">Set a Trading Budget:</span><span data-i18n-slot=\"1\"> Only consider money that you can afford to lose. Never use funds reserved for rent, bills or other essential expenses.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Establezca un presupuesto comercial:</span><span data-i18n-slot=\"1\"> Considere únicamente el dinero que pueda permitirse perder. Nunca utilice fondos reservados para alquiler, facturas u otros gastos esenciales.</span>"
+    },
+    {
+      "key": "t48314121f5b98b07",
+      "english": "<span data-i18n-slot=\"0\">11. How to Get Started with Forex Trading in Abu Dhabi Through UPFOREX</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">11. Cómo comenzar a operar con divisas en Abu Dabi a través de UPFOREX</span>"
+    },
+    {
+      "key": "t78f193557a9b1d79",
+      "english": "<span data-i18n-slot=\"0\">Visit the Website:</span><span data-i18n-slot=\"1\"> Explore the UPFOREX website and read the information about its trading services.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Visite el sitio web:</span><span data-i18n-slot=\"1\"> Explore el sitio web UPFOREX y lea la información sobre sus servicios comerciales.</span>"
+    },
+    {
+      "key": "t75543e72e1fb38c2",
+      "english": "<span data-i18n-slot=\"0\">For anyone researching </span><span data-i18n-slot=\"1\">forex trading in Abu Dhabi</span><span data-i18n-slot=\"2\">, the most important thing is to take time to compare platforms and understand their conditions instead of making decisions based only on advertisements or promises of high returns.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Para cualquiera que esté investigando </span><span data-i18n-slot=\"1\">comercio de divisas en Abu Dabi</span><span data-i18n-slot=\"2\">, lo más importante es tomarse el tiempo para comparar plataformas y comprender sus condiciones en lugar de tomar decisiones basadas únicamente en anuncios o promesas de altos rendimientos.</span>"
+    },
+    {
+      "key": "t4aaca0aa18f94c84",
+      "english": "<span data-i18n-slot=\"0\">Interested in learning more about online forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Está interesado en aprender más sobre el comercio de divisas en línea?</span>"
+    },
+    {
+      "key": "te866f33051b9e932",
+      "english": "<span data-i18n-slot=\"0\">1. Is forex trading suitable for beginners in Abu Dhabi?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. ¿El comercio de divisas es adecuado para principiantes en Abu Dhabi?</span>"
+    },
+    {
+      "key": "t95098cf29921d490",
+      "english": "<span data-i18n-slot=\"0\">Beginners can learn about forex trading through educational materials and demo accounts. However, leveraged forex and CFD trading involves significant financial risk. Understanding the market, trading costs and risk management is important before considering a live account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los principiantes pueden aprender sobre el comercio de divisas a través de materiales educativos y cuentas de demostración. Sin embargo, el comercio de divisas y CFD apalancados implica un riesgo financiero significativo. Comprender el mercado, los costos comerciales y la gestión de riesgos es importante antes de considerar una cuenta real.</span>"
+    },
+    {
+      "key": "t514e8aeafece4bee",
+      "english": "<span data-i18n-slot=\"0\">2. What is the minimum deposit for a forex trading account with UPFOREX?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. ¿Cuál es el depósito mínimo para una cuenta de negociación de divisas con UPFOREX?</span>"
+    },
+    {
+      "key": "t649f9b34cb906a18",
+      "english": "<span data-i18n-slot=\"0\">3. Which trading platform does UPFOREX offer?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. ¿Qué plataforma comercial ofrece UPFOREX?</span>"
+    },
+    {
+      "key": "tbb16668a7963c91a",
+      "english": "<span data-i18n-slot=\"0\">4. What are the most commonly traded forex currency pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4. ¿Cuáles son los pares de divisas más comúnmente negociados?</span>"
+    },
+    {
+      "key": "t634238527c68190a",
+      "english": "<span data-i18n-slot=\"0\">6. How does leverage affect forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">6. ¿Cómo afecta el apalancamiento al comercio de divisas?</span>"
+    },
+    {
+      "key": "t54c94473ef27d03b",
+      "english": "<span data-i18n-slot=\"0\">Leverage allows a trader to control a larger position using a smaller margin amount. It can increase potential gains, but it also increases potential losses and can result in rapid account depletion.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El apalancamiento permite a un operador controlar una posición más grande utilizando una cantidad de margen menor. Puede aumentar las ganancias potenciales, pero también aumenta las pérdidas potenciales y puede resultar en un rápido agotamiento de la cuenta.</span>"
+    },
+    {
+      "key": "t7ed54f905d62512e",
+      "english": "MetaTrader Demo Account",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#tag",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Cuenta demo de MetaTrader"
+    },
+    {
+      "key": "t1982487036bbbece",
+      "english": "METATRADER DEMO ACCOUNT",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#upperTag",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "CUENTA DEMO DE METATRADER"
+    },
+    {
+      "key": "te52eb3b6b1164d56",
+      "english": "Forex Trading Singapore,",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#tag",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Comercio de divisas en Singapur,"
+    },
+    {
+      "key": "tfbfd44f69ac94896",
+      "english": "FOREX TRADING SINGAPORE,",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#upperTag",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "COMERCIO FOREX SINGAPUR,"
+    },
+    {
+      "key": "t59120ba5eef1b483",
+      "english": "Demo Forex Trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#tag",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Comercio de divisas de demostración"
+    },
+    {
+      "key": "td1424c0547b2fca3",
+      "english": "DEMO FOREX TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#upperTag",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "DEMOSTRACIÓN DE COMERCIO FOREX"
+    },
+    {
+      "key": "td94c3db2779ebe70",
+      "english": "Walk around the screens before you place a trade. A little time now can save you from mistakes later.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Explore las pantallas antes de realizar una operación. Dedicar un poco de tiempo ahora puede ayudarle a evitar errores más adelante."
+    },
+    {
+      "key": "ta9c54fb52df8da57",
+      "english": "<span data-i18n-slot=\"0\">Practicing Chart Analysis and Technical Indicators</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Practicar análisis de gráficos e indicadores técnicos</span>"
+    },
+    {
+      "key": "t88d48e0f781a0709",
+      "english": "A moving average smooths price over a set time. It can help show a trend. RSI shows how fast and how far price has moved. Neither one can predict the future. Both can mislead you when the market shifts.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Una media móvil suaviza el precio durante un tiempo determinado. Puede ayudar a mostrar una tendencia. El RSI muestra qué tan rápido y hasta dónde se ha movido el precio. Ninguno de los dos puede predecir el futuro. Ambos pueden engañarlo cuando el mercado cambia."
+    },
+    {
+      "key": "tae06b5732de9cfff",
+      "english": "<span data-i18n-slot=\"0\">Practicing Order Placement and Risk Management</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Practicar la colocación de órdenes y la gestión de riesgos</span>"
+    },
+    {
+      "key": "t2371a870f168d48c",
+      "english": "Set your limits before you trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Establezca sus límites antes de operar"
+    },
+    {
+      "key": "t6707ceeab62f3a3a",
+      "english": "<span data-i18n-slot=\"0\">Be careful with leverage. It lets you control more than you put in. That can raise your gains. It can also raise your losses. So use realistic limits. Do not place huge trades in a demo. You would never do that with real money.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tenga cuidado con el apalancamiento. Le permite controlar más de lo que invierte. Eso puede aumentar sus ganancias. También puede aumentar sus pérdidas. Así que utilice límites realistas. No realice grandes operaciones en una demostración. Nunca harías eso con dinero real.</span>"
+    },
+    {
+      "key": "t6e768b8dd06ca5fd",
+      "english": "Keep a Trading Journal",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Mantenga un diario de operaciones"
+    },
+    {
+      "key": "t23e70bd2d58c43a0",
+      "english": "A trading journal is a strong learning tool. Do not just note a win or a loss. Write why you entered. Write what you saw. Write how you managed the trade.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Un diario comercial es una potente herramienta de aprendizaje. No se limite a anotar una victoria o una derrota. Escribe por qué ingresaste. Escribe lo que viste. Escribe cómo gestionaste el comercio."
+    },
+    {
+      "key": "t4e21cec95a84a561",
+      "english": "Your journal can list:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Su diario puede incluir:"
+    },
+    {
+      "key": "tcec0dbcb92ed376d",
+      "english": "Why you took or skipped the trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Por qué aceptó o se saltó la operación"
+    },
+    {
+      "key": "t07bae06626ed1cce",
+      "english": "Know the Limits of Demo Trading",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Conozca los límites del comercio de demostración"
+    },
+    {
+      "key": "t281be1ea08f7c838",
+      "english": "Demos are great for learning. But they miss parts of live trading. Practice orders may run in a different way. The account may not show real liquidity or slippage. It may not show the full effect of the market.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Las demostraciones son excelentes para aprender. Pero se pierden partes del comercio real. Las órdenes de práctica pueden ejecutarse de forma diferente. Es posible que la cuenta no muestre liquidez real o deslizamiento. Puede que no muestre todo el efecto del mercado."
+    },
+    {
+      "key": "t5e1527001c1342a2",
+      "english": "<span data-i18n-slot=\"0\">Treat your demo as a classroom. Do not rush to deposit money. Read the terms, fees and account rules first. This is part of smart research.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Trate su demostración como un salón de clases. No se apresure a depositar dinero. Lea primero los términos, tarifas y reglas de la cuenta. Esto es parte de una investigación inteligente.</span>"
+    },
+    {
+      "key": "t4efdc188ac61636c",
+      "english": "<span data-i18n-slot=\"0\">2. Is MT4 or MT5 better for beginners learning forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. ¿Es MT4 o MT5 mejor para los principiantes que aprenden a operar con divisas?</span>"
+    },
+    {
+      "key": "tc94e06e527e9ae03",
+      "english": "Yes. A demo account lets you study charts and place practice trades. You can test indicators and learn risk control. You do not need to deposit. But demo results can differ from live trading. Order speed and feelings play a role.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Sí. Una cuenta de demostración le permite estudiar gráficos y realizar operaciones de práctica. Puede probar indicadores y aprender a controlar los riesgos. No es necesario depositar. Pero los resultados de la demostración pueden diferir de los del trading real. La velocidad del pedido y los sentimientos influyen."
+    },
+    {
+      "key": "t1c953411728e6443",
+      "english": "Set practice stop-loss and take-profit orders. Work out position sizes. Learn how leverage works. Test your rules in different markets. These steps show you the risks before you go live.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "Establezca órdenes de práctica de stop-loss y take-profit. Calcula los tamaños de las posiciones. Descubra cómo funciona el apalancamiento. Pruebe sus reglas en diferentes mercados. Estos pasos le muestran los riesgos antes de comenzar a funcionar."
+    },
+    {
+      "key": "te4d584c140e9e717",
+      "english": "<span data-i18n-slot=\"0\">Risk Disclosure:</span> Trading CFDs and leveraged products involves significant risk. Make sure you fully understand the risks before trading.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Divulgación de riesgos:</span> Operar con CFD y productos apalancados implica un riesgo significativo. Asegúrese de comprender completamente los riesgos antes de operar."
+    },
+    {
+      "key": "t8087deae2fa955dc",
+      "english": "Forex trading strategy based on market conditions with currency charts and risk management analysis",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#imageAltTag",
+        "SSR:/blogs",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Estrategia de negociación de divisas basada en las condiciones del mercado con gráficos de divisas y análisis de gestión de riesgos"
+    },
+    {
+      "key": "t1f34a70bbf6df613",
+      "english": "Forex Risk Management",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#tag",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Gestión de riesgos de divisas"
+    },
+    {
+      "key": "t9a37d4cb09e086d3",
+      "english": "FOREX RISK MANAGEMENT",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#upperTag",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "GESTIÓN DE RIESGOS FOREX"
+    },
+    {
+      "key": "t787a3b4dae63e843",
+      "english": "The forex market never stands still. Economic data, central bank decisions, politics and investor mood all move prices. A strategy that works in one market can fail in another.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "El mercado de divisas nunca se detiene. Los datos económicos, las decisiones de los bancos centrales, la política y el estado de ánimo de los inversores influyen en los precios. Una estrategia que funciona en un mercado puede fracasar en otro."
+    },
+    {
+      "key": "t5027246920f92523",
+      "english": "This guide shows you how to build a forex trading strategy that fits the market. You will learn how to read different market conditions, set clear rules, manage risk and test your plan. It is for education only and is not financial advice.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Esta guía le muestra cómo crear una estrategia de compraventa de divisas que se adapte al mercado. Aprenderá a leer las diferentes condiciones del mercado, establecer reglas claras, gestionar el riesgo y probar su plan. Es sólo para educación y no es un asesoramiento financiero."
+    },
+    {
+      "key": "te3775e9eae426af4",
+      "english": "Key Takeaways",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "Conclusiones clave"
+    },
+    {
+      "key": "t61639eecc2b3ef74",
+      "english": "Write down your rules before you trade.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Escriba sus reglas antes de operar."
+    },
+    {
+      "key": "tdf9e05d8eb6d0b30",
+      "english": "Test your plan on past data and a demo account.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Pruebe su plan con datos anteriores y una cuenta de demostración."
+    },
+    {
+      "key": "tcf690b5a1bd85fb2",
+      "english": "Range-Bound Markets",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Mercados de rango limitado"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t3730b12dc2a59733",
+      "english": "As trading moves from Sydney to Tokyo, London, and New York, among other major financial centers, the market is open twenty-four hours a day, five days a week. With trillions of dollars changing hands each day, forex is the largest and most liquid market in the world, allowing participants to enter and exit positions quickly and at tight price differences. Whether you’re exchanging money for travel or speculating on exchange-rate moves, forex lets you trade currencies anytime, anywhere.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "A medida que el comercio se traslada de Sydney a Tokio, Londres y Nueva York, entre otros centros financieros importantes, el mercado está abierto las veinticuatro horas del día, cinco días a la semana. Con billones de dólares cambiando de manos cada día, Forex es el mercado más grande y líquido del mundo, lo que permite a los participantes entrar y salir de posiciones rápidamente y con diferencias de precios ajustadas. Ya sea que esté intercambiando dinero para viajar o especulando sobre los movimientos del tipo de cambio, Forex le permite operar con divisas en cualquier momento y en cualquier lugar."
+    },
+    {
+      "key": "t8bcbfe9f9fccbcfb",
+      "english": "The forex market runs on a global network of banks and brokers, not a single exchange. Every trade involves two currencies—called a pair—like EUR/USD. When you place an order, your broker finds someone else who wants the opposite trade and matches you instantly.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "El mercado de divisas funciona a través de una red global de bancos y corredores, no de una única bolsa. Cada operación involucra dos monedas, llamadas par, como EUR/USD. Cuando realiza una orden, su corredor encuentra a otra persona que quiere la operación opuesta y la iguala al instante."
+    },
+    {
+      "key": "t8957dbac8df32388",
+      "english": "<span data-i18n-slot=\"0\">Where Is It?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Dónde está?</span>"
+    },
+    {
+      "key": "t3c59cef884b9cba8",
+      "english": "<span data-i18n-slot=\"0\">You’ll find a diverse mix of players in the currency market. Major global banks and hedge funds account for the lion’s share of volume, using it to manage risk and global cash flows. Multinational corporations hedge their overseas earnings and expenses. Individual investors—once shut out—now trade via online platforms, speculating on exchange-rate moves or adding currency exposure to their portfolios. Even central banks occasionally step in to support or curb their nation’s currency value. This broad participation ensures deep liquidity and continuous price action.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Encontrará una combinación diversa de actores en el mercado de divisas. Los principales bancos y fondos de cobertura mundiales representan la mayor parte del volumen y lo utilizan para gestionar el riesgo y los flujos de efectivo globales. Las corporaciones multinacionales cubren sus ganancias y gastos en el extranjero. Los inversores individuales, antes excluidos, ahora comercian a través de plataformas en línea, especulando sobre los movimientos del tipo de cambio o añadiendo exposición cambiaria a sus carteras. Incluso los bancos centrales intervienen ocasionalmente para apoyar o frenar el valor de la moneda de su nación. Esta amplia participación garantiza una profunda liquidez y una acción continua del precio.</span>"
+    },
+    {
+      "key": "tebb22febdcd0b797",
+      "english": "<span data-i18n-slot=\"0\">What Is Forex Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es el comercio de divisas?</span>"
+    },
+    {
+      "key": "t2cdf0fee1a737c62",
+      "english": "The process of purchasing and selling currencies with the intention of turning a profit is called <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">forex trading</span></span>, sometimes referred to as currency trading or foreign exchange trading. You exchange your rupees for dollars. When the value of the dollar rises compared to the rupee, you technically make a profit if you exchange it back. That simple concept is the heart of forex trading—except it’s done online, on a much bigger scale, and involves traders from all over the world",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "El proceso de compra y venta de divisas con la intención de obtener ganancias se denomina <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">comercio de divisas</span></span>, a veces denominado comercio de divisas o comercio de divisas. Cambias tus rupias por dólares. Cuando el valor del dólar aumenta en comparación con la rupia, técnicamente obtienes una ganancia si lo vuelves a cambiar. Ese concepto simple es el corazón del comercio de divisas, excepto que se realiza en línea, a una escala mucho mayor e involucra a operadores de todo el mundo."
+    },
+    {
+      "key": "t1e7d99a1db69e6ed",
+      "english": "These trades occur in pairs—every “buy” has a corresponding “sell.” For every pair, platforms show two prices: the ask (the price you can purchase at) and the bid (the price you can sell at). The broker's fee is the difference, often known as the spread. In order to control a larger position with a little deposit, traders frequently employ leverage, borrowing money.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Estas operaciones se realizan en pares: cada \"compra\" tiene su correspondiente \"venta\". Para cada par, las plataformas muestran dos precios: el de demanda (el precio al que puedes comprar) y el de oferta (el precio al que puedes vender). La comisión del corredor es la diferencia, a menudo conocida como diferencial. Para controlar una posición más grande con un pequeño depósito, los operadores frecuentemente emplean apalancamiento y piden dinero prestado."
+    },
+    {
+      "key": "t900abe0e5d88703e",
+      "english": "Use leverage with caution. It might raise your losses even though it allows you to manage big deals with a modest commitment. Many experienced traders prefer using low-to-moderate leverage to stay safe during market swings.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Utilice el apalancamiento con precaución. Podría aumentar sus pérdidas aunque le permita gestionar grandes negocios con un compromiso modesto. Muchos operadores experimentados prefieren utilizar un apalancamiento bajo a moderado para mantenerse seguros durante las oscilaciones del mercado."
+    },
+    {
+      "key": "t5ee57dd52fd37825",
+      "english": "Lastly, always keep track of your trades. Maintaining a trading journal—where you log entry and exit points, reasons behind your trades, and the outcomes—can reveal patterns in your performance and help you improve your strategies.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Por último, siempre realice un seguimiento de sus operaciones. Mantener un diario de operaciones (donde registre los puntos de entrada y salida, los motivos de sus operaciones y los resultados) puede revelar patrones en su desempeño y ayudarlo a mejorar sus estrategias."
+    },
+    {
+      "key": "t6fc9d43964399ec1",
+      "english": "<span data-i18n-slot=\"0\">Examine your documents: </span>Keep track of every trade, including entry and exit points and the rationale behind your choices, so you can gain knowledge as you go.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Examine sus documentos: </span>realice un seguimiento de cada operación, incluidos los puntos de entrada y salida y el fundamento de sus elecciones, para que pueda adquirir conocimientos a medida que avanza."
+    },
+    {
+      "key": "tdb61977d579a2e53",
+      "english": "<span data-i18n-slot=\"0\">How To Start Trading Forex</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cómo empezar a operar en Forex</span>"
+    },
+    {
+      "key": "td50036fa86c53098",
+      "english": "<span data-i18n-slot=\"0\">Here's a to-do list to get you started:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Aquí tienes una lista de tareas pendientes para empezar:</span>"
+    },
+    {
+      "key": "t26f4f6752f963f5d",
+      "english": "<span data-i18n-slot=\"0\">Create a trading plan: </span>Discover the many trading techniques, including news trading, fundamental analysis, and numerous technical analysis techniques. Depending on your trading style and risk tolerance, choose a trading strategy.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cree un plan comercial: </span>Descubra las numerosas técnicas comerciales, incluido el comercio de noticias, el análisis fundamental y numerosas técnicas de análisis técnico. Dependiendo de su estilo comercial y tolerancia al riesgo, elija una estrategia comercial."
+    },
+    {
+      "key": "tb7071140d5562668",
+      "english": "<span data-i18n-slot=\"0\">Create an account with a brokerage:</span> Choose a broker who is subject to regulation by a respectable financial body, like the Commodities Futures Trading Commission (CFTC) in the United States. Make sure the broker has reasonable costs, a user-friendly trading platform, and excellent customer service. For inspiration.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cree una cuenta con una correduría:</span> elija un corredor que esté sujeto a la regulación de un organismo financiero respetable, como la Comisión de Comercio de Futuros de Productos Básicos (CFTC) en los Estados Unidos. Asegúrese de que el corredor tenga costos razonables, una plataforma comercial fácil de usar y un excelente servicio al cliente. Para inspirarte."
+    },
+    {
+      "key": "ta910d114b150d5a4",
+      "english": "Yes, Forex trading can be good for beginners—but only if approached the right way. Forex trading can be a suitable starting point for those new to financial markets, as it offers a relatively accessible entry with small capital, flexible trading hours, and plenty of learning opportunities. When they first start trading, many novices investigate the currency market, frequently utilizing demo accounts to obtain practical experience before making real money investments.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Sí, las operaciones de cambio pueden ser buenas para los principiantes, pero sólo si se abordan de la manera correcta. El comercio de divisas puede ser un punto de partida adecuado para quienes son nuevos en los mercados financieros, ya que ofrece una entrada relativamente accesible con un capital pequeño, horarios de negociación flexibles y muchas oportunidades de aprendizaje. Cuando comienzan a operar, muchos principiantes investigan el mercado de divisas y frecuentemente utilizan cuentas de demostración para obtener experiencia práctica antes de realizar inversiones con dinero real."
+    },
+    {
+      "key": "t9242575642a37d1a",
+      "english": "<span data-i18n-slot=\"0\">Why Forex Is Hard to Trade ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Por qué es difícil operar en Forex?</span>"
+    },
+    {
+      "key": "tc965a4971e2fedad",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Market volatility and speed</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Volatilidad y velocidad del mercado</span></span>"
+    },
+    {
+      "key": "t182842908615c132",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Leverage increases both profits and losses</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">El apalancamiento aumenta tanto las ganancias como las pérdidas</span></span>"
+    },
+    {
+      "key": "t8e69abb8abaccc20",
+      "english": "Trading forex may be emotionally draining. Typical psychological traps consist of:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Operar en Forex puede ser emocionalmente agotador. Las trampas psicológicas típicas consisten en:"
+    },
+    {
+      "key": "t589fb87a9aed1650",
+      "english": "Spreads and fees, though seemingly minor, can accumulate over time and significantly impact overall profitability—particularly for frequent traders. To realize any profit, a trader must first offset these costs.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Los diferenciales y las tarifas, aunque aparentemente menores, pueden acumularse con el tiempo y afectar significativamente la rentabilidad general, especialmente para los operadores frecuentes. Para obtener cualquier beneficio, un comerciante primero debe compensar estos costos."
+    },
+    {
+      "key": "t2a9c79a95f3e990d",
+      "english": "Benefits of Forex Trading",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading#content",
+        "SSR:/blogs/forex-trading"
+      ],
+      "translation": "Beneficios del comercio de divisas"
+    },
+    {
+      "key": "t8f38c219c2699e03",
+      "english": "<span data-i18n-slot=\"0\">Trade 50+ Major, Minor &amp; Exotic Currency Pairs <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> Including EUR/USD, GBP/USD, USD/JPY, and more. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading#content",
+        "SSR:/blogs/forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Opere con más de 50 pares de divisas principales, menores y exóticos <span data-i18n-slot=\"1\">: </span></span><span data-i18n-slot=\"2\">, incluidos EUR/USD, GBP/USD, USD/JPY y más. </span>"
+    },
+    {
+      "key": "tdccb237862c38282",
+      "english": "<span data-i18n-slot=\"0\">Fast Execution with No Requotes <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> Enjoy low latency and direct market access (DMA) trading. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading#content",
+        "SSR:/blogs/forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ejecución rápida sin recotizaciones <span data-i18n-slot=\"1\">: </span></span><span data-i18n-slot=\"2\"> Disfrute de baja latencia y operaciones con acceso directo al mercado (DMA). </span>"
+    },
+    {
+      "key": "tb7dcc6eacaa2f260",
+      "english": "<span data-i18n-slot=\"0\">Leverage Up to 1:300 <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> Amplify your trading potential with customizable leverage. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading#content",
+        "SSR:/blogs/forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Apalancamiento de hasta 1:300 <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> Amplifique su potencial comercial con un apalancamiento personalizable. </span>"
+    },
+    {
+      "key": "t6d7eb077c5bd035d",
+      "english": "<span data-i18n-slot=\"0\">What is a Tariff?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es una Tarifa?</span>"
+    },
+    {
+      "key": "tcbff4cb11283cac3",
+      "english": "<span data-i18n-slot=\"0\">What is a Reciprocal Tariff?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es una tarifa recíproca?</span>"
+    },
+    {
+      "key": "t337c98b0017db262",
+      "english": "<span data-i18n-slot=\"0\">Footwear and apparel stocks take a hit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Las acciones de calzado y confección se ven afectadas</span>"
+    },
+    {
+      "key": "t9d32030ac2ad9b16",
+      "english": "<span data-i18n-slot=\"0\">Here's how these stocks fared following the tariff announcement:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Así es como les fue a estas acciones luego del anuncio de aranceles:</span>"
+    },
+    {
+      "key": "tb381f92749f03faf",
+      "english": "<span data-i18n-slot=\"0\">M-Cap</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Capitalización bursátil</span>"
+    },
+    {
+      "key": "t5a1fc13d269b9535",
+      "english": "Adidas (Global)",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "adidas (mundial)"
+    },
+    {
+      "key": "t8dca8a8d0eee6d85",
+      "english": "When production costs rise sharply due to tariffs, so does investor fear.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "Cuando los costes de producción suben bruscamente por los aranceles, también aumenta el temor de los inversores."
+    },
+    {
+      "key": "ta42b5ca2e01de5c4",
+      "english": "<span data-i18n-slot=\"0\">Tariffs rattle US dollar, other asset classes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los aranceles sacuden al dólar estadounidense y a otras clases de activos</span>"
+    },
+    {
+      "key": "td255bf1a034cd108",
+      "english": "The selloff was not just limited to stocks. The ripple effects were felt across currencies, bonds, and volatility indexes.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "La liquidación no se limitó sólo a las acciones. Los efectos dominó se sintieron en las monedas, los bonos y los índices de volatilidad."
+    },
+    {
+      "key": "t3844bf864075dab2",
+      "english": "The content is meant for education and general information purposes only. Investments in the securities market are subject to market risks, read all the related documents carefully before investing. Past performance is not indicative of future returns. The securities are quoted as an example and not as a recommendation. This in no way is to be construed as financial advice or a recommendation to invest in any specific stock or financial instrument. The Company strongly encourages its users/viewers to conduct their own research, and consult with a registered financial advisor before making any investment decisions. All disputes in relation to the content would not have access to an exchange investor redressal forum or arbitration mechanism. INDmoney Global (IFSC) Private Limited, Unit No. GA-02, Seat No. 1-4, Ground Floor, Pragya Accelerator Block-15 T, Road 11, Zone-1, Processing Area, GIFT SEZ, Gift City, Gandhinagar, Gujarat, India, 382355 IFSCA Broker-Dealer Registration No. IFSC/BD/2023-24/0016, IFSCA DP Reg No: IFSC/DP/2023-24/010.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "El contenido está destinado únicamente a fines educativos y de información general. Las inversiones en el mercado de valores están sujetas a riesgos de mercado, lea atentamente todos los documentos relacionados antes de invertir. El rendimiento pasado no es indicativo de rendimientos futuros. Los valores se citan como ejemplo y no como recomendación. Esto de ninguna manera debe interpretarse como un asesoramiento financiero o una recomendación para invertir en acciones o instrumentos financieros específicos. La Compañía recomienda encarecidamente a sus usuarios/espectadores que realicen su propia investigación y consulten con un asesor financiero registrado antes de tomar cualquier decisión de inversión. Todas las disputas en relación con el contenido no tendrían acceso a un foro de reparación de inversionistas o a un mecanismo de arbitraje. INDmoney Global (IFSC) Private Limited, Unidad No. GA-02, Asiento No. 1-4, Planta Baja, Pragya Accelerator Block-15 T, Road 11, Zona-1, Área de Procesamiento, GIFT SEZ, Gift City, Gandhinagar, Gujarat, India, 382355 IFSCA Broker-Dealer Registro No. IFSC/BD/2023-24/0016, Registro DP de IFSCA n.º: IFSC/DP/2023-24/010."
+    }
+  ]
+}

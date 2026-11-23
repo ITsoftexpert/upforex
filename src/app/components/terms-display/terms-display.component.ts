@@ -1,10 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { TermsService, TermsData } from '../../core/services/terms.service';
-import jsPDF from 'jspdf';
-import html2canvas from 'html2canvas';
 
 @Component({
+  standalone: false,
   selector: 'app-terms-display',
   templateUrl: './terms-display.component.html',
   styleUrls: ['./terms-display.component.scss']
@@ -79,36 +78,39 @@ export class TermsDisplayComponent implements OnInit {
       height: element.offsetHeight
     };
 
-    html2canvas(element, options).then((canvas) => {
-      const imgData = canvas.toDataURL('image/png');
+    // Load PDF rendering only when requested, keeping it out of page startup.
+    Promise.all([import('html2canvas'), import('jspdf')]).then(([canvasModule, pdfModule]) => {
+      return canvasModule.default(element, options).then((canvas) => {
+        const imgData = canvas.toDataURL('image/png');
 
-      // Create PDF
-      const pdf = new jsPDF('p', 'mm', 'a4');
-      const pdfWidth = pdf.internal.pageSize.getWidth();
-      const pdfHeight = pdf.internal.pageSize.getHeight();
+        // Create PDF
+        const pdf = new pdfModule.jsPDF('p', 'mm', 'a4');
+        const pdfWidth = pdf.internal.pageSize.getWidth();
+        const pdfHeight = pdf.internal.pageSize.getHeight();
 
-      // Calculate image dimensions
-      const imgWidth = pdfWidth - 20; // 10mm margin on each side
-      const imgHeight = (canvas.height * imgWidth) / canvas.width;
+        // Calculate image dimensions
+        const imgWidth = pdfWidth - 20; // 10mm margin on each side
+        const imgHeight = (canvas.height * imgWidth) / canvas.width;
 
-      let heightLeft = imgHeight;
-      let position = 10; // Top margin
+        let heightLeft = imgHeight;
+        let position = 10; // Top margin
 
-      // Add first page
-      pdf.addImage(imgData, 'PNG', 10, position, imgWidth, imgHeight);
-      heightLeft -= (pdfHeight - 20); // Account for margins
-
-      // Add additional pages if needed
-      while (heightLeft >= 0) {
-        position = heightLeft - imgHeight + 10;
-        pdf.addPage();
+        // Add first page
         pdf.addImage(imgData, 'PNG', 10, position, imgWidth, imgHeight);
-        heightLeft -= (pdfHeight - 20);
-      }
+        heightLeft -= (pdfHeight - 20); // Account for margins
 
-      // Download the PDF
-      pdf.save(`terms-and-conditions-${this.terms?.version}.pdf`);
-      this.downloadingPdf = false; // Reset loading state
+        // Add additional pages if needed
+        while (heightLeft >= 0) {
+          position = heightLeft - imgHeight + 10;
+          pdf.addPage();
+          pdf.addImage(imgData, 'PNG', 10, position, imgWidth, imgHeight);
+          heightLeft -= (pdfHeight - 20);
+        }
+
+        // Download the PDF
+        pdf.save(`terms-and-conditions-${this.terms?.version}.pdf`);
+        this.downloadingPdf = false; // Reset loading state
+      });
     }).catch((error) => {
       console.error('Error generating PDF:', error);
       this.downloadingPdf = false; // Reset loading state

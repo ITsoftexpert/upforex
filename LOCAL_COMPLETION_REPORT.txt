@@ -1,0 +1,46 @@
+FRONTEND-ONLY LOCAL RELEASE REVIEW
+Checked: 2026-11-23T08:50:50.029Z
+Status: FRONTEND_LOCAL_CHECKS_PASS
+Frontend local checks: PASS; live CMS content match: VERIFIED; production hosting: UNVERIFIED. Backend changed: NO.
+
+CHANGES
+Public blog reads now use a frontend-owned cached gateway. The locked backend and authenticated admin/contact routes are unchanged.
+Listing projects only card fields; full original article HTML is available on detail pages. Existing 61 public records are a versioned server snapshot, not a browser bundle.
+Refresh is coalesced, bounded to eight seconds and runs outside Angular request stability; cached SSR does not wait for it. Successful refresh persists locally where configured.
+Real source dates/staleness are exposed at /api/public-cms-status. Invalid/absent cache returns 503; valid old public content stays available during outages.
+
+REQUIRED CHECKS
+npm ci: PASS (tmp/release-npm-ci.log)
+npm run build:ssr: PASS (tmp/release-build-ssr.log)
+npm run test:i18n: PASS (tmp/release-test-i18n.log)
+npm run test:regression: PASS (tmp/release-test-regression.log)
+npm run test:server: PASS (tmp/release-test-server.log)
+npm run test:performance: PASS (tmp/release-test-performance.log)
+npm audit --json: PASS (tmp/release-npm-audit.json)
+npm run verify:seo -- --require-complete: PASS (tmp/release-verify-seo.log)
+npm run verify:ssr-i18n -- --require-complete: PASS (tmp/release-verify-ssr-i18n.log)
+i18n tests: 12 cache + 100 pipeline + 198 Angular; main regression 50; HTTP/cache 34; compression 13.
+Actual HTTP 13; production browser 22 (includes Load More, translated UI and visible video playback).
+Dependency audit: 0 known vulnerabilities.
+Strict SEO and independent strict SSR i18n: 1110/1110 translated initial bodies; missing 0. Scope: cached existing English source. A separate full live-record comparison below confirms the current content match.
+Sheet gate: 312 metadata rows, 5 aliases, 2 account actions, 1 approved 404 exclusion, 10 homepage hreflang rows, 111 email-link pages.
+
+PRESERVATION
+1370 HTML/SCSS/JSON/catalog files unchanged from the previous local verified source; includes current Home video fitting and styles.
+Verified main base: 34dd59577c54541b6286982a9341d534884b108a. This validation snapshot was recorded before the separately authorized Git publishing step; no deployment was performed.
+
+SPEED
+First-page public JSON: 745459 -> 7670 bytes (98.97% smaller). Actual local SSR/cache measurements: tmp/frontend-only/cache-performance.json.
+Current cold-cache mobile homepage median LCP 2908 ms; FCP 1012 ms; TTFB 388 ms; CLS 0.0894; bytes 1882980.
+These are local samples, not a live PageSpeed score. Existing deferred video, WOFF2, compressed assets and per-page catalogs are preserved. Large remote media still need owner optimization: MEDIA_OPTIMIZATION_REQUESTS.txt.
+
+CMS / PRODUCTION LIMITATION
+Bundled public data: 61 articles, fetched 2026-11-21T10:21:25.899Z; source SHA256 a06813964d1993763fadcf430f471e09e79d4ff629375071a5c52e84992345c7.
+Earlier public API reads timed out/returned 522. A later full public refresh succeeded; all 61 records match the bundled source except category array order. Freshness proof: tmp/frontend-only/live-source-equivalence.json. The cache covers intermittent outages; it cannot restore the backend.
+Contact/auth/admin remain on the original backend; real live writes were not tested. Hosting/Cloudflare edge must be checked after owner deployment.
+
+OWNER RUN / HOSTING
+Inside merged-upforex: npm ci; npm run build:ssr; npm run serve:ssr. Open http://localhost:4000.
+Keep the Node SSR server and matching browser/server output together. Forward /api/public/blogs and /api/public-cms-status to this frontend process. Browser-only static upload does not provide the native SSR/gateway.
+Full instructions: FRONTEND_ONLY_RELEASE.txt. Treat this as a locally verified frontend with cached source, not a guarantee that all live services are healthy.
+No paid API requests, backend edits, Git push, Jenkins run or live deployment.

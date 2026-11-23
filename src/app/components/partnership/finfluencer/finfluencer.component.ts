@@ -4,6 +4,7 @@ import { Store } from 'src/app/Store/store';
 import { Router } from '@angular/router';
 
 @Component({
+  standalone: false,
   selector: 'app-finfluencer',
   templateUrl: './finfluencer.component.html',
   styleUrls: ['./finfluencer.component.scss'],

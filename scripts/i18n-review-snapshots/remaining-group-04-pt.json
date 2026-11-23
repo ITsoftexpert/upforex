@@ -1,0 +1,117 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t03d93d544370292e",
+      "english": "<span data-i18n-slot=\"0\">Trading commissions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comissões de negociação.</span>"
+    },
+    {
+      "key": "t13f12caa5873f1a8",
+      "english": "<span data-i18n-slot=\"0\">These expenses can affect the overall trading result, especially when positions are held for longer periods or trades are opened frequently.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Estas despesas podem afetar o resultado global da negociação, especialmente quando as posições são mantidas por períodos mais longos ou as negociações são abertas com frequência.</span>"
+    },
+    {
+      "key": "t52ee1d4e85a1e288",
+      "english": "<span data-i18n-slot=\"0\">Trade Management</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Gestão de operações</span>"
+    },
+    {
+      "key": "t076a05182eba2b74",
+      "english": "<span data-i18n-slot=\"0\">Before taking your first step, here are some important things worth understanding about the forex market.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Antes de dar o primeiro passo, aqui estão algumas coisas importantes que vale a pena entender sobre o mercado cambial.</span>"
+    },
+    {
+      "key": "t04f897f64e4a040c",
+      "english": "<span data-i18n-slot=\"0\">Before placing a trade, you should understand the different categories of currency pairs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Antes de fazer uma negociação, você deve compreender as diferentes categorias de pares de moedas.</span>"
+    },
+    {
+      "key": "t4c17faebd8f6fc69",
+      "english": "<span data-i18n-slot=\"0\">Are There Additional Trading Charges?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Existem encargos adicionais de negociação?</span>"
+    },
+    {
+      "key": "t259578980cc4c4e0",
+      "english": "<span data-i18n-slot=\"0\">Trading commissions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comissões de negociação</span>"
+    },
+    {
+      "key": "ta967030c7381c216",
+      "english": "<span data-i18n-slot=\"0\">5. Understand Leverage and Margin Before Opening a Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5. Compreenda a alavancagem e a margem antes de abrir uma negociação</span>"
+    },
+    {
+      "key": "t6db1c2104d41ac9a",
+      "english": "<span data-i18n-slot=\"0\">Multiple chart timeframes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Vários prazos de gráfico</span>"
+    },
+    {
+      "key": "t6c551441ca68f91d",
+      "english": "<span data-i18n-slot=\"0\">Different order types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferentes tipos de ordens</span>"
+    },
+    {
+      "key": "t320b85cfbef58f7f",
+      "english": "<span data-i18n-slot=\"0\">Trade history and account monitoring</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Histórico de operações e monitoramento da conta</span>"
+    }
+  ]
+}

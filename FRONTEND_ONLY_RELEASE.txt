@@ -1,0 +1,41 @@
+FRONTEND-ONLY RELEASE - LOCAL PROJECT
+
+No backend edit, paid API, Git push or deployment is part of this release.
+The prepared sibling backend and old paired ZIP are not prerequisites and are not the current delivery.
+
+FROM THE merged-upforex DIRECTORY
+1. Use Node 24 LTS (the local checks use Node 24.18.0).
+2. npm ci
+3. npm run build:ssr
+4. npm run test:i18n
+5. npm run test:regression
+6. npm run test:server
+7. npm run test:performance
+8. npm run verify:seo -- --require-complete
+9. npm run verify:ssr-i18n -- --require-complete
+10. npm run verify:sheets
+11. npm run serve:ssr  (default port 4000)
+
+HOSTING
+The reverse proxy must forward public pages AND /api/public/blogs and /api/public-cms-status to the frontend Node SSR process. Serve dist/upforex_Frontend/browser assets normally. Include dist/upforex_Frontend/server/data/public-blog-snapshot.json; build:ssr creates it automatically.
+Do not upload just the browser directory to Apache: native initial SSR and the gateway require Node. Keep all existing HTTPS/hostname rules. Do not forward /api/public/blogs to the locked API backend.
+For ng serve on port 4200, also run npm run serve:ssr on port 4000; proxy.conf.json forwards the public gateway to it. Use port 4000 to test production SSR/SEO.
+
+CMS CACHE AND FRESHNESS
+Only already-public English CMS articles are cached. The original stored IDs, copy and categories are retained. Existing reviewed copy corrections still run in WebBlogService.
+The bundled source was fetched 2026-11-21T10:21:25.899Z: 61 articles. Initial body text has not been regenerated or invented.
+A single background refresh uses the existing full public GET contract, at most once every five minutes on traffic, with an eight-second total deadline, bounded payload/count and one in-flight request per Node process. Failures retry at most once per minute. Cached requests do not wait for it.
+Successful complete inventory replaces previous records, including deletions; a failed/partial inventory does not replace valid saved content. New/edited messages revoke native completion through the existing catalog checks until their translations are completed and verified.
+Refresh persistence defaults to var/public-cms/snapshot.json. Give only the frontend process write access to var/public-cms, or set PUBLIC_CMS_CACHE_DIR to a persistent private directory. Never serve this directory statically. Source seed files need only read permission.
+A valid public snapshot remains readable during a CMS outage. It is not automatically deleted at a fixed age: this avoids turning working indexed articles into errors solely because time elapsed. Missing or corrupt content returns 503 instead of an empty success page. There is no fabricated fresh timestamp.
+GET /api/public-cms-status reports usable/stale/fetchedAt/reviewAfter/needsCmsAttention/lastError without secrets. It is no-store and returns 503 when no valid snapshot exists. stale:true means saved content is being served; do not call it fresh CMS verification. needsCmsAttention becomes true after seven days; monitor this and restore CMS service or refresh a reviewed public snapshot. Existing article changes/deletions/new publications are delayed while the upstream is unavailable.
+
+
+SPEED
+The first blog page sends only ten cards, not ten full article bodies/custom scripts. Full HTML remains on article detail pages. The saved 3.7 MB inventory is server data, never main.js or a homepage asset request. Repeated visits do not wait for the production CMS. Brotli/gzip, original deferred video playback, fonts, optimized heroes, chat/PDF deferral and page-scoped language catalogs remain in place.
+No new runtime package or translation API was added. Public frontend route/design/English body changes are not part of this cache fix.
+
+DEPLOYMENT DECISION
+Read LOCAL_COMPLETION_REPORT.txt and tmp/deployment-readiness.json after the checks. Local cached-source passes do not certify current CMS freshness or the actual hosting/CDN.
+The early 23 Nov public API baseline returned 522/timeouts. A later successful full live refresh (2026-11-23T08:18:09.469Z) matched all 61 saved records, with only category-array ordering differences. Fresh evidence is in tmp/frontend-only/live-source-equivalence.json. Availability can still vary. Backend availability, SMTP/contact/registration writes, S3 media replacements and live Cloudflare cache configuration cannot be repaired by this frontend cache. Do not claim those passed.
+After owner deployment, check /api/public-cms-status, real English/Hindi/Arabic initial HTML, redirects, card Load More, videos, canonical/hreflang, contact submission, login/registration and live PageSpeed. Keep the prior release available for rollback.

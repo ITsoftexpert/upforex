@@ -1,0 +1,607 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tc1e55348f552c5b8",
+      "english": "<span data-i18n-slot=\"0\">Competitive spreads</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferenciales competitivos</span>"
+    },
+    {
+      "key": "tb2dfd1ad839dce05",
+      "english": "<span data-i18n-slot=\"0\">Global exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Exposición global</span>"
+    },
+    {
+      "key": "t473341895003b00f",
+      "english": "<span data-i18n-slot=\"0\">However, traders must understand leverage, risks, and counterparty exposure. By choosing a trusted platform like UpForex, traders can access global index markets through a secure, transparent, and user-friendly environment.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sin embargo, los operadores deben comprender el apalancamiento, los riesgos y la exposición de las contrapartes. Al elegir una plataforma confiable como UpForex, los operadores pueden acceder a los mercados de índices globales a través de un entorno seguro, transparente y fácil de usar.</span>"
+    },
+    {
+      "key": "tdf92c2804e428386",
+      "english": "<span data-i18n-slot=\"0\">Risk management is essential for all trading activities. Setting stop-loss and take-profit orders, diversifying your investments, and avoiding over-leveraging are some ways to manage risk effectively. Proper risk management ensures that even if the market moves against your position, your losses remain controlled.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices#content",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La gestión de riesgos es esencial para todas las actividades comerciales. Establecer órdenes de limitación de pérdidas y toma de ganancias, diversificar sus inversiones y evitar el apalancamiento excesivo son algunas formas de gestionar el riesgo de forma eficaz. Una gestión adecuada del riesgo garantiza que, incluso si el mercado se mueve en contra de su posición, sus pérdidas permanezcan controladas.</span>"
+    },
+    {
+      "key": "t897a705cf5293022",
+      "english": "<span data-i18n-slot=\"0\">Open a Trading Account:</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">Register</span></span><span data-i18n-slot=\"4\"> with the platform and complete the verification process.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"></span><span data-i18n-slot=\"7\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices#content",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Abra una cuenta comercial:</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">Regístrese</span></span><span data-i18n-slot=\"4\"> en la plataforma y complete el proceso de verificación.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"></span><span data-i18n-slot=\"7\"></span></span>"
+    },
+    {
+      "key": "te5cd80a259509164",
+      "english": "<span data-i18n-slot=\"0\">Place Your Trade:</span><span data-i18n-slot=\"1\"> Execute your buy or sell orders based on your analysis.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices#content",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Realice su operación:</span><span data-i18n-slot=\"1\"> Ejecute sus órdenes de compra o venta según su análisis.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t731e673192fcc1dd",
+      "english": "<span data-i18n-slot=\"0\">Monitor Your Trades:</span><span data-i18n-slot=\"1\"> Keep track of market changes and adjust your positions as needed.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices#content",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Supervise sus operaciones:</span><span data-i18n-slot=\"1\"> Realice un seguimiento de los cambios del mercado y ajuste sus posiciones según sea necesario.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t43626ab93ac8e6eb",
+      "english": "<span data-i18n-slot=\"0\">Use Demo Accounts:</span><span data-i18n-slot=\"1\"> Many online platforms, including Upforex, offer demo accounts where you can practice trading without risking real money.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices#content",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Utilice cuentas de demostración:</span><span data-i18n-slot=\"1\"> Muchas plataformas en línea, incluida Upforex, ofrecen cuentas de demostración donde puede practicar el comercio sin arriesgar dinero real.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t0cac0c32373c5e44",
+      "english": "<span data-i18n-slot=\"0\">The first and most important step in your journey is selecting a regulated, secure, and transparent trading platform.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#content",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El primer y más importante paso en su viaje es seleccionar una plataforma comercial regulada, segura y transparente.</span>"
+    },
+    {
+      "key": "t794c90fc4fe4728a",
+      "english": "<span data-i18n-slot=\"0\">Two Core Approaches</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#content",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Dos enfoques básicos</span>"
+    },
+    {
+      "key": "t30e355f48c71fa78",
+      "english": "<span data-i18n-slot=\"0\">Practical Guidance for New Traders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#content",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Guía práctica para nuevos operadores</span>"
+    },
+    {
+      "key": "tf4006febfc017d29",
+      "english": "<span data-i18n-slot=\"0\">Conclusion – Trade Gold Confidently with Upforex</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#content",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Conclusión: opere con oro con confianza con Upforex</span>"
+    },
+    {
+      "key": "t1703e18f8d3bb819",
+      "english": "<span data-i18n-slot=\"0\">If you are new to forex trading, one of the first terms you will come across is spread. Many beginners wonder, </span><span data-i18n-slot=\"1\">what is spread in forex and why does it matter?</span><span data-i18n-slot=\"2\"> The answer is simple—spread is a small but important factor that can affect your trading costs and overall profit. Let’s break it down in easy-to-understand language.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Si está empezando en el trading de forex, uno de los primeros términos que encontrará es spread. Muchos principiantes se preguntan: </span><span data-i18n-slot=\"1\">¿qué es el spread en forex y por qué importa?</span><span data-i18n-slot=\"2\"> La respuesta es sencilla: el spread es un factor pequeño pero importante que puede afectar sus costes de negociación y su beneficio total. Vamos a explicarlo con un lenguaje fácil de entender.</span>"
+    },
+    {
+      "key": "t7695f2ab721d4681",
+      "english": "<span data-i18n-slot=\"0\">What Does Spread Mean in Forex Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué significa el diferencial en el comercio de divisas?</span>"
+    },
+    {
+      "key": "tbae8c8046e0deefc",
+      "english": "<span data-i18n-slot=\"0\">In forex trading, spread is the difference between the buy price (also called the </span><span data-i18n-slot=\"1\">ask</span><span data-i18n-slot=\"2\">) and the sell price (also called the </span><span data-i18n-slot=\"3\">bid</span><span data-i18n-slot=\"4\">) of a currency pair. You can think of it as the broker’s fee for executing your trade. Instead of charging you a direct commission, most forex brokers include their charges in the spread.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">En el comercio de divisas, el diferencial es la diferencia entre el precio de compra (también llamado </span><span data-i18n-slot=\"1\">demanda</span><span data-i18n-slot=\"2\">) y el precio de venta (también llamado </span><span data-i18n-slot=\"3\">oferta</span><span data-i18n-slot=\"4\">) de un par de divisas. Puede considerarlo como la tarifa del corredor por ejecutar su operación. En lugar de cobrarle una comisión directa, la mayoría de los corredores de divisas incluyen sus cargos en el diferencial.</span>"
+    },
+    {
+      "key": "te4793b6e3f807a28",
+      "english": "<span data-i18n-slot=\"0\">Why is Spread Important in Forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Por qué es importante el diferencial en Forex?</span>"
+    },
+    {
+      "key": "tc203c736c1f8e01e",
+      "english": "<span data-i18n-slot=\"0\">Understanding what is spread in </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex</span></span><span data-i18n-slot=\"3\"> is important because it directly impacts your cost per trade. A tighter (smaller) spread means you spend less money when entering or exiting a trade. On the other hand, a wider spread increases your trading cost. For scalpers and day traders who place multiple trades in a single day, choosing a broker with low spreads can make a big difference in overall profitability.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comprender qué es el spread en </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex</span></span><span data-i18n-slot=\"3\"> es importante porque afecta directamente al coste de cada operación. Un spread más estrecho implica gastar menos al entrar o salir de una operación. En cambio, uno más amplio aumenta el coste. Para los scalpers y los operadores intradía que realizan varias operaciones en un día, elegir un bróker con spreads bajos puede marcar una gran diferencia en la rentabilidad total.</span>"
+    },
+    {
+      "key": "tb706efa02855277c",
+      "english": "<span data-i18n-slot=\"0\">Types of Spreads in Forex</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tipos de diferenciales en Forex</span>"
+    },
+    {
+      "key": "t5d03c80349f9285d",
+      "english": "<span data-i18n-slot=\"0\">When trading, you will usually come across two types of spreads:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Al operar, normalmente encontrará dos tipos de diferenciales:</span>"
+    },
+    {
+      "key": "t408135147e262fda",
+      "english": "<span data-i18n-slot=\"0\">Fixed Spread</span><span data-i18n-slot=\"1\"> – The gap between bid and ask stays the same, even during volatile market conditions. This gives beginners more predictability in trading costs.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">spread fijo</span><span data-i18n-slot=\"1\">: la brecha entre la oferta y la demanda permanece igual, incluso en condiciones de mercado volátiles. Esto brinda a los principiantes una mayor previsibilidad en los costos comerciales.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t918faa5d694ee2f5",
+      "english": "<span data-i18n-slot=\"0\">Variable Spread</span><span data-i18n-slot=\"1\"> – The spread changes depending on market activity. During high liquidity times (like London or New York sessions), spreads are usually tighter. However, during quiet hours or major news events, spreads can widen.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferencial variable</span><span data-i18n-slot=\"1\">: el diferencial cambia según la actividad del mercado. Durante épocas de alta liquidez (como las sesiones de Londres o Nueva York), los diferenciales suelen ser más ajustados. Sin embargo, durante las horas tranquilas o los eventos noticiosos importantes, los diferenciales pueden ampliarse.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span></span>"
+    },
+    {
+      "key": "t42a418517235081b",
+      "english": "<span data-i18n-slot=\"0\">How Does Spread Affect Profit?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo afecta el diferencial a las ganancias?</span>"
+    },
+    {
+      "key": "tbfdbc1cc51ac1d48",
+      "english": "<span data-i18n-slot=\"0\">Every time you place a trade, the spread acts like your entry cost. For example, if the spread is 2 pips, your trade must move at least 2 pips in your favor before you start making a profit. This is why experienced traders often compare brokers and choose one with consistently low spreads.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cada vez que realiza una operación, el diferencial actúa como su costo de entrada. Por ejemplo, si el diferencial es de 2 pips, su operación debe moverse al menos 2 pips a su favor antes de comenzar a obtener ganancias. Esta es la razón por la que los operadores experimentados suelen comparar corredores y elegir uno con diferenciales consistentemente bajos.</span>"
+    },
+    {
+      "key": "tca4a83c2e589fff2",
+      "english": "<span data-i18n-slot=\"0\">Now that you know what is spread in forex, you can see how it plays a vital role in trading. It may seem like a small detail, but in reality, understanding spreads can help you reduce costs and improve your overall trading results. As a beginner, always pay attention to spreads when selecting a broker or planning your strategy.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ahora que sabe qué es el spread en forex, puede ver su papel fundamental en el trading. Puede parecer un detalle menor, pero comprenderlo puede ayudarle a reducir costes y mejorar sus resultados totales. Como principiante, preste siempre atención a los spreads al elegir un bróker o planificar una estrategia.</span>"
+    },
+    {
+      "key": "t79945aa194e46fc5",
+      "english": "<span data-i18n-slot=\"0\">Q1. What is spread in forex trading?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans.</span><span data-i18n-slot=\"4\"> Spread in forex is the difference between the bid (sell) price and the ask (buy) price of a currency pair. It represents the broker’s fee for executing your trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q1. ¿Qué es el spread en el trading de forex? </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Respuesta.</span><span data-i18n-slot=\"4\"> Es la diferencia entre el precio bid (venta) y el precio ask (compra) de un par de divisas. Representa la tarifa del bróker por ejecutar la operación.</span>"
+    },
+    {
+      "key": "t740fc3582cd28da2",
+      "english": "<span data-i18n-slot=\"0\">Q2. Why is spread important in forex?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans.</span><span data-i18n-slot=\"4\"> Spread affects your trading cost. A lower spread means you pay less when entering or exiting trades, which can improve your profits over time.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q2. ¿Por qué es importante el diferencial en Forex?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Respuesta.</span><span data-i18n-slot=\"4\"> El diferencial afecta el costo de sus operaciones. Un diferencial más bajo significa que paga menos al entrar o salir de operaciones, lo que puede mejorar sus ganancias con el tiempo.</span>"
+    },
+    {
+      "key": "t5a05cc401c4f0940",
+      "english": "<span data-i18n-slot=\"0\">Q3. What is the difference between fixed and variable spread?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans.</span><span data-i18n-slot=\"4\"> A fixed spread stays the same regardless of market conditions, while a variable spread changes based on liquidity and volatility.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q3. ¿Cuál es la diferencia entre diferencial fijo y variable?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Respuesta.</span><span data-i18n-slot=\"4\"> Un diferencial fijo permanece igual independientemente de las condiciones del mercado, mientras que un diferencial variable cambia según la liquidez y la volatilidad.</span>"
+    },
+    {
+      "key": "t65d3778cea4d0420",
+      "english": "<span data-i18n-slot=\"0\">Q4. How do spreads affect profit in forex trading?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans.</span><span data-i18n-slot=\"4\"> Your trade must first cover the spread before you start making a profit. For example, if the spread is 2 pips, the market needs to move at least 2 pips in your favor to break even.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q4. ¿Cómo afectan los diferenciales a las ganancias en el comercio de divisas?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Respuesta.</span><span data-i18n-slot=\"4\"> Su operación primero debe cubrir el diferencial antes de comenzar a obtener ganancias. Por ejemplo, si el diferencial es de 2 pips, el mercado necesita moverse al menos 2 pips a su favor para alcanzar el punto de equilibrio.</span>"
+    },
+    {
+      "key": "t712a00cf4a9c71e3",
+      "english": "<span data-i18n-slot=\"0\">Q5. What are pips in forex spreads?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans</span><span data-i18n-slot=\"4\">. A pip is the smallest unit of movement in a currency pair, usually the fourth decimal place. Spreads are measured in pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">P5. ¿Qué son los pips en los diferenciales de divisas?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Respuesta</span><span data-i18n-slot=\"4\">. Un pip es la unidad de movimiento más pequeña en un par de divisas, normalmente el cuarto decimal. Los diferenciales se miden en pips.</span>"
+    },
+    {
+      "key": "t891120f1040250e1",
+      "english": "<span data-i18n-slot=\"0\">Q6. Do all forex brokers charge spreads?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans</span><span data-i18n-slot=\"4\">. Most brokers earn through spreads, but some also charge a small commission along with very low spreads, especially on professional trading accounts.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">P6. ¿Todos los corredores de divisas cobran diferenciales?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Respuesta</span><span data-i18n-slot=\"4\">. La mayoría de los corredores ganan a través de diferenciales, pero algunos también cobran una pequeña comisión junto con diferenciales muy bajos, especialmente en cuentas comerciales profesionales.</span>"
+    },
+    {
+      "key": "t18ba8071120a2e9d",
+      "english": "<span data-i18n-slot=\"0\">Q7. Why do spreads change during news or market events?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans</span><span data-i18n-slot=\"4\">. During major news releases or low liquidity periods, spreads can widen because of higher uncertainty and risk for brokers.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">P7. ¿Por qué los diferenciales cambian durante las noticias o eventos del mercado?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Respuesta</span><span data-i18n-slot=\"4\">. Durante los comunicados de prensa importantes o los períodos de baja liquidez, los diferenciales pueden ampliarse debido a una mayor incertidumbre y riesgo para los corredores.</span>"
+    },
+    {
+      "key": "t0b21fa90b5ca8c94",
+      "english": "<span data-i18n-slot=\"0\">Q8. How can I reduce the impact of spreads on my trading?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans</span><span data-i18n-slot=\"4\">. You can reduce spread costs by choosing a broker with tight spreads, trading during high liquidity hours, and avoiding volatile news events.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">P8. ¿Cómo puedo reducir el impacto de los diferenciales en mis operaciones?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Respuesta</span><span data-i18n-slot=\"4\">. Puede reducir los costos de diferenciales eligiendo un corredor con diferenciales ajustados, operando durante horas de alta liquidez y evitando noticias volátiles.</span>"
+    },
+    {
+      "key": "tc5c3f852f6f24622",
+      "english": "<span data-i18n-slot=\"0\">If you are looking for a trading plan that doesn’t require sitting in front of the screen all day, the 1 hour forex strategy could be a great choice. It gives you enough trading opportunities while keeping the process simple and less stressful. Many beginners and even experienced traders prefer this approach because it balances time, analysis, and results.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Si está buscando un plan comercial que no requiera sentarse frente a la pantalla todo el día, la estrategia Forex de 1 hora podría ser una excelente opción. Le brinda suficientes oportunidades comerciales y al mismo tiempo mantiene el proceso simple y menos estresante. Muchos principiantes e incluso operadores experimentados prefieren este enfoque porque equilibra el tiempo, el análisis y los resultados.</span>"
+    },
+    {
+      "key": "t63646b3f15399065",
+      "english": "<span data-i18n-slot=\"0\">Balance of Time:</span><span data-i18n-slot=\"1\"> It offers more setups than the daily chart, but fewer distractions than scalping strategies.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Equilibrio de tiempo:</span><span data-i18n-slot=\"1\"> Ofrece más configuraciones que el gráfico diario, pero menos distracciones que las estrategias de especulación.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "te6659f907505175e",
+      "english": "<span data-i18n-slot=\"0\">2. Wait for a Pullback</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. Espere un retroceso</span>"
+    },
+    {
+      "key": "td621b4d097686e42",
+      "english": "<span data-i18n-slot=\"0\">Decide in advance where you will enter, set your stop loss, and plan your take profit. For example, you might risk 1% of your account on each trade and aim for at least a 1:2 reward-to-risk ratio.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Decida de antemano dónde ingresará, establezca su límite de pérdidas y planifique su obtención de ganancias. Por ejemplo, podría arriesgar el 1&nbsp;% de su cuenta en cada operación y aspirar a obtener al menos una relación recompensa-riesgo de 1:2.</span>"
+    },
+    {
+      "key": "tdca3490c79bf48e0",
+      "english": "<span data-i18n-slot=\"0\">Don’t Overtrade:</span><span data-i18n-slot=\"1\"> Just because you see movement doesn’t mean you should enter every trade.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No realices operaciones excesivas:</span><span data-i18n-slot=\"1\"> El hecho de que veas movimiento no significa que debas realizar todas las operaciones.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t94f07c6c08832d12",
+      "english": "<span data-i18n-slot=\"0\">Combine Time Frames:</span><span data-i18n-slot=\"1\"> Check higher time frames (like 4-hour or daily) to confirm the overall trend.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Combinar períodos de tiempo:</span><span data-i18n-slot=\"1\"> marque períodos de tiempo más altos (como 4 horas o diarios) para confirmar la tendencia general.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t8b89f6bad77285cc",
+      "english": "<span data-i18n-slot=\"0\">Keep a Journal:</span><span data-i18n-slot=\"1\"> Record your trades, mistakes, and wins. This helps you improve faster.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Lleve un diario:</span><span data-i18n-slot=\"1\"> Registre sus operaciones, errores y ganancias. Esto te ayuda a mejorar más rápido.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "tb73a64bde72d70a5",
+      "english": "<span data-i18n-slot=\"0\">Stay Patient:</span><span data-i18n-slot=\"1\"> Sometimes the best trade is no trade at all.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sea paciente:</span><span data-i18n-slot=\"1\"> A veces, el mejor intercambio es no realizar ningún intercambio.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t3a4365d5f1529493",
+      "english": "<span data-i18n-slot=\"0\">Setting Stops Too Tight:</span><span data-i18n-slot=\"1\"> Give your trade enough space to breathe. The 1-hour chart can have bigger swings than shorter time frames.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Establecer Stops demasiado estrictos:</span><span data-i18n-slot=\"1\"> Dele a su operación suficiente espacio para respirar. El gráfico de 1 hora puede tener mayores oscilaciones que los períodos de tiempo más cortos.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t826441f77bda385d",
+      "english": "<span data-i18n-slot=\"0\">The answer depends on your lifestyle and trading personality. If you want to avoid fast-paced scalping but still like active trading, this strategy might fit perfectly. It doesn’t take too much of your time, yet it keeps you engaged with the market.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La respuesta depende de su estilo de vida y personalidad comercial. Si desea evitar el scalping acelerado pero aún le gusta el comercio activo, esta estrategia podría ser perfecta. No requiere demasiado tiempo, pero lo mantiene comprometido con el mercado.</span>"
+    },
+    {
+      "key": "t3f3a96c2adca100e",
+      "english": "<span data-i18n-slot=\"0\">Like any strategy, it takes practice, patience, and discipline. Test it on a demo account before using real money, and adjust the rules to match your trading style. With time, this method can become a reliable part of your trading toolkit. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como cualquier estrategia, requiere práctica, paciencia y disciplina. Pruébelo en una cuenta de demostración antes de usar dinero real y ajuste las reglas para que coincidan con su estilo comercial. Con el tiempo, este método puede convertirse en una parte confiable de su conjunto de herramientas comerciales. </span>"
+    },
+    {
+      "key": "tb05556ed779214bd",
+      "english": "<span data-i18n-slot=\"0\">When starting out in forex trading, most beginners practice on a demo account before moving to a real one. This is a smart step because it helps new traders understand the basics of the market without risking their money. However, many traders wonder what actually changes once they move from demo trading to live trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Al comenzar a operar en Forex, la mayoría de los principiantes practican en una cuenta de demostración antes de pasar a una cuenta real. Este es un paso inteligente porque ayuda a los nuevos operadores a comprender los conceptos básicos del mercado sin arriesgar su dinero. Sin embargo, muchos operadores se preguntan qué cambia realmente una vez que pasan del comercio de demostración al comercio real.</span>"
+    },
+    {
+      "key": "t7af66ddcb55f00c2",
+      "english": "<span data-i18n-slot=\"0\">Demo Account:</span><span data-i18n-slot=\"1\"> In demo trading, you are working with virtual money. Since there is no real financial risk, traders often make bold moves without fear. This makes trading feel stress-free and easy.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cuenta Demo:</span><span data-i18n-slot=\"1\"> En las operaciones de demostración, usted está trabajando con dinero virtual. Dado que no existe un riesgo financiero real, los operadores suelen realizar movimientos audaces y sin miedo. Esto hace que operar sea fácil y sin estrés.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "tcfdcb3aa58ce3b46",
+      "english": "<span data-i18n-slot=\"0\">Real Account:</span><span data-i18n-slot=\"1\"> The moment real money is on the line, emotions such as fear, greed, and anxiety take over. Traders may exit trades too early or hesitate to enter even when the setup looks perfect. This emotional pressure is something you can only truly experience in a live account.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cuenta real:</span><span data-i18n-slot=\"1\"> En el momento en que hay dinero real en juego, emociones como el miedo, la codicia y la ansiedad se apoderan de él. Los operadores pueden salir de las operaciones demasiado pronto o dudar en ingresar incluso cuando la configuración parece perfecta. Esta presión emocional es algo que realmente solo puedes experimentar en una cuenta real.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "td1c728117895c9e9",
+      "english": "<span data-i18n-slot=\"0\">2. Market Execution and Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. Ejecución y deslizamiento del mercado</span>"
+    },
+    {
+      "key": "t52a0a49b66a91d9d",
+      "english": "<span data-i18n-slot=\"0\">Another crucial </span><span data-i18n-slot=\"1\">difference</span><span data-i18n-slot=\"2\"> is how trades are executed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Otra </span><span data-i18n-slot=\"1\">diferencia</span><span data-i18n-slot=\"2\"> crucial es cómo se ejecutan las operaciones.</span>"
+    },
+    {
+      "key": "t5ba0e37490008a12",
+      "english": "<span data-i18n-slot=\"0\">Demo Account:</span><span data-i18n-slot=\"1\"> Orders are usually filled instantly at the exact price you click. Brokers create a smooth, risk-free environment for practice.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cuenta demo:</span><span data-i18n-slot=\"1\"> Los pedidos generalmente se completan instantáneamente al precio exacto en el que hace clic. Los corredores crean un entorno fluido y libre de riesgos para la práctica.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "td61103fcaa077186",
+      "english": "<span data-i18n-slot=\"0\">Real Account:</span><span data-i18n-slot=\"1\"> Every trade involves actual financial risk. Even small losses can feel significant when it’s your hard-earned money. Proper money management becomes essential. Traders learn to size positions more carefully and protect their capital with stop-loss orders.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cuenta real:</span><span data-i18n-slot=\"1\"> Cada operación implica un riesgo financiero real. Incluso las pérdidas pequeñas pueden parecer significativas cuando se trata del dinero que tanto le costó ganar. La gestión adecuada del dinero se vuelve esencial. Los operadores aprenden a dimensionar las posiciones con más cuidado y a proteger su capital con órdenes de limitación de pérdidas.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t777928a2b990d3b2",
+      "english": "<span data-i18n-slot=\"0\">Key takeaway:</span><span data-i18n-slot=\"1\"> Treat your demo account as if it were real money. This helps you prepare for the shift.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Conclusión clave:</span><span data-i18n-slot=\"1\"> Trate su cuenta de demostración como si fuera dinero real. Esto le ayuda a prepararse para el turno.</span>"
+    },
+    {
+      "key": "td0a507bb791ef30d",
+      "english": "<span data-i18n-slot=\"0\">Real Account:</span><span data-i18n-slot=\"1\"> Brokers apply spreads, commissions, and other fees on each trade. Even if you make a profit, these charges can reduce your net earnings. Learning to account for costs is an important part of becoming a consistent trader.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cuenta real:</span><span data-i18n-slot=\"1\"> Los corredores aplican diferenciales, comisiones y otras tarifas en cada operación. Incluso si obtiene ganancias, estos cargos pueden reducir sus ganancias netas. Aprender a contabilizar los costos es una parte importante para convertirse en un comerciante consistente.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t5c1744d6840cb8be",
+      "english": "<span data-i18n-slot=\"0\">Key takeaway:</span><span data-i18n-slot=\"1\"> Understand how fees impact your overall profitability before scaling up your trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Conclusión clave:</span><span data-i18n-slot=\"1\"> Comprenda cómo las tarifas afectan su rentabilidad general antes de ampliar sus operaciones.</span>"
+    },
+    {
+      "key": "t6da8b21552d3754d",
+      "english": "<span data-i18n-slot=\"0\">Demo Account:</span><span data-i18n-slot=\"1\"> Since there is no pressure, traders often overtrade, ignore risk management rules, or leave trades running without concern.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cuenta demo:</span><span data-i18n-slot=\"1\"> Dado que no hay presión, los operadores a menudo realizan operaciones excesivas, ignoran las reglas de gestión de riesgos o dejan las operaciones funcionando sin preocupaciones.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t1e6fc1a98708dd89",
+      "english": "<span data-i18n-slot=\"0\">Should You Skip Demo Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Debería omitir las operaciones de demostración?</span>"
+    },
+    {
+      "key": "t68841aa3b576d011",
+      "english": "<span data-i18n-slot=\"0\">Absolutely not. Demo accounts are a great way to learn </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">trading platforms</span></span><span data-i18n-slot=\"3\">, test strategies, and build confidence. However, remember that it cannot fully prepare you for the psychological and financial pressure of live trading. The smart approach is to:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por supuesto que no. Las cuentas de demostración son una excelente manera de aprender </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">plataformas comerciales</span></span><span data-i18n-slot=\"3\">, probar estrategias y generar confianza. Sin embargo, recuerde que no puede prepararlo completamente para la presión psicológica y financiera del trading real. El enfoque inteligente es:</span>"
+    },
+    {
+      "key": "tbe6d0a38901184ac",
+      "english": "<span data-i18n-slot=\"0\">Practice extensively on a demo account.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Practique extensamente en una cuenta de demostración.  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>"
+    },
+    {
+      "key": "t7e0d2c7f4e2cd04f",
+      "english": "<span data-i18n-slot=\"0\">While demo accounts are perfect for practice, live accounts are where the real learning begins. By understanding these differences and preparing in advance, you’ll be in a stronger position to succeed in the forex market.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Si bien las cuentas de demostración son perfectas para practicar, las cuentas reales son donde comienza el verdadero aprendizaje. Si comprende estas diferencias y se prepara con anticipación, estará en una posición más sólida para tener éxito en el mercado de divisas.</span>"
+    },
+    {
+      "key": "ta2718d89cb7b9577",
+      "english": "<span data-i18n-slot=\"0\">Q- 1. How long should I practice on a forex demo account before going live?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Most experts suggest practicing on a demo account for at least 2–3 months, or until you consistently apply strategies and manage risk properly.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">P- 1. ¿Cuánto tiempo debo practicar en una cuenta de demostración de Forex antes de operar con dinero real?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> La mayoría de los expertos sugieren practicar en una cuenta de demostración durante al menos 2–3 meses, o hasta que aplique estrategias de manera consistente y administre el riesgo de manera adecuada.</span>"
+    },
+    {
+      "key": "tca45ff64b33574f4",
+      "english": "<span data-i18n-slot=\"0\">Q- 2. Do demo accounts reflect real market conditions accurately?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Demo accounts mirror market conditions closely but lack real execution issues like slippage, spreads, and emotional impact of real money trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">P- 2. ¿Las cuentas de demostración reflejan con precisión las condiciones reales del mercado?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Las cuentas de demostración reflejan fielmente las condiciones del mercado, pero carecen de problemas reales de ejecución como deslizamiento, diferenciales y el impacto emocional del comercio con dinero real.</span>"
+    }
+  ]
+}

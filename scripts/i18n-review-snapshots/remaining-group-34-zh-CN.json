@@ -1,0 +1,507 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t85ec4cb1cf373b43",
+      "english": "<span data-i18n-slot=\"0\">Fixed exchange hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">固定的交易所交易时间</span>"
+    },
+    {
+      "key": "t5e008d2e26b1bf66",
+      "english": "<span data-i18n-slot=\"0\">Broker quotes or liquidity-provider pricing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">经纪商报价或流动性提供商定价</span>"
+    },
+    {
+      "key": "t11de50fb6797241b",
+      "english": "<span data-i18n-slot=\"0\">Public order book</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">公开订单簿</span>"
+    },
+    {
+      "key": "teb82f8fb916fd7af",
+      "english": "<span data-i18n-slot=\"0\">Is OTC Trading Legal in the UAE?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易在阿联酋合法吗？</span>"
+    },
+    {
+      "key": "tc88d127e9f269b46",
+      "english": "<span data-i18n-slot=\"0\">What You Can Trade OTC</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易可以交易什么</span>"
+    },
+    {
+      "key": "t4d348e25e6f73437",
+      "english": "<span data-i18n-slot=\"0\">OTC trading can include several asset classes. The exact products depend on the broker’s licence, platform, and business model.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易可以包括多种资产类别。确切的产品取决于经纪商的牌照、平台和业务模式。</span>"
+    },
+    {
+      "key": "teda2a0c3147984eb",
+      "english": "<span data-i18n-slot=\"0\">Stock CFDs allow you to trade on price movements in global companies without owning the underlying shares. This can include firms such as Apple, Tesla, Amazon, and others depending on the platform.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">股票差价合约允许您在不拥有标的股票的情况下根据全球公司的价格变动进行交易。这可能包括苹果、特斯拉、亚马逊等公司，以及其他公司，具体取决于平台。</span>"
+    },
+    {
+      "key": "t62957fa8bc0efaaa",
+      "english": "<span data-i18n-slot=\"0\">Crypto-Linked Products</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">加密货币相关产品</span>"
+    },
+    {
+      "key": "t709f3bcefe729f38",
+      "english": "<span data-i18n-slot=\"0\">Bonds, Sukuk, and Structured Products</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">债券、伊斯兰债券和结构性产品</span>"
+    },
+    {
+      "key": "t23849cf64cf4cf38",
+      "english": "<span data-i18n-slot=\"0\">How OTC Trading Works in Dubai</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">迪拜场外交易如何运作</span>"
+    },
+    {
+      "key": "tb84f6723998de45d",
+      "english": "<span data-i18n-slot=\"0\">OTC trading in Dubai often appeals to traders because it combines access, flexibility, and international market exposure. If you want a trading account that can serve multiple markets from one place, OTC platforms can be especially useful.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">迪拜的场外交易经常吸引交易者，因为它结合了准入、灵活性和国际市场敞口。如果您想要一个可以从一个地方为多个市场提供服务的交易账户，场外交易平台可能特别有用。</span>"
+    },
+    {
+      "key": "t373ed7efa7828bdd",
+      "english": "<span data-i18n-slot=\"0\">OTC Trading for Different Types of Traders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">适合不同类型交易者的场外交易</span>"
+    },
+    {
+      "key": "t2d88ec462484346e",
+      "english": "<span data-i18n-slot=\"0\">OTC trading can suit different trader profiles depending on your goals.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易可以根据您的目标适合不同的交易者资料。</span>"
+    },
+    {
+      "key": "td07611d95f5ace23",
+      "english": "<span data-i18n-slot=\"0\">If You Are New to Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果您是交易新手</span>"
+    },
+    {
+      "key": "ta3d2a2d93d55bbb7",
+      "english": "<span data-i18n-slot=\"0\">If you are a beginner, OTC products can introduce you to forex or CFD trading in a relatively accessible way. A demo account, educational content, and smaller trade sizes can help you learn without taking unnecessary risk.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果您是初学者，场外交易产品可以以相对容易的方式向您介绍外汇或差价合约交易。模拟账户、教育内容和较小的交易规模可以帮助您学习，而无需承担不必要的风险。</span>"
+    },
+    {
+      "key": "tf4bb5992502115fa",
+      "english": "<span data-i18n-slot=\"0\">If You Are Hedging Exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果您要对冲风险</span>"
+    },
+    {
+      "key": "t1d99925c9febf538",
+      "english": "<span data-i18n-slot=\"0\">Advantages of OTC Trading in the UAE</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">阿联酋场外交易的优势</span>"
+    },
+    {
+      "key": "t02c9cd80624e162e",
+      "english": "<span data-i18n-slot=\"0\">OTC trading has several clear benefits for UAE investors and traders.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易对阿联酋投资者和交易者来说有几个明显的好处。</span>"
+    },
+    {
+      "key": "td8f2e1dcc5e615d6",
+      "english": "<span data-i18n-slot=\"0\">You can go long or short depending on your market view.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">您可以根据您的市场观点做多或做空。</span>"
+    },
+    {
+      "key": "tfc6a0bf8de9eb590",
+      "english": "<span data-i18n-slot=\"0\">You can access instruments not listed on UAE exchanges.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">您可以访问未在阿联酋交易所上市的工具。</span>"
+    },
+    {
+      "key": "t100bc3f8ba1adf1e",
+      "english": "<span data-i18n-slot=\"0\">OTC trading also comes with risks, and you should be aware of them before opening a position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易也存在风险，开仓前应了解风险。</span>"
+    },
+    {
+      "key": "tb90794e0a72dc398",
+      "english": "<span data-i18n-slot=\"0\">Market Volatility</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市场波动</span>"
+    },
+    {
+      "key": "ta4790b7441ac5842",
+      "english": "<span data-i18n-slot=\"0\">How to Start OTC Trading in the UAE</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何在阿联酋开始场外交易</span>"
+    },
+    {
+      "key": "t25c78090bf95f534",
+      "english": "<span data-i18n-slot=\"0\">Select the OTC instruments that match your trading goals. You may trade forex, indices, commodities, or other products depending on the platform.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">选择符合您交易目标的场外交易工具。您可以交易外汇、指数、商品或其他产品，具体取决于平台。</span>"
+    },
+    {
+      "key": "t276039efd0992fe3",
+      "english": "<span data-i18n-slot=\"0\">Look, OTC trading is a smart, flexible way for us in Dubai and the UAE to dive into forex, indices, commodities, and stock CFDs without the hassle of strict exchange rules or limited hours. The big thing? Stick with a licensed setup from SCA, DFSA, or FSRA, and you're good to go—totally legal.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">您看，场外交易是我们在迪拜和阿联酋深入研究外汇、指数、大宗商品和股票差价合约的一种明智、灵活的方式，而无需受到严格的交易规则或有限时间的困扰。有什么大事？坚持使用 SCA、DFSA 或 FSRA 的许可设置，即可开始使用 — 完全合法。</span>"
+    },
+    {
+      "key": "t88409966e1778926",
+      "english": "<span data-i18n-slot=\"0\">What is OTC trading in the UAE?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">阿联酋的场外交易是什么？</span>"
+    },
+    {
+      "key": "t6577da478c10f0f1",
+      "english": "<span data-i18n-slot=\"0\">OTC trading in the UAE means buying and selling financial instruments directly through a broker or dealer instead of through a centralized exchange.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">阿联酋的场外交易是指直接通过经纪商或交易商而不是通过集中交易所买卖金融工具。</span>"
+    },
+    {
+      "key": "t38f4f58cfd31e2dc",
+      "english": "<span data-i18n-slot=\"0\">Is OTC trading legal in Dubai?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易在迪拜合法吗？</span>"
+    },
+    {
+      "key": "te5f9509bc78a0e59",
+      "english": "<span data-i18n-slot=\"0\">What can you trade OTC?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易可以交易什么？</span>"
+    },
+    {
+      "key": "t45a0496766ee0747",
+      "english": "<span data-i18n-slot=\"0\">You can usually trade forex, index CFDs, commodity CFDs, stock CFDs, and in some cases bonds, sukuk, structured products, and crypto-linked instruments.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">您通常可以交易外汇、指数差价合约、商品差价合约、股票差价合约，在某些情况下还可以交易债券、伊斯兰债券、结构性产品和加密货币相关工具。</span>"
+    },
+    {
+      "key": "t057dbce8eaed7912",
+      "english": "<span data-i18n-slot=\"0\">Can you trade OTC on mobile?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可以在移动设备上进行场外交易吗？</span>"
+    },
+    {
+      "key": "t5d355295a3c99ef9",
+      "english": "<span data-i18n-slot=\"0\">Is OTC trading risky?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易有风险吗？</span>"
+    },
+    {
+      "key": "t240efeb9b13819ab",
+      "english": "<span data-i18n-slot=\"0\">If you’re looking for a new way to grow your money, <span data-i18n-slot=\"1\">CFD index trading in UAE </span>is something you should understand.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果您正在寻找一种新的方式来增加资金，<span data-i18n-slot=\"1\">阿联酋的差价合约指数交易</span>是您应该了解的内容。</span>"
+    },
+    {
+      "key": "t3ab9bd4b81ac3857",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">What is CFD Index Trading?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">什么是差价合约指数交易？</span></span>"
+    },
+    {
+      "key": "te23a8866147b3400",
+      "english": "<span data-i18n-slot=\"0\">Let’s make this super clear for you.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">让我们为您解释清楚。</span>"
+    },
+    {
+      "key": "te123182462087ab8",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Access to Global Markets</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1。进入全球市场</span></span>"
+    },
+    {
+      "key": "t36b734d657a489b4",
+      "english": "<span data-i18n-slot=\"0\">3. Leverage Opportunities</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. 杠杆机会</span>"
+    },
+    {
+      "key": "tdd9928c3b1da6a99",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Diversification</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4。多元化</span></span>"
+    },
+    {
+      "key": "t1cb018b044d0085a",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">How CFD Index Trading Works</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">差价合约指数交易如何运作</span></span>"
+    },
+    {
+      "key": "t662b1f9c1070ed5c",
+      "english": "<span data-i18n-slot=\"0\">1. NASDAQ</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. S&amp;P 500</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. Dow Jones</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. FTSE 100</span><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\">5. DAX</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. 纳斯达克</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. 标准普尔500</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. 道琼斯</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. FTSE 100</span><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\">5. DAX</span>"
+    },
+    {
+      "key": "t339a8cb306a5046b",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Step 4: Open a Trade</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">第 4 步：开仓</span></span>"
+    },
+    {
+      "key": "tc9a76acf2b674b77",
+      "english": "<span data-i18n-slot=\"0\">Key Benefits of Trading Indices via CFDs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通过差价合约交易指数的主要优势</span>"
+    },
+    {
+      "key": "t9c0f39c23d6d5130",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. No Ownership Required</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1。无需所有权</span></span>"
+    },
+    {
+      "key": "t119748285d005292",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Lower Capital Needed</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2。所需资金较低</span></span>"
+    },
+    {
+      "key": "t5942c00165d3735f",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. High Liquidity</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3。高流动性</span></span>"
+    },
+    {
+      "key": "t08ed0b75c3e75f7b",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Flexible Trading Hours</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4。灵活的交易时间</span></span>"
+    },
+    {
+      "key": "tc0c22439b961e88f",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Risk Management in CFD Index Trading</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">差价合约指数交易中的风险管理</span></span>"
+    },
+    {
+      "key": "t5e705f8a7ddabb8e",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Use Stop-Loss</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1。使用止损</span></span>"
+    },
+    {
+      "key": "t71c031f920eb5965",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Avoid Over-Leverage</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2。避免过度杠杆</span></span>"
+    },
+    {
+      "key": "t29c5f444d434eb14",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Diversify Your Trades</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3。多元化您的交易</span></span>"
+    }
+  ]
+}

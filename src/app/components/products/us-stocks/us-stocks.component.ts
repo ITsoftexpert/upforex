@@ -3,6 +3,7 @@ import { benefits, trade } from './constant';
 import { Store } from 'src/app/Store/store';
 
 @Component({
+  standalone: false,
   selector: 'app-us-stocks',
   templateUrl: './us-stocks.component.html',
   styleUrls: ['./us-stocks.component.scss'],

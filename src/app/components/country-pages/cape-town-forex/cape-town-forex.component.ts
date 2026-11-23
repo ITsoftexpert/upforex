@@ -1,3 +1,4 @@
+import { NativeTranslationService } from 'src/app/core/services/native-translation.service';
 import { Component, OnInit } from '@angular/core';
 import { Meta, Title } from '@angular/platform-browser';
 import { Store } from 'src/app/Store/store';
@@ -5,6 +6,7 @@ import { DOCUMENT } from '@angular/common';
 import { Inject } from '@angular/core';
 
 @Component({
+  standalone: false,
   selector: 'app-cape-town-forex',
   templateUrl: './cape-town-forex.component.html',
   styleUrls: ['./cape-town-forex.component.scss'],
@@ -306,6 +308,7 @@ export class CapeTownForexComponent implements OnInit {
   ];
 
   constructor(
+    private native: NativeTranslationService,
     private store: Store,
     private titleService: Title,
     private metaService: Meta,
@@ -316,7 +319,7 @@ export class CapeTownForexComponent implements OnInit {
 
   ngOnInit(): void {
     this.titleService.setTitle(
-      'Forex Trading in Cape Town, South Africa | UPFOREX MT5 Access',
+      this.native.translate('Forex Trading in Cape Town, South Africa | UPFOREX MT5 Access'),
     );
 
     const schema = {
@@ -571,13 +574,13 @@ export class CapeTownForexComponent implements OnInit {
     this.metaService.updateTag({
       name: 'description',
       content:
-        'Access forex, metals, shares and available CFDs in Cape Town through UPFOREX MetaTrader 5. Compare account types, platform access, regulation notes and trading risks.',
+        this.native.translate('Access forex, metals, shares and available CFDs in Cape Town through UPFOREX MetaTrader 5. Compare account types, platform access, regulation notes and trading risks.'),
     });
 
     this.metaService.updateTag({
       name: 'keywords',
       content:
-        'forex trading Cape Town, forex trading South Africa, MetaTrader 5 Cape Town, UPFOREX South Africa, online forex broker Cape Town',
+        this.native.translate('forex trading Cape Town, forex trading South Africa, MetaTrader 5 Cape Town, UPFOREX South Africa, online forex broker Cape Town'),
     });
 
     const existing = this.document.getElementById('cape-town-schema');

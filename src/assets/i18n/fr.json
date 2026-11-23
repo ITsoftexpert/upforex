@@ -10,11 +10,40 @@
     "blogs": "Blogs"
   },
   "HOME": {
+    "BANNER_TITLE": "Nouvelle stratégie révolutionnaire de trading intelligent pour un avantage concurrentiel sur le marché mondial",
+    "BANNER_SUBTITLE": "Négociation de devises et d'actions CFDs Métaux précieux, Index CFDs , Énergie CFDs et les cryptomonnaies CFDs de votre UPFOREX Compte de trading",
     "TRY_FREE_DEMO": "Essayez la démo gratuite",
     "OPEN_ACCOUNT": "Ouvrir un compte",
     "WELCOME_TITLE": "Bienvenue sur UPFOREX - Votre partenaire principal de trading Forex",
     "TRADE_TAGLINE": "Tradez intelligemment. Gagnez plus vite. Croissance mondiale.",
     "DESCRIPTION": "Chez UPFOREX nous fournissons des solutions de trading Forex de prochaine génération conçues pour les traders de détail, les investisseurs professionnels et les courtiers introducteurs.",
+    "CONFIDENCE_TITLE": "Investissez en toute confiance – Des conditions de marché exceptionnelles pour tous les traders",
+    "CONFIDENCE_DESC": "À UPFOREX Nous offrons les meilleures conditions de trading à tous les niveaux de traders. Grâce à des spreads serrés, une liquidité optimale et une exécution rapide, vous pouvez trader en toute confiance.",
+    "BEST_PRICES_TITLE": "Meilleurs prix du marché et faibles écarts de prix",
+    "BEST_PRICES_DESC": "Bénéficiez de meilleurs prix sur le Forex, les actions, les indices et les cryptomonnaies. CFDs .",
+    "NEGATIVE_BALANCE": "Protection contre le solde négatif",
+    "INSTANT_DEPOSITS_TITLE": "Dépôts instantanés et retraits rapides",
+    "INSTANT_DEPOSITS_DESC": "Profitez de paiements rapides grâce à de multiples options de paiement telles que les cryptomonnaies, les virements bancaires, Neteller et Skrill.",
+    "SMARTER_TRADE_TITLE": "Investissez plus intelligemment sur les actifs mondiaux",
+    "SMARTER_TRADE_DESC": "Trouvez votre prochaine opportunité de trading grâce à un accès facile à un large éventail de marchés.",
+    "GLOBAL_TRADING": "Commerce mondial fluide et ultra-rapide ECN Connectivité",
+    "SMART_FEATURES": "Fonctionnalités de trading intelligent",
+    "CARD_1": "Conçu pour les traders modernes",
+    "CARD_2": "Engagés en faveur de la transparence et de la sécurité",
+    "CARD_3": "Infrastructure de négociation de nouvelle génération",
+    "CARD_4": "Nous sommes là quand vous avez besoin de nous",
+    "MT5_TITLE": "Échangez à tout moment, n'importe où avec MetaTrader 5 ( MT5 – Mobile, ordinateur et Web",
+    "MT5_DESC": "Découvrez le trading avancé avec MetaTrader 5 ( MT5 Une plateforme performante pour le Forex, les actions, les indices, les matières premières et les cryptomonnaies. Que vous soyez à la maison, au bureau ou en voyage, MT5 Disponible sur mobile, ordinateur et web, vous ne raterez jamais une opportunité de trading.",
+    "ADVANCED_CHARTS": "Outils graphiques avancés : visualisez des graphiques en temps réel avec plusieurs échelles de temps et des indicateurs intégrés.",
+    "MULTI_ASSET": "Trading multi-actifs : Négociez des devises, des actions, des indices, des matières premières et des cryptomonnaies depuis une seule plateforme.",
+    "FULL_ACCOUNT_CONTROL": "Contrôle total du compte",
+    "FULL_ACCOUNT_CONTROL_DESC": "Gérez vos transactions, passez des ordres et suivez facilement votre portefeuille.",
+    "REAL_TIME_DATA": "Données de marché en temps réel : restez informé(e) des cours et des actualités en direct.",
+    "SECURE_EASY": "Sécurisé et facile à utiliser",
+    "SECURE_EASY_DESC": "Optimisé pour une expérience de trading mobile, rapide et sécurisée.",
+    "MT5_FINAL": "Que vous soyez un trader débutant ou expérimenté, MT5 Vous aide à saisir toutes les opportunités. Téléchargez l'application maintenant et tradez mieux.",
+    "UNLOCK_MARKETS": "Débloquer l'accès aux marchés mondiaux",
+    "UNLOCK_DESC": "Découvrez la puissance du commerce mondial à partir d'un seul compte",
     "TRADING_CALCULATORS": "Calculateurs de trading",
     "MARKET_ANALYSIS": "Analyse de marché",
     "MARKET_REVIEWS": "Avis de marché"
@@ -47,5 +76,102 @@
   "accounts": {
     "accounts": "Comptes",
     "mt5Platform": "Plateforme MetaTrader 5 (MT5)"
-  }
+  },
+  "IB": {
+    "TITLE": "UPFOREX Programme des courtiers introducteurs (IB)",
+    "TAGLINE": "Optimisez vos revenus. Développez votre réseau. Collaborez avec un courtier de confiance.",
+    "INTRO": "À UPFOREX Notre programme IB est conçu pour vous offrir des avantages inégalés, un potentiel de commissions élevé et un soutien exclusif de nos partenaires. Que vous soyez un IB expérimenté ou débutant, nous proposons des solutions personnalisées pour vous aider à bâtir un réseau de courtage performant.",
+    "BENEFITS_TITLE": "Pourquoi rejoindre le UPFOREX Programme IB ?",
+    "BENEFITS": [
+      {
+        "boldText": "Structure du Haut-Commissariat",
+        "subText": "Bénéficiez de commissions à plusieurs niveaux très compétitives, avec des paiements rapides vous assurant une récompense généreuse pour vos efforts et votre succès en matière de recommandations de clients."
+      },
+      {
+        "boldText": "Part de revenus à vie",
+        "subText": "Continuez à générer des revenus à long terme grâce aux clients actifs que vous nous recommandez, en vous assurant un revenu passif continu à chaque transaction qu'ils effectuent."
+      },
+      {
+        "boldText": "Tableau de bord IB en temps réel",
+        "subText": "Suivez vos parrainages et vos commissions en temps réel grâce à notre outil avancé. MT5 Manager Suite vous offre un contrôle total sur votre entreprise."
+      },
+      {
+        "boldText": "Structure IB à plusieurs niveaux",
+        "subText": "Développez votre activité en recrutant des sous-IB et des affiliés, et gagnez des récompenses supplémentaires grâce à leur activité tout en élargissant votre réseau."
+      },
+      {
+        "boldText": "Paiements flexibles",
+        "subText": "Choisissez entre des paiements de commissions hebdomadaires ou mensuels, vous assurant ainsi un flux de trésorerie régulier et une stabilité financière constante, sans aucun retard."
+      },
+      {
+        "boldText": "Soutien en marketing et en image de marque",
+        "subText": "Accédez à des supports marketing personnalisés, des bannières et des outils promotionnels exclusifs pour attirer et fidéliser efficacement vos clients."
+      },
+      {
+        "boldText": "Accès aux outils de trading premium",
+        "subText": "Offrez à vos clients une liquidité importante, une exécution rapide et des conditions de trading avancées, améliorant ainsi leur expérience de trading."
+      },
+      {
+        "boldText": "Intégration client sans faille",
+        "subText": "Ouverture de compte simplifiée et KYC Des procédures permettant une inscription client simple et rapide avec un minimum d'efforts."
+      },
+      {
+        "boldText": "Assistance IB dédiée",
+        "subText": "Bénéficiez d'un gestionnaire de compte personnel dédié, disponible pour vous guider et vous soutenir à chaque étape de votre parcours."
+      },
+      {
+        "boldText": "Opportunité d'expansion mondiale",
+        "subText": "Développez votre propre réseau IB à l'échelle mondiale, connectez-vous avec des traders du monde entier et élargissez votre champ d'action."
+      }
+    ],
+    "STEPS_TITLE": "Comment ça marche",
+    "STEPS": [
+      {
+        "boldText": "S'inscrire",
+        "subText": "Inscrivez-vous en tant que courtier introducteur auprès de UPFOREX"
+      },
+      {
+        "boldText": "Référencer des clients",
+        "subText": "Présentez des traders via votre lien de parrainage unique ou par contact direct."
+      },
+      {
+        "boldText": "Les clients négocient, vous gagnez",
+        "subText": "Gagnez des commissions sur chaque transaction effectuée par vos clients recommandés."
+      },
+      {
+        "boldText": "Développez votre réseau",
+        "subText": "Recrutez des sous-IB pour augmenter vos revenus grâce à des commissions à plusieurs niveaux."
+      }
+    ],
+    "REASONS_TITLE": "Pourquoi Up Forex ?",
+    "REASONS": [
+      {
+        "boldText": "Solutions IB personnalisées",
+        "subText": "Fournir des modèles de commission personnalisés et des solutions en marque blanche adaptés aux grands courtiers introducteurs (IB), leur permettant de créer des modèles commerciaux sur mesure et de maximiser leur potentiel de revenus grâce à des opportunités de partenariat flexibles."
+      },
+      {
+        "boldText": "Fournisseurs de liquidités de premier plan",
+        "subText": "Bénéficiez de spreads compétitifs et d'une exécution de qualité institutionnelle en vous associant à des fournisseurs de liquidités de premier plan, garantissant ainsi que vos transactions sont exécutées dans les meilleures conditions de marché disponibles pour une performance optimale."
+      },
+      {
+        "boldText": "Courtier réglementé et de confiance",
+        "subText": "Faites appel à un courtier forex transparent et réputé, respectant des normes réglementaires strictes, pour garantir la sécurité et la fiabilité de votre expérience de trading et offrir une tranquillité d'esprit à ses clients du monde entier."
+      },
+      {
+        "boldText": "Large gamme d'instruments",
+        "subText": "Offrir aux clients une sélection complète d'instruments de trading, notamment le Forex, les indices, les matières premières et les cryptomonnaies, offrant ainsi diverses opportunités pour répondre à différentes stratégies et préférences de trading."
+      },
+      {
+        "boldText": "Technologie de pointe",
+        "subText": "Avancé MT5 Les plateformes de trading offrent des fonctionnalités de pointe, garantissant une exécution ultra-rapide et une expérience de trading sans faille, permettant aux clients de garder une longueur d'avance sur le marché des changes en constante évolution."
+      }
+    ],
+    "CTA_TITLE": "Commencez à gagner de l'argent en tant qu'IB dès aujourd'hui !",
+    "JOIN_NOW": "📩 Inscrivez-vous maintenant -",
+    "FILL_FORM": "Remplissez le formulaire",
+    "OR_CONTACT": "ou contactez",
+    "GET_STARTED": "pour commencer.",
+    "APPLY_NOW": "Postulez maintenant"
+  },
+  "__nativeI18nVersion": "af81a4657e7a422981c5"
 }

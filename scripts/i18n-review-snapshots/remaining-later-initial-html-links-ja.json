@@ -1,0 +1,27 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t882ac74cbea67de4",
+      "english": "<span data-i18n-slot=\"0\">The guide to</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">MT5 Stock Trading in Dubai</span></span><span data-i18n-slot=\"4\"> provides more platform context for UAE traders.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">ドバイでの MT5 株式取引</span></span><span data-i18n-slot=\"4\">に関するガイドでは、UAE のトレーダーに向けて取引プラットフォームについてさらに詳しく説明しています。</span>"
+    },
+    {
+      "key": "t50639d2953ff1333",
+      "english": "<span data-i18n-slot=\"0\">Compare</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">trading costs like spreads and commissions</span></span><span data-i18n-slot=\"4\"> rather than focusing on one headline fee. The linked account-types page lists the available account categories for comparison. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">スプレッドや手数料などの取引コスト</span></span><span data-i18n-slot=\"4\">を比較し、目立つ一つの手数料だけに注目しないようにしましょう。リンク先の口座タイプのページには、比較できる利用可能な口座カテゴリーが掲載されています。</span>"
+    }
+  ]
+}

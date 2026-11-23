@@ -1,0 +1,71 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tff9be69dbf51f819",
+      "english": "<span data-i18n-slot=\"0\">Making charges and retail premiums.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Custos de fabricação e prêmios de varejo.</span>"
+    },
+    {
+      "key": "t7c690b894676c105",
+      "english": "<span data-i18n-slot=\"0\">Dealer margins.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Margens do revendedor.</span>"
+    },
+    {
+      "key": "t97f435e56f71315d",
+      "english": "<span data-i18n-slot=\"0\">Moving averages to study market trends.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Médias móveis para estudar tendências de mercado.</span>"
+    },
+    {
+      "key": "t3c9840ea8f7b4f82",
+      "english": "<span data-i18n-slot=\"0\">Relative Strength Index (RSI) to assess momentum.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Índice de Força Relativa (RSI) para avaliar o impulso.</span>"
+    },
+    {
+      "key": "td08a09f298ca7aba",
+      "english": "<span data-i18n-slot=\"0\">7. Can beginners explore spot metal trading online in Dubai?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">7. Os iniciantes podem explorar o comércio on-line de metais à vista em Dubai?</span>"
+    },
+    {
+      "key": "t65e580f2bc06ddc4",
+      "english": "FOREX BROKERS IN ABU DHABI",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#upperTag",
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#upperTag",
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#upperTag",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "CORRETORES FOREX EM ABU DHABI"
+    }
+  ]
+}

@@ -1,13 +1,10 @@
 import {
-  AfterViewInit,
   Component,
-  ElementRef,
   Inject,
   OnDestroy,
   OnInit,
   PLATFORM_ID,
   Renderer2,
-  ViewChild,
 } from '@angular/core';
 
 import {
@@ -15,25 +12,27 @@ import {
   smarterTradeData,
   smartTradeFeaturesData,
 } from './constant';
-import * as AOS from 'aos';
-import { NgbCarouselModule } from '@ng-bootstrap/ng-bootstrap';
 import { Store } from 'src/app/Store/store';
 // import { isPlatformBrowser } from '@angular/common';
 import { HybridTranslationService } from 'src/app/core/services/hybrid-translation.service';
 import { LanguageService, Language } from 'src/app/core/services/language.service';
+import { Subscription } from 'rxjs';
 import { DOCUMENT, isPlatformBrowser } from '@angular/common';   // DOCUMENT add
 
 @Component({
+  standalone: false,
   selector: 'app-home',
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.scss'],
 })
-export class HomeComponent implements OnInit ,AfterViewInit ,OnDestroy  {
+export class HomeComponent implements OnInit, OnDestroy  {
+  readonly carouselText = { title: 'Slide {0} of {1}' };
   smarterTradeCardData = smarterTradeData;
   smartTradeFeaturesData = smartTradeFeaturesData;
   mobileAppData = mobileAppData;
   s3URl!: string;
   currentLanguage!: Language;
+  private languageSubscription?: Subscription;
 
   constructor(
     private renderer: Renderer2,
@@ -85,7 +84,7 @@ export class HomeComponent implements OnInit ,AfterViewInit ,OnDestroy  {
 
     // Subscribe to language changes for RTL flip
     this.currentLanguage = this.languageService.getCurrentLanguage();
-    this.languageService.currentLanguage$.subscribe((lang: Language) => {
+    this.languageSubscription = this.languageService.currentLanguage$.subscribe((lang: Language) => {
       this.currentLanguage = lang;
     });
   }
@@ -191,45 +190,9 @@ export class HomeComponent implements OnInit ,AfterViewInit ,OnDestroy  {
     this.document.head.appendChild(script);
   }
 
-    @ViewChild('smartVideo') smartVideo?: ElementRef<HTMLVideoElement>;
-  private videoObserver?: IntersectionObserver;
-
-  ngAfterViewInit(): void {
-    if (!isPlatformBrowser(this.platformId) || !this.smartVideo) return;
-    const video = this.smartVideo.nativeElement;
-
-    video.muted = true;
-    video.defaultMuted = true;
-    video.playsInline = true;
-    video.load();
-
-    const tryPlay = () => {
-      video.play().catch(() => {});
-    };
-
-    if (!('IntersectionObserver' in window)) {
-      tryPlay();
-      return;
-    }
-
-    this.videoObserver = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            tryPlay();
-          } else {
-            video.pause();
-          }
-        });
-      },
-      { rootMargin: '200px' }
-    );
-    this.videoObserver.observe(video);
-  }
-
   ngOnDestroy(): void {
     this.document.getElementById(this.schemaId)?.remove();
-    this.videoObserver?.disconnect();
+    this.languageSubscription?.unsubscribe();
   }
 
   scrollToTop() {

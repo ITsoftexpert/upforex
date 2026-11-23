@@ -5,7 +5,7 @@
     loading="lazy"
     class="tw-absolute tw-inset-0 tw-w-full tw-h-[85vh] md:tw-h-[95vh] lg:tw-h-[85vh] tw-object-cover tw-opacity-70"
     [src]="s3URL + 'assets/images/JPG/home_banner_temp_1.webp'"
-    alt="Forex Trading in South Africa"
+    [attr.alt]="'Forex Trading in South Africa' | localize"
   />
   <div class="row m-0 p-0 tw-h-[80vh] lg:tw-h-[85vh]">
     <div class="col-12">
@@ -16,12 +16,11 @@
           class="my-2 !tw-font-bold banner-text w-100 tw-font-montserrat tw-px-4 md:tw-pr-20 lg:tw-text-5xl tw-text-4xl"
         >
           <h1>
-            Forex Trading in <span class="banner-span">South Africa</span>
+             {{ 'Forex Trading in' | localize }} <span class="banner-span">{{ 'South Africa' | localize }}</span>
           </h1>
         </div>
         <div class="my-2 tw-px-4 pt-2 banner-subtext tw-font-montserrat">
-         Review forex, metals, shares and available contracts for difference (CFDs) through <a href="https://www.upforex.com/platforms/mt5">MetaTrader 5 (MT5)</a> on desktop, mobile and web. UPFOREX publishes three account types with different deposits, spreads and commission models.
-        </div>
+          {{ 'Review forex, metals, shares and available contracts for difference (CFDs) through' | localize }} <a href="https://www.upforex.com/platforms/mt5">{{ 'MetaTrader 5 (MT5)' | localize }}</a>  {{ 'on desktop, mobile and web. UPFOREX publishes three account types with different deposits, spreads and commission models.' | localize }} </div>
       </div>
     </div>
   </div>
@@ -38,7 +37,7 @@
         width="100%"
         class="tw-rounded-2xl"
         style="aspect-ratio: 2; object-fit: cover"
-        alt="Online Forex and CFD Trading"
+        [attr.alt]="'Online Forex and CFD Trading' | localize"
       />
     </div>
 
@@ -46,18 +45,15 @@
       <h2
         class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-montserrat tw-font-bold md:tw-my-4 mb-4"
       >
-        Online Forex and CFD Trading
-      </h2>
+         {{ 'Online Forex and CFD Trading' | localize }} </h2>
       <p
         class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed"
       >
-       <a href="https://www.upforex.com/">UPFOREX</a>'s platform lets you study prices, view charts, monitor open positions and place supported orders through MetaTrader 5. The company runs its operations from Mauritius, with no domestic branch listed for South Africa, so every part of the account experience &mdash; opening, funding, trading and support &mdash; happens through the online platform.
-      </p>
+       <a href="https://www.upforex.com/">UPFOREX</a>{{ '\'s platform lets you study prices, view charts, monitor open positions and place supported orders through MetaTrader 5. The company runs its operations from Mauritius, with no domestic branch listed for South Africa, so every part of the account experience — opening, funding, trading and support — happens through the online platform.' | localize }} </p>
       <p
         class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed"
       >
-        CFDs are leveraged, which means a small price movement can affect your position by more than the margin you used to open it. Before going live, take time to understand margin requirements, spreads and stop-loss controls. The client agreement notes that losses can exceed the amount you deposit.
-      </p>
+         {{ 'CFDs are leveraged, which means a small price movement can affect your position by more than the margin you used to open it. Before going live, take time to understand margin requirements, spreads and stop-loss controls. The client agreement notes that losses can exceed the amount you deposit.' | localize }} </p>
     </div>
   </div>
 </div>
@@ -70,13 +66,11 @@
       <h2
         class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-montserrat tw-font-bold md:tw-my-4 !tw-mb-8"
       >
-        Forex Trading Platforms and MT5 Tools
-      </h2>
+         {{ 'Forex Trading Platforms and MT5 Tools' | localize }} </h2>
       <p
         class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed !tw-mb-8"
       >
-        UPFOREX runs MetaTrader 5 across Windows, Mac, Android, iOS and web browsers. Traders can check prices, view charts, monitor positions and place orders online. MT4 is not listed on the account page today.
-      </p>
+         {{ 'UPFOREX runs MetaTrader 5 across Windows, Mac, Android, iOS and web browsers. Traders can check prices, view charts, monitor positions and place orders online. MT4 is not listed on the account page today.' | localize }} </p>
       <div class="my-3 d-flex flex-column gap-3">
         <div
           class="d-flex gap-2 justify-content-center tw-items-start"
@@ -86,8 +80,8 @@
             <i class="fa-xl fa-solid fa-circle-right"></i>
           </span>
           <h5 class="tw-text-white tw-font-montserrat tw-ml-2">
-            <b class="bold-text">{{ item.boldText }}</b>
-            <span *ngIf="item.subText"> {{ item.subText }}</span>
+            <b class="bold-text">{{ (item.boldText) | localize }}</b>
+            <span *ngIf="item.subText"> {{ (item.subText) | localize }}</span>
           </h5>
         </div>
       </div>
@@ -101,7 +95,7 @@
         width="100%"
         class="tw-rounded-2xl"
         style="aspect-ratio: 2; object-fit: cover"
-        alt="Forex Trading Platforms and MT5 Tools"
+        [attr.alt]="'Forex Trading Platforms and MT5 Tools' | localize"
       />
     </div>
   </div>
@@ -112,32 +106,28 @@
     <h2
       class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-montserrat tw-font-bold md:tw-my-4"
     >
-      Markets Available Through MT5
-    </h2>
+       {{ 'Markets Available Through MT5' | localize }} </h2>
     <p
       class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      UPFOREX offers forex, metals, shares, indices and energy CFDs on one MT5 platform. <a href="https://www.upforex.com/products/forex-cfds">Forex CFDs</a> track currency-pair price moves without physical delivery, reacting to interest rates, inflation and employment data. Gold and silver CFDs follow real metal prices, often driven by inflation, rates and global events, though a CFD gives no physical ownership.
-    </p>
+       {{ 'UPFOREX offers forex, metals, shares, indices and energy CFDs on one MT5 platform.' | localize }} <a href="https://www.upforex.com/products/forex-cfds">{{ 'Forex CFDs' | localize }}</a>  {{ 'track currency-pair price moves without physical delivery, reacting to interest rates, inflation and employment data. Gold and silver CFDs follow real metal prices, often driven by inflation, rates and global events, though a CFD gives no physical ownership.' | localize }} </p>
     <p
       class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-       Share CFDs track company prices without stock ownership, while index CFDs group many companies together for broader market exposure. UPFOREX also lists WTI and Brent oil CFDs, which shift with supply, demand, inventory levels and world events. Always check costs, margin and product terms before placing any order.
-    </p>
+        {{ 'Share CFDs track company prices without stock ownership, while index CFDs group many companies together for broader market exposure. UPFOREX also lists WTI and Brent oil CFDs, which shift with supply, demand, inventory levels and world events. Always check costs, margin and product terms before placing any order.' | localize }} </p>
   </div>
 </div>
 
 <h2
   class="tw-text-2xl md:tw-text-3xl lg:tw-text-4xl tw-font-montserrat tw-font-bold tw-text-white tw-text-center tw-mt-16 tw-mb-8"
 >
-  Forex Trading Account Types
-</h2>
+   {{ 'Forex Trading Account Types' | localize }} </h2>
 <div
   class="tw-w-full container-fluid p-0 tw-overflow-hidden smarter-trade-features-div !tw-h-[280px] md:tw-h-[350px]"
 >
-  <video autoplay loop muted class="tw-w-full tw-object-contain">
+  <video appDeferredVideo preload="none" playsinline loop muted class="tw-w-full tw-object-contain">
     <source
-      [src]="s3URL + 'assets/videos/smart_trading.webm'"
+      [attr.data-src]="s3URL + 'assets/videos/smart_trading.webm'"
       type="video/webm"
     />
   </video>
@@ -154,8 +144,7 @@
     <p
       class="tw-text-sm md:tw-text-xl tw-text-white tw-font-light tw-font-montserrat tw-tracking-wide"
     >
-      UPFOREX publishes three account types denominated in United States dollars (USD): Standard, Pro Electronic Communication Network (Pro-ECN) and Elite Electronic Communication Network (Elite-ECN). <br/>Each lists floating spreads, a minimum trade size of 0.01 lots and leverage of up to 1:300. The company says leverage may change because of liquidity and market conditions.
-    </p>
+       {{ 'UPFOREX publishes three account types denominated in United States dollars (USD): Standard, Pro Electronic Communication Network (Pro-ECN) and Elite Electronic Communication Network (Elite-ECN).' | localize }} <br/>{{ 'Each lists floating spreads, a minimum trade size of 0.01 lots and leverage of up to 1:300. The company says leverage may change because of liquidity and market conditions.' | localize }} </p>
   </div>
 
   <div
@@ -174,7 +163,7 @@
       <div
         class="text tw-text-center tw-text-lg tw-font-semibold tw-font-montserrat tw-my-6"
       >
-        {{ item.title }}
+        {{ (item.title) | localize }}
       </div>
     </div>
   </div>
@@ -183,18 +172,18 @@
     <table class="account-table">
       <thead>
         <tr>
-          <th>Account</th>
-          <th>Minimum deposit</th>
-          <th>Published spread</th>
-          <th>Published commission</th>
+          <th>{{ 'Account' | localize }}</th>
+          <th>{{ 'Minimum deposit' | localize }}</th>
+          <th>{{ 'Published spread' | localize }}</th>
+          <th>{{ 'Published commission' | localize }}</th>
         </tr>
       </thead>
       <tbody>
         <tr *ngFor="let account of accounts">
-          <td>{{ account.name }}</td>
-          <td>{{ account.deposit }}</td>
-          <td>{{ account.spread }}</td>
-          <td>{{ account.commission }}</td>
+          <td>{{ (account.name) | localize }}</td>
+          <td>{{ (account.deposit) | localize }}</td>
+          <td>{{ (account.spread) | localize }}</td>
+          <td>{{ (account.commission) | localize }}</td>
         </tr>
       </tbody>
     </table>
@@ -210,13 +199,13 @@
       <p
         class="!tw-text-start tw-font-montserrat tw-text-lg tw-font-extrabold tw-tracking-wider tw-w-full !tw-mb-2"
       >
-        {{ account.title }}
+        {{ (account.title) | localize }}
       </p>
       <div class="tw-border-b tw-border-white tw-w-full tw-my-3"></div>
       <p
         class="tw-text-sm tw-font-semibold tw-text-white tw-font-montserrat tw-text-left tw-leading-relaxed tw-tracking-wider"
       >
-        {{ account.text }}
+        {{ (account.text) | localize }}
       </p>
     </div>
   </div>
@@ -230,23 +219,21 @@
       <h2
         class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-montserrat tw-font-bold md:tw-my-4 !tw-mb-8"
       >
-        Forex Trading Regulation and Trust
-      </h2>
+         {{ 'Forex Trading Regulation and Trust' | localize }} </h2>
       <p
         class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed"
       >
-        UPFOREX's trading services are provided by UP Global Markets Ltd, which holds a Financial Services Commission (FSC) Mauritius licence GB25204570 as an Investment Dealer, Full Service Dealer, Excluding Underwriting. A related UAE affiliate, UPFOREX Financial Consultation LLC, holds Category 5 Arrangement and Advice permissions under licence 20200000350; this affiliate handles advice and introductions rather than trade execution.
-      </p>
+         {{ 'UPFOREX\'s trading services are provided by UP Global Markets Ltd, which holds a Financial Services Commission (FSC) Mauritius licence GB25204570 as an Investment Dealer, Full Service Dealer, Excluding Underwriting. A related UAE affiliate, UPFOREX Financial Consultation LLC, holds Category 5 Arrangement and Advice permissions under licence 20200000350; this affiliate handles advice and introductions rather than trade execution.' | localize }} </p>
       <p
         class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed"
       >
-        UPFOREX says it uses segregated client accounts. This is a company statement rather than an independent audit, and the public account page doesn't name a custodian bank or publish a client-money report.
-      </p>
+         {{ 'UPFOREX says it uses segregated client accounts. This is a company statement rather than an independent audit, and the public account page doesn\'t name a custodian bank or publish a client-money report.' | localize }} </p>
     </div>
     <div
       class="tw-w-full lg:tw-w-1/2 tw-flex tw-justify-center tw-items-center"
     >
       <ngb-carousel
+        [nativeCarouselLabels]="'Slide {0} of {1}'"
         #carousel
         [showNavigationArrows]="false"
         [wrap]="true"
@@ -261,7 +248,7 @@
               (leftSwipe)="carousel.next()"
               (rightSwipe)="carousel.prev()"
               [src]="s3URL + item"
-              alt="MetaTrader 5 trading platform"
+              [attr.alt]="'MetaTrader 5 trading platform' | localize"
             />
           </div>
         </ng-template>
@@ -297,8 +284,7 @@
     <h2
       class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-montserrat tw-font-bold md:tw-my-4"
     >
-      How to Compare the Best Forex Broker Options
-    </h2>
+       {{ 'How to Compare the Best Forex Broker Options' | localize }} </h2>
   </div>
 
   <div class="detail-section tw-mb-8">
@@ -306,13 +292,11 @@
       <p
         class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed"
       >
-   "Best forex broker" is a comparison phrase, not a verified award. A suitable provider depends on experience, budget, preferred markets, legal protections and risk tolerance. Confirm which company provides the account and handles funds, and compare spreads, commissions, financing, conversion costs and withdrawal fees.
-      </p>
+    {{ '"Best forex broker" is a comparison phrase, not a verified award. A suitable provider depends on experience, budget, preferred markets, legal protections and risk tolerance. Confirm which company provides the account and handles funds, and compare spreads, commissions, financing, conversion costs and withdrawal fees.' | localize }} </p>
       <p
         class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed"
       >
-        UPFOREX publishes accounts in USD. Funding through the South African rand (ZAR) may create conversion costs, and the account table does not confirm a ZAR account or domestic EFT option.
-      </p>
+         {{ 'UPFOREX publishes accounts in USD. Funding through the South African rand (ZAR) may create conversion costs, and the account table does not confirm a ZAR account or domestic EFT option.' | localize }} </p>
     </div>
   </div>
 
@@ -320,8 +304,7 @@
     <h2
       class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-montserrat tw-font-bold md:tw-my-4"
     >
-      How to Start Forex Trading in South Africa
-    </h2>
+       {{ 'How to Start Forex Trading in South Africa' | localize }} </h2>
   </div>
 
   <div
@@ -334,13 +317,13 @@
       <p
         class="!tw-text-start tw-font-montserrat tw-text-lg tw-font-extrabold md:!tw-h-[4rem] lg:!tw-h-[4rem] tw-tracking-wider tw-w-full !tw-mb-2"
       >
-        {{ item.title }}
+        {{ (item.title) | localize }}
       </p>
       <div class="tw-border-b tw-border-white tw-w-full tw-my-3"></div>
       <p
         class="tw-text-sm tw-font-semibold md:!tw-h-[15rem] lg:!tw-h-[10rem] tw-text-white tw-font-montserrat tw-text-left tw-leading-relaxed tw-tracking-wider"
       >
-        {{ item.description }}
+        {{ (item.description) | localize }}
       </p>
       <div class="tw-border-b tw-border-white tw-w-full tw-my-3"></div>
       <div class="tw-flex tw-justify-between tw-items-center tw-w-full">
@@ -364,7 +347,7 @@
           width="100%"
           class="tw-rounded-2xl"
           style="aspect-ratio: 2; object-fit: cover"
-          alt="Forex Trading Tax in South Africa"
+          [attr.alt]="'Forex Trading Tax in South Africa' | localize"
         />
       </div>
 
@@ -372,8 +355,7 @@
         <h2
           class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-montserrat tw-font-bold md:tw-my-4 mb-4"
         >
-          Forex Trading Tax in South Africa
-        </h2>
+           {{ 'Forex Trading Tax in South Africa' | localize }} </h2>
         <div class="my-3 d-flex flex-column gap-3">
           <div
             class="d-flex gap-2 justify-content-center tw-items-start"
@@ -383,8 +365,8 @@
               <i class="fa-xl fa-solid fa-circle-right"></i>
             </span>
             <h5 class="tw-text-white tw-font-montserrat tw-ml-2">
-              <b class="bold-text"> {{ item.boldText }} :</b>
-              {{ item.subText }}
+              <b class="bold-text"> {{ (item.boldText) | localize }} :</b>
+              {{ (item.subText) | localize }}
             </h5>
           </div>
         </div>
@@ -395,17 +377,15 @@
   <div class="tw-pb-8 tw-px-8 forex-faq-style">
     <div class="tw-w-full tw-p-0 md:tw-p-4">
       <p class="text-white tw-font-bold md:tw-my-4" style="font-size: 2.5rem">
-        Forex Trading FAQs
-      </p>
+         {{ 'Forex Trading FAQs' | localize }} </p>
 
       <ng-container *ngFor="let faq of faqs; let i = index">
         <p class="text-white tw-font-bold md:tw-my-4" style="font-size: 1.5rem">
-          Q: {{ i + 1 }}. {{ faq.question }}
-        </p>
+          {{ 'Q: {0}. {1}' | localize: [i + 1, faq.question] }}</p>
         <p
           class="tw-text-sm tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
         >
-          {{ faq.answer }}
+          {{ (faq.answer) | localize }}
         </p>
       </ng-container>
     </div>
@@ -414,27 +394,23 @@
   <p
     class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed tw-mt-8 risk-text"
   >
-    Risk warning: Forex and CFDs are leveraged products and involve a substantial risk of loss. You may lose part or all of your deposited capital, and losses can exceed deposits under some agreements or market conditions. Trading may not suit every person. Confirm the legal entity, regulatory position, costs and withdrawal rules before providing funds, and seek independent financial, legal and tax advice where appropriate.
-  </p>
+     {{ 'Risk warning: Forex and CFDs are leveraged products and involve a substantial risk of loss. You may lose part or all of your deposited capital, and losses can exceed deposits under some agreements or market conditions. Trading may not suit every person. Confirm the legal entity, regulatory position, costs and withdrawal rules before providing funds, and seek independent financial, legal and tax advice where appropriate.' | localize }} </p>
 </div>
 <div class="video-container tw-h-60 md:tw-h-64 lg:tw-h-72 tw-w-full">
   <img
     loading="lazy"
     class="background-video"
     [src]="s3URL + 'assets/images/unlock_access.webp'"
-    alt="Review Forex Trading Information"
+    [attr.alt]="'Review Forex Trading Information' | localize"
   />
   <div class="content">
     <p
       class="tw-text-white tw-font-semibold tw-text-lg md:tw-text-2xl tw-font-montserrat"
     >
-      Review Forex Trading Information
-    </p>
+       {{ 'Review Forex Trading Information' | localize }} </p>
     <p
       class="tw-text-white tw-font-semibold tw-text-sm md:tw-text-base tw-tracking-wider tw-font-montserrat"
     >
-      Compare the published accounts, examine MT5 and read the legal documents
-      before deciding whether the service is available and suitable.
-    </p>
+       {{ 'Compare the published accounts, examine MT5 and read the legal documents before deciding whether the service is available and suitable.' | localize }} </p>
   </div>
 </div>

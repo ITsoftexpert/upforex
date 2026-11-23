@@ -1,0 +1,623 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t50769c0b59762cc3",
+      "english": "<span data-i18n-slot=\"0\">How does NFP affect the US dollar?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">非农就业数据如何影响美元？</span>"
+    },
+    {
+      "key": "tbc2856540398c6ac",
+      "english": "<span data-i18n-slot=\"0\">Why does CPI move gold prices?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">为什么CPI会影响金价？</span>"
+    },
+    {
+      "key": "t95b11a05d1003af1",
+      "english": "<span data-i18n-slot=\"0\">NFP, CPI, and Fed decisions move markets because they change expectations. The strongest plan is not simply predicting whether a number will be higher or lower; it is knowing the release time, likely transmission channels, acceptable loss, and conditions that would invalidate the trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">非农就业数据、CPI和美联储决策会影响市场，因为它们会改变预期。最有力的计划并非只是预测数据会更高还是更低，而是了解公布时间、可能的传导渠道、可接受的损失，以及使交易依据失效的条件。</span>"
+    },
+    {
+      "key": "t909c36561da8b83e",
+      "english": "<span data-i18n-slot=\"0\">Quick Answer:</span><span data-i18n-slot=\"1\">Introducing Broker income is commission-based and depends on the trading activity of referred clients; it is not a fixed salary or guaranteed return. CFDs are leveraged products and carry a high level of risk; clients you refer should understand this risk before trading. UpForex operates through UP Global Markets Ltd (Mauritius FSC) and UPFOREX Financial Consultation LLC (UAE SCA). Always confirm current regulatory and program details directly with UpForex before entering into any partnership agreement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">快速回答：</span><span data-i18n-slot=\"1\">介绍经纪商收入以佣金为基础，并取决于推荐客户的交易活动；它不是固定工资或有保证的回报。差价合约是杠杆产品，具有高风险；您推荐的客户在交易前应了解此风险。 UpForex 通过 UP Global Markets Ltd (毛里求斯 FSC) 和 UPFOREX Financial Consultation LLC (阿联酋 SCA) 运行。在签订任何合作伙伴协议之前，请务必直接通过 UpForex 确认当前的监管和计划详细信息。</span>"
+    },
+    {
+      "key": "t5efdb6e47cb9ddc8",
+      "english": "<span data-i18n-slot=\"0\">What Is an Introducing Broker (IB)?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是介绍经纪商 (IB)？</span>"
+    },
+    {
+      "key": "tc76255823af99c7a",
+      "english": "<span data-i18n-slot=\"0\">This forex and CFD model is different from the US regulatory term </span><span data-i18n-slot=\"1\">introducing broker-dealer</span><span data-i18n-slot=\"2\"> and from a futures Introducing Broker. Those roles have separate licensing and clearing requirements.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这种外汇和差价合约模型不同于美国监管术语</span><span data-i18n-slot=\"1\">介绍经纪商-交易商</span><span data-i18n-slot=\"2\">以及期货介绍经纪商。这些角色有单独的许可和清算要求。</span>"
+    },
+    {
+      "key": "t3b9d8a2a959b20e0",
+      "english": "<span data-i18n-slot=\"0\">How Do Introducing Brokers Earn Commission?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">介绍经纪人如何赚取佣金？</span>"
+    },
+    {
+      "key": "t7318abb2e568815e",
+      "english": "<span data-i18n-slot=\"0\">Introducing Broker commission is generally connected to actual referred-client trading. Depending on the agreement, it may be calculated from eligible volume, spread contribution, account type, instrument, or another activity measure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">介绍经纪商佣金通常与实际推荐客户交易相关。根据协议，它可以根据合格的交易量、点差贡献、账户类型、工具或其他活动衡量标准来计算。</span>"
+    },
+    {
+      "key": "tc076751193819aa7",
+      "english": "<span data-i18n-slot=\"0\">Eligible accounts and instruments</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">合格账户和工具</span>"
+    },
+    {
+      "key": "tcea4cb95e6536ba5",
+      "english": "<span data-i18n-slot=\"0\">Client-attribution rules</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">客户归因规则</span>"
+    },
+    {
+      "key": "t3431cc64c350930e",
+      "english": "<span data-i18n-slot=\"0\">Introducing Broker vs. Affiliate vs. Clearing Broker: What’s the Difference?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">介绍经纪商、联盟推广合作伙伴与清算经纪商：有什么区别？</span>"
+    },
+    {
+      "key": "t96f92567342a9b29",
+      "english": "<span data-i18n-slot=\"0\">Feature</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">功能</span>"
+    },
+    {
+      "key": "t92d3a43ec28499c6",
+      "english": "<span data-i18n-slot=\"0\">Forex Affiliate</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇联盟推广合作伙伴</span>"
+    },
+    {
+      "key": "tf3a4c5d50efcacc7",
+      "english": "<span data-i18n-slot=\"0\">Clearing Broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">清算经纪商</span>"
+    },
+    {
+      "key": "t6a828beeaae9d42c",
+      "english": "<span data-i18n-slot=\"0\">Generates leads or conversions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">产生潜在客户或转化</span>"
+    },
+    {
+      "key": "t1ee83facbdeacba8",
+      "english": "<span data-i18n-slot=\"0\">Institutional clearing fees</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">机构清算费用</span>"
+    },
+    {
+      "key": "t59a8e3e497710e20",
+      "english": "<span data-i18n-slot=\"0\">Client relationship</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">客户关系</span>"
+    },
+    {
+      "key": "t0e01ead6c9ab1292",
+      "english": "<span data-i18n-slot=\"0\">Usually continuing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常会继续</span>"
+    },
+    {
+      "key": "td807a5c25ca763c2",
+      "english": "<span data-i18n-slot=\"0\">Often limited after referral</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">转介后通常受到限制</span>"
+    },
+    {
+      "key": "t76f6275c0dd350b8",
+      "english": "<span data-i18n-slot=\"0\">Operational clearing relationship</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">运营清算关系</span>"
+    },
+    {
+      "key": "tecbf5f7fc2476c9d",
+      "english": "<span data-i18n-slot=\"0\">Handles clearing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">处理清算</span>"
+    },
+    {
+      "key": "t83aabdf4bc7853da",
+      "english": "<span data-i18n-slot=\"0\">Normally no</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常没有</span>"
+    },
+    {
+      "key": "te16a88008b6532c2",
+      "english": "<span data-i18n-slot=\"0\">Complete due diligence</span><span data-i18n-slot=\"1\"> covering your background and promotional channels.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">完成尽职调查</span><span data-i18n-slot=\"1\">涵盖您的背景和促销渠道。</span>"
+    },
+    {
+      "key": "t93a701bd293387d3",
+      "english": "<span data-i18n-slot=\"0\">Receive approved referral tools</span><span data-i18n-slot=\"1\">, such as links, codes, or brand materials confirmed during onboarding.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">接收批准的推荐工具</span><span data-i18n-slot=\"1\">，例如在入职期间确认的链接、代码或品牌材料。</span>"
+    },
+    {
+      "key": "t3b812a5f3092557f",
+      "english": "<span data-i18n-slot=\"0\">Earn commission from eligible activity</span><span data-i18n-slot=\"1\"> under the signed terms.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">根据签署的条款从符合条件的活动中赚取佣金</span><span data-i18n-slot=\"1\">。</span>"
+    },
+    {
+      "key": "tac34a3ce84ffa9a0",
+      "english": "<span data-i18n-slot=\"0\">What Makes a Strong Introducing Broker Program?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是强大的介绍经纪商计划？</span>"
+    },
+    {
+      "key": "t54f105202150985e",
+      "english": "<span data-i18n-slot=\"0\">The </span><span data-i18n-slot=\"1\">best Introducing Broker programs</span><span data-i18n-slot=\"2\"> are not necessarily those advertising the largest rate. Review:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">最好的介绍经纪商计划</span><span data-i18n-slot=\"2\">未必是那些宣传最高佣金费率的计划。请考察：</span>"
+    },
+    {
+      "key": "t499f0627cb5850c9",
+      "english": "<span data-i18n-slot=\"0\">UpForex publishes</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex and CFD trading</span></span><span data-i18n-slot=\"4\"> information across its confirmed product range: Forex, Stock CFDs, Precious Metals, Index CFDs, Energy CFDs, and Crypto CFDs, all through MT5. Availability and terms can change, so IBs should verify current information before presenting it.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex发布</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">外汇和差价合约交易</span></span><span data-i18n-slot=\"4\">信息，涵盖其已确认的产品范围：外汇、股票差价合约、贵金属、指数差价合约、能源差价合约及加密货币差价合约，均通过MT5交易。产品可用性和条款可能变化，因此介绍经纪商在向客户介绍前应核实最新信息。</span>"
+    },
+    {
+      "key": "t5e4c80746a55a166",
+      "english": "<span data-i18n-slot=\"0\">Who Should Consider Becoming an Introducing Broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">谁应该考虑成为介绍经纪人？</span>"
+    },
+    {
+      "key": "t23d20b5c52666770",
+      "english": "<span data-i18n-slot=\"0\">An audience alone is not enough. A successful IB also needs product knowledge, compliance awareness, and ongoing engagement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">仅有观众是不够的。成功的介绍经纪商还需要产品知识、合规意识和持续参与。</span>"
+    },
+    {
+      "key": "t8babfaa9f363c097",
+      "english": "<span data-i18n-slot=\"0\">Learn the instruments and risks before discussing them with clients. CFDs provide leveraged exposure and can create substantial losses.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在与客户讨论之前先了解工具和风险。差价合约提供杠杆敞口，可能造成重大损失。</span>"
+    },
+    {
+      "key": "tb1c335ebeaed9899",
+      "english": "<span data-i18n-slot=\"0\">2. Learn MT5</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。了解 MT5</span>"
+    },
+    {
+      "key": "t67cc7dea9f032cc0",
+      "english": "<span data-i18n-slot=\"0\">Use the option to</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">start with a demo account</span></span><span data-i18n-slot=\"4\"> before referring live clients. Demo conditions do not reproduce every live-market factor, but they help you understand the platform process.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在推荐真实客户之前，使用该选项</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">从模拟帐户开始</span></span><span data-i18n-slot=\"4\">。演示条件并不能重现所有实时市场因素，但它们可以帮助您了解平台流程。</span>"
+    },
+    {
+      "key": "t0d7fd465718c4537",
+      "english": "<span data-i18n-slot=\"0\">4. Review Account Types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4。查看帐户类型</span>"
+    },
+    {
+      "key": "t6044c571d68757af",
+      "english": "<span data-i18n-slot=\"0\">5. Request Current Partnership Terms</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5。请求当前合作条款</span>"
+    },
+    {
+      "key": "tfb257981e76051ef",
+      "english": "<span data-i18n-slot=\"0\">6. Complete Onboarding and Begin Referring</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">6。完成入职并开始推荐</span>"
+    },
+    {
+      "key": "t0c69b353c4c627a9",
+      "english": "<span data-i18n-slot=\"0\">Common Mistakes New IBs Make</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">新介绍经纪人常犯的错误</span>"
+    },
+    {
+      "key": "t1c643ebde47fe86d",
+      "english": "<span data-i18n-slot=\"0\">Referring clients without understanding the platform</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在不了解平台的情况下推荐客户</span>"
+    },
+    {
+      "key": "t741c0a3b80a3725d",
+      "english": "<span data-i18n-slot=\"0\">Promising returns or fixed IB income</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">承诺收益或固定的IB收入</span>"
+    },
+    {
+      "key": "t92181d732131ca3b",
+      "english": "<span data-i18n-slot=\"0\">Publishing outdated account conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">发布过时的帐户条件</span>"
+    },
+    {
+      "key": "tbf7a8d25592e8ccd",
+      "english": "<span data-i18n-slot=\"0\">Failing to disclose the commercial relationship</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">未披露商业关系</span>"
+    },
+    {
+      "key": "t3f116c8b754f11c5",
+      "english": "<span data-i18n-slot=\"0\">Neglecting referred clients after registration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">注册后忽视推荐客户</span>"
+    },
+    {
+      "key": "t04ecb603518a1453",
+      "english": "<span data-i18n-slot=\"0\">Giving regulated advice without authorization</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">未经授权提供受监管的建议</span>"
+    },
+    {
+      "key": "tbc7bf0e745e21b75",
+      "english": "<span data-i18n-slot=\"0\">Prospective IBs should</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">read UpForex’s legal and regulatory documents</span></span><span data-i18n-slot=\"4\"> and confirm the applicable Introducing Broker agreement directly with UpForex before promoting the program.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">潜在介绍经纪人应</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">阅读 UpForex 的法律和监管文件</span></span><span data-i18n-slot=\"4\">并在推广该计划之前直接与 UpForex 确认适用的介绍经纪人协议。</span>"
+    },
+    {
+      "key": "t02970222ab1d0542",
+      "english": "<span data-i18n-slot=\"0\">What is an Introducing Broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是介绍经纪人？</span>"
+    },
+    {
+      "key": "t9e3b98a1998e29e7",
+      "english": "<span data-i18n-slot=\"0\">An Introducing Broker is a person or business that refers prospective clients to a broker and may earn commission from eligible trading activity. The broker provides the accounts, platform, execution, and compliance framework, while the IB focuses on referrals, education, and relationship support.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">介绍经纪人是指将潜在客户推荐给经纪人的个人或企业，并可以从合格的交易活动中赚取佣金。经纪商提供账户、平台、执行和合规框架，而IB则专注于推荐、教育和关系支持。</span>"
+    },
+    {
+      "key": "tf7f6c40d008eca1f",
+      "english": "<span data-i18n-slot=\"0\">How do Introducing Brokers get paid?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">介绍经纪人如何获得报酬？</span>"
+    },
+    {
+      "key": "tdb6a603a61ab15ce",
+      "english": "<span data-i18n-slot=\"0\">Introducing Brokers are paid according to their agreement, often using eligible client volume, spread contribution, or another activity-based calculation. Registration alone may not qualify. Rates, exclusions, payment timing, and reporting should be confirmed before signing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">介绍经纪人根据他们的协议获得报酬，通常使用合格的客户量、点差贡献或其他基于活动的计算。仅注册可能不符合资格。费率、排除情况、付款时间和报告应在签字前确认。</span>"
+    },
+    {
+      "key": "tf4fa55cdd6f9b6a5",
+      "english": "<span data-i18n-slot=\"0\">How much can an Introducing Broker earn?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">介绍经纪人能赚多少钱？</span>"
+    },
+    {
+      "key": "tb991a6d98e3551d5",
+      "english": "<span data-i18n-slot=\"0\">There is no fixed Introducing Broker salary or universal income figure. Earnings vary with the agreement, accepted referrals, eligible trading activity, instruments, and rates. Some periods may generate little or no commission.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">没有固定的介绍经纪人工资或普遍收入数字。收益因协议、接受的推荐、合格的交易活动、工具和费率而异。某些时期可能产生很少或没有佣金。</span>"
+    },
+    {
+      "key": "td2d84e94a30ccbb8",
+      "english": "<span data-i18n-slot=\"0\">Do I need a license to become an Introducing Broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">我需要许可证才能成为介绍经纪人吗？</span>"
+    },
+    {
+      "key": "t837fbd2c53ff2154",
+      "english": "<span data-i18n-slot=\"0\">Is there a cost to become an Introducing Broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">成为介绍经纪人需要付费吗？</span>"
+    },
+    {
+      "key": "tc65397ae05fe948c",
+      "english": "<span data-i18n-slot=\"0\">Any application, setup, technology, or partnership costs should be confirmed directly with UpForex during onboarding. Prospective IBs should also consider their own expenses, such as website management, advertising, events, content production, or staffing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">任何申请、设置、技术或合作费用，都应在入驻期间直接向UpForex确认。有意成为介绍经纪商的人还应考虑自身的支出，例如网站管理、广告、活动、内容制作或人员配备。</span>"
+    },
+    {
+      "key": "t4fe558438a15fc3f",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between an Introducing Broker and an affiliate?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">介绍经纪商与联盟推广合作伙伴有什么区别？</span>"
+    },
+    {
+      "key": "t5289c14ed135d8e4",
+      "english": "<span data-i18n-slot=\"0\">What is an Introducing Broker agreement?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是介绍经纪人协议？</span>"
+    },
+    {
+      "key": "te7225a34683fbb32",
+      "english": "<span data-i18n-slot=\"0\">Introducing Broker income is variable and commission-based. Trading CFDs carries a high risk of loss, and referred clients should understand the risks before opening an account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">介绍经纪人的收入是可变的并且基于佣金。交易差价合约具有很高的损失风险，推荐客户在开户前应了解风险。</span>"
+    },
+    {
+      "key": "t62656c947dadf114",
+      "english": "<span data-i18n-slot=\"0\">What Is Copy Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是跟单交易？</span>"
+    },
+    {
+      "key": "tac7a80634865a6b3",
+      "english": "<span data-i18n-slot=\"0\">In forex copy trading, the subscriber remains responsible for copied positions, costs, and losses.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在外汇跟单交易中，订阅者仍需对跟单头寸、成本和损失负责。</span>"
+    },
+    {
+      "key": "t1a64a20effaea752",
+      "english": "<span data-i18n-slot=\"0\">Copy Trading vs. Social Trading vs. Mirror Trading: What’s the Difference?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">跟单交易、社交交易、镜像交易：有什么区别？</span>"
+    },
+    {
+      "key": "teed11fb15a26fabb",
+      "english": "<span data-i18n-slot=\"0\">Copy Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">跟单交易</span>"
+    }
+  ]
+}

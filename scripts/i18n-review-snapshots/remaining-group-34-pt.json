@@ -1,0 +1,457 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t85ec4cb1cf373b43",
+      "english": "<span data-i18n-slot=\"0\">Fixed exchange hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Horário fixo da bolsa</span>"
+    },
+    {
+      "key": "t5e008d2e26b1bf66",
+      "english": "<span data-i18n-slot=\"0\">Broker quotes or liquidity-provider pricing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cotações do corretor ou preços do provedor de liquidez</span>"
+    },
+    {
+      "key": "t4ec9b22ddc2eec43",
+      "english": "<span data-i18n-slot=\"0\">Exchange and regulator oversight</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Supervisão da bolsa e do regulador</span>"
+    },
+    {
+      "key": "t5d6e284065495930",
+      "english": "<span data-i18n-slot=\"0\">For example, UPFOREX Financial Consultation LLC is licensed and regulated by the UAE Securities and Commodities Authority under Category 5 – Arrangement &amp; Advice, holding License No. 20200000350. That makes it especially relevant for traders looking for a regulated UAE-based platform.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por exemplo, a UPFOREX Financial Consultation LLC é licenciada e regulamentada pela Autoridade de Valores Mobiliários e Commodities dos EAU sob a categoria 5 - Arranjo &amp; Conselho, com a licença no 20200000350. Isso o torna especialmente relevante para comerciantes procurando uma plataforma baseada em EAU regulada.</span>"
+    },
+    {
+      "key": "tc88d127e9f269b46",
+      "english": "<span data-i18n-slot=\"0\">What You Can Trade OTC</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que você pode trocar OTC</span>"
+    },
+    {
+      "key": "t62957fa8bc0efaaa",
+      "english": "<span data-i18n-slot=\"0\">Crypto-Linked Products</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Produtos vinculados a criptoativos</span>"
+    },
+    {
+      "key": "t709f3bcefe729f38",
+      "english": "<span data-i18n-slot=\"0\">Bonds, Sukuk, and Structured Products</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Títulos, Sukuk, e produtos estruturados</span>"
+    },
+    {
+      "key": "t4ca72d9e5e79296c",
+      "english": "<span data-i18n-slot=\"0\">Pricing and Execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Preços e Execução</span>"
+    },
+    {
+      "key": "t294baee3f17ff231",
+      "english": "<span data-i18n-slot=\"0\">Because OTC trading does not use a centralized exchange order book, execution quality matters more. You should pay attention to spreads, commissions, slippage, and the way your trades are routed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Porque a OTC não usa um livro de pedidos centralizado, a qualidade da execução importa mais. Você deve prestar atenção aos spreads, comissões, deslize, e ao modo como seus negócios são encaminhados.</span>"
+    },
+    {
+      "key": "t2912c72ddc817129",
+      "english": "<span data-i18n-slot=\"0\">UPFOREX Financial Consultation LLC is licensed and regulated by the UAE Securities and Commodities Authority under Category 5 – Arrangement &amp; Advice, holding License No. 20200000350. That gives you a clearer regulatory foundation for trading in the UAE.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A UPFOREX Financial Consultation LLC é licenciada e regulamentada pela Autoridade de Valores Mobiliários e Commodities dos EAU sob a categoria 5 – Arranjo e Aconselhamento, com a licença no 20200000350. Isso lhe dá uma base regulatória mais clara para a negociação nos EAU.</span>"
+    },
+    {
+      "key": "t86b123aa291ca8d4",
+      "english": "<span data-i18n-slot=\"0\">What Makes UpForex Useful for UAE Traders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que torna a UpForex útil para os traders dos EAU</span>"
+    },
+    {
+      "key": "tf4bb5992502115fa",
+      "english": "<span data-i18n-slot=\"0\">If You Are Hedging Exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se você está protegendo exposição</span>"
+    },
+    {
+      "key": "t7e29023bf39f290f",
+      "english": "<span data-i18n-slot=\"0\">If you are using financial markets to hedge currency, commodity, or portfolio risk, OTC instruments can give you more flexibility than many exchange-listed products. That is especially useful if you need targeted exposure rather than broad market ownership.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se você usa os mercados financeiros para fazer hedge de riscos cambiais, de commodities ou da carteira, os instrumentos de balcão podem oferecer mais flexibilidade que muitos produtos listados em bolsa. Isso é especialmente útil se você precisa de uma exposição direcionada, em vez de uma participação ampla no mercado.</span>"
+    },
+    {
+      "key": "tc5a4bbe5baf13973",
+      "english": "<span data-i18n-slot=\"0\">You may be able to trade outside standard exchange hours.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Você pode ser capaz de trocar fora do horário de troca padrão.</span>"
+    },
+    {
+      "key": "tfc6a0bf8de9eb590",
+      "english": "<span data-i18n-slot=\"0\">You can access instruments not listed on UAE exchanges.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Você pode acessar instrumentos não listados nas bolsas dos EAU.</span>"
+    },
+    {
+      "key": "td27476aa233496be",
+      "english": "<span data-i18n-slot=\"0\">You may benefit from a more personalized trading setup.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Você pode se beneficiar de uma configuração comercial mais personalizada.</span>"
+    },
+    {
+      "key": "t21bfbccba8548471",
+      "english": "<span data-i18n-slot=\"0\">You rely on the provider to handle your trade correctly and meet its obligations. If the provider is unregulated or poorly managed, your risk rises.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Você confia no provedor para lidar com seu comércio corretamente e cumprir suas obrigações. Se o provedor estiver desregulado ou mal gerenciado, seu risco aumenta.</span>"
+    },
+    {
+      "key": "tdbd94ae8842739d4",
+      "english": "<span data-i18n-slot=\"0\">Leverage can magnify both profits and losses. A small move in the market can have a much larger effect on your account than you expect.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A alavancagem pode ampliar tanto os lucros quanto as perdas. Um pequeno movimento de mercado pode ter um efeito muito maior na conta do que você espera.</span>"
+    },
+    {
+      "key": "ta4790b7441ac5842",
+      "english": "<span data-i18n-slot=\"0\">How to Start OTC Trading in the UAE</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como iniciar a negociação OTC nos EAU</span>"
+    },
+    {
+      "key": "t6a15b370831569f2",
+      "english": "<span data-i18n-slot=\"0\">Use stop-loss orders, charting tools, and risk controls to manage your positions. These features can help you trade more responsibly.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Use ordens de stop-loss, ferramentas gráficas e controles de risco para administrar suas posições. Esses recursos podem ajudar você a negociar com mais responsabilidade.</span>"
+    },
+    {
+      "key": "t88409966e1778926",
+      "english": "<span data-i18n-slot=\"0\">What is OTC trading in the UAE?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que é negociação no mercado de balcão nos EAU?</span>"
+    },
+    {
+      "key": "t38f4f58cfd31e2dc",
+      "english": "<span data-i18n-slot=\"0\">Is OTC trading legal in Dubai?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A negociação no mercado de balcão é legal em Dubai?</span>"
+    },
+    {
+      "key": "te5f9509bc78a0e59",
+      "english": "<span data-i18n-slot=\"0\">What can you trade OTC?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que você pode trocar OTC?</span>"
+    },
+    {
+      "key": "tc2eea479d856d7ab",
+      "english": "<span data-i18n-slot=\"0\">Yes, UPFOREX Financial Consultation LLC is licensed and regulated by the UAE Securities and Commodities Authority under Category 5 – Arrangement &amp; Advice, holding License No. 20200000350.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sim, a UPFOREX Financial Consultation LLC é licenciada e regulamentada pela Autoridade de Valores Mobiliários e Commodities dos EAU sob a categoria 5 – Arranjo &amp; Conselho, com a licença no 20200000350.</span>"
+    },
+    {
+      "key": "t057dbce8eaed7912",
+      "english": "<span data-i18n-slot=\"0\">Can you trade OTC on mobile?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pode trocar o OTC por celular?</span>"
+    },
+    {
+      "key": "t6f26344d27557495",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. </span><span data-i18n-slot=\"2\">CFD (Contract for Difference):</span></span><span data-i18n-slot=\"3\"> You trade price movements without owning the asset</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. </span><span data-i18n-slot=\"2\">CFD (Contrato para Diferença):</span></span><span data-i18n-slot=\"3\"> Você troca movimentos de preços sem possuir o ativo.</span>"
+    },
+    {
+      "key": "t194b98c81f27ac30",
+      "english": "<span data-i18n-slot=\"0\">Platforms like UpForex make it simple for you to trade major indices and explore earning opportunities from market movements.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Plataformas como a UpForex facilitam a troca de grandes índices e exploram oportunidades de movimentos de mercado.</span>"
+    },
+    {
+      "key": "tef9ed50ef765f776",
+      "english": "<span data-i18n-slot=\"0\">Some popular indices you can trade are:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alguns índices populares que você pode trocar são:</span>"
+    },
+    {
+      "key": "tc63753df6afa21a9",
+      "english": "<span data-i18n-slot=\"0\">1. S&amp;P 500</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. NASDAQ 100</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. Dow Jones</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. FTSE 100</span><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\">5. DAX 40</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Índice S&amp;P 500</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. NASDAQ 100</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. Dow Jones</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. FTSE 100</span><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\">5. DAX 40</span>"
+    },
+    {
+      "key": "t70e6b6b4a710f7f0",
+      "english": "<span data-i18n-slot=\"0\">1. If you think the index will go up → you place a </span><span data-i18n-slot=\"1\">buy trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Se você acha que o índice vai subir → abre uma </span><span data-i18n-slot=\"1\">operação de compra</span>"
+    },
+    {
+      "key": "te123182462087ab8",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Access to Global Markets</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Acesso aos mercados globais</span></span>"
+    },
+    {
+      "key": "t9cfa72f38770febf",
+      "english": "<span data-i18n-slot=\"0\">Leverage</span><span data-i18n-slot=\"1\"> means you can control a bigger trade with less money. For example, you can trade a large position using a small amount of capital.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alavancagem</span><span data-i18n-slot=\"1\"> significa que você pode controlar uma operação maior com menos dinheiro. Por exemplo, pode negociar uma posição grande usando um pequeno montante de capital.</span>"
+    },
+    {
+      "key": "t5f047cb96286b4cd",
+      "english": "<span data-i18n-slot=\"0\">But remember: Leverage increases both profit and loss. So use it carefully.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Mas lembre-se: a alavancagem aumenta tanto os lucros quanto as perdas. Portanto, use-a com cuidado.</span>"
+    },
+    {
+      "key": "t662b1f9c1070ed5c",
+      "english": "<span data-i18n-slot=\"0\">1. NASDAQ</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. S&amp;P 500</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. Dow Jones</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. FTSE 100</span><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\">5. DAX</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Índice NASDAQ</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. S&amp;P 500</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. Dow Jones</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. FTSE 100</span><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\">5. DAX</span>"
+    },
+    {
+      "key": "t9b3631785aaab50a",
+      "english": "<span data-i18n-slot=\"0\">1. Charts</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. News</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. Trends</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. Technical analysis</span><span data-i18n-slot=\"7\"></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Gráficos</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. Notícias</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. Tendências</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. Análise técnica</span><span data-i18n-slot=\"7\"></span>"
+    },
+    {
+      "key": "tc89260485beb8cf2",
+      "english": "<span data-i18n-slot=\"0\">1. Think price will go up → Buy</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. Think price will go down → Sell</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Acha que o preço vai subir → compre</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. Acha que o preço vai cair → venda</span>"
+    },
+    {
+      "key": "tc9a76acf2b674b77",
+      "english": "<span data-i18n-slot=\"0\">Key Benefits of Trading Indices via CFDs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Principais benefícios da negociação de índices via CFDs</span>"
+    },
+    {
+      "key": "t9c0f39c23d6d5130",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. No Ownership Required</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Não é necessário possuir o ativo</span></span>"
+    },
+    {
+      "key": "t5a8298e027ecebf8",
+      "english": "<span data-i18n-slot=\"0\">Popular indices have high trading volume. This means you can easily enter and exit trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Índices populares têm alto volume comercial. Isso significa que você pode entrar e sair facilmente das trocas.</span>"
+    },
+    {
+      "key": "t3ff61f69f38995e9",
+      "english": "<span data-i18n-slot=\"0\">Trading always has risk. The key is to manage it smartly.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negociar sempre tem risco. A chave é lidar com isso de forma inteligente.</span>"
+    },
+    {
+      "key": "t5e705f8a7ddabb8e",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Use Stop-Loss</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Utilize stop-loss</span></span>"
+    },
+    {
+      "key": "t71c031f920eb5965",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Avoid Over-Leverage</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Evite o excesso de alavancagem.</span></span>"
+    },
+    {
+      "key": "t1ef549916ad1f35b",
+      "english": "<span data-i18n-slot=\"0\">Using too much leverage can lead to big losses. Always stay in control.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Usar alavancagem excessiva pode levar a grandes perdas. Mantenha sempre o controle.</span>"
+    },
+    {
+      "key": "t29c5f444d434eb14",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Diversify Your Trades</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Diversifique seus negócios.</span></span>"
+    },
+    {
+      "key": "ta23889e47010fa0e",
+      "english": "<span data-i18n-slot=\"0\">Don’t depend on one trade. Spread your risk across different indices.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Não dependa de uma única operação. Distribua o risco entre diferentes índices.</span>"
+    }
+  ]
+}

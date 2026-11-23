@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { forexMarketInfo } from './constant';
 
 @Component({
+  standalone: false,
   selector: 'app-intro-to-forex',
   templateUrl: './intro-to-forex.component.html',
   styleUrls: ['./intro-to-forex.component.scss'],

@@ -3,6 +3,7 @@ import confetti, { Options } from 'canvas-confetti';
 import { isPlatformBrowser } from '@angular/common';
 
 @Component({
+  standalone: false,
   selector: 'app-confetti',
   templateUrl: './confetti.component.html',
   styleUrls: ['./confetti.component.scss'],

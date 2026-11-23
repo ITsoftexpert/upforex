@@ -1,0 +1,1513 @@
+{
+  "language": "ru",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t5b4b404d0671a3cd",
+      "english": "<span data-i18n-slot=\"0\">1.0848</span><span data-i18n-slot=\"1\"> = bid</span>",
+      "translation": "<span data-i18n-slot=\"0\">1.0848</span><span data-i18n-slot=\"1\"> = Бид</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tc6c9baa9b1717459",
+      "english": "<span data-i18n-slot=\"0\">If a trader submits a market sell, the relevant quoted side is approximately the bid at 1.0848.</span>",
+      "translation": "<span data-i18n-slot=\"0\">При отправке рыночного ордера на продажу трейдер ориентируется примерно на цену Bid 1.0848.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t9b560dd666d9809e",
+      "english": "<span data-i18n-slot=\"0\">If a trader submits a market buy, the relevant quoted side is approximately the ask at 1.0850.</span>",
+      "translation": "<span data-i18n-slot=\"0\">При отправке рыночного ордера на покупку трейдер ориентируется примерно на цену Ask 1.0850.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tb101bccc09d7c0d2",
+      "english": "<span data-i18n-slot=\"0\">Bid</span>",
+      "translation": "<span data-i18n-slot=\"0\">Бид (цена спроса)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t0f1586670b8d7b1f",
+      "english": "<span data-i18n-slot=\"0\">Price associated with buying the pair</span>",
+      "translation": "<span data-i18n-slot=\"0\">Цены, связанные с покупкой пары</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t9fb59a61858e6fbd",
+      "english": "<span data-i18n-slot=\"0\">Difference between ask and bid</span>",
+      "translation": "<span data-i18n-slot=\"0\">Разница между ценами Ask и Bid</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t4f3ff4088c72c798",
+      "english": "<span data-i18n-slot=\"0\">The ask is normally above the bid. That gap is what creates the spread.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Цена Ask обычно выше цены Bid. Эта разница и образует спред.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t7cea19c403db76f8",
+      "english": "<span data-i18n-slot=\"0\">The spread is the difference between the ask price and the bid price.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Спред — разница между ценой Ask и ценой Bid.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t0283c76c3b0d0b9a",
+      "english": "<span data-i18n-slot=\"0\">Bid: 1.0848</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ask: 1.0850</span>",
+      "translation": "<span data-i18n-slot=\"0\">Бид: 1.0848</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Аск: 1.0850</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t7b0d9895f69ff0f3",
+      "english": "<span data-i18n-slot=\"0\">Pro-ECN: from 0 pips</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pro-ECN: от 0 пипсов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "td2d02ba0f0dbb384",
+      "english": "<span data-i18n-slot=\"0\">What Is a Direct vs an Indirect Quote?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое прямая и косвенная котировка?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tc3b894a82c7d8e1a",
+      "english": "<span data-i18n-slot=\"0\">An indirect format reverses that viewpoint:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Косвенный формат меняет эту точку зрения:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t08c2de5812382494",
+      "english": "<span data-i18n-slot=\"0\">Bid = 1.0848</span>",
+      "translation": "<span data-i18n-slot=\"0\">Бид = 1.0848</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t36775be552c4da2b",
+      "english": "<span data-i18n-slot=\"0\">A trader buying EUR/USD would look at the ask side.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Трейдер, покупающий EUR/USD, ориентируется на цену Ask.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tab39f8613dc6eee5",
+      "english": "<span data-i18n-slot=\"0\">A trader selling EUR/USD would look at the bid side.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Трейдер, продающий EUR/USD, ориентируется на цену Bid.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t78cd0e1a101923fa",
+      "english": "<span data-i18n-slot=\"0\">Step 4: Watch the Quote Move</span>",
+      "translation": "<span data-i18n-slot=\"0\">Шаг 4: Следите за изменением котировки</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tc64cac06c8ea22fc",
+      "english": "<span data-i18n-slot=\"0\">to:</span>",
+      "translation": "<span data-i18n-slot=\"0\">к:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t7741a9bafd5e4a6c",
+      "english": "<span data-i18n-slot=\"0\">Both the bid and ask have risen by 2 pips.</span>",
+      "translation": "<span data-i18n-slot=\"0\">И цена Bid, и цена Ask выросли на 2 пипса.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tba8cbfaba5cd33a3",
+      "english": "<span data-i18n-slot=\"0\">Quote Stage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Этап изменения котировки</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t5fa638b613fcb184",
+      "english": "<span data-i18n-slot=\"0\">Unchanged</span>",
+      "translation": "<span data-i18n-slot=\"0\">Неизменный</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tff8d5e2f2e8c1647",
+      "english": "<span data-i18n-slot=\"0\">that side of the quote has moved by 1 pip.</span>",
+      "translation": "<span data-i18n-slot=\"0\">эта сторона котировки изменилась на 1 пипс.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t553ca8174c837581",
+      "english": "<span data-i18n-slot=\"0\">A move from:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Переход от:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tff2b13c2775de77c",
+      "english": "<span data-i18n-slot=\"0\">Pairs involving the Japanese yen are commonly quoted differently, with the pip usually associated with the second decimal place rather than the fourth.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Пары с японской иеной обычно котируются иначе: пипс, как правило, соответствует второму знаку после запятой, а не четвёртому.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "td1bcb972cb0e1e62",
+      "english": "<span data-i18n-slot=\"0\">Confusing Bid and Ask</span>",
+      "translation": "<span data-i18n-slot=\"0\">Путаница между ценами Bid и Ask</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t6ffefa66f354d476",
+      "english": "<span data-i18n-slot=\"0\">Sell → bid</span>",
+      "translation": "<span data-i18n-slot=\"0\">Продажа → Бид</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tb07124d2a5ba7404",
+      "english": "<span data-i18n-slot=\"0\">For a long position, the bid becomes relevant when closing.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Для длинной позиции при закрытии важна цена Bid.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "taea19cafdce1ce5d",
+      "english": "<span data-i18n-slot=\"0\">Confusing Quote Currency With a Forex Quote</span>",
+      "translation": "<span data-i18n-slot=\"0\">Путаница между валютой котировки и котировкой на форекс</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t64b347f2efca7c96",
+      "english": "<span data-i18n-slot=\"0\">How Do You View Forex Quotes on UPFOREX MT5?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как вы просматриваете котировки на UPFOREX MT5?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t032ced03ea038125",
+      "english": "<span data-i18n-slot=\"0\">A useful practice routine is:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Полезной практикой является:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t06b6300fe514b813",
+      "english": "<span data-i18n-slot=\"0\">Identify the bid and ask.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Определите цены Bid и Ask.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "td7c8f05bfc614e41",
+      "english": "<span data-i18n-slot=\"0\">Calculate the spread between them.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Рассчитайте спред между ними.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "teb1416d12e858f03",
+      "english": "<span data-i18n-slot=\"0\">UP Global Markets Ltd is licensed by the Financial Services Commission of Mauritius as an Investment Dealer (Full Service Dealer, Excluding Underwriting), Licence No. GB25204570. UPFOREX Financial Consultation LLC is licensed and regulated by the UAE Securities and Commodities Authority under Category 5 – Arrangement &amp; Advice, Licence No. 20200000350.</span>",
+      "translation": "<span data-i18n-slot=\"0\">UP Global Markets Ltd лицензирована Комиссией по финансовым услугам Маврикия как инвестиционный дилер с полным спектром услуг, исключая андеррайтинг, лицензия № GB25204570. UPFOREX Financial Consultation LLC лицензирована и регулируется Управлением по ценным бумагам и сырьевым товарам ОАЭ по категории 5 — организация сделок и консультирование, лицензия № 20200000350.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/how-to-read-a-forex-quote",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "td34d7dac569f0506",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between bid and ask price?</span>",
+      "translation": "<span data-i18n-slot=\"0\">В чём разница между ценами Bid и Ask?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t29dbfbff6e3c3097",
+      "english": "<span data-i18n-slot=\"0\">The spread is the difference between the ask and bid prices. If EUR/USD is illustratively quoted at 1.0848 / 1.0850, the difference is 0.0002, which equals 2 pips for that pair. Spreads can change as liquidity, volatility and market conditions change.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Спред — разница между ценами Ask и Bid. Если в иллюстративном примере котировка EUR/USD составляет 1.0848 / 1.0850, разница равна 0.0002, то есть 2 пипсам для этой пары. Спреды могут меняться вместе с ликвидностью, волатильностью и рыночными условиями.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t2526deb3256024c3",
+      "english": "<span data-i18n-slot=\"0\">How do you know whether a forex quote is rising or falling?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как узнать, растет или падает котировка форекс?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tce4bc846613dce32",
+      "english": "<span data-i18n-slot=\"0\">Is a forex quote on MT5 a live price?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Является ли котировка форекс на MT5 текущей рыночной ценой?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t549cd5fd1e200c57",
+      "english": "<span data-i18n-slot=\"0\">Practice Reading the Quote Before Placing a Trade</span>",
+      "translation": "<span data-i18n-slot=\"0\">Потренируйтесь читать котировку до открытия сделки</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tf4bafe70b81bd992",
+      "english": "<span data-i18n-slot=\"0\">The Bank for International Settlements reported average global FX turnover of about </span><span data-i18n-slot=\"1\">$9.6 trillion per day in April 2025</span><span data-i18n-slot=\"2\">, with the US dollar on one side of </span><span data-i18n-slot=\"3\">89% of all FX trades</span><span data-i18n-slot=\"4\">.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">BIS press release, 30 September 2025</span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Банк международных расчетов сообщил о среднем глобальном обороте иностранной валюты </span><span data-i18n-slot=\"1\">$9.6 трлн в день в апреле 2025 года</span><span data-i18n-slot=\"2\">Доллар США на одной стороне </span><span data-i18n-slot=\"3\">89% всех валютных сделок</span><span data-i18n-slot=\"4\">.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Пресс-релиз BIS, 30 сентября 2025</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t1d356c7adebfe660",
+      "english": "<span data-i18n-slot=\"0\">Trading-session activity</span>",
+      "translation": "<span data-i18n-slot=\"0\">Торгово-сессионная деятельность</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t504ccaa650c6f6ea",
+      "english": "<span data-i18n-slot=\"0\">Imagine a market buy order is submitted at a displayed price, but there is not enough sell-side liquidity remaining at that level when execution occurs. The order may interact with the next available price instead.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Представьте себе, что ордер на покупку на рынке представлен по отображаемой цене, но при исполнении недостаточно ликвидности на стороне продажи, остающейся на этом уровне. Заказ может взаимодействовать со следующей доступной ценой.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tac4aa5d482a05d8c",
+      "english": "<span data-i18n-slot=\"0\">Spread paid at entry or exit</span>",
+      "translation": "<span data-i18n-slot=\"0\">Спред оплачивается при входе или выходе</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t09ae82c5c12af851",
+      "english": "<span data-i18n-slot=\"0\">Typical Slippage Risk</span>",
+      "translation": "<span data-i18n-slot=\"0\">Типичный риск проскальзывания</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tb26cd96cbbf9a66a",
+      "english": "<span data-i18n-slot=\"0\">Usually among the tighter major-pair spreads</span>",
+      "translation": "<span data-i18n-slot=\"0\">Обычно среди более плотных мажорных спредов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tfa74a31f4f922aa9",
+      "english": "<span data-i18n-slot=\"0\">Usually tight during active periods</span>",
+      "translation": "<span data-i18n-slot=\"0\">Обычно узкие в активные периоды</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t32b9f9b6ec78716a",
+      "english": "<span data-i18n-slot=\"0\">Minor</span>",
+      "translation": "<span data-i18n-slot=\"0\">Кросс-пара</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "t5f67cc9d65a86f35",
+      "english": "<span data-i18n-slot=\"0\">Medium to high</span>",
+      "translation": "<span data-i18n-slot=\"0\">от среднего до высокого</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t2028d2a0fe1e1900",
+      "english": "<span data-i18n-slot=\"0\">Medium</span>",
+      "translation": "<span data-i18n-slot=\"0\">средний</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tc6b5d5fa41989dbe",
+      "english": "<span data-i18n-slot=\"0\">Lower</span>",
+      "translation": "<span data-i18n-slot=\"0\">ниже</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t7715a5ef6392d707",
+      "english": "<span data-i18n-slot=\"0\">Typically wider and more variable</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как правило, более широкий и переменный</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t7fb9b3d49d405138",
+      "english": "<span data-i18n-slot=\"0\">These are general characteristics, not live UPFOREX quotes or guarantees of execution.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Это общие характеристики, а не прямые котировки UPFOREX или гарантии исполнения.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "ta40f46c749235e99",
+      "english": "<span data-i18n-slot=\"0\">Other USD- and European-currency pairs</span>",
+      "translation": "<span data-i18n-slot=\"0\">Другие пары с USD и европейскими валютами</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t01ee9b3a2c4a303e",
+      "english": "<span data-i18n-slot=\"0\">Between major session peaks</span>",
+      "translation": "<span data-i18n-slot=\"0\">Между пиками основной сессии</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tcbbe69f00098f712",
+      "english": "<span data-i18n-slot=\"0\">Wider spreads</span>",
+      "translation": "<span data-i18n-slot=\"0\">Широкие спреды</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t5fbb9e842b13f062",
+      "english": "<span data-i18n-slot=\"0\">Fast repricing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Быстрая переоценка</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t187772127f73f69c",
+      "english": "<span data-i18n-slot=\"0\">More variable execution</span>",
+      "translation": "<span data-i18n-slot=\"0\">Более переменное исполнение</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tfd87452199d4236d",
+      "english": "<span data-i18n-slot=\"0\">Trading Condition</span>",
+      "translation": "<span data-i18n-slot=\"0\">Условия торговли</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t4d130a4336e91753",
+      "english": "<span data-i18n-slot=\"0\">Lower-Liquidity Example</span>",
+      "translation": "<span data-i18n-slot=\"0\">Пример низкой ликвидности</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tdaf4492135defef7",
+      "english": "<span data-i18n-slot=\"0\">Thinly traded exotic pair</span>",
+      "translation": "<span data-i18n-slot=\"0\">Тонко торгуемая экзотическая пара</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t081f4ae92e70b51b",
+      "english": "<span data-i18n-slot=\"0\">Often relatively tighter</span>",
+      "translation": "<span data-i18n-slot=\"0\">Часто относительно узкие</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t70c2676e7d332fee",
+      "english": "<span data-i18n-slot=\"0\">Large-order sensitivity</span>",
+      "translation": "<span data-i18n-slot=\"0\">Чувствительность к крупным ордерам</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tbc0360f0e5347fb8",
+      "english": "<span data-i18n-slot=\"0\">Spreads often tighter</span>",
+      "translation": "<span data-i18n-slot=\"0\">Спреды часто уже</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t9675905b9946f973",
+      "english": "<span data-i18n-slot=\"0\">These relationships are tendencies rather than guarantees.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Эти взаимосвязи отражают тенденции, а не гарантии.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t107561449309f836",
+      "english": "<span data-i18n-slot=\"0\">This is incorrect.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Это неправильно.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tfb68ee60043c77a6",
+      "english": "<span data-i18n-slot=\"0\">It does not.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Это не так.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t4ce64003ed0fe671",
+      "english": "<span data-i18n-slot=\"0\">Liquidity Is the Same All Day</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ликвидность одинакова весь день</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t420d830d18217dd1",
+      "english": "<span data-i18n-slot=\"0\">The published account conditions are:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Условиями опубликованного аккаунта являются:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t8bc167545356b75a",
+      "english": "<span data-i18n-slot=\"0\">Minimum trade size of 0.01 lots</span>",
+      "translation": "<span data-i18n-slot=\"0\">Минимальный размер сделки 0.01 лота</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tce2771c187ead2f5",
+      "english": "<span data-i18n-slot=\"0\">The quoted spreads are starting levels rather than a promise that the minimum spread will be available on every order.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Указанные спреды являются начальными уровнями, а не обещанием, что минимальный спред будет доступен для каждого заказа.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tcdd0aabb36a0570d",
+      "english": "<span data-i18n-slot=\"0\">No. Liquidity measures the availability of buying and selling interest, while volatility measures how much and how quickly prices change. A market can be both liquid and volatile, especially around major economic announcements when trading activity is high but prices are repricing rapidly.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Нет. Ликвидность измеряет доступность интереса к покупке и продаже, в то время как волатильность измеряет, насколько и как быстро меняются цены. Рынок может быть как ликвидным, так и волатильным, особенно вокруг крупных экономических объявлений, когда торговая активность высока, но цены быстро меняются.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t2ea3a0b41a0dee46",
+      "english": "<span data-i18n-slot=\"0\">Understanding </span><span data-i18n-slot=\"1\">what is slippage in forex trading</span><span data-i18n-slot=\"2\"> becomes especially important during fast-moving markets, economic announcements, periods of lower liquidity, and situations where available prices change quickly. Traders using MetaTrader 5 (MT5), including those accessing</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">forex trading in Abu Dhabi</span></span><span data-i18n-slot=\"6\">, can encounter the same underlying execution effect.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Понимание того, </span><span data-i18n-slot=\"1\">что такое проскальзывание в торговле на форекс</span><span data-i18n-slot=\"2\">, особенно важно на быстро меняющихся рынках, во время экономических публикаций, в периоды пониженной ликвидности и при быстром изменении доступных цен. Трейдеры, использующие MetaTrader 5 (MT5), в том числе для </span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">торговли на форекс в Абу-Даби</span></span><span data-i18n-slot=\"6\">, могут столкнуться с тем же базовым эффектом исполнения.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t92fc48dd0ad6ac23",
+      "english": "<span data-i18n-slot=\"0\">What Is Slippage in Trading?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое проскальзывание в торговле?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tc7e03f17520fbdff",
+      "english": "<span data-i18n-slot=\"0\">If the same buy order instead executes at 1.1047, the fill is 3 pips lower than expected. That would represent </span><span data-i18n-slot=\"1\">positive slippage</span><span data-i18n-slot=\"2\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Если же заказ на покупку выполняется на уровне 1.1047, то заполнение на 3 пункта ниже, чем ожидалось. Это будет представлять </span><span data-i18n-slot=\"1\">положительное проскальзывание</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tce09c6259db4a5ed",
+      "english": "<span data-i18n-slot=\"0\">Is Slippage the Same as Spread?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Проскальзывание и спред — одно и то же?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t6a422700790d0774",
+      "english": "<span data-i18n-slot=\"0\">No. Spread and slippage describe different parts of trading costs and execution.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Нет. Спред и проскальзывание описывают различные части торговых издержек и исполнения.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t1c043daa8d9aabd8",
+      "english": "<span data-i18n-slot=\"0\">The </span><span data-i18n-slot=\"1\">spread</span><span data-i18n-slot=\"2\"> is the difference between an instrument's bid and ask prices at a particular moment.</span>",
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">Спред</span><span data-i18n-slot=\"2\"> — разница между ценами Bid и Ask инструмента в конкретный момент.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t19b959c9891b30a7",
+      "english": "<span data-i18n-slot=\"0\">Price slippage</span><span data-i18n-slot=\"1\"> is the difference between the expected or requested execution price and the actual price received.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ценовое проскальзывание</span><span data-i18n-slot=\"1\"> — разница между ожидаемой или запрошенной ценой исполнения и фактически полученной ценой.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t7a95f4d88c96639a",
+      "english": "<span data-i18n-slot=\"0\">Meaning</span>",
+      "translation": "<span data-i18n-slot=\"0\">значение</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "td4b66008b527ff40",
+      "english": "<span data-i18n-slot=\"0\">Difference between the current bid and ask price</span>",
+      "translation": "<span data-i18n-slot=\"0\">Разница между текущими ценами Bid и Ask</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t22a916a0836d65e8",
+      "english": "<span data-i18n-slot=\"0\">A separate transaction charge that may apply depending on the account</span>",
+      "translation": "<span data-i18n-slot=\"0\">Отдельная комиссия за транзакцию, которая может применяться в зависимости от учетной записи</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t7a21647db8da1f07",
+      "english": "<span data-i18n-slot=\"0\">A potential charge or adjustment for eligible positions held overnight</span>",
+      "translation": "<span data-i18n-slot=\"0\">Возможная плата или корректировка по соответствующим позициям, оставленным открытыми на ночь</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tafde055893157296",
+      "english": "<span data-i18n-slot=\"0\">A position can therefore experience both a spread and slippage.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Таким образом, сделка может сопровождаться и спредом, и проскальзыванием.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tb51dc75cf3f83308",
+      "english": "<span data-i18n-slot=\"0\">Lower liquidity can occur:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Снижение ликвидности может произойти:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t02a4bc252ca19e7b",
+      "english": "<span data-i18n-slot=\"0\">During quieter trading sessions</span>",
+      "translation": "<span data-i18n-slot=\"0\">Во время тихих торговых сессий</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t03b68521efd9aa71",
+      "english": "<span data-i18n-slot=\"0\">If there is not enough available liquidity at one price to fill the complete order, execution may interact with additional price levels depending on the instrument and execution structure.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Если по одной цене недостаточно ликвидности для заполнения полного заказа, исполнение может взаимодействовать с дополнительными уровнями цен в зависимости от инструмента и структуры исполнения.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tc939158aa2e96340",
+      "english": "<span data-i18n-slot=\"0\">Why Are Market Orders More Exposed to Slippage?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Почему рыночные ордера больше подвержены проскальзыванию?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t86ab5b9408d5407c",
+      "english": "<span data-i18n-slot=\"0\">Positive vs Negative Slippage Comparison</span>",
+      "translation": "<span data-i18n-slot=\"0\">Сравнение положительных и отрицательных проскальзываний</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t865854a306ec530b",
+      "english": "<span data-i18n-slot=\"0\">Execution is more favorable than expected</span>",
+      "translation": "<span data-i18n-slot=\"0\">Исполнение более благоприятно, чем ожидалось</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t773fc67b2fdabdd7",
+      "english": "<span data-i18n-slot=\"0\">Execution is less favorable than expected</span>",
+      "translation": "<span data-i18n-slot=\"0\">Исполнение менее благоприятно, чем ожидалось</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tbab19f2d11fddd89",
+      "english": "<span data-i18n-slot=\"0\">No slippage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Без проскальзывания</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t6fce907a2e4245e0",
+      "english": "<span data-i18n-slot=\"0\">Execution matches the expected price</span>",
+      "translation": "<span data-i18n-slot=\"0\">Исполнение соответствует ожидаемой цене</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t846e91fb814b03dd",
+      "english": "<span data-i18n-slot=\"0\">How Is Slippage Calculated?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как рассчитывается проскальзывание?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t82d4ab83dfab4ecf",
+      "english": "<span data-i18n-slot=\"0\">For sell orders, the interpretation reverses.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Для ордеров на продажу интерпретация обратима.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t4b9e547f1bac98bf",
+      "english": "<span data-i18n-slot=\"0\">Pips, Points, and MT5</span>",
+      "translation": "<span data-i18n-slot=\"0\">Пипсы, пункты и MT5</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t11f77668540c2d74",
+      "english": "<span data-i18n-slot=\"0\">Exchange Execution</span>",
+      "translation": "<span data-i18n-slot=\"0\">Биржевое исполнение</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t8de28469dde5c18b",
+      "english": "<span data-i18n-slot=\"0\">Execution Stage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Стадия исполнения</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t75f745c90bc3d681",
+      "english": "<span data-i18n-slot=\"0\">Negative Slippage Outcome</span>",
+      "translation": "<span data-i18n-slot=\"0\">Отрицательный результат проскальзывания</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t4ca11dbd141b1fa1",
+      "english": "<span data-i18n-slot=\"0\">Actual execution</span>",
+      "translation": "<span data-i18n-slot=\"0\">Фактическое исполнение</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tf3d21b454d4092f7",
+      "english": "<span data-i18n-slot=\"0\">3 pips lower</span>",
+      "translation": "<span data-i18n-slot=\"0\">3 пипса ниже</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t081a491883b12d70",
+      "english": "<span data-i18n-slot=\"0\">Slippage type</span>",
+      "translation": "<span data-i18n-slot=\"0\">Тип проскальзывания</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t571e3ebc6c29b162",
+      "english": "<span data-i18n-slot=\"0\">Outcome 1: Positive Slippage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Результат 1: положительное проскальзывание</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tda3718b8fa2e2c14",
+      "english": "<span data-i18n-slot=\"0\">The examples show why the </span><span data-i18n-slot=\"1\">meaning of slippage</span><span data-i18n-slot=\"2\"> cannot be understood only from the size of the price difference.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Эти примеры показывают, почему </span><span data-i18n-slot=\"1\">смысл проскальзывания</span><span data-i18n-slot=\"2\"> нельзя определить только по величине разницы цен.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t8169a695652588c9",
+      "english": "<span data-i18n-slot=\"0\">What Does High Slippage Mean?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что означает большое проскальзывание?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t5ff1bf431f5656e1",
+      "english": "<span data-i18n-slot=\"0\">High slippage means there is a relatively large difference between the expected price and the actual execution price.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Высокое проскальзывание означает относительно большую разницу между ожидаемой ценой и фактической ценой исполнения.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tc8ce25f9ad687445",
+      "english": "<span data-i18n-slot=\"0\">An order is large relative to available liquidity</span>",
+      "translation": "<span data-i18n-slot=\"0\">Заказ является большим по сравнению с доступной ликвидностью.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tcaf7420b5e9be1ef",
+      "english": "<span data-i18n-slot=\"0\">Volatility rises sharply</span>",
+      "translation": "<span data-i18n-slot=\"0\">Волатильность резко возрастает</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t5a79465170964a0f",
+      "english": "<span data-i18n-slot=\"0\">Execution policy</span>",
+      "translation": "<span data-i18n-slot=\"0\">Политика исполнения</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t9c67339522be1fd7",
+      "english": "<span data-i18n-slot=\"0\">Requote or rejection rules</span>",
+      "translation": "<span data-i18n-slot=\"0\">Правила реквот и отклонения ордеров</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tc2e0b47765618397",
+      "english": "<span data-i18n-slot=\"0\">Order-routing structure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Структура маршрутизации заказов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t01ccc0938b7b07bf",
+      "english": "<span data-i18n-slot=\"0\">Actual execution records</span>",
+      "translation": "<span data-i18n-slot=\"0\">Реальные записи исполнения</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tdafdcd2506875b35",
+      "english": "<span data-i18n-slot=\"0\">Transparency around trading conditions</span>",
+      "translation": "<span data-i18n-slot=\"0\">Прозрачность вокруг условий торговли</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t792f4f026539ed8e",
+      "english": "<span data-i18n-slot=\"0\">How Can Traders Manage Slippage Risk?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как трейдеры могут управлять риском проскальзывания?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t64aaea8d9ad1f11f",
+      "english": "<span data-i18n-slot=\"0\">However, this creates a trade-off.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Однако это создает компромисс.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tb15fe3ee80df8c10",
+      "english": "<span data-i18n-slot=\"0\">Include Slippage in Algorithmic Trading Tests</span>",
+      "translation": "<span data-i18n-slot=\"0\">Включите проскальзывание в алгоритмические торговые тесты</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tc576ddf0fc62f3b4",
+      "english": "<span data-i18n-slot=\"0\">Order rejection</span>",
+      "translation": "<span data-i18n-slot=\"0\">Отклонение ордера</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "td0fe75ca62c715ce",
+      "english": "<span data-i18n-slot=\"0\">Slippage assumptions</span>",
+      "translation": "<span data-i18n-slot=\"0\">Допущения о проскальзывании</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t40adf6735befb247",
+      "english": "<span data-i18n-slot=\"0\">A backtest that assumes perfect execution at every requested price may not reflect live trading conditions.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Тест, который предполагает идеальное исполнение по каждой запрашиваемой цене, может не отражать условия реальной торговли.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t101d243aac57d1ec",
+      "english": "<span data-i18n-slot=\"0\">Actual execution price</span>",
+      "translation": "<span data-i18n-slot=\"0\">Фактическая цена исполнения</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tb48bcdf55285d7ad",
+      "english": "<span data-i18n-slot=\"0\">Slippage direction</span>",
+      "translation": "<span data-i18n-slot=\"0\">Направление проскальзывания</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t7c26d37cfb05faa4",
+      "english": "<span data-i18n-slot=\"0\">Slippage amount</span>",
+      "translation": "<span data-i18n-slot=\"0\">Сумма проскальзывания</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "te3093e6f641e23b5",
+      "english": "<span data-i18n-slot=\"0\">No. Spread is the difference between the current bid and ask prices, while slippage is the difference between an expected or requested execution price and the actual fill price. A trade can experience both spread and slippage because they describe different aspects of pricing and execution.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Нет. Спред — разница между текущими ценами Bid и Ask, а проскальзывание — разница между ожидаемой или запрошенной ценой исполнения и фактической ценой исполнения. Сделка может сопровождаться и спредом, и проскальзыванием, поскольку они описывают разные стороны ценообразования и исполнения.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t883bd6a186bb66eb",
+      "english": "<span data-i18n-slot=\"0\">MetaTrader 5 supports market orders alongside Buy Limit, Sell Limit, Buy Stop, Sell Stop, Buy Stop Limit and Sell Stop Limit pending orders.</span>",
+      "translation": "<span data-i18n-slot=\"0\">MetaTrader 5 поддерживает рыночные ордера, а также отложенные ордера: лимитный на покупку (Buy Limit), лимитный на продажу (Sell Limit), стоп на покупку (Buy Stop), стоп на продажу (Sell Stop), стоп-лимит на покупку (Buy Stop Limit) и стоп-лимит на продажу (Sell Stop Limit).</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "ta67c4c52499240ba",
+      "english": "<span data-i18n-slot=\"0\">The trader is not waiting for a pullback or breakout trigger.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Трейдер не ждет отката или триггера прорыва.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tbdf3b4bc6aaced26",
+      "english": "<span data-i18n-slot=\"0\">What Is a Buy Limit Order?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое лимитный ордер на покупку?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "td40e9f35aec0edf9",
+      "english": "<span data-i18n-slot=\"0\">Order: Buy Limit at 1.1000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ордер: Buy Limit на уровне 1.1000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tdfb35eaf0a2eef77",
+      "english": "<span data-i18n-slot=\"0\">Select the instrument.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Выберите инструмент.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t0886b5fa18f488a6",
+      "english": "<span data-i18n-slot=\"0\">Set the trade volume.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Установить объем торговли.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t572bd011936eac1b",
+      "english": "<span data-i18n-slot=\"0\">Review any available expiration setting.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Просмотрите любые доступные настройки истечения срока действия.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t57a30cebf5c002cf",
+      "english": "<span data-i18n-slot=\"0\">Submit the pending order.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Отправьте отложенный ордер.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t9e58c9d89d63422c",
+      "english": "<span data-i18n-slot=\"0\">A Buy Stop is normally placed above the current market.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ордер Buy Stop обычно размещают выше текущей рыночной цены.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "teea4040c9c04ef94",
+      "english": "<span data-i18n-slot=\"0\">The trader is not trying to buy a dip. The instruction waits for an upward price trigger.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Трейдер не пытается купить на снижении. Инструкция ожидает достижения ценового уровня активации при движении вверх.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t0ba435a8908d1c8c",
+      "english": "<span data-i18n-slot=\"0\">Order: Sell Stop at 1.1000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ордер: Sell Stop на уровне 1.1000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tf9a7bee306ef537d",
+      "english": "<span data-i18n-slot=\"0\">What Is a Stop-Limit Order?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое стоп-лимитный ордер?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t90594418b5d5ff98",
+      "english": "<span data-i18n-slot=\"0\">With a Buy Stop Limit, for example:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Например, для ордера Buy Stop Limit:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t6374c89da4e07fb7",
+      "english": "<span data-i18n-slot=\"0\">The benefit is additional price control after the trigger. The trade-off is execution uncertainty: the limit order created after the trigger may never fill.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Преимуществом является дополнительный контроль цен после запуска. Компромиссом является неопределенность исполнения: лимитный ордер, созданный после запуска, может никогда не заполниться.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t3439a06df650356b",
+      "english": "<span data-i18n-slot=\"0\">Order Type</span>",
+      "translation": "<span data-i18n-slot=\"0\">Тип ордера</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tc1069c74582cf322",
+      "english": "<span data-i18n-slot=\"0\">Execution Price</span>",
+      "translation": "<span data-i18n-slot=\"0\">Цена исполнения</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t757911c8b8548f78",
+      "english": "<span data-i18n-slot=\"0\">Submitted immediately</span>",
+      "translation": "<span data-i18n-slot=\"0\">Представлен немедленно</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t092cad9779d5a03b",
+      "english": "<span data-i18n-slot=\"0\">Waits below current market</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ждет ниже текущего рынка</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tebf01dcea57024dc",
+      "english": "<span data-i18n-slot=\"0\">Buying a pullback</span>",
+      "translation": "<span data-i18n-slot=\"0\">Купить откат</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tb267c76a8b69b21e",
+      "english": "<span data-i18n-slot=\"0\">Market may never reach or fill the order</span>",
+      "translation": "<span data-i18n-slot=\"0\">Рынок может не достичь уровня ордера или ордер может не исполниться</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tb3a0651ba4348a77",
+      "english": "<span data-i18n-slot=\"0\">Waits above current market</span>",
+      "translation": "<span data-i18n-slot=\"0\">Выше текущего рынка</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "td7bea7a48e50b67c",
+      "english": "<span data-i18n-slot=\"0\">Upside breakout-style entry</span>",
+      "translation": "<span data-i18n-slot=\"0\">Вступление в стиле прорыва вверх</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t6736d9a5effb84ab",
+      "english": "<span data-i18n-slot=\"0\">Downside breakout-style entry</span>",
+      "translation": "<span data-i18n-slot=\"0\">Вход при пробое вниз</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t815e9afb82fd7e7d",
+      "english": "<span data-i18n-slot=\"0\">Stop-Limit</span>",
+      "translation": "<span data-i18n-slot=\"0\">Стоп-лимит</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "td8da0c5dc34f8e63",
+      "english": "<span data-i18n-slot=\"0\">Triggered limit order may remain unfilled</span>",
+      "translation": "<span data-i18n-slot=\"0\">Запущенный лимит может остаться незаполненным</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tf101ea74e62393e8",
+      "english": "<span data-i18n-slot=\"0\">Neither is automatically better. The order should reflect the planned setup.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ни один вариант не является автоматически лучшим. Ордер должен соответствовать запланированной торговой ситуации.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t8933832e7c0435d4",
+      "english": "<span data-i18n-slot=\"0\">A limit order normally waits for a more favorable entry price, while a stop order waits for price to cross a trigger before activating.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ограничительный ордер обычно ожидает более выгодную цену входа, в то время как стоп-ордер ждет, когда цена пересечет триггер перед активацией.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t487fd870a1cfe8f2",
+      "english": "<span data-i18n-slot=\"0\">Sell Stop: normally below current market price.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Sell Stop: обычно ниже текущей рыночной цены.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t972f1a566421f130",
+      "english": "<span data-i18n-slot=\"0\">A trader expecting a pullback before continuation might use a limit order.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Трейдер, ожидающий отката до продолжения, может использовать лимитный ордер.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tb6d22b1d71cb654d",
+      "english": "<span data-i18n-slot=\"0\">Limit Order vs Stop-Limit Order</span>",
+      "translation": "<span data-i18n-slot=\"0\">Лимитный ордер и стоп-лимитный ордер: сравнение</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    }
+  ]
+}

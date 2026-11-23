@@ -20,7 +20,12 @@ import { ManilaForexComponent } from './country-pages/manila-forex/manila-forex.
 import { SingaporeForexComponent } from './country-pages/singapore-forex/singapore-forex.component';
 
 
+import { LEGACY_SEO_PAGE_REDIRECTS } from '../core/config/legacy-seo-redirects';
+
 const routes: Routes = [
+  ...Object.entries(LEGACY_SEO_PAGE_REDIRECTS).map(([source, target]) => ({
+    path: source.slice(1), redirectTo: target.slice(1), pathMatch: 'full' as const,
+  })),
   {
     path: '',
     component: HomeComponent,
@@ -229,6 +234,8 @@ const routes: Routes = [
     path: 'blogs/:id',
     component: BlogsComponent,
     data: {
+      // Dynamic articles need an existence/translation check before advertising alternates.
+      localizedSeo: false,
       title: 'Forex Blog Detail | UpForex',
       description: 'Deep dive into specific forex topics, market moves, and expert advice.',
       keywords: 'forex blog post, trading news, market details'

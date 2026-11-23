@@ -1,0 +1,547 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t70508deb9d907fc9",
+      "english": "<span data-i18n-slot=\"0\">During active overlaps, traders may encounter:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Durante las superposiciones activas, los comerciantes pueden encontrar:</span>"
+    },
+    {
+      "key": "t4ad6d463cb47a24b",
+      "english": "<span data-i18n-slot=\"0\">Tighter spreads in heavily traded instruments</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferenciales más ajustados en instrumentos muy negociados</span>"
+    },
+    {
+      "key": "t4b667b905e691dc2",
+      "english": "<span data-i18n-slot=\"0\">Timing should therefore match the instrument and trading plan. A trader who prefers slower movement may not want the same window as someone whose strategy requires high activity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por lo tanto, el momento debe coincidir con el instrumento y el plan comercial. Un operador que prefiere un movimiento más lento puede no querer la misma ventana que alguien cuya estrategia requiere una gran actividad.</span>"
+    },
+    {
+      "key": "te07a37f7aa9cfb81",
+      "english": "<span data-i18n-slot=\"0\">Platform conditions also matter. Traders comparing providers can review the guide to choosing the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">best forex broker in the Middle East</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Las condiciones de la plataforma también importan. Los operadores que comparen proveedores pueden revisar la guía para elegir el</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">mejor corredor de divisas en Medio Oriente</span></span><span data-i18n-slot=\"4\">.</span>"
+    },
+    {
+      "key": "tc958d4f691d6922a",
+      "english": "<span data-i18n-slot=\"0\">What is the best time to trade forex in the UAE?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cuál es el mejor momento para operar con divisas en los Emiratos Árabes Unidos?</span>"
+    },
+    {
+      "key": "t57b8307ba65eb887",
+      "english": "<span data-i18n-slot=\"0\">Are gold CFDs tradable 24 hours a day?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Se pueden negociar los CFD sobre oro las 24 horas del día?</span>"
+    },
+    {
+      "key": "t0ad674d4eba88ce8",
+      "english": "<span data-i18n-slot=\"0\">ADX’s official website currently lists its trading week as </span><span data-i18n-slot=\"1\">Monday through Friday</span><span data-i18n-slot=\"2\">. The pre-opening session runs from </span><span data-i18n-slot=\"3\">9:30–10:00 a.m. GST</span><span data-i18n-slot=\"4\">, followed by continuous trading from </span><span data-i18n-slot=\"5\">10:00 a.m.–2:45 p.m. GST</span><span data-i18n-slot=\"6\">. Holiday and special-session schedules should be confirmed directly with ADX.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El sitio web oficial de ADX indica actualmente una semana de negociación </span><span data-i18n-slot=\"1\">de lunes a viernes</span><span data-i18n-slot=\"2\">. La sesión de preapertura se extiende de </span><span data-i18n-slot=\"3\">9:30 a 10:00 a. m. GST</span><span data-i18n-slot=\"4\">, seguida de negociación continua de </span><span data-i18n-slot=\"5\">10:00 a. m. a 2:45 p. m. GST</span><span data-i18n-slot=\"6\">. Los horarios de festivos y sesiones especiales deben confirmarse directamente con ADX.</span>"
+    },
+    {
+      "key": "te7c5ed0d56f83fab",
+      "english": "<span data-i18n-slot=\"0\">Does Gulf Standard Time change with daylight saving?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿La hora estándar del Golfo cambia con el horario de verano?</span>"
+    },
+    {
+      "key": "t79da79776d43e4c7",
+      "english": "<span data-i18n-slot=\"0\">Why does liquidity matter for trade timing?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Por qué la liquidez es importante para el momento de las operaciones?</span>"
+    },
+    {
+      "key": "t6d90bd01b7241223",
+      "english": "<span data-i18n-slot=\"0\">Eligible traders can</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">open an UpForex account</span></span><span data-i18n-slot=\"4\"> after reviewing the applicable risks and account conditions. For platform-specific market hours,</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">contact us</span></span><span data-i18n-slot=\"8\">. More educational material is available in the</span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">full UpForex blog archive</span></span><span data-i18n-slot=\"12\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los operadores elegibles pueden</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">abrir una cuenta UpForex</span></span><span data-i18n-slot=\"4\"> después de revisar los riesgos aplicables y las condiciones de la cuenta. Para conocer los horarios de mercado específicos de la plataforma,</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">contáctenos</span></span><span data-i18n-slot=\"8\">. Hay más material educativo disponible en el</span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">archivo completo del blog UpForex</span></span><span data-i18n-slot=\"12\">.</span>"
+    },
+    {
+      "key": "tdde04509bf7596bd",
+      "english": "<span data-i18n-slot=\"0\">Leverage and margin are connected but different. The simplest </span><span data-i18n-slot=\"1\">leverage meaning</span><span data-i18n-slot=\"2\"> is controlling a position larger than the capital set aside for it. Margin is the account equity reserved to open and maintain that position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El apalancamiento y el margen están conectados pero son diferentes. El </span><span data-i18n-slot=\"1\">significado de apalancamiento</span><span data-i18n-slot=\"2\"> más simple es controlar una posición mayor que el capital reservado para ello. El margen es el capital de la cuenta reservado para abrir y mantener esa posición.</span>"
+    },
+    {
+      "key": "tcf3a908755bace25",
+      "english": "<span data-i18n-slot=\"0\">Readers who are</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">new to forex trading</span></span><span data-i18n-slot=\"4\"> should first understand position sizes, pips, stop-losses, and equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los lectores</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">nuevos en el comercio de divisas</span></span><span data-i18n-slot=\"4\"> deben comprender primero los tamaños de las posiciones, los pips, los límites de pérdidas y el capital.</span>"
+    },
+    {
+      "key": "t9daadd7ded088653",
+      "english": "<span data-i18n-slot=\"0\">Quick Answer:</span><span data-i18n-slot=\"1\"> Leverage lets a trader control a larger position than their deposited capital and is expressed as a ratio, such as 1:100. Margin is the amount set aside from the account to open and hold that position. Higher leverage reduces the margin required for the same position, but it does not reduce market exposure; the same price move still creates the same monetary gain or loss.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Respuesta rápida:</span><span data-i18n-slot=\"1\"> El apalancamiento permite a un operador controlar una posición mayor que su capital depositado y se expresa como una proporción, como 1:100. El margen es la cantidad reservada de la cuenta para abrir y mantener esa posición. Un mayor apalancamiento reduce el margen requerido para la misma posición, pero no reduce la exposición al mercado; el mismo movimiento de precios sigue generando la misma ganancia o pérdida monetaria.</span>"
+    },
+    {
+      "key": "t255558e32dd9a0bd",
+      "english": "<span data-i18n-slot=\"0\">What Is Leverage in Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es el apalancamiento en el trading?</span>"
+    },
+    {
+      "key": "t5ae0c42180948bdd",
+      "english": "<span data-i18n-slot=\"0\">Leverage in trading is the relationship between a position’s total notional value and the capital required to support it. At 1:100 leverage, every $1 of required margin can support up to $100 of market exposure, subject to the broker’s terms, instrument, and current conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El apalancamiento en el trading es la relación entre el valor nocional total de una posición y el capital necesario para respaldarla. Con un apalancamiento de 1:100, cada $1 de margen requerido puede respaldar hasta $100 de exposición al mercado, sujeto a las condiciones del bróker, el instrumento y las condiciones actuales.</span>"
+    },
+    {
+      "key": "t81459223065609c9",
+      "english": "<span data-i18n-slot=\"0\">Leverage = Notional position value ÷ Required margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Apalancamiento = Valor de posición nocional ÷ Margen requerido</span>"
+    },
+    {
+      "key": "t8bcb08502b7d0128",
+      "english": "<span data-i18n-slot=\"0\">What Is Margin in Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es el margen en las operaciones?</span>"
+    },
+    {
+      "key": "t86835c6be30a1baf",
+      "english": "<span data-i18n-slot=\"0\">In everyday business language, “margin” can refer to profit. In trading, margin has a different meaning: it is the portion of account equity reserved by the broker while a leveraged position is open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">En el lenguaje empresarial cotidiano, \"margen\" puede referirse a ganancias. En el comercio, el margen tiene un significado diferente: es la porción del capital de la cuenta reservada por el corredor mientras una posición apalancada está abierta.</span>"
+    },
+    {
+      "key": "t9003c7d814fe2748",
+      "english": "<span data-i18n-slot=\"0\">Required margin = Notional position value ÷ Leverage ratio</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Margen requerido = Valor de posición nocional ÷ Ratio de apalancamiento</span>"
+    },
+    {
+      "key": "t8029d0368210a9fa",
+      "english": "<span data-i18n-slot=\"0\">Margin is collateral, not normally a fee or maximum loss. The amount left after it is reserved is </span><span data-i18n-slot=\"1\">free margin</span><span data-i18n-slot=\"2\">:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El margen es una garantía, normalmente no una tarifa ni una pérdida máxima. El importe que queda después de reservarlo es </span><span data-i18n-slot=\"1\">margen libre</span><span data-i18n-slot=\"2\">:</span>"
+    },
+    {
+      "key": "te7e3face85741904",
+      "english": "<span data-i18n-slot=\"0\">Free margin = Equity − Used margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Margen libre = Capital - Margen utilizado</span>"
+    },
+    {
+      "key": "tda7cce7def8d6f1f",
+      "english": "<span data-i18n-slot=\"0\">Equity changes as open positions gain or lose value. Free margin therefore also changes while trades remain open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El capital cambia a medida que las posiciones abiertas ganan o pierden valor. Por lo tanto, el margen libre también cambia mientras las operaciones permanecen abiertas.</span>"
+    },
+    {
+      "key": "t3b9401486b5b3502",
+      "english": "<span data-i18n-slot=\"0\">Margin trading meaning:</span><span data-i18n-slot=\"1\"> Using part of a position’s value as collateral to open and maintain a leveraged trade. Forex margin requirements can vary by currency pair, account type, leverage, and market conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Significado del comercio de margen:</span><span data-i18n-slot=\"1\"> Usar parte del valor de una posición como garantía para abrir y mantener una operación apalancada. Los requisitos de margen de Forex pueden variar según el par de divisas, el tipo de cuenta, el apalancamiento y las condiciones del mercado.</span>"
+    },
+    {
+      "key": "tfb263a0403b5c248",
+      "english": "<span data-i18n-slot=\"0\">How Leverage and Margin Work Together Worked Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ejemplo de cómo funcionaron juntos el apalancamiento y el margen</span>"
+    },
+    {
+      "key": "tf7d6b3e1210473d5",
+      "english": "<span data-i18n-slot=\"0\">Account equity before the trade:</span><span data-i18n-slot=\"1\"> $1,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio de la cuenta antes de la operación:</span><span data-i18n-slot=\"1\"> $1,000</span>"
+    },
+    {
+      "key": "t709cbeb34ec380cf",
+      "english": "<span data-i18n-slot=\"0\">Leverage:</span><span data-i18n-slot=\"1\"> 1:100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Apalancamiento:</span><span data-i18n-slot=\"1\"> 1:100</span>"
+    },
+    {
+      "key": "t7724f10df3f3c7d7",
+      "english": "<span data-i18n-slot=\"0\">Step 1: Calculate Required Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Paso 1: Calcular el margen requerido</span>"
+    },
+    {
+      "key": "te778001698f36fa4",
+      "english": "<span data-i18n-slot=\"0\">The trade uses the entire $1,000 equity as margin.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La operación utiliza el capital total de $1,000 como margen.</span>"
+    },
+    {
+      "key": "tb19cd3a45e280a08",
+      "english": "<span data-i18n-slot=\"0\">Step 2: Calculate Free Margin at Entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Paso 2: Calcular el margen libre al momento de la entrada</span>"
+    },
+    {
+      "key": "t1a624c7d399d5491",
+      "english": "<span data-i18n-slot=\"0\">Step 3: Apply a 50-Pip Adverse Move</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Paso 3: Aplicar un movimiento adverso de 50 pips</span>"
+    },
+    {
+      "key": "t016f6aac9e16c62a",
+      "english": "<span data-i18n-slot=\"0\">Equity:</span><span data-i18n-slot=\"1\"> $500</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio:</span><span data-i18n-slot=\"1\"> $500</span>"
+    },
+    {
+      "key": "t065c9a72ad1efa6e",
+      "english": "<span data-i18n-slot=\"0\">Used margin:</span><span data-i18n-slot=\"1\"> $1,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Margen utilizado:</span><span data-i18n-slot=\"1\"> $1,000</span>"
+    },
+    {
+      "key": "tf9fa4fdd41dd8f0d",
+      "english": "<span data-i18n-slot=\"0\">Step 4: Calculate Margin Level</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Paso 4: Calcular el nivel de margen</span>"
+    },
+    {
+      "key": "t63f20bf5cb1815a5",
+      "english": "<span data-i18n-slot=\"0\">Margin level = Equity ÷ Used margin × 100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Nivel de margen = Capital ÷ Margen utilizado × 100</span>"
+    },
+    {
+      "key": "tf15cf29e5ecf4e70",
+      "english": "<span data-i18n-slot=\"0\">Leverage Ratio Comparison Table</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tabla comparativa del índice de apalancamiento</span>"
+    },
+    {
+      "key": "tdb826257770fa6c7",
+      "english": "<span data-i18n-slot=\"0\">The table below compares the margin needed for the same $100,000 notional position. These are illustrative ratios and do not state which ratios are available on a specific account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La siguiente tabla compara el margen necesario para la misma posición nominal de $100,000. Estos son índices ilustrativos y no indican qué índices están disponibles en una cuenta específica.</span>"
+    },
+    {
+      "key": "td5b0d261b0cb24f7",
+      "english": "<span data-i18n-slot=\"0\">Leverage Ratio</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ratio de apalancamiento</span>"
+    },
+    {
+      "key": "t6bbfe3fa70f80e4a",
+      "english": "<span data-i18n-slot=\"0\">Required Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Margen requerido</span>"
+    },
+    {
+      "key": "t07a9c291560bd92f",
+      "english": "<span data-i18n-slot=\"0\">What Is a Margin Call?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es una llamada de margen?</span>"
+    },
+    {
+      "key": "tbd25223134fe977f",
+      "english": "<span data-i18n-slot=\"0\">The response depends on the broker and system. A trader may need to reduce exposure or add funds, but adding money does not repair a weak trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La respuesta depende del corredor y del sistema. Es posible que un operador necesite reducir la exposición o agregar fondos, pero agregar dinero no repara una operación débil.</span>"
+    },
+    {
+      "key": "teba8a07a03ebfd70",
+      "english": "<span data-i18n-slot=\"0\">In the worked example, equity of $500 against $1,000 of used margin creates a 50% margin level. If equity fell to $300 while used margin remained $1,000, the margin level would be 30%, ignoring changes caused by partial liquidation, costs, or broker calculations.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">En el ejemplo resuelto, un capital de $500 contra $1,000 de margen utilizado crea un nivel de margen del 50%. Si el capital cayera a $300 mientras que el margen utilizado permaneciera en $1,000, el nivel de margen sería del 30%, ignorando los cambios causados por la liquidación parcial, los costos o los cálculos del corredor.</span>"
+    },
+    {
+      "key": "t4761a1e27c9101f4",
+      "english": "<span data-i18n-slot=\"0\">Margin level meaning:</span><span data-i18n-slot=\"1\"> The percentage relationship between current account equity and the margin being used by open positions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Significado del nivel de margen:</span><span data-i18n-slot=\"1\"> la relación porcentual entre el patrimonio actual de la cuenta y el margen utilizado por las posiciones abiertas.</span>"
+    },
+    {
+      "key": "te50efc17bfa29751",
+      "english": "<span data-i18n-slot=\"0\">Equity:</span><span data-i18n-slot=\"1\"> $2,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio:</span><span data-i18n-slot=\"1\"> $2,000</span>"
+    },
+    {
+      "key": "tcb8c616a8edb6176",
+      "english": "<span data-i18n-slot=\"0\">Used margin:</span><span data-i18n-slot=\"1\"> $500</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Margen utilizado:</span><span data-i18n-slot=\"1\"> $500</span>"
+    },
+    {
+      "key": "tc0133371b7031a07",
+      "english": "<span data-i18n-slot=\"0\">Why Higher Leverage Means Higher Risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por qué un mayor apalancamiento significa un mayor riesgo</span>"
+    },
+    {
+      "key": "tf2f038b927cb2a87",
+      "english": "<span data-i18n-slot=\"0\">Higher leverage lowers the margin needed to open the same position. That can encourage a trader to control more exposure than the account can absorb.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un mayor apalancamiento reduce el margen necesario para abrir la misma posición. Eso puede alentar a un operador a controlar más exposición de la que la cuenta puede absorber.</span>"
+    },
+    {
+      "key": "tb2117eab3471f91b",
+      "english": "<span data-i18n-slot=\"0\">The second trader’s smaller margin deposit does not create a smaller loss. It only means the position required less collateral to open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El depósito de margen más pequeño del segundo operador no genera una pérdida menor. Solo significa que la posición requirió menos garantía para abrirse.</span>"
+    },
+    {
+      "key": "t801ca8e3191422b1",
+      "english": "<span data-i18n-slot=\"0\">How to Manage Leverage and Margin Responsibly</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cómo gestionar el apalancamiento y el margen de forma responsable</span>"
+    },
+    {
+      "key": "tec8515293ff22917",
+      "english": "<span data-i18n-slot=\"0\">Monitor exposure across correlated trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Monitorear la exposición en operaciones correlacionadas.</span>"
+    },
+    {
+      "key": "tbc66eedf971ad7b3",
+      "english": "<span data-i18n-slot=\"0\">Review margin level before adding positions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Revise el nivel de margen antes de agregar posiciones.</span>"
+    },
+    {
+      "key": "t3109c102c95e4f2c",
+      "english": "<span data-i18n-slot=\"0\">Consider news, gaps, and slippage.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Considere las noticias, los gaps y el deslizamiento.</span>"
+    },
+    {
+      "key": "tef2dad9798a05709",
+      "english": "<span data-i18n-slot=\"0\">Do not add funds merely to delay closing an invalid trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No agregue fondos simplemente para retrasar el cierre de una operación no válida.</span>"
+    },
+    {
+      "key": "tbac333805266f578",
+      "english": "<span data-i18n-slot=\"0\">Is Leverage Trading Halal?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿El comercio de apalancamiento es halal?</span>"
+    },
+    {
+      "key": "te101093058b8d592",
+      "english": "<span data-i18n-slot=\"0\">Issues commonly reviewed include:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los problemas comúnmente revisados incluyen:</span>"
+    }
+  ]
+}

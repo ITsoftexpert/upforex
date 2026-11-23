@@ -1,0 +1,639 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t89ee05199c5c3439",
+      "english": "<span data-i18n-slot=\"0\">Variable spreads</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可变点差</span>"
+    },
+    {
+      "key": "t799ea7dbc3bbe089",
+      "english": "<span data-i18n-slot=\"0\">Execution delays</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">执行延迟</span>"
+    },
+    {
+      "key": "tc576ddf0fc62f3b4",
+      "english": "<span data-i18n-slot=\"0\">Order rejection</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">订单拒绝</span>"
+    },
+    {
+      "key": "td0fe75ca62c715ce",
+      "english": "<span data-i18n-slot=\"0\">Slippage assumptions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑点假设</span>"
+    },
+    {
+      "key": "t40adf6735befb247",
+      "english": "<span data-i18n-slot=\"0\">A backtest that assumes perfect execution at every requested price may not reflect live trading conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">假设每个请求价格都完美执行的回测可能无法反映实时交易条件。</span>"
+    },
+    {
+      "key": "tab673220c6f89210",
+      "english": "<span data-i18n-slot=\"0\">Review Execution Records Over Time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">查看一段时间内的执行记录</span>"
+    },
+    {
+      "key": "t101d243aac57d1ec",
+      "english": "<span data-i18n-slot=\"0\">Actual execution price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实际执行价格</span>"
+    },
+    {
+      "key": "t1463a31df16347f3",
+      "english": "<span data-i18n-slot=\"0\">Time of execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">执行时间</span>"
+    },
+    {
+      "key": "tb48bcdf55285d7ad",
+      "english": "<span data-i18n-slot=\"0\">Slippage direction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑点方向</span>"
+    },
+    {
+      "key": "t7c26d37cfb05faa4",
+      "english": "<span data-i18n-slot=\"0\">Slippage amount</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑点金额</span>"
+    },
+    {
+      "key": "tc7f63bb2b3508006",
+      "english": "<span data-i18n-slot=\"0\">What is slippage in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是外汇滑点？</span>"
+    },
+    {
+      "key": "t4512789b2a17c6cd",
+      "english": "<span data-i18n-slot=\"0\">What causes slippage in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">是什么导致外汇交易滑点？</span>"
+    },
+    {
+      "key": "t2e5681e8192f0e0c",
+      "english": "<span data-i18n-slot=\"0\">What is positive slippage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是正滑点？</span>"
+    },
+    {
+      "key": "t038d16970cdc4a0d",
+      "english": "<span data-i18n-slot=\"0\">Positive slippage occurs when an order executes at a price more favorable than expected. For a buy order, this means filling at a price below the expected price. For a sell order, it means filling above it. Positive slippage is still a form of slippage because the actual fill differs from the expected price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">当订单以比预期更有利的价格成交时，就会出现正滑点。对买单而言，是成交价低于预期；对卖单而言，是成交价高于预期。正滑点仍属于滑点，因为实际成交价与预期不同。</span>"
+    },
+    {
+      "key": "teb0ea22f1f1c116b",
+      "english": "<span data-i18n-slot=\"0\">How do you calculate slippage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何计算滑点？</span>"
+    },
+    {
+      "key": "t5d2fab53477e6541",
+      "english": "<span data-i18n-slot=\"0\">Compare the actual execution price with the price expected when the order was submitted, then convert the difference into the instrument's relevant points or pips. For buy orders, a higher fill is unfavorable and a lower fill is favorable. For sell orders, the interpretation is reversed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">比较实际成交价与下单时预期的价格，再将差额换算为该金融工具相应的point或pip。对买单而言，较高的成交价不利，较低的成交价有利。卖单的情况相反。</span>"
+    },
+    {
+      "key": "t50e2ba2afdebd354",
+      "english": "<span data-i18n-slot=\"0\">Can slippage be completely avoided?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可以完全避免滑点吗？</span>"
+    },
+    {
+      "key": "t6765804565101a8d",
+      "english": "<span data-i18n-slot=\"0\">Is slippage the same as spread?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑点和点差一样吗？</span>"
+    },
+    {
+      "key": "te3093e6f641e23b5",
+      "english": "<span data-i18n-slot=\"0\">No. Spread is the difference between the current bid and ask prices, while slippage is the difference between an expected or requested execution price and the actual fill price. A trade can experience both spread and slippage because they describe different aspects of pricing and execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">没有。点差是当前买入价和卖出价之间的差额，而滑点是预期或请求的执行价格与实际成交价格之间的差额。交易可能会经历点差和滑点，因为它们描述了定价和执行的不同方面。</span>"
+    },
+    {
+      "key": "t2a9b61af22450c1d",
+      "english": "<span data-i18n-slot=\"0\">Is forex slippage different for traders in the UAE?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">阿联酋交易者的外汇滑点是否有所不同？</span>"
+    },
+    {
+      "key": "t69cd9215103fb5b1",
+      "english": "<span data-i18n-slot=\"0\">The basic mechanics of forex slippage are the same for UAE traders as elsewhere: execution depends on the available price when an order is filled. The specific platform settings, instruments, account terms, execution arrangements, and legal entity serving the client can differ, so traders should review the applicable broker documentation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于阿联酋交易者来说，外汇滑点的基本机制与其他地方相同：执行取决于订单执行时的可用价格。具体的平台设置、工具、账户条款、执行安排和为客户提供服务的法律实体可能有所不同，因此交易者应查看适用的经纪商文件。</span>"
+    },
+    {
+      "key": "tc57ed3c330dc070d",
+      "english": "<span data-i18n-slot=\"0\">Understand Execution Before Placing an Order</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">下单前了解执行情况</span>"
+    },
+    {
+      "key": "t00e9aedca978226c",
+      "english": "<span data-i18n-slot=\"0\">Forex and CFD trading involves leverage and carries a high level of risk. Educational explanations of trading tools and execution mechanics do not guarantee a particular execution price, market outcome, or profit.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇和差价合约交易涉及杠杆并具有高风险。对交易工具和执行机制的教育解释并不保证特定的执行价格、市场结果或利润。</span>"
+    },
+    {
+      "key": "t111418099ab61d79",
+      "english": "<span data-i18n-slot=\"0\">What Is a Market Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是市价单？</span>"
+    },
+    {
+      "key": "tad91d1a90e2a6b5d",
+      "english": "<span data-i18n-slot=\"0\">A market order can fit a plan when:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在以下情况下，市价订单可以符合计划：</span>"
+    },
+    {
+      "key": "tfe0f75a619b23298",
+      "english": "<span data-i18n-slot=\"0\">Position size and exit levels have already been determined.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">头寸规模和退出水平已经确定。</span>"
+    },
+    {
+      "key": "t6367393c4c8a61a8",
+      "english": "<span data-i18n-slot=\"0\">What Is a Limit Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是限价订单？</span>"
+    },
+    {
+      "key": "tbdf3b4bc6aaced26",
+      "english": "<span data-i18n-slot=\"0\">What Is a Buy Limit Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是限价买入订单？</span>"
+    },
+    {
+      "key": "te110479ba63ccbe5",
+      "english": "<span data-i18n-slot=\"0\">Desired entry: 1.1000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">期望入场价：1.1000</span>"
+    },
+    {
+      "key": "t97c6c0a68091b152",
+      "english": "<span data-i18n-slot=\"0\">Desired sell entry: 1.1100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">所需卖出入场点：1.1100</span>"
+    },
+    {
+      "key": "t1af9a2f49e4f20e0",
+      "english": "<span data-i18n-slot=\"0\">Order: Sell Limit at 1.1100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">订单：在1.1100限价卖出（Sell Limit）</span>"
+    },
+    {
+      "key": "t589c94fb9cc5fe4f",
+      "english": "<span data-i18n-slot=\"0\">How Do You Set a Limit Order on MT5?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何在 MT5 上设置限价单？</span>"
+    },
+    {
+      "key": "t1666dd22c1ac8f68",
+      "english": "<span data-i18n-slot=\"0\">Choose the pending-order option.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">选择挂单选项。</span>"
+    },
+    {
+      "key": "t2f9f295c34a9581e",
+      "english": "<span data-i18n-slot=\"0\">Select Buy Limit or Sell Limit.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">选择买入限价或卖出限价。</span>"
+    },
+    {
+      "key": "t572bd011936eac1b",
+      "english": "<span data-i18n-slot=\"0\">Review any available expiration setting.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">查看任何可用的过期设置。</span>"
+    },
+    {
+      "key": "t57a30cebf5c002cf",
+      "english": "<span data-i18n-slot=\"0\">Submit the pending order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">提交挂单。</span>"
+    },
+    {
+      "key": "t1b56d91d897272a5",
+      "english": "<span data-i18n-slot=\"0\">What Is a Stop Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是突破订单（Stop Order）？</span>"
+    },
+    {
+      "key": "t01339f9ddf5610eb",
+      "english": "<span data-i18n-slot=\"0\">What Is a Buy Stop Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是突破买入订单（Buy Stop）？</span>"
+    },
+    {
+      "key": "t9e58c9d89d63422c",
+      "english": "<span data-i18n-slot=\"0\">A Buy Stop is normally placed above the current market.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破买入订单通常设置在当前市价上方。</span>"
+    },
+    {
+      "key": "t8638e5a93eab8e55",
+      "english": "<span data-i18n-slot=\"0\">Order: Buy Stop at 1.1100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">订单：在1.1100突破买入（Buy Stop）</span>"
+    },
+    {
+      "key": "teea4040c9c04ef94",
+      "english": "<span data-i18n-slot=\"0\">The trader is not trying to buy a dip. The instruction waits for an upward price trigger.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易者并不是想逢低买入。该指令等待价格上涨触发。</span>"
+    },
+    {
+      "key": "ta373f83f90304fb3",
+      "english": "<span data-i18n-slot=\"0\">What Is a Sell Stop Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是突破卖出订单（Sell Stop）？</span>"
+    },
+    {
+      "key": "t0e3715a6b49dc5b8",
+      "english": "<span data-i18n-slot=\"0\">A Sell Stop is normally placed below the current market.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破卖出订单通常设置在当前市价下方。</span>"
+    },
+    {
+      "key": "te2e59af753e66e57",
+      "english": "<span data-i18n-slot=\"0\">Trigger level: 1.1000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">触发水平：1.1000</span>"
+    },
+    {
+      "key": "t0ba435a8908d1c8c",
+      "english": "<span data-i18n-slot=\"0\">Order: Sell Stop at 1.1000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">订单：在1.1000突破卖出（Sell Stop）</span>"
+    },
+    {
+      "key": "tb4b9f297ff5609eb",
+      "english": "<span data-i18n-slot=\"0\">A triggered Sell Stop also becomes a market operation rather than guaranteeing execution exactly at the trigger level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">已触发的突破卖出订单也会转为市价操作，并不保证恰好在触发价位成交。</span>"
+    },
+    {
+      "key": "t9c37db5cd1650156",
+      "english": "<span data-i18n-slot=\"0\">Stop Order vs Stop-Loss Order</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破订单与止损订单</span>"
+    },
+    {
+      "key": "taa530400a8711b28",
+      "english": "<span data-i18n-slot=\"0\">A stop entry and a Stop Loss may both involve price triggers, but they have different jobs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破入场订单和止损订单都可能涉及价格触发，但两者的用途不同。</span>"
+    },
+    {
+      "key": "te253198b1656a2d1",
+      "english": "<span data-i18n-slot=\"0\">A Buy Stop or Sell Stop is used to open exposure after the market reaches a specified level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破买入或突破卖出订单用于在市价达到指定水平后开仓。</span>"
+    },
+    {
+      "key": "t5037d5551ddeecd9",
+      "english": "<span data-i18n-slot=\"0\">A Stop Loss is a risk-management instruction associated with an open position or pending order and is intended to close exposure after a predefined adverse move.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损是与未平仓头寸或挂单相关的风险管理指令，旨在在预定义的不利走势后平仓。</span>"
+    },
+    {
+      "key": "tf9a7bee306ef537d",
+      "english": "<span data-i18n-slot=\"0\">What Is a Stop-Limit Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是突破回踩订单（Stop-Limit）？</span>"
+    },
+    {
+      "key": "t42c065919224ada5",
+      "english": "<span data-i18n-slot=\"0\">A Stop-Limit combines a trigger price with a subsequent limit order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破回踩订单将触发价格与随后创建的限价订单结合起来。</span>"
+    },
+    {
+      "key": "t90594418b5d5ff98",
+      "english": "<span data-i18n-slot=\"0\">With a Buy Stop Limit, for example:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">以突破回踩买入（Buy Stop Limit）为例：</span>"
+    },
+    {
+      "key": "ta1ab9e5f8b7d8bfd",
+      "english": "<span data-i18n-slot=\"0\">Market Order vs Limit Order vs Stop Order Comparison Table</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市价单、限价单与突破单的比较表</span>"
+    },
+    {
+      "key": "tc35727c4565c91b0",
+      "english": "<span data-i18n-slot=\"0\">Market, limit and stop orders differ mainly in when they become executable and how much control the trader has over entry timing and price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市价单、限价单和突破单的主要区别，在于何时可以执行，以及交易者对入场时间和价格的控制程度。</span>"
+    },
+    {
+      "key": "tc1069c74582cf322",
+      "english": "<span data-i18n-slot=\"0\">Execution Price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">执行价格</span>"
+    },
+    {
+      "key": "tba8db6ce8c917526",
+      "english": "<span data-i18n-slot=\"0\">Best For</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最适合</span>"
+    },
+    {
+      "key": "tf8c9ef6b76208329",
+      "english": "<span data-i18n-slot=\"0\">Key Risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要风险</span>"
+    },
+    {
+      "key": "ta397d8b87484f402",
+      "english": "<span data-i18n-slot=\"0\">Slippage or a different final execution price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑点或不同的最终执行价格</span>"
+    },
+    {
+      "key": "t4188c5d56e9df9d1",
+      "english": "<span data-i18n-slot=\"0\">Limit price or better, subject to execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">限价或更好价格，以执行为准</span>"
+    },
+    {
+      "key": "tebf01dcea57024dc",
+      "english": "<span data-i18n-slot=\"0\">Buying a pullback</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">回调买入</span>"
+    },
+    {
+      "key": "tf7f5845b3c893d4f",
+      "english": "<span data-i18n-slot=\"0\">Order may remain unfilled</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">订单可能一直未成交</span>"
+    },
+    {
+      "key": "tdd318cd5d0f89aeb",
+      "english": "<span data-i18n-slot=\"0\">Buy Stop</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破买入（Buy Stop）</span>"
+    }
+  ]
+}

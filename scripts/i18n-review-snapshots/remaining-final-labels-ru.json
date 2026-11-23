@@ -1,0 +1,81 @@
+{
+  "language": "ru",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t6ff6dc552e17130f",
+      "english": "© {0} Upforex. All rights reserved.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/terms-display/terms-display.component.html"
+      ],
+      "translation": "© {0} Upforex. Все права защищены."
+    },
+    {
+      "key": "teb11fc78ca26cf40",
+      "english": "Forex trading education platform, Forex trading, Forex trading for beginners, Forex trading education",
+      "kind": "text",
+      "sources": [
+        "src/app/components/components-routing.module.ts#keywords"
+      ],
+      "translation": "Платформа для обучения торговле на форекс, торговля на форекс, торговля на форекс для начинающих, обучение торговле на форекс"
+    },
+    {
+      "key": "tb578d943b77c267d",
+      "english": "CFD Bitcoin, Live Bitcoin Trading",
+      "kind": "text",
+      "sources": [
+        "src/app/components/components-routing.module.ts#keywords"
+      ],
+      "translation": "CFD на биткоин, торговля биткоином в реальном времени"
+    },
+    {
+      "key": "t1647d30371e9bbc3",
+      "english": "Index CFD Trading Platform | Fast Execution | UPFOREX, cfd index, cfd index trading, Otc trading",
+      "kind": "text",
+      "sources": [
+        "src/app/components/components-routing.module.ts#keywords"
+      ],
+      "translation": "Платформа для торговли CFD на индексы | Быстрое исполнение | UPFOREX, CFD на индексы, торговля CFD на индексы, внебиржевая торговля"
+    },
+    {
+      "key": "t06d2745dd05bc2ab",
+      "english": "Forex Blog Detail | UpForex",
+      "kind": "text",
+      "sources": [
+        "src/app/components/components-routing.module.ts#title"
+      ],
+      "translation": "Статья блога о форекс | UpForex"
+    },
+    {
+      "key": "t16595272855cd7d6",
+      "english": "Deep dive into specific forex topics, market moves, and expert advice.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/components-routing.module.ts#description"
+      ],
+      "translation": "Подробно изучайте отдельные темы форекс, движения рынка и советы экспертов."
+    },
+    {
+      "key": "tdcf8bb88ae5152d8",
+      "english": "<span data-i18n-slot=\"0\">If Trader B has -$2,000 in net floating P/L:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Если у трейдера B чистая плавающая прибыль/убыток составляет -$2,000:</span>"
+    },
+    {
+      "key": "tebd631b31205d7d5",
+      "english": "otc trading​",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#tag",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "внебиржевая торговля"
+    }
+  ]
+}

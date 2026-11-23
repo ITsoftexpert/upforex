@@ -1,0 +1,557 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tf625c61e6ee2a04e",
+      "english": "<span data-i18n-slot=\"0\">Often manual, with optional automation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常是手动的，也可以选择自动化</span>"
+    },
+    {
+      "key": "ta57eb75b9198829d",
+      "english": "<span data-i18n-slot=\"0\">What is followed</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">跟随的对象</span>"
+    },
+    {
+      "key": "tf6ec4753213122f7",
+      "english": "<span data-i18n-slot=\"0\">A trader’s live decisions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易者的实时决策</span>"
+    },
+    {
+      "key": "t80cfad717e4ef251",
+      "english": "<span data-i18n-slot=\"0\">Real funds are exposed to copied trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">真实资金会受到复制交易的影响</span>"
+    },
+    {
+      "key": "t8e719d4085180b00",
+      "english": "<span data-i18n-slot=\"0\">No exposure unless the user trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">除非用户交易，否则不会暴露</span>"
+    },
+    {
+      "key": "t10a54c08f9259c9a",
+      "english": "<span data-i18n-slot=\"0\">Real funds are exposed when enabled</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">启用后真实资金将承担交易风险</span>"
+    },
+    {
+      "key": "tc8cea7db095eca01",
+      "english": "<span data-i18n-slot=\"0\">Acting on poor or biased information</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">根据不良或有偏见的信息采取行动</span>"
+    },
+    {
+      "key": "tff2096103d053d4c",
+      "english": "<span data-i18n-slot=\"0\">Automates the replication of selected trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">自动复制所选交易</span>"
+    },
+    {
+      "key": "t943a506c56367744",
+      "english": "<span data-i18n-slot=\"0\">Offers allocation controls on many platforms</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在许多平台上提供分配控制</span>"
+    },
+    {
+      "key": "tdfdf6f942331e370",
+      "english": "<span data-i18n-slot=\"0\">Illustrative Value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">说明性价值</span>"
+    },
+    {
+      "key": "tcc97553c5ed7ce74",
+      "english": "<span data-i18n-slot=\"0\">10% of provider size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">提供商规模的 10%</span>"
+    },
+    {
+      "key": "t7f7a39b52871ba9b",
+      "english": "<span data-i18n-slot=\"0\">Provider opens</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">信号提供者开仓</span>"
+    },
+    {
+      "key": "td8c24bba782910fe",
+      "english": "<span data-i18n-slot=\"0\">Subscriber position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">订阅者的持仓</span>"
+    },
+    {
+      "key": "t250cb9cbe488e713",
+      "english": "<span data-i18n-slot=\"0\">Subscriber position also closes, subject to execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">订阅者头寸也将被平仓，但须执行</span>"
+    },
+    {
+      "key": "t9327a190e6d4fe26",
+      "english": "<span data-i18n-slot=\"0\">Is Copy Trading Right for You?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">跟单交易适合您吗？</span>"
+    },
+    {
+      "key": "tfcb6db3503a843b1",
+      "english": "<span data-i18n-slot=\"0\">Hands-Off Beginner</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">希望无需亲自操作的初学者</span>"
+    },
+    {
+      "key": "t4eb3726257e55e5e",
+      "english": "<span data-i18n-slot=\"0\">How to Get Started Even If You Are Not Using Copy Trading Yet</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">即使您尚未使用跟单交易也如何开始</span>"
+    },
+    {
+      "key": "ta1c73b93c1f04913",
+      "english": "<span data-i18n-slot=\"0\">Learn order types, leverage, margin, and stop-loss mechanics.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">了解订单类型、杠杆、保证金和止损机制。</span>"
+    },
+    {
+      "key": "t5db01143a781282b",
+      "english": "<span data-i18n-slot=\"0\">Review provider statistics, especially drawdown and account age.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">查看信号提供者的统计数据，尤其是回撤和账户存续时间。</span>"
+    },
+    {
+      "key": "t4b33b7f27beac9d0",
+      "english": "<span data-i18n-slot=\"0\">Ignoring maximum drawdown and open losses</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">忽略最大回撤和未平仓损失</span>"
+    },
+    {
+      "key": "t55a65f9ee4a2937e",
+      "english": "<span data-i18n-slot=\"0\">Allocating too much capital to one provider</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">向一个提供商分配过多的资金</span>"
+    },
+    {
+      "key": "ta7cf2fd5cbf43bf3",
+      "english": "<span data-i18n-slot=\"0\">Copying several traders with the same market exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">跟单具有相同市场风险的多个交易者</span>"
+    },
+    {
+      "key": "t8bd33147750f7557",
+      "english": "<span data-i18n-slot=\"0\">Assuming every provider trade includes a suitable stop-loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">假设每个提供商交易都包含合适的止损</span>"
+    },
+    {
+      "key": "tf2e6a24e7f93ed1c",
+      "english": "<span data-i18n-slot=\"0\">Leaving copying active without review</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保持复制活动状态而不进行审核</span>"
+    },
+    {
+      "key": "tb95ea4b4ee9a7ff4",
+      "english": "<span data-i18n-slot=\"0\">What is copy trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是跟单交易？</span>"
+    },
+    {
+      "key": "td5d7ea507a456dc2",
+      "english": "<span data-i18n-slot=\"0\">Is copy trading profitable?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">跟单交易有利可图吗？</span>"
+    },
+    {
+      "key": "t64c79d85242e18e1",
+      "english": "<span data-i18n-slot=\"0\">Copy trading can produce gains or losses. Profitability depends on the provider, market conditions, costs, risk settings, and execution. A profitable historical record is not reliable evidence that future copied trades will remain profitable.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">跟单交易可以产生收益或损失。盈利能力取决于提供商、市场条件、成本、风险设置和执行。盈利的历史记录并不能证明未来复制交易仍能盈利。</span>"
+    },
+    {
+      "key": "t65ea041f10f8cf97",
+      "english": "<span data-i18n-slot=\"0\">Is copy trading the same as social trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">跟单交易与社交交易相同吗？</span>"
+    },
+    {
+      "key": "t0c91ff1a92e49340",
+      "english": "<span data-i18n-slot=\"0\">Copy trading is not covered by one simple yes-or-no rule for every service. Legality and availability depend on the provider, activity, jurisdiction, and licence. UAE users should verify the regulated entity and permitted service before depositing or subscribing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">跟单交易的合法性无法用一个简单的“是”或“否”规则概括所有服务。是否合法及是否可用，取决于提供商、业务活动、司法管辖区和许可证。阿联酋用户在入金或订阅前应核实受监管的实体及其获准提供的服务。</span>"
+    },
+    {
+      "key": "t50741d2c29bcc944",
+      "english": "<span data-i18n-slot=\"0\">How much money do I need to start copy trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">开始跟单交易需要多少钱？</span>"
+    },
+    {
+      "key": "t02772b8489b8ddaa",
+      "english": "<span data-i18n-slot=\"0\">What is a copy trading platform?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是跟单交易平台？</span>"
+    },
+    {
+      "key": "t7a567b2f7a9410b9",
+      "english": "<span data-i18n-slot=\"0\">Can I stop copying a trader at any time?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">我可以随时停止跟单交易者吗？</span>"
+    },
+    {
+      "key": "t529d94d27d721324",
+      "english": "<span data-i18n-slot=\"0\">What Is a Market Maker Broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是做市商经纪商？</span>"
+    },
+    {
+      "key": "ta06344a6b9d8c9ba",
+      "english": "<span data-i18n-slot=\"0\">A market maker broker provides bid and ask prices and may act as the contractual counterparty to a client’s trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">做市商经纪商提供买入价和卖出价，并可以充当客户交易的合同对手方。</span>"
+    },
+    {
+      "key": "tba01388b71574f6b",
+      "english": "<span data-i18n-slot=\"0\">Market-maker accounts often use spread-only pricing. Spreads may be fixed or variable and can widen when volatility increases or liquidity falls.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">做市商账户通常使用仅点差定价。点差可能是固定的或可变的，并且当波动性增加或流动性下降时可能会扩大。</span>"
+    },
+    {
+      "key": "t2fa05e466a2a7b6a",
+      "english": "<span data-i18n-slot=\"0\">Market Maker Broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">做市商经纪商</span>"
+    },
+    {
+      "key": "td7b2668edf0bd030",
+      "english": "<span data-i18n-slot=\"0\">Broker-provided bid and ask quotes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">经纪商提供的出价和要价</span>"
+    },
+    {
+      "key": "t0841a9ddc1b6a287",
+      "english": "<span data-i18n-slot=\"0\">Counterparty</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易对手</span>"
+    },
+    {
+      "key": "t537f2447d1e0b73f",
+      "english": "<span data-i18n-slot=\"0\">Orders may use external liquidity; the legal CFD counterparty may still be the broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">订单可能会使用外部流动性；合法的差价合约交易对手可能仍然是经纪商</span>"
+    },
+    {
+      "key": "t60e0972a19ab8414",
+      "english": "<span data-i18n-slot=\"0\">Spread type</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差类型</span>"
+    },
+    {
+      "key": "tdfd0e2e9b92b47b5",
+      "english": "<span data-i18n-slot=\"0\">Often spread-only; fixed or variable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常仅通过点差收费；点差可固定或浮动</span>"
+    },
+    {
+      "key": "tddb75f4101f384c1",
+      "english": "<span data-i18n-slot=\"0\">Usually variable and may be raw or near-raw</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常是可变的，可能是原始的或接近原始的</span>"
+    },
+    {
+      "key": "t5aa56b2b2d36224b",
+      "english": "<span data-i18n-slot=\"0\">Frequently no separate commission</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常没有单独的佣金</span>"
+    },
+    {
+      "key": "tab01a457af4a6fbf",
+      "english": "<span data-i18n-slot=\"0\">Often charges commission, markup or both</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常收取佣金、加价或两者兼而有之</span>"
+    },
+    {
+      "key": "t6cecfb2503db90e5",
+      "english": "<span data-i18n-slot=\"0\">May be higher for commission-based tiers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">基于佣金的层级可能会更高</span>"
+    },
+    {
+      "key": "t1be6288ee3043bdc",
+      "english": "<span data-i18n-slot=\"0\">Best suited for</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最适合</span>"
+    },
+    {
+      "key": "tcbda12164b78b3f4",
+      "english": "<span data-i18n-slot=\"0\">Dealing-desk conflict may be reduced, but execution risks remain</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易台冲突可能会减少，但执行风险仍然存在</span>"
+    },
+    {
+      "key": "t71875be7df9e780f",
+      "english": "<span data-i18n-slot=\"0\">Execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">执行</span>"
+    },
+    {
+      "key": "t5d37d83719c8ca6b",
+      "english": "<span data-i18n-slot=\"0\">Broker controls quoting and internal execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">经纪商控制报价和内部执行</span>"
+    },
+    {
+      "key": "t04d1eed537d31953",
+      "english": "<span data-i18n-slot=\"0\">Fills depend on connectivity, liquidity and available prices</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">成交取决于连接状况、流动性和可用报价</span>"
+    },
+    {
+      "key": "t118efa84ce2d0300",
+      "english": "<span data-i18n-slot=\"0\">Forex, Metals, Shares, Cash CFDs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇、金属、股票、现金差价合约</span>"
+    },
+    {
+      "key": "t2574a02d3a089d2b",
+      "english": "<span data-i18n-slot=\"0\">0 pips, floating</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0点，浮动</span>"
+    },
+    {
+      "key": "te517e0ee1c0b74dc",
+      "english": "<span data-i18n-slot=\"0\">$7 per round lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每个“round lot”收费$7</span>"
+    },
+    {
+      "key": "t06d10522e6a4d73c",
+      "english": "<span data-i18n-slot=\"0\">How to Tell If a Broker Is a Market Maker or an ECN Broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何判断经纪商是做市商还是 ECN 经纪商</span>"
+    },
+    {
+      "key": "t7b538149ddce2b45",
+      "english": "<span data-i18n-slot=\"0\">A homepage label is not enough. Check:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主页标签是不够的。检查：</span>"
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "language": "pt",
+  "method": "assistant-reviewed-English-semantic-equivalence-reusing-prior-validated-target",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t1e194ad8ec9adf5a",
+      "english": "Commission applies to Forex and Metal trades; no commission applies to other instruments.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/account/account-types/account-types.component.html"
+      ],
+      "translation": "Aplica-se comissão às negociações de Forex e Metais; não se aplica comissão a outros instrumentos.",
+      "previousKey": "td9af81ec33bdc37c",
+      "previousEnglish": "Commission applies to Forex and Metal trades; No Commission apply to other instruments."
+    },
+    {
+      "key": "tffb72c9ce4ed34ee",
+      "english": "In our trading environment, the Margin Call Level is set at 50%, for risk management. The client is responsible for managing this.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/account/account-types/account-types.component.html"
+      ],
+      "translation": "Em nosso ambiente de negociação, o nível de chamada de margem é definido em 50% para gestão de risco. O cliente é responsável por gerenciá-lo.",
+      "previousKey": "tdac87aae200f59ae",
+      "previousEnglish": "In our trading environment, the Margin Call Level is set at 50%, for risk management. Client is Responsible to Manage same."
+    },
+    {
+      "key": "t67fc8a150d4b8051",
+      "english": "Trade global markets on MT5 from Abu Dhabi: forex, gold, shares, indices and energy CFDs in one place. Check spreads, margin and product rules before opening a live trade.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/country-pages/abu-dhabi-forex/abu-dhabi-forex.component.html"
+      ],
+      "translation": "Negocie nos mercados globais em MT5 de Abu Dhabi: câmbio, ouro, ações, índices e energia. CFDs Em um só lugar. Confira spreads, margens e regras do produto antes de abrir uma negociação real.",
+      "previousKey": "t54a2a813706d3ceb",
+      "previousEnglish": "Trade global markets on MT5 from Abu Dhabi forex, gold, shares, indices and energy CFDs in one place. Check spreads, margin and product rules before opening a live trade."
+    },
+    {
+      "key": "t2d527985364144f7",
+      "english": "UPFOREX publishes forex, metals, shares, indices, and energy CFDs through one MT5 platform. Forex CFDs follow changes in currency-pair prices. These prices can respond to interest-rate decisions, inflation, employment reports, economic growth, and wider market sentiment.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/country-pages/kuala-lumpur-forex/kuala-lumpur-forex.component.html"
+      ],
+      "translation": "UPFOREX Publica informações sobre câmbio, metais, ações, índices e energia. CFDs através de um MT5 Plataforma Forex. CFDs Acompanhe as mudanças nos preços dos pares de moedas. Esses preços podem reagir a decisões sobre taxas de juros, inflação, relatórios de emprego, crescimento econômico e ao sentimento geral do mercado.",
+      "previousKey": "t68a0b369d8b9b05f",
+      "previousEnglish": "UPFOREX publishes forex, metals, shares, indices, and energy CFDs through one MT5 platform. Forex CFDs follow changes in currency-pair prices. These prices can respond to interest-rate decisions, inflation, employment reports, economic growth,h and wider market sentiment."
+    },
+    {
+      "key": "t7bcf1277fa95bd45",
+      "english": "UPFOREX publishes its accounts in USD. Traders funding an account in Malaysian ringgit can include MYR-to-USD conversion rates and payment-provider charges when calculating their account budget. Available funding methods, processing charges, and withdrawal options can be confirmed through the cashier or support team.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/country-pages/kuala-lumpur-forex/kuala-lumpur-forex.component.html"
+      ],
+      "translation": "UPFOREX publica suas contas em USD O financiamento dos comerciantes em ringgit malaio pode incluir MYR -para- USD As taxas de conversão e os encargos do provedor de pagamento são considerados no cálculo do saldo da conta. Os métodos de pagamento disponíveis, as taxas de processamento e as opções de saque podem ser confirmados com o caixa ou a equipe de suporte.",
+      "previousKey": "t49f7d5f9ab34eebd",
+      "previousEnglish": "UPFOREX publishes its accounts in USD. Traders' funding from Malaysian ringgit can include MYR-to-USD conversion rates and payment-provider charges when calculating their account budget. Available funding methods, processing charges, and withdrawal options can be confirmed through the cashier or support team."
+    },
+    {
+      "key": "t2ce0ea01d0c3c74f",
+      "english": "'s platform lets you study prices, view charts, monitor open positions and place supported orders through MetaTrader 5. The company runs its operations from Mauritius, with no domestic branch listed for South Africa, so every part of the account experience — opening, funding, trading and support — happens through the online platform.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/country-pages/south-africa-forex-review/south-africa-forex-review.component.html"
+      ],
+      "translation": "A plataforma da [nome da empresa] permite que você estude preços, visualize gráficos, monitore posições em aberto e faça pedidos com suporte através de [nome da plataforma]. MetaTrader 5 A empresa opera a partir das Ilhas Maurício, sem nenhuma filial registrada na África do Sul, portanto, todas as etapas do processo — abertura de conta, financiamento, negociação e suporte — são realizadas por meio da plataforma online.",
+      "previousKey": "t7303d9c2eb799508",
+      "previousEnglish": "'s platform lets you study prices, view charts, monitor open positions and place supported orders through MetaTrader 5. The company runs its operations from Mauritius, with no domestic branch listed for South Africa, so every part of the account experience opening, funding, trading, support happens through the online platform."
+    },
+    {
+      "key": "t783c18700cfa3416",
+      "english": "Trade Forex, Stock CFDs, Precious Metals, Index CFDs, Energy CFDs and Cryptocurrency CFDs from your UPFOREX Trading Account",
+      "kind": "text",
+      "sources": [
+        "src/app/components/home/home.component.html",
+        "src/assets/i18n/en.json.HOME.BANNER_SUBTITLE"
+      ],
+      "translation": "Negocie Forex e ações. CFDs Metais Preciosos, Índice CFDs Energia CFDs e criptomoedas CFDs do seu UPFOREX Conta de negociação",
+      "previousKey": "t328c9609d9564651",
+      "previousEnglish": "Trade Forex, Stock CFDs, Precious Metals, Index CFDs, Energy CFDs and Crypto CFDs from your UPFOREX Trading Account"
+    },
+    {
+      "key": "t37a0580b60a4e3fd",
+      "english": "Discover the Power of Global Trading from a Single Account",
+      "kind": "text",
+      "sources": [
+        "src/app/components/home/home.component.html"
+      ],
+      "translation": "Descubra o poder do trading global a partir de uma única conta.",
+      "previousKey": "t4b19af4ad103d69c",
+      "previousEnglish": "Discover the Power of Global Trading from Single Account"
+    },
+    {
+      "key": "ta050e7ea51633b88",
+      "english": "Our Institutional Services are designed for high-volume traders and financial institutions seeking scalable liquidity and seamless trade execution.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/partnership/institutional-service/institutional-service.component.html"
+      ],
+      "translation": "Nossos Serviços Institucionais são projetados para traders de alto volume e instituições financeiras que buscam liquidez escalável e execução de negociações perfeita.",
+      "previousKey": "t5dc0915f7b131869",
+      "previousEnglish": "Our Institutional Servicesre designed for high-volume traders and financial institutions seeking scalable liquidity and seamless trade execution."
+    },
+    {
+      "key": "tce10247a3452a84c",
+      "english": "Welcome to the next generation of trading. The MT5 platform, developed by MetaQuotes, is the industry's leading multi-asset trading platform, offering unparalleled access to a world of financial opportunities. At UPFOREX, we provide our clients with seamless access to this powerful software, empowering you to trade Forex, stocks, indices, commodities, and cryptocurrencies all from a single, integrated account. Experience the perfect blend of sophisticated technology and user-friendly design, crafted for both seasoned professionals and those just beginning their trading journey.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "Bem-vindo à próxima geração de negociações. MT5 A plataforma, desenvolvida pela MetaQuotes, é a plataforma de negociação de múltiplos ativos líder do setor, oferecendo acesso incomparável a um mundo de oportunidades financeiras. UPFOREX Oferecemos aos nossos clientes acesso facilitado a este poderoso software, permitindo-lhes negociar Forex, ações, índices, commodities e criptomoedas, tudo a partir de uma única conta integrada. Experimente a combinação perfeita de tecnologia sofisticada e design intuitivo, criada tanto para profissionais experientes quanto para aqueles que estão apenas começando sua jornada no mercado financeiro.",
+      "previousKey": "t51d1f2f526999ec1",
+      "previousEnglish": "Welcome to the next generation of trading. The MT5 platform, developed by MetaQuotes, is the industry's leading multi asset trading platform, offering unparalleled access to a world of financial opportunities. At UPFOREX, we provide our clients with seamless access to this powerful software, empowering you to trade Forex, stocks, indices, commodities, and cryptocurrencies all from a single, integrated account. Experience the perfect blend of sophisticated technology and user-friendly design, crafted for both seasoned professionals and those just beginning their trading journey."
+    },
+    {
+      "key": "t78ec7a61ddd2223b",
+      "english": "Why the MT5 Platform is the Ultimate Multi-Asset Trading Platform",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "Por que o MT5 A Plataforma é a Plataforma Definitiva para Negociação de Múltiplos Ativos",
+      "previousKey": "te3462fda989d5ef6",
+      "previousEnglish": "Why the MT5 Platform is the Ultimate Multi Asset Trading Platform"
+    },
+    {
+      "key": "t35ab9fcd617b4e19",
+      "english": "The MT5 platform was engineered to be far more than just a Forex terminal. It is a comprehensive financial ecosystem built for the modern trader. Its core strength lies in its ability to function as a true multi-asset trading platform, breaking down the barriers between different markets. This means you can diversify your portfolio and capitalize on opportunities across the entire financial landscape without needing multiple accounts or software. The platform’s robust infrastructure handles immense volumes of data and trading orders with lightning speed and unwavering stability, ensuring you never miss a beat.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "O MT5 A plataforma foi projetada para ser muito mais do que apenas um terminal Forex. É um ecossistema financeiro abrangente, construído para o trader moderno. Sua principal força reside na capacidade de funcionar como uma verdadeira plataforma de negociação multiativos, eliminando as barreiras entre diferentes mercados. Isso significa que você pode diversificar seu portfólio e aproveitar oportunidades em todo o cenário financeiro sem precisar de várias contas ou softwares. A infraestrutura robusta da plataforma lida com imensos volumes de dados e ordens de negociação com velocidade impressionante e estabilidade inabalável, garantindo que você nunca perca uma oportunidade.",
+      "previousKey": "td6fbd8499a12bc87",
+      "previousEnglish": "The MT5 platform was engineered to be far more than just a Forex terminal. It is a comprehensive financial ecosystem built for the modern trader. Its core strength lies in its ability to function as a true multi asset trading platform, breaking down the barriers between different markets. This means you can diversify your portfolio and capitalize on opportunities across the entire financial landscape without needing multiple accounts or softwares. The platform’s robust infrastructure handles immense volumes of data and trading orders with lightning speed and unwavering stability, ensuring you never miss a beat."
+    },
+    {
+      "key": "tb7320fa7446301ed",
+      "english": "While renowned for Forex, MT5 stock trading is a feature that sets it apart from its predecessor. Gain exposure to a wide selection of global company stocks, allowing for greater portfolio diversification and the chance to invest in leading corporations directly through your familiar MT5 interface. Ready to experience the power of the world's premier multi-asset trading platform? Unlock the full potential of your trading strategy with UPFOREX and the advanced MT5 platform. Open your account today and gain access to powerful tools, competitive conditions, and a world of markets at your fingertips.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "Embora seja renomado no mercado Forex, MT5 A negociação de ações é um recurso que a diferencia de sua antecessora. Obtenha exposição a uma ampla seleção de ações de empresas globais, permitindo maior diversificação de portfólio e a oportunidade de investir em corporações líderes diretamente por meio de sua plataforma familiar. MT5 interface. Pronto para experimentar o poder da principal plataforma de negociação de múltiplos ativos do mundo? Libere todo o potencial da sua estratégia de negociação com UPFOREX e o avançado MT5 Plataforma. Abra sua conta hoje mesmo e tenha acesso a ferramentas poderosas, condições competitivas e um mundo de mercados ao seu alcance.",
+      "previousKey": "tb5eec710faa59420",
+      "previousEnglish": "While renowned for Forex, MT5 stock trading is a feature that sets it apart from its predecessor. Gain exposure to a wide selection of global company stocks, allowing for greater portfolio diversification and the chance to invest in leading corporations directly through your familiar MT5 interface. Ready to experience the power of the world's premier multi asset trading platform? Unlock the full potential of your trading strategy with UPFOREX and the advanced MT5 platform. Open your account today and gain access to powerful tools, competitive conditions, and a world of markets at your fingertips."
+    },
+    {
+      "key": "t2613ab5eb7d7eb3a",
+      "english": "While MT4 was primarily built for Forex trading, MT5 is a true multi-asset",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "Embora o MT4 tenha sido construído principalmente para negociação Forex, o MT5 é um verdadeiro multiativos",
+      "previousKey": "td160ff47abea0f17",
+      "previousEnglish": "While MT4 was primarily built for Forex trading, MT5 is a true multi asset"
+    },
+    {
+      "key": "ta0849126e8832c16",
+      "english": "is a key feature. The platform provides direct access to a wide range of global stock exchanges. You need to ensure your broker (like UPFOREX) offers stock CFDs or actual shares through their MT5 multi-asset trading platform.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "é uma característica fundamental. A plataforma oferece acesso direto a uma ampla gama de bolsas de valores globais. Você precisa garantir que sua corretora (como UPFOREX ) oferece ações CFDs ou ações reais por meio de seus MT5 Plataforma de negociação de múltiplos ativos.",
+      "previousKey": "tf51cbd77419bddfb",
+      "previousEnglish": "is a key feature. The platform provides direct access to a wide range of global stock exchanges. You need to ensure your broker (like UPFOREX) offers stock CFDs or actual shares through their MT5 multi asset trading platform."
+    },
+    {
+      "key": "t62bc572ecabfb654",
+      "english": "UPFOREX is regarded as the best broker for MetaTrader 5 because we provide seamless, stable, and fast access to the platform. We offer competitive trading conditions, low latency order execution, and dedicated support to help you maximize all the advanced features MT5 has to offer.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "UPFOREX é considerada uma das melhores corretoras para MetaTrader 5 Porque proporcionamos acesso contínuo, estável e rápido à plataforma. Oferecemos condições de negociação competitivas, execução de ordens com baixa latência e suporte dedicado para ajudá-lo a maximizar todos os recursos avançados. MT5 tem a oferecer.",
+      "previousKey": "t686046d6b201084c",
+      "previousEnglish": "UPFOREX is regarded as a best broker for MetaTrader 5 because we provide seamless, stable, and fast access to the platform. We offer competitive trading conditions, low latency order execution, and dedicated support to help you maximize all the advanced features MT5 has to offer."
+    },
+    {
+      "key": "tce73f791801369ad",
+      "english": "Choosing the right partner is critical for success in the fast-paced crypto markets. UPFOREX stands out as a leading crypto CFD broker for several compelling reasons:",
+      "kind": "text",
+      "sources": [
+        "src/app/components/products/crypto-cfd/crypto-cfd.component.html"
+      ],
+      "translation": "Escolher o parceiro certo é fundamental para o sucesso nos dinâmicos mercados de criptomoedas. UPFOREX destaca-se como uma criptomoeda líder. cfd corretor por diversas razões convincentes:",
+      "previousKey": "ta42f7f3171ecd00d",
+      "previousEnglish": "Choosing the right partner is critical for success in the fast-paced crypto markets. UPFOREX stands out as a leading crypto cfd broker for several compelling reasons:"
+    },
+    {
+      "key": "t752ff0e062e65fe4",
+      "english": "crypto CFD broker",
+      "kind": "text",
+      "sources": [
+        "src/app/components/products/crypto-cfd/crypto-cfd.component.html"
+      ],
+      "translation": "criptomoedas cfd corretor",
+      "previousKey": "tba730100261cb744",
+      "previousEnglish": "crypto cfd broker"
+    },
+    {
+      "key": "t043b865e9768e8d8",
+      "english": "The global energy sector is a dynamic and influential force, driving economies and presenting unparalleled opportunities for astute traders. At UPFOREX, we provide a sophisticated gateway to this volatile yet rewarding market through our comprehensive Energy CFDs offering. Whether you're looking to diversify your portfolio, hedge against market movements, or speculate on price shifts, our platform equips you with the tools and conditions needed to trade with precision and confidence. Dive into the world of forex oil trading and other energy commodities on a platform built for performance.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/products/energy-future/energy-future.component.html"
+      ],
+      "translation": "O setor energético global é uma força dinâmica e influente, impulsionando economias e apresentando oportunidades incomparáveis ​​para investidores astutos. UPFOREX Oferecemos uma porta de entrada sofisticada para este mercado volátil, porém recompensador, através da nossa abrangente solução em Energia. CFDs Seja para diversificar seu portfólio, proteger-se contra oscilações de mercado ou especular sobre mudanças de preços, nossa plataforma oferece as ferramentas e as condições necessárias para negociar com precisão e confiança. Explore o mundo do mercado Forex de petróleo e outras commodities energéticas em uma plataforma criada para alto desempenho.",
+      "previousKey": "tf9a56566848603b8",
+      "previousEnglish": "The global energy sector is a dynamic and influential force, driving economies and presenting unparalleled opportunities for astute traders. At UPFOREX, we provide a sophisticated gateway to this volatile yet rewarding market through our comprehensive Energy CFDs offering. Whether you're looking to diversify your portfolio, hedge against market movements, or speculate on price shifts, our platform equips you with the tools and conditions needed to trade with precision and confidence. Dive into the world of forex oil trading and other energy commodities on a platform built for performance ."
+    },
+    {
+      "key": "tb987d627ea41dba3",
+      "english": "Welcome to UPFOREX, your premier gateway to the dynamic world of foreign exchange. As one of the leading Online Trading Brokers, we provide a superior environment for forex trading, combining cutting-edge technology with unparalleled market access. Whether you are taking your first steps or are a seasoned professional, our platform is engineered to meet your demands for transparency and reliability.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/products/forex/forex.component.html"
+      ],
+      "translation": "Bem-vindo(a) ao UPFOREX Sua principal porta de entrada para o dinâmico mundo do câmbio. Como uma das principais corretoras online, oferecemos um ambiente superior para negociação forex, combinando tecnologia de ponta com acesso incomparável ao mercado. Seja você um iniciante ou um profissional experiente, nossa plataforma foi projetada para atender às suas necessidades de transparência e confiabilidade.",
+      "previousKey": "tde74e09f622d450f",
+      "previousEnglish": "Welcome to UPFOREX, your premier gateway to the dynamic world of foreign exchange. As one of the leading Online Trading Brokers, we provide a superior environment for forex trading, combining cutting-edge technology with unparalleled market access. Whether you are taking your first steps or are a seasoned professional, our platform is engineered to meet your demands for transparency, and reliability."
+    },
+    {
+      "key": "t264e0f8872a163e0",
+      "english": "In EUR/USD, EUR is the base currency, and USD is the quote.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/trading-rules/trading-rules.component.html"
+      ],
+      "translation": "n EUR / USD , EUR é a moeda base, e USD é a citação.",
+      "previousKey": "t4198a535093f5089",
+      "previousEnglish": "n EUR/USD, EUR is the base currency, and USD is the quote."
+    },
+    {
+      "key": "t3568556442fe5102",
+      "english": "should seek their own financial or professional advice. Trading of securities, forex, stock market, commodities, may not be suitable for everyone and involves the risk of losing part or all of your money. Trading in the financial markets has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the markets. Don't invest and trade with money which you can't afford to lose. Forex trading is not allowed in some countries. Before investing your money, check whether forex trading is permitted in your country.",
+      "kind": "text",
+      "sources": [
+        "src/app/layouts/disclaimer/disclaimer.component.html"
+      ],
+      "translation": "É recomendável buscar aconselhamento financeiro ou profissional independente. A negociação de títulos, forex, ações e commodities pode não ser adequada para todos e envolve o risco de perder parte ou todo o seu dinheiro. Negociar nos mercados financeiros oferece grandes recompensas potenciais, mas também grandes riscos potenciais. Você deve estar ciente dos riscos e disposto a aceitá-los para investir nos mercados. Não invista ou negocie com dinheiro que você não pode se dar ao luxo de perder. A negociação de Forex não é permitida em alguns países; antes de investir seu dinheiro, verifique se o seu país permite essa prática.",
+      "previousKey": "tafeeeb7c28caf06e",
+      "previousEnglish": "should seek their own financial or professional advice. Trading of securities, forex, stock market, commodities, may not be suitable for everyone and involves the risk of losing part or all of your money. Trading in the financial markets has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the markets. Don't invest and trade with money which you can't afford to lose. Forex Trading are not allowed in some countries, before investing your money, make sure whether your country is allowing this or not."
+    },
+    {
+      "key": "t7deea8a56e226295",
+      "english": "Our ultra-modern platform provides powerful analytical tools, live data feeds, and the ability to access it from various devices, ensuring an exceptional trading experience.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/about-us/constant.ts#description"
+      ],
+      "translation": "Nossa plataforma ultramoderna oferece ferramentas analíticas poderosas, feeds de dados em tempo real e a possibilidade de acesso a partir de diversos dispositivos, garantindo uma experiência de negociação excepcional.",
+      "previousKey": "t708e1191170aa031",
+      "previousEnglish": "Our ultra-modern platform provides powerful analytical tools, live data feeds, and ability to access from various devices, ensuring an exceptional trading experience."
+    },
+    {
+      "key": "t375db9738940582f",
+      "english": "User-Friendly Account Options",
+      "kind": "text",
+      "sources": [
+        "src/app/components/about-us/constant.ts#title"
+      ],
+      "translation": "Opções de conta fáceis de usar",
+      "previousKey": "t1b3f13b40af0e562",
+      "previousEnglish": "User Friendly Account Options"
+    },
+    {
+      "key": "t4c08883a25bd9f8e",
+      "english": "Trade on MT5 Platform | Top Multi-Asset Trading Platform",
+      "kind": "text",
+      "sources": [
+        "src/app/components/components-routing.module.ts#title",
+        "src/app/components/platforms/mt5/mt5.component.ts"
+      ],
+      "translation": "Negocie em MT5 Plataforma | Plataforma líder para negociação de múltiplos ativos",
+      "previousKey": "t25c7ba41561b8943",
+      "previousEnglish": "Trade on MT5 Platform | Top Multi Asset Trading Platform"
+    },
+    {
+      "key": "tfb020f6914f2c4f9",
+      "english": "Trade on MT5 Platform with UPFOREX, the trusted Multi-Asset Trading Platform offering powerful tools, secure trading, and affordable costs. Trade Smarter!",
+      "kind": "text",
+      "sources": [
+        "src/app/components/components-routing.module.ts#description",
+        "src/app/components/platforms/mt5/mt5.component.ts"
+      ],
+      "translation": "Negocie em MT5 Plataforma com UPFOREX , a plataforma de negociação de múltiplos ativos de confiança, que oferece ferramentas poderosas, negociação segura e custos acessíveis. Negocie com mais inteligência!",
+      "previousKey": "t5d35205adc14ceb4",
+      "previousEnglish": "Trade on MT5 Platform with UPFOREX, the trusted Multi Asset Trading Platform offering powerful tools, secure trading, and affordable costs. Trade Smarter!"
+    },
+    {
+      "key": "t210fd40fb29323b9",
+      "english": "mt5 platform, multi-asset trading platform​",
+      "kind": "text",
+      "sources": [
+        "src/app/components/components-routing.module.ts#keywords",
+        "src/app/components/platforms/mt5/mt5.component.ts"
+      ],
+      "translation": "mt5 plataforma, plataforma de negociação de múltiplos ativos",
+      "previousKey": "t6b5c0ec29ceede54",
+      "previousEnglish": "mt5 platform, multi asset trading platform​"
+    },
+    {
+      "key": "t9fdbf299f05958ad",
+      "english": "At UPFOREX, our multinational growth and extensive client base have allowed us to form successful partnerships worldwide. We understand the value of working closely with local partners to provide tailored country client support.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/partnership/partnership-programs/constant.ts"
+      ],
+      "translation": "No UPFOREX Nosso crescimento multinacional e nossa extensa base de clientes nos permitiram formar parcerias de sucesso em todo o mundo. Entendemos o valor de trabalhar em estreita colaboração com parceiros locais para fornecer suporte personalizado aos clientes em cada país.",
+      "previousKey": "tcc7803796711358d",
+      "previousEnglish": "At UPFOREX, our multinational growth and extensive client base have allowed us to form successful partnerships worldwide. We understand the value of working closely with local partners to provide tailored Country client support."
+    },
+    {
+      "key": "t9ed7e534e898ff62",
+      "english": "Amplify your trading positions' potential.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/products/precious-metal/constant.ts#subText"
+      ],
+      "translation": "Amplie o potencial das suas posições de negociação.",
+      "previousKey": "t9067b7a5248415c5",
+      "previousEnglish": "Amplify your trading positions potential."
+    },
+    {
+      "key": "tdbb6f17ee3c382f2",
+      "english": "Euro vs British Pound",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "Euro / Libra esterlina",
+      "previousKey": "tedfd77775c33e141",
+      "previousEnglish": "Euro vs British Pounds"
+    },
+    {
+      "key": "tb998c6979f3f51ed",
+      "english": "British Pound vs Australian Dollar",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "Libra esterlina / Dólar australiano",
+      "previousKey": "t0c106d24b918a03e",
+      "previousEnglish": "British Pounds vs Australian Dollar"
+    },
+    {
+      "key": "t03d63824f39f90e8",
+      "english": "British Pound vs Canadian Dollar",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "Libra esterlina / Dólar canadense",
+      "previousKey": "te6251d17774d073b",
+      "previousEnglish": "British Pounds vs Canadian Dollar"
+    },
+    {
+      "key": "t41e2b1be51a8ab2a",
+      "english": "British Pound vs Swiss Franc",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "Libra esterlina / Franco suíço",
+      "previousKey": "t3302eef5bae96039",
+      "previousEnglish": "British Pounds vs Swiss Franc"
+    },
+    {
+      "key": "t18b87b206be338ea",
+      "english": "British Pound vs Japanese Yen",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "Libra esterlina / Iene japonês",
+      "previousKey": "ta893244dba624a19",
+      "previousEnglish": "British Pounds vs Japanese Yen"
+    },
+    {
+      "key": "t6dd89bfc16edbf82",
+      "english": "British Pound vs New Zealand Dollar",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "Libra esterlina / Dólar neozelandês",
+      "previousKey": "t71cd68d144f87df1",
+      "previousEnglish": "British Pounds vs New Zealand Dollar"
+    },
+    {
+      "key": "t84df807b650d1cc1",
+      "english": "British Pound vs US Dollar",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "Libra esterlina / Dólar americano",
+      "previousKey": "te72af110bc34bfd2",
+      "previousEnglish": "British Pounds vs US Dollar"
+    },
+    {
+      "key": "t4f2d5402c07b74d6",
+      "english": "Complaints Handling Policy",
+      "kind": "text",
+      "sources": [
+        "src/app/legel-document-pge/legel-document-pge.component.ts#name"
+      ],
+      "translation": "Política de tratamento de reclamações",
+      "previousKey": "tf2aa0a6387e23525",
+      "previousEnglish": "Complaint Handling Policy"
+    },
+    {
+      "key": "t510a27289d1c7ce8",
+      "english": "<span data-i18n-slot=\"0\">By providing easy access to overseas markets through advanced trading technology and strong regulation, Dubai has established itself as an important financial hub in the Middle East. Among the platforms offered today, <span data-i18n-slot=\"1\">MT5 Stock Trading in Dubai</span> has attracted a large number of customers looking for a professional, yet simple method to participate in financial markets. MetaTrader 5 (MT5) is a popular choice for stocks, indices, and multi-asset trading because of its powerful features and global market access.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ao proporcionar fácil acesso aos mercados estrangeiros através de tecnologia comercial avançada e regulamentação forte, Dubai estabeleceu-se como um importante centro financeiro no Oriente Médio. Entre as plataformas oferecidas hoje, <span data-i18n-slot=\"1\">MT5 Negociação de ações em Dubai</span> tem atraído um grande número de clientes procurando por um profissional, mas método simples para participar de mercados financeiros. MetaTrader 5 (MT5) é uma escolha popular para ações, índices, e comércio multi-ativo por causa de suas características poderosas e acesso global ao mercado.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span></span></span>",
+      "previousKey": "tfb2fca3034c2e9c8",
+      "previousEnglish": "<span data-i18n-slot=\"0\">By providing easy access to overseas markets through advanced trading technology and strong regulation, Dubai has established itself as an important financial hub in the Middle East. Among the platforms offered today, <span data-i18n-slot=\"1\">MT5 Stock Trading in Dubai</span> has attracted a large number of customers looking for a professional , yet simple method to participate in financial markets. MetaTrader 5 (MT5) is a popular choice for stocks, indices, and multi-asset trading because of its powerful features and global market access.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span></span></span>"
+    },
+    {
+      "key": "tb1121cc1f478f147",
+      "english": "<span data-i18n-slot=\"0\">The <span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">MT5 Platform in Dubai </span></span>is well-known for providing advanced skills with a user-friendly layout. Some of the more noticeable characteristics are:</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O <span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">MT5 Plataforma em Dubai </span></span>É conhecido por fornecer habilidades avançadas com um layout amigável. Algumas das características mais notáveis são:</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span></span>",
+      "previousKey": "tdbc4f14d7bdc3389",
+      "previousEnglish": "<span data-i18n-slot=\"0\">The <span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">MT5 Platform in Dubai </span></span>is well-known for providing advanced skills with an user-friendly layout. Some of the more noticeable characteristics are:</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t970a6199ab2fe681",
+      "english": "<span data-i18n-slot=\"0\">The majority of forex trading in Dubai takes place using online platforms that give users access to global currency markets.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A maioria das transações de forex em Dubai acontece online usando plataformas on-line que dão aos usuários acesso aos mercados monetários globais.</span>",
+      "previousKey": "teeee768e568d644e",
+      "previousEnglish": "<span data-i18n-slot=\"0\">The majority of forex trading in Dubai takes place online using online platforms that give users access to global currency markets.</span>"
+    },
+    {
+      "key": "t0dcbe649b016feb3",
+      "english": "Learn how to trade gold online with strategies and best practices. Trade gold confidently and explore precious metals markets effectively. Upforex!",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#description",
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#descriptionSnippet"
+      ],
+      "translation": "Aprenda a trocar ouro online com estratégias e boas práticas. Troque ouro com confiança e explore mercados de metais preciosos de forma eficaz. Upforex!",
+      "previousKey": "t45764ed1db90725f",
+      "previousEnglish": "Learn how to trade gold online with strategies, and best practices. Trade gold confidently and explore precious metals markets effectively. Upforex!"
+    },
+    {
+      "key": "t85877d7bc342b657",
+      "english": "1-Hour Forex Strategy: A Simple Guide for Traders",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#title"
+      ],
+      "translation": "Estratégia Forex de 1 hora: um guia simples para comerciantes",
+      "previousKey": "t8b5b6e02d8f725ba",
+      "previousEnglish": "1 Hour Forex Strategy: A Simple Guide for Traders"
+    },
+    {
+      "key": "t5b4df65a895840ba",
+      "english": "Mastering the 1-Hour Forex Strategy: Step-by-Step Guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#metaTitle"
+      ],
+      "translation": "Dominando a estratégia Forex de 1 hora:",
+      "previousKey": "t1f71766ba0e40497",
+      "previousEnglish": "Mastering the 1 Hour Forex Strategy: Step-by-Step Guide"
+    },
+    {
+      "key": "t27339ef0d61c186a",
+      "english": "Learn the 1-hour forex strategy with simple steps. Discover how to trade smarter, manage risks, and find clear entry and exit points effectively.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#description",
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#descriptionSnippet"
+      ],
+      "translation": "Aprenda a estratégia forex de 1 hora com passos simples. Descubra como negociar com mais inteligência, gerenciar riscos, e encontrar pontos de entrada e saída claros de forma eficaz.",
+      "previousKey": "tfea19e25b78baa87",
+      "previousEnglish": "Learn the 1 hour forex strategy with simple steps. Discover how to trade smarter, manage risks, and find clear entry and exit points effectively."
+    },
+    {
+      "key": "tdf079a8dda159d35",
+      "english": "web blog image 1-Hour Forex Strategy",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#imageAltTag"
+      ],
+      "translation": "Web blog image 1 hora Forex Strategy",
+      "previousKey": "t9121bbc4ae475898",
+      "previousEnglish": "web blog image 1 Hour Forex Strategy"
+    },
+    {
+      "key": "tf87874f95b5009ef",
+      "english": "<span data-i18n-slot=\"0\">If you are looking for a trading plan that doesn’t require sitting in front of the screen all day, the 1-hour forex strategy could be a great choice. It gives you enough trading opportunities while keeping the process simple and less stressful. Many beginners and even experienced traders prefer this approach because it balances time, analysis, and results.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se você está procurando por um plano de negociação que não requer sentar na frente da tela o dia todo, a estratégia forex de 1 hora pode ser uma ótima escolha. Dá oportunidades de troca suficientes, mantendo o processo simples e menos estressante. Muitos iniciantes e até comerciantes experientes preferem essa abordagem porque equilibra tempo, análise e resultados.</span>",
+      "previousKey": "tc5c3f852f6f24622",
+      "previousEnglish": "<span data-i18n-slot=\"0\">If you are looking for a trading plan that doesn’t require sitting in front of the screen all day, the 1 hour forex strategy could be a great choice. It gives you enough trading opportunities while keeping the process simple and less stressful. Many beginners and even experienced traders prefer this approach because it balances time, analysis, and results.</span>"
+    },
+    {
+      "key": "t81155c3ada70e0aa",
+      "english": "<span data-i18n-slot=\"0\">In this blog, we’ll explain what the 1-hour forex strategy is, how it works, and tips to make it more effective.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Neste blog, vamos explicar o que é a estratégia forex de 1 hora, como funciona, e dicas para torná-lo mais eficaz.</span>",
+      "previousKey": "t70b4df411199aea7",
+      "previousEnglish": "<span data-i18n-slot=\"0\">In this blog, we’ll explain what the 1 hour forex strategy is, how it works, and tips to make it more effective.</span>"
+    },
+    {
+      "key": "t5fe6078029d7a50a",
+      "english": "<span data-i18n-slot=\"0\">What is the 1-Hour Forex Strategy?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Qual é a estratégia Forex de 1 hora?</span>",
+      "previousKey": "tbd1f6999cc10f5a7",
+      "previousEnglish": "<span data-i18n-slot=\"0\">What is the 1 Hour Forex Strategy?</span>"
+    },
+    {
+      "key": "t3fb157e2bf297fbe",
+      "english": "<span data-i18n-slot=\"0\">The 1-hour strategy is a trading method that uses the 1-hour time frame on forex charts. This means that each candle or bar on the chart represents one hour of market activity. Traders who use this strategy usually check the market every few hours instead of every few minutes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A estratégia de 1 hora é um método de negociação que usa o tempo de 1 hora em gráficos forex. Isso significa que cada vela ou barra no gráfico representa uma hora de atividade no mercado. Traders que usam esta estratégia geralmente verificar o mercado a cada poucas horas em vez de a cada poucos minutos.</span>",
+      "previousKey": "tef261591c2ad9e33",
+      "previousEnglish": "<span data-i18n-slot=\"0\">The 1 hour strategy is a trading method that uses the 1-hour time frame on forex charts. This means that each candle or bar on the chart represents one hour of market activity. Traders who use this strategy usually check the market every few hours instead of every few minutes.</span>"
+    },
+    {
+      "key": "t685025914f2fe681",
+      "english": "<span data-i18n-slot=\"0\">Why Choose the 1-Hour Forex Strategy?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por que escolher a estratégia Forex de 1 hora?</span>",
+      "previousKey": "t6146b7a8f4739a6c",
+      "previousEnglish": "<span data-i18n-slot=\"0\">Why Choose the 1 Hour Forex Strategy?</span>"
+    },
+    {
+      "key": "t92a5c799d80e49ad",
+      "english": "<span data-i18n-slot=\"0\">How to Use the 1-Hour Forex Strategy</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como usar a estratégia Forex de 1 hora</span>",
+      "previousKey": "t5766842a8cf9ac20",
+      "previousEnglish": "<span data-i18n-slot=\"0\">How to Use the 1 Hour Forex Strategy</span>"
+    },
+    {
+      "key": "t1176610775871bfb",
+      "english": "<span data-i18n-slot=\"0\">Example of a 1-Hour Forex Strategy Setup</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Exemplo de uma configuração de estratégia Forex de 1 hora</span>",
+      "previousKey": "t3393c4d0072a0676",
+      "previousEnglish": "<span data-i18n-slot=\"0\">Example of a 1 Hour Forex Strategy Setup</span>"
+    },
+    {
+      "key": "t42cbb1025ca8c244",
+      "english": "<span data-i18n-slot=\"0\">This simple example shows how structured and clear trading can be with the 1-hour strategy.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Este exemplo simples mostra como o comércio estruturado e claro pode ser com a estratégia de 1 hora.</span>",
+      "previousKey": "t957faa6746fa7029",
+      "previousEnglish": "<span data-i18n-slot=\"0\">This simple example shows how structured and clear trading can be with the 1 hour strategy.</span>"
+    },
+    {
+      "key": "te17286e4d97a90d8",
+      "english": "<span data-i18n-slot=\"0\">Is the 1-Hour Forex Strategy Right for You?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A estratégia Forex de 1 hora está certa para você?</span>",
+      "previousKey": "t29fd19a1116fe235",
+      "previousEnglish": "<span data-i18n-slot=\"0\">Is the 1 Hour Forex Strategy Right for You?</span>"
+    },
+    {
+      "key": "t281902d0e966bd7a",
+      "english": "<span data-i18n-slot=\"0\">The 1-hour </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex</span></span><span data-i18n-slot=\"3\"> strategy offers traders a balance of structure, flexibility, and simplicity. By focusing on trend direction, waiting for pullbacks, and following proper risk management, you can increase your chances of consistent results.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A 1 hora </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Forex</span></span><span data-i18n-slot=\"3\"> estratégia oferece aos comerciantes um equilíbrio de estrutura, flexibilidade e simplicidade. Focando na direção da tendência, esperando por retirada, e seguindo o gerenciamento de risco adequado, você pode aumentar suas chances de resultados consistentes.</span>",
+      "previousKey": "tf1ec459347853777",
+      "previousEnglish": "<span data-i18n-slot=\"0\">The 1 hour </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex</span></span><span data-i18n-slot=\"3\"> strategy offers traders a balance of structure, flexibility, and simplicity. By focusing on trend direction, waiting for pullbacks, and following proper risk management, you can increase your chances of consistent results.</span>"
+    },
+    {
+      "key": "t3637b9cb607fb33b",
+      "english": "5 Crucial Differences Between Forex Demo and Real Accounts",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#metaTitle"
+      ],
+      "translation": "5 Diferença crucial entre a demonstração Forex e a conta real",
+      "previousKey": "t1cee1d13a004a67b",
+      "previousEnglish": "5 Crucial Difference Between Forex Demo and Real Account"
+    },
+    {
+      "key": "t3ce02c5a4bd0eb4e",
+      "english": "<span data-i18n-slot=\"0\">A forex trading platform updates prices, charts, and market data instantly, allowing traders to execute trades with minimal delays. UpForex's real-time technology provides millisecond execution rates, offering you an edge in rapidly changing markets.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma plataforma de forex atualiza preços, gráficos e dados de mercado instantaneamente, permitindo executar operações com atrasos mínimos. A tecnologia em tempo real da UpForex oferece execução em milissegundos, proporcionando uma vantagem em mercados que mudam rapidamente.</span>",
+      "previousKey": "ta2829ceed92f3300",
+      "previousEnglish": "<span data-i18n-slot=\"0\">A forex trading platform updates prices, charts, and market data instantly, allowing traders to execute trades with minimal delays. UpForex's real-time technology provides millisecond execution rates, offering you an edge in rapidly changing markets..</span>"
+    },
+    {
+      "key": "t51668621305ca5f5",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">forex trading platform</span></span></span><span data-i18n-slot=\"4\"> is considered legal if it is regulated by a recognized financial authority, complies with anti-money laundering (AML) laws, and protects client funds through secure financial practices. Regulation ensures that the platform respects fair trade regulations and is accountable to the financial authorities.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">plataforma de negociação de forex</span></span></span><span data-i18n-slot=\"4\"> é considerada legal se for regulada por uma autoridade financeira reconhecida, cumprir as leis de combate à lavagem de dinheiro (AML) e proteger os fundos dos clientes por meio de práticas financeiras seguras. A regulamentação assegura que a plataforma respeite as regras de negociação justa e preste contas às autoridades financeiras.</span>",
+      "previousKey": "ted269f37eb6ee25b",
+      "previousEnglish": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">forex trading platform</span></span></span><span data-i18n-slot=\"4\"> is considered legal if it is regulated by a recognized financial authority, complies with anti-money laundering (AML) laws, and protects client funds through secure financial practices. Regulation ensures that the platform respects fair trade regulations and is accountable to the financial authorities..</span>"
+    },
+    {
+      "key": "tf4cefac6af55e77c",
+      "english": "<span data-i18n-slot=\"0\">UpForex is more than just the best forex trading platform — it’s designed for future-ready traders who need speed, intelligence, and control.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex é mais do que apenas uma melhor plataforma de negociação forex - ele é projetado para futuros comerciantes prontos que precisam de velocidade, inteligência e controle.</span>",
+      "previousKey": "t2e73a4261a70b264",
+      "previousEnglish": "<span data-i18n-slot=\"0\">UpForex is more than just a best forex trading platform — it’s designed for future-ready traders who need speed, intelligence, and control.</span>"
+    },
+    {
+      "key": "t73629b05659c2397",
+      "english": "<span data-i18n-slot=\"0\">UpForex offers </span><span data-i18n-slot=\"1\">EUR/USD spreads from 0.1 pips</span><span data-i18n-slot=\"2\"> with </span><span data-i18n-slot=\"3\">zero commissions</span><span data-i18n-slot=\"4\">, meaning the spread you see is the only fee you pay—no hidden markups or overnight financing surprises. This transparent pricing ensures every pip works toward your bottom line, whether you’re trading majors, minors, or exotic pairs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex oferece </span><span data-i18n-slot=\"1\">EUR/USD espalha de 0.1 pips</span><span data-i18n-slot=\"2\"> com </span><span data-i18n-slot=\"3\">Zero comissões.</span><span data-i18n-slot=\"4\">, significando que o spread que você vê é a única taxa que você paga - sem marcas escondidas ou surpresas de financiamento durante a noite. Esse preço transparente garante que cada pip funcione em direção ao seu objetivo, seja você negociando majors, menores ou pares exóticos.</span>",
+      "previousKey": "t6fb41ec7006bdd17",
+      "previousEnglish": "<span data-i18n-slot=\"0\">UpForex offers </span><span data-i18n-slot=\"1\">EUR/USD spreads from 0.1 pips</span><span data-i18n-slot=\"2\"> with </span><span data-i18n-slot=\"3\">zero commissions</span><span data-i18n-slot=\"4\">, meaning the spread you see is the only fee you pay—no hidden markups or overnight financing surprises . This transparent pricing ensures every pip works toward your bottom line, whether you’re trading majors, minors, or exotic pairs.</span>"
+    },
+    {
+      "key": "tf24004adc2320683",
+      "english": "<span data-i18n-slot=\"0\">Ultra-Tight Majors</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> EUR/USD from </span><span data-i18n-slot=\"4\">0.1 pips</span><span data-i18n-slot=\"5\">, matching raw-spread specialists without commissions.</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Majors Ultra-Tight</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> EUR/USD de </span><span data-i18n-slot=\"4\">0.1 pips</span><span data-i18n-slot=\"5\">, combinando especialistas raw-spread sem comissões.</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "previousKey": "t8163ccdb8f7f1043",
+      "previousEnglish": "<span data-i18n-slot=\"0\">Ultra-Tight Majors</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> EUR/USD from </span><span data-i18n-slot=\"4\">0.1 pips</span><span data-i18n-slot=\"5\">, matching raw-spread specialists without commissions .</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>"
+    },
+    {
+      "key": "tfd5ce9cd2f8eefcf",
+      "english": "<span data-i18n-slot=\"0\">Practice using a </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">demo account</span></span><span data-i18n-slot=\"3\">: </span>Before you invest real money, you can paper trade on many of the best forex trading platforms. Now is the moment to make sure you have tested your tactics and mastered all the trading mechanics. Finding your flaws and blunders in practice mode is preferable to doing so while your money is on the line.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pratique usar um </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">conta demo</span></span><span data-i18n-slot=\"3\">: </span>Antes de investir dinheiro de verdade, você pode negociar papel em um monte de melhor plataforma de negociação forex. Agora é o momento de ter certeza que você testou suas táticas e dominou toda a mecânica comercial. Encontrar suas falhas e erros no modo de prática é preferível a fazê-lo enquanto seu dinheiro está em jogo.",
+      "previousKey": "te670554aebfe6368",
+      "previousEnglish": "<span data-i18n-slot=\"0\">Practice using a </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">demo account</span></span><span data-i18n-slot=\"3\">: </span>Before you invest real money, you can paper trade on a lot of best forex trading platform. Now is the moment to make sure you have tested your tactics and mastered all the trading mechanics. Finding your flaws and blunders in practice mode is preferable to doing so while your money is on the line."
+    }
+  ]
+}

@@ -3,6 +3,7 @@ import { benefits } from './constant';
 import { Store } from 'src/app/Store/store';
 
 @Component({
+  standalone: false,
   selector: 'app-energy-future',
   templateUrl: './energy-future.component.html',
   styleUrls: ['./energy-future.component.scss'],

@@ -1,0 +1,259 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tf7fa1e85cf0d3a67",
+      "english": "<span data-i18n-slot=\"0\">0.0001 = 1 pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.0001 = 1 pip</span>"
+    },
+    {
+      "key": "tff8d5e2f2e8c1647",
+      "english": "<span data-i18n-slot=\"0\">that side of the quote has moved by 1 pip.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">esse lado da cotação mudou 1 pip.</span>"
+    },
+    {
+      "key": "t553ca8174c837581",
+      "english": "<span data-i18n-slot=\"0\">A move from:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma mudança de:</span>"
+    },
+    {
+      "key": "te964d188a01d99f6",
+      "english": "<span data-i18n-slot=\"0\">Both sides of the quote have moved higher.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ambos os lados da cotação subiram.</span>"
+    },
+    {
+      "key": "td61dbb16636497a4",
+      "english": "<span data-i18n-slot=\"0\">If the quote instead falls to:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se a cotação cair para:</span>"
+    },
+    {
+      "key": "tcb855ad249d3a31c",
+      "english": "<span data-i18n-slot=\"0\">A short position generally benefits from downward movement after accounting for the relevant bid/ask sides.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma posição curta geralmente se beneficia do movimento descendente após contabilizar os lados de compra/venda relevantes.</span>"
+    },
+    {
+      "key": "t5cb8cdd042af8592",
+      "english": "<span data-i18n-slot=\"0\">If a position was opened using the ask, its closing value should not automatically be judged using another ask price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se uma posição foi aberta utilizando o preço de venda, o seu valor de fecho não deve ser automaticamente avaliado utilizando outro preço de venda.</span>"
+    },
+    {
+      "key": "t052201b5a973710b",
+      "english": "<span data-i18n-slot=\"0\">Assuming the Quote Is Fixed</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Supondo que a cotação seja fixa</span>"
+    },
+    {
+      "key": "taea19cafdce1ce5d",
+      "english": "<span data-i18n-slot=\"0\">Confusing Quote Currency With a Forex Quote</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Confundir moeda de cotação com cotação de Forex</span>"
+    },
+    {
+      "key": "tfafe8d56b435920e",
+      "english": "<span data-i18n-slot=\"0\">“Quote currency” means the second currency in a pair. A “forex quote” refers to the displayed price information for the pair.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">“Moeda de cotação” significa a segunda moeda de um par. Uma “cotação forex” refere-se às informações de preço exibidas para o par.</span>"
+    },
+    {
+      "key": "t8f2c11200bc37b24",
+      "english": "<span data-i18n-slot=\"0\">A forex quote is the two-sided price shown for a currency pair. It normally contains a bid price associated with selling and an ask price associated with buying. The difference between the two is the spread, and changes in the quote show how the relative value of the two currencies is moving.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma cotação forex é o preço bilateral mostrado para um par de moedas. Normalmente contém um preço de compra associado à venda e um preço de venda associado à compra. A diferença entre os dois é o spread, e as mudanças na cotação mostram como está se movendo o valor relativo das duas moedas.</span>"
+    },
+    {
+      "key": "td34d7dac569f0506",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between bid and ask price?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Qual é a diferença entre preço de compra e preço de venda?</span>"
+    },
+    {
+      "key": "tadd50a24fc2954c0",
+      "english": "<span data-i18n-slot=\"0\">What is the spread in a forex quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Qual é o spread em uma cotação forex?</span>"
+    },
+    {
+      "key": "t9bb57b6febcda859",
+      "english": "<span data-i18n-slot=\"0\">The quote currency is the second currency shown in a forex pair. In EUR/USD, USD is the quote currency. The displayed pair price expresses the value of one unit of the base currency in terms of the quote currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A moeda de cotação é a segunda moeda mostrada em um par forex. Em EUR/USD, USD é a moeda de cotação. O preço do par exibido expressa o valor de uma unidade da moeda base em termos da moeda de cotação.</span>"
+    },
+    {
+      "key": "t549cd5fd1e200c57",
+      "english": "<span data-i18n-slot=\"0\">Practice Reading the Quote Before Placing a Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pratique a leitura da cotação antes de fazer uma negociação</span>"
+    },
+    {
+      "key": "tf4bafe70b81bd992",
+      "english": "<span data-i18n-slot=\"0\">The Bank for International Settlements reported average global FX turnover of about </span><span data-i18n-slot=\"1\">$9.6 trillion per day in April 2025</span><span data-i18n-slot=\"2\">, with the US dollar on one side of </span><span data-i18n-slot=\"3\">89% of all FX trades</span><span data-i18n-slot=\"4\">.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">BIS press release, 30 September 2025</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O Banco de Compensações Internacionais informou um giro médio global de câmbio de cerca de </span><span data-i18n-slot=\"1\">US$9.6 trilhões por dia em abril de 2025</span><span data-i18n-slot=\"2\">, com o dólar americano em um dos lados de </span><span data-i18n-slot=\"3\">89% de todas as negociações de câmbio</span><span data-i18n-slot=\"4\">.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Comunicado de imprensa do BIS, 30 de setembro de 2025</span></span>"
+    },
+    {
+      "key": "t1d356c7adebfe660",
+      "english": "<span data-i18n-slot=\"0\">Trading-session activity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Atividade de sessão de negociação</span>"
+    },
+    {
+      "key": "t4fccf0ee0b5d30fc",
+      "english": "<span data-i18n-slot=\"0\">Currency-pair popularity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Popularidade dos pares de moedas</span>"
+    },
+    {
+      "key": "t9ea0f225b0531a93",
+      "english": "<span data-i18n-slot=\"0\">Overall volatility</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Volatilidade geral</span>"
+    },
+    {
+      "key": "t261196cbb9e5b2e1",
+      "english": "<span data-i18n-slot=\"0\">How Does Liquidity Affect Slippage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como a liquidez afeta a derrapagem?</span>"
+    },
+    {
+      "key": "t6fc8b82307c18571",
+      "english": "<span data-i18n-slot=\"0\">Actual fill price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Preço efetivo de execução</span>"
+    },
+    {
+      "key": "t34d583f00a466ada",
+      "english": "<span data-i18n-slot=\"0\">Typical Spread Behavior</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comportamento típico do spread</span>"
+    },
+    {
+      "key": "t09ae82c5c12af851",
+      "english": "<span data-i18n-slot=\"0\">Typical Slippage Risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Risco típico de escorregamento</span>"
+    },
+    {
+      "key": "tded6e71aa356aee6",
+      "english": "<span data-i18n-slot=\"0\">Major</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Principal</span>"
+    },
+    {
+      "key": "tb26cd96cbbf9a66a",
+      "english": "<span data-i18n-slot=\"0\">Usually among the tighter major-pair spreads</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Geralmente entre os spreads de pares principais mais reduzidos</span>"
+    }
+  ]
+}

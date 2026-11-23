@@ -1,0 +1,1617 @@
+{
+  "language": "de",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t1f4c2e16769311a8",
+      "english": "<span data-i18n-slot=\"0\">Records and reviews each trade</span>",
+      "translation": "<span data-i18n-slot=\"0\">Zeichnet jeden Handel auf und überprüft ihn</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t8fd426a218552964",
+      "english": "<span data-i18n-slot=\"0\">Mistake #10: Not Keeping a Trading Journal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Fehler Nr. 10: Kein Handelsjournal führen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t1ea2cf62681882c2",
+      "english": "<span data-i18n-slot=\"0\">Record every trade in the same format.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erfassen Sie jeden Handel im gleichen Format.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t7bd040ffebc860df",
+      "english": "<span data-i18n-slot=\"0\">Separate strategy performance from rule-breaking.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Trennen Sie Strategieleistung von Regelverstößen.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t8b1dad5ad180d41c",
+      "english": "<span data-i18n-slot=\"0\">How to Fix It</span>",
+      "translation": "<span data-i18n-slot=\"0\">So beheben Sie das Problem</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "te09a84d514c8351f",
+      "english": "<span data-i18n-slot=\"0\">Define entry, exit, risk, and no-trade rules</span>",
+      "translation": "<span data-i18n-slot=\"0\">Definieren Sie Einstiegs-, Ausstiegs- und Risikoregeln sowie Situationen, in denen nicht gehandelt wird</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t280acd850595a333",
+      "english": "<span data-i18n-slot=\"0\">The trader rushes into live trading</span>",
+      "translation": "<span data-i18n-slot=\"0\">Der Händler stürzt sich in den Live-Handel</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t9c05db9f7f5a479d",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging</span>",
+      "translation": "<span data-i18n-slot=\"0\">Überverschuldung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "ta20a322b29b6c4c7",
+      "english": "<span data-i18n-slot=\"0\">Size is chosen without margin awareness</span>",
+      "translation": "<span data-i18n-slot=\"0\">Die Positionsgröße wird ohne Verständnis der Margin gewählt</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t0b2c9ca044625902",
+      "english": "<span data-i18n-slot=\"0\">Losses are chased immediately</span>",
+      "translation": "<span data-i18n-slot=\"0\">Verluste werden sofort verfolgt</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t85ece72a1eeb4108",
+      "english": "<span data-i18n-slot=\"0\">Attention stays on price movement</span>",
+      "translation": "<span data-i18n-slot=\"0\">Die Aufmerksamkeit liegt weiterhin auf der Preisbewegung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t252fe911dbd66c55",
+      "english": "<span data-i18n-slot=\"0\">Using essential money</span>",
+      "translation": "<span data-i18n-slot=\"0\">Mit lebenswichtigem Geld</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tf879de45b84b3e3d",
+      "english": "<span data-i18n-slot=\"0\">No journal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kein Tagebuch</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t48acb7271d0466c7",
+      "english": "<span data-i18n-slot=\"0\">Pending order types</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ausstehende Auftragstypen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t3d452b17b304be0d",
+      "english": "<span data-i18n-slot=\"0\">Compile the source file when required</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">An </span><span data-i18n-slot=\"4\">.ex5</span><span data-i18n-slot=\"5\"> file normally needs no compilation. For </span><span data-i18n-slot=\"6\">.mq5</span><span data-i18n-slot=\"7\">, press </span><span data-i18n-slot=\"8\">F4</span><span data-i18n-slot=\"9\"> to open MetaEditor, select the file, and press </span><span data-i18n-slot=\"10\">F7</span><span data-i18n-slot=\"11\">. Successful compilation creates an </span><span data-i18n-slot=\"12\">.ex5</span><span data-i18n-slot=\"13\"> file.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kompilieren Sie die Quelldatei bei Bedarf</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Eine </span><span data-i18n-slot=\"4\">.ex5</span><span data-i18n-slot=\"5\">-Datei erfordert normalerweise keine Kompilierung. Drücken Sie für </span><span data-i18n-slot=\"6\">.mq5</span><span data-i18n-slot=\"7\"> </span><span data-i18n-slot=\"8\">F4</span><span data-i18n-slot=\"9\">, um MetaEditor zu öffnen, wählen Sie die Datei aus und drücken Sie </span><span data-i18n-slot=\"10\">F7</span><span data-i18n-slot=\"11\">. Bei erfolgreicher Kompilierung wird eine </span><span data-i18n-slot=\"12\">.ex5</span><span data-i18n-slot=\"13\">-Datei erstellt.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t45efb251b2654359",
+      "english": "<span data-i18n-slot=\"0\">How to Attach and Configure an EA on a Chart</span>",
+      "translation": "<span data-i18n-slot=\"0\">So fügen Sie einen EA an ein Diagramm an und konfigurieren ihn</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t1e3bec33025f2cbd",
+      "english": "<span data-i18n-slot=\"0\">Review:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Prüfen Sie:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t555e33af87d736bd",
+      "english": "<span data-i18n-slot=\"0\">Stop-loss and take-profit rules</span>",
+      "translation": "<span data-i18n-slot=\"0\">Stop-Loss- und Take-Profit-Regeln</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "tfae50000a50d61c6",
+      "english": "<span data-i18n-slot=\"0\">Allowed trade direction</span>",
+      "translation": "<span data-i18n-slot=\"0\">Zulässige Handelsrichtung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "tac3ffbe593fabd3d",
+      "english": "<span data-i18n-slot=\"0\">News or volatility filters</span>",
+      "translation": "<span data-i18n-slot=\"0\">Nachrichten- oder Volatilitätsfilter</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "tda0bb1282aac2fe4",
+      "english": "<span data-i18n-slot=\"0\">Manual vs Automated Trading Workflow</span>",
+      "translation": "<span data-i18n-slot=\"0\">Manueller vs. automatisierter Handelsablauf</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t48eb2e417a2a7fe5",
+      "english": "<span data-i18n-slot=\"0\">Trader enters and exits manually</span>",
+      "translation": "<span data-i18n-slot=\"0\">Der Trader eröffnet und schließt Positionen manuell</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t12d039bd4cbc6559",
+      "english": "<span data-i18n-slot=\"0\">EA can submit orders automatically</span>",
+      "translation": "<span data-i18n-slot=\"0\">Der EA kann Orders automatisch übermitteln</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t271be859e2fa53d3",
+      "english": "<span data-i18n-slot=\"0\">Close:</span><span data-i18n-slot=\"1\"> The ending price</span>",
+      "translation": "<span data-i18n-slot=\"0\">Schluss:</span><span data-i18n-slot=\"1\"> Der Endpreis</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t33831b53dc42ea2b",
+      "english": "<span data-i18n-slot=\"0\">Is the market trending or ranging?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Befindet sich der Markt in einem Trend oder in einer Seitwärtsphase?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t4325bee3ae77b29b",
+      "english": "<span data-i18n-slot=\"0\">Single Candlestick Patterns</span>",
+      "translation": "<span data-i18n-slot=\"0\">Einzelkerzenmuster</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t06dcfba470867da8",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">doji</span><span data-i18n-slot=\"2\"> forms when the opening and closing prices are equal or very close, creating a tiny body with possible upper and lower wicks. It represents indecision because neither buyers nor sellers maintained control by the close.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ein </span><span data-i18n-slot=\"1\">Doji</span><span data-i18n-slot=\"2\"> bildet sich, wenn die Eröffnungs- und Schlusskurse gleich oder sehr nahe beieinander liegen, wodurch ein winziger Körper mit möglichen oberen und unteren Dochten entsteht. Es stellt Unentschlossenheit dar, da weder Käufer noch Verkäufer bis zum Börsenschluss die Kontrolle hatten.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t8fea3caf1f741c63",
+      "english": "<span data-i18n-slot=\"0\">Hammer</span>",
+      "translation": "<span data-i18n-slot=\"0\">Hammer</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t1cef09588c52b726",
+      "english": "<span data-i18n-slot=\"0\">Shooting Star</span>",
+      "translation": "<span data-i18n-slot=\"0\">Sternschnuppe (Shooting Star)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t0c5b1e7acf85309c",
+      "english": "<span data-i18n-slot=\"0\">Spinning Top</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kreisel</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "te49099be2d520cc0",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">spinning top</span><span data-i18n-slot=\"2\"> has a small body with visible upper and lower wicks. Unlike a doji, its open and close are not almost identical, but they remain close.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ein </span><span data-i18n-slot=\"1\">Kreisel</span><span data-i18n-slot=\"2\"> hat einen kleinen Körper mit sichtbaren oberen und unteren Dochten. Im Gegensatz zu einem Doji sind Eröffnung und Schluss nicht annähernd identisch, aber sie bleiben nahe beieinander.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t4b95f3a9757cd44b",
+      "english": "<span data-i18n-slot=\"0\">Bullish Engulfing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Bullisches Umfassungsmuster (Bullish Engulfing)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t37090010666c9bbe",
+      "english": "<span data-i18n-slot=\"0\">Piercing Line</span>",
+      "translation": "<span data-i18n-slot=\"0\">Durchdringungslinie</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tdfe0354e962999e8",
+      "english": "<span data-i18n-slot=\"0\">Bearish Engulfing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Bärisches Umfassungsmuster (Bearish Engulfing)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t8f3a5d67288b36e7",
+      "english": "<span data-i18n-slot=\"0\">Reversal Candlestick Patterns: What They Signal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Umkehrkerzenmuster: Was sie signalisieren</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t8be61c0d4c75e329",
+      "english": "<span data-i18n-slot=\"0\">Quick-Reference Table: Bullish vs. Bearish Patterns</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kurzübersichtstabelle: bullische vs. bärische Muster</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tf8542953ad36e5b5",
+      "english": "<span data-i18n-slot=\"0\">Pattern</span>",
+      "translation": "<span data-i18n-slot=\"0\">Muster</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t6892db8c7460f650",
+      "english": "<span data-i18n-slot=\"0\">Bullish reversal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Bullische Trendumkehr</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t46104251f3154553",
+      "english": "<span data-i18n-slot=\"0\">Bearish reversal</span>",
+      "translation": "<span data-i18n-slot=\"0\">bärische Umkehr</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t7a76e1c773684e85",
+      "english": "<span data-i18n-slot=\"0\">The open and close are nearly equal, showing uncertainty</span>",
+      "translation": "<span data-i18n-slot=\"0\">Eröffnungs- und Schlusskurs sind nahezu gleich, was auf Unsicherheit hinweist</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tb577c8a401410626",
+      "english": "<span data-i18n-slot=\"0\">Trading a pattern in isolation:</span><span data-i18n-slot=\"1\"> A shape without trend or market structure provides limited information.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ein Muster isoliert handeln:</span><span data-i18n-slot=\"1\"> Eine Form ohne Trend oder Marktstruktur liefert nur begrenzte Informationen.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t7e2cbd4cfa4378ba",
+      "english": "<span data-i18n-slot=\"0\">A retail trader is an individual who trades financial markets using personal funds rather than money managed for a bank, hedge fund, pension fund, or other institution.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ein privater Trader handelt mit eigenen Mitteln an den Finanzmärkten und nicht mit Geldern, die für eine Bank, einen Hedgefonds, einen Pensionsfonds oder eine andere Institution verwaltet werden.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t39161b6113a5f735",
+      "english": "<span data-i18n-slot=\"0\">Leverage use</span>",
+      "translation": "<span data-i18n-slot=\"0\">Nutzung der Hebelwirkung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t92528d377fa66165",
+      "english": "<span data-i18n-slot=\"0\">Typical outcome pattern</span>",
+      "translation": "<span data-i18n-slot=\"0\">Typisches Ergebnismuster</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t368cbdccfe39162a",
+      "english": "<span data-i18n-slot=\"0\">A larger share experience net losses</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ein größerer Anteil erleidet Nettoverluste</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t9d94a4f348ea752b",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging and Margin Risk</span>",
+      "translation": "<span data-i18n-slot=\"0\">Überschuldung und Margenrisiko</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "tbb37a507928cde1f",
+      "english": "<span data-i18n-slot=\"0\">The maximum leverage for CFDs available to retail traders in the UAE can vary by provider, instrument, account classification, and applicable regulations. UpForex lists leverage of </span><span data-i18n-slot=\"1\">up to 1:300</span><span data-i18n-slot=\"2\">, subject to possible adjustments based on market and liquidity conditions. Its account page also lists a </span><span data-i18n-slot=\"3\">50% margin-call level</span><span data-i18n-slot=\"4\"> and a </span><span data-i18n-slot=\"5\">30% stop-out level</span><span data-i18n-slot=\"6\">. </span>",
+      "translation": "<span data-i18n-slot=\"0\">Der maximale CFD-Hebel für private Trader in den Vereinigten Arabischen Emiraten kann je nach Anbieter, Instrument, Kontoklassifizierung und geltenden Vorschriften variieren. UpForex nennt einen Hebel von </span><span data-i18n-slot=\"1\">bis zu 1:300</span><span data-i18n-slot=\"2\">, vorbehaltlich möglicher Anpassungen an Markt- und Liquiditätsbedingungen. Auf der Kontoseite werden außerdem ein </span><span data-i18n-slot=\"3\">Margin-Call-Level von 50%</span><span data-i18n-slot=\"4\"> und ein </span><span data-i18n-slot=\"5\">Stop-Out-Level von 30%</span><span data-i18n-slot=\"6\"> angegeben. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "tcdf421e36bf3da71",
+      "english": "<span data-i18n-slot=\"0\">Chasing Losses and Revenge Trading</span>",
+      "translation": "<span data-i18n-slot=\"0\">Verlustjagd und Rachehandel</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t0ee0e5a9cbcae6c5",
+      "english": "<span data-i18n-slot=\"0\">How Retail Traders Can Improve Their Odds</span>",
+      "translation": "<span data-i18n-slot=\"0\">Wie private Trader ihre Chancen verbessern können</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t420fafe11fd11735",
+      "english": "<span data-i18n-slot=\"0\">Track rule compliance, drawdown, average results, and performance after costs to separate process from luck.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Verfolgen Sie Regeleinhaltung, Drawdown, durchschnittliche Ergebnisse und Leistung nach Kosten, um einen guten Prozess von bloßem Glück zu unterscheiden.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "ta15d2bfeb27fa162",
+      "english": "<span data-i18n-slot=\"0\">Entry Cost</span>",
+      "translation": "<span data-i18n-slot=\"0\">Eintrittskosten</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t646aae841b3f9bb4",
+      "english": "<span data-i18n-slot=\"0\">Instant execution</span>",
+      "translation": "<span data-i18n-slot=\"0\">Sofortige Ausführung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t0d79950cde21701c",
+      "english": "<span data-i18n-slot=\"0\">The spread is the cost you pay to enter a trade, it is built into the bid/ask price. Swap fees (also called overnight fees or rollover fees) apply when you hold a CFD position open past the daily rollover time, typically 5:00 PM New York time. If you are holding a gold CFD trade for multiple days, these fees accumulate and affect your overall returns. UpForex offers Islamic swap-free accounts for traders who require Sharia-compliant conditions.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Der Spread ist der Preis für den Einstieg in einen Trade und in den Geld-/Briefkurs eingerechnet. Swap-Gebühren, auch Übernacht- oder Rollover-Gebühren genannt, fallen an, wenn Sie eine CFD-Position über den täglichen Rollover-Zeitpunkt hinaus offen halten, normalerweise um 5:00 PM, Ortszeit New York. Halten Sie eine Gold-CFD-Position mehrere Tage, summieren sich diese Gebühren und beeinflussen Ihre Gesamtrendite. UpForex bietet islamische swapfreie Konten für Trader an, die schariakonforme Bedingungen benötigen.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t3a05a79f9bd67acd",
+      "english": "<span data-i18n-slot=\"0\">Use Leverage to Manage Your Exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Nutzen Sie die Hebelwirkung, um Ihr Risiko zu verwalten</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tbd3d95cc625076e0",
+      "english": "<span data-i18n-slot=\"0\">Central banks globally purchased a record 1,237 tonnes of gold in 2025, the third consecutive year above 1,000 tonnes. In Q1 2026 alone, central banks and official institutions recorded estimated net purchases of 244 tonnes, up 17% quarter on quarter. Goldman Sachs expects central bank buying to average 60 tonnes per month through the second half of 2026. Saudi Arabia and the UAE are reportedly exploring significant gold reserve allocations for the first time. This structural demand is one of the strongest long-term supports for gold prices.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Weltweit kauften Zentralbanken 2025 die Rekordmenge von 1,237 Tonnen Gold, das dritte Jahr in Folge mehr als 1,000 Tonnen. Allein im Q1 2026 verzeichneten Zentralbanken und offizielle Institutionen geschätzte Nettokäufe von 244 Tonnen, 17% mehr als im Vorquartal. Goldman Sachs erwartet bis in die zweite Jahreshälfte 2026 durchschnittliche Zentralbankkäufe von 60 Tonnen pro Monat. Saudi-Arabien und die Vereinigten Arabischen Emirate erwägen Berichten zufolge erstmals erhebliche Zuteilungen zu Goldreserven. Diese strukturelle Nachfrage gehört zu den stärksten langfristigen Stützen des Goldpreises.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t42c4916476d6b002",
+      "english": "<span data-i18n-slot=\"0\">Geopolitical Events and Safe-Haven Demand</span>",
+      "translation": "<span data-i18n-slot=\"0\">Geopolitische Ereignisse und die Nachfrage nach sicheren Häfen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tc054b63b7f216405",
+      "english": "<span data-i18n-slot=\"0\">In periods of consolidation, like gold’s sideways movement in the $4,800–$5,200 zone during Q1 2026, range trading can be effective. You identify key support levels where price has bounced historically and key resistance levels where it has stalled, then trade between them. Range trades tend to have tighter profit targets and require discipline to exit if the range breaks.</span>",
+      "translation": "<span data-i18n-slot=\"0\">In Konsolidierungsphasen, etwa bei der Seitwärtsbewegung von Gold in der Zone von $4,800–$5,200 im Q1 2026, kann der Handel innerhalb einer Spanne wirksam sein. Sie bestimmen wichtige Unterstützungsniveaus, an denen sich der Kurs früher erholt hat, und wichtige Widerstandsniveaus, an denen er ins Stocken geraten ist, und handeln dazwischen. Solche Trades haben häufig engere Gewinnziele und erfordern die Disziplin, beim Bruch der Spanne auszusteigen.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t627f0250d16ecf66",
+      "english": "<span data-i18n-slot=\"0\">Step 2: Complete KYC Verification</span>",
+      "translation": "<span data-i18n-slot=\"0\">Schritt 2: Schließen Sie die KYC-Überprüfung ab</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t0da69c96298092aa",
+      "english": "<span data-i18n-slot=\"0\">2. Understand Leverage Before You Use It</span>",
+      "translation": "<span data-i18n-slot=\"0\">2. Verstehen Sie die Hebelwirkung, bevor Sie sie nutzen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "td25a4e24d4e07074",
+      "english": "<span data-i18n-slot=\"0\">Major institutions have significantly upgraded their 2026 price targets. J.P. Morgan forecasts gold to average $6,000 per ounce by Q4 2026, while Goldman Sachs and Deutsche Bank both cite a $5,400–$6,000 range. For UAE investors, that structural demand story makes a compelling case for getting exposure to gold now.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Große Institutionen haben ihre Kursziele für 2026 deutlich angehoben. J.P. Morgan erwartet bis zum Q4 2026 einen durchschnittlichen Goldpreis von $6,000 pro Unze, während Goldman Sachs und Deutsche Bank beide eine Spanne von $5,400–$6,000 nennen. Für Anleger in den Vereinigten Arabischen Emiraten spricht diese strukturelle Nachfrage überzeugend dafür, sich jetzt in Gold zu engagieren.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "te571e60c0ebb3e9a",
+      "english": "Entry Cost",
+      "translation": "Eintrittskosten",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "t09be5f969dc79c78",
+      "english": "Medium",
+      "translation": "Mittel",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "t3f92aa8ab654e89e",
+      "english": "Hands-off, diversified investors",
+      "translation": "Diversifizierte Anleger, die ihre Anlagen nicht aktiv verwalten möchten",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tc1114d5264975bfe",
+      "english": "Instant",
+      "translation": "Sofort",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "teb1d893a0c34654a",
+      "english": "<span data-i18n-slot=\"0\">For investment purposes, focus on DMCC- or LBMA-recognized bullion rather than jewelry. Large bars (1 oz and above) trade at just 1–2% above spot price, making them the most cost-efficient entry. Smaller bars and coins carry higher premiums of 4–6%, but they offer more flexibility when it comes to selling in portions. Always retain original packaging and certificates; this protects your resale value.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Konzentrieren Sie sich für Anlagezwecke auf von DMCC oder LBMA anerkannte Barren statt auf Schmuck. Große Barren ab 1 oz werden mit nur 1–2% Aufschlag auf den Kassapreis gehandelt und bieten so den kosteneffizientesten Einstieg. Kleinere Barren und Münzen haben höhere Aufschläge von 4–6%, erlauben aber flexiblere Teilverkäufe. Bewahren Sie stets die Originalverpackung und die Zertifikate auf; dies schützt Ihren Wiederverkaufswert.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tef35dcaad89d44fa",
+      "english": "<span data-i18n-slot=\"0\">Yes, amplified exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ja, verstärktes Risikoengagement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tda80c2617e4ba77d",
+      "english": "<span data-i18n-slot=\"0\">Active traders &amp; hedgers</span>",
+      "translation": "<span data-i18n-slot=\"0\">Aktive Händler und Hedger</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tdb5799b93a472e05",
+      "english": "<span data-i18n-slot=\"0\">Gold works best as a portfolio stabilizer, not your entire portfolio. Most professional portfolio managers allocate 5–15% of a portfolio to gold. Alongside gold, you might consider</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">index CFDs</span></span><span data-i18n-slot=\"4\">,</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">energy CFDs</span></span><span data-i18n-slot=\"8\">, or</span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">forex trading</span></span><span data-i18n-slot=\"12\"> to build a balanced, multi-asset approach.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Gold eignet sich am besten als Stabilisator eines Portfolios, nicht als gesamtes Portfolio. Die meisten professionellen Portfoliomanager weisen Gold 5–15% des Portfolios zu. Neben Gold können Sie </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Index-CFDs</span></span><span data-i18n-slot=\"4\">, </span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Energie-CFDs</span></span><span data-i18n-slot=\"8\"> oder </span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">den Devisenhandel</span></span><span data-i18n-slot=\"12\"> für einen ausgewogenen Ansatz mit mehreren Anlageklassen erwägen.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tb3fb8f8227f1a8fa",
+      "english": "<span data-i18n-slot=\"0\">When you trade OTC, you are not matching your order on a public exchange order book. Instead, the transaction happens directly between you and a broker, dealer, or liquidity provider. This makes OTC trading different from exchange trading, where orders are centralized and matched through a formal exchange environment.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Wenn Sie außerbörslich handeln, wird Ihr Auftrag nicht mit einem öffentlichen Börsenauftragsbuch abgeglichen. Stattdessen erfolgt die Transaktion direkt zwischen Ihnen und einem Broker, Händler oder Liquiditätsanbieter. Dies unterscheidet den OTC-Handel vom Börsenhandel, bei dem Aufträge zentralisiert und über eine formelle Börsenumgebung abgeglichen werden.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tdee0b4f98d955145",
+      "english": "<span data-i18n-slot=\"0\">Exchange Trading</span>",
+      "translation": "<span data-i18n-slot=\"0\">Börsenhandel</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tc8d078bce1cf02f0",
+      "english": "<span data-i18n-slot=\"0\">Venue</span>",
+      "translation": "<span data-i18n-slot=\"0\">Veranstaltungsort</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t85ec4cb1cf373b43",
+      "english": "<span data-i18n-slot=\"0\">Fixed exchange hours</span>",
+      "translation": "<span data-i18n-slot=\"0\">Feste Börsenhandelszeiten</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t5e008d2e26b1bf66",
+      "english": "<span data-i18n-slot=\"0\">Broker quotes or liquidity-provider pricing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Broker-Angebote oder Preise von Liquiditätsanbietern</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tfe6460b4362282de",
+      "english": "<span data-i18n-slot=\"0\">For an official point of reference, you can review the UAE regulator here: </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">SCA official website</span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Eine offizielle Referenz finden Sie hier: </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Offizielle Website der SCA</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t2f0c25e8155a65d0",
+      "english": "<span data-i18n-slot=\"0\">When you trade OTC, your provider is part of the transaction process. That makes regulation especially important because the broker, dealer, or platform can affect pricing, execution, and client protection.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Wenn Sie außerbörslich handeln, ist Ihr Anbieter Teil des Transaktionsprozesses. Deshalb ist die Regulierung besonders wichtig, da der Broker, Händler oder die Plattform Einfluss auf die Preisgestaltung, Ausführung und den Kundenschutz haben kann.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t2469ef989a74cd70",
+      "english": "<span data-i18n-slot=\"0\">Dubai Financial Services Authority</span>",
+      "translation": "<span data-i18n-slot=\"0\">Finanzdienstleistungsaufsicht von Dubai (Dubai Financial Services Authority)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tc88d127e9f269b46",
+      "english": "<span data-i18n-slot=\"0\">What You Can Trade OTC</span>",
+      "translation": "<span data-i18n-slot=\"0\">Was Sie außerbörslich handeln können</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t11c8f08fac6c4067",
+      "english": "<span data-i18n-slot=\"0\">Gold, silver, oil, and natural gas are commonly traded OTC. These instruments are popular with traders who want exposure to inflation, energy markets, or global macro trends.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Gold, Silber, Öl und Erdgas werden üblicherweise außerbörslich gehandelt. Diese Instrumente sind bei Händlern beliebt, die sich an der Inflation, den Energiemärkten oder globalen Makrotrends beteiligen möchten.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tf4bb5992502115fa",
+      "english": "<span data-i18n-slot=\"0\">If You Are Hedging Exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Wenn Sie Ihr Risiko absichern</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "te5f9509bc78a0e59",
+      "english": "<span data-i18n-slot=\"0\">What can you trade OTC?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Was können Sie außerbörslich handeln?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tb43a1165b62b66e5",
+      "english": "<span data-i18n-slot=\"0\">Regulatory Notice: </span>",
+      "translation": "<span data-i18n-slot=\"0\">Regulatorischer Hinweis:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/otc-trading-in-uae",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ]
+    },
+    {
+      "key": "tc63753df6afa21a9",
+      "english": "<span data-i18n-slot=\"0\">1. S&amp;P 500</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. NASDAQ 100</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. Dow Jones</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. FTSE 100</span><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\">5. DAX 40</span>",
+      "translation": "<span data-i18n-slot=\"0\">1. Index S&amp;P 500</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. Index NASDAQ 100</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. Index Dow Jones</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. Index FTSE 100</span><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\">5. Index DAX 40</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "ta880220a96987066",
+      "english": "<span data-i18n-slot=\"0\">2. If you think it will go down → you place a </span><span data-i18n-slot=\"1\">sell trade</span>",
+      "translation": "<span data-i18n-slot=\"0\">2. Wenn Sie glauben, dass der Kurs sinken wird, tätigen Sie einen </span><span data-i18n-slot=\"1\">Verkaufshandel</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t33ba13caa18e5f6e",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Trade in Any Market Direction</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Handeln Sie in jede Marktrichtung</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t36b734d657a489b4",
+      "english": "<span data-i18n-slot=\"0\">3. Leverage Opportunities</span>",
+      "translation": "<span data-i18n-slot=\"0\">3. Möglichkeiten durch Hebelwirkung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t74322d0ce4276e7e",
+      "english": "<span data-i18n-slot=\"0\">Pick the market you want to trade, like:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Wählen Sie den Markt aus, auf dem Sie handeln möchten, z.&nbsp;B.:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t662b1f9c1070ed5c",
+      "english": "<span data-i18n-slot=\"0\">1. NASDAQ</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. S&amp;P 500</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. Dow Jones</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. FTSE 100</span><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\">5. DAX</span>",
+      "translation": "<span data-i18n-slot=\"0\">1. Index NASDAQ</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. Index S&amp;P 500</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. Index Dow Jones</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. Index FTSE 100</span><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\">5. Index DAX</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tc9a76acf2b674b77",
+      "english": "<span data-i18n-slot=\"0\">Key Benefits of Trading Indices via CFDs</span>",
+      "translation": "<span data-i18n-slot=\"0\">Hauptvorteile des Handels mit Indizes über CFDs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t3ff61f69f38995e9",
+      "english": "<span data-i18n-slot=\"0\">Trading always has risk. The key is to manage it smartly.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Handel birgt immer Risiken. Der Schlüssel liegt darin, es intelligent zu verwalten.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "te84ccb3c0c601a3c",
+      "english": "<span data-i18n-slot=\"0\">Here’s what you should do:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Das sollten Sie tun:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t71c031f920eb5965",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Avoid Over-Leverage</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Vermeiden Sie übermäßige Hebelwirkung</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "ta23889e47010fa0e",
+      "english": "<span data-i18n-slot=\"0\">Don’t depend on one trade. Spread your risk across different indices.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Verlassen Sie sich nicht auf einen einzelnen Trade. Verteilen Sie Ihr Risiko auf verschiedene Indizes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tf7c6e25eb7dc2df4",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Stay Updated</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Bleiben Sie auf dem Laufenden</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t9827042038a2bc8a",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Which indices can you trade?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Mit welchen Indizes können Sie handeln?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t0dc21bee5cb3163c",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Regulatory Notice: </span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Regulatorischer Hinweis:</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tf84b70a3f749b1bb",
+      "english": "<span data-i18n-slot=\"0\">1. Advanced charting tools</span>",
+      "translation": "<span data-i18n-slot=\"0\">1. Erweiterte Diagrammtools</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ]
+    },
+    {
+      "key": "t107ec6d7d8b9d5b5",
+      "english": "<span data-i18n-slot=\"0\">3. Multiple order types</span>",
+      "translation": "<span data-i18n-slot=\"0\">3. Mehrere Auftragsarten</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ]
+    },
+    {
+      "key": "t567d6db200212612",
+      "english": "<span data-i18n-slot=\"0\">3. Overnight swap fees</span>",
+      "translation": "<span data-i18n-slot=\"0\">3. Overnight-Swap-Gebühren</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ]
+    },
+    {
+      "key": "t2080c03a31b2497a",
+      "english": "<span data-i18n-slot=\"0\">4. Deposit and withdrawal charges</span>",
+      "translation": "<span data-i18n-slot=\"0\">4. Ein- und Auszahlungsgebühren</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ]
+    },
+    {
+      "key": "t66f328cb5e587d07",
+      "english": "<span data-i18n-slot=\"0\">4. Quick response times</span>",
+      "translation": "<span data-i18n-slot=\"0\">4. Schnelle Reaktionszeiten</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ]
+    },
+    {
+      "key": "ta8b27beae521d202",
+      "english": "<span data-i18n-slot=\"0\">Fast withdrawals are especially significant because traders demand quick access to their funds when necessary.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Schnelle Auszahlungen sind besonders wichtig, da Händler bei Bedarf schnellen Zugriff auf ihre Gelder verlangen.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ]
+    },
+    {
+      "key": "ta183e8e07ee7ceca",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Is forex trading legal in the Middle East?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Ist der Devisenhandel im Nahen Osten legal?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ]
+    },
+    {
+      "key": "tcd47aa437632c07f",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Why should beginners use a demo account before trading forex?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Warum sollten Anfänger vor dem Devisenhandel ein Demokonto nutzen?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ]
+    },
+    {
+      "key": "t066bdce873496e16",
+      "english": "<span data-i18n-slot=\"0\">1. Physical gold (bars, coins, jewelry)</span>",
+      "translation": "<span data-i18n-slot=\"0\">1. Physisches Gold (Barren, Münzen, Schmuck)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ]
+    },
+    {
+      "key": "t87e42bef4da38da1",
+      "english": "<span data-i18n-slot=\"0\">2. Online trading platforms</span>",
+      "translation": "<span data-i18n-slot=\"0\">2. Online-Handelsplattformen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ]
+    },
+    {
+      "key": "taa1ee4cfd9968e3f",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. </span><span data-i18n-slot=\"2\">Favorable Tax Environment</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. </span><span data-i18n-slot=\"2\">Günstiges Steuerumfeld</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ]
+    },
+    {
+      "key": "tc969595c5e5e1a20",
+      "english": "<span data-i18n-slot=\"0\">1. Bars</span>",
+      "translation": "<span data-i18n-slot=\"0\">1. Barren</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ]
+    },
+    {
+      "key": "te54c9754a26c233a",
+      "english": "<span data-i18n-slot=\"0\">3. Jewelry</span>",
+      "translation": "<span data-i18n-slot=\"0\">3. Schmuck</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ]
+    },
+    {
+      "key": "t9d5b71d97090cf27",
+      "english": "<span data-i18n-slot=\"0\"> ✔ Tangible ownership</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> ✔ Long-term security</span>",
+      "translation": "<span data-i18n-slot=\"0\"> ✔ Materielles Eigentum</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> ✔ Langfristige Sicherheit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ]
+    },
+    {
+      "key": "tc18b53e2688b3c78",
+      "english": "<span data-i18n-slot=\"0\">2. Low investment amount</span>",
+      "translation": "<span data-i18n-slot=\"0\">2. Geringe Investitionssumme</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ]
+    },
+    {
+      "key": "t1e4f348596d408bf",
+      "english": "<span data-i18n-slot=\"0\">5. Mining Stocks</span>",
+      "translation": "<span data-i18n-slot=\"0\">5. Bergbauaktien</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ]
+    },
+    {
+      "key": "ta1014173b803866f",
+      "english": "<span data-i18n-slot=\"0\">1. Dubai Financial Services Authority</span>",
+      "translation": "<span data-i18n-slot=\"0\">1. Finanzdienstleistungsaufsicht von Dubai (Dubai Financial Services Authority)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ]
+    },
+    {
+      "key": "td3a2b97e05ec2228",
+      "english": "<span data-i18n-slot=\"0\">1. Buy in an uptrend</span>",
+      "translation": "<span data-i18n-slot=\"0\">1. Kaufen Sie in einem Aufwärtstrend</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ]
+    },
+    {
+      "key": "td5bf1eee340eb344",
+      "english": "<span data-i18n-slot=\"0\">2. </span><span data-i18n-slot=\"1\">Trading Range</span>",
+      "translation": "<span data-i18n-slot=\"0\">2. </span><span data-i18n-slot=\"1\">Handelsspanne</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ]
+    },
+    {
+      "key": "t92c12660d04e9d84",
+      "english": "<span data-i18n-slot=\"0\">Ideal for heritage preservation.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ideal zum Erhalt des Vermögens.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ]
+    },
+    {
+      "key": "t2646d7f2a941cd62",
+      "english": "<span data-i18n-slot=\"0\">Key Rules Includes:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Zu den wichtigsten Regeln gehören:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ]
+    },
+    {
+      "key": "t50009f4d2aedd105",
+      "english": "<span data-i18n-slot=\"0\">Regulatory Notice:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Regulatorischer Hinweis:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "CMS:blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter"
+      ]
+    },
+    {
+      "key": "t165350c6fae28b02",
+      "english": "<span data-i18n-slot=\"0\">1. Advanced Charting Tools</span><span data-i18n-slot=\"1\"></span>",
+      "translation": "<span data-i18n-slot=\"0\">1. Erweiterte Diagrammtools </span><span data-i18n-slot=\"1\"></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ]
+    },
+    {
+      "key": "t1681c35b579c726d",
+      "english": "<span data-i18n-slot=\"0\">2. Multiple Order Types</span><span data-i18n-slot=\"1\"></span>",
+      "translation": "<span data-i18n-slot=\"0\">2. Mehrere Auftragsarten </span><span data-i18n-slot=\"1\"></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ]
+    },
+    {
+      "key": "t5f7fb838693ff88c",
+      "english": "<span data-i18n-slot=\"0\">4. Clear trading conditions and execution transparency</span>",
+      "translation": "<span data-i18n-slot=\"0\">4. Klare Handelsbedingungen und Ausführungstransparenz</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ]
+    },
+    {
+      "key": "t374a1f5c1c0e212a",
+      "english": "<span data-i18n-slot=\"0\">By following these instructions, newcomers can enter forex trading with consistency and understanding.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Durch Befolgen dieser Anweisungen können Neulinge konsequent und verständnisvoll in den Devisenhandel einsteigen.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ]
+    },
+    {
+      "key": "t32f5eaff4a03a165",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Dubai vs. Other Regions for Forex Trading</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Dubai im Vergleich zu anderen Regionen für den Devisenhandel</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ]
+    },
+    {
+      "key": "tdeba386e260fae5c",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">The Bottom Line</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Das Fazit</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ]
+    },
+    {
+      "key": "tcac0f41091690ffe",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. </span><span data-i18n-slot=\"2\">Advanced Trading Infrastructure</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. </span><span data-i18n-slot=\"2\">Erweiterte Handelsinfrastruktur</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ]
+    },
+    {
+      "key": "t4789fbebd3910b75",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. </span><span data-i18n-slot=\"2\">Cryptocurrency CFDs</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. </span><span data-i18n-slot=\"2\">Kryptowährungs-CFDs</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ]
+    },
+    {
+      "key": "t040b68257b3bd12d",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. CFD Stocks</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. CFD-Aktien</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ]
+    },
+    {
+      "key": "t976a027a8af1d3c4",
+      "english": "<span data-i18n-slot=\"0\">Trade major and minor currency pairs with ease, giving you global market exposure. You can also explore commodities like oil through </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Forex Oil Trading</span></span><span data-i18n-slot=\"3\">, keeping track of energy market movements influenced by supply and demand.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Handeln Sie bequem mit Haupt- und Nebenwährungspaaren und erhalten Sie so Zugang zu globalen Märkten. Sie können auch Rohstoffe wie Öl über den </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Forex-Ölhandel</span></span><span data-i18n-slot=\"3\"> erkunden und dabei Bewegungen des Energiemarkts verfolgen, die von Angebot und Nachfrage beeinflusst werden.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ]
+    },
+    {
+      "key": "te2a74305612c71e5",
+      "english": "<span data-i18n-slot=\"0\"> Regulatory Notice:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Regulatorischer Hinweis:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ]
+    },
+    {
+      "key": "tf0f280ef02291815",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Key Takeaways</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Wichtige Erkenntnisse</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ]
+    },
+    {
+      "key": "t6a7b5a002cded82e",
+      "english": "Trading volume",
+      "translation": "Handelsvolumen",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ]
+    },
+    {
+      "key": "tdc2d4680f5eebfca",
+      "english": "Share prices move for many reasons:",
+      "translation": "Aktienkurse bewegen sich aus vielen Gründen:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ]
+    },
+    {
+      "key": "t7a64ad4b83426509",
+      "english": "Company earnings",
+      "translation": "Unternehmensgewinn",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ]
+    },
+    {
+      "key": "teed4085fa6ca0cf9",
+      "english": "How a sector is doing",
+      "translation": "Wie es einer Branche geht",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ]
+    },
+    {
+      "key": "t371b239581a123c3",
+      "english": "Markets get busy during earnings season. They also get busy around big economic news. A good platform keeps working at these times. Prices keep updating. Orders keep going through.",
+      "translation": "Während der Berichtssaison ist viel Bewegung an den Märkten. Das gilt auch rund um wichtige Wirtschaftsnachrichten. Eine gute Plattform arbeitet auch dann weiter. Kurse werden laufend aktualisiert. Orders werden weiterhin abgewickelt.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ]
+    },
+    {
+      "key": "te1a0d4a66bb8e686",
+      "english": "An Easy-to-Use Layout",
+      "translation": "Ein benutzerfreundliches Layout",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ]
+    },
+    {
+      "key": "t625c18885592a6d4",
+      "english": "Share prices react to a steady stream of news. This includes:",
+      "translation": "Aktienkurse reagieren auf einen stetigen Nachrichtenstrom. Dazu gehört:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ]
+    },
+    {
+      "key": "t316ffd41b15bef13",
+      "english": "Earnings reports",
+      "translation": "Ergebnisberichte",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ]
+    },
+    {
+      "key": "tf5f006611a7c46e3",
+      "english": "Sector trends",
+      "translation": "Branchentrends",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ]
+    },
+    {
+      "key": "tfd2812d8b3442d30",
+      "english": "Company announcements",
+      "translation": "Firmenmitteilungen",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ]
+    },
+    {
+      "key": "tf81209c4a47133c0",
+      "english": "Currency moves",
+      "translation": "Währungsbewegungen",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ]
+    },
+    {
+      "key": "t5d92b2ae00caa742",
+      "english": "<span data-i18n-slot=\"0\">Because you trade price moves, there is no storage. There is no shipping. You don’t need a vault.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Da Sie mit Preisbewegungen handeln, gibt es keine Speicherung. Es erfolgt kein Versand. Sie benötigen keinen Tresor.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ]
+    },
+    {
+      "key": "t950514d7a9d703dd",
+      "english": "<span data-i18n-slot=\"0\">Online metals trading can offer:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Der Onlinehandel mit Metallen kann Folgendes bieten:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ]
+    },
+    {
+      "key": "t5328e32c39ade44c",
+      "english": "<span data-i18n-slot=\"0\">• Advanced charting and technical analysis tools</span>",
+      "translation": "<span data-i18n-slot=\"0\">• Erweiterte Diagramm- und technische Analysetools</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter#content",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter"
+      ]
+    },
+    {
+      "key": "te0e18bd23c2d40ce",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">1. What is energy CFD trading?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">  1. Was ist Energie-CFD-Handel?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter#content",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter"
+      ]
+    },
+    {
+      "key": "tda6ac5943b418156",
+      "english": "<span data-i18n-slot=\"0\">2. Financial Services Commission (FSC) – Mauritius</span>",
+      "translation": "<span data-i18n-slot=\"0\">2. Finanzdienstleistungsaufsicht (Financial Services Commission, FSC) – Mauritius</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ]
+    },
+    {
+      "key": "te61c57a2f4cb68b8",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Review Client Fund Policies</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Überprüfen Sie die Richtlinien für Kundengelder</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ]
+    },
+    {
+      "key": "tef82ff6c147a04c4",
+      "english": "<span data-i18n-slot=\"0\">This is why due diligence is essential before opening any forex trading account.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Aus diesem Grund ist eine sorgfältige Prüfung vor der Eröffnung eines Devisenhandelskontos unerlässlich.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ]
+    },
+    {
+      "key": "t9927b7c85ce34a24",
+      "english": "<span data-i18n-slot=\"0\">1. Verify broker licenses on official registers</span>",
+      "translation": "<span data-i18n-slot=\"0\">1. Überprüfen Sie die Maklerlizenzen in offiziellen Registern</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ]
+    },
+    {
+      "key": "t93f21fd7ff46f17b",
+      "english": "<span data-i18n-slot=\"0\">2. Confirm client fund protection measures</span>",
+      "translation": "<span data-i18n-slot=\"0\">2. Bestätigen Sie die Maßnahmen zum Schutz der Kundengelder</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ]
+    },
+    {
+      "key": "tf569d5cf04faf9a9",
+      "english": "<span data-i18n-slot=\"0\">3. Avoid brokers with unclear regulatory status</span>",
+      "translation": "<span data-i18n-slot=\"0\">3. Vermeiden Sie Makler mit unklarem Regulierungsstatus</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ]
+    },
+    {
+      "key": "t8e400cfd0668aadb",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. What are trusted forex brokers?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Was sind vertrauenswürdige Forex-Broker?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ]
+    },
+    {
+      "key": "t7e9f5e08ddd1fb9a",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Why are regulated forex brokers important?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Warum sind regulierte Forex-Broker wichtig?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ]
+    },
+    {
+      "key": "t5acebbb9c6a55615",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. What does fund segregation mean?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Was bedeutet Fondstrennung?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ]
+    },
+    {
+      "key": "tcc7218934b7fb6c9",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">6. Can brokers falsely claim regulation?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">6. Können Makler fälschlicherweise eine Regulierung beanspruchen?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ]
+    },
+    {
+      "key": "t9a5359868f1c205c",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Regulatory Notice:</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Regulatorischer Hinweis:</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ]
+    },
+    {
+      "key": "te02564c5486f212b",
+      "english": "<span data-i18n-slot=\"0\">When a trader participates in <span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">CFD index trading</span></span>, they are speculating on the entire market performance rather than a single stock.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Wenn ein Händler am <span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">CFD-Indexhandel</span></span> teilnimmt, spekuliert er auf die gesamte Marktentwicklung und nicht auf eine einzelne Aktie.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "tb81f82794b0a61e9",
+      "english": "<span data-i18n-slot=\"0\">Exposure to global markets</span>",
+      "translation": "<span data-i18n-slot=\"0\">Einbindung in globale Märkte</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "t56000f52d4ef1eb2",
+      "english": "<span data-i18n-slot=\"0\">Zero ownership barriers</span>",
+      "translation": "<span data-i18n-slot=\"0\">Keine Eigentumsbarrieren</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "tdf5b42b1305ef8f7",
+      "english": "<span data-i18n-slot=\"0\">No stock transfer</span>",
+      "translation": "<span data-i18n-slot=\"0\">Keine Übertragung von Aktien</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "tb3f42756cbbe0a2a",
+      "english": "<span data-i18n-slot=\"0\">No custody fees</span>",
+      "translation": "<span data-i18n-slot=\"0\">Keine Depotgebühren</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t3730b12dc2a59733",
+      "english": "As trading moves from Sydney to Tokyo, London, and New York, among other major financial centers, the market is open twenty-four hours a day, five days a week. With trillions of dollars changing hands each day, forex is the largest and most liquid market in the world, allowing participants to enter and exit positions quickly and at tight price differences. Whether you’re exchanging money for travel or speculating on exchange-rate moves, forex lets you trade currencies anytime, anywhere.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Conforme a negociação passa por Sydney, Tóquio, Londres, Nova York e outros centros financeiros, o mercado permanece aberto vinte e quatro horas por dia, cinco dias por semana. Com trilhões de dólares movimentados diariamente, o forex é o maior e mais líquido mercado do mundo, permitindo entrar e sair de posições rapidamente e com pequenas diferenças de preço. Seja para trocar dinheiro para viagens ou especular sobre variações cambiais, o forex permite negociar moedas a qualquer hora e em qualquer lugar."
+    },
+    {
+      "key": "t2cdf0fee1a737c62",
+      "english": "The process of purchasing and selling currencies with the intention of turning a profit is called <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">forex trading</span></span>, sometimes referred to as currency trading or foreign exchange trading. You exchange your rupees for dollars. When the value of the dollar rises compared to the rupee, you technically make a profit if you exchange it back. That simple concept is the heart of forex trading—except it’s done online, on a much bigger scale, and involves traders from all over the world",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "O processo de compra e venda de moedas com a intenção de transformar um lucro é chamado <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Forex trading</span></span>, às vezes referido como troca de moeda ou câmbio. Você troca suas rúpias por dólares. Quando o valor do dólar sobe comparado com a rúpia, você tecnicamente faz um lucro se você trocá-lo de volta. Esse conceito simples é o coração da negociação forex, exceto que é feito on-line, em uma escala muito maior, e envolve comerciantes de todo o mundo"
+    },
+    {
+      "key": "t900abe0e5d88703e",
+      "english": "Use leverage with caution. It might raise your losses even though it allows you to manage big deals with a modest commitment. Many experienced traders prefer using low-to-moderate leverage to stay safe during market swings.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Use a alavanca com cuidado. Pode aumentar suas perdas, mesmo que lhe permita gerir grandes negócios com um compromisso modesto. Muitos comerciantes experientes preferem usar alavancas de baixo a moderado para ficar seguros durante as mudanças de mercado."
+    },
+    {
+      "key": "taaf5dcbb1e58c3ed",
+      "english": "Over time, you’ll want to avoid putting all your focus on one currency pair. Diversifying your trades across multiple pairs reduces risk and helps you take advantage of more market opportunities.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Com o tempo, você vai querer evitar colocar todo o seu foco em um par de moedas. Diversificar seus negócios em vários pares reduz o risco e ajuda a aproveitar mais oportunidades de mercado."
+    },
+    {
+      "key": "t5ee57dd52fd37825",
+      "english": "Lastly, always keep track of your trades. Maintaining a trading journal—where you log entry and exit points, reasons behind your trades, and the outcomes—can reveal patterns in your performance and help you improve your strategies.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Por fim, sempre acompanhe seus negócios. Manter um diário comercial, onde você registra pontos de entrada e saída, razões por trás de seus negócios, e os resultados, pode revelar padrões em seu desempenho e ajudá-lo a melhorar suas estratégias."
+    },
+    {
+      "key": "td50036fa86c53098",
+      "english": "<span data-i18n-slot=\"0\">Here's a to-do list to get you started:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Aqui está uma lista de afazeres para começar.</span>"
+    },
+    {
+      "key": "t9242575642a37d1a",
+      "english": "<span data-i18n-slot=\"0\">Why Forex Is Hard to Trade ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por que Forex é difícil negociar?</span>"
+    },
+    {
+      "key": "t182842908615c132",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Leverage increases both profits and losses</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">A alavancagem aumenta tanto os lucros quanto as perdas</span></span>"
+    },
+    {
+      "key": "tdccb237862c38282",
+      "english": "<span data-i18n-slot=\"0\">Fast Execution with No Requotes <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> Enjoy low latency and direct market access (DMA) trading. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading#content",
+        "SSR:/blogs/forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Execução rápida sem recotações<span data-i18n-slot=\"1\">:</span></span><span data-i18n-slot=\"2\"> aproveite baixa latência e negociação com acesso direto ao mercado (DMA).</span>"
+    },
+    {
+      "key": "tb7dcc6eacaa2f260",
+      "english": "<span data-i18n-slot=\"0\">Leverage Up to 1:300 <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> Amplify your trading potential with customizable leverage. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading#content",
+        "SSR:/blogs/forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alavancagem de até 1:300<span data-i18n-slot=\"1\">:</span></span><span data-i18n-slot=\"2\"> amplie seu potencial de negociação com alavancagem personalizável.</span>"
+    },
+    {
+      "key": "t6d7eb077c5bd035d",
+      "english": "<span data-i18n-slot=\"0\">What is a Tariff?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que é uma tarifa?</span>"
+    },
+    {
+      "key": "t337c98b0017db262",
+      "english": "<span data-i18n-slot=\"0\">Footwear and apparel stocks take a hit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ações de calçados e vestuário sofrem perdas</span>"
+    },
+    {
+      "key": "t9d32030ac2ad9b16",
+      "english": "<span data-i18n-slot=\"0\">Here's how these stocks fared following the tariff announcement:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Eis como essas ações foram depois do anúncio da tarifa:</span>"
+    },
+    {
+      "key": "tb381f92749f03faf",
+      "english": "<span data-i18n-slot=\"0\">M-Cap</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Capitalização de mercado</span>"
+    },
+    {
+      "key": "t1d003c10b34bcfde",
+      "english": "<span data-i18n-slot=\"0\">1-day loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Perda de 1 dia.</span>"
+    },
+    {
+      "key": "t5a1fc13d269b9535",
+      "english": "Adidas (Global)",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "Adidas (mundial)"
+    },
+    {
+      "key": "ta42b5ca2e01de5c4",
+      "english": "<span data-i18n-slot=\"0\">Tariffs rattle US dollar, other asset classes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tarifas agitam o dólar americano, outras classes de ativos.</span>"
+    },
+    {
+      "key": "teddaf9e09bf7445a",
+      "english": "US 10-year bond yields fell to 4.03%, as investors rushed to safety.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "Os rendimentos dos títulos dos EUA de 10 anos caíram para 4.03%, enquanto os investidores buscavam segurança."
+    },
+    {
+      "key": "t3844bf864075dab2",
+      "english": "The content is meant for education and general information purposes only. Investments in the securities market are subject to market risks, read all the related documents carefully before investing. Past performance is not indicative of future returns. The securities are quoted as an example and not as a recommendation. This in no way is to be construed as financial advice or a recommendation to invest in any specific stock or financial instrument. The Company strongly encourages its users/viewers to conduct their own research, and consult with a registered financial advisor before making any investment decisions. All disputes in relation to the content would not have access to an exchange investor redressal forum or arbitration mechanism. INDmoney Global (IFSC) Private Limited, Unit No. GA-02, Seat No. 1-4, Ground Floor, Pragya Accelerator Block-15 T, Road 11, Zone-1, Processing Area, GIFT SEZ, Gift City, Gandhinagar, Gujarat, India, 382355 IFSCA Broker-Dealer Registration No. IFSC/BD/2023-24/0016, IFSCA DP Reg No: IFSC/DP/2023-24/010.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "O conteúdo é destinado apenas para fins de educação e informação geral. Os investimentos no mercado de valores mobiliários estão sujeitos a riscos de mercado, leia todos os documentos relacionados cuidadosamente antes de investir. Desempenho passado não indica retorno futuro. Os títulos são citados como exemplo e não como recomendação. Isso não deve ser interpretado como um conselho financeiro ou uma recomendação para investir em ações ou instrumentos financeiros específicos. A Companhia incentiva fortemente seus usuários/vistadores a realizar suas próprias pesquisas, e consultar um consultor financeiro registrado antes de tomar qualquer decisão de investimento. Todas as disputas em relação ao conteúdo não teriam acesso a um fórum da bolsa para reparação de investidores ou mecanismo de arbitragem. INDmoney Global (IFSC) Private Limited, Unidade No. GA-02, assento no 1-4, piso térreo, Pragya Accelerator Block-15 T, Estrada 11, Zona 1, Área de Processamento, GIFT SEZ, Gift City, Gandhinagar, Gujarat, Índia, 382355 IFSCA Broker-Dealer Registro No. IFSC/BD/2023-24/0016, Registro DP da IFSCA nº: IFSC/DP/2023-24/010."
+    }
+  ]
+}

@@ -9,6 +9,7 @@ import {
 import { Store } from 'src/app/Store/store';
 
 @Component({
+  standalone: false,
   selector: 'app-social-menu',
   templateUrl: './social-menu.component.html',
   styleUrls: ['./social-menu.component.scss'],

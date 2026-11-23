@@ -1,0 +1,1717 @@
+{
+  "language": "ru",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tf56d865f8e9258d7",
+      "english": "<span data-i18n-slot=\"0\">Responsive client support</span>",
+      "translation": "<span data-i18n-slot=\"0\">Адаптивная поддержка клиентов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t23d20b5c52666770",
+      "english": "<span data-i18n-slot=\"0\">An audience alone is not enough. A successful IB also needs product knowledge, compliance awareness, and ongoing engagement.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Одной аудитории недостаточно. Успешный IB также нуждается в знаниях о продукте, осведомленности о соответствии и постоянном участии.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t3319788c46477366",
+      "english": "<span data-i18n-slot=\"0\">3. Test the Client Journey</span>",
+      "translation": "<span data-i18n-slot=\"0\">3.Проверить клиентское путешествие</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t67cc7dea9f032cc0",
+      "english": "<span data-i18n-slot=\"0\">Use the option to</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">start with a demo account</span></span><span data-i18n-slot=\"4\"> before referring live clients. Demo conditions do not reproduce every live-market factor, but they help you understand the platform process.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Воспользуйтесь возможностью </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">начать с демо-счёта</span></span><span data-i18n-slot=\"4\"> до привлечения клиентов к реальной торговле. Демо-условия не воспроизводят все факторы реального рынка, но помогают понять работу платформы.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t0d7fd465718c4537",
+      "english": "<span data-i18n-slot=\"0\">4. Review Account Types</span>",
+      "translation": "<span data-i18n-slot=\"0\">4. Типы учетных записей</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "tfb257981e76051ef",
+      "english": "<span data-i18n-slot=\"0\">6. Complete Onboarding and Begin Referring</span>",
+      "translation": "<span data-i18n-slot=\"0\">6. Завершите подключение к программе и начните привлекать клиентов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t1c643ebde47fe86d",
+      "english": "<span data-i18n-slot=\"0\">Referring clients without understanding the platform</span>",
+      "translation": "<span data-i18n-slot=\"0\">Отсылка клиентов без понимания платформы</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t92181d732131ca3b",
+      "english": "<span data-i18n-slot=\"0\">Publishing outdated account conditions</span>",
+      "translation": "<span data-i18n-slot=\"0\">Публикация устаревших условий аккаунта</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t02970222ab1d0542",
+      "english": "<span data-i18n-slot=\"0\">What is an Introducing Broker?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое представляющий брокер?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t9e3b98a1998e29e7",
+      "english": "<span data-i18n-slot=\"0\">An Introducing Broker is a person or business that refers prospective clients to a broker and may earn commission from eligible trading activity. The broker provides the accounts, platform, execution, and compliance framework, while the IB focuses on referrals, education, and relationship support.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Представляющий брокер - это лицо или бизнес, который направляет потенциальных клиентов к брокеру и может заработать комиссию от соответствующей торговой деятельности. Брокер предоставляет учетные записи, платформу, систему исполнения и комплаенс, в то время как IB фокусируется на рефералах, образовании и поддержке отношений.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "tf7f6c40d008eca1f",
+      "english": "<span data-i18n-slot=\"0\">How do Introducing Brokers get paid?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как представляющие брокеры получают вознаграждение?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t1a64a20effaea752",
+      "english": "<span data-i18n-slot=\"0\">Copy Trading vs. Social Trading vs. Mirror Trading: What’s the Difference?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Копирование сделок, социальный и зеркальный трейдинг: в чём разница?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "ta57eb75b9198829d",
+      "english": "<span data-i18n-slot=\"0\">What is followed</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что следует</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "tf6ec4753213122f7",
+      "english": "<span data-i18n-slot=\"0\">A trader’s live decisions</span>",
+      "translation": "<span data-i18n-slot=\"0\">Живые решения трейдера</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t312c736504761441",
+      "english": "<span data-i18n-slot=\"0\">Control over trades</span>",
+      "translation": "<span data-i18n-slot=\"0\">Контроль над сделками</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t670062a248a75e16",
+      "english": "<span data-i18n-slot=\"0\">Control depends on system settings</span>",
+      "translation": "<span data-i18n-slot=\"0\">Управление зависит от настроек системы</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t80cfad717e4ef251",
+      "english": "<span data-i18n-slot=\"0\">Real funds are exposed to copied trades</span>",
+      "translation": "<span data-i18n-slot=\"0\">Реальные фонды подвержены скопированным сделкам</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t8e719d4085180b00",
+      "english": "<span data-i18n-slot=\"0\">No exposure unless the user trades</span>",
+      "translation": "<span data-i18n-slot=\"0\">Нет экспозиции, если пользователь не торгует</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t10a54c08f9259c9a",
+      "english": "<span data-i18n-slot=\"0\">Real funds are exposed when enabled</span>",
+      "translation": "<span data-i18n-slot=\"0\">При включении функции реальные средства подвергаются риску</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "tc8cea7db095eca01",
+      "english": "<span data-i18n-slot=\"0\">Acting on poor or biased information</span>",
+      "translation": "<span data-i18n-slot=\"0\">Действия в отношении плохой или предвзятой информации</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t1942f3f76ffd141d",
+      "english": "<span data-i18n-slot=\"0\">The subscriber still bears every copied loss</span>",
+      "translation": "<span data-i18n-slot=\"0\">Абонент по-прежнему несет все скопированные потери</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t943a506c56367744",
+      "english": "<span data-i18n-slot=\"0\">Offers allocation controls on many platforms</span>",
+      "translation": "<span data-i18n-slot=\"0\">Предлагает контроль распределения на многих платформах</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t1ed6a2e9ccd8bb43",
+      "english": "<span data-i18n-slot=\"0\">Can support observation and learning</span>",
+      "translation": "<span data-i18n-slot=\"0\">Может поддерживать наблюдение и обучение</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t7d002337e5cca179",
+      "english": "<span data-i18n-slot=\"0\">Track-record transparency:</span><span data-i18n-slot=\"1\"> Look for account age, complete history, drawdown, open exposure, and deposit changes.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Прозрачность истории результатов:</span><span data-i18n-slot=\"1\"> проверяйте возраст счёта, полную историю, просадку, риск открытых позиций и изменения депозитов.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t495d1f2a94b3ec90",
+      "english": "<span data-i18n-slot=\"0\">Selected copy ratio</span>",
+      "translation": "<span data-i18n-slot=\"0\">Выбранный коэффициент копирования</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "tcc97553c5ed7ce74",
+      "english": "<span data-i18n-slot=\"0\">10% of provider size</span>",
+      "translation": "<span data-i18n-slot=\"0\">10% от размера поставщика</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t6e72769b30ef1cf9",
+      "english": "<span data-i18n-slot=\"0\">Provider closes</span>",
+      "translation": "<span data-i18n-slot=\"0\">Поставщик сигналов закрывает позицию</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "tfcb6db3503a843b1",
+      "english": "<span data-i18n-slot=\"0\">Hands-Off Beginner</span>",
+      "translation": "<span data-i18n-slot=\"0\">Новичок, не желающий активно управлять торговлей</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t0e9da3e33e55685d",
+      "english": "<span data-i18n-slot=\"0\">Learning Trader</span>",
+      "translation": "<span data-i18n-slot=\"0\">Трейдер, который учится</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t6212b029ab4f2e0d",
+      "english": "<span data-i18n-slot=\"0\">Experienced Trader Seeking Another Decision Source</span>",
+      "translation": "<span data-i18n-slot=\"0\">Опытный трейдер ищет другой источник решения</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t5db01143a781282b",
+      "english": "<span data-i18n-slot=\"0\">Review provider statistics, especially drawdown and account age.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Обзор статистики поставщиков, особенно просадка и возраст счета.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t0ae53563a95541f7",
+      "english": "<span data-i18n-slot=\"0\">Selecting a trader from short-term returns alone</span>",
+      "translation": "<span data-i18n-slot=\"0\">Выбор трейдера только из краткосрочных доходов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t8bd33147750f7557",
+      "english": "<span data-i18n-slot=\"0\">Assuming every provider trade includes a suitable stop-loss</span>",
+      "translation": "<span data-i18n-slot=\"0\">Предполагая, что каждая сделка с поставщиком включает подходящую стоп-лосс</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "tb1c7f7742b5c351a",
+      "english": "<span data-i18n-slot=\"0\">No. Social trading includes observing, discussing, and learning from other traders. Copy trading is a more specific automated function that replicates another account’s trades.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Нет. Социальная торговля включает наблюдение, обсуждение и обучение у других трейдеров. Копи-трейдинг - это более конкретная автоматизированная функция, которая копирует сделки другого счета.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t80e59ccff7d251d5",
+      "english": "<span data-i18n-slot=\"0\">Quick Answer:</span><span data-i18n-slot=\"1\"> A market maker broker provides executable prices and may internalize or take the opposite side of a client trade. An ECN-style broker connects orders to pricing from multiple liquidity sources. ECN-style accounts often use variable spreads plus commission, while market-maker pricing commonly places more of the cost inside the spread.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Краткий ответ:</span><span data-i18n-slot=\"1\"> брокер-маркетмейкер предоставляет цены для исполнения и может обрабатывать сделку внутри компании или выступать противоположной стороной сделки клиента. Брокер с моделью ECN связывает ордера с ценами нескольких источников ликвидности. Счета с моделью ECN часто используют плавающие спреды и комиссию, тогда как у маркетмейкеров большая часть издержек обычно включена в спред.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "ta06344a6b9d8c9ba",
+      "english": "<span data-i18n-slot=\"0\">A market maker broker provides bid and ask prices and may act as the contractual counterparty to a client’s trade.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Брокер-маркетмейкер предоставляет цены Bid и Ask и может выступать договорным контрагентом по сделке клиента.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "td7b2668edf0bd030",
+      "english": "<span data-i18n-slot=\"0\">Broker-provided bid and ask quotes</span>",
+      "translation": "<span data-i18n-slot=\"0\">Предоставляемые брокером котировки Bid и Ask</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t0841a9ddc1b6a287",
+      "english": "<span data-i18n-slot=\"0\">Counterparty</span>",
+      "translation": "<span data-i18n-slot=\"0\">контрагент</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t60e0972a19ab8414",
+      "english": "<span data-i18n-slot=\"0\">Spread type</span>",
+      "translation": "<span data-i18n-slot=\"0\">Тип спреда</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "tddb75f4101f384c1",
+      "english": "<span data-i18n-slot=\"0\">Usually variable and may be raw or near-raw</span>",
+      "translation": "<span data-i18n-slot=\"0\">Обычно переменная и может быть сырой или почти сырой.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t9c090847397aeeeb",
+      "english": "<span data-i18n-slot=\"0\">Traders who prefer simple spread pricing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Трейдеры, предпочитающие простое ценообразование через спред</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t71875be7df9e780f",
+      "english": "<span data-i18n-slot=\"0\">Execution</span>",
+      "translation": "<span data-i18n-slot=\"0\">Исполнение</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t5d37d83719c8ca6b",
+      "english": "<span data-i18n-slot=\"0\">Broker controls quoting and internal execution</span>",
+      "translation": "<span data-i18n-slot=\"0\">Брокер контролирует котирование и внутреннее исполнение</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "tecd811b33991af69",
+      "english": "<span data-i18n-slot=\"0\">Can occur in volatile markets</span>",
+      "translation": "<span data-i18n-slot=\"0\">Может возникнуть на неустойчивых рынках</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t0e61a71feb067b9b",
+      "english": "<span data-i18n-slot=\"0\">Instruments</span>",
+      "translation": "<span data-i18n-slot=\"0\">Инструменты</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "te517e0ee1c0b74dc",
+      "english": "<span data-i18n-slot=\"0\">$7 per round lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">$7 за полный оборот лота</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t7b538149ddce2b45",
+      "english": "<span data-i18n-slot=\"0\">A homepage label is not enough. Check:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Домашней страницы недостаточно. Проверьте:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "te119cf5a34957bf0",
+      "english": "<span data-i18n-slot=\"0\">Legal counterparty:</span><span data-i18n-slot=\"1\"> Identify the company entering the contract.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Юридический контрагент:</span><span data-i18n-slot=\"1\"> Определить компанию, заключающую договор.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "td2011131be35b0eb",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">market maker broker list</span><span data-i18n-slot=\"2\"> or </span><span data-i18n-slot=\"3\">non market maker broker list</span><span data-i18n-slot=\"4\"> can become outdated and oversimplify firms with multiple account structures. Legal documents are stronger evidence.</span>",
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">Списки брокеров-маркетмейкеров</span><span data-i18n-slot=\"2\"> или </span><span data-i18n-slot=\"3\">брокеров, не являющихся маркетмейкерами</span><span data-i18n-slot=\"4\">, могут устаревать и чрезмерно упрощать описание компаний с несколькими моделями счетов. Юридические документы служат более убедительным доказательством.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t973950ef885a053f",
+      "english": "<span data-i18n-slot=\"0\">Execution Walkthrough: How the Same Trade Looks on Each Model</span>",
+      "translation": "<span data-i18n-slot=\"0\">Разбор исполнения: как одна и та же сделка выглядит в каждой модели</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t6673df65215fdd93",
+      "english": "<span data-i18n-slot=\"0\">These are generic industry-style figures used to explain the calculation. They do not describe UpForex’s Standard pricing, which currently lists spreads from 0.1 pips.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Это общие цифры в отраслевом стиле, используемые для объяснения расчета. Они не описывают стандартное ценообразование UpForex, в котором в настоящее время указаны спреды от 0.1 пункта.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t5d9f5942a6ef929e",
+      "english": "<span data-i18n-slot=\"0\">ECN-Style Spread</span>",
+      "translation": "<span data-i18n-slot=\"0\">Спред в модели ECN</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t33bbc52e649b04ea",
+      "english": "<span data-i18n-slot=\"0\">Illustrative spread</span>",
+      "translation": "<span data-i18n-slot=\"0\">Спред в примере</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t0ede3621fc2f8f9b",
+      "english": "<span data-i18n-slot=\"0\">1.0 pip</span>",
+      "translation": "<span data-i18n-slot=\"0\">1.0 пипса</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t480bf00ea3894538",
+      "english": "<span data-i18n-slot=\"0\">0.2 pip</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.2 пп.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "tf1d9e01ed56759ae",
+      "english": "<span data-i18n-slot=\"0\">Illustrative round-lot commission</span>",
+      "translation": "<span data-i18n-slot=\"0\">Комиссия за полный оборот лота в примере</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t2ad831262c613182",
+      "english": "<span data-i18n-slot=\"0\">Estimated total transaction cost</span>",
+      "translation": "<span data-i18n-slot=\"0\">Расчетная общая стоимость сделки</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "tf60e5ebf02f4552b",
+      "english": "<span data-i18n-slot=\"0\">Main cost presentation</span>",
+      "translation": "<span data-i18n-slot=\"0\">Основная статья расходов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "teb70240898dc6e2a",
+      "english": "<span data-i18n-slot=\"0\">Tighter spread plus commission</span>",
+      "translation": "<span data-i18n-slot=\"0\">Более жесткий спред плюс комиссия</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "tc6a85c68a86cae86",
+      "english": "<span data-i18n-slot=\"0\">“A Standard account is automatically market maker.”</span><span data-i18n-slot=\"1\"> Not necessarily. Spread-only pricing does not prove routing.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Стандартный счет автоматически становится маркет-мейкером.</span><span data-i18n-slot=\"1\"> Не обязательно. Цены только на спред не доказывают маршрутизацию.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t3f7771d1eb9464b5",
+      "english": "<span data-i18n-slot=\"0\">“The homepage reveals the execution model.”</span><span data-i18n-slot=\"1\"> Not reliably. Read the agreement and execution policy.</span>",
+      "translation": "<span data-i18n-slot=\"0\">«Главная страница раскрывает модель исполнения».</span><span data-i18n-slot=\"1\"> Это не всегда достоверно. Изучите соглашение и политику исполнения.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "te1af4348cecc74c4",
+      "english": "<span data-i18n-slot=\"0\">A spread-only account may suit a trader who:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Спред-счет может удовлетворить трейдера, который:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t69ee3d240e947ea4",
+      "english": "<span data-i18n-slot=\"0\">Wants a lower entry deposit</span>",
+      "translation": "<span data-i18n-slot=\"0\">Требуется более низкий депозит</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t34d25a019ebc7ed7",
+      "english": "<span data-i18n-slot=\"0\">Prefers costs included in the spread</span>",
+      "translation": "<span data-i18n-slot=\"0\">Предпочитает расходы, включенные в спред</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "tcc1580e4ee8c0470",
+      "english": "<span data-i18n-slot=\"0\">A market maker broker provides bid and ask quotes and may act as counterparty to client trades. It may internalize exposure, match opposing orders or hedge externally. This creates a potential conflict, but regulated firms can manage it through transparent policies and controls.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Брокер-маркетмейкер предоставляет котировки Bid и Ask и может выступать контрагентом по сделкам клиентов. Он может принимать риск внутри компании, сопоставлять встречные ордера или хеджировать риск на внешнем рынке. Это создаёт потенциальный конфликт интересов, но регулируемые компании могут управлять им с помощью прозрачных правил и механизмов контроля.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t841aab038cda5cad",
+      "english": "<span data-i18n-slot=\"0\">Use margin instead of paying the full share value</span>",
+      "translation": "<span data-i18n-slot=\"0\">Используйте маржу вместо того, чтобы платить полную стоимость акций</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t6f6747d0eaa1bd3e",
+      "english": "<span data-i18n-slot=\"0\">Use stop-loss and take-profit orders</span>",
+      "translation": "<span data-i18n-slot=\"0\">Использовать стоп-лосс и тейк-профит ордера</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tf53fd0bfd131426d",
+      "english": "<span data-i18n-slot=\"0\">CFD vs Buying the Actual Share</span>",
+      "translation": "<span data-i18n-slot=\"0\">CFD против покупки фактической доли</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tba122e16b65fb8bc",
+      "english": "<span data-i18n-slot=\"0\">Stock CFD</span>",
+      "translation": "<span data-i18n-slot=\"0\">Фондовый CFD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t0db035dbc12185a9",
+      "english": "<span data-i18n-slot=\"0\">Buying the Share Outright</span>",
+      "translation": "<span data-i18n-slot=\"0\">Покупка акций напрямую</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tc1034749df1d1d5f",
+      "english": "<span data-i18n-slot=\"0\">No ownership of the underlying share</span>",
+      "translation": "<span data-i18n-slot=\"0\">Отсутствие права собственности на основную долю</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t5f4ca28291e406a2",
+      "english": "<span data-i18n-slot=\"0\">Investor owns the share</span>",
+      "translation": "<span data-i18n-slot=\"0\">Инвестор владеет долей</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t4b386e244a5dea68",
+      "english": "<span data-i18n-slot=\"0\">Commonly requires full purchase value</span>",
+      "translation": "<span data-i18n-slot=\"0\">Обычно требуется полная стоимость покупки</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t310c4e1b40a7dd5d",
+      "english": "<span data-i18n-slot=\"0\">May require borrowing arrangements</span>",
+      "translation": "<span data-i18n-slot=\"0\">Может потребоваться кредитование</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t811bda4a75cf40e6",
+      "english": "<span data-i18n-slot=\"0\">Share-price decline and concentration</span>",
+      "translation": "<span data-i18n-slot=\"0\">Снижение цен на акции и концентрация</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t752bedd89c48bcb8",
+      "english": "<span data-i18n-slot=\"0\">Typical Volatility Driver</span>",
+      "translation": "<span data-i18n-slot=\"0\">Типичный драйвер волатильности</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "ta97dca43e18c401f",
+      "english": "<span data-i18n-slot=\"0\">Historical Earnings-Day Move Range*</span>",
+      "translation": "<span data-i18n-slot=\"0\">Исторический диапазон движения в день публикации отчётности*</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t5f27c7078a60caa5",
+      "english": "<span data-i18n-slot=\"0\">Variable; may be larger when guidance surprises</span>",
+      "translation": "<span data-i18n-slot=\"0\">Переменный; может быть больше, если прогноз компании оказывается неожиданным</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "ta0a50c40f173eb80",
+      "english": "<span data-i18n-slot=\"0\">Can reprice sharply when guidance changes expectations</span>",
+      "translation": "<span data-i18n-slot=\"0\">Цена может резко измениться, если прогноз компании меняет ожидания</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t892b53df9e614483",
+      "english": "<span data-i18n-slot=\"0\">A company may beat current-quarter estimates but fall because guidance disappoints.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Компания может превзойти прогнозы за текущий квартал, но её акции могут упасть из-за разочаровывающего прогноза дальнейших результатов.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tda7d49497b5070ab",
+      "english": "<span data-i18n-slot=\"0\">3. Check the Volatility Environment</span>",
+      "translation": "<span data-i18n-slot=\"0\">3. Оцените текущую волатильность</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t45d4568cd33d3e8e",
+      "english": "<span data-i18n-slot=\"0\">Opening several correlated technology positions</span>",
+      "translation": "<span data-i18n-slot=\"0\">Открытие нескольких взаимосвязанных технологических позиций</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t78759000d5305d0a",
+      "english": "<span data-i18n-slot=\"0\">Chasing the first post-release move</span>",
+      "translation": "<span data-i18n-slot=\"0\">Погоня за первым шагом после выхода</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t34ede92a8f527032",
+      "english": "<span data-i18n-slot=\"0\">Allow for a gap beyond the stop</span>",
+      "translation": "<span data-i18n-slot=\"0\">Учитывайте возможный ценовой разрыв за уровнем стопа</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t68e951a5ddc8c2a5",
+      "english": "<span data-i18n-slot=\"0\">Review correlated exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Обзор коррелированного воздействия</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t8d0adb6f8ca99b3f",
+      "english": "<span data-i18n-slot=\"0\">Decide whether staying flat is safer</span>",
+      "translation": "<span data-i18n-slot=\"0\">Решите, не безопаснее ли остаться вне рынка</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t29e747bec9b4abc6",
+      "english": "<span data-i18n-slot=\"0\">Define the post-announcement exit plan</span>",
+      "translation": "<span data-i18n-slot=\"0\">Определить план выхода после объявления</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tf3bb4be426a07214",
+      "english": "<span data-i18n-slot=\"0\">Apple CFD</span>",
+      "translation": "<span data-i18n-slot=\"0\">CFD на акции Apple</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "te9fbf56db090a6d3",
+      "english": "<span data-i18n-slot=\"0\">Tesla CFD</span>",
+      "translation": "<span data-i18n-slot=\"0\">CFD на акции Tesla</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "teb5b6c898b6e3c41",
+      "english": "<span data-i18n-slot=\"0\">Nvidia CFD</span>",
+      "translation": "<span data-i18n-slot=\"0\">CFD на акции Nvidia</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tf214bc212342a3d1",
+      "english": "<span data-i18n-slot=\"0\">Main earnings focus</span>",
+      "translation": "<span data-i18n-slot=\"0\">Основной акцент на прибыли</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tfac8b432c9bc4fc4",
+      "english": "<span data-i18n-slot=\"0\">Deliveries, margins and outlook</span>",
+      "translation": "<span data-i18n-slot=\"0\">Поставки, маржа и перспективы</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t86cff2bdc04a30e5",
+      "english": "<span data-i18n-slot=\"0\">Volatility character</span>",
+      "translation": "<span data-i18n-slot=\"0\">Характер волатильности</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t844e54e33e804fe7",
+      "english": "<span data-i18n-slot=\"0\">Often highly reactive to sentiment</span>",
+      "translation": "<span data-i18n-slot=\"0\">Часто очень реагирует на чувства</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t7a2bc935adb0f645",
+      "english": "<span data-i18n-slot=\"0\">Can reprice rapidly around guidance</span>",
+      "translation": "<span data-i18n-slot=\"0\">Цена может быстро изменяться при публикации прогноза компании</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t9ada600758f2b419",
+      "english": "<span data-i18n-slot=\"0\">Analytical focus</span>",
+      "translation": "<span data-i18n-slot=\"0\">Аналитическая направленность</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "td138b19ac799e976",
+      "english": "<span data-i18n-slot=\"0\">Expectations may already be priced in</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ожидания уже могут быть учтены в цене</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "ta49463f5bf35eb97",
+      "english": "<span data-i18n-slot=\"0\">Rapid sentiment shifts</span>",
+      "translation": "<span data-i18n-slot=\"0\">Быстрые изменения настроения</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t6eaa3472f5c0fb66",
+      "english": "<span data-i18n-slot=\"0\">Do you need more margin during earnings season?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Нужно ли больше маржи в сезон публикации отчётности?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t3d0e496c37a89bc0",
+      "english": "<span data-i18n-slot=\"0\">Can you short a stock CFD if you expect bad earnings?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Можно ли открыть короткую позицию по CFD на акцию, если вы ожидаете слабую отчётность?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tb1ac29c2740165d8",
+      "english": "<span data-i18n-slot=\"0\">What happens if the stock gaps overnight?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что произойдёт, если за ночь по акции возникнет ценовой разрыв?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t84f7bdb1734e02cf",
+      "english": "<span data-i18n-slot=\"0\">Start With a Defined Earnings-Season Plan</span>",
+      "translation": "<span data-i18n-slot=\"0\">Начните с чёткого плана на сезон публикации отчётности</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tb39004371f176aab",
+      "english": "<span data-i18n-slot=\"0\">What Is a Stop-Loss Order?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое стоп-лосс ордер?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "tf52bc68467d0a552",
+      "english": "<span data-i18n-slot=\"0\">The simplest </span><span data-i18n-slot=\"1\">stop loss meaning</span><span data-i18n-slot=\"2\"> is a planned exit for a trade that moves in the wrong direction. For a long position, the stop-loss is normally placed below the entry price. For a short position, it is normally placed above the entry price.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Проще всего понимать </span><span data-i18n-slot=\"1\">стоп-лосс</span><span data-i18n-slot=\"2\"> как запланированный выход из сделки, которая движется в неблагоприятном направлении. Для длинной позиции стоп-лосс обычно размещают ниже цены входа, а для короткой — выше цены входа.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "tfb561c618cfd18e9",
+      "english": "<span data-i18n-slot=\"0\">A take-profit is an instruction to close a position automatically when price reaches a predefined profit-taking level.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Тейк-профит — инструкция автоматически закрыть позицию, когда цена достигнет заранее установленного уровня фиксации прибыли.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "tc7903fd5eaac26ad",
+      "english": "<span data-i18n-slot=\"0\">For a long position, the take-profit is normally above the entry price. For a short position, it is normally below the entry price.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Для длинной позиции тейк-профит обычно находится выше цены входа, а для короткой — ниже цены входа.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "tf8aa2945317bb94b",
+      "english": "<span data-i18n-slot=\"0\">Stop-Loss</span>",
+      "translation": "<span data-i18n-slot=\"0\">Стоп-лосс</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t1abcde0da401837d",
+      "english": "<span data-i18n-slot=\"0\">Take-Profit</span>",
+      "translation": "<span data-i18n-slot=\"0\">Тейк-профит</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t1436db44b7504588",
+      "english": "<span data-i18n-slot=\"0\">Main purpose</span>",
+      "translation": "<span data-i18n-slot=\"0\">Основная цель</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "ta4a0aa2ff0780a9d",
+      "english": "<span data-i18n-slot=\"0\">Secures the planned gain</span>",
+      "translation": "<span data-i18n-slot=\"0\">Обеспечивает запланированную прибыль</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t36a84431c9a2fc7b",
+      "english": "<span data-i18n-slot=\"0\">Defines where the trade idea is invalid</span>",
+      "translation": "<span data-i18n-slot=\"0\">Определяет, где торговая идея недействительна</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "tebbe4b6cbd4123cc",
+      "english": "<span data-i18n-slot=\"0\">Swing highs and swing lows</span>",
+      "translation": "<span data-i18n-slot=\"0\">Локальные максимумы и минимумы</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "te8f2d5211ab0a3b5",
+      "english": "<span data-i18n-slot=\"0\">Current volatility</span>",
+      "translation": "<span data-i18n-slot=\"0\">Текущая нестабильность</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "tb59f6117ba953ae5",
+      "english": "<span data-i18n-slot=\"0\">When Opening a Position</span>",
+      "translation": "<span data-i18n-slot=\"0\">Когда открывается позиция</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "tdedc5e4bdb8bf57b",
+      "english": "<span data-i18n-slot=\"0\">When Modifying an Open Position</span>",
+      "translation": "<span data-i18n-slot=\"0\">При изменении открытой позиции</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t8f6fcc821bbd6418",
+      "english": "<span data-i18n-slot=\"0\">Moving the Stop Farther Away</span>",
+      "translation": "<span data-i18n-slot=\"0\">Перемещение остановки дальше</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "td38aec07d986bcad",
+      "english": "<span data-i18n-slot=\"0\">What is stop loss in trading?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое стоп-лосс в торговле?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "te44e6d376e510269",
+      "english": "<span data-i18n-slot=\"0\">What does stop loss mean?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что означает стоп-лосс?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t883f7661b03e2ebd",
+      "english": "<span data-i18n-slot=\"0\">What is a trailing stop-loss and how does it work?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое следящий стоп-лосс и как он работает?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t1aa6f57750c887a3",
+      "english": "<span data-i18n-slot=\"0\">Should beginners always use a stop-loss?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Должны ли новички всегда использовать стоп-лосс?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "tccea82c8fc8dc80a",
+      "english": "<span data-i18n-slot=\"0\">Quick Answer:</span><span data-i18n-slot=\"1\"> For traders in the UAE and wider Gulf, the most active window is usually the London–New York overlap: approximately 4:00–8:00 p.m. GST during daylight-saving months and 5:00–9:00 p.m. GST during standard time. This period often brings stronger liquidity in major forex pairs, gold and US index markets.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Краткий ответ:</span><span data-i18n-slot=\"1\"> для трейдеров в ОАЭ и других странах Персидского залива наиболее активным периодом обычно является пересечение сессий Лондона и Нью-Йорка: примерно 4:00–8:00 p.m. GST в месяцы летнего времени и 5:00–9:00 p.m. GST в период стандартного времени. В это время часто повышается ликвидность основных валютных пар, золота и рынков индексов США.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t10f1f8197e76c123",
+      "english": "<span data-i18n-slot=\"0\">Session</span>",
+      "translation": "<span data-i18n-slot=\"0\">Торговая сессия</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t14ceb1e14a62f543",
+      "english": "<span data-i18n-slot=\"0\">1:00–10:00 a.m. during Australian DST; 2:00–11:00 a.m. during standard time</span>",
+      "translation": "<span data-i18n-slot=\"0\">1:00–10:00 a.m. в период летнего времени в Австралии; 2:00–11:00 a.m. в период стандартного времени</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t1f2c3d07de8d2e27",
+      "english": "<span data-i18n-slot=\"0\">Sydney–Tokyo:</span><span data-i18n-slot=\"1\"> About </span><span data-i18n-slot=\"2\">4:00–10:00 or 11:00 a.m. GST</span><span data-i18n-slot=\"3\">, depending on Australian daylight saving.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Сидней–Токио:</span><span data-i18n-slot=\"1\"> примерно </span><span data-i18n-slot=\"2\">4:00–10:00 или 11:00 a.m. GST</span><span data-i18n-slot=\"3\">, в зависимости от летнего времени в Австралии.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t94284af57616a00d",
+      "english": "<span data-i18n-slot=\"0\">London–New York:</span><span data-i18n-slot=\"1\"> About </span><span data-i18n-slot=\"2\">4:00–8:00 p.m. GST during joint daylight-saving periods</span><span data-i18n-slot=\"3\"> or </span><span data-i18n-slot=\"4\">5:00–9:00 p.m. during standard time</span><span data-i18n-slot=\"5\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Лондон–Нью-Йорк:</span><span data-i18n-slot=\"1\"> примерно </span><span data-i18n-slot=\"2\">4:00–8:00 p.m. GST, когда обе страны используют летнее время</span><span data-i18n-slot=\"3\"> или </span><span data-i18n-slot=\"4\">5:00–9:00 p.m. в период стандартного времени</span><span data-i18n-slot=\"5\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t58af80c4bbf4d7a2",
+      "english": "<span data-i18n-slot=\"0\">During the short weeks when US and UK clock changes do not align, the London–New York overlap may temporarily run from approximately </span><span data-i18n-slot=\"1\">4:00–9:00 p.m. GST</span><span data-i18n-slot=\"2\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">В течение коротких недель, когда даты перевода часов в США и Великобритании не совпадают, пересечение сессий Лондона и Нью-Йорка может временно длиться примерно с </span><span data-i18n-slot=\"1\">4:00–9:00 p.m. GST</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t926e6b4f9ff34173",
+      "english": "<span data-i18n-slot=\"0\">For UAE traders, it normally occurs at:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Для трейдеров из ОАЭ это обычно происходит при:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t75b544e4922d4508",
+      "english": "<span data-i18n-slot=\"0\">UK and US daylight saving</span>",
+      "translation": "<span data-i18n-slot=\"0\">Летнее время Великобритании и США</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t89255b7a88f2ce90",
+      "english": "<span data-i18n-slot=\"0\">Noon–9:00 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">С полудня до 9:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t1eba38d084ab06ce",
+      "english": "<span data-i18n-slot=\"0\">Converted to UAE time:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Переведено в ОАЭ время:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t1c74a3e9cb7f4567",
+      "english": "<span data-i18n-slot=\"0\">After-hours</span>",
+      "translation": "<span data-i18n-slot=\"0\">Послеторговая сессия</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t70a8c24d29859cf7",
+      "english": "<span data-i18n-slot=\"0\">Approximately 5:00–9:00 p.m. GST during standard time</span>",
+      "translation": "<span data-i18n-slot=\"0\">Примерно 5:00–9:00 p.m. GST в период стандартного времени</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "td77c5d38b74ffcfa",
+      "english": "<span data-i18n-slot=\"0\">ADX’s official exchange-timings information currently lists its trading week as </span><span data-i18n-slot=\"1\">Monday through Friday</span><span data-i18n-slot=\"2\">. Its official auction information confirms the pre-opening session from </span><span data-i18n-slot=\"3\">9:30–10:00 a.m. GST</span><span data-i18n-slot=\"4\"> and shows that the pre-close auction begins at </span><span data-i18n-slot=\"5\">2:45 p.m. GST</span><span data-i18n-slot=\"6\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">В официальных сведениях ADX о времени работы биржи торговая неделя сейчас указана </span><span data-i18n-slot=\"1\">с понедельника по пятницу</span><span data-i18n-slot=\"2\">. Официальные сведения об аукционах подтверждают предторговую сессию с </span><span data-i18n-slot=\"3\">9:30–10:00 a.m. GST</span><span data-i18n-slot=\"4\"> и начало предзакрывающего аукциона в </span><span data-i18n-slot=\"5\">2:45 p.m. GST</span><span data-i18n-slot=\"6\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "teb1af3e99416e3e3",
+      "english": "<span data-i18n-slot=\"0\">Pre-opening</span>",
+      "translation": "<span data-i18n-slot=\"0\">Предоткрытие</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t7c2bb0537c71826f",
+      "english": "<span data-i18n-slot=\"0\">Which Trading Overlap Suits Which Instrument?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Какое пересечение торговых сессий подходит для каждого инструмента?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t8b6c1b7f213849ab",
+      "english": "<span data-i18n-slot=\"0\">Instruments Commonly Watched</span>",
+      "translation": "<span data-i18n-slot=\"0\">Инструменты, которые обычно смотрят</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t3f0fe48aa62bae40",
+      "english": "<span data-i18n-slot=\"0\">4:00–8:00 p.m. or 5:00–9:00 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">4:00–8:00 p.m. или 5:00–9:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tee387ae12894669d",
+      "english": "<span data-i18n-slot=\"0\">The US cash equity market opens</span>",
+      "translation": "<span data-i18n-slot=\"0\">Американский фондовый рынок открывается</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "te6314041f36bc37f",
+      "english": "<span data-i18n-slot=\"0\">The London–New York overlap is usually the most active forex window. It generally runs from 4:00–8:00 p.m. GST during UK and US daylight-saving periods and 5:00–9:00 p.m. during standard time. The best window for an individual trader still depends on the currency pair, strategy and risk tolerance.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Пересечение сессий Лондона и Нью-Йорка обычно является самым активным периодом на форекс. В период летнего времени Великобритании и США оно обычно приходится на 4:00–8:00 p.m. GST, а в период стандартного времени — на 5:00–9:00 p.m. Лучшее время для конкретного трейдера по-прежнему зависит от валютной пары, стратегии и допустимого риска.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t0ad674d4eba88ce8",
+      "english": "<span data-i18n-slot=\"0\">ADX’s official website currently lists its trading week as </span><span data-i18n-slot=\"1\">Monday through Friday</span><span data-i18n-slot=\"2\">. The pre-opening session runs from </span><span data-i18n-slot=\"3\">9:30–10:00 a.m. GST</span><span data-i18n-slot=\"4\">, followed by continuous trading from </span><span data-i18n-slot=\"5\">10:00 a.m.–2:45 p.m. GST</span><span data-i18n-slot=\"6\">. Holiday and special-session schedules should be confirmed directly with ADX.</span>",
+      "translation": "<span data-i18n-slot=\"0\">На официальном сайте ADX торговая неделя сейчас указана </span><span data-i18n-slot=\"1\">с понедельника по пятницу</span><span data-i18n-slot=\"2\">. Предторговая сессия проходит с </span><span data-i18n-slot=\"3\">9:30–10:00 a.m. GST</span><span data-i18n-slot=\"4\">, затем непрерывная торговля — с </span><span data-i18n-slot=\"5\">10:00 a.m.–2:45 p.m. GST</span><span data-i18n-slot=\"6\">. Расписание праздников и специальных сессий следует уточнять непосредственно у ADX.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tdde04509bf7596bd",
+      "english": "<span data-i18n-slot=\"0\">Leverage and margin are connected but different. The simplest </span><span data-i18n-slot=\"1\">leverage meaning</span><span data-i18n-slot=\"2\"> is controlling a position larger than the capital set aside for it. Margin is the account equity reserved to open and maintain that position.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Кредитное плечо и маржа связаны, но это разные понятия. Проще всего понимать </span><span data-i18n-slot=\"1\">кредитное плечо</span><span data-i18n-slot=\"2\"> как возможность контролировать позицию, превышающую выделенный для неё капитал. Маржа — средства счёта, зарезервированные для открытия и поддержания этой позиции.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t8bcb08502b7d0128",
+      "english": "<span data-i18n-slot=\"0\">What Is Margin in Trading?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое маржа в торговле?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "te7e3face85741904",
+      "english": "<span data-i18n-slot=\"0\">Free margin = Equity − Used margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Свободная маржа = эквити - Используемая маржа</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tfb263a0403b5c248",
+      "english": "<span data-i18n-slot=\"0\">How Leverage and Margin Work Together Worked Example</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как плечо и маржа работают вместе — пример</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tf7d6b3e1210473d5",
+      "english": "<span data-i18n-slot=\"0\">Account equity before the trade:</span><span data-i18n-slot=\"1\"> $1,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Счетный капитал перед торговлей:</span><span data-i18n-slot=\"1\"> 1,000 долларов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tf274f4b86b29901c",
+      "english": "<span data-i18n-slot=\"0\">Approximate notional value:</span><span data-i18n-slot=\"1\"> $100,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Примерная номинальная стоимость:</span><span data-i18n-slot=\"1\"> $100,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t7724f10df3f3c7d7",
+      "english": "<span data-i18n-slot=\"0\">Step 1: Calculate Required Margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Шаг 1: Расчет требуемой маржи</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tfe4a708012f28cec",
+      "english": "<span data-i18n-slot=\"0\">Required margin = $100,000 ÷ 100 = $1,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Требуемая маржа = 100,000 $ ÷ 100 = 1,000 $</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "te778001698f36fa4",
+      "english": "<span data-i18n-slot=\"0\">The trade uses the entire $1,000 equity as margin.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Торговля использует весь капитал в размере 1,000 долларов США в качестве маржи.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tb19cd3a45e280a08",
+      "english": "<span data-i18n-slot=\"0\">Step 2: Calculate Free Margin at Entry</span>",
+      "translation": "<span data-i18n-slot=\"0\">Шаг 2: рассчитайте свободную маржу при входе</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t1a624c7d399d5491",
+      "english": "<span data-i18n-slot=\"0\">Step 3: Apply a 50-Pip Adverse Move</span>",
+      "translation": "<span data-i18n-slot=\"0\">Шаг 3: Рассмотрите неблагоприятное движение на 50 пипсов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t3b1f8d42343f9690",
+      "english": "<span data-i18n-slot=\"0\">At an illustrative $10 per pip:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Иллюстративные 10 долларов за пип:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t1234080c4474c704",
+      "english": "<span data-i18n-slot=\"0\">The account values become:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Счетные значения становятся:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t016f6aac9e16c62a",
+      "english": "<span data-i18n-slot=\"0\">Equity:</span><span data-i18n-slot=\"1\"> $500</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства:</span><span data-i18n-slot=\"1\"> $500</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t065c9a72ad1efa6e",
+      "english": "<span data-i18n-slot=\"0\">Used margin:</span><span data-i18n-slot=\"1\"> $1,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Используемая маржа:</span><span data-i18n-slot=\"1\"> 1,000 долларов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tf9fa4fdd41dd8f0d",
+      "english": "<span data-i18n-slot=\"0\">Step 4: Calculate Margin Level</span>",
+      "translation": "<span data-i18n-slot=\"0\">Шаг 4: Вычислить маржинальный уровень</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tf15cf29e5ecf4e70",
+      "english": "<span data-i18n-slot=\"0\">Leverage Ratio Comparison Table</span>",
+      "translation": "<span data-i18n-slot=\"0\">Таблица сравнения размеров кредитного плеча</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "td5b0d261b0cb24f7",
+      "english": "<span data-i18n-slot=\"0\">Leverage Ratio</span>",
+      "translation": "<span data-i18n-slot=\"0\">Коэффициент левериджа</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t6bbfe3fa70f80e4a",
+      "english": "<span data-i18n-slot=\"0\">Required Margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Требуемая маржа</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "td328509a667ac44a",
+      "english": "<span data-i18n-slot=\"0\">Market Exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Рыночная экспозиция</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t203e91fcb9bdf7fe",
+      "english": "<span data-i18n-slot=\"0\">Loss From a 1% Adverse Move</span>",
+      "translation": "<span data-i18n-slot=\"0\">Убыток от 1% неблагоприятного движения</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t07a9c291560bd92f",
+      "english": "<span data-i18n-slot=\"0\">What Is a Margin Call?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое маржин-колл?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "td7102d73dd8f91eb",
+      "english": "<span data-i18n-slot=\"0\">The </span><span data-i18n-slot=\"1\">margin call meaning</span><span data-i18n-slot=\"2\"> is a warning or account condition reached when equity falls to a set percentage of used margin. The account then has limited capacity to support open trades.</span>",
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">Маржин-колл</span><span data-i18n-slot=\"2\"> — предупреждение или состояние счёта, возникающее, когда средства счёта снижаются до установленного процента от использованной маржи. Возможности счёта поддерживать открытые сделки тогда ограничены.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "te7555c49da57ceb5",
+      "english": "<span data-i18n-slot=\"0\">UpForex’s current</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">account types</span></span><span data-i18n-slot=\"4\"> page lists a </span><span data-i18n-slot=\"5\">50% margin-call level</span><span data-i18n-slot=\"6\"> and a </span><span data-i18n-slot=\"7\">30% stop-out level</span><span data-i18n-slot=\"8\">. At the stop-out threshold, the system may begin automatically liquidating positions to reduce exposure. These thresholds are risk controls, not targets traders should deliberately approach.</span>",
+      "translation": "<span data-i18n-slot=\"0\">На текущей странице </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">типов счетов</span></span><span data-i18n-slot=\"4\"> UpForex указаны </span><span data-i18n-slot=\"5\">уровень маржин-колла 50%</span><span data-i18n-slot=\"6\"> и </span><span data-i18n-slot=\"7\">уровень стоп-аута 30%</span><span data-i18n-slot=\"8\">. При достижении порога стоп-аута система может начать автоматически закрывать позиции для снижения риска. Эти пороги служат контролю риска, а не целями, к которым трейдерам следует намеренно приближаться.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "teba8a07a03ebfd70",
+      "english": "<span data-i18n-slot=\"0\">In the worked example, equity of $500 against $1,000 of used margin creates a 50% margin level. If equity fell to $300 while used margin remained $1,000, the margin level would be 30%, ignoring changes caused by partial liquidation, costs, or broker calculations.</span>",
+      "translation": "<span data-i18n-slot=\"0\">В приведенном примере капитал в размере 500 долларов США против 1,000 долларов США использованной маржи создает уровень маржи 50%. Если бы капитал упал до $300, а использованная маржа оставалась бы $1,000, уровень маржи составил бы 30%, игнорируя изменения, вызванные частичной ликвидацией, расходами или расчетами брокера.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t4761a1e27c9101f4",
+      "english": "<span data-i18n-slot=\"0\">Margin level meaning:</span><span data-i18n-slot=\"1\"> The percentage relationship between current account equity and the margin being used by open positions.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Уровень маржи означает:</span><span data-i18n-slot=\"1\"> Процентное соотношение между капиталом текущего счета и маржой, используемой открытыми позициями.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t11014367d02ed627",
+      "english": "<span data-i18n-slot=\"0\">Margin level is calculated as:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Уровень маржи рассчитывается как:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "te50efc17bfa29751",
+      "english": "<span data-i18n-slot=\"0\">Equity:</span><span data-i18n-slot=\"1\"> $2,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства:</span><span data-i18n-slot=\"1\"> $2,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tcb8c616a8edb6176",
+      "english": "<span data-i18n-slot=\"0\">Used margin:</span><span data-i18n-slot=\"1\"> $500</span>",
+      "translation": "<span data-i18n-slot=\"0\">Используемая маржа:</span><span data-i18n-slot=\"1\"> 500 долларов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t801ca8e3191422b1",
+      "english": "<span data-i18n-slot=\"0\">How to Manage Leverage and Margin Responsibly</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как ответственно управлять кредитным плечом и маржой</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t7c7dac56ba9333d0",
+      "english": "<span data-i18n-slot=\"0\">Tokyo–London:</span><span data-i18n-slot=\"1\"> About </span><span data-i18n-slot=\"2\">11:00 a.m.–1:00 p.m. GST during BST</span><span data-i18n-slot=\"3\"> or </span><span data-i18n-slot=\"4\">noon–1:00 p.m. during GMT</span><span data-i18n-slot=\"5\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Токио–Лондон:</span><span data-i18n-slot=\"1\"> примерно </span><span data-i18n-slot=\"2\">11:00 a.m.–1:00 p.m. GST в период BST</span><span data-i18n-slot=\"3\"> или </span><span data-i18n-slot=\"4\">с полудня до 1:00 p.m. в период GMT</span><span data-i18n-slot=\"5\">.</span>"
+    }
+  ]
+}

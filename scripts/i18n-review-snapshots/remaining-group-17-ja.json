@@ -1,0 +1,661 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t284d269b78f5a4cb",
+      "english": "<span data-i18n-slot=\"0\">If exact entry price is important, traders should consider whether they want exposure to execution during periods when quotes may update rapidly.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">正確なエントリー価格が重要な場合、トレーダーは相場が急速に更新される可能性がある期間に約定するかどうかを検討する必要があります。</span>"
+    },
+    {
+      "key": "te91c15015aefef1d",
+      "english": "<span data-i18n-slot=\"0\">Consider Order Size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">注文サイズを考慮する</span>"
+    },
+    {
+      "key": "tb15fe3ee80df8c10",
+      "english": "<span data-i18n-slot=\"0\">Include Slippage in Algorithmic Trading Tests</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アルゴリズム取引テストにスリッページを含める</span>"
+    },
+    {
+      "key": "t89ee05199c5c3439",
+      "english": "<span data-i18n-slot=\"0\">Variable spreads</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変動スプレッド</span>"
+    },
+    {
+      "key": "t799ea7dbc3bbe089",
+      "english": "<span data-i18n-slot=\"0\">Execution delays</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定の遅延</span>"
+    },
+    {
+      "key": "tc576ddf0fc62f3b4",
+      "english": "<span data-i18n-slot=\"0\">Order rejection</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">注文の拒否</span>"
+    },
+    {
+      "key": "td0fe75ca62c715ce",
+      "english": "<span data-i18n-slot=\"0\">Slippage assumptions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページの仮定</span>"
+    },
+    {
+      "key": "tab673220c6f89210",
+      "english": "<span data-i18n-slot=\"0\">Review Execution Records Over Time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">時間の経過に沿って約定記録を確認する</span>"
+    },
+    {
+      "key": "t1e88d034c0e9a100",
+      "english": "<span data-i18n-slot=\"0\">Traders evaluating execution quality can record:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定品質を評価するトレーダーは以下を記録できます。</span>"
+    },
+    {
+      "key": "t101d243aac57d1ec",
+      "english": "<span data-i18n-slot=\"0\">Actual execution price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">実際の約定価格</span>"
+    },
+    {
+      "key": "t0fe8018bbd471639",
+      "english": "<span data-i18n-slot=\"0\">Market conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市況</span>"
+    },
+    {
+      "key": "tb48bcdf55285d7ad",
+      "english": "<span data-i18n-slot=\"0\">Slippage direction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページの方向</span>"
+    },
+    {
+      "key": "t7c26d37cfb05faa4",
+      "english": "<span data-i18n-slot=\"0\">Slippage amount</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページ量</span>"
+    },
+    {
+      "key": "tc7f63bb2b3508006",
+      "english": "<span data-i18n-slot=\"0\">What is slippage in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">FXにおけるスリッページとは何ですか？</span>"
+    },
+    {
+      "key": "t27d1b3cb4711dd79",
+      "english": "<span data-i18n-slot=\"0\">Slippage in forex is the difference between the price expected when a forex order is submitted and the price at which it actually executes. It can be positive when the fill is more favorable, negative when the fill is less favorable, or zero when execution occurs at the expected price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替におけるスリッページとは、外国為替注文が送信されたときに予想される価格と実際に約定する価格との差です。約定が有利な場合は正、約定が不利な場合は負、予想価格で約定が行われる場合はゼロになります。</span>"
+    },
+    {
+      "key": "t038d16970cdc4a0d",
+      "english": "<span data-i18n-slot=\"0\">Positive slippage occurs when an order executes at a price more favorable than expected. For a buy order, this means filling at a price below the expected price. For a sell order, it means filling above it. Positive slippage is still a form of slippage because the actual fill differs from the expected price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プラスのスリッページは、注文が予想よりも有利な価格で約定したときに発生します。買い注文の場合、これは予想価格を下回る価格で約定することを意味します。売り注文の場合は、その上で約定することを意味します。実際の約定が予想価格と異なるため、プラスのスリッページは依然としてスリッページの一種です。</span>"
+    },
+    {
+      "key": "t50e2ba2afdebd354",
+      "english": "<span data-i18n-slot=\"0\">Can slippage be completely avoided?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページを完全に避けられますか？</span>"
+    },
+    {
+      "key": "te3093e6f641e23b5",
+      "english": "<span data-i18n-slot=\"0\">No. Spread is the difference between the current bid and ask prices, while slippage is the difference between an expected or requested execution price and the actual fill price. A trade can experience both spread and slippage because they describe different aspects of pricing and execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">いいえ、スプレッドは現在の買値と売値の差であり、スリッページは予想または要求された約定価格と実際の約定価格の差です。スプレッドとスリッページは価格設定と約定のさまざまな側面を表すため、取引ではスプレッドとスリッページの両方が発生する可能性があります。</span>"
+    },
+    {
+      "key": "t69cd9215103fb5b1",
+      "english": "<span data-i18n-slot=\"0\">The basic mechanics of forex slippage are the same for UAE traders as elsewhere: execution depends on the available price when an order is filled. The specific platform settings, instruments, account terms, execution arrangements, and legal entity serving the client can differ, so traders should review the applicable broker documentation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替スリッページの基本的な仕組みは、UAE のトレーダーでも他のトレーダーと同じです。約定は、注文が約定されたときの利用可能な価格に依存します。特定のプラットフォーム設定、商品、口座条件、約定取り決め、およびクライアントにサービスを提供する法人は異なる場合があるため、トレーダーは該当するブローカーのドキュメントを確認する必要があります。</span>"
+    },
+    {
+      "key": "tc57ed3c330dc070d",
+      "english": "<span data-i18n-slot=\"0\">Understand Execution Before Placing an Order</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">注文を出す前に約定を理解する</span>"
+    },
+    {
+      "key": "t5720decdcbb7c439",
+      "english": "<span data-i18n-slot=\"0\">Slippage is part of trading execution risk. Understanding the relationship between market orders, limit orders, liquidity, volatility, price movement, and execution modes can help traders develop more realistic expectations about the price an order may receive.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページは取引執行リスクの一部です。成行注文、指値注文、流動性、ボラティリティ、価格変動、および約定モードの関係を理解することは、トレーダーが注文が受け取る可能性のある価格についてより現実的な予想を立てるのに役立ちます。</span>"
+    },
+    {
+      "key": "t111418099ab61d79",
+      "english": "<span data-i18n-slot=\"0\">What Is a Market Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">成行注文とは何ですか?</span>"
+    },
+    {
+      "key": "tad91d1a90e2a6b5d",
+      "english": "<span data-i18n-slot=\"0\">A market order can fit a plan when:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">成行注文は次の場合に計画に適合します。</span>"
+    },
+    {
+      "key": "ta67c4c52499240ba",
+      "english": "<span data-i18n-slot=\"0\">The trader is not waiting for a pullback or breakout trigger.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーはプルバックやブレイクアウトのトリガーを待っているわけではありません。</span>"
+    },
+    {
+      "key": "tbdf3b4bc6aaced26",
+      "english": "<span data-i18n-slot=\"0\">What Is a Buy Limit Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">買い指値注文とは何ですか?</span>"
+    },
+    {
+      "key": "te110479ba63ccbe5",
+      "english": "<span data-i18n-slot=\"0\">Desired entry: 1.1000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">希望のエントリ: 1.1000</span>"
+    },
+    {
+      "key": "tde3859cd393a01a5",
+      "english": "<span data-i18n-slot=\"0\">The trader does not want to buy at 1.1050. Instead, the instruction waits for the market to fall toward 1.1000.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは1.1050で買いたくありません。代わりに、この指示は市場が 1.1000 に向かって下落するのを待ちます。</span>"
+    },
+    {
+      "key": "t4b36da4b94512c8b",
+      "english": "<span data-i18n-slot=\"0\">Hypothetical example:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">仮定の例:</span>"
+    },
+    {
+      "key": "t97c6c0a68091b152",
+      "english": "<span data-i18n-slot=\"0\">Desired sell entry: 1.1100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">希望の売りエントリー: 1.1100</span>"
+    },
+    {
+      "key": "t1b709a181ab6553a",
+      "english": "<span data-i18n-slot=\"0\">The trader is waiting for the price to rise before becoming willing to sell.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは、売ってもよいと考える価格まで上昇するのを待っています。</span>"
+    },
+    {
+      "key": "tb3533ff7207feb99",
+      "english": "<span data-i18n-slot=\"0\">A typical sequence is:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的なシーケンスは次のとおりです。</span>"
+    },
+    {
+      "key": "t2f9f295c34a9581e",
+      "english": "<span data-i18n-slot=\"0\">Select Buy Limit or Sell Limit.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">買い指値または売り指値を選択します。</span>"
+    },
+    {
+      "key": "t0886b5fa18f488a6",
+      "english": "<span data-i18n-slot=\"0\">Set the trade volume.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引量を設定します。</span>"
+    },
+    {
+      "key": "t572bd011936eac1b",
+      "english": "<span data-i18n-slot=\"0\">Review any available expiration setting.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">利用可能な有効期限設定を確認します。</span>"
+    },
+    {
+      "key": "t57a30cebf5c002cf",
+      "english": "<span data-i18n-slot=\"0\">Submit the pending order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">未決注文を送信します。</span>"
+    },
+    {
+      "key": "t1b56d91d897272a5",
+      "english": "<span data-i18n-slot=\"0\">What Is a Stop Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">逆指値注文とは何ですか?</span>"
+    },
+    {
+      "key": "t56f772e4fe1500d6",
+      "english": "<span data-i18n-slot=\"0\">A stop order remains inactive until the market reaches a predefined trigger, after which the corresponding market operation is activated.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">逆指値注文は、市場が事前定義されたトリガーに達するまで非アクティブなままであり、その後、対応する市場操作がアクティブになります。</span>"
+    },
+    {
+      "key": "t01339f9ddf5610eb",
+      "english": "<span data-i18n-slot=\"0\">What Is a Buy Stop Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">買い逆指値注文とは何ですか?</span>"
+    },
+    {
+      "key": "t9e58c9d89d63422c",
+      "english": "<span data-i18n-slot=\"0\">A Buy Stop is normally placed above the current market.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">買いストップは通常、現在の市場の上に設定されます。</span>"
+    },
+    {
+      "key": "t708161defa006676",
+      "english": "<span data-i18n-slot=\"0\">Trigger level: 1.1100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トリガーレベル: 1.1100</span>"
+    },
+    {
+      "key": "t8638e5a93eab8e55",
+      "english": "<span data-i18n-slot=\"0\">Order: Buy Stop at 1.1100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">注文: 1.1100でストップ買い</span>"
+    },
+    {
+      "key": "teea4040c9c04ef94",
+      "english": "<span data-i18n-slot=\"0\">The trader is not trying to buy a dip. The instruction waits for an upward price trigger.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは押し目買いをしようとしているわけではない。この命令は価格上昇トリガーを待ちます。</span>"
+    },
+    {
+      "key": "ta373f83f90304fb3",
+      "english": "<span data-i18n-slot=\"0\">What Is a Sell Stop Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">売り逆指値注文とは何ですか?</span>"
+    },
+    {
+      "key": "te2e59af753e66e57",
+      "english": "<span data-i18n-slot=\"0\">Trigger level: 1.1000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トリガーレベル: 1.1000</span>"
+    },
+    {
+      "key": "tb4b9f297ff5609eb",
+      "english": "<span data-i18n-slot=\"0\">A triggered Sell Stop also becomes a market operation rather than guaranteeing execution exactly at the trigger level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トリガーされた売りストップも、トリガー レベルでの実行を正確に保証するのではなく、市場操作になります。</span>"
+    },
+    {
+      "key": "t9c37db5cd1650156",
+      "english": "<span data-i18n-slot=\"0\">Stop Order vs Stop-Loss Order</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">新規の逆指値注文と損切り用の決済逆指値注文</span>"
+    },
+    {
+      "key": "taa530400a8711b28",
+      "english": "<span data-i18n-slot=\"0\">A stop entry and a Stop Loss may both involve price triggers, but they have different jobs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップエントリーとストップロスはどちらも価格トリガーを伴う可能性がありますが、役割は異なります。</span>"
+    },
+    {
+      "key": "te88fc7bf5febb2ed",
+      "english": "<span data-i18n-slot=\"0\">For a deeper explanation, see</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Stop-Loss &amp; Take-Profit: A Complete Risk Management Guide</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">さらに詳しい説明については、</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">ストップロスとテイクプロフィット: 完全なリスク管理ガイド</span></span><span data-i18n-slot=\"4\">を参照してください。</span>"
+    },
+    {
+      "key": "tf9a7bee306ef537d",
+      "english": "<span data-i18n-slot=\"0\">What Is a Stop-Limit Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップリミット注文とは何ですか?</span>"
+    },
+    {
+      "key": "t90594418b5d5ff98",
+      "english": "<span data-i18n-slot=\"0\">With a Buy Stop Limit, for example:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">たとえば、買いストップリミットを使用すると、次のようになります。</span>"
+    },
+    {
+      "key": "t6374c89da4e07fb7",
+      "english": "<span data-i18n-slot=\"0\">The benefit is additional price control after the trigger. The trade-off is execution uncertainty: the limit order created after the trigger may never fill.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">利点は、トリガー後の追加の価格制御です。トレードオフは実行の不確実性です。トリガー後に作成された指値注文は決して約定しない可能性があります。</span>"
+    },
+    {
+      "key": "ta1ab9e5f8b7d8bfd",
+      "english": "<span data-i18n-slot=\"0\">Market Order vs Limit Order vs Stop Order Comparison Table</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">成行注文、指値注文、逆指値注文の比較表</span>"
+    },
+    {
+      "key": "tc35727c4565c91b0",
+      "english": "<span data-i18n-slot=\"0\">Market, limit and stop orders differ mainly in when they become executable and how much control the trader has over entry timing and price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">成行注文、指値注文、ストップ注文は主に、いつ実行可能になるか、トレーダーがエントリーのタイミングと価格をどの程度制御できるかが異なります。</span>"
+    },
+    {
+      "key": "tc1069c74582cf322",
+      "english": "<span data-i18n-slot=\"0\">Execution Price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定価格</span>"
+    },
+    {
+      "key": "tba8db6ce8c917526",
+      "english": "<span data-i18n-slot=\"0\">Best For</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最適な用途</span>"
+    },
+    {
+      "key": "tf8c9ef6b76208329",
+      "english": "<span data-i18n-slot=\"0\">Key Risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要なリスク</span>"
+    },
+    {
+      "key": "t757911c8b8548f78",
+      "english": "<span data-i18n-slot=\"0\">Submitted immediately</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">すぐに送信されました</span>"
+    },
+    {
+      "key": "t1c1bcb27d6ed0ca5",
+      "english": "<span data-i18n-slot=\"0\">Immediate entry or exit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">即時の新規建てまたは決済</span>"
+    },
+    {
+      "key": "ta397d8b87484f402",
+      "english": "<span data-i18n-slot=\"0\">Slippage or a different final execution price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページまたは異なる最終約定価格</span>"
+    },
+    {
+      "key": "tc66e65ecb27066e6",
+      "english": "<span data-i18n-slot=\"0\">Buy Limit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">買い指値</span>"
+    },
+    {
+      "key": "t4188c5d56e9df9d1",
+      "english": "<span data-i18n-slot=\"0\">Limit price or better, subject to execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">指値またはそれより有利な価格（約定する場合）</span>"
+    },
+    {
+      "key": "t092cad9779d5a03b",
+      "english": "<span data-i18n-slot=\"0\">Waits below current market</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">現在の市場以下で待機中</span>"
+    },
+    {
+      "key": "t43065690bcbdab1e",
+      "english": "<span data-i18n-slot=\"0\">Sell Limit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">売り指値</span>"
+    },
+    {
+      "key": "tb3a0651ba4348a77",
+      "english": "<span data-i18n-slot=\"0\">Waits above current market</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">現在の市場を上回るまで待つ</span>"
+    },
+    {
+      "key": "tf7f5845b3c893d4f",
+      "english": "<span data-i18n-slot=\"0\">Order may remain unfilled</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">注文が未約定のままになる可能性がある</span>"
+    }
+  ]
+}

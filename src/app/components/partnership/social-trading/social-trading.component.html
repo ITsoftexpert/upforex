@@ -7,26 +7,20 @@
         <h1
           class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-bold md:tw-my-4 !tw-mb-8"
         >
-          UPFOREX Social & Copy Trading Program
-        </h1>
+           {{ 'UPFOREX Social & Copy Trading Program' | localize }} </h1>
         <p
           class="tw-text-xl tw-text-white tw-font-bold tw-tracking-wide tw-leading-relaxed !tw-mb-8"
         >
-          Trade Smarter. Earn More. Connect Globally.
-        </p>
+           {{ 'Trade Smarter. Earn More. Connect Globally.' | localize }} </p>
         <p
           class="tw-text-sm !tw-mb-8 tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
         >
-          At UPFOREX, we empower traders by connecting them with proven
-          strategies and expert professionals. Our Social & Copy Trading Program
-          allows you to follow, learn, or share winning strategies effortlessly.
-        </p>
+           {{ 'At UPFOREX, we empower traders by connecting them with proven strategies and expert professionals. Our Social & Copy Trading Program allows you to follow, learn, or share winning strategies effortlessly.' | localize }} </p>
 
         <p
           class="tw-text-xl tw-text-white tw-font-bold tw-tracking-wider tw-leading-relaxed tw-my-6"
         >
-          Who Can Join?
-        </p>
+           {{ 'Who Can Join?' | localize }} </p>
         <div
           class="tw-grid tw-grid-cols-1 sm:tw-grid-cols-2 lg:tw-grid-cols-3 tw-gap-4"
         >
@@ -41,11 +35,11 @@
                 class="tw-text-white tw-ml-4 tw-text-base lg:tw-text-lg !tw-mb-0"
               >
                 <b class="tw-text-themePrimary tw-text-base"
-                  >{{ item.boldText }}
+                  >{{ (item.boldText) | localize }}
                   <span *ngIf="item.subText"> : </span>
                 </b>
                 <span class="tw-text-sm">
-                  {{ item.subText }}
+                  {{ (item.subText) | localize }}
                 </span>
               </h5>
             </div>
@@ -55,8 +49,7 @@
         <p
           class="tw-text-xl tw-text-white tw-font-bold tw-tracking-wider tw-leading-relaxed tw-my-6"
         >
-          Why UPFOREX?
-        </p>
+           {{ 'Why UPFOREX?' | localize }} </p>
         <div class="tw-w-full">
           <div *ngFor="let item of whyJoin" class="md:tw-mx-2">
             <div
@@ -69,11 +62,11 @@
                 class="tw-text-white tw-ml-4 tw-text-base lg:tw-text-xl !tw-mb-0"
               >
                 <b class="tw-text-themePrimary tw-text-base lg:tw-text-xl"
-                  >{{ item.boldText }}
+                  >{{ (item.boldText) | localize }}
                   <span *ngIf="item.subText"> : </span>
                 </b>
                 <span class="tw-text-sm lg:tw-text-xl">
-                  {{ item.subText }}
+                  {{ (item.subText) | localize }}
                 </span>
               </h5>
             </div>
@@ -83,38 +76,32 @@
           <p
             class="tw-text-2xl tw-text-white tw-font-bold tw-tracking-wider tw-leading-relaxed"
           >
-            Start Your Trading Journey Today!
-          </p>
+             {{ 'Start Your Trading Journey Today!' | localize }} </p>
           <p
             class="tw-text-base tw-text-white tw-font-bold tw-tracking-wider tw-leading-relaxe"
           >
-            📩 Join Now -
-            <span>
+             {{ '📩 Join Now -' | localize }} <span>
               <button
                 class="tw-underline form-btn !tw-font-bold"
                 (click)="openForm()"
               >
-                Fill out the form
-              </button>
+                 {{ 'Fill out the form' | localize }} </button>
             </span>
-            or contact
-            <span>
+             {{ 'or contact' | localize }} <span>
               <a
                 class="tw-underline tw-text-themePrimary"
                 href="mailto:support@upforex.com"
                 >support&#64;upforex.com</a
               >
             </span>
-            to get started.
-          </p>
+             {{ 'to get started.' | localize }} </p>
         </div>
 
         <button
           class="btn btn-lg !tw-text-black !tw-font-semibold tw-mt-4"
           (click)="openForm()"
         >
-          Apply Now
-        </button>
+           {{ 'Apply Now' | localize }} </button>
       </div>
     </div>
   </div>

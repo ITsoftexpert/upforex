@@ -1,0 +1,27 @@
+{
+  "language": "de",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t09d95a15a9fde629",
+      "english": "<span data-i18n-slot=\"0\">Jumping into real-money trading can feel like diving into the deep end without learning to swim. For </span><span data-i18n-slot=\"1\">forex trading for beginners</span><span data-i18n-slot=\"2\">, a demo account is your life jacket. UpForex’s demo mirrors its live engine—real-time prices, identical spreads, charting tools, and order types—using a virtual </span><span data-i18n-slot=\"3\">₹10,000</span><span data-i18n-slot=\"4\"> balance. Below, we’ll compare demo vs. live trading, show you exactly how to leverage UpForex’s demo, walk you through signup, and point you toward the next step: trading with confidence.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Der Einstieg in den Echtgeldhandel kann sich wie ein Sprung ins tiefe Wasser anfühlen, ohne schwimmen gelernt zu haben. Für </span><span data-i18n-slot=\"1\">Forex-Handel für Anfänger</span><span data-i18n-slot=\"2\"> ist ein Demokonto Ihre Rettungsweste. Die Demo von UpForex bildet die Handelsumgebung des Echtkontos mit Echtzeitkursen, identischen Spreads, Chartwerkzeugen und Ordertypen nach und verwendet ein virtuelles Guthaben von </span><span data-i18n-slot=\"3\">₹10,000</span><span data-i18n-slot=\"4\">. Im Folgenden vergleichen wir Demo- und Echthandel, zeigen die Nutzung der UpForex-Demo, führen durch die Anmeldung und weisen auf den nächsten Schritt hin: mit Zuversicht zu handeln.</span>"
+    },
+    {
+      "key": "t31f5751234092fbc",
+      "english": "<span data-i18n-slot=\"0\"> Ensure your demo balance reads </span><span data-i18n-slot=\"1\">₹10,000</span><span data-i18n-slot=\"2\">, then add pairs like EUR/USD your watchlist.</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span><span data-i18n-slot=\"5\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"> Stellen Sie sicher, dass Ihr Demoguthaben </span><span data-i18n-slot=\"1\">₹10,000</span><span data-i18n-slot=\"2\"> beträgt, und fügen Sie dann Währungspaare wie EUR/USD zu Ihrer Beobachtungsliste hinzu.</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span><span data-i18n-slot=\"5\"></span></span>"
+    }
+  ]
+}

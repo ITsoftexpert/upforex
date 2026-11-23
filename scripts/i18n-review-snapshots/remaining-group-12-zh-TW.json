@@ -1,0 +1,790 @@
+{
+  "language": "zh-TW",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t7ab7384318261761",
+      "english": "forex demo account",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#tag",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "外匯模擬賬戶"
+    },
+    {
+      "key": "tab060a038c1d66e1",
+      "english": "FOREX DEMO ACCOUNT",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#upperTag",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "外匯模擬賬戶"
+    },
+    {
+      "key": "t42845b3099e42738",
+      "english": "forex real account",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#tag",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "外匯真實賬戶"
+    },
+    {
+      "key": "t6b8e3770655aeef8",
+      "english": "FOREX REAL ACCOUNT",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#upperTag",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "外匯真實賬戶"
+    },
+    {
+      "key": "t70d9fe7de84453c7",
+      "english": "Minimum Amount Required for Forex Trading | Complete Guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#title",
+        "SSR:/blogs",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "外匯交易所需的最低金額 |完整指南"
+    },
+    {
+      "key": "tc2c8715db9663cb3",
+      "english": "Minimum Amount to Start Forex Trading | Beginner’s Guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#metaTitle",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "開始外匯交易的最低金額 |初學者指南"
+    },
+    {
+      "key": "tc49abe4e2b0e94d4",
+      "english": "Learn the minimum amount to start forex trading in 2025. Beginner’s guide on deposits, account types, and safe tips to start trading.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#description",
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#descriptionSnippet",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "瞭解 2025 年開始外匯交易的最低金額。關於存款、賬戶型別和開始交易的安全提示的初學者指南。"
+    },
+    {
+      "key": "ta1c1486cf70b42ba",
+      "english": "forex trading guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#imageAltTag",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "外匯交易指南"
+    },
+    {
+      "key": "tdc6b56a6788d1aba",
+      "english": "Start Forex Trading with UpForex — Zero Commission",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#metaTitle",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "使用 UpForex 開始外匯交易 — 零佣金"
+    },
+    {
+      "key": "t2710c243aac72921",
+      "english": "Discover the benefits of real-time & zero commission forex trading platform with UpForex, a licensed broker offering ultra-tight spreads from 0.1 pips.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#description",
+        "CMS:blogs/zero-commission-forex-trading#descriptionSnippet",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "透過 UpForex 瞭解實時和零佣金外匯交易平臺的優勢，這是一家持牌經紀商，提供低至 0.1 點的超低點差。"
+    },
+    {
+      "key": "ted756ddb5ee0968f",
+      "english": "Zero commission forex trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#imageAltTag",
+        "CMS:blogs/forex-trading-with-instant-withdrawals#tag",
+        "SSR:/blogs/zero-commission-forex-trading",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ],
+      "translation": "零佣金外匯交易"
+    },
+    {
+      "key": "tb5803c46c6d83ea0",
+      "english": "Zero Spreads Forex Broker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#tag",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "零點差外匯經紀商"
+    },
+    {
+      "key": "tfa533c46391bb9a0",
+      "english": "ZERO SPREADS FOREX BROKER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#upperTag",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "零點差外匯經紀商"
+    },
+    {
+      "key": "t50498d958f649c09",
+      "english": "Zero commission trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#tag",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "零佣金交易"
+    },
+    {
+      "key": "t4a04cd95bb427249",
+      "english": "ZERO COMMISSION TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#upperTag",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "零佣金交易"
+    },
+    {
+      "key": "t2c9adeb4fc91f1b8",
+      "english": "Which Is the Most Trusted Broker and Best Regulated Forex Platform?",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#title",
+        "CMS:blogs/best-regulated-forex-platform#metaTitle",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "哪家是最值得信賴的經紀商，哪個是受監管的最佳外匯平台？"
+    },
+    {
+      "key": "tbc68cffddff467e1",
+      "english": "Best Regulated Forex Platform",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#imageAltTag",
+        "CMS:blogs/best-regulated-forex-platform#tag",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "最佳受監管外匯平台"
+    },
+    {
+      "key": "t4a6080fdf6a8dc61",
+      "english": "BEST REGULATED FOREX PLATFORM",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#upperTag",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "最佳受監管外匯平台"
+    },
+    {
+      "key": "t537490fd526b4da1",
+      "english": "Regulated Forex Platform",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#tag",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "受監管的外匯平臺"
+    },
+    {
+      "key": "t96a6695d7727efc1",
+      "english": "REGULATED FOREX PLATFORM",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#upperTag",
+        "CMS:blogs/forex-broker-with-fund-protection#upperTag",
+        "SSR:/blogs/best-regulated-forex-platform",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "受監管的外匯平臺"
+    },
+    {
+      "key": "tdbff8e7af0a108c0",
+      "english": "best forex Broker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#tag",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "最佳外匯經紀商"
+    },
+    {
+      "key": "t78909cba455f8bc0",
+      "english": "BEST FOREX BROKER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#upperTag",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "最佳外匯經紀商"
+    },
+    {
+      "key": "t4f644465b5a4cee7",
+      "english": "Best Forex Broker for Metatrader 5",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#tag",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "最佳外匯經紀商 Metatrader 5"
+    },
+    {
+      "key": "tcb6ec3a581560de7",
+      "english": "BEST FOREX BROKER FOR METATRADER 5",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#upperTag",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "最佳外匯經紀商 METATRADER 5"
+    },
+    {
+      "key": "tdf2d7478c04fcd58",
+      "english": "forex broker with fund protection",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#imageAltTag",
+        "CMS:blogs/forex-broker-with-fund-protection#tag",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "具有資金保護的外匯經紀商"
+    },
+    {
+      "key": "tc32b2d1dbcefcac1",
+      "english": "regulated forex platform",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#tag",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "受監管的外匯平臺"
+    },
+    {
+      "key": "t3e2cf87129e766a5",
+      "english": "Forex trading with instant withdrawals",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#tag",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "即時取款的外匯交易"
+    },
+    {
+      "key": "tc91b541193adc4c5",
+      "english": "FOREX TRADING WITH INSTANT WITHDRAWALS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#upperTag",
+        "CMS:blogs/forex-trading-with-instant-withdrawals#upperTag",
+        "SSR:/blogs/forex-broker-with-fund-protection",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ],
+      "translation": "即時取款的外匯交易"
+    },
+    {
+      "key": "tfc63e898bf4b7df8",
+      "english": "FOREX BROKER WITH FUND PROTECTION",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#upperTag",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "具有資金保護的外匯經紀商"
+    },
+    {
+      "key": "te707f902c72bf7b0",
+      "english": "Forex trading in the Middle East",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#imageAltTag",
+        "CMS:blogs/forex-trading-in-the-middle-east#tag",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "中東的外匯交易"
+    },
+    {
+      "key": "t0cba84c22d264fb0",
+      "english": "FOREX TRADING IN THE MIDDLE EAST",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#upperTag",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "中東的外匯交易"
+    },
+    {
+      "key": "t7c78e925f9e61ee3",
+      "english": "forex trading Legal",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#tag",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "外匯交易合法性"
+    },
+    {
+      "key": "t57c82ce5aaad8b23",
+      "english": "FOREX TRADING LEGAL",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#upperTag",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "外匯交易合法性"
+    },
+    {
+      "key": "td35ef211c1f340c5",
+      "english": "Forex Trading with Instant Withdrawals",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#imageAltTag",
+        "CMS:blogs/forex-trading-with-instant-withdrawals#tag",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ],
+      "translation": "即時取款的外匯交易"
+    },
+    {
+      "key": "t3a251438cf9301f6",
+      "english": "Forex Trading with Instant Withdrawal",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#tag",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ],
+      "translation": "即時取款的外匯交易"
+    },
+    {
+      "key": "tc53c6a18901c89d6",
+      "english": "FOREX TRADING WITH INSTANT WITHDRAWAL",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#upperTag",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ],
+      "translation": "即時提款的外匯交易"
+    },
+    {
+      "key": "tb69d57fbef075c2f",
+      "english": "ZERO COMMISSION FOREX TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#upperTag",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ],
+      "translation": "零佣金外匯交易"
+    },
+    {
+      "key": "t1f6ba9324e927104",
+      "english": "As volume starts to pick up (your real-time forex trading platform’s volume indicators or order flow tools can be very handy here), be alert for price approaching your marked support/resistance levels",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#descriptionSnippet",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi",
+        "SSR:/blogs/forex-trading-strategy-market-conditions",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-read-a-forex-quote",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading",
+        "SSR:/blogs/forex-correlation-explained",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/what-is-a-forex-currency-pair",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/why-retail-traders-lose-money",
+        "SSR:/blogs/otc-trading-in-uae",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide",
+        "SSR:/blogs/zero-commission-forex-trading",
+        "SSR:/blogs/best-regulated-forex-platform",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5",
+        "SSR:/blogs/forex-broker-with-fund-protection",
+        "SSR:/blogs/forex-trading-in-the-middle-east",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals",
+        "SSR:/blogs/best-forex-trading-platform",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "隨著交易量開始回升（您的實時外匯交易平臺的交易量指標或訂單流工具在這裡非常方便），請警惕價格接近您標記的支撐/阻力水平"
+    },
+    {
+      "key": "td699d88e98c92422",
+      "english": "Real-time forex trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#tag",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ],
+      "translation": "實時外匯交易"
+    },
+    {
+      "key": "t7b7c86ae71adbf42",
+      "english": "REAL-TIME FOREX TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#upperTag",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ],
+      "translation": "實時外匯交易"
+    },
+    {
+      "key": "tee2daecf6c6f96df",
+      "english": "forex trading platform",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#tag",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ],
+      "translation": "外匯交易平臺"
+    },
+    {
+      "key": "t0a82668ff064541f",
+      "english": "FOREX TRADING PLATFORM",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#upperTag",
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#upperTag",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "外匯交易平臺"
+    },
+    {
+      "key": "t1d066f84868a4820",
+      "english": "best forex trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#tag",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "最佳外匯交易"
+    },
+    {
+      "key": "t24baba440f900a60",
+      "english": "BEST FOREX TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#upperTag",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "最佳外匯交易"
+    },
+    {
+      "key": "t19fd10d44c5657ac",
+      "english": "best forex trading platforms",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#tag",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "最佳外匯交易平臺"
+    },
+    {
+      "key": "t2c8a4634aa6730cc",
+      "english": "BEST FOREX TRADING PLATFORMS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#upperTag",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "最佳外匯交易平臺"
+    },
+    {
+      "key": "t17cdfca86186e0cc",
+      "english": "Jumping into real-money trading can feel like diving into the deep end without learning to swim. For forex trading for beginners, a demo account is your life jacket.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#description",
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#descriptionSnippet",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi",
+        "SSR:/blogs/forex-trading-strategy-market-conditions",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-read-a-forex-quote",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading",
+        "SSR:/blogs/forex-correlation-explained",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/what-is-a-forex-currency-pair",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/why-retail-traders-lose-money",
+        "SSR:/blogs/otc-trading-in-uae",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide",
+        "SSR:/blogs/zero-commission-forex-trading",
+        "SSR:/blogs/best-regulated-forex-platform",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5",
+        "SSR:/blogs/forex-broker-with-fund-protection",
+        "SSR:/blogs/forex-trading-in-the-middle-east",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts",
+        "SSR:/blogs/best-forex-trading-platform",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "跳入真實貨幣交易感覺就像在沒有學會游泳的情況下跳入深淵。對於外匯交易初學者來說，模擬賬戶就是你的救生衣。"
+    },
+    {
+      "key": "tc08a883064cca6b6",
+      "english": "forex trading for beginners",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#imageAltTag",
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#tag",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "適合初學者的外匯交易"
+    },
+    {
+      "key": "t69c68f70f2aaf836",
+      "english": "FOREX TRADING FOR BEGINNERS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#upperTag",
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#upperTag",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "初學者外匯交易"
+    },
+    {
+      "key": "t9efd26efc80ffc3f",
+      "english": "Forex trading platform",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#tag",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "外匯交易平臺"
+    },
+    {
+      "key": "t636b55cc94169770",
+      "english": "How To Start Forex Trading for Beginners: A Guide To Making Money",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#title",
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#metaTitle",
+        "SSR:/blogs",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi",
+        "SSR:/blogs/forex-trading-strategy-market-conditions",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-read-a-forex-quote",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading",
+        "SSR:/blogs/forex-correlation-explained",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/what-is-a-forex-currency-pair",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/why-retail-traders-lose-money",
+        "SSR:/blogs/otc-trading-in-uae",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide",
+        "SSR:/blogs/zero-commission-forex-trading",
+        "SSR:/blogs/best-regulated-forex-platform",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5",
+        "SSR:/blogs/forex-broker-with-fund-protection",
+        "SSR:/blogs/forex-trading-in-the-middle-east",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts",
+        "SSR:/blogs/best-forex-trading-platform",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "初學者如何開始外匯交易：賺錢指南"
+    },
+    {
+      "key": "t2db92b9c36ac8042",
+      "english": "Forex Trading for Beginners will equip you with the essentials—from understanding currency pairs and market hours to placing your first demo trade—so you can start your journey.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#description",
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#descriptionSnippet",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi",
+        "SSR:/blogs/forex-trading-strategy-market-conditions",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-read-a-forex-quote",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading",
+        "SSR:/blogs/forex-correlation-explained",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/what-is-a-forex-currency-pair",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/why-retail-traders-lose-money",
+        "SSR:/blogs/otc-trading-in-uae",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide",
+        "SSR:/blogs/zero-commission-forex-trading",
+        "SSR:/blogs/best-regulated-forex-platform",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5",
+        "SSR:/blogs/forex-broker-with-fund-protection",
+        "SSR:/blogs/forex-trading-in-the-middle-east",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts",
+        "SSR:/blogs/best-forex-trading-platform",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "外匯交易初學者將為您提供從瞭解貨幣對和市場交易時間到進行首次模擬交易的必備知識，以便您可以開始您的旅程。"
+    },
+    {
+      "key": "t99b01c50a6303816",
+      "english": "Forex Trading for Beginners",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#imageAltTag",
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#tag",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "初學者外匯交易"
+    },
+    {
+      "key": "t4af395354c32adcb",
+      "english": "How To Start Forex Trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#tag",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "如何開始外匯交易"
+    },
+    {
+      "key": "t1598981517e0f92b",
+      "english": "HOW TO START FOREX TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#upperTag",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "如何開始外匯交易"
+    },
+    {
+      "key": "tdda6d61b5bb9556b",
+      "english": "Forex Trading Alt Tag",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading#videoAltTag"
+      ],
+      "translation": "外匯交易替代標籤"
+    },
+    {
+      "key": "t545359720dcd989c",
+      "english": "Smart",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trump-tarrif#videoAltTag"
+      ],
+      "translation": "智慧"
+    },
+    {
+      "key": "t9fa384170d7b1b0b",
+      "english": "TRUMP",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trump-tarrif#upperTag",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "特朗普"
+    },
+    {
+      "key": "tf1e831f7bfa185eb",
+      "english": "Tariff",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trump-tarrif#tag",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "關稅"
+    },
+    {
+      "key": "t99b40297bd6f648b",
+      "english": "TARIFF",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trump-tarrif#upperTag",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "關稅"
+    },
+    {
+      "key": "t3dc2d53b0c875ecf",
+      "english": "BLEED",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trump-tarrif#upperTag",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "出血"
+    }
+  ]
+}

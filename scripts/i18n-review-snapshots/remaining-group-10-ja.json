@@ -1,0 +1,858 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t6f6b67242353ea00",
+      "english": "ForexBroker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#tag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "外国為替ブローカー"
+    },
+    {
+      "key": "t7268954467f82360",
+      "english": "FOREXBROKER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#upperTag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "外国為替ブローカー"
+    },
+    {
+      "key": "tc40540d5b426a7bf",
+      "english": "BrokerComparison",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#tag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "ブローカーの比較"
+    },
+    {
+      "key": "tea0360d5d116cabf",
+      "english": "BROKERCOMPARISON",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#upperTag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "ブローカーの比較"
+    },
+    {
+      "key": "t712a766249d10334",
+      "english": "TradingAccounts",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#tag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "取引口座"
+    },
+    {
+      "key": "t39ee5942d7b14354",
+      "english": "TRADINGACCOUNTS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#upperTag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "取引口座"
+    },
+    {
+      "key": "t286fe971f0ea9697",
+      "english": "StockCFDs",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#tag",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "株式CFD"
+    },
+    {
+      "key": "t9eef3211917b96b7",
+      "english": "STOCKCFDS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#upperTag",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "株式CFD"
+    },
+    {
+      "key": "t893e8697e259625f",
+      "english": "Stop-Loss & Take-Profit Risk Management Guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#metaTitle",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "ストップロスとテイクプロフィットのリスク管理ガイド"
+    },
+    {
+      "key": "te19cb9adcf79eeb5",
+      "english": "Stop-Loss & Take-Profit",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#imageAltTag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "ストップロスとテイクプロフィット"
+    },
+    {
+      "key": "td86a24c47e65da68",
+      "english": "TakeProfit",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#tag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "テイクプロフィット"
+    },
+    {
+      "key": "t81524e041426e628",
+      "english": "TAKEPROFIT",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#upperTag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "利食い"
+    },
+    {
+      "key": "t8958729507d3f13f",
+      "english": "TrailingStop",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#tag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "トレーリングストップ"
+    },
+    {
+      "key": "tcecd2b958cd6e9bf",
+      "english": "TRAILINGSTOP",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#upperTag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "トレーリングストップ"
+    },
+    {
+      "key": "t28ebf7b50faa1ed1",
+      "english": "RiskReward",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#tag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "リスクリワード"
+    },
+    {
+      "key": "t8435b2f5a54a2291",
+      "english": "RISKREWARD",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#upperTag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "リスクリワード"
+    },
+    {
+      "key": "tf15a6de85f5dc0d8",
+      "english": "Best Trading Hours for Middle East Traders (Session Overlaps)",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#title",
+        "SSR:/blogs",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "中東のトレーダーにとって最適な取引時間 (セッションの重複)"
+    },
+    {
+      "key": "t130d58550a0df4e7",
+      "english": "Best Trading Hours for Middle East Traders",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#metaTitle",
+        "CMS:blogs/best-trading-hours-middle-east-traders#imageAltTag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "中東のトレーダーにとって最適な取引時間帯"
+    },
+    {
+      "key": "tc2e9a6119575aa55",
+      "english": "TradingHours",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#tag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "取引時間"
+    },
+    {
+      "key": "tf00c28116d54f695",
+      "english": "TRADINGHOURS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#upperTag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "取引時間"
+    },
+    {
+      "key": "tffbaa2aa3ec30448",
+      "english": "MiddleEastTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#tag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "中東での金融取引"
+    },
+    {
+      "key": "t3d25a4ea23483548",
+      "english": "MIDDLEEASTTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#upperTag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "中東での金融取引"
+    },
+    {
+      "key": "tcca426fcc6fcd16e",
+      "english": "ForexSessions",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#tag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "外国為替セッション"
+    },
+    {
+      "key": "taadabe9cf5d74d4e",
+      "english": "FOREXSESSIONS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#upperTag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "外国為替セッション"
+    },
+    {
+      "key": "t7f62ab406db48626",
+      "english": "GoldTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#tag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "金取引"
+    },
+    {
+      "key": "tcc7d93e0f8861106",
+      "english": "GOLDTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#upperTag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "金取引"
+    },
+    {
+      "key": "t787f054d49c5acad",
+      "english": "NasdaqGST",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#tag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "ナスダックGST"
+    },
+    {
+      "key": "tdc77a82db66f514d",
+      "english": "NASDAQGST",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#upperTag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "ナスダックGST"
+    },
+    {
+      "key": "t64c873c6e52a2ef2",
+      "english": "Leverage & Margin Explained (With Real Examples)",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#title",
+        "SSR:/blogs",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "レバレッジとマージンの説明（実際の例を使用）"
+    },
+    {
+      "key": "t39ad4cbccce2d006",
+      "english": "Learn leverage, margin, margin level, and margin calls through clear formulas and worked trading examples before placing a trade.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#description",
+        "CMS:blogs/forex-leverage-and-margin-explained#descriptionSnippet",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "取引を行う前に、明確な計算式と実際の取引例を通じて、レバレッジ、マージン、マージンレベル、マージンコールを学びましょう。"
+    },
+    {
+      "key": "t0c4b0e6615a5fd96",
+      "english": "Forex Leverage & Margin Explained",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#imageAltTag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "外国為替レバレッジと証拠金の説明"
+    },
+    {
+      "key": "tf84375528dc24ee8",
+      "english": "ForexLeverage",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#tag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "外国為替レバレッジ"
+    },
+    {
+      "key": "tcf5ca7b2dfac4a48",
+      "english": "FOREXLEVERAGE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#upperTag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "フォレックスレバレッジ"
+    },
+    {
+      "key": "ta6be1ecc397c1098",
+      "english": "TradingMargin",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#tag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "取引証拠金"
+    },
+    {
+      "key": "t01c62dac087acdf8",
+      "english": "TRADINGMARGIN",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#upperTag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "取引マージン"
+    },
+    {
+      "key": "t181f6e3f82b952b3",
+      "english": "StopOut",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#tag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "ストップアウト"
+    },
+    {
+      "key": "t2b82bb1fcb0795d3",
+      "english": "STOPOUT",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#upperTag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "ストップアウト"
+    },
+    {
+      "key": "te0b99df3b4b984c1",
+      "english": "Top 10 Mistakes New Forex/CFD Traders Make",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#title",
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#metaTitle",
+        "SSR:/blogs",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "外国為替/CFDの初心者トレーダーが犯す間違いトップ10"
+    },
+    {
+      "key": "t33cb3452c010f36a",
+      "english": "10 Mistakes New Forex/CFD Traders Make",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#imageAltTag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "外国為替/CFDの初心者トレーダーが犯す10の間違い"
+    },
+    {
+      "key": "t8005b9401799d79c",
+      "english": "ForexMistakes",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#tag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "外国為替の間違い"
+    },
+    {
+      "key": "t211114204c5892bc",
+      "english": "FOREXMISTAKES",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#upperTag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "外国為替の間違い"
+    },
+    {
+      "key": "t38ae7bd1beb790e5",
+      "english": "TradingRisk",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#tag",
+        "CMS:blogs/why-retail-traders-lose-money#tag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "取引リスク"
+    },
+    {
+      "key": "t678bfe31fb8fa885",
+      "english": "TRADINGRISK",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#upperTag",
+        "CMS:blogs/why-retail-traders-lose-money#upperTag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "取引リスク"
+    },
+    {
+      "key": "tdcb7734c7323d818",
+      "english": "BeginnerTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#tag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "初心者トレーディング"
+    },
+    {
+      "key": "td780ceec9d51d5f8",
+      "english": "BEGINNERTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#upperTag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "初心者トレーディング"
+    },
+    {
+      "key": "t122710d3f193df45",
+      "english": "TradingPsychology",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#tag",
+        "CMS:blogs/why-retail-traders-lose-money#tag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "トレーディング心理学"
+    },
+    {
+      "key": "ta5f70ef3fd44fba5",
+      "english": "TRADINGPSYCHOLOGY",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#upperTag",
+        "CMS:blogs/why-retail-traders-lose-money#upperTag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "トレーディング心理学"
+    },
+    {
+      "key": "t25b2e8d94d929475",
+      "english": "How to Use MT5 Expert Advisors (EAs): A Beginner's Guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#title",
+        "SSR:/blogs",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide",
+        "SSR:/blogs/forex-trading",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "MT5 エキスパートアドバイザー (EA) の使用方法: 初心者ガイド"
+    },
+    {
+      "key": "t1048f3aaaf66c7a0",
+      "english": "MT5ExpertAdvisors",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#tag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "MT5エキスパートアドバイザー"
+    },
+    {
+      "key": "t34aa4aa27a33d1d0",
+      "english": "AutomatedTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#tag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "自動取引"
+    },
+    {
+      "key": "t10c94ee2c36b3550",
+      "english": "AUTOMATEDTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#upperTag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "自動取引"
+    },
+    {
+      "key": "t2b66d713f813605d",
+      "english": "EAInstallation",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#tag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "EAインストール"
+    },
+    {
+      "key": "tc1d340b3c94bd47d",
+      "english": "EAINSTALLATION",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#upperTag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "EAのインストール"
+    },
+    {
+      "key": "tb8956e60beaeb58c",
+      "english": "TradingBots",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#tag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "トレーディングボット"
+    },
+    {
+      "key": "t8d880640fb86ef6c",
+      "english": "TRADINGBOTS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#upperTag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "トレーディングボット"
+    },
+    {
+      "key": "tf4c54c6ef3e6a832",
+      "english": "Candlestick Patterns 101: How to Read Charts Like a Pro",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#title",
+        "SSR:/blogs",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "ローソク足パターン 101: プロのようにチャートを読む方法"
+    },
+    {
+      "key": "te1124908c01fc0c6",
+      "english": "Candlestick Patterns: How to Read Trading Charts",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#metaTitle",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "ローソク足パターン: 取引チャートの読み方"
+    },
+    {
+      "key": "t97f8ecac7c0d3dfe",
+      "english": "Learn candlestick patterns, read charts, and confirm bullish, bearish, and reversal signals with practical UpForex guidance.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#description",
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#descriptionSnippet",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "実用的な UpForex ガイダンスに従って、ローソク足のパターンを学び、チャートを読み、強気、弱気、反転シグナルを確認します。"
+    },
+    {
+      "key": "t0e31aab3fc693a39",
+      "english": "Candlestick Patterns",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#imageAltTag",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "ローソク足パターン"
+    },
+    {
+      "key": "t0c52dd6346d44119",
+      "english": "CandlestickPatterns",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#tag",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "ローソク足パターン"
+    },
+    {
+      "key": "t8c3d0f8303a11839",
+      "english": "CANDLESTICKPATTERNS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#upperTag",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "ローソク足パターン"
+    },
+    {
+      "key": "te4872e7a91530684",
+      "english": "TECHNICALANALYSIS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#upperTag",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "技術分析"
+    },
+    {
+      "key": "t873f1e40729dfff2",
+      "english": "ChartPatterns",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#tag",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "チャートパターン"
+    },
+    {
+      "key": "te85631202f3b2cd2",
+      "english": "CHARTPATTERNS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#upperTag",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "チャートパターン"
+    },
+    {
+      "key": "te6ec772f76afd319",
+      "english": "Why Do Most Retail Traders Lose Money? The Reality of Trading Risk",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#title",
+        "CMS:blogs/why-retail-traders-lose-money#metaTitle",
+        "SSR:/blogs",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/why-retail-traders-lose-money",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "個人トレーダーの多くが損失を被るのはなぜですか？取引リスクの現実"
+    },
+    {
+      "key": "t599d51b843187380",
+      "english": "Retail Traders Lose Money",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#imageAltTag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "個人トレーダーが損失を被る"
+    },
+    {
+      "key": "tc3c1261b4a7714c1",
+      "english": "RetailTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#tag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "個人投資家の取引"
+    },
+    {
+      "key": "t472d253b08e31361",
+      "english": "RETAILTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#upperTag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "個人投資家の取引"
+    },
+    {
+      "key": "tdc8f1b5acc596220",
+      "english": "ForexRisk",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#tag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "外国為替リスク"
+    },
+    {
+      "key": "t3e31263a9f46de40",
+      "english": "FOREXRISK",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#upperTag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "為替リスク"
+    },
+    {
+      "key": "t9f44f729fb99794d",
+      "english": "LeverageRisk",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#tag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "レバレッジのリスク"
+    },
+    {
+      "key": "tc69f7ee9fd07f80d",
+      "english": "LEVERAGERISK",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#upperTag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "レバレッジリスク"
+    },
+    {
+      "key": "te8baaf39a7bbb8b1",
+      "english": "Gold CFD Trading in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#imageAltTag",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "UAEでの金CFD取引"
+    },
+    {
+      "key": "t7e6ef9a36e2a6d03",
+      "english": "Want to invest in gold in the UAE? Discover 5 practical ways to invest in gold in Dubai in 2026, from physical gold to CFDs, with tips for beginners.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#description",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#descriptionSnippet",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "UAEの金に投資したいですか?初心者向けのヒントとともに、現物の金から CFD まで、2026 年のドバイで金に投資するための 5 つの実用的な方法をご覧ください。"
+    },
+    {
+      "key": "t9da2ba6a8345eecc",
+      "english": "how to invest in gold in uae",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#imageAltTag",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "アラブ首長国連邦で金に投資する方法"
+    }
+  ]
+}

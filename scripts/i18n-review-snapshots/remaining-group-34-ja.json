@@ -1,0 +1,327 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t5e008d2e26b1bf66",
+      "english": "<span data-i18n-slot=\"0\">Broker quotes or liquidity-provider pricing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ブローカー相場または流動性プロバイダーの価格設定</span>"
+    },
+    {
+      "key": "t11de50fb6797241b",
+      "english": "<span data-i18n-slot=\"0\">Public order book</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">公開された注文板</span>"
+    },
+    {
+      "key": "t4ec9b22ddc2eec43",
+      "english": "<span data-i18n-slot=\"0\">Exchange and regulator oversight</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引所と規制当局の監視</span>"
+    },
+    {
+      "key": "ta681c36c6e08e2f2",
+      "english": "<span data-i18n-slot=\"0\">Securities and Commodities Authority</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証券商品局</span>"
+    },
+    {
+      "key": "t62957fa8bc0efaaa",
+      "english": "<span data-i18n-slot=\"0\">Crypto-Linked Products</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">暗号通貨にリンクされた製品</span>"
+    },
+    {
+      "key": "t709f3bcefe729f38",
+      "english": "<span data-i18n-slot=\"0\">Bonds, Sukuk, and Structured Products</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">債券、スクーク、仕組み商品</span>"
+    },
+    {
+      "key": "t24a226755a9b7863",
+      "english": "<span data-i18n-slot=\"0\">Dubai has become a major financial hub in the region. Its location between Europe, Asia, and the Middle East makes it a practical center for international trading and brokerage activity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ドバイはこの地域の主要な金融ハブとなっています。ヨーロッパ、アジア、中東の間に位置するため、国際貿易と仲介活動の実質的な中心地となっています。</span>"
+    },
+    {
+      "key": "t9c2d14527d6b3c40",
+      "english": "<span data-i18n-slot=\"0\">The Dubai International Financial Centre plays a big role in that ecosystem. It hosts financial institutions, brokers, and investment firms that serve regional and international clients. That makes Dubai an important base for traders who want access to regulated financial products.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ドバイ国際金融センターは、そのエコシステムにおいて大きな役割を果たしています。地域内および海外の顧客にサービスを提供する金融機関、ブローカー、投資会社をホストしています。そのため、ドバイは規制された金融商品へのアクセスを求めるトレーダーにとって重要な拠点となっています。</span>"
+    },
+    {
+      "key": "t4ca72d9e5e79296c",
+      "english": "<span data-i18n-slot=\"0\">Pricing and Execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">価格設定と約定</span>"
+    },
+    {
+      "key": "td07611d95f5ace23",
+      "english": "<span data-i18n-slot=\"0\">If You Are New to Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引が初めての場合</span>"
+    },
+    {
+      "key": "t1baf6808533c0cf0",
+      "english": "<span data-i18n-slot=\"0\">If You Are an Active Trader</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アクティブトレーダーの場合</span>"
+    },
+    {
+      "key": "tf4bb5992502115fa",
+      "english": "<span data-i18n-slot=\"0\">If You Are Hedging Exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">リスクをヘッジしている場合</span>"
+    },
+    {
+      "key": "tf957bb3e88d6c86e",
+      "english": "<span data-i18n-slot=\"0\">You can access a wide range of global instruments from one account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一 つのアカウントから幅広いグローバル商品にアクセスできます。</span>"
+    },
+    {
+      "key": "tfc6a0bf8de9eb590",
+      "english": "<span data-i18n-slot=\"0\">You can access instruments not listed on UAE exchanges.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UAE 取引所にリストされていない商品にもアクセスできます。</span>"
+    },
+    {
+      "key": "t21bfbccba8548471",
+      "english": "<span data-i18n-slot=\"0\">You rely on the provider to handle your trade correctly and meet its obligations. If the provider is unregulated or poorly managed, your risk rises.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">お客様は、取引を正しく処理し、その義務を履行するためにプロバイダーを信頼しています。プロバイダーが規制されていなかったり、管理が不十分だったりすると、リスクが高まります。</span>"
+    },
+    {
+      "key": "tdbd94ae8842739d4",
+      "english": "<span data-i18n-slot=\"0\">Leverage can magnify both profits and losses. A small move in the market can have a much larger effect on your account than you expect.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジを活用すると、利益と損失の両方が拡大する可能性があります。市場の小さな動きは、予想よりもはるかに大きな影響をアカウントに与える可能性があります。</span>"
+    },
+    {
+      "key": "tb90794e0a72dc398",
+      "english": "<span data-i18n-slot=\"0\">Market Volatility</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市場のボラティリティ</span>"
+    },
+    {
+      "key": "t38f4f58cfd31e2dc",
+      "english": "<span data-i18n-slot=\"0\">Is OTC trading legal in Dubai?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ドバイでは店頭取引は合法ですか?</span>"
+    },
+    {
+      "key": "te5f9509bc78a0e59",
+      "english": "<span data-i18n-slot=\"0\">What can you trade OTC?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">OTCでは何を取引できますか?</span>"
+    },
+    {
+      "key": "t687a1c9483c2d326",
+      "english": "<span data-i18n-slot=\"0\">Yes, OTC trading carries market risk, leverage risk, counterparty risk, and regulatory risk. You should always trade with caution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">はい、店頭取引には市場リスク、レバレッジリスク、取引相手リスク、規制リスクが伴います。常に注意して取引する必要があります。</span>"
+    },
+    {
+      "key": "tef9ed50ef765f776",
+      "english": "<span data-i18n-slot=\"0\">Some popular indices you can trade are:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引できる人気の指数は次のとおりです。</span>"
+    },
+    {
+      "key": "tc63753df6afa21a9",
+      "english": "<span data-i18n-slot=\"0\">1. S&amp;P 500</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. NASDAQ 100</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. Dow Jones</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. FTSE 100</span><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\">5. DAX 40</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. S&amp;P 500</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">2. NASDAQ 100</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">3. ダウ・ジョーンズ</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">4. FTSE 100</span><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\">5. DAX 40</span>"
+    },
+    {
+      "key": "t768972c0f791f730",
+      "english": "<span data-i18n-slot=\"0\">Here’s how it works for you:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">仕組みは次のとおりです。</span>"
+    },
+    {
+      "key": "t28cad93adf6dcab0",
+      "english": "<span data-i18n-slot=\"0\">This gives you more flexibility.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これにより、柔軟性がさらに高まります。</span>"
+    },
+    {
+      "key": "t36b734d657a489b4",
+      "english": "<span data-i18n-slot=\"0\">3. Leverage Opportunities</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. レバレッジを利用する機会</span>"
+    },
+    {
+      "key": "tdd9928c3b1da6a99",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Diversification</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. 多様化</span></span>"
+    },
+    {
+      "key": "t1552f1b6675d65aa",
+      "english": "<span data-i18n-slot=\"0\">Instead of putting money into one company, you trade a full index. This spreads your risk and makes your strategy more balanced.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一 つの企業に資金を投入するのではなく、インデックス全体を取引します。これによりリスクが分散され、戦略のバランスがより良くなります。</span>"
+    },
+    {
+      "key": "t339a8cb306a5046b",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Step 4: Open a Trade</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">ステップ 4: 取引を開始する</span></span>"
+    },
+    {
+      "key": "t64f147ebe717b383",
+      "english": "<span data-i18n-slot=\"0\">Here’s why many traders prefer </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">CFD index</span></span><span data-i18n-slot=\"3\"> trading</span><span data-i18n-slot=\"4\">:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多くのトレーダーが</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">CFD インデックス</span></span><span data-i18n-slot=\"3\">取引</span><span data-i18n-slot=\"4\">を好む理由は次のとおりです:</span>"
+    },
+    {
+      "key": "t119748285d005292",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Lower Capital Needed</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. 必要な資本が少なくて済む</span></span>"
+    },
+    {
+      "key": "t08ed0b75c3e75f7b",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Flexible Trading Hours</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. 柔軟な取引時間</span></span>"
+    },
+    {
+      "key": "t29c5f444d434eb14",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Diversify Your Trades</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. 取引を多様化する</span></span>"
+    }
+  ]
+}

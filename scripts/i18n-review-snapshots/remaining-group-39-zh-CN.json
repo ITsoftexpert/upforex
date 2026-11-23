@@ -1,0 +1,457 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tc1e55348f552c5b8",
+      "english": "<span data-i18n-slot=\"0\">Competitive spreads</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有竞争力的点差</span>"
+    },
+    {
+      "key": "tc266967dcda3b51f",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Is CFD Index Trading Right for You?</span></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">差价合约指数交易适合您吗？</span></span></span>"
+    },
+    {
+      "key": "teb587e4d4ba80e05",
+      "english": "<span data-i18n-slot=\"0\">CFD index trading offers a powerful way to trade global markets through flexible OTC contracts. When used responsibly,<span data-i18n-slot=\"1\"> it provides</span>:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">差价合约指数交易提供了一种通过灵活的场外合约交易全球市场的强大方式。当负责任地使用时，<span data-i18n-slot=\"1\">它提供</span>：</span>"
+    },
+    {
+      "key": "t739362fac20be930",
+      "english": "<span data-i18n-slot=\"0\">What to Look For</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#content",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">寻找什么</span>"
+    },
+    {
+      "key": "tcc32d88b5d7653e5",
+      "english": "<span data-i18n-slot=\"0\">Smart Risk-Control Practices</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#content",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">智能风控实践</span>"
+    },
+    {
+      "key": "tf3e2fa9c9ddc021e",
+      "english": "<span data-i18n-slot=\"0\">Staying Updated with Global Developments</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#content",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">及时了解全球发展动态</span>"
+    },
+    {
+      "key": "t1703e18f8d3bb819",
+      "english": "<span data-i18n-slot=\"0\">If you are new to forex trading, one of the first terms you will come across is spread. Many beginners wonder, </span><span data-i18n-slot=\"1\">what is spread in forex and why does it matter?</span><span data-i18n-slot=\"2\"> The answer is simple—spread is a small but important factor that can affect your trading costs and overall profit. Let’s break it down in easy-to-understand language.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果您是外汇交易新手，您首先遇到的术语之一就是点差。许多初学者想知道，</span><span data-i18n-slot=\"1\">外汇中的点差是多少，为什么它很重要？</span><span data-i18n-slot=\"2\">答案很简单 - 点差是一个很小但很重要的因素，可以影响您的交易成本和整体利润。让我们用易于理解的语言来分解它。</span>"
+    },
+    {
+      "key": "t7695f2ab721d4681",
+      "english": "<span data-i18n-slot=\"0\">What Does Spread Mean in Forex Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇交易中的点差意味着什么？</span>"
+    },
+    {
+      "key": "tbae8c8046e0deefc",
+      "english": "<span data-i18n-slot=\"0\">In forex trading, spread is the difference between the buy price (also called the </span><span data-i18n-slot=\"1\">ask</span><span data-i18n-slot=\"2\">) and the sell price (also called the </span><span data-i18n-slot=\"3\">bid</span><span data-i18n-slot=\"4\">) of a currency pair. You can think of it as the broker’s fee for executing your trade. Instead of charging you a direct commission, most forex brokers include their charges in the spread.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在外汇交易中，点差是货币对的买入价（也称为 </span><span data-i18n-slot=\"1\">要价</span><span data-i18n-slot=\"2\">）和卖出价（也称为 </span><span data-i18n-slot=\"3\">出价</span><span data-i18n-slot=\"4\">）之间的差额。您可以将其视为经纪商执行交易的费用。大多数外汇经纪商不会直接向您收取佣金，而是将其费用包含在点差中。</span>"
+    },
+    {
+      "key": "te4793b6e3f807a28",
+      "english": "<span data-i18n-slot=\"0\">Why is Spread Important in Forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">为什么点差在外汇中很重要？</span>"
+    },
+    {
+      "key": "tc203c736c1f8e01e",
+      "english": "<span data-i18n-slot=\"0\">Understanding what is spread in </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex</span></span><span data-i18n-slot=\"3\"> is important because it directly impacts your cost per trade. A tighter (smaller) spread means you spend less money when entering or exiting a trade. On the other hand, a wider spread increases your trading cost. For scalpers and day traders who place multiple trades in a single day, choosing a broker with low spreads can make a big difference in overall profitability.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">了解</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">外汇</span></span><span data-i18n-slot=\"3\">点差很重要，因为它直接影响每笔交易的成本。点差越窄，入场或离场时的成本越低；点差越宽，交易成本越高。对于每天进行多笔交易的剥头皮及日内交易者，选择低点差经纪商可能显著影响整体盈利能力。</span>"
+    },
+    {
+      "key": "tb706efa02855277c",
+      "english": "<span data-i18n-slot=\"0\">Types of Spreads in Forex</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇点差类型</span>"
+    },
+    {
+      "key": "t5d03c80349f9285d",
+      "english": "<span data-i18n-slot=\"0\">When trading, you will usually come across two types of spreads:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易时，您通常会遇到两种类型的点差：</span>"
+    },
+    {
+      "key": "t918faa5d694ee2f5",
+      "english": "<span data-i18n-slot=\"0\">Variable Spread</span><span data-i18n-slot=\"1\"> – The spread changes depending on market activity. During high liquidity times (like London or New York sessions), spreads are usually tighter. However, during quiet hours or major news events, spreads can widen.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可变点差</span><span data-i18n-slot=\"1\"> – 点差根据市场活动而变化。在高流动性时期（例如伦敦或纽约交易时段），点差通常会更小。然而，在安静时段或重大新闻事件期间，价差可能会扩大。</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span></span>"
+    },
+    {
+      "key": "t42a418517235081b",
+      "english": "<span data-i18n-slot=\"0\">How Does Spread Affect Profit?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差如何影响利润？</span>"
+    },
+    {
+      "key": "tbfdbc1cc51ac1d48",
+      "english": "<span data-i18n-slot=\"0\">Every time you place a trade, the spread acts like your entry cost. For example, if the spread is 2 pips, your trade must move at least 2 pips in your favor before you start making a profit. This is why experienced traders often compare brokers and choose one with consistently low spreads.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每次您进行交易时，点差就相当于您的入场成本。例如，如果点差为 2 点，您的交易必须至少向对您有利的方向移动 2 点，然后您才能开始盈利。这就是为什么经验丰富的交易者经常对经纪商进行比较并选择点差始终较低的经纪商。</span>"
+    },
+    {
+      "key": "tca4a83c2e589fff2",
+      "english": "<span data-i18n-slot=\"0\">Now that you know what is spread in forex, you can see how it plays a vital role in trading. It may seem like a small detail, but in reality, understanding spreads can help you reduce costs and improve your overall trading results. As a beginner, always pay attention to spreads when selecting a broker or planning your strategy.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">既然您知道了外汇中的点差，您就可以看到它如何在交易中发挥重要作用。这看起来似乎是一个小细节，但实际上，了解点差可以帮助您降低成本并改善整体交易结果。作为初学者，在选择经纪商或规划策略时请始终注意点差。</span>"
+    },
+    {
+      "key": "t79945aa194e46fc5",
+      "english": "<span data-i18n-slot=\"0\">Q1. What is spread in forex trading?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans.</span><span data-i18n-slot=\"4\"> Spread in forex is the difference between the bid (sell) price and the ask (buy) price of a currency pair. It represents the broker’s fee for executing your trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q1。什么是外汇交易中的点差？</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">答。</span><span data-i18n-slot=\"4\">外汇中的点差是货币对的买入（卖出）价格和卖出（买入）价格之间的差额。它代表经纪商执行您的交易的费用。</span>"
+    },
+    {
+      "key": "t740fc3582cd28da2",
+      "english": "<span data-i18n-slot=\"0\">Q2. Why is spread important in forex?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans.</span><span data-i18n-slot=\"4\"> Spread affects your trading cost. A lower spread means you pay less when entering or exiting trades, which can improve your profits over time.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q2. 为什么外汇点差很重要？</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">答：</span><span data-i18n-slot=\"4\">点差影响交易成本。较低的点差意味着入场或离场时支付更少，长期可能改善利润。</span>"
+    },
+    {
+      "key": "t5a05cc401c4f0940",
+      "english": "<span data-i18n-slot=\"0\">Q3. What is the difference between fixed and variable spread?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans.</span><span data-i18n-slot=\"4\"> A fixed spread stays the same regardless of market conditions, while a variable spread changes based on liquidity and volatility.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q3。固定点差和可变点差有什么区别？</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">答。</span><span data-i18n-slot=\"4\">无论市场状况如何，固定点差都保持不变，而可变点差则根据流动性和波动性而变化。</span>"
+    },
+    {
+      "key": "t65d3778cea4d0420",
+      "english": "<span data-i18n-slot=\"0\">Q4. How do spreads affect profit in forex trading?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans.</span><span data-i18n-slot=\"4\"> Your trade must first cover the spread before you start making a profit. For example, if the spread is 2 pips, the market needs to move at least 2 pips in your favor to break even.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q4. 点差如何影响外汇交易利润？</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">答：</span><span data-i18n-slot=\"4\">交易必须先弥补点差成本，才能开始盈利。例如，点差为2个pip时，市场至少需要向有利方向移动2个pip才能达到盈亏平衡。</span>"
+    },
+    {
+      "key": "t712a00cf4a9c71e3",
+      "english": "<span data-i18n-slot=\"0\">Q5. What are pips in forex spreads?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans</span><span data-i18n-slot=\"4\">. A pip is the smallest unit of movement in a currency pair, usually the fourth decimal place. Spreads are measured in pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q5。外汇点差中的点是什么？</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">答</span><span data-i18n-slot=\"4\">。点是货币对中最小的变动单位，通常是小数点后第四位。点差以点为单位。</span>"
+    },
+    {
+      "key": "t891120f1040250e1",
+      "english": "<span data-i18n-slot=\"0\">Q6. Do all forex brokers charge spreads?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans</span><span data-i18n-slot=\"4\">. Most brokers earn through spreads, but some also charge a small commission along with very low spreads, especially on professional trading accounts.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q6。所有外汇经纪商都收取点差吗？</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">答</span><span data-i18n-slot=\"4\">。大多数经纪商通过点差赚取收入，但有些经纪商还收取少量佣金和极低的点差，尤其是专业交易账户。</span>"
+    },
+    {
+      "key": "t0b21fa90b5ca8c94",
+      "english": "<span data-i18n-slot=\"0\">Q8. How can I reduce the impact of spreads on my trading?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans</span><span data-i18n-slot=\"4\">. You can reduce spread costs by choosing a broker with tight spreads, trading during high liquidity hours, and avoiding volatile news events.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q8。如何减少点差对我的交易的影响？</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">答</span><span data-i18n-slot=\"4\">。您可以通过选择点差较小的经纪商、在高流动性时段进行交易以及避免波动性新闻事件来降低点差成本。</span>"
+    },
+    {
+      "key": "tbd1f6999cc10f5a7",
+      "english": "<span data-i18n-slot=\"0\">What is the 1 Hour Forex Strategy?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是 1 小时外汇策略？</span>"
+    },
+    {
+      "key": "t6146b7a8f4739a6c",
+      "english": "<span data-i18n-slot=\"0\">Why Choose the 1 Hour Forex Strategy?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">为什么选择 1 小时外汇策略？</span>"
+    },
+    {
+      "key": "t5766842a8cf9ac20",
+      "english": "<span data-i18n-slot=\"0\">How to Use the 1 Hour Forex Strategy</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何使用1小时外汇策略</span>"
+    },
+    {
+      "key": "te6659f907505175e",
+      "english": "<span data-i18n-slot=\"0\">2. Wait for a Pullback</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。等待回调</span>"
+    },
+    {
+      "key": "tc4bf45fd2fa2d427",
+      "english": "<span data-i18n-slot=\"0\">3. Use Confirmation Tools</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。使用确认工具</span>"
+    },
+    {
+      "key": "t83a62675505142cb",
+      "english": "<span data-i18n-slot=\"0\">4. Plan Entry and Exit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4。计划进入和退出</span>"
+    },
+    {
+      "key": "t3393c4d0072a0676",
+      "english": "<span data-i18n-slot=\"0\">Example of a 1 Hour Forex Strategy Setup</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1 小时外汇策略设置示例</span>"
+    },
+    {
+      "key": "t6e7257162a126c4c",
+      "english": "<span data-i18n-slot=\"0\">Stop Loss:</span><span data-i18n-slot=\"1\"> Place it a few pips below the support level.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损：</span><span data-i18n-slot=\"1\">将其设置在支撑位下方几个点。</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t90a33c21ce3ccbc9",
+      "english": "<span data-i18n-slot=\"0\">Tips to Improve Your Results</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">改善结果的技巧</span>"
+    },
+    {
+      "key": "tdca3490c79bf48e0",
+      "english": "<span data-i18n-slot=\"0\">Don’t Overtrade:</span><span data-i18n-slot=\"1\"> Just because you see movement doesn’t mean you should enter every trade.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">不要过度交易：</span><span data-i18n-slot=\"1\">仅仅因为您看到走势并不意味着您应该进行每笔交易。</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t3a4365d5f1529493",
+      "english": "<span data-i18n-slot=\"0\">Setting Stops Too Tight:</span><span data-i18n-slot=\"1\"> Give your trade enough space to breathe. The 1-hour chart can have bigger swings than shorter time frames.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损设置太紧：</span><span data-i18n-slot=\"1\">给您的交易足够的喘息空间。 1 小时图表比较短时间范围的波动可能更大。</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "tb05556ed779214bd",
+      "english": "<span data-i18n-slot=\"0\">When starting out in forex trading, most beginners practice on a demo account before moving to a real one. This is a smart step because it helps new traders understand the basics of the market without risking their money. However, many traders wonder what actually changes once they move from demo trading to live trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">刚开始外汇交易时，大多数初学者都会在模拟账户上进行练习，然后再转向真实账户。这是明智的一步，因为它可以帮助新交易者了解市场的基础知识，而无需冒资金风险。然而，许多交易者想知道一旦他们从模拟交易转向真实交易，实际会发生什么变化。</span>"
+    },
+    {
+      "key": "tf66dbce9213ccdd3",
+      "english": "<span data-i18n-slot=\"0\">One of the biggest differences between a </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex</span></span><span data-i18n-slot=\"3\"> demo and a real account is how emotions come into play.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">外汇</span></span><span data-i18n-slot=\"3\">模拟账户与真实账户最大的区别之一，是情绪如何介入。</span>"
+    },
+    {
+      "key": "td1c728117895c9e9",
+      "english": "<span data-i18n-slot=\"0\">2. Market Execution and Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。市场执行和滑点</span>"
+    },
+    {
+      "key": "tdff95bed2b96e2a3",
+      "english": "<span data-i18n-slot=\"0\">Demo Account:</span><span data-i18n-slot=\"1\"> You can practice strategies and test different lot sizes without fear of losing money. Many beginners trade larger positions on demo accounts than they realistically would with real funds.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">模拟账户：</span><span data-i18n-slot=\"1\">您可以练习策略并测试不同的手数，而不必担心赔钱。许多初学者在模拟账户上交易的头寸比实际使用真实资金交易的头寸要大。</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t9208791a5a2e42ee",
+      "english": "<span data-i18n-slot=\"0\">Demo Account:</span><span data-i18n-slot=\"1\"> You don’t pay commissions, spreads, or overnight swap charges in a noticeable way. Everything feels free and straightforward.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">模拟账户：</span><span data-i18n-slot=\"1\">您无需以明显的方式支付佣金、点差或隔夜掉期费用。一切都感觉自由而简单。</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "td0a507bb791ef30d",
+      "english": "<span data-i18n-slot=\"0\">Real Account:</span><span data-i18n-slot=\"1\"> Brokers apply spreads, commissions, and other fees on each trade. Even if you make a profit, these charges can reduce your net earnings. Learning to account for costs is an important part of becoming a consistent trader.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">真实账户：</span><span data-i18n-slot=\"1\">经纪商对每笔交易收取点差、佣金和其他费用。即使您盈利，这些费用也会减少您的净利润。学习核算成本是成为稳定交易者的重要组成部分。</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t1e6fc1a98708dd89",
+      "english": "<span data-i18n-slot=\"0\">Should You Skip Demo Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">您应该跳过模拟交易吗？</span>"
+    },
+    {
+      "key": "t68841aa3b576d011",
+      "english": "<span data-i18n-slot=\"0\">Absolutely not. Demo accounts are a great way to learn </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">trading platforms</span></span><span data-i18n-slot=\"3\">, test strategies, and build confidence. However, remember that it cannot fully prepare you for the psychological and financial pressure of live trading. The smart approach is to:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">绝对不是。模拟账户是学习</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">交易平台</span></span><span data-i18n-slot=\"3\">、测试策略和建立信心的好方法。但是，请记住，它无法让您充分准备好应对实时交易的心理和财务压力。明智的做法是：</span>"
+    },
+    {
+      "key": "tbe6d0a38901184ac",
+      "english": "<span data-i18n-slot=\"0\">Practice extensively on a demo account.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在模拟账户上进行广泛练习。  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>"
+    },
+    {
+      "key": "ta2718d89cb7b9577",
+      "english": "<span data-i18n-slot=\"0\">Q- 1. How long should I practice on a forex demo account before going live?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Most experts suggest practicing on a demo account for at least 2–3 months, or until you consistently apply strategies and manage risk properly.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">问题 1. 我要在真实交易前 练习多久?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> 大多数专家建议在示范账户上练习至少2–3个月,或者直到你始终如一地运用策略和妥善管理风险为止。</span>"
+    }
+  ]
+}

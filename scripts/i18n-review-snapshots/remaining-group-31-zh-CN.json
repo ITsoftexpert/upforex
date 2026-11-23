@@ -1,0 +1,387 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t70dfeb75075cf15b",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">hammer</span><span data-i18n-slot=\"2\"> has a small body near the top of its range, a long lower wick, and little or no upper wick. It is usually watched after a decline.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">锤子</span><span data-i18n-slot=\"2\">在其范围顶部附近有一个较小的主体，较长的下影线，以及很少或没有上影线。通常在下跌后观看。</span>"
+    },
+    {
+      "key": "t1cef09588c52b726",
+      "english": "<span data-i18n-slot=\"0\">Shooting Star</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流星</span>"
+    },
+    {
+      "key": "taf9515029614cf58",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">shooting star</span><span data-i18n-slot=\"2\"> has a small body near the bottom of its range, a long upper wick, and little or no lower wick. Traders commonly watch for it after an upward move.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">流星</span><span data-i18n-slot=\"2\">在其射程底部附近有一个较小的实体，较长的上影线，以及很少或没有下影线。交易者通常会在上涨后关注它。</span>"
+    },
+    {
+      "key": "t0c5b1e7acf85309c",
+      "english": "<span data-i18n-slot=\"0\">Spinning Top</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">陀螺</span>"
+    },
+    {
+      "key": "te49099be2d520cc0",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">spinning top</span><span data-i18n-slot=\"2\"> has a small body with visible upper and lower wicks. Unlike a doji, its open and close are not almost identical, but they remain close.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">纺锤线</span><span data-i18n-slot=\"2\">的实体较小，并具有明显的上下影线。与十字星不同，它的开盘价与收盘价并非几乎相同，但仍然接近。</span>"
+    },
+    {
+      "key": "tb23bc05808325944",
+      "english": "<span data-i18n-slot=\"0\">Bullish Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">看涨烛台形态</span>"
+    },
+    {
+      "key": "t4b95f3a9757cd44b",
+      "english": "<span data-i18n-slot=\"0\">Bullish Engulfing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">看涨吞没</span>"
+    },
+    {
+      "key": "t37090010666c9bbe",
+      "english": "<span data-i18n-slot=\"0\">Piercing Line</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">穿孔线</span>"
+    },
+    {
+      "key": "tf2e9c1755100c847",
+      "english": "<span data-i18n-slot=\"0\">Bearish Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">看跌烛台模式</span>"
+    },
+    {
+      "key": "tdfe0354e962999e8",
+      "english": "<span data-i18n-slot=\"0\">Bearish Engulfing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">看跌吞没</span>"
+    },
+    {
+      "key": "t77cc61f1228ca451",
+      "english": "<span data-i18n-slot=\"0\">Evening Star</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">黄昏之星</span>"
+    },
+    {
+      "key": "t9d89a5b78f8605dd",
+      "english": "<span data-i18n-slot=\"0\">Dark Cloud Cover</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">乌云盖顶</span>"
+    },
+    {
+      "key": "teb5f2903c540a87b",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">dark cloud cover</span><span data-i18n-slot=\"2\"> pattern begins with a bullish candle. The next candle is bearish and closes below the midpoint of the previous bullish body.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">乌云盖顶</span><span data-i18n-slot=\"2\">形态以看涨蜡烛开始。下一根蜡烛是看跌蜡烛，收盘价低于前一根看涨烛身的中点。</span>"
+    },
+    {
+      "key": "t2e96b6763d6bdc22",
+      "english": "<span data-i18n-slot=\"0\">The hammer, bullish engulfing pattern, morning star, and piercing line are commonly treated as bullish reversal signals. The shooting star, bearish engulfing pattern, evening star, and dark cloud cover are bearish reversal signals. A doji or spinning top mainly shows indecision.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">锤子线、看涨吞没形态、晨星线和穿刺线通常被视为看涨反转信号。流星、看跌吞没形态、黄昏星和乌云盖顶是看跌反转信号。十字星或陀螺主要表明犹豫不决。</span>"
+    },
+    {
+      "key": "t8be61c0d4c75e329",
+      "english": "<span data-i18n-slot=\"0\">Quick-Reference Table: Bullish vs. Bearish Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">快速参考表：看涨与看跌模式</span>"
+    },
+    {
+      "key": "tb71174060796f5f0",
+      "english": "<span data-i18n-slot=\"0\">Quick-Reference: Bullish vs. Bearish Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">快速参考：看涨与看跌烛台模式</span>"
+    },
+    {
+      "key": "t6892db8c7460f650",
+      "english": "<span data-i18n-slot=\"0\">Bullish reversal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">看涨逆转</span>"
+    },
+    {
+      "key": "t84631c569f6698ae",
+      "english": "<span data-i18n-slot=\"0\">Sellers pushed price down, but buyers regained control by the close</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">卖家压低价格，但买家在收盘时重新控制</span>"
+    },
+    {
+      "key": "t8a87f2c59346a4c7",
+      "english": "<span data-i18n-slot=\"0\">A bullish candle closes above the midpoint of the prior bearish body</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">看涨蜡烛收盘价高于前一个看跌实体的中点</span>"
+    },
+    {
+      "key": "t46104251f3154553",
+      "english": "<span data-i18n-slot=\"0\">Bearish reversal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">看跌逆转</span>"
+    },
+    {
+      "key": "t8370763e45cf686a",
+      "english": "<span data-i18n-slot=\"0\">An uptrend pauses before sellers begin taking control</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在卖家开始控制之前，上升趋势暂停</span>"
+    },
+    {
+      "key": "t920de059d444fe4b",
+      "english": "<span data-i18n-slot=\"0\">A bearish candle closes below the midpoint of the prior bullish body</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">看跌蜡烛收盘价低于前一个看涨实体的中点</span>"
+    },
+    {
+      "key": "t7a76e1c773684e85",
+      "english": "<span data-i18n-slot=\"0\">The open and close are nearly equal, showing uncertainty</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">开盘价和收盘价几乎相等，显示出不确定性</span>"
+    },
+    {
+      "key": "t8c3ff4e1c7c2c135",
+      "english": "<span data-i18n-slot=\"0\">A small body and two wicks show balance or a pause in momentum</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">较小的实体和两条影线表示力量平衡或动能暂歇</span>"
+    },
+    {
+      "key": "t6d91d925e0257caf",
+      "english": "<span data-i18n-slot=\"0\">Before entering, define the invalidation point, stop-loss, position size, potential reward, and any scheduled news that may change conditions. Confirmation improves decision quality but never removes uncertainty.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在进入之前，定义无效点、止损、头寸规模、潜在奖励以及任何可能改变条件的预定新闻。确认可以提高决策质量，但永远不会消除不确定性。</span>"
+    },
+    {
+      "key": "t38df9d8401a3c23c",
+      "english": "<span data-i18n-slot=\"0\">Treating every wick as rejection:</span><span data-i18n-slot=\"1\"> Wicks can result from normal volatility.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">将每个影线视为拒绝：</span><span data-i18n-slot=\"1\">影线可能是由正常波动引起的。</span>"
+    },
+    {
+      "key": "tfffe466e4d55843c",
+      "english": "<span data-i18n-slot=\"0\">What is a candlestick pattern?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是烛台形态？</span>"
+    },
+    {
+      "key": "t11ddd2ab92387daf",
+      "english": "<span data-i18n-slot=\"0\">A candlestick pattern is a formation created by one or more price candles. Each candle shows the open, high, low, and close for a selected period. Traders study the body, wicks, position, and surrounding trend to assess market sentiment and possible continuation, reversal, or indecision.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">K线形态由一根或多根价格K线构成。每根K线显示选定时段的开盘价、最高价、最低价和收盘价。交易者研究实体、影线、所处位置及周围趋势，以评估市场情绪，以及可能的延续、反转或犹豫。</span>"
+    },
+    {
+      "key": "t32b6f50edb9ccac2",
+      "english": "<span data-i18n-slot=\"0\">How do you read a candlestick chart?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何解读蜡烛图？</span>"
+    },
+    {
+      "key": "t164481225415e658",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between a bullish and bearish candlestick?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">看涨烛台和看跌烛台有什么区别？</span>"
+    },
+    {
+      "key": "t2c7f1d37750fdec9",
+      "english": "<span data-i18n-slot=\"0\">A bullish candle closes above its opening price and shows that buyers gained ground during the period. A bearish candle closes below its opening price and shows that sellers gained ground. Candle colour varies by platform, so the relationship between the open and close is more important than colour.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">阳线收盘价高于开盘价，表明该时段买方取得优势。阴线收盘价低于开盘价，表明卖方取得优势。K线颜色因平台而异，因此开盘价与收盘价的关系比颜色更重要。</span>"
+    },
+    {
+      "key": "tabbcb8313b6aeb4b",
+      "english": "<span data-i18n-slot=\"0\">The doji, hammer, shooting star, and bullish and bearish engulfing patterns are useful starting points. Their structures are relatively easy to recognise, and they teach key concepts such as indecision, price rejection, and shifts in control between buyers and sellers.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">十字星、锤子线、流星以及看涨和看跌吞没形态都是有用的起点。它们的结构相对容易识别，并且教授关键概念，例如犹豫不决、价格拒绝以及买家和卖家之间的控制权转移。</span>"
+    },
+    {
+      "key": "t39161b6113a5f735",
+      "english": "<span data-i18n-slot=\"0\">Leverage use</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆使用</span>"
+    },
+    {
+      "key": "t92528d377fa66165",
+      "english": "<span data-i18n-slot=\"0\">Typical outcome pattern</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型结果模式</span>"
+    },
+    {
+      "key": "t368cbdccfe39162a",
+      "english": "<span data-i18n-slot=\"0\">A larger share experience net losses</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">遭受净亏损的人占比较大</span>"
+    },
+    {
+      "key": "t8e1eeaf21157c6f6",
+      "english": "<span data-i18n-slot=\"0\">More structured risk-adjusted processes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">更加结构化的风险调整流程</span>"
+    },
+    {
+      "key": "t9d94a4f348ea752b",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging and Margin Risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">过度杠杆化和保证金风险</span>"
+    },
+    {
+      "key": "tbb37a507928cde1f",
+      "english": "<span data-i18n-slot=\"0\">The maximum leverage for CFDs available to retail traders in the UAE can vary by provider, instrument, account classification, and applicable regulations. UpForex lists leverage of </span><span data-i18n-slot=\"1\">up to 1:300</span><span data-i18n-slot=\"2\">, subject to possible adjustments based on market and liquidity conditions. Its account page also lists a </span><span data-i18n-slot=\"3\">50% margin-call level</span><span data-i18n-slot=\"4\"> and a </span><span data-i18n-slot=\"5\">30% stop-out level</span><span data-i18n-slot=\"6\">. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">阿联酋零售交易者可使用的差价合约最大杠杆，可能因提供商、品种、账户分类及适用法规而异。UpForex列出的杠杆</span><span data-i18n-slot=\"1\">最高为1:300</span><span data-i18n-slot=\"2\">，并可能根据市场及流动性状况进行调整。其账户页面还列出了</span><span data-i18n-slot=\"3\">50%的追加保证金通知水平</span><span data-i18n-slot=\"4\">及</span><span data-i18n-slot=\"5\">30%的强制平仓水平</span><span data-i18n-slot=\"6\">。</span>"
+    }
+  ]
+}

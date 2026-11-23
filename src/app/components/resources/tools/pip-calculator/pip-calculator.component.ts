@@ -7,6 +7,7 @@ import {
   PLATFORM_ID,
 } from '@angular/core';
 @Component({
+  standalone: false,
   selector: 'app-pip-calculator',
   templateUrl: './pip-calculator.component.html',
   styleUrls: ['./pip-calculator.component.scss'],

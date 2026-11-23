@@ -1,0 +1,247 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t5ba683806fe51790",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">What Is the Forex Market?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">什么是外汇市场？</span></span>"
+    },
+    {
+      "key": "t3730b12dc2a59733",
+      "english": "As trading moves from Sydney to Tokyo, London, and New York, among other major financial centers, the market is open twenty-four hours a day, five days a week. With trillions of dollars changing hands each day, forex is the largest and most liquid market in the world, allowing participants to enter and exit positions quickly and at tight price differences. Whether you’re exchanging money for travel or speculating on exchange-rate moves, forex lets you trade currencies anytime, anywhere.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "随着交易依次转向悉尼、东京、伦敦、纽约等主要金融中心，市场每周五天、每天二十四小时开放。每日有数万亿美元流转，外汇是全球规模最大、流动性最强的市场，让参与者以较小价差快速进出持仓。无论是旅行换汇，还是交易汇率波动，外汇都让您随时随地交易货币。"
+    },
+    {
+      "key": "td4fda3a1d96035d5",
+      "english": "<span data-i18n-slot=\"0\">How Does the Forex Market Work?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇市场如何运作？</span>"
+    },
+    {
+      "key": "tebb22febdcd0b797",
+      "english": "<span data-i18n-slot=\"0\">What Is Forex Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是外汇交易？</span>"
+    },
+    {
+      "key": "t91968ec3f5397137",
+      "english": "<span data-i18n-slot=\"0\">How to Make Money from Forex Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何从外汇交易中赚钱</span>"
+    },
+    {
+      "key": "t8ce8bc2600d1b09e",
+      "english": "<span data-i18n-slot=\"0\">Diversify your currency pairs:</span> After you have some experience, you should refrain from investing all of your money in one pair.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">使您的货币对多样化：</span>在您拥有一定经验后，您应该避免将所有资金投资于某一货币对。"
+    },
+    {
+      "key": "tdb61977d579a2e53",
+      "english": "<span data-i18n-slot=\"0\">How To Start Trading Forex</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何开始外汇交易</span>"
+    },
+    {
+      "key": "td50036fa86c53098",
+      "english": "<span data-i18n-slot=\"0\">Here's a to-do list to get you started:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">以下是帮助您入门的待办事项列表：</span>"
+    },
+    {
+      "key": "tb7071140d5562668",
+      "english": "<span data-i18n-slot=\"0\">Create an account with a brokerage:</span> Choose a broker who is subject to regulation by a respectable financial body, like the Commodities Futures Trading Commission (CFTC) in the United States. Make sure the broker has reasonable costs, a user-friendly trading platform, and excellent customer service. For inspiration.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在经纪公司创建账户：</span>选择受受尊敬的金融机构（例如美国商品期货交易委员会 (CFTC)）监管的经纪商。确保经纪商拥有合理的成本、用户友好的交易平台和卓越的客户服务。为了灵感。"
+    },
+    {
+      "key": "te670554aebfe6368",
+      "english": "<span data-i18n-slot=\"0\">Practice using a </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">demo account</span></span><span data-i18n-slot=\"3\">: </span>Before you invest real money, you can paper trade on a lot of best forex trading platform. Now is the moment to make sure you have tested your tactics and mastered all the trading mechanics. Finding your flaws and blunders in practice mode is preferable to doing so while your money is on the line.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">使用模拟账户进行练习</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">模拟账户</span></span><span data-i18n-slot=\"3\">：</span>在投入真实资金之前，您可以在许多最佳外汇交易平台上进行模拟交易。现在是确保您已经测试了您的策略并掌握了所有交易机制的时刻。在练习模式中发现自己的缺陷和错误比在你的钱处于危险中时更好。"
+    },
+    {
+      "key": "t6337b42e1372fe68",
+      "english": "<span data-i18n-slot=\"0\">Is Forex Trading Good for Beginners?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇交易适合初学者吗？</span>"
+    },
+    {
+      "key": "t9242575642a37d1a",
+      "english": "<span data-i18n-slot=\"0\">Why Forex Is Hard to Trade ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">为什么外汇很难交易？</span>"
+    },
+    {
+      "key": "t2a9c79a95f3e990d",
+      "english": "Benefits of Forex Trading",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading#content",
+        "SSR:/blogs/forex-trading"
+      ],
+      "translation": "外汇交易的好处"
+    },
+    {
+      "key": "t1094a2ebceffdbfd",
+      "english": "<span data-i18n-slot=\"0\">Ultra-Low Spreads from 0.0 Pips <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> Reduce trading costs with institutional-grade pricing. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading#content",
+        "SSR:/blogs/forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.0 点的超低点差 <span data-i18n-slot=\"1\">：</span></span><span data-i18n-slot=\"2\"> 通过机构级定价降低交易成本。 </span>"
+    },
+    {
+      "key": "t2f338cd0cb9c924c",
+      "english": "On April 4, the US stock market witnessed a dramatic selloff, wiping out an astonishing $2.4 trillion in a single day from <span data-i18n-slot=\"0\">S&amp;P 500</span> companies. It marked the steepest one-day decline in US markets since the COVID panic of 2020, Google Finance data showed.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "四月4日，美国股市遭遇大幅抛售，<span data-i18n-slot=\"0\">S&amp;P 500</span>指数成分公司单日市值蒸发高达$2.4万亿。谷歌财经数据显示，这是自2020年新冠恐慌以来美国市场最严重的单日跌幅。"
+    },
+    {
+      "key": "t4ccc8d35ff1d7133",
+      "english": "The <span data-i18n-slot=\"0\">Nasdaq</span> Composite Index fell the most since March 2020, while the S&amp;P 500 and <span data-i18n-slot=\"1\">Dow Jones Industrial Average</span> saw their sharpest drops since June 2020, according to Google Finance. But what was the trigger? A reciprocal tariff announcement by President Donald Trump, once again shaking up global trade dynamics.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "根据Google财经，<span data-i18n-slot=\"0\">纳斯达克</span>综合指数创下2020年三月以来最大跌幅，而标准普尔500指数和<span data-i18n-slot=\"1\">道琼斯工业平均指数</span>创下2020年六月以来最大跌幅。是什么触发了这一切？唐纳德·特朗普总统宣布互惠关税，再次撼动全球贸易格局。"
+    },
+    {
+      "key": "t809ee9bdc0051cf7",
+      "english": "The sudden slide in the US market was largely triggered by Donald Trump’s sweeping trade tariff announcement. Starting April 5, a 10% base tariff will be imposed on nearly all US imports. But the more shocking part came with the additional \"reciprocal tariffs\" – custom rates on countries based on how they tax US exports.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "美国市场的突然下滑很大程度上是由唐纳德·特朗普宣布全面征收贸易关税引发的。从四月5日开始，几乎所有美国进口产品都将被征收10%的基础关税。但更令人震惊的部分是额外的“互惠关税”——根据各国对美国出口征税的方式征收关税。"
+    },
+    {
+      "key": "t98ad18f5697f5775",
+      "english": "<span data-i18n-slot=\"0\">The Tech Meltdown: Nvidia, Amazon, Apple tank</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">科技崩溃：英伟达、亚马逊、苹果陷入困境</span>"
+    },
+    {
+      "key": "t45be0b30d5daf01a",
+      "english": "<span data-i18n-slot=\"0\">Company</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">公司</span>"
+    },
+    {
+      "key": "t1914a14f5a5fe37b",
+      "english": "<span data-i18n-slot=\"0\">M-Cap on April 3</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">四月3日市值</span>"
+    },
+    {
+      "key": "t337c98b0017db262",
+      "english": "<span data-i18n-slot=\"0\">Footwear and apparel stocks take a hit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">鞋类和服装类股遭受重创</span>"
+    },
+    {
+      "key": "ta42b5ca2e01de5c4",
+      "english": "<span data-i18n-slot=\"0\">Tariffs rattle US dollar, other asset classes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">关税扰乱美元和其他资产类别</span>"
+    },
+    {
+      "key": "teddaf9e09bf7445a",
+      "english": "US 10-year bond yields fell to 4.03%, as investors rushed to safety.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "由于投资者纷纷避险，美国10年期国债收益率跌至4.03%。"
+    },
+    {
+      "key": "t3844bf864075dab2",
+      "english": "The content is meant for education and general information purposes only. Investments in the securities market are subject to market risks, read all the related documents carefully before investing. Past performance is not indicative of future returns. The securities are quoted as an example and not as a recommendation. This in no way is to be construed as financial advice or a recommendation to invest in any specific stock or financial instrument. The Company strongly encourages its users/viewers to conduct their own research, and consult with a registered financial advisor before making any investment decisions. All disputes in relation to the content would not have access to an exchange investor redressal forum or arbitration mechanism. INDmoney Global (IFSC) Private Limited, Unit No. GA-02, Seat No. 1-4, Ground Floor, Pragya Accelerator Block-15 T, Road 11, Zone-1, Processing Area, GIFT SEZ, Gift City, Gandhinagar, Gujarat, India, 382355 IFSCA Broker-Dealer Registration No. IFSC/BD/2023-24/0016, IFSCA DP Reg No: IFSC/DP/2023-24/010.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "该内容仅用于教育和一般信息目的。投资证券市场存在市场风险，投资前请仔细阅读所有相关文件。过去的表现并不代表未来的回报。这些证券仅供参考，并非推荐。这绝不应被解释为财务建议或投资任何特定股票或金融工具的建议。公司强烈鼓励用户/观众进行自己的研究，并在做出任何投资决定之前咨询注册财务顾问。与内容相关的所有争议都无法诉诸交易所投资者补救论坛或仲裁机制。 INDmoney Global (IFSC) Private Limited，单元号 GA-02, 席位号 1-4, 底层, Pragya Accelerator Block-15 T, 道路11, 分区-1, 加工区, GIFT SEZ, Gift City, Gandhinagar, Gujarat, India, 382355 IFSCA 经纪交易商注册号 IFSC/BD/2023-24/0016, IFSCA DP 注册号：IFSC/DP/2023-24/010。"
+    }
+  ]
+}

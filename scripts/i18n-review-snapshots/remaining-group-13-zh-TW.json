@@ -1,0 +1,807 @@
+{
+  "language": "zh-TW",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t89f392dde62ac477",
+      "english": "<span data-i18n-slot=\"0\">0.10 lot = 10,000 EUR</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.10 手 = 10,000 歐元</span>"
+    },
+    {
+      "key": "t5461df918517e7c7",
+      "english": "<span data-i18n-slot=\"0\">1.00 lot = 100,000 EUR</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.00 手 = 100,000 歐元</span>"
+    },
+    {
+      "key": "t10341f17e3384da7",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot = 1,000 USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01 手 = 1,000 美元</span>"
+    },
+    {
+      "key": "t8acd64a1363e5ab7",
+      "english": "<span data-i18n-slot=\"0\">0.10 lot = 10,000 USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.10 手 = 10,000 美元</span>"
+    },
+    {
+      "key": "tcfbf8e250170be07",
+      "english": "<span data-i18n-slot=\"0\">1.00 lot = 100,000 USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.00 手 = 100,000 美元</span>"
+    },
+    {
+      "key": "tbd82b9e1f39b9335",
+      "english": "<span data-i18n-slot=\"0\">The position's notional value should also not be confused with the margin required to open it. Leverage means margin can be only a fraction of the total market exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">部位的名義價值也不應與開倉所需的保證金混淆。使用槓桿時，保證金可能只佔總市場風險曝險的一部分。</span>"
+    },
+    {
+      "key": "t0189d68b092e47d9",
+      "english": "<span data-i18n-slot=\"0\">What About XAUUSD Lot Size?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">XAUUSD 手數大小如何？</span>"
+    },
+    {
+      "key": "tc286cbb766f2a559",
+      "english": "<span data-i18n-slot=\"0\">Gold CFDs need to be treated separately from forex pairs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">黃金差價合約需要與外匯貨幣對分開處理。</span>"
+    },
+    {
+      "key": "t09acde13292d06e7",
+      "english": "<span data-i18n-slot=\"0\">How Do You Choose the Right Lot Size for Your Account?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何為您的賬戶選擇合適的手數？</span>"
+    },
+    {
+      "key": "t74a7e83f373d5705",
+      "english": "<span data-i18n-slot=\"0\">There is no single best or recommended forex lot size for every trader because appropriate position volume depends on the account, stop distance, instrument and the trader's own risk parameters.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">對於每個交易者來說，沒有單一的最佳或推薦的外匯手數，因為適當的頭寸量取決於賬戶、止損距離、工具和交易者自身的風險引數。</span>"
+    },
+    {
+      "key": "t6c3218f1187fd2b1",
+      "english": "<span data-i18n-slot=\"0\">Pip value: Larger lots create larger monetary movement per pip.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">點值：更大的手數會產生更大的每點貨幣變動。</span>"
+    },
+    {
+      "key": "tdc918f699573ff63",
+      "english": "<span data-i18n-slot=\"0\">Instrument volatility:</span><span data-i18n-slot=\"1\"> Different instruments can move by very different amounts.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金融工具波動性：</span><span data-i18n-slot=\"1\">不同金融工具的波動幅度可能非常不同。</span>"
+    },
+    {
+      "key": "tf2ff381641bd8366",
+      "english": "<span data-i18n-slot=\"0\">Available margin:</span><span data-i18n-slot=\"1\"> Position size and leverage together determine margin requirements.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可用保證金：</span><span data-i18n-slot=\"1\">頭寸規模和槓桿共同決定保證金要求。</span>"
+    },
+    {
+      "key": "tf213b0b65de1743c",
+      "english": "<span data-i18n-slot=\"0\">This is why answering “What is the best lot size for forex?” with one universal number would be misleading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">這就是為什麼要回答“外匯的最佳手數是多少？”使用一個通用號碼會產生誤導。</span>"
+    },
+    {
+      "key": "tceda17ca8e9d58e4",
+      "english": "<span data-i18n-slot=\"0\">A 0.01-lot position can be meaningful for one account and insignificant for another. A 1.00-lot position can fit one calculated risk plan while being far beyond another account's intended exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01 手的頭寸對於一個賬戶可能有意義，而對於另一個賬戶則無意義。 1.00 手頭寸可以符合一個計算出的風險計劃，同時遠遠超出另一個賬戶的預期風險。</span>"
+    },
+    {
+      "key": "tdd3b391069caabbe",
+      "english": "<span data-i18n-slot=\"0\">What is a standard lot in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什麼是外匯中的標準手？</span>"
+    },
+    {
+      "key": "t318562b33398ba0b",
+      "english": "<span data-i18n-slot=\"0\">A standard lot in forex represents 100,000 units of the base currency. For EUR/USD, 1.00 standard lot therefore represents 100,000 euros. On a USD-quoted major such as EUR/USD, one pip on a standard lot is approximately $10, although pip values for other currency combinations may require conversion.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外匯中的一標準手代表 100,000 單位的基礎貨幣。因此，對於歐元/美元，1.00 標準手代表 100,000 歐元。對於以美元報價的主要貨幣（例如歐元/美元），標準手數的 一 點約為 10 美元，但其他貨幣組合的點值可能需要轉換。</span>"
+    },
+    {
+      "key": "t09c56f284a4a19da",
+      "english": "<span data-i18n-slot=\"0\">A mini lot contains 10,000 units of the base currency and is normally represented as 0.10 lots on platforms such as MT5. It has one-tenth the position volume of a standard lot. On EUR/USD in a USD-denominated account, its approximate pip value is $1 per pip.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">迷你手包含 10,000 單位的基礎貨幣，在 MT5 等平臺上通常表示為 0.10 手。它的持倉量是標準手的十分之一。對於以美元計價的賬戶中的歐元/美元，其近似點值是每點 1 美元。</span>"
+    },
+    {
+      "key": "t6c1ecdceba9c6f90",
+      "english": "<span data-i18n-slot=\"0\">Is lot size the same as leverage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手數與槓桿相同嗎？</span>"
+    },
+    {
+      "key": "t3faf5b6e3c247d2e",
+      "english": "<span data-i18n-slot=\"0\">No. Lot size determines the volume of the position, while leverage affects how much margin is required to support that market exposure. A trader can use the same lot size under different leverage settings; the position volume remains the same even though the margin requirement can change.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">沒有。手數大小決定頭寸的數量，而槓桿則影響支援市場敞口所需的保證金數量。交易者可以在不同的槓桿設定下使用相同的手數；即使保證金要求可能發生變化，頭寸數量仍保持不變。</span>"
+    },
+    {
+      "key": "tb448141b35175a4b",
+      "english": "<span data-i18n-slot=\"0\">What's the minimum lot size for trading gold CFDs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易黃金差價合約的最小手數是多少？</span>"
+    },
+    {
+      "key": "t128ce0df6324e711",
+      "english": "<span data-i18n-slot=\"0\">How do I calculate the right lot size for my account?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何計算我的賬戶的正確手數？</span>"
+    },
+    {
+      "key": "t2ab0b91dc29932f7",
+      "english": "<span data-i18n-slot=\"0\">Can I trade less than a micro lot?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">我的交易量可以少於微型手嗎？</span>"
+    },
+    {
+      "key": "t588fb8f85e4680e8",
+      "english": "<span data-i18n-slot=\"0\">A micro lot equals 0.01 standard lots, or 1,000 base-currency units in forex. Smaller nano lots of 100 units exist in some trading environments, but they are not universally available. UPFOREX currently publishes 0.01 as the minimum lot size for its account tiers, so permitted volume should be checked before placing an order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">微型手等於 0.01 標準手，或外匯中的 1,000 個基礎貨幣單位。某些交易環境中存在 100 單位的較小奈米手，但並非普遍可用。 UPFOREX 目前釋出 0.01 作為其賬戶層的最小手數，因此在下單前應檢查允許的交易量。</span>"
+    },
+    {
+      "key": "t19a4ac5418f390a6",
+      "english": "<span data-i18n-slot=\"0\">Lot size becomes easier to understand once you connect the number entered in the Volume field with the underlying units, pip value and position exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一旦將“交易量”欄位中輸入的數字與基礎單位、點值和頭寸敞口聯絡起來，手數就會變得更容易理解。</span>"
+    },
+    {
+      "key": "t575f4852b214aab0",
+      "english": "<span data-i18n-slot=\"0\">A forex </span><span data-i18n-slot=\"1\">quote</span><span data-i18n-slot=\"2\"> shows the current two-sided price for a currency pair. The </span><span data-i18n-slot=\"3\">bid</span><span data-i18n-slot=\"4\"> is the price at which a trader can generally sell the pair, while the </span><span data-i18n-slot=\"5\">ask</span><span data-i18n-slot=\"6\"> is the price at which a trader can generally buy it. The difference between those two prices is the </span><span data-i18n-slot=\"7\">spread</span><span data-i18n-slot=\"8\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外匯</span><span data-i18n-slot=\"1\">報價</span><span data-i18n-slot=\"2\">顯示某一貨幣對當前的雙向價格。其中，</span><span data-i18n-slot=\"3\">買入價（bid）</span><span data-i18n-slot=\"4\">通常是交易者可以賣出該貨幣對的價格，而</span><span data-i18n-slot=\"5\">賣出價（ask）</span><span data-i18n-slot=\"6\">通常是交易者可以買入的價格。兩者之間的差額就是</span><span data-i18n-slot=\"7\">點差</span><span data-i18n-slot=\"8\">。</span>"
+    },
+    {
+      "key": "t8cfcaea27caaa1d6",
+      "english": "<span data-i18n-slot=\"0\">For example, an illustrative EUR/USD quote of </span><span data-i18n-slot=\"1\">1.0848 / 1.0850</span><span data-i18n-slot=\"2\"> shows a bid of 1.0848 and an ask of 1.0850. The difference is 0.0002, or 2 </span><span data-i18n-slot=\"3\">pips</span><span data-i18n-slot=\"4\"> for a pair quoted to four decimal places.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">例如，歐元/美元的說明性報價為 </span><span data-i18n-slot=\"1\">1.0848 / 1.0850</span><span data-i18n-slot=\"2\"> 顯示出價為 1.0848，要價為 1.0850。差異為 0.0002，即 2 </span><span data-i18n-slot=\"3\">點</span><span data-i18n-slot=\"4\">（對於引用到小數點後四位的貨幣對）。</span>"
+    },
+    {
+      "key": "t6f23096dde2b38af",
+      "english": "<span data-i18n-slot=\"0\">What Is a Forex Quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什麼是外匯報價？</span>"
+    },
+    {
+      "key": "tc08c9d4fddce5ae5",
+      "english": "<span data-i18n-slot=\"0\">A forex quote is the two-sided market price displayed for a currency pair at a particular moment.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外匯報價是貨幣對在特定時刻顯示的雙向市場價格。</span>"
+    },
+    {
+      "key": "tf9ca0e27f97b0239",
+      "english": "<span data-i18n-slot=\"0\">A quote might appear like this:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">報價可能如下所示：</span>"
+    },
+    {
+      "key": "t5ec3d96cf68d7586",
+      "english": "<span data-i18n-slot=\"0\">Difference = spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">差異=價差</span>"
+    },
+    {
+      "key": "t6b8cba32d63d457e",
+      "english": "<span data-i18n-slot=\"0\">What Are the Bid and Ask Prices in a Forex Quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外匯報價中的買價和賣價是多少？</span>"
+    },
+    {
+      "key": "t85d9b5dd302728e7",
+      "english": "<span data-i18n-slot=\"0\">The bid is the price associated with selling the currency pair, while the ask is the price associated with buying it.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">買價是與賣出貨幣對相關的價格，而賣價是與購買貨幣對相關的價格。</span>"
+    },
+    {
+      "key": "tc6c9baa9b1717459",
+      "english": "<span data-i18n-slot=\"0\">If a trader submits a market sell, the relevant quoted side is approximately the bid at 1.0848.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果交易者提交市場賣出，相關報價方大約為 1.0848 的買價。</span>"
+    },
+    {
+      "key": "t9b560dd666d9809e",
+      "english": "<span data-i18n-slot=\"0\">If a trader submits a market buy, the relevant quoted side is approximately the ask at 1.0850.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果交易者提交市場買入，相關報價方大約為 1.0850 的賣出價。</span>"
+    },
+    {
+      "key": "ta35959878ae6a31f",
+      "english": "<span data-i18n-slot=\"0\">Actual execution can differ from the displayed quote when prices move or market conditions change, but the two-sided quote tells the trader which side of the market applies to each direction.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">當價格變動或市場條件發生變化時，實際執行可能與顯示的報價有所不同，但雙向報價告訴交易者市場的哪一側適用於每個方向。</span>"
+    },
+    {
+      "key": "tb101bccc09d7c0d2",
+      "english": "<span data-i18n-slot=\"0\">Bid</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">出價</span>"
+    },
+    {
+      "key": "td284ae61b79e4f07",
+      "english": "<span data-i18n-slot=\"0\">Price associated with selling the pair</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">與出售該貨幣對相關的價格</span>"
+    },
+    {
+      "key": "t0f1586670b8d7b1f",
+      "english": "<span data-i18n-slot=\"0\">Price associated with buying the pair</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">購買該對的相關價格</span>"
+    },
+    {
+      "key": "t9fb59a61858e6fbd",
+      "english": "<span data-i18n-slot=\"0\">Difference between ask and bid</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">賣價和出價之間的差異</span>"
+    },
+    {
+      "key": "t1942b3b88c7eb918",
+      "english": "<span data-i18n-slot=\"0\">0.0002, or 2 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.0002，或 2 點</span>"
+    },
+    {
+      "key": "t4f3ff4088c72c798",
+      "english": "<span data-i18n-slot=\"0\">The ask is normally above the bid. That gap is what creates the spread.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">要價通常高於出價。這個差距就是造成價差的原因。</span>"
+    },
+    {
+      "key": "tc3b14d646a76af80",
+      "english": "<span data-i18n-slot=\"0\">What Is the Spread in a Forex Quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外匯報價中的點差是多少？</span>"
+    },
+    {
+      "key": "t7cea19c403db76f8",
+      "english": "<span data-i18n-slot=\"0\">The spread is the difference between the ask price and the bid price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">點差是賣價和買價之間的差額。</span>"
+    },
+    {
+      "key": "t0283c76c3b0d0b9a",
+      "english": "<span data-i18n-slot=\"0\">Bid: 1.0848</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ask: 1.0850</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">出價：1.0848</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">賣價：1.0850</span>"
+    },
+    {
+      "key": "t9525bda9b833c235",
+      "english": "<span data-i18n-slot=\"0\">For EUR/USD, that equals 2 pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">對於歐元/美元，這等於 2 點。</span>"
+    },
+    {
+      "key": "tdb12242e708c5c4e",
+      "english": "<span data-i18n-slot=\"0\">The spread matters because a trader does not normally buy and sell at the same price at the same moment. A long position opens using the ask side, while closing that long position generally involves the bid side. A short position begins from the bid side and would generally be closed using the ask side.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">點差很重要，因為交易者通常無法在同一時刻以相同價格買賣。多頭部位以賣出價（ask）開倉，平倉時通常使用買入價（bid）。空頭部位以買入價（bid）開倉，通常以賣出價（ask）平倉。</span>"
+    },
+    {
+      "key": "td986b5ed2d3f55ff",
+      "english": "<span data-i18n-slot=\"0\">Standard: from 0.1 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">標準：0.1 點起</span>"
+    },
+    {
+      "key": "t7b0d9895f69ff0f3",
+      "english": "<span data-i18n-slot=\"0\">Pro-ECN: from 0 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pro-ECN：從 0 點開始</span>"
+    },
+    {
+      "key": "td2008520425becb0",
+      "english": "<span data-i18n-slot=\"0\">Elite-ECN: from 0.1 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Elite-ECN：0.1 點起</span>"
+    },
+    {
+      "key": "td2d02ba0f0dbb384",
+      "english": "<span data-i18n-slot=\"0\">What Is a Direct vs an Indirect Quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什麼是直接報價與間接報價？</span>"
+    },
+    {
+      "key": "t72165e29c22440a7",
+      "english": "<span data-i18n-slot=\"0\">A direct quote expresses how much domestic currency is required for one unit of a foreign currency, while an indirect quote expresses how much foreign currency corresponds to one unit of domestic currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">直接標價表示一單位外幣需要多少本幣，間接標價表示一單位本幣對應多少外幣。</span>"
+    },
+    {
+      "key": "t599673b2d68023f2",
+      "english": "<span data-i18n-slot=\"0\">The important word is “domestic.” Whether a quote is direct or indirect depends on the observer's home currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">重要的詞是“國內”。報價是直接還是間接取決於觀察者的本國貨幣。</span>"
+    },
+    {
+      "key": "t0bf8db81db01de4f",
+      "english": "<span data-i18n-slot=\"0\">USD is the quote currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">美元是報價貨幣。</span>"
+    },
+    {
+      "key": "td0a4885849231346",
+      "english": "<span data-i18n-slot=\"0\">How Do You Read a Full Forex Quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何閱讀完整的外匯報價？</span>"
+    },
+    {
+      "key": "t7be143a9edbcbdbb",
+      "english": "<span data-i18n-slot=\"0\">The easiest way to understand a forex quote is to work through both sides of one example and then watch the quote move.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">理解外匯報價的最簡單方法是研究一個示例的兩面，然後觀察報價變動。</span>"
+    },
+    {
+      "key": "t3ac9d67d41907e75",
+      "english": "<span data-i18n-slot=\"0\">Step 1: Read the Starting Quote</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 1 步：閱讀起始報價</span>"
+    },
+    {
+      "key": "tf4e24e26c5fc24de",
+      "english": "<span data-i18n-slot=\"0\">Assume MT5 displays:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">假設 MT5 顯示：</span>"
+    },
+    {
+      "key": "t08c2de5812382494",
+      "english": "<span data-i18n-slot=\"0\">Bid = 1.0848</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">出價 = 1.0848</span>"
+    },
+    {
+      "key": "t86abe8e1522b454b",
+      "english": "<span data-i18n-slot=\"0\">Ask = 1.0850</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">賣價 = 1.0850</span>"
+    },
+    {
+      "key": "t03dce32974be9e99",
+      "english": "<span data-i18n-slot=\"0\">Spread = 2 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">點差 = 2 點</span>"
+    },
+    {
+      "key": "td10af0c9e8ceb72f",
+      "english": "<span data-i18n-slot=\"0\">The ask matters because the trader is buying the base currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">要價很重要，因為交易者正在購買基礎貨幣。</span>"
+    },
+    {
+      "key": "tab39f8613dc6eee5",
+      "english": "<span data-i18n-slot=\"0\">A trader selling EUR/USD would look at the bid side.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">賣出歐元/美元的交易者會關注買價。</span>"
+    },
+    {
+      "key": "te9f6dfb9f8e7564d",
+      "english": "<span data-i18n-slot=\"0\">The bid is therefore the relevant displayed side for a market sell.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因此，出價是市場賣出的相關顯示方。</span>"
+    },
+    {
+      "key": "t78cd0e1a101923fa",
+      "english": "<span data-i18n-slot=\"0\">Step 4: Watch the Quote Move</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 4 步：觀察報價變動</span>"
+    },
+    {
+      "key": "t0cbbb4631433590d",
+      "english": "<span data-i18n-slot=\"0\">Now assume the quote changes from:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">現在假設報價從以下數值變動：</span>"
+    },
+    {
+      "key": "t7741a9bafd5e4a6c",
+      "english": "<span data-i18n-slot=\"0\">Both the bid and ask have risen by 2 pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">買價和賣價均上漲 2 點。</span>"
+    },
+    {
+      "key": "tba8cbfaba5cd33a3",
+      "english": "<span data-i18n-slot=\"0\">Quote Stage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">報價階段</span>"
+    },
+    {
+      "key": "td2c7e6a5350a9747",
+      "english": "<span data-i18n-slot=\"0\">Starting quote</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">起始報價</span>"
+    },
+    {
+      "key": "tadc3e0a95d0f08d5",
+      "english": "<span data-i18n-slot=\"0\">2 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2 點</span>"
+    },
+    {
+      "key": "t44e5845339c7e1e9",
+      "english": "<span data-i18n-slot=\"0\">Later quote</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">稍後報價</span>"
+    },
+    {
+      "key": "t7091c16e0de8091e",
+      "english": "<span data-i18n-slot=\"0\">+2 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">+2 點</span>"
+    },
+    {
+      "key": "t5fa638b613fcb184",
+      "english": "<span data-i18n-slot=\"0\">Unchanged</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">不變</span>"
+    },
+    {
+      "key": "tf9c462ce5fffc132",
+      "english": "<span data-i18n-slot=\"0\">The pair has moved upward while the spread has remained 2 pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">該貨幣對已上漲，而點差仍保持 2 點。</span>"
+    },
+    {
+      "key": "tf8ae58ae2f84377c",
+      "english": "<span data-i18n-slot=\"0\">Step 5: Read the Movement From an Open Position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 5 步：從未平倉位置讀取走勢</span>"
+    },
+    {
+      "key": "t62362b59b10c4155",
+      "english": "<span data-i18n-slot=\"0\">Suppose a trader had entered a long position near the original ask of 1.0850.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">假設交易者在原始要價 1.0850 附近建立多頭頭寸。</span>"
+    },
+    {
+      "key": "t43951ba97688f6c5",
+      "english": "<span data-i18n-slot=\"0\">At the later quote, the bid is now 1.0850. Because a long position is normally closed against the bid side, the market has moved enough for the new bid to reach the original illustrative entry price, before considering any other trading costs or execution differences.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在之後的報價中，買入價（bid）已是1.0850。多頭部位通常以買入價平倉，因此在不考慮其他交易成本或成交差異時，市場變動已使新的買入價達到原先範例中的進場價格。</span>"
+    },
+    {
+      "key": "t9fc9cfdd79f3288b",
+      "english": "<span data-i18n-slot=\"0\">For a short position, the trader would monitor the ask when considering the price required to buy back and close the position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">對於空頭頭寸，交易者在考慮回購和平倉所需的價格時會監控賣價。</span>"
+    },
+    {
+      "key": "tc93eafae4a82026c",
+      "english": "<span data-i18n-slot=\"0\">What Is a Pip and How Does It Show Price Movement?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什麼是點以及它如何顯示價格變動？</span>"
+    },
+    {
+      "key": "t8aa775a0f69c421c",
+      "english": "<span data-i18n-slot=\"0\">A pip is a standard unit commonly used to describe forex price movement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">點是通常用於描述外匯價格變動的標準單位。</span>"
+    }
+  ]
+}

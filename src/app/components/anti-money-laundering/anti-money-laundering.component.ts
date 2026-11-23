@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
+  standalone: false,
   selector: 'app-anti-money-laundering',
   templateUrl: './anti-money-laundering.component.html',
   styleUrls: ['./anti-money-laundering.component.scss'],

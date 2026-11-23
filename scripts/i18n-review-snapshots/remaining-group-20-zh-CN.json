@@ -1,0 +1,747 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t4c8f2f72d03b923e",
+      "english": "<span data-i18n-slot=\"0\">After closed losses</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">平仓亏损后</span>"
+    },
+    {
+      "key": "tf6dea62b1fca7853",
+      "english": "<span data-i18n-slot=\"0\">Open trade moves against position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">未平仓交易朝不利于该头寸的方向变动</span>"
+    },
+    {
+      "key": "t41ef90d9ad1d6db7",
+      "english": "<span data-i18n-slot=\"0\">8% equity drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">净值减少 8%</span>"
+    },
+    {
+      "key": "t7824d2438f7b81f7",
+      "english": "<span data-i18n-slot=\"0\">At that point:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">此时：</span>"
+    },
+    {
+      "key": "t7149ccf61b5133c4",
+      "english": "<span data-i18n-slot=\"0\">Balance drawdown = 5%</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">余额回撤 = 5%</span>"
+    },
+    {
+      "key": "t528c18bc723fa76a",
+      "english": "<span data-i18n-slot=\"0\">Equity drawdown = 8%</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">净值回撤 = 8%</span>"
+    },
+    {
+      "key": "tfff083d1e37447a9",
+      "english": "<span data-i18n-slot=\"0\">If the open position later recovers before being closed, the equity drawdown can decrease. If the unrealized loss becomes larger, equity drawdown can deepen even though the account balance remains unchanged.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果未平仓头寸后来在平仓前恢复，则净值回撤可能会减少。如果未实现损失变大，即使账户余额保持不变，净值回撤也可能会加深。</span>"
+    },
+    {
+      "key": "t29ac8202825404a8",
+      "english": "<span data-i18n-slot=\"0\">How Do You Calculate Drawdown in Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何计算交易回撤？</span>"
+    },
+    {
+      "key": "tc66c06b2d4bedad4",
+      "english": "<span data-i18n-slot=\"0\">Current account equity: $17,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">账户当前净值：$17,000</span>"
+    },
+    {
+      "key": "tfa0c2b1efbc52380",
+      "english": "<span data-i18n-slot=\"0\">Decline: $3,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">下降额：$3,000</span>"
+    },
+    {
+      "key": "t7d6a033a04c9f676",
+      "english": "<span data-i18n-slot=\"0\">The equity drawdown is therefore 15%.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因此，账户净值回撤为15%。</span>"
+    },
+    {
+      "key": "tda1f13e2ec49a152",
+      "english": "<span data-i18n-slot=\"0\">What Is Maximum Drawdown, and Why Does It Matter?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是最大回撤，为什么它很重要？</span>"
+    },
+    {
+      "key": "t1ec059f47027718c",
+      "english": "<span data-i18n-slot=\"0\">When considering what maximum drawdown in trading is, traders can use the figure to understand how much historical downside an account or strategy experienced while producing its past results.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在考虑交易中的最大回撤时，交易者可以使用该数字来了解账户或策略在产生过去结果时经历了多少历史下行风险。</span>"
+    },
+    {
+      "key": "t24dfd19045fce9e8",
+      "english": "<span data-i18n-slot=\"0\">Maximum drawdown is still backward-looking. A strategy that historically experienced a 15% maximum drawdown could experience a larger decline in different market conditions or with different leverage, position sizing or execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最大回撤仍然是向后看的。历史上经历过 15% 最大回撤的策略在不同的市场条件或不同的杠杆、头寸规模或执行情况下可能会经历更大的跌幅。</span>"
+    },
+    {
+      "key": "td7540098f8942aaa",
+      "english": "<span data-i18n-slot=\"0\">Other Types of Drawdown You Might Encounter</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">您可能遇到的其他类型的回撤</span>"
+    },
+    {
+      "key": "t3cab3fc3543819fb",
+      "english": "<span data-i18n-slot=\"0\">Daily drawdown, trailing drawdown and end-of-day drawdown describe different ways of measuring or updating a loss threshold.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每日回撤、追踪回撤和日终回撤描述了衡量或更新损失阈值的不同方法。</span>"
+    },
+    {
+      "key": "t7c9af8e32c3eb079",
+      "english": "<span data-i18n-slot=\"0\">Trailing drawdown: A drawdown threshold that can move upward as an account reaches new highs. The allowed lower boundary may therefore change as the account grows.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">追踪回撤：当账户达到新高时可以向上移动的回撤阈值。因此，允许的下限可能会随着帐户的增长而变化。</span>"
+    },
+    {
+      "key": "t334991e48f343fd2",
+      "english": "<span data-i18n-slot=\"0\">Daily and trailing drawdown rules are particularly common in funded or prop-firm trading challenges. Definitions can vary between providers, so traders should check the exact rules of a particular program rather than assuming all drawdown limits work the same way.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每日和追踪回撤规则在融资或自营公司交易挑战中尤其常见。提供商之间的定义可能有所不同，因此交易者应该检查特定计划的确切规则，而不是假设所有回撤限制都以相同的方式起作用。</span>"
+    },
+    {
+      "key": "te19ea8531335e43b",
+      "english": "<span data-i18n-slot=\"0\">Why Does Drawdown Matter for Risk Management?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">为什么回撤对于风险管理很重要？</span>"
+    },
+    {
+      "key": "t9e804f15b18f6bcf",
+      "english": "<span data-i18n-slot=\"0\">The relationship is not symmetrical.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">关系不对称。</span>"
+    },
+    {
+      "key": "t102ff5db4fed026f",
+      "english": "<span data-i18n-slot=\"0\">Drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">回撤</span>"
+    },
+    {
+      "key": "t9942780d0e1bd6a3",
+      "english": "<span data-i18n-slot=\"0\">Account margin controls are separate from drawdown.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UpForex's account structure</span></span><span data-i18n-slot=\"4\"> publishes a Margin Call Level of 50% and a Stop-Out Level of 30%.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">账户保证金控制与回撤是分开的。</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UpForex 的账户结构</span></span><span data-i18n-slot=\"4\">公布 50% 的追加保证金水平和 30% 的强制平仓水平。</span>"
+    },
+    {
+      "key": "td9e62a6ee8ea96ea",
+      "english": "<span data-i18n-slot=\"0\">These figures are margin-based thresholds. They should not be interpreted as acceptable drawdown levels or as maximum drawdown limits.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这些数字是基于保证金的阈值。它们不应被解释为可接受的回撤水平或最大回撤限制。</span>"
+    },
+    {
+      "key": "t2b85565d304830cb",
+      "english": "<span data-i18n-slot=\"0\">How Can You Reduce Drawdown in Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何降低交易回撤？</span>"
+    },
+    {
+      "key": "ta16ce8e1e7683db3",
+      "english": "<span data-i18n-slot=\"0\">Drawdown cannot be removed completely from trading, but structured risk-management practices can help control how much exposure an account takes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">回撤无法从交易中完全消除，但结构化风险管理实践可以帮助控制账户承受的风险敞口。</span>"
+    },
+    {
+      "key": "t5afb91d8dbb43cb2",
+      "english": "<span data-i18n-slot=\"0\">Size positions relative to the account. Calculate trade volume according to the amount of capital being put at risk rather than selecting lot size arbitrarily.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相对于账户的头寸规模。根据面临风险的资金量来计算交易量，而不是任意选择手数。</span>"
+    },
+    {
+      "key": "tf3f9672dfef992e3",
+      "english": "<span data-i18n-slot=\"0\">FAQs About Drawdown in Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有关交易回撤的常见问题解答</span>"
+    },
+    {
+      "key": "tc8151ac3acccea67",
+      "english": "<span data-i18n-slot=\"0\">What is an acceptable drawdown in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇交易中可接受的回撤是多少？</span>"
+    },
+    {
+      "key": "t97ac15b007ecad36",
+      "english": "<span data-i18n-slot=\"0\">What's the difference between drawdown and a losing trade?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">回撤和亏损交易有什么区别？</span>"
+    },
+    {
+      "key": "tc494ef6583b191c3",
+      "english": "<span data-i18n-slot=\"0\">A losing trade refers to the result of one individual position, while drawdown measures the decline from an account or strategy's previous peak. Several relatively small losing trades can combine to create a larger drawdown, while one unusually large loss can also create a significant drawdown.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">亏损交易是指单个头寸的结果，而回撤则衡量账户或策略相对于之前峰值的跌幅。几笔相对较小的亏损交易组合起来可能会造成更大的亏损，而一笔异常大的亏损也可能会造成严重的亏损。</span>"
+    },
+    {
+      "key": "t6c6066529c86db98",
+      "english": "<span data-i18n-slot=\"0\">What is the drawdown in copy trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">跟单交易中的回撤是什么？</span>"
+    },
+    {
+      "key": "tc6caf23bb5012ae9",
+      "english": "<span data-i18n-slot=\"0\">In copy trading, drawdown measures how far the value of a copied strategy or resulting account performance falls from a previous peak. Historical drawdown can help show how much downside a strategy previously experienced, but it does not establish the largest loss that could occur in the future.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在跟单交易中，回撤衡量的是跟单策略的价值或由此产生的账户业绩从之前的峰值下降了多少。历史回撤可以帮助显示策略之前经历过多少下行，但它并不能确定未来可能发生的最大损失。</span>"
+    },
+    {
+      "key": "t8d9eae3583ec7ed5",
+      "english": "<span data-i18n-slot=\"0\">Does a large drawdown mean a strategy has failed?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">大幅回撤是否意味着策略失败？</span>"
+    },
+    {
+      "key": "td8cc63427a09cab2",
+      "english": "<span data-i18n-slot=\"0\">How is drawdown different from a margin call or stop-out?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">回撤与追加保证金或强制平仓有何不同？</span>"
+    },
+    {
+      "key": "t44359a358f4433ff",
+      "english": "<span data-i18n-slot=\"0\">Drawdown measures a decline from a previous account or strategy peak. Margin call and stop-out are margin mechanisms triggered when account margin levels reach specified thresholds. UpForex currently publishes</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Margin Call and Stop-Out levels</span></span><span data-i18n-slot=\"4\"> of 50% and 30%, respectively. Those percentages are not drawdown percentages.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">回撤衡量的是相对于之前的账户或策略峰值的下降。追加保证金和强制平仓是当账户保证金水平达到指定阈值时触发的保证金机制。 UpForex 目前发布的</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">追加保证金和强制平仓水平</span></span><span data-i18n-slot=\"4\">分别为 50% 和 30%。这些百分比不是回撤百分比。</span>"
+    },
+    {
+      "key": "t689b4d0a125066d0",
+      "english": "<span data-i18n-slot=\"0\">What does max drawdown mean in trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最大回撤在交易中意味着什么？</span>"
+    },
+    {
+      "key": "tb4535127e42150ed",
+      "english": "<span data-i18n-slot=\"0\">Maximum drawdown is the largest recorded decline from a peak to a subsequent trough during a measured period. It is useful for understanding historical downside, but previous maximum drawdown does not establish a limit on how large a future decline could become.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最大回撤是在测量期间从峰值到随后的谷值的最大记录下降。它对于了解历史下跌很有用，但之前的最大回撤并不能限制未来下跌的幅度。</span>"
+    },
+    {
+      "key": "tf37daf04028b47c0",
+      "english": "<span data-i18n-slot=\"0\">Understand Drawdown Before Increasing Exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">增加风险之前了解回撤</span>"
+    },
+    {
+      "key": "tcbfcdea09971d8e4",
+      "english": "<span data-i18n-slot=\"0\">How Do You Calculate Forex Position Size?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何计算外汇头寸规模？</span>"
+    },
+    {
+      "key": "t248e413c01be47d8",
+      "english": "<span data-i18n-slot=\"0\">Position size</span><span data-i18n-slot=\"1\"> is the amount of a currency or CFD instrument you choose to trade, while </span><span data-i18n-slot=\"2\">lot size</span><span data-i18n-slot=\"3\"> is the standardised way that amount is expressed on a trading platform. In forex, one standard lot normally represents 100,000 units of the base currency, while a 0.10 lot represents 10,000 units and a 0.01 lot represents 1,000 units.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">头寸规模</span><span data-i18n-slot=\"1\">是您选择交易的货币或差价合约工具的数量，而</span><span data-i18n-slot=\"2\">手数</span><span data-i18n-slot=\"3\">是在交易平台上表示该数量的标准化方式。在外汇中，一标准手通常代表100,000单位基础货币，0.10手代表10,000单位，0.01手代表1,000单位。</span>"
+    },
+    {
+      "key": "td1049149f1198eb1",
+      "english": "<span data-i18n-slot=\"0\">Position size (in units) = (Account balance × Risk %) ÷ (Stop-loss in pips × Pip value per unit)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">头寸规模（单位）=（账户余额 × 风险%） ÷ （止损点数 × 每单位点值）</span>"
+    },
+    {
+      "key": "t03c0ab14f7a9498c",
+      "english": "<span data-i18n-slot=\"0\">What Is Position Size in Forex Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇交易中的头寸规模是多少？</span>"
+    },
+    {
+      "key": "t30f4a0480b31f1c2",
+      "english": "<span data-i18n-slot=\"0\">Position size in forex is the total amount of a currency pair you control in a trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇头寸规模是您在一笔交易中控制的货币对总数量。</span>"
+    },
+    {
+      "key": "t0cf8030006c6563a",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot creates a smaller monetary change per pip.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01 手每点产生较小的货币变化。</span>"
+    },
+    {
+      "key": "t709a68416d88949d",
+      "english": "<span data-i18n-slot=\"0\">0.10 lot creates a larger monetary change per pip.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.10 手每点产生更大的货币变化。</span>"
+    },
+    {
+      "key": "ta751db1b313cdb93",
+      "english": "<span data-i18n-slot=\"0\">1.00 lot creates a still larger monetary change per pip.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.00 手每点产生更大的货币变化。</span>"
+    },
+    {
+      "key": "ta08701d1ae9fc733",
+      "english": "<span data-i18n-slot=\"0\">What Is the Difference Between Position Size and Lot Size?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">头寸大小和手数大小有什么区别？</span>"
+    },
+    {
+      "key": "t7579b9f89149b258",
+      "english": "<span data-i18n-slot=\"0\">Position size tells you how much of an instrument you are trading, while lot size expresses that position using the platform's contract-size convention.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">头寸大小告诉您正在交易的工具的数量，而手数大小则使用平台的合约大小约定来表示该头寸。</span>"
+    },
+    {
+      "key": "t5b8d59aef72de5b0",
+      "english": "<span data-i18n-slot=\"0\">In forex, the relationship is straightforward:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在外汇交易中，这种关系很简单：</span>"
+    },
+    {
+      "key": "tc81c4a3b06514c51",
+      "english": "<span data-i18n-slot=\"0\">Standard lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">标准手</span>"
+    },
+    {
+      "key": "tc2b0c6ad2f077229",
+      "english": "<span data-i18n-slot=\"0\">Mini lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">迷你手</span>"
+    },
+    {
+      "key": "t760ba0241e434cb0",
+      "english": "<span data-i18n-slot=\"0\">Micro lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">微型手</span>"
+    },
+    {
+      "key": "tce2a7ab54d083a4f",
+      "english": "<span data-i18n-slot=\"0\">25,000 ÷ 100,000 = 0.25 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">25,000 ÷ 100,000 = 0.25 手</span>"
+    },
+    {
+      "key": "tdfa2d2fff5aa3bdf",
+      "english": "<span data-i18n-slot=\"0\">What Is the Forex Position Size Formula?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇头寸规模公式是什么？</span>"
+    },
+    {
+      "key": "t636496d9cd2b6e29",
+      "english": "<span data-i18n-slot=\"0\">The forex position size formula connects the amount you are prepared to risk with the distance between your entry and stop loss.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇头寸规模公式将您准备承担风险的金额与您的进场和止损之间的距离联系起来。</span>"
+    },
+    {
+      "key": "tbb67431eff8cc836",
+      "english": "<span data-i18n-slot=\"0\">Pip value</span><span data-i18n-slot=\"1\">: the monetary value of each pip for the relevant position unit.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点值</span><span data-i18n-slot=\"1\">：相关头寸单位的每个点的货币价值。</span>"
+    },
+    {
+      "key": "t76b5bbd5c1492959",
+      "english": "<span data-i18n-slot=\"0\">How Do You Calculate Position Size Step by Step?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何逐步计算头寸规模？</span>"
+    },
+    {
+      "key": "tbf559f7be076bc9f",
+      "english": "<span data-i18n-slot=\"0\">A practical workflow looks like this:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实用的工作流程如下所示：</span>"
+    },
+    {
+      "key": "t8fd48bbc57ca1622",
+      "english": "<span data-i18n-slot=\"0\">Suppose your planned trade uses a:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">假设您计划的交易使用：</span>"
+    },
+    {
+      "key": "t1bc0fb1f6e15d987",
+      "english": "<span data-i18n-slot=\"0\">50-pip stop loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">50点止损</span>"
+    },
+    {
+      "key": "tc67ae34652f38cce",
+      "english": "<span data-i18n-slot=\"0\">Step 4: Determine pip value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 4 步：确定点值</span>"
+    },
+    {
+      "key": "tcd46694bb4c1b831",
+      "english": "<span data-i18n-slot=\"0\">For EUR/USD in a USD-denominated account, one unit has a pip value of approximately $0.0001 for a standard four-decimal pip.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于以美元计价的账户中的欧元/美元，对于标准的四位小数点来说，一个单位的点值约为 0.0001 美元。</span>"
+    },
+    {
+      "key": "tbc637aec44a23514",
+      "english": "<span data-i18n-slot=\"0\">That shortcut works because USD is the pair's quote currency and also the account currency. If the quote currency does not match the account currency, as can happen with cross pairs, the pip value normally requires an additional currency-conversion step.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">该快捷方式之所以有效，是因为美元是货币对的报价货币，也是账户货币。如果报价货币与账户货币不匹配（交叉货币对可能会发生这种情况），则点值通常需要额外的货币转换步骤。</span>"
+    },
+    {
+      "key": "t9599fee53a6de3f1",
+      "english": "<span data-i18n-slot=\"0\">JPY pairs also use a different convention: one pip is typically the second decimal place rather than the fourth, so the pip value per unit must be calculated using that pricing format.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">日元对也使用不同的约定：一个点通常是小数点后第二位而不是第四位，因此每单位的点值必须使用该定价格式来计算。</span>"
+    },
+    {
+      "key": "t7fa9946568e01a79",
+      "english": "<span data-i18n-slot=\"0\">Step 6: Convert units into lots</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 6 步：将单位转换为手</span>"
+    },
+    {
+      "key": "t8f014e628ea27ece",
+      "english": "<span data-i18n-slot=\"0\">The calculated forex position size is therefore:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因此计算出的外汇头寸规模为：</span>"
+    },
+    {
+      "key": "t1995a73c2b2bccde",
+      "english": "<span data-i18n-slot=\"0\">Worked Example: How Do You Calculate Position Size on EUR/USD?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">工作示例：如何计算欧元/美元的头寸规模？</span>"
+    },
+    {
+      "key": "t766f202a2147add0",
+      "english": "<span data-i18n-slot=\"0\">Currency pair</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">货币对</span>"
+    },
+    {
+      "key": "t484b68aa85a76a42",
+      "english": "<span data-i18n-slot=\"0\">50 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">50 点</span>"
+    },
+    {
+      "key": "tf751757021c2c17e",
+      "english": "<span data-i18n-slot=\"0\">Pip value per unit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每单位点值</span>"
+    },
+    {
+      "key": "t28e830413e49d983",
+      "english": "<span data-i18n-slot=\"0\">Final lot size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最终手数</span>"
+    },
+    {
+      "key": "te5cc74302bc70cd6",
+      "english": "<span data-i18n-slot=\"0\">0.20 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.20 手</span>"
+    },
+    {
+      "key": "td5b571d082e284e8",
+      "english": "<span data-i18n-slot=\"0\">At 0.20 lot on this EUR/USD example, the approximate pip value is $2 per pip.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在此欧元/美元示例中，以 0.20 手为单位，点值的近似值为每点 2 美元。</span>"
+    },
+    {
+      "key": "t81a2cc20a33fbcb2",
+      "english": "<span data-i18n-slot=\"0\">A 50-pip movement to the stop would therefore represent approximately:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因此，到止损点的 50 点移动大约代表：</span>"
+    }
+  ]
+}

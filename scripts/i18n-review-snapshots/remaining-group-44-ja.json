@@ -1,0 +1,347 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t8957dbac8df32388",
+      "english": "<span data-i18n-slot=\"0\">Where Is It?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">どこにあるの？</span>"
+    },
+    {
+      "key": "t2cdf0fee1a737c62",
+      "english": "The process of purchasing and selling currencies with the intention of turning a profit is called <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">forex trading</span></span>, sometimes referred to as currency trading or foreign exchange trading. You exchange your rupees for dollars. When the value of the dollar rises compared to the rupee, you technically make a profit if you exchange it back. That simple concept is the heart of forex trading—except it’s done online, on a much bigger scale, and involves traders from all over the world",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "利益を目的として通貨を売買する行為を、<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">外国為替取引</span></span>、通貨取引、またはフォレックス取引と呼びます。例えばルピーをドルに交換し、ドルの価値がルピーに対して上昇した後に元に戻せば、理論上は利益になります。これが外国為替取引の中心となる単純な考え方です。ただしオンラインで、はるかに大きな規模で、世界中のトレーダーが参加して行われます。"
+    },
+    {
+      "key": "t1e7d99a1db69e6ed",
+      "english": "These trades occur in pairs—every “buy” has a corresponding “sell.” For every pair, platforms show two prices: the ask (the price you can purchase at) and the bid (the price you can sell at). The broker's fee is the difference, often known as the spread. In order to control a larger position with a little deposit, traders frequently employ leverage, borrowing money.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "これらの取引はペアで行われ、すべての「買い」には対応する「売り」があります。プラットフォームでは、ペアごとに 二 つの価格、アスク (購入できる価格) とビッド (販売可能な価格) が表示されます。ブローカー手数料は差額であり、スプレッドとしてよく知られています。少ない入金でより大きなポジションをコントロールするために、トレーダーは頻繁にレバレッジを利用してお金を借ります。"
+    },
+    {
+      "key": "t621d7b9875fba9d0",
+      "english": "Making money from Forex Trading for Beginners goes beyond just guessing which way the market will move. Successful traders develop routines that safeguard their money and raise the likelihood of steady profits. These essential habits can help direct your path, regardless of whether you're just getting started or trying to get better.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "初心者向けの外国為替取引でお金を稼ぐことは、単に市場がどちらに動くかを推測するだけではありません。成功したトレーダーは、資金を保護し、安定した利益の可能性を高めるルーチンを開発します。これらの重要な習慣は、始めたばかりの場合でも、より良くなろうとしている場合でも、方向性を定めるのに役立ちます。"
+    },
+    {
+      "key": "t900abe0e5d88703e",
+      "english": "Use leverage with caution. It might raise your losses even though it allows you to manage big deals with a modest commitment. Many experienced traders prefer using low-to-moderate leverage to stay safe during market swings.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "レバレッジの使用には注意してください。たとえ控えめなコミットメントで大きな取引を管理できるとしても、損失が増加する可能性があります。経験豊富なトレーダーの多くは、市場の変動時に安全を保つために低から中程度のレバレッジを使用することを好みます。"
+    },
+    {
+      "key": "t5ee57dd52fd37825",
+      "english": "Lastly, always keep track of your trades. Maintaining a trading journal—where you log entry and exit points, reasons behind your trades, and the outcomes—can reveal patterns in your performance and help you improve your strategies.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "最後に、常に取引を追跡してください。取引日誌を付けて、エントリーポイントとエグジットポイント、取引の背後にある理由、結果を記録すると、パフォーマンスのパターンが明らかになり、戦略を改善するのに役立ちます。"
+    },
+    {
+      "key": "t068952e5babb10db",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">These guidelines are usually followed by profitable traders:</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">利益を上げているトレーダーは通常、次のガイドラインに従っています。</span></span>"
+    },
+    {
+      "key": "tb1fcaf4244565d88",
+      "english": "<span data-i18n-slot=\"0\">Avoid too much leverage:</span> While it might boost earnings, it can also boost losses. The majority of profitable traders employ moderate leverage levels.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">過剰なレバレッジを避ける:</span> レバレッジは収益を増やす可能性がありますが、損失も拡大する可能性があります。利益を上げているトレーダーの大多数は、中程度のレバレッジレベルを採用しています。"
+    },
+    {
+      "key": "t8ce8bc2600d1b09e",
+      "english": "<span data-i18n-slot=\"0\">Diversify your currency pairs:</span> After you have some experience, you should refrain from investing all of your money in one pair.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通貨ペアを多様化する:</span> ある程度の経験を積んだ後は、一 つの通貨ペアにすべての資金を投資するのはやめるべきです。"
+    },
+    {
+      "key": "t6fc9d43964399ec1",
+      "english": "<span data-i18n-slot=\"0\">Examine your documents: </span>Keep track of every trade, including entry and exit points and the rationale behind your choices, so you can gain knowledge as you go.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">書類を確認する: </span>エントリーポイントとエグジットポイント、選択の背後にある理論的根拠など、あらゆる取引を追跡して、作業を進めながら知識を得ることができます。"
+    },
+    {
+      "key": "tb7071140d5562668",
+      "english": "<span data-i18n-slot=\"0\">Create an account with a brokerage:</span> Choose a broker who is subject to regulation by a respectable financial body, like the Commodities Futures Trading Commission (CFTC) in the United States. Make sure the broker has reasonable costs, a user-friendly trading platform, and excellent customer service. For inspiration.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証券会社に口座を作成する:</span> 米国の商品先物取引委員会 (CFTC) など、立派な金融機関による規制の対象となる証券会社を選択してください。ブローカーが合理的なコスト、ユーザーフレンドリーな取引プラットフォーム、優れた顧客サービスを備えていることを確認してください。インスピレーションのために。"
+    },
+    {
+      "key": "te670554aebfe6368",
+      "english": "<span data-i18n-slot=\"0\">Practice using a </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">demo account</span></span><span data-i18n-slot=\"3\">: </span>Before you invest real money, you can paper trade on a lot of best forex trading platform. Now is the moment to make sure you have tested your tactics and mastered all the trading mechanics. Finding your flaws and blunders in practice mode is preferable to doing so while your money is on the line.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">デモ口座の使用を練習する</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">デモ口座</span></span><span data-i18n-slot=\"3\">: </span>リアルマネーを投資する前に、多くの最高の外国為替取引プラットフォームで紙取引を行うことができます。今こそ、自分の戦術をテストし、すべての取引メカニズムを習得していることを確認するときです。お金がかかっているときに自分の欠点や失敗を見つけるよりも、練習モードで自分の欠点や失敗を見つける方が望ましいでしょう。"
+    },
+    {
+      "key": "ta910d114b150d5a4",
+      "english": "Yes, Forex trading can be good for beginners—but only if approached the right way. Forex trading can be a suitable starting point for those new to financial markets, as it offers a relatively accessible entry with small capital, flexible trading hours, and plenty of learning opportunities. When they first start trading, many novices investigate the currency market, frequently utilizing demo accounts to obtain practical experience before making real money investments.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "はい、外国為替取引は初心者にとって良いものですが、それは正しい方法で取り組んだ場合に限られます。外国為替取引は、少額の資金で比較的アクセスしやすく、柔軟な取引時間、豊富な学習の機会を提供するため、金融市場の初心者にとって適切な出発点となります。初めて取引を始めるとき、多くの初心者は通貨市場を調査し、リアルマネー投資を行う前にデモ口座を頻繁に利用して実践的な経験を積みます。"
+    },
+    {
+      "key": "te3a57eb85b9d05da",
+      "english": "Market volatility and speed are key factors that influence trading decisions and investment strategies. Volatility refers to the degree of variation in asset prices over time, often driven by economic events, geopolitical tensions, or sudden market shifts. High volatility can present both risk and opportunity, as prices may swing rapidly within short periods. Speed, particularly in modern markets, is critical—driven by algorithmic trading and real-time data processing—where milliseconds can make a difference in capitalizing on market movements.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "市場のボラティリティとスピードは、取引の意思決定や投資戦略に影響を与える重要な要素です。ボラティリティとは、時間の経過に伴う資産価格の変動の度合いを指し、多くの場合、経済事象、地政学的な緊張、市場の突然の変化によって引き起こされます。価格が短期間に急激に変動する可能性があるため、ボラティリティが高いとリスクと機会の両方が生じる可能性があります。特に現代の市場では、アルゴリズム取引とリアルタイムのデータ処理によりスピードが重要であり、ミリ秒が市場の動きを利用する上で違いを生む可能性があります。"
+    },
+    {
+      "key": "t8e69abb8abaccc20",
+      "english": "Trading forex may be emotionally draining. Typical psychological traps consist of:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "外国為替取引は精神的に消耗するかもしれません。典型的な心理的トラップは次のようなもので構成されます。"
+    },
+    {
+      "key": "tb33fd928eaa67bca",
+      "english": "Forex markets are physically and psychologically taxing due to their 24-hour existence. In contrast to stock markets, which have regular trading hours, forex necessitates constant position monitoring or the establishment of exact exit points in order to guard against unfavorable movements during off-peak hours.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "外国為替市場は 24 時間存在するため、肉体的にも精神的にも負担がかかります。通常の取引時間がある株式市場とは対照的に、外国為替では、オフピーク時間中の不利な動きを防ぐために、ポジションを継続的に監視するか、正確な出口ポイントを設定する必要があります。"
+    },
+    {
+      "key": "t7256e8d92a0a6ea9",
+      "english": "Institutional disadvantage",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "制度上の不利な点"
+    },
+    {
+      "key": "t589fb87a9aed1650",
+      "english": "Spreads and fees, though seemingly minor, can accumulate over time and significantly impact overall profitability—particularly for frequent traders. To realize any profit, a trader must first offset these costs.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "スプレッドと手数料は、一見わずかに見えますが、時間の経過とともに蓄積され、特に頻繁にトレーダーの場合、全体の収益性に大きな影響を与える可能性があります。利益を得るには、トレーダーはまずこれらのコストを相殺する必要があります。"
+    },
+    {
+      "key": "tb7dcc6eacaa2f260",
+      "english": "<span data-i18n-slot=\"0\">Leverage Up to 1:300 <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> Amplify your trading potential with customizable leverage. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading#content",
+        "SSR:/blogs/forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジ最大 1:300 <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> カスタマイズ可能なレバレッジで取引の可能性を拡大します。 </span>"
+    },
+    {
+      "key": "t2f338cd0cb9c924c",
+      "english": "On April 4, the US stock market witnessed a dramatic selloff, wiping out an astonishing $2.4 trillion in a single day from <span data-i18n-slot=\"0\">S&amp;P 500</span> companies. It marked the steepest one-day decline in US markets since the COVID panic of 2020, Google Finance data showed.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "四月4日、米国株式市場は大幅な売りに見舞われ、<span data-i18n-slot=\"0\">S&amp;P 500</span>企業の時価総額が一日で$2.4兆も失われました。Google Financeのデータによると、2020年の新型コロナによる混乱以来、米国市場で最も大きな一日の下落となりました。"
+    },
+    {
+      "key": "t4ccc8d35ff1d7133",
+      "english": "The <span data-i18n-slot=\"0\">Nasdaq</span> Composite Index fell the most since March 2020, while the S&amp;P 500 and <span data-i18n-slot=\"1\">Dow Jones Industrial Average</span> saw their sharpest drops since June 2020, according to Google Finance. But what was the trigger? A reciprocal tariff announcement by President Donald Trump, once again shaking up global trade dynamics.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "Google Financeによると、<span data-i18n-slot=\"0\">ナスダック</span>総合指数は2020年三月以来、S&amp;P 500と<span data-i18n-slot=\"1\">ダウ平均株価</span>は2020年六月以来の最大の下落となりました。きっかけは何でしょうか。ドナルド・トランプ大統領の相互関税の発表が、世界の貿易の動きを再び揺さぶりました。"
+    },
+    {
+      "key": "tcbff4cb11283cac3",
+      "english": "<span data-i18n-slot=\"0\">What is a Reciprocal Tariff?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相互関税とは何ですか?</span>"
+    },
+    {
+      "key": "t809ee9bdc0051cf7",
+      "english": "The sudden slide in the US market was largely triggered by Donald Trump’s sweeping trade tariff announcement. Starting April 5, a 10% base tariff will be imposed on nearly all US imports. But the more shocking part came with the additional \"reciprocal tariffs\" – custom rates on countries based on how they tax US exports.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "米国市場の急落は、主にドナルド・トランプ氏による大規模な貿易関税の発表が引き金でした。四月5日から、米国へのほぼすべての輸入品に10%の基本関税が課されます。さらに衝撃的だったのは、各国が米国の輸出品にどう課税するかに基づく、国別の追加「相互関税」でした。"
+    },
+    {
+      "key": "t117dc6af95d61165",
+      "english": "Some of these reciprocal tariffs were as high as:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "これらの相互関税の中には、次のような高額なものもありました。"
+    },
+    {
+      "key": "t96d45c4c38cb8d24",
+      "english": "<span data-i18n-slot=\"0\">Goldman Sachs</span> has called Trump’s tariffs a serious threat to global economic growth. They also warned the US Federal Reserve may have to cut interest rates more aggressively to support the economy.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ゴールドマン・サックス</span>は、トランプ大統領の関税は世界経済成長に対する深刻な脅威であると主張した。彼らはまた、経済を支援するために米連邦準備理事会がより積極的な利下げを行う必要があるかもしれないと警告した。"
+    },
+    {
+      "key": "t45be0b30d5daf01a",
+      "english": "<span data-i18n-slot=\"0\">Company</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">会社名</span>"
+    },
+    {
+      "key": "t1914a14f5a5fe37b",
+      "english": "<span data-i18n-slot=\"0\">M-Cap on April 3</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">四月3日の時価総額</span>"
+    },
+    {
+      "key": "t337c98b0017db262",
+      "english": "<span data-i18n-slot=\"0\">Footwear and apparel stocks take a hit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">履物とアパレル株が打撃を受ける</span>"
+    },
+    {
+      "key": "t00f86859656bb741",
+      "english": "According to the Footwear Distributors and Retailers of America, nearly one-third of all US footwear imports in 2023 came from Vietnam, the highest among all countries. Nike, for instance, gets about half of its footwear from China and Vietnam combined, with around 25% specifically from Vietnam.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "米国の履物流通・小売業者団体によると、2023年の米国の履物輸入のほぼ三分の一はベトナムからで、国別で最大でした。例えばナイキは、履物の約半分を中国とベトナムから調達し、ベトナムだけで約25%を占めています。"
+    },
+    {
+      "key": "t9d32030ac2ad9b16",
+      "english": "<span data-i18n-slot=\"0\">Here's how these stocks fared following the tariff announcement:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">関税発表後のこれらの銘柄の動向は次のとおりです。</span>"
+    },
+    {
+      "key": "tb381f92749f03faf",
+      "english": "<span data-i18n-slot=\"0\">M-Cap</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">時価総額</span>"
+    },
+    {
+      "key": "ta42b5ca2e01de5c4",
+      "english": "<span data-i18n-slot=\"0\">Tariffs rattle US dollar, other asset classes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">関税により米ドルやその他の資産クラスがガタガタになる</span>"
+    },
+    {
+      "key": "td255bf1a034cd108",
+      "english": "The selloff was not just limited to stocks. The ripple effects were felt across currencies, bonds, and volatility indexes.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "売りは株式だけにとどまらず、通貨、債券、ボラティリティ指数にも波及しました。"
+    },
+    {
+      "key": "teddaf9e09bf7445a",
+      "english": "US 10-year bond yields fell to 4.03%, as investors rushed to safety.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "投資家が安全を求めたため、米10年債利回りは4.03％まで低下した。"
+    }
+  ]
+}

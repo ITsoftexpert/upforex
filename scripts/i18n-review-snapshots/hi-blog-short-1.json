@@ -1,0 +1,602 @@
+[
+  {
+    "key": "tcc46dc8b689d1191",
+    "english": "<span data-i18n-slot=\"0\">Traders following gold trading online should pay attention to:</span>",
+    "translation": "<span data-i18n-slot=\"0\">ऑनलाइन सोने का कारोबार करने वाले व्यापारियों को इन बातों पर ध्यान देना चाहिए:</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tc3c35847979a4fa7",
+    "english": "<span data-i18n-slot=\"0\">Statements from monetary policymakers.</span>",
+    "translation": "<span data-i18n-slot=\"0\">मौद्रिक नीति निर्माताओं के वक्तव्य।</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tff9be69dbf51f819",
+    "english": "<span data-i18n-slot=\"0\">Making charges and retail premiums.</span>",
+    "translation": "<span data-i18n-slot=\"0\">निर्माण शुल्क और खुदरा प्रीमियम।</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t3c9840ea8f7b4f82",
+    "english": "<span data-i18n-slot=\"0\">Relative Strength Index (RSI) to assess momentum.</span>",
+    "translation": "<span data-i18n-slot=\"0\">गति का आकलन करने के लिए सापेक्ष शक्ति सूचकांक (RSI)।</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tb4da5f63bbb2c101",
+    "english": "<span data-i18n-slot=\"0\">Support and resistance levels to identify important price areas.</span>",
+    "translation": "<span data-i18n-slot=\"0\">महत्वपूर्ण मूल्य क्षेत्रों की पहचान करने के लिए समर्थन और प्रतिरोध स्तर।</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t284797f34c572ded",
+    "english": "<span data-i18n-slot=\"0\">€1 = US$1.0850</span>",
+    "translation": "<span data-i18n-slot=\"0\">€1 = US$1.0850</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t59a8e3e497710e20",
+    "english": "<span data-i18n-slot=\"0\">Client relationship</span>",
+    "translation": "<span data-i18n-slot=\"0\">ग्राहक संबंध</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t9018db52ae88968c",
+    "english": "<span data-i18n-slot=\"0\">Typical profile</span>",
+    "translation": "<span data-i18n-slot=\"0\">विशिष्ट प्रोफ़ाइल</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tecbf5f7fc2476c9d",
+    "english": "<span data-i18n-slot=\"0\">Handles clearing</span>",
+    "translation": "<span data-i18n-slot=\"0\">समाशोधन संभालता है</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t83aabdf4bc7853da",
+    "english": "<span data-i18n-slot=\"0\">Normally no</span>",
+    "translation": "<span data-i18n-slot=\"0\">आम तौर पर नहीं</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tac34a3ce84ffa9a0",
+    "english": "<span data-i18n-slot=\"0\">What Makes a Strong Introducing Broker Program?</span>",
+    "translation": "<span data-i18n-slot=\"0\">एक मजबूत परिचय ब्रोकर प्रोग्राम क्या बनाता है?</span>",
+    "kind": "html"
+  },
+  {
+    "key": "td7575f00bd510090",
+    "english": "<span data-i18n-slot=\"0\">Written commission and attribution rules</span>",
+    "translation": "<span data-i18n-slot=\"0\">लिखित कमीशन और एट्रिब्यूशन नियम</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t50e0c3b41e40473a",
+    "english": "<span data-i18n-slot=\"0\">Relevant product range</span>",
+    "translation": "<span data-i18n-slot=\"0\">प्रासंगिक उत्पाद श्रेणी</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tf56d865f8e9258d7",
+    "english": "<span data-i18n-slot=\"0\">Responsive client support</span>",
+    "translation": "<span data-i18n-slot=\"0\">उत्तरदायी ग्राहक सहायता</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tfc5641110be34305",
+    "english": "<span data-i18n-slot=\"0\">Trading Educators and Mentors</span>",
+    "translation": "<span data-i18n-slot=\"0\">ट्रेडिंग शिक्षक और सलाहकार</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t45ecdf6d0b4d5453",
+    "english": "<span data-i18n-slot=\"0\">Finance Content Creators</span>",
+    "translation": "<span data-i18n-slot=\"0\">वित्त सामग्री निर्माता</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t3319788c46477366",
+    "english": "<span data-i18n-slot=\"0\">3. Test the Client Journey</span>",
+    "translation": "<span data-i18n-slot=\"0\">3. ग्राहक यात्रा का परीक्षण करें</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t0c69b353c4c627a9",
+    "english": "<span data-i18n-slot=\"0\">Common Mistakes New IBs Make</span>",
+    "translation": "<span data-i18n-slot=\"0\">नए आईबी द्वारा की जाने वाली सामान्य गलतियाँ</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t1c643ebde47fe86d",
+    "english": "<span data-i18n-slot=\"0\">Referring clients without understanding the platform</span>",
+    "translation": "<span data-i18n-slot=\"0\">प्लेटफ़ॉर्म को समझे बिना ग्राहकों को रेफर करना</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t92181d732131ca3b",
+    "english": "<span data-i18n-slot=\"0\">Publishing outdated account conditions</span>",
+    "translation": "<span data-i18n-slot=\"0\">पुरानी खाता शर्तों को प्रकाशित करना</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tbf7a8d25592e8ccd",
+    "english": "<span data-i18n-slot=\"0\">Failing to disclose the commercial relationship</span>",
+    "translation": "<span data-i18n-slot=\"0\">व्यावसायिक संबंध का खुलासा करने में विफल</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t3f116c8b754f11c5",
+    "english": "<span data-i18n-slot=\"0\">Neglecting referred clients after registration</span>",
+    "translation": "<span data-i18n-slot=\"0\">पंजीकरण के बाद संदर्भित ग्राहकों की उपेक्षा करना</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t4fe558438a15fc3f",
+    "english": "<span data-i18n-slot=\"0\">What is the difference between an Introducing Broker and an affiliate?</span>",
+    "translation": "<span data-i18n-slot=\"0\">एक परिचयकर्ता ब्रोकर और एक सहयोगी के बीच क्या अंतर है?</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t39dffd7be7bb2f7f",
+    "english": "MirrorTrading",
+    "translation": "मिररट्रेडिंग",
+    "kind": "text"
+  },
+  {
+    "key": "tc64501dbcecbee9f",
+    "english": "MIRRORTRADING",
+    "translation": "मिररट्रेडिंग",
+    "kind": "text"
+  },
+  {
+    "key": "t35c1653ba6837a4b",
+    "english": "TradingSignals",
+    "translation": "ट्रेडिंग सिग्नल",
+    "kind": "text"
+  },
+  {
+    "key": "t323604fb5579c28b",
+    "english": "TRADINGSIGNALS",
+    "translation": "ट्रेडिंगसिग्नल",
+    "kind": "text"
+  },
+  {
+    "key": "tf6ec4753213122f7",
+    "english": "<span data-i18n-slot=\"0\">A trader’s live decisions</span>",
+    "translation": "<span data-i18n-slot=\"0\">एक व्यापारी के लाइव निर्णय</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t29f1f65d2ff5285d",
+    "english": "<span data-i18n-slot=\"0\">Subscriber can usually stop or adjust copying</span>",
+    "translation": "<span data-i18n-slot=\"0\">सब्सक्राइबर आमतौर पर कॉपी करना बंद या समायोजित कर सकता है</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t3aeee8f25bbc366c",
+    "english": "<span data-i18n-slot=\"0\">Capital exposure</span>",
+    "translation": "<span data-i18n-slot=\"0\">पूंजी जोखिम</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t10a54c08f9259c9a",
+    "english": "<span data-i18n-slot=\"0\">Real funds are exposed when enabled</span>",
+    "translation": "<span data-i18n-slot=\"0\">सक्षम होने पर वास्तविक फंड सामने आते हैं</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t46f975b1f5e7b9c3",
+    "english": "<span data-i18n-slot=\"0\">Requires judgement and filtering</span>",
+    "translation": "<span data-i18n-slot=\"0\">निर्णय और फ़िल्टरिंग की आवश्यकता है</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tc8cea7db095eca01",
+    "english": "<span data-i18n-slot=\"0\">Acting on poor or biased information</span>",
+    "translation": "<span data-i18n-slot=\"0\">खराब या पक्षपातपूर्ण जानकारी पर कार्रवाई</span>",
+    "kind": "html"
+  },
+  {
+    "key": "ta8cafb1cc1b87174",
+    "english": "<span data-i18n-slot=\"0\">Strategy failure when conditions change</span>",
+    "translation": "<span data-i18n-slot=\"0\">स्थितियां बदलने पर रणनीति विफल</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t164481225415e658",
+    "english": "<span data-i18n-slot=\"0\">What is the difference between a bullish and bearish candlestick?</span>",
+    "translation": "<span data-i18n-slot=\"0\">तेज़ी और मंदी वाली कैंडलस्टिक के बीच क्या अंतर है?</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t599d51b843187380",
+    "english": "Retail Traders Lose Money",
+    "translation": "खुदरा व्यापारियों को घाटा हुआ",
+    "kind": "text"
+  },
+  {
+    "key": "tc3c1261b4a7714c1",
+    "english": "RetailTrading",
+    "translation": "खुदरा व्यापार",
+    "kind": "text"
+  },
+  {
+    "key": "t472d253b08e31361",
+    "english": "RETAILTRADING",
+    "translation": "खुदरा व्यापार",
+    "kind": "text"
+  },
+  {
+    "key": "tdc8f1b5acc596220",
+    "english": "ForexRisk",
+    "translation": "विदेशी मुद्रा जोखिम",
+    "kind": "text"
+  },
+  {
+    "key": "t3e31263a9f46de40",
+    "english": "FOREXRISK",
+    "translation": "विदेशी जोखिम",
+    "kind": "text"
+  },
+  {
+    "key": "tec0e0861612a8ca7",
+    "english": "CFDTRADING",
+    "translation": "सीएफडीट्रेडिंग",
+    "kind": "text"
+  },
+  {
+    "key": "t9f44f729fb99794d",
+    "english": "LeverageRisk",
+    "translation": "जोखिम का लाभ उठाएं",
+    "kind": "text"
+  },
+  {
+    "key": "t80356797f7198ae9",
+    "english": "<span data-i18n-slot=\"0\">May be informal or inconsistent</span>",
+    "translation": "<span data-i18n-slot=\"0\">अनौपचारिक या असंगत हो सकता है</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t39161b6113a5f735",
+    "english": "<span data-i18n-slot=\"0\">Leverage use</span>",
+    "translation": "<span data-i18n-slot=\"0\">उत्तोलन का उपयोग</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t52aef77089f2ffbe",
+    "english": "<span data-i18n-slot=\"0\">Frequently overused for faster returns</span>",
+    "translation": "<span data-i18n-slot=\"0\">तेज रिटर्न के लिए अक्सर इसका अत्यधिक उपयोग किया जाता है</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t92528d377fa66165",
+    "english": "<span data-i18n-slot=\"0\">Typical outcome pattern</span>",
+    "translation": "<span data-i18n-slot=\"0\">विशिष्ट परिणाम पैटर्न</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t368cbdccfe39162a",
+    "english": "<span data-i18n-slot=\"0\">A larger share experience net losses</span>",
+    "translation": "<span data-i18n-slot=\"0\">एक बड़ा शेयर शुद्ध घाटे का अनुभव करता है</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t9d94a4f348ea752b",
+    "english": "<span data-i18n-slot=\"0\">Overleveraging and Margin Risk</span>",
+    "translation": "<span data-i18n-slot=\"0\">ओवरलीवरेजिंग और मार्जिन जोखिम</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t95005e5fafec4e01",
+    "english": "<span data-i18n-slot=\"0\">A Simple Example: How Leverage Risk Plays Out</span>",
+    "translation": "<span data-i18n-slot=\"0\">एक सरल उदाहरण: उत्तोलन जोखिम कैसे चलता है</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t32664a7e88e06662",
+    "english": "<span data-i18n-slot=\"0\">Moving a stop-loss farther away to avoid accepting a loss</span>",
+    "translation": "<span data-i18n-slot=\"0\">नुकसान स्वीकार करने से बचने के लिए स्टॉप-लॉस को और दूर ले जाना</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tc7cc7f87c3c1b5af",
+    "english": "<span data-i18n-slot=\"0\">Increasing position size immediately after a win or loss</span>",
+    "translation": "<span data-i18n-slot=\"0\">जीत या हार के तुरंत बाद स्थिति का आकार बढ़ाना</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t1fb2b8b1eabf970b",
+    "english": "<span data-i18n-slot=\"0\">How is a retail trader different from an institutional trader?</span>",
+    "translation": "<span data-i18n-slot=\"0\">एक खुदरा व्यापारी एक संस्थागत व्यापारी से कैसे भिन्न है?</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t58ec6eaf82dd36d1",
+    "english": "<span data-i18n-slot=\"0\">How does leverage affect retail trader losses?</span>",
+    "translation": "<span data-i18n-slot=\"0\">लीवरेज खुदरा व्यापारी के घाटे को कैसे प्रभावित करता है?</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t1e06d1b92b7b2eb7",
+    "english": "<span data-i18n-slot=\"0\">Price exposure only</span>",
+    "translation": "<span data-i18n-slot=\"0\">केवल मूल्य प्रदर्शन</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t646aae841b3f9bb4",
+    "english": "<span data-i18n-slot=\"0\">Instant execution</span>",
+    "translation": "<span data-i18n-slot=\"0\">तत्काल निष्पादन</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tfcda4acb65b7f657",
+    "english": "<span data-i18n-slot=\"0\">What Are Spreads and Swap Fees?</span>",
+    "translation": "<span data-i18n-slot=\"0\">स्प्रेड और स्वैप शुल्क क्या हैं?</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t033892c3ea72d24f",
+    "english": "<span data-i18n-slot=\"0\">Go Long or Short - Profit in Both Market Directions</span>",
+    "translation": "<span data-i18n-slot=\"0\">लंबे या छोटे चलें - बाजार की दोनों दिशाओं में लाभ</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t42c4916476d6b002",
+    "english": "<span data-i18n-slot=\"0\">Geopolitical Events and Safe-Haven Demand</span>",
+    "translation": "<span data-i18n-slot=\"0\">भूराजनीतिक घटनाक्रम और सुरक्षित-आश्रय मांग</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tbd28c74513dbb62f",
+    "english": "<span data-i18n-slot=\"0\">Overnight Swap Fees</span>",
+    "translation": "<span data-i18n-slot=\"0\">ओवरनाइट स्वैप शुल्क</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t80af9b6bff66d275",
+    "english": "<span data-i18n-slot=\"0\">How much leverage is available on gold CFDs in the UAE?</span>",
+    "translation": "<span data-i18n-slot=\"0\">यूएई में सोने के सीएफडी पर कितना लाभ उपलब्ध है?</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t98a2c7509dd05d7a",
+    "english": "Method",
+    "translation": "विधि",
+    "kind": "html"
+  },
+  {
+    "key": "tb1dd95210b87e051",
+    "english": "Low",
+    "translation": "नीचा",
+    "kind": "html"
+  },
+  {
+    "key": "te0c1b0e8836932d0",
+    "english": "Active traders, short–medium term",
+    "translation": "सक्रिय व्यापारी, लघु-मध्यम अवधि",
+    "kind": "html"
+  },
+  {
+    "key": "t6ad38dba103e794e",
+    "english": "Passive, cost-efficient exposure",
+    "translation": "निष्क्रिय, लागत-कुशल प्रदर्शन",
+    "kind": "html"
+  },
+  {
+    "key": "t3f92aa8ab654e89e",
+    "english": "Hands-off, diversified investors",
+    "translation": "व्यावहारिक, विविधीकृत निवेशक",
+    "kind": "html"
+  },
+  {
+    "key": "t440e538d7ca6d6b3",
+    "english": "Beginners &amp; active UAE traders",
+    "translation": "शुरुआती और सक्रिय यूएई व्यापारी",
+    "kind": "html"
+  },
+  {
+    "key": "t324a87cf2e97c76f",
+    "english": "<span data-i18n-slot=\"0\">Fractional physical gold</span>",
+    "translation": "<span data-i18n-slot=\"0\">आंशिक भौतिक सोना</span>",
+    "kind": "html"
+  },
+  {
+    "key": "te979458be506db2d",
+    "english": "<span data-i18n-slot=\"0\">Min. Entry</span>",
+    "translation": "<span data-i18n-slot=\"0\">न्यूनतम. प्रवेश</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t7e3e155979425751",
+    "english": "<span data-i18n-slot=\"0\">Low entry point</span>",
+    "translation": "<span data-i18n-slot=\"0\">कम प्रवेश बिंदु</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tef35dcaad89d44fa",
+    "english": "<span data-i18n-slot=\"0\">Yes, amplified exposure</span>",
+    "translation": "<span data-i18n-slot=\"0\">हां, प्रवर्धित एक्सपोज़र</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tf03d4886ea95ebce",
+    "english": "<span data-i18n-slot=\"0\">Platform-dependent</span>",
+    "translation": "<span data-i18n-slot=\"0\">प्लेटफ़ॉर्म पर निर्भर</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t0150589cb56e5194",
+    "english": "<span data-i18n-slot=\"0\">Long-term savers</span>",
+    "translation": "<span data-i18n-slot=\"0\">दीर्घकालिक बचतकर्ता</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tda80c2617e4ba77d",
+    "english": "<span data-i18n-slot=\"0\">Active traders &amp; hedgers</span>",
+    "translation": "<span data-i18n-slot=\"0\">सक्रिय व्यापारी और हेजर्स</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t2d96bc3631c4927c",
+    "english": "<span data-i18n-slot=\"0\">Go Long or Short: Profit in Both Directions</span>",
+    "translation": "<span data-i18n-slot=\"0\">लंबे या छोटे चलें: दोनों दिशाओं में लाभ</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t54a3f7a12d9d2205",
+    "english": "otc-trading-in-uae",
+    "translation": "ओटीसी-ट्रेडिंग-इन-यूएई",
+    "kind": "text"
+  },
+  {
+    "key": "tca820b84c784f688",
+    "english": "OTC TRADING IN UAE",
+    "translation": "संयुक्त अरब अमीरात में ओटीसी कारोबार",
+    "kind": "text"
+  },
+  {
+    "key": "tc8d078bce1cf02f0",
+    "english": "<span data-i18n-slot=\"0\">Venue</span>",
+    "translation": "<span data-i18n-slot=\"0\">स्थान</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tf9fb899e1e425b46",
+    "english": "<span data-i18n-slot=\"0\">Asset Types</span>",
+    "translation": "<span data-i18n-slot=\"0\">संपत्ति के प्रकार</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t4ec9b22ddc2eec43",
+    "english": "<span data-i18n-slot=\"0\">Exchange and regulator oversight</span>",
+    "translation": "<span data-i18n-slot=\"0\">विनिमय और नियामक निरीक्षण</span>",
+    "kind": "html"
+  },
+  {
+    "key": "ta681c36c6e08e2f2",
+    "english": "<span data-i18n-slot=\"0\">Securities and Commodities Authority</span>",
+    "translation": "<span data-i18n-slot=\"0\">सुरक्षा और वस्तु प्राधिकरण</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tc88d127e9f269b46",
+    "english": "<span data-i18n-slot=\"0\">What You Can Trade OTC</span>",
+    "translation": "<span data-i18n-slot=\"0\">आप OTC पर क्या व्यापार कर सकते हैं</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t709f3bcefe729f38",
+    "english": "<span data-i18n-slot=\"0\">Bonds, Sukuk, and Structured Products</span>",
+    "translation": "<span data-i18n-slot=\"0\">बॉन्ड, सुकुक, और संरचित उत्पाद</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t4ca72d9e5e79296c",
+    "english": "<span data-i18n-slot=\"0\">Pricing and Execution</span>",
+    "translation": "<span data-i18n-slot=\"0\">मूल्य निर्धारण और निष्पादन</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tf4bb5992502115fa",
+    "english": "<span data-i18n-slot=\"0\">If You Are Hedging Exposure</span>",
+    "translation": "<span data-i18n-slot=\"0\">यदि आप एक्सपोज़र से बचाव कर रहे हैं</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tb90794e0a72dc398",
+    "english": "<span data-i18n-slot=\"0\">Market Volatility</span>",
+    "translation": "<span data-i18n-slot=\"0\">बाज़ार में अस्थिरता</span>",
+    "kind": "html"
+  },
+  {
+    "key": "tb43a1165b62b66e5",
+    "english": "<span data-i18n-slot=\"0\">Regulatory Notice: </span>",
+    "translation": "<span data-i18n-slot=\"0\">नियामक सूचना: </span>",
+    "kind": "html"
+  },
+  {
+    "key": "t8485eb94bc55b77a",
+    "english": "CFD INDEX",
+    "translation": "सीएफडी सूचकांक",
+    "kind": "text"
+  },
+  {
+    "key": "t36b734d657a489b4",
+    "english": "<span data-i18n-slot=\"0\">3. Leverage Opportunities</span>",
+    "translation": "<span data-i18n-slot=\"0\">3. अवसरों का लाभ उठाएं</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t119748285d005292",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Lower Capital Needed</span></span>",
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. कम पूंजी की आवश्यकता</span></span>",
+    "kind": "html"
+  },
+  {
+    "key": "t08ed0b75c3e75f7b",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Flexible Trading Hours</span></span>",
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. लचीले व्यापारिक घंटे</span></span>",
+    "kind": "html"
+  },
+  {
+    "key": "t5e705f8a7ddabb8e",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Use Stop-Loss</span></span>",
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. स्टॉप-लॉस का उपयोग करें</span></span>",
+    "kind": "html"
+  },
+  {
+    "key": "t71c031f920eb5965",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Avoid Over-Leverage</span></span>",
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. अधिक उत्तोलन से बचें</span></span>",
+    "kind": "html"
+  },
+  {
+    "key": "t29c5f444d434eb14",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Diversify Your Trades</span></span>",
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. अपने व्यापार में विविधता लाएं</span></span>",
+    "kind": "html"
+  },
+  {
+    "key": "ta23889e47010fa0e",
+    "english": "<span data-i18n-slot=\"0\">Don’t depend on one trade. Spread your risk across different indices.</span>",
+    "translation": "<span data-i18n-slot=\"0\">एक व्यापार पर निर्भर न रहें। अपने जोखिम को विभिन्न सूचकांकों में फैलाएं।</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t744e5f59a187025f",
+    "english": "<span data-i18n-slot=\"0\">Here’s why many traders pick UpForex:</span>",
+    "translation": "<span data-i18n-slot=\"0\">यही कारण है कि कई व्यापारी UpForex चुनते हैं:</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t5a697d0eab7eab42",
+    "english": "<span data-i18n-slot=\"0\">The UAE is growing as a global financial hub.</span>",
+    "translation": "<span data-i18n-slot=\"0\">यूएई एक वैश्विक वित्तीय केंद्र के रूप में विकसित हो रहा है।</span>",
+    "kind": "html"
+  },
+  {
+    "key": "t0dc21bee5cb3163c",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Regulatory Notice: </span></span>",
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">नियामक सूचना: </span></span>",
+    "kind": "html"
+  },
+  {
+    "key": "t0849e496fc493504",
+    "english": "BEST FOREX TRADING PLATFORM DUBAI",
+    "translation": "सर्वश्रेष्ठ विदेशी मुद्रा व्यापार मंच दुबई",
+    "kind": "text"
+  },
+  {
+    "key": "t9a37cd2ad824f97c",
+    "english": "FOREX TRADING IN DUBAI",
+    "translation": "दुबई में विदेशी मुद्रा व्यापार",
+    "kind": "text"
+  },
+  {
+    "key": "tc07ed2d15ecac1cd",
+    "english": "<span data-i18n-slot=\"0\">3. Fair pricing and execution</span>",
+    "translation": "<span data-i18n-slot=\"0\">3. उचित मूल्य निर्धारण और निष्पादन</span>",
+    "kind": "html"
+  }
+]

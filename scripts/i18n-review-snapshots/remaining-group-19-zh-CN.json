@@ -1,0 +1,737 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tf08610a29531781e",
+      "english": "<span data-i18n-slot=\"0\">Positive vs. Negative Correlation in Forex Pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇货币对的正相关性与负相关性</span>"
+    },
+    {
+      "key": "tb62455cb5aa0046d",
+      "english": "<span data-i18n-slot=\"0\">Typical Tendency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型趋势</span>"
+    },
+    {
+      "key": "tfe288d66a2b64f00",
+      "english": "<span data-i18n-slot=\"0\">Often shows an inverse relationship</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">经常表现出反向关系</span>"
+    },
+    {
+      "key": "t4456bbcdac37b887",
+      "english": "<span data-i18n-slot=\"0\">Can show an inverse tendency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可以表现出相反的趋势</span>"
+    },
+    {
+      "key": "t64fec1dd2b300d7d",
+      "english": "<span data-i18n-slot=\"0\">Broad USD movement can affect the pairs in opposite quoted directions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">美元的广泛波动可能会影响相反报价方向的货币对</span>"
+    },
+    {
+      "key": "tc10865a96df927eb",
+      "english": "<span data-i18n-slot=\"0\">Often shows similar directional behaviour</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">经常表现出类似的定向行为</span>"
+    },
+    {
+      "key": "td5853534aed6c030",
+      "english": "<span data-i18n-slot=\"0\">These are general historical and structural tendencies, not fixed relationships or live correlation readings.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这些是一般的历史和结构趋势，而不是固定的关系或实时相关读数。</span>"
+    },
+    {
+      "key": "tcc825445dcbdf261",
+      "english": "<span data-i18n-slot=\"0\">Positive correlation forex pairs can temporarily diverge, while negative correlation forex pairs can sometimes move in the same direction. Changes in monetary policy, economic releases or country-specific events can outweigh the shared structural influence.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">正相关的外汇对可能会暂时出现分歧，而负相关的外汇对有时可能会朝同一方向移动。货币政策、经济发布或特定国家事件的变化可能会超过共同的结构性影响。</span>"
+    },
+    {
+      "key": "tae6b4057a9317649",
+      "english": "<span data-i18n-slot=\"0\">How Do You Read a Forex Correlation Table?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何阅读外汇相关表？</span>"
+    },
+    {
+      "key": "t5db3f7a0012e4606",
+      "english": "<span data-i18n-slot=\"0\">Some tools show the coefficient numerically. Others use a forex correlation heatmap where stronger positive and negative relationships are represented visually.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一些工具以数字方式显示系数。其他人则使用外汇相关热图，以直观方式表示更强的正负关系。</span>"
+    },
+    {
+      "key": "taa7ae389b88266ad",
+      "english": "<span data-i18n-slot=\"0\">A simplified directional version might look like this:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">简化的定向版本可能如下所示：</span>"
+    },
+    {
+      "key": "taa42235741d75edb",
+      "english": "<span data-i18n-slot=\"0\">Values closer to -1 indicate stronger inverse historical co-movement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">值接近 -1 表示反向历史联动较强。</span>"
+    },
+    {
+      "key": "te213e02f1d2d7543",
+      "english": "<span data-i18n-slot=\"0\">The phrase </span><span data-i18n-slot=\"1\">coefficient correlation forex</span><span data-i18n-slot=\"2\"> is sometimes used by traders searching for the numerical relationship between two forex pairs. In practical terms, it refers to the same correlation coefficient scale described above.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">短语“</span><span data-i18n-slot=\"1\">外汇相关系数</span><span data-i18n-slot=\"2\">”有时被交易者用来搜索两个外汇货币对之间的数值关系。在实际应用中，它指的就是前述同一相关系数刻度。</span>"
+    },
+    {
+      "key": "t641242137c1e1f67",
+      "english": "<span data-i18n-slot=\"0\">A forex correlation cheat sheet can help explain which pairs are worth checking together, but it should not be treated as a replacement for current market data.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇相关性备忘单可以帮助解释哪些货币对值得一起检查，但不应将其视为当前市场数据的替代品。</span>"
+    },
+    {
+      "key": "tfc5bcf7079a0b400",
+      "english": "<span data-i18n-slot=\"0\">Forex correlation matters because multiple positions can create concentrated exposure when the pairs respond to the same underlying market driver.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇相关性很重要，因为当货币对对相同的潜在市场驱动因素做出反应时，多个头寸可能会产生集中的风险敞口。</span>"
+    },
+    {
+      "key": "t247d355cdf8c08ca",
+      "english": "<span data-i18n-slot=\"0\">Suppose a trader opens:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">假设交易者开仓：</span>"
+    },
+    {
+      "key": "t2611cdfc6fa32e60",
+      "english": "<span data-i18n-slot=\"0\">A long EUR/USD position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">欧元/美元多头头寸</span>"
+    },
+    {
+      "key": "teb8add371672b917",
+      "english": "<span data-i18n-slot=\"0\">A long GBP/USD position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">英镑/美元多头头寸</span>"
+    },
+    {
+      "key": "tb750fa0f7466b389",
+      "english": "<span data-i18n-slot=\"0\">However, both positions also represent exposure to USD on the opposite side of the trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">但是，这两个头寸也代表了交易另一方的美元敞口。</span>"
+    },
+    {
+      "key": "t22d713f7d20df76f",
+      "english": "<span data-i18n-slot=\"0\">This does not mean the two pairs will always rise or fall together. Euro-specific or UK-specific developments can separate their performance.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这并不意味着两个货币对总是同时上涨或下跌。欧元相关或英国特有的事件可能使两者表现不同。</span>"
+    },
+    {
+      "key": "t53979cc46a66c7aa",
+      "english": "<span data-i18n-slot=\"0\">Before opening several positions through</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UpForex's Forex CFDs</span></span><span data-i18n-slot=\"4\">, a trader can ask:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在通过</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UpForex 的外汇差价合约开立多个头寸之前</span></span><span data-i18n-slot=\"4\">，交易者可以询问：</span>"
+    },
+    {
+      "key": "tf870e56fcb450655",
+      "english": "<span data-i18n-slot=\"0\">Are they historically correlated over the timeframe I am trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">它们在我交易的时间范围内历史上是否相关？</span>"
+    },
+    {
+      "key": "tdb11069cc8aaa56a",
+      "english": "<span data-i18n-slot=\"0\">Am I unintentionally increasing exposure to one currency?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">我是否无意中增加了对一种货币的敞口？</span>"
+    },
+    {
+      "key": "t4c96049240a371f0",
+      "english": "<span data-i18n-slot=\"0\">This is why time frame correlation in forex matters.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这就是外汇中时间框架相关性很重要的原因。</span>"
+    },
+    {
+      "key": "t66a53bc93c9925d3",
+      "english": "<span data-i18n-slot=\"0\">How Does Correlation Work Beyond Currency Pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">货币对之外的相关性如何发挥作用？</span>"
+    },
+    {
+      "key": "tc2ee5ff9bd80cacd",
+      "english": "<span data-i18n-slot=\"0\">Traders can use forex correlation to identify duplicated exposure and to understand how one position may interact with another.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易者可以使用外汇相关性来识别重复风险并了解一个头寸如何与另一个头寸相互作用。</span>"
+    },
+    {
+      "key": "t749a27f91ecd18db",
+      "english": "<span data-i18n-slot=\"0\">Two common applications are exposure management and partial hedging.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">两种常见用途是风险敞口管理和部分对冲。</span>"
+    },
+    {
+      "key": "tfef981ebde020c95",
+      "english": "<span data-i18n-slot=\"0\">1. Avoiding Unintentional Over-Exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. 避免无意中过度增加风险敞口</span>"
+    },
+    {
+      "key": "t775f2fcf47a6e7ff",
+      "english": "<span data-i18n-slot=\"0\">Suppose a trader has already taken a position based largely on expected USD weakness.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">假设交易者已经主要基于美元疲软的预期而建仓。</span>"
+    },
+    {
+      "key": "t3030a9d8514b0978",
+      "english": "<span data-i18n-slot=\"0\">Before opening another forex trade, the trader can review whether the new pair has historically moved in a similar direction.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在开始另一笔外汇交易之前，交易者可以查看新货币对在历史上是否曾朝着类似的方向移动。</span>"
+    },
+    {
+      "key": "t5a9c19c0767ea616",
+      "english": "<span data-i18n-slot=\"0\">A forex correlation strategy used this way is primarily an exposure-checking process.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">以这种方式使用的外汇相关策略主要是一个风险检查过程。</span>"
+    },
+    {
+      "key": "tf7c88eaf22dd4477",
+      "english": "<span data-i18n-slot=\"0\">2. Using Negative Correlation as a Partial Hedge</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。使用负相关作为部分对冲</span>"
+    },
+    {
+      "key": "t05ad108e378a1c24",
+      "english": "<span data-i18n-slot=\"0\">Some traders study negatively correlated pairs when considering a hedge.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一些交易者在考虑对冲时会研究负相关货币对。</span>"
+    },
+    {
+      "key": "tbbe6a00eb9c8b79e",
+      "english": "<span data-i18n-slot=\"0\">However, a forex correlation hedging strategy does not automatically produce a balanced hedge.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">但是，外汇相关性对冲策略不会自动产生平衡对冲。</span>"
+    },
+    {
+      "key": "t16836ccf3ec4d8bd",
+      "english": "<span data-i18n-slot=\"0\">Pip or point values</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">pip或point的数值</span>"
+    },
+    {
+      "key": "tea8fa53ab437263c",
+      "english": "<span data-i18n-slot=\"0\">Spread and trading costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差和交易成本</span>"
+    },
+    {
+      "key": "t080364cf1b3b27cf",
+      "english": "<span data-i18n-slot=\"0\">Changes in the correlation itself</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相关性本身的变化</span>"
+    },
+    {
+      "key": "t6ac4bf3f673d518b",
+      "english": "<span data-i18n-slot=\"0\">FAQs About Forex Correlation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇相关性常见问题解答</span>"
+    },
+    {
+      "key": "t348912d852f6ece8",
+      "english": "<span data-i18n-slot=\"0\">What is correlation in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇交易中的相关性是什么？</span>"
+    },
+    {
+      "key": "tc5f9f3bad772d4e6",
+      "english": "<span data-i18n-slot=\"0\">What does a correlation coefficient of 0 mean in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇中相关系数为0意味着什么？</span>"
+    },
+    {
+      "key": "t4ed2b8f508267453",
+      "english": "<span data-i18n-slot=\"0\">Is there a simple forex correlation cheat sheet?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有简单的外汇相关备忘单吗？</span>"
+    },
+    {
+      "key": "td711bcbc5f58b0f8",
+      "english": "<span data-i18n-slot=\"0\">A useful correlation cheat sheet can identify pairs that are commonly worth comparing, such as EUR/USD with GBP/USD or EUR/USD with USD/CHF. However, it should use directional tendencies rather than permanent coefficient values. The correlation tables in this article provide a quick reference, while current decisions should rely on recent market data.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有用的相关性备忘单可以识别通常值得比较的货币对，例如欧元/美元与英镑/美元或欧元/美元与美元/瑞士法郎。然而，它应该使用方向趋势而不是永久系数值。本文中的相关表提供了快速参考，而当前的决策应依赖于最新的市场数据。</span>"
+    },
+    {
+      "key": "t1b98eddffdb12055",
+      "english": "<span data-i18n-slot=\"0\">Can I calculate forex correlation myself?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">我可以自己计算外汇相关性吗？</span>"
+    },
+    {
+      "key": "tf1925b9e3a2d1276",
+      "english": "<span data-i18n-slot=\"0\">What is a forex correlation matrix?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是外汇相关矩阵？</span>"
+    },
+    {
+      "key": "tb784cd974816e2a5",
+      "english": "<span data-i18n-slot=\"0\">A forex correlation matrix is a table that compares several currency pairs at once. Each pair appears on both axes, and their intersection shows the measured relationship between them. A matrix makes it easier to spot groups of positions that may be exposed to similar market drivers before opening several trades simultaneously.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇相关矩阵是一个同时比较多个货币对的表格。每对都出现在两个轴上，它们的交点显示了它们之间的测量关系。矩阵可以让您在同时进行多笔交易之前更轻松地发现可能受到类似市场驱动因素影响的头寸组。</span>"
+    },
+    {
+      "key": "tc6990ee4a5efb532",
+      "english": "<span data-i18n-slot=\"0\">Forex and CFD trading involves leverage and carries a high level of risk, including the possibility of losses greater than the initial investment. Correlation analysis does not remove market risk or guarantee that a hedge or diversification approach will work as expected. This article is educational and is not financial advice. Review</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UpForex's full risk disclosure</span></span><span data-i18n-slot=\"4\"> before making trading decisions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇和差价合约交易涉及杠杆并具有高风险，包括损失大于初始投资的可能性。相关性分析并不能消除市场风险，也不能保证对冲或多元化方法将按预期发挥作用。本文具有教育意义，并非财务建议。在做出交易决定之前，请查看</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UpForex 的完整风险披露</span></span><span data-i18n-slot=\"4\">。</span>"
+    },
+    {
+      "key": "tabb557597f98a1ef",
+      "english": "<span data-i18n-slot=\"0\">Drawdown in trading is the decline in a trading account from a previous peak value to a lower value. Balance drawdown measures changes caused by closed trades, while equity drawdown includes unrealized profit or loss from open positions. Equity drawdown can therefore change with live market prices before a position is closed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易回撤是指交易账户从之前的峰值下降到较低值。余额回撤衡量的是平仓交易引起的变化，而净值回撤则包括未平仓头寸的未实现利润或损失。因此，在平仓之前，权益回撤可能会随着实时市场价格而变化。</span>"
+    },
+    {
+      "key": "t0ec049a1e3382743",
+      "english": "<span data-i18n-slot=\"0\">Drawdown is one of the most useful risk measurements a trader can track because it shows how far an account has moved below an earlier high.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">回撤是交易者可以跟踪的最有用的风险衡量标准之一，因为它显示了账户已低于先前高点的程度。</span>"
+    },
+    {
+      "key": "t26c3feac19dd7924",
+      "english": "<span data-i18n-slot=\"0\">What Is Drawdown in Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是交易中的回撤？</span>"
+    },
+    {
+      "key": "tac5a8ac853401c48",
+      "english": "<span data-i18n-slot=\"0\">The same idea applies when asking what drawdown in forex trading is. It measures how far a forex trading account has declined from a previous peak, whether that decline is being measured from balance, equity or another defined account value.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">当询问外汇交易中的回撤是什么时，同样的想法也适用。它衡量外汇交易账户从之前的峰值下降了多少，无论下降是根据余额、净值还是其他定义的账户价值来衡量。</span>"
+    },
+    {
+      "key": "t9e16614c330df464",
+      "english": "<span data-i18n-slot=\"0\">Drawdown can be measured using:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">回撤可通过以下数值衡量：</span>"
+    },
+    {
+      "key": "tffc1ae53d8fb4e19",
+      "english": "<span data-i18n-slot=\"0\">Account equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">账户净值</span>"
+    },
+    {
+      "key": "t76ba1b98acf85ae0",
+      "english": "<span data-i18n-slot=\"0\">Balance Drawdown vs. Equity Drawdown: What's the Difference?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">余额回撤与权益回撤：有什么区别？</span>"
+    },
+    {
+      "key": "ted4f4077e8914c21",
+      "english": "<span data-i18n-slot=\"0\">Balance drawdown is based on closed-trade results, while equity drawdown also reflects unrealized profit or loss from positions that remain open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">余额回撤基于平仓交易结果，而权益回撤也反映了未平仓头寸的未实现利润或损失。</span>"
+    },
+    {
+      "key": "tf4e18a172637c029",
+      "english": "<span data-i18n-slot=\"0\">Balance Drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">余额回撤</span>"
+    },
+    {
+      "key": "ta9cbe092be1a04f2",
+      "english": "<span data-i18n-slot=\"0\">Balance drawdown is calculated from changes in the account balance after trades have been closed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">余额回撤根据交易平仓后账户余额的变化计算。</span>"
+    },
+    {
+      "key": "t9effd033e32d61a5",
+      "english": "<span data-i18n-slot=\"0\">If another position is still open and currently losing $300, that unrealized loss does not reduce the displayed balance until the position is closed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果另一个仓位仍处于未平仓状态且当前亏损 300 美元，则该未实现亏损不会减少显示的余额，直至该仓位被平仓。</span>"
+    },
+    {
+      "key": "t10e8d9842e2d196a",
+      "english": "<span data-i18n-slot=\"0\">Equity Drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">净值回撤</span>"
+    },
+    {
+      "key": "tbd98c057ade62e99",
+      "english": "<span data-i18n-slot=\"0\">Equity drawdown includes unrealized profit and loss on open positions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">净值回撤包括未平仓头寸的未实现利润和损失。</span>"
+    },
+    {
+      "key": "t7feeca65606e5587",
+      "english": "<span data-i18n-slot=\"0\">Relative to the earlier $10,000 peak, this represents an 8% equity drawdown.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相对于之前 10,000 美元的峰值，这意味着净值减少了 8%。</span>"
+    },
+    {
+      "key": "t573b8163ecb44743",
+      "english": "<span data-i18n-slot=\"0\">Equity drawdown can therefore provide a more immediate view of current exposure because it shows the effect of open trades rather than waiting until those trades are closed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因此，净值回撤可以更直接地了解当前风险，因为它显示了未平仓交易的影响，而不是等到这些交易结束。</span>"
+    },
+    {
+      "key": "t46e03739b6572d39",
+      "english": "<span data-i18n-slot=\"0\">Metric</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">指标</span>"
+    },
+    {
+      "key": "taed4da5e82805c96",
+      "english": "<span data-i18n-slot=\"0\">Results from closed trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">已平仓交易的结果</span>"
+    },
+    {
+      "key": "td5249f703141352e",
+      "english": "<span data-i18n-slot=\"0\">Closed results plus unrealized profit/loss from open positions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">平仓结果加上未平仓头寸的未实现利润/损失</span>"
+    },
+    {
+      "key": "t6074e39c1d0df694",
+      "english": "<span data-i18n-slot=\"0\">When trades close and affect balance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">当交易结束并影响余额时</span>"
+    },
+    {
+      "key": "t41e947cf4849b5d9",
+      "english": "<span data-i18n-slot=\"0\">As open-position values move with the market</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">未平仓头寸价值随市场变化</span>"
+    },
+    {
+      "key": "t2c4b21ba57cd79e2",
+      "english": "<span data-i18n-slot=\"0\">What It's Best Used For</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">它的最佳用途</span>"
+    },
+    {
+      "key": "t777946a81a2b19b6",
+      "english": "<span data-i18n-slot=\"0\">Reviewing realized account performance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">查看已实现的帐户绩效</span>"
+    },
+    {
+      "key": "td1b95b1d5bcf7545",
+      "english": "<span data-i18n-slot=\"0\">Monitoring current account exposure and live drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">监控账户当前的风险敞口与实时回撤</span>"
+    },
+    {
+      "key": "tc281ceb07cdde902",
+      "english": "<span data-i18n-slot=\"0\">Neither figure should be viewed completely in isolation. Balance shows realized results, while equity gives a more current picture of the account while positions remain open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">两个数值都不应完全孤立地看待。余额显示已实现的结果，而净值在持仓尚未平仓时，更能反映账户的最新状况。</span>"
+    },
+    {
+      "key": "t518644d754d04fc9",
+      "english": "<span data-i18n-slot=\"0\">A Simple Example of Balance vs. Equity Drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">余额与净值回撤的简单示例</span>"
+    },
+    {
+      "key": "t2b351814602e67ba",
+      "english": "<span data-i18n-slot=\"0\">Open P/L</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">未结盈亏</span>"
+    },
+    {
+      "key": "tf273f79fb99d4cbf",
+      "english": "<span data-i18n-slot=\"0\">Drawdown From $10,000 Peak</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相对于$10,000峰值的回撤</span>"
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tf6dea62b1fca7853",
+      "english": "<span data-i18n-slot=\"0\">Open trade moves against position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オープントレードはポジションに反する動きをする</span>"
+    },
+    {
+      "key": "t41ef90d9ad1d6db7",
+      "english": "<span data-i18n-slot=\"0\">8% equity drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">8%の有効証拠金ドローダウン</span>"
+    },
+    {
+      "key": "t7149ccf61b5133c4",
+      "english": "<span data-i18n-slot=\"0\">Balance drawdown = 5%</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">残高ドローダウン = 5%</span>"
+    },
+    {
+      "key": "t528c18bc723fa76a",
+      "english": "<span data-i18n-slot=\"0\">Equity drawdown = 8%</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金ドローダウン = 8%</span>"
+    },
+    {
+      "key": "tfff083d1e37447a9",
+      "english": "<span data-i18n-slot=\"0\">If the open position later recovers before being closed, the equity drawdown can decrease. If the unrealized loss becomes larger, equity drawdown can deepen even though the account balance remains unchanged.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オープンポジションがクローズされる前に回復した場合、有効証拠金ドローダウンが減少する可能性があります。含み損が大きくなると、口座残高が変わらなくても有効証拠金のドローダウンが深まる可能性があります。</span>"
+    },
+    {
+      "key": "t14afa7d659055b86",
+      "english": "<span data-i18n-slot=\"0\">Peak account equity: $20,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ピーク時の口座有効証拠金: 20,000 ドル</span>"
+    },
+    {
+      "key": "tc66c06b2d4bedad4",
+      "english": "<span data-i18n-slot=\"0\">Current account equity: $17,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座の現在の有効証拠金：$17,000</span>"
+    },
+    {
+      "key": "tfa0c2b1efbc52380",
+      "english": "<span data-i18n-slot=\"0\">Decline: $3,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">減少額：$3,000</span>"
+    },
+    {
+      "key": "t7d6a033a04c9f676",
+      "english": "<span data-i18n-slot=\"0\">The equity drawdown is therefore 15%.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">したがって、有効証拠金ドローダウンは 15% になります。</span>"
+    },
+    {
+      "key": "t71771ea245d31c64",
+      "english": "<span data-i18n-slot=\"0\">Maximum drawdown is the largest peak-to-trough percentage decline recorded during a chosen period.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最大ドローダウンは、選択した期間中に記録されたピークから谷までの最大の下落率です。</span>"
+    },
+    {
+      "key": "tefc74b7397a00613",
+      "english": "<span data-i18n-slot=\"0\">If no larger decline from a previous peak occurred during the measured period, the maximum drawdown would be 15%.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">測定期間中に過去のピークからそれ以上の下落がなければ、最大ドローダウンは15%となります。</span>"
+    },
+    {
+      "key": "t2d83ba19bf636b3b",
+      "english": "<span data-i18n-slot=\"0\">This explains the max drawdown meaning in trading. It is not simply the largest individual losing trade. It measures the greatest decline between a peak and a later trough during the period being assessed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これが取引における最大ドローダウンの意味です。単に一回の取引で生じた最大の損失を指すのではありません。評価対象期間中のピークから、その後の谷までの最大の下落を測ります。</span>"
+    },
+    {
+      "key": "td7540098f8942aaa",
+      "english": "<span data-i18n-slot=\"0\">Other Types of Drawdown You Might Encounter</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">遭遇する可能性のある他の種類のドローダウン</span>"
+    },
+    {
+      "key": "t7c9af8e32c3eb079",
+      "english": "<span data-i18n-slot=\"0\">Trailing drawdown: A drawdown threshold that can move upward as an account reaches new highs. The allowed lower boundary may therefore change as the account grows.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーリングドローダウン: アカウントが新たな高値に達するにつれて上昇する可能性があるドローダウンのしきい値。したがって、アカウントが大きくなるにつれて、許可される下限は変更される可能性があります。</span>"
+    },
+    {
+      "key": "t334991e48f343fd2",
+      "english": "<span data-i18n-slot=\"0\">Daily and trailing drawdown rules are particularly common in funded or prop-firm trading challenges. Definitions can vary between providers, so traders should check the exact rules of a particular program rather than assuming all drawdown limits work the same way.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">日次ドローダウンルールとトレーリングドローダウンルールは、資金提供された取引やプロップファームの取引課題で特に一般的です。定義はプロバイダーによって異なる場合があるため、トレーダーはすべてのドローダウン制限が同じように機能すると仮定するのではなく、特定のプログラムの正確なルールを確認する必要があります。</span>"
+    },
+    {
+      "key": "t50bea367a03318d1",
+      "english": "<span data-i18n-slot=\"0\">Gain Required to Return to Previous Peak</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">以前のピークに戻るために必要なゲイン</span>"
+    },
+    {
+      "key": "t3cb71528ef410c40",
+      "english": "<span data-i18n-slot=\"0\">This recovery asymmetry is one reason traders monitor drawdown alongside individual wins and losses.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">この回復の非対称性が、トレーダーが個々の勝敗と並行してドローダウンを監視する理由の 一 つです。</span>"
+    },
+    {
+      "key": "t9942780d0e1bd6a3",
+      "english": "<span data-i18n-slot=\"0\">Account margin controls are separate from drawdown.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UpForex's account structure</span></span><span data-i18n-slot=\"4\"> publishes a Margin Call Level of 50% and a Stop-Out Level of 30%.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座の証拠金による管理はドローダウンとは別のものです。</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UpForexの口座構成</span></span><span data-i18n-slot=\"4\">ではマージンコール水準50%とストップアウト水準30%を公表しています。</span>"
+    },
+    {
+      "key": "td9e62a6ee8ea96ea",
+      "english": "<span data-i18n-slot=\"0\">These figures are margin-based thresholds. They should not be interpreted as acceptable drawdown levels or as maximum drawdown limits.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これらの数値はマージンベースのしきい値です。これらは、許容可能なドローダウンレベルまたは最大ドローダウン制限として解釈されるべきではありません。</span>"
+    },
+    {
+      "key": "ta16ce8e1e7683db3",
+      "english": "<span data-i18n-slot=\"0\">Drawdown cannot be removed completely from trading, but structured risk-management practices can help control how much exposure an account takes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ドローダウンを取引から完全に取り除くことはできませんが、構造化されたリスク管理慣行は、アカウントが受けるエクスポージャーの量を制御するのに役立ちます。</span>"
+    },
+    {
+      "key": "tc8151ac3acccea67",
+      "english": "<span data-i18n-slot=\"0\">What is an acceptable drawdown in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替取引で許容できるドローダウンはどれくらいですか?</span>"
+    },
+    {
+      "key": "t6f4a1a7dfb1bd1e9",
+      "english": "<span data-i18n-slot=\"0\">There is no single drawdown percentage that is appropriate for every trader. An acceptable level depends on factors such as account size, strategy, leverage, position sizing, financial circumstances and personal risk tolerance. A trader may define a maximum threshold in advance and reassess the strategy or exposure if that level is reached.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">すべてのトレーダーにとって適切な単一のドローダウン率はありません。許容可能なレベルは、口座サイズ、戦略、レバレッジ、ポジションサイジング、財務状況、個人のリスク許容度などの要因によって異なります。トレーダーは事前に最大しきい値を定義し、そのレベルに達した場合に戦略またはエクスポージャを再評価することができます。</span>"
+    },
+    {
+      "key": "t6c6066529c86db98",
+      "english": "<span data-i18n-slot=\"0\">What is the drawdown in copy trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">コピートレードのドローダウンはどれくらいですか?</span>"
+    },
+    {
+      "key": "td8cc63427a09cab2",
+      "english": "<span data-i18n-slot=\"0\">How is drawdown different from a margin call or stop-out?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ドローダウンはマージンコールやストップアウトとどう違うのですか?</span>"
+    },
+    {
+      "key": "t44359a358f4433ff",
+      "english": "<span data-i18n-slot=\"0\">Drawdown measures a decline from a previous account or strategy peak. Margin call and stop-out are margin mechanisms triggered when account margin levels reach specified thresholds. UpForex currently publishes</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Margin Call and Stop-Out levels</span></span><span data-i18n-slot=\"4\"> of 50% and 30%, respectively. Those percentages are not drawdown percentages.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ドローダウンは、口座や戦略の過去のピークからの下落を測ります。マージンコールとストップアウトは、口座の証拠金維持率が所定の基準に達すると発動する証拠金の仕組みです。UpForexは現在、</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">マージンコールとストップアウトの水準</span></span><span data-i18n-slot=\"4\">をそれぞれ50%と30%と公表しています。これらはドローダウンの割合ではありません。</span>"
+    },
+    {
+      "key": "t689b4d0a125066d0",
+      "english": "<span data-i18n-slot=\"0\">What does max drawdown mean in trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレードにおける最大ドローダウンとは何を意味しますか?</span>"
+    },
+    {
+      "key": "t5b8d59aef72de5b0",
+      "english": "<span data-i18n-slot=\"0\">In forex, the relationship is straightforward:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替では、関係は単純です。</span>"
+    },
+    {
+      "key": "tc81c4a3b06514c51",
+      "english": "<span data-i18n-slot=\"0\">Standard lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">標準ロット</span>"
+    },
+    {
+      "key": "t120d650a9e849b90",
+      "english": "<span data-i18n-slot=\"0\">The important distinction is that a lot is not automatically a fixed dollar amount. The monetary value of a price movement depends on the instrument, position size, account currency and current market price where relevant.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">重要な違いは、ロットは自動的に固定の金額ではないということです。価格変動の金銭的価値は、商品、ポジションサイズ、口座通貨、および該当する場合は現在の市場価格によって異なります。</span>"
+    },
+    {
+      "key": "t43c107a1ed539f61",
+      "english": "<span data-i18n-slot=\"0\">This is the same logic a </span><span data-i18n-slot=\"1\">forex position size calculator</span><span data-i18n-slot=\"2\"> runs automatically; it simply does the arithmetic for you.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これは、</span><span data-i18n-slot=\"1\">外国為替ポジション サイズ計算ツール</span><span data-i18n-slot=\"2\">が自動的に実行するロジックと同じです。単に演算を行うだけです。</span>"
+    },
+    {
+      "key": "tbf559f7be076bc9f",
+      "english": "<span data-i18n-slot=\"0\">A practical workflow looks like this:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">実際のワークフローは次のようになります。</span>"
+    },
+    {
+      "key": "t8fd48bbc57ca1622",
+      "english": "<span data-i18n-slot=\"0\">Suppose your planned trade uses a:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">計画した取引で次のものが使用されるとします。</span>"
+    },
+    {
+      "key": "t1bc0fb1f6e15d987",
+      "english": "<span data-i18n-slot=\"0\">50-pip stop loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">50pipsのストップロス</span>"
+    },
+    {
+      "key": "t9599fee53a6de3f1",
+      "english": "<span data-i18n-slot=\"0\">JPY pairs also use a different convention: one pip is typically the second decimal place rather than the fourth, so the pip value per unit must be calculated using that pricing format.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">日本円を含む通貨ペアでは異なる慣例が用いられ、一ピップは通常、小数点以下第四位ではなく第二位です。そのため、単位あたりのピップ値はその価格表記を使って計算する必要があります。</span>"
+    },
+    {
+      "key": "t7fa9946568e01a79",
+      "english": "<span data-i18n-slot=\"0\">Step 6: Convert units into lots</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ステップ 6: ユニットをロットに変換する</span>"
+    },
+    {
+      "key": "t2e2db768bfcfa948",
+      "english": "<span data-i18n-slot=\"0\">Calculated units</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">計算単位</span>"
+    },
+    {
+      "key": "td5b571d082e284e8",
+      "english": "<span data-i18n-slot=\"0\">At 0.20 lot on this EUR/USD example, the approximate pip value is $2 per pip.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">このEUR/USDの例では、0.20ロットのピップ値は、およそピップあたり$2です。</span>"
+    }
+  ]
+}

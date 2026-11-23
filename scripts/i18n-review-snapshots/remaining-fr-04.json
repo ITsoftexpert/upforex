@@ -1,0 +1,1627 @@
+{
+  "language": "fr",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "ta0106ac7ee7ef1c7",
+      "english": "<span data-i18n-slot=\"0\">Focusing on entry type while overlooking trade size and leverage.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Se concentrer sur le type d'entrée tout en négligeant la taille et l'effet de levier des transactions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t79f5dea124118df3",
+      "english": "<span data-i18n-slot=\"0\">Practice the Order Logic Before Trading Live</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pratiquez la logique des ordres avant de négocier en direct</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t21fdc08632f573f6",
+      "english": "<span data-i18n-slot=\"0\">Positive correlation means two forex pairs tend to move in the same direction, while negative correlation means they often move in opposite directions.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une corrélation positive signifie que deux paires de devises ont tendance à évoluer dans la même direction, tandis qu'une corrélation négative signifie qu'elles évoluent souvent dans des directions opposées.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "tb62455cb5aa0046d",
+      "english": "<span data-i18n-slot=\"0\">Typical Tendency</span>",
+      "translation": "<span data-i18n-slot=\"0\">Tendance typique</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "t4456bbcdac37b887",
+      "english": "<span data-i18n-slot=\"0\">Can show an inverse tendency</span>",
+      "translation": "<span data-i18n-slot=\"0\">Peut montrer une tendance inverse</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "t64fec1dd2b300d7d",
+      "english": "<span data-i18n-slot=\"0\">Broad USD movement can affect the pairs in opposite quoted directions</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un large mouvement du dollar peut affecter les paires dans des directions opposées</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "tcc825445dcbdf261",
+      "english": "<span data-i18n-slot=\"0\">Positive correlation forex pairs can temporarily diverge, while negative correlation forex pairs can sometimes move in the same direction. Changes in monetary policy, economic releases or country-specific events can outweigh the shared structural influence.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les paires de devises à corrélation positive peuvent temporairement diverger, tandis que les paires de devises à corrélation négative peuvent parfois évoluer dans la même direction. Les changements de politique monétaire, les publications économiques ou les événements spécifiques à un pays peuvent contrebalancer l'influence structurelle partagée.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "t641242137c1e1f67",
+      "english": "<span data-i18n-slot=\"0\">A forex correlation cheat sheet can help explain which pairs are worth checking together, but it should not be treated as a replacement for current market data.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un aide-mémoire sur la corrélation des devises peut aider à déterminer quelles paires méritent d’être examinées ensemble, mais il ne doit pas remplacer les données actuelles du marché.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "tb750fa0f7466b389",
+      "english": "<span data-i18n-slot=\"0\">However, both positions also represent exposure to USD on the opposite side of the trade.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cependant, les deux positions représentent également une exposition au dollar américain du côté opposé de la transaction.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "tf870e56fcb450655",
+      "english": "<span data-i18n-slot=\"0\">Are they historically correlated over the timeframe I am trading?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Sont-ils historiquement corrélés sur la période pendant laquelle je négocie&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "tdb11069cc8aaa56a",
+      "english": "<span data-i18n-slot=\"0\">Am I unintentionally increasing exposure to one currency?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Est-ce que j'augmente involontairement mon exposition à une devise&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "t4a54ef2d91524baf",
+      "english": "<span data-i18n-slot=\"0\">Cross-asset correlation is therefore most useful as a risk-awareness tool rather than a fixed directional rule.</span>",
+      "translation": "<span data-i18n-slot=\"0\">La corrélation entre actifs est donc plus utile en tant qu'outil de sensibilisation aux risques plutôt qu'en tant que règle directionnelle fixe.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "t749a27f91ecd18db",
+      "english": "<span data-i18n-slot=\"0\">Two common applications are exposure management and partial hedging.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Deux applications courantes sont la gestion des expositions et la couverture partielle.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "tfef981ebde020c95",
+      "english": "<span data-i18n-slot=\"0\">1. Avoiding Unintentional Over-Exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">1. Éviter la surexposition involontaire</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "t3030a9d8514b0978",
+      "english": "<span data-i18n-slot=\"0\">Before opening another forex trade, the trader can review whether the new pair has historically moved in a similar direction.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Avant d'ouvrir une autre transaction de change, le trader peut vérifier si la nouvelle paire a historiquement évolué dans une direction similaire.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "tf7c88eaf22dd4477",
+      "english": "<span data-i18n-slot=\"0\">2. Using Negative Correlation as a Partial Hedge</span>",
+      "translation": "<span data-i18n-slot=\"0\">2. Utiliser la corrélation négative comme couverture partielle</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "t05ad108e378a1c24",
+      "english": "<span data-i18n-slot=\"0\">Some traders study negatively correlated pairs when considering a hedge.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Certains traders étudient les paires corrélées négativement lorsqu'ils envisagent une couverture.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "tbbe6a00eb9c8b79e",
+      "english": "<span data-i18n-slot=\"0\">However, a forex correlation hedging strategy does not automatically produce a balanced hedge.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cependant, une stratégie de couverture de corrélation de change ne produit pas automatiquement une couverture équilibrée.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "t7cccdd0ef9ca7792",
+      "english": "<span data-i18n-slot=\"0\">Position sizes</span>",
+      "translation": "<span data-i18n-slot=\"0\">Tailles des positions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "t16836ccf3ec4d8bd",
+      "english": "<span data-i18n-slot=\"0\">Pip or point values</span>",
+      "translation": "<span data-i18n-slot=\"0\">Valeurs en pip ou en points</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "tba2a9c131aaf587d",
+      "english": "<span data-i18n-slot=\"0\">Different base and quote currencies</span>",
+      "translation": "<span data-i18n-slot=\"0\">Différentes devises de base et de cotation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "tb5cad90844625d40",
+      "english": "<span data-i18n-slot=\"0\">A hedge based only on historical correlation can become ineffective if the relationship weakens or reverses.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une couverture basée uniquement sur une corrélation historique peut devenir inefficace si la relation s'affaiblit ou s'inverse.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "t4ed2b8f508267453",
+      "english": "<span data-i18n-slot=\"0\">Is there a simple forex correlation cheat sheet?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Existe-t-il un aide-mémoire simple sur la corrélation Forex&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ]
+    },
+    {
+      "key": "t1edd20d3152e389b",
+      "english": "<span data-i18n-slot=\"0\">If someone asks what drawdown means in trading, a simple way to think about it is the distance between an account's high-water mark and the lower value reached afterwards.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Si l’on vous demande ce que signifie le drawdown en trading, une façon simple de le comprendre est l’écart entre le plus haut atteint par un compte et la valeur inférieure atteinte ensuite.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tac5a8ac853401c48",
+      "english": "<span data-i18n-slot=\"0\">The same idea applies when asking what drawdown in forex trading is. It measures how far a forex trading account has declined from a previous peak, whether that decline is being measured from balance, equity or another defined account value.</span>",
+      "translation": "<span data-i18n-slot=\"0\">La même idée s’applique au drawdown en trading forex. Il mesure l’ampleur de la baisse d’un compte de trading forex depuis un sommet précédent, que cette baisse soit mesurée à partir du solde, des capitaux propres ou d’une autre valeur de compte définie.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t9e16614c330df464",
+      "english": "<span data-i18n-slot=\"0\">Drawdown can be measured using:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le drawdown peut être mesuré à partir des éléments suivants :</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t76ba1b98acf85ae0",
+      "english": "<span data-i18n-slot=\"0\">Balance Drawdown vs. Equity Drawdown: What's the Difference?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Drawdown du solde ou des capitaux propres : quelle est la différence ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "ted4f4077e8914c21",
+      "english": "<span data-i18n-slot=\"0\">Balance drawdown is based on closed-trade results, while equity drawdown also reflects unrealized profit or loss from positions that remain open.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le drawdown du solde repose sur les résultats des opérations clôturées, tandis que celui des capitaux propres reflète aussi les gains ou pertes non réalisés des positions encore ouvertes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tf4e18a172637c029",
+      "english": "<span data-i18n-slot=\"0\">Balance Drawdown</span>",
+      "translation": "<span data-i18n-slot=\"0\">Drawdown du solde</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "ta9cbe092be1a04f2",
+      "english": "<span data-i18n-slot=\"0\">Balance drawdown is calculated from changes in the account balance after trades have been closed.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le drawdown du solde est calculé à partir des variations du solde du compte après la clôture des opérations.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t10e8d9842e2d196a",
+      "english": "<span data-i18n-slot=\"0\">Equity Drawdown</span>",
+      "translation": "<span data-i18n-slot=\"0\">Drawdown des capitaux propres</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tbd98c057ade62e99",
+      "english": "<span data-i18n-slot=\"0\">Equity drawdown includes unrealized profit and loss on open positions.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le drawdown des capitaux propres inclut les gains et pertes non réalisés des positions ouvertes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t7feeca65606e5587",
+      "english": "<span data-i18n-slot=\"0\">Relative to the earlier $10,000 peak, this represents an 8% equity drawdown.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Par rapport au pic précédent de 10,000&nbsp;$, cela représente une baisse des capitaux propres de 8&nbsp;%.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t573b8163ecb44743",
+      "english": "<span data-i18n-slot=\"0\">Equity drawdown can therefore provide a more immediate view of current exposure because it shows the effect of open trades rather than waiting until those trades are closed.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le drawdown des capitaux propres peut donc donner une vision plus immédiate de l’exposition actuelle, car il montre l’effet des opérations ouvertes sans attendre leur clôture.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tcb6b9e7574b471a5",
+      "english": "<span data-i18n-slot=\"0\">What It Includes</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ce qu'il comprend</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "taed4da5e82805c96",
+      "english": "<span data-i18n-slot=\"0\">Results from closed trades</span>",
+      "translation": "<span data-i18n-slot=\"0\">Résultats des opérations fermées</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t6074e39c1d0df694",
+      "english": "<span data-i18n-slot=\"0\">When trades close and affect balance</span>",
+      "translation": "<span data-i18n-slot=\"0\">Quand les transactions se clôturent et affectent le solde</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t2c4b21ba57cd79e2",
+      "english": "<span data-i18n-slot=\"0\">What It's Best Used For</span>",
+      "translation": "<span data-i18n-slot=\"0\">À quoi sert-il le mieux</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t777946a81a2b19b6",
+      "english": "<span data-i18n-slot=\"0\">Reviewing realized account performance</span>",
+      "translation": "<span data-i18n-slot=\"0\">Examen des performances réalisées du compte</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "td1b95b1d5bcf7545",
+      "english": "<span data-i18n-slot=\"0\">Monitoring current account exposure and live drawdown</span>",
+      "translation": "<span data-i18n-slot=\"0\">Suivre l’exposition actuelle du compte et le drawdown en temps réel</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t518644d754d04fc9",
+      "english": "<span data-i18n-slot=\"0\">A Simple Example of Balance vs. Equity Drawdown</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un exemple simple de drawdown du solde et des capitaux propres</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tf273f79fb99d4cbf",
+      "english": "<span data-i18n-slot=\"0\">Drawdown From $10,000 Peak</span>",
+      "translation": "<span data-i18n-slot=\"0\">Drawdown depuis le sommet de $10,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tc060d3684c838e42",
+      "english": "<span data-i18n-slot=\"0\">Starting peak</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pic de départ</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tf6dea62b1fca7853",
+      "english": "<span data-i18n-slot=\"0\">Open trade moves against position</span>",
+      "translation": "<span data-i18n-slot=\"0\">L’opération ouverte évolue à l’encontre de la position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t41ef90d9ad1d6db7",
+      "english": "<span data-i18n-slot=\"0\">8% equity drawdown</span>",
+      "translation": "<span data-i18n-slot=\"0\">Réduction des capitaux propres de 8&nbsp;%</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t7824d2438f7b81f7",
+      "english": "<span data-i18n-slot=\"0\">At that point:</span>",
+      "translation": "<span data-i18n-slot=\"0\">À ce stade&nbsp;:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t7149ccf61b5133c4",
+      "english": "<span data-i18n-slot=\"0\">Balance drawdown = 5%</span>",
+      "translation": "<span data-i18n-slot=\"0\">Drawdown du solde = 5%</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t528c18bc723fa76a",
+      "english": "<span data-i18n-slot=\"0\">Equity drawdown = 8%</span>",
+      "translation": "<span data-i18n-slot=\"0\">Drawdown des capitaux propres = 8%</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tef717169c768ef17",
+      "english": "<span data-i18n-slot=\"0\">Drawdown % = (Peak Value − Current Value) ÷ Peak Value × 100</span>",
+      "translation": "<span data-i18n-slot=\"0\">Drawdown en % = (Valeur au sommet − Valeur actuelle) ÷ Valeur au sommet × 100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t14afa7d659055b86",
+      "english": "<span data-i18n-slot=\"0\">Peak account equity: $20,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Capitaux propres du compte au sommet : $20,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tfa0c2b1efbc52380",
+      "english": "<span data-i18n-slot=\"0\">Decline: $3,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Baisse : $3,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t7d6a033a04c9f676",
+      "english": "<span data-i18n-slot=\"0\">The equity drawdown is therefore 15%.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le drawdown des capitaux propres est donc de 15%.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tda1f13e2ec49a152",
+      "english": "<span data-i18n-slot=\"0\">What Is Maximum Drawdown, and Why Does It Matter?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu’est-ce que le drawdown maximal et pourquoi est-il important ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t71771ea245d31c64",
+      "english": "<span data-i18n-slot=\"0\">Maximum drawdown is the largest peak-to-trough percentage decline recorded during a chosen period.</span>",
+      "translation": "<span data-i18n-slot=\"0\">La baisse maximale est la baisse en pourcentage la plus importante, du sommet au creux, enregistrée au cours d'une période choisie.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t2d83ba19bf636b3b",
+      "english": "<span data-i18n-slot=\"0\">This explains the max drawdown meaning in trading. It is not simply the largest individual losing trade. It measures the greatest decline between a peak and a later trough during the period being assessed.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cela explique le sens du drawdown maximal en trading. Il ne s’agit pas simplement de l’opération individuelle ayant enregistré la plus grosse perte. Il mesure la plus forte baisse entre un sommet et un creux ultérieur pendant la période étudiée.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t24dfd19045fce9e8",
+      "english": "<span data-i18n-slot=\"0\">Maximum drawdown is still backward-looking. A strategy that historically experienced a 15% maximum drawdown could experience a larger decline in different market conditions or with different leverage, position sizing or execution.</span>",
+      "translation": "<span data-i18n-slot=\"0\">La réduction maximale est toujours rétrospective. Une stratégie qui a historiquement connu une baisse maximale de 15&nbsp;% pourrait connaître une baisse plus importante dans différentes conditions de marché ou avec un effet de levier, une taille de position ou une exécution différents.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "td7540098f8942aaa",
+      "english": "<span data-i18n-slot=\"0\">Other Types of Drawdown You Might Encounter</span>",
+      "translation": "<span data-i18n-slot=\"0\">Autres types de drawdown que vous pourriez rencontrer</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t3cab3fc3543819fb",
+      "english": "<span data-i18n-slot=\"0\">Daily drawdown, trailing drawdown and end-of-day drawdown describe different ways of measuring or updating a loss threshold.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le drawdown quotidien, le drawdown suiveur et le drawdown de fin de journée correspondent à différentes façons de mesurer ou d’actualiser un seuil de perte.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t759b8dcb319c36df",
+      "english": "<span data-i18n-slot=\"0\">Daily drawdown: Measures losses during a specified trading day. The reference value may be balance, equity or another rule-defined figure depending on how the limit is structured.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Drawdown quotidien : mesure les pertes pendant une journée de trading donnée. Selon la structure de la limite, la valeur de référence peut être le solde, les capitaux propres ou un autre chiffre défini par les règles.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tca3de48648a32bbc",
+      "english": "<span data-i18n-slot=\"0\">EOD drawdown: End-of-day drawdown is measured or updated using an account value at the end of the trading day rather than continuously following every intraday movement.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Drawdown EOD : le drawdown de fin de journée est mesuré ou actualisé à partir d’une valeur du compte à la fin de la journée de trading, plutôt qu’en suivant continuellement chaque mouvement intrajournalier.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t334991e48f343fd2",
+      "english": "<span data-i18n-slot=\"0\">Daily and trailing drawdown rules are particularly common in funded or prop-firm trading challenges. Definitions can vary between providers, so traders should check the exact rules of a particular program rather than assuming all drawdown limits work the same way.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les règles de drawdown quotidien et suiveur sont particulièrement courantes dans les challenges de trading financés ou proposés par des sociétés de trading pour compte propre (prop firms). Les définitions peuvent varier selon les prestataires ; les traders doivent donc vérifier les règles exactes du programme concerné, au lieu de supposer que toutes les limites de drawdown fonctionnent de la même façon.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "te19ea8531335e43b",
+      "english": "<span data-i18n-slot=\"0\">Why Does Drawdown Matter for Risk Management?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pourquoi le drawdown est-il important pour la gestion des risques ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tad7e6a5d09b8a61f",
+      "english": "<span data-i18n-slot=\"0\">Drawdown matters because the deeper an account declines, the larger the percentage gain needed to return to its previous peak.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le drawdown est important, car plus un compte baisse, plus le gain en pourcentage nécessaire pour retrouver son sommet précédent est élevé.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t102ff5db4fed026f",
+      "english": "<span data-i18n-slot=\"0\">Drawdown</span>",
+      "translation": "<span data-i18n-slot=\"0\">Recul depuis le sommet</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "td9e62a6ee8ea96ea",
+      "english": "<span data-i18n-slot=\"0\">These figures are margin-based thresholds. They should not be interpreted as acceptable drawdown levels or as maximum drawdown limits.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ces chiffres sont des seuils fondés sur la marge. Ils ne doivent pas être interprétés comme des niveaux de drawdown acceptables ou comme des limites maximales de drawdown.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t2b85565d304830cb",
+      "english": "<span data-i18n-slot=\"0\">How Can You Reduce Drawdown in Trading?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment réduire le drawdown en trading ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tf3f9672dfef992e3",
+      "english": "<span data-i18n-slot=\"0\">FAQs About Drawdown in Trading</span>",
+      "translation": "<span data-i18n-slot=\"0\">FAQ sur le drawdown en trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tc8151ac3acccea67",
+      "english": "<span data-i18n-slot=\"0\">What is an acceptable drawdown in forex trading?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu’est-ce qu’un drawdown acceptable en trading forex ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t97ac15b007ecad36",
+      "english": "<span data-i18n-slot=\"0\">What's the difference between drawdown and a losing trade?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Quelle est la différence entre un drawdown et une opération perdante ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tc494ef6583b191c3",
+      "english": "<span data-i18n-slot=\"0\">A losing trade refers to the result of one individual position, while drawdown measures the decline from an account or strategy's previous peak. Several relatively small losing trades can combine to create a larger drawdown, while one unusually large loss can also create a significant drawdown.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une opération perdante correspond au résultat d’une position individuelle, tandis que le drawdown mesure la baisse par rapport au sommet précédent d’un compte ou d’une stratégie. Plusieurs opérations perdantes relativement modestes peuvent se cumuler pour produire un drawdown plus important ; une seule perte inhabituellement élevée peut également créer un drawdown significatif.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t6c6066529c86db98",
+      "english": "<span data-i18n-slot=\"0\">What is the drawdown in copy trading?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu’est-ce que le drawdown en copy trading ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t8d9eae3583ec7ed5",
+      "english": "<span data-i18n-slot=\"0\">Does a large drawdown mean a strategy has failed?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un drawdown important signifie-t-il qu’une stratégie a échoué ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "td8cc63427a09cab2",
+      "english": "<span data-i18n-slot=\"0\">How is drawdown different from a margin call or stop-out?</span>",
+      "translation": "<span data-i18n-slot=\"0\">En quoi le drawdown diffère-t-il d’un appel de marge ou d’un stop-out ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t689b4d0a125066d0",
+      "english": "<span data-i18n-slot=\"0\">What does max drawdown mean in trading?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Que signifie le drawdown maximal en trading ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tf37daf04028b47c0",
+      "english": "<span data-i18n-slot=\"0\">Understand Drawdown Before Increasing Exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comprendre le drawdown avant d’augmenter l’exposition</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "t87269cec90cc763c",
+      "english": "<span data-i18n-slot=\"0\">Understanding drawdown gives traders a clearer way to measure how an account behaves below its previous peak rather than looking only at whether the latest position produced a profit or loss.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comprendre le drawdown offre aux traders un moyen plus clair de mesurer le comportement d’un compte sous son sommet précédent, au lieu de regarder uniquement si la dernière position a produit un gain ou une perte.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ]
+    },
+    {
+      "key": "tc2b0c6ad2f077229",
+      "english": "<span data-i18n-slot=\"0\">Mini lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">Minilot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t760ba0241e434cb0",
+      "english": "<span data-i18n-slot=\"0\">Micro lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">Microlot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "tce2a7ab54d083a4f",
+      "english": "<span data-i18n-slot=\"0\">25,000 ÷ 100,000 = 0.25 lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">25,000 ÷ 100,000 = 0.25 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t370a656726f2e1ad",
+      "english": "<span data-i18n-slot=\"0\">The calculation has four main inputs:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le calcul comporte quatre entrées principales&nbsp;:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t8fd48bbc57ca1622",
+      "english": "<span data-i18n-slot=\"0\">Suppose your planned trade uses a:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Supposons que l’opération prévue utilise :</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "ta6bba09e74128ce2",
+      "english": "<span data-i18n-slot=\"0\">Using the inputs above:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Utilisation des entrées ci-dessus&nbsp;:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "tc615258f68f6e56f",
+      "english": "<span data-i18n-slot=\"0\">20,000 ÷ 100,000 = 0.20 lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">20,000 ÷ 100,000 = 0.20 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t0d1f99a10b8013ab",
+      "english": "<span data-i18n-slot=\"0\">Input</span>",
+      "translation": "<span data-i18n-slot=\"0\">Entrée</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t766f202a2147add0",
+      "english": "<span data-i18n-slot=\"0\">Currency pair</span>",
+      "translation": "<span data-i18n-slot=\"0\">Paire de devises</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t484b68aa85a76a42",
+      "english": "<span data-i18n-slot=\"0\">50 pips</span>",
+      "translation": "<span data-i18n-slot=\"0\">50 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "te5cc74302bc70cd6",
+      "english": "<span data-i18n-slot=\"0\">0.20 lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.20 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "tc0fa5c6255dc73d2",
+      "english": "<span data-i18n-slot=\"0\">That matches the original 1% account-risk input.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cela correspond à l'entrée initiale de 1&nbsp;% de risque du compte.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "ta9c894e4e8b1df2c",
+      "english": "<span data-i18n-slot=\"0\">Margin:</span><span data-i18n-slot=\"1\"> How much account equity must be allocated to open that exposure?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Marge&nbsp;:</span><span data-i18n-slot=\"1\"> Quel montant de capitaux propres du compte doit être alloué pour ouvrir cette exposition&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t00bd1fbcf19cb982",
+      "english": "<span data-i18n-slot=\"0\">UPFOREX's published</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">account types</span></span><span data-i18n-slot=\"4\"> offer leverage of up to </span><span data-i18n-slot=\"5\">1:300</span><span data-i18n-slot=\"6\">, with a </span><span data-i18n-slot=\"7\">0.01 minimum lot size</span><span data-i18n-slot=\"8\"> across the Standard, Pro-ECN and Elite-ECN accounts.</span>",
+      "translation": "<span data-i18n-slot=\"0\">UPFOREX publie des </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">types de comptes</span></span><span data-i18n-slot=\"4\"> offrant un effet de levier allant jusqu’à </span><span data-i18n-slot=\"5\">1:300</span><span data-i18n-slot=\"6\">, avec une </span><span data-i18n-slot=\"7\">taille minimale de 0.01 lot</span><span data-i18n-slot=\"8\"> pour les comptes Standard, Pro-ECN et Elite-ECN.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t54bc1b976856f66d",
+      "english": "<span data-i18n-slot=\"0\">Lot Name</span>",
+      "translation": "<span data-i18n-slot=\"0\">Nom du lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t7e1721f52153a895",
+      "english": "<span data-i18n-slot=\"0\">1.00 lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">1.00 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "tf7373515b181fc11",
+      "english": "<span data-i18n-slot=\"0\">0.50 lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.50 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "tf60be4badc8587f2",
+      "english": "<span data-i18n-slot=\"0\">Half standard lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">Demi-lot standard</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t87b0bad9fd5cdc15",
+      "english": "<span data-i18n-slot=\"0\">0.10 lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.10 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t047a55b7dd478071",
+      "english": "<span data-i18n-slot=\"0\">0.05 lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.05 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "td9e83a3acae369ce",
+      "english": "<span data-i18n-slot=\"0\">A forex lot does not have one fixed dollar value. The question can refer either to the </span><span data-i18n-slot=\"1\">pip value</span><span data-i18n-slot=\"2\"> of the position or to its approximate </span><span data-i18n-slot=\"3\">notional market value</span><span data-i18n-slot=\"4\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un lot de devises n'a pas une valeur fixe en dollars. La question peut faire référence soit à la </span><span data-i18n-slot=\"1\">valeur du pip</span><span data-i18n-slot=\"2\"> de la position, soit à sa </span><span data-i18n-slot=\"3\">valeur marchande notionnelle approximative</span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t44f7d4c292161048",
+      "english": "<span data-i18n-slot=\"0\">1.00 lot = 100 troy ounces</span>",
+      "translation": "<span data-i18n-slot=\"0\">1.00 lot = 100 onces troy</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t3c9d8ac6c17063c0",
+      "english": "<span data-i18n-slot=\"0\">A $1.00 gold price movement changes the value of a 1.00 lot by $100</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une variation de $1.00 du cours de l’or fait varier de $100 la valeur d’une position de 1.00 lot.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t4069b3949aefb8ea",
+      "english": "<span data-i18n-slot=\"0\">What About Silver, Oil, NAS100 and Bitcoin?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu'en est-il de l'argent, du pétrole, du NAS100 et du Bitcoin&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t365c8fb2c3860314",
+      "english": "<span data-i18n-slot=\"0\">Silver/XAGUSD:</span><span data-i18n-slot=\"1\"> check contract size and tick value before calculating the silver lot size.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Argent/XAGUSD&nbsp;:</span><span data-i18n-slot=\"1\"> vérifiez la taille du contrat et la valeur du tick avant de calculer la taille du lot d'argent.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "te5d44428c8fadcf8",
+      "english": "<span data-i18n-slot=\"0\">1. Picking a round lot size first</span>",
+      "translation": "<span data-i18n-slot=\"0\">1. Choisir d'abord une taille de lot ronde</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t902c56d666cc0c08",
+      "english": "<span data-i18n-slot=\"0\">3. Confusing leverage with risk</span>",
+      "translation": "<span data-i18n-slot=\"0\">3. Confondre effet de levier et risque</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t0a91cb9f20f530f1",
+      "english": "<span data-i18n-slot=\"0\">Review its contract specification, tick size and related trading details.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Examinez les spécifications du contrat, la taille du tick et les détails de négociation associés.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "ta24d8b96ce1fef58",
+      "english": "<span data-i18n-slot=\"0\">Check the order details before placing the trade.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Vérifiez les détails de l’ordre avant d’effectuer l’opération.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t1e79136748555305",
+      "english": "<span data-i18n-slot=\"0\">For traders researching</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading in the UAE</span></span><span data-i18n-slot=\"4\">, position sizing is a useful next step after learning how currency pairs, pips and order sizes work.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pour les traders effectuant des recherches</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">sur le trading de devises aux Émirats arabes unis</span></span><span data-i18n-slot=\"4\">, la taille des positions est une prochaine étape utile après avoir appris comment fonctionnent les paires de devises, les pips et la taille des ordres.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t7535da68fa12760e",
+      "english": "<span data-i18n-slot=\"0\">What Are the Base and Quote Currency in a Forex Pair?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Quelles sont les devises de base et de cotation dans une paire de devises&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "t3db76b5fcf1ad13f",
+      "english": "<span data-i18n-slot=\"0\">USD = quote currency</span>",
+      "translation": "<span data-i18n-slot=\"0\">USD = devise de cotation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "t9c9b84970170c5c1",
+      "english": "<span data-i18n-slot=\"0\">2. Identify the quote currency</span>",
+      "translation": "<span data-i18n-slot=\"0\">2. Identifiez la devise de cotation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "t071aa1a2aa47e2fa",
+      "english": "<span data-i18n-slot=\"0\">The pair has moved upward by 0.0050, or </span><span data-i18n-slot=\"1\">50 pips,</span><span data-i18n-slot=\"2\"> under the standard four-decimal convention used for this pair.</span>",
+      "translation": "<span data-i18n-slot=\"0\">La paire a augmenté de 0.0050, ou </span><span data-i18n-slot=\"1\">50 pips,</span><span data-i18n-slot=\"2\"> selon la convention standard à quatre décimales utilisée pour cette paire.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "tf875e1f523c896bd",
+      "english": "<span data-i18n-slot=\"0\">That does not make every exotic pair behave the same way. One common beginner mistake is assuming that every pair in the same category has identical liquidity or volatility.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cela ne signifie pas que tous les couples exotiques se comportent de la même manière. Une erreur courante des débutants consiste à supposer que chaque paire de la même catégorie a une liquidité ou une volatilité identique.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "tfda9c4e202a896f8",
+      "english": "<span data-i18n-slot=\"0\">Typical Spread Characteristics</span>",
+      "translation": "<span data-i18n-slot=\"0\">Caractéristiques habituelles des spreads</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "t0de5ee63c2407827",
+      "english": "<span data-i18n-slot=\"0\">Can vary more than heavily traded majors</span>",
+      "translation": "<span data-i18n-slot=\"0\">Peut varier davantage que les majors fortement négociées</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "tf841255f000a8c13",
+      "english": "<span data-i18n-slot=\"0\">The most actively traded forex pairs are heavily concentrated around the U.S. dollar, with major pairs accounting for much of global FX activity.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les paires de devises les plus activement négociées sont fortement concentrées autour du dollar américain, les principales paires représentant une grande partie de l'activité de change mondiale.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "t4cd360af5b774539",
+      "english": "<span data-i18n-slot=\"0\">The latest BIS survey recorded an average OTC foreign-exchange turnover of approximately </span><span data-i18n-slot=\"1\">$9.6 trillion per day in April 2025</span><span data-i18n-slot=\"2\">, highlighting the scale of the global currency market. The dollar remained the dominant currency, appearing on one side of </span><span data-i18n-slot=\"3\">89% of all FX trades</span><span data-i18n-slot=\"4\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">La dernière enquête de la BRI a enregistré un volume moyen de transactions de change de gré à gré d’environ </span><span data-i18n-slot=\"1\">$9.6 billions par jour en avril 2025</span><span data-i18n-slot=\"2\">, soulignant l’ampleur du marché mondial des devises. Le dollar restait la devise dominante, étant l’une des deux devises dans </span><span data-i18n-slot=\"3\">89% de toutes les transactions de change</span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "tc93bfd60310924bc",
+      "english": "<span data-i18n-slot=\"0\">However, </span><span data-i18n-slot=\"1\">most traded does not automatically mean most profitable</span><span data-i18n-slot=\"2\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cependant, </span><span data-i18n-slot=\"1\">le plus négocié ne signifie pas automatiquement le plus rentable</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "tf18f0c270ab55c45",
+      "english": "<span data-i18n-slot=\"0\">Trading strategy</span>",
+      "translation": "<span data-i18n-slot=\"0\">Stratégie de trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "te282c70b6b4a2e6d",
+      "english": "<span data-i18n-slot=\"0\">Trading hours</span>",
+      "translation": "<span data-i18n-slot=\"0\">Heures de négociation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "t6d05c94f9fdaa431",
+      "english": "<span data-i18n-slot=\"0\">The most common currency-pair mistakes come from misunderstanding how the quotation works rather than from the pair names themselves.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les erreurs les plus courantes concernant les paires de devises proviennent d'une mauvaise compréhension du fonctionnement de la cotation plutôt que des noms des paires eux-mêmes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "tde5f5d76ca14fffa",
+      "english": "<span data-i18n-slot=\"0\">1. Confusing the Base and Quote Currency</span>",
+      "translation": "<span data-i18n-slot=\"0\">1. Confondre la devise de base et la devise de cotation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "taf21955c1fac5368",
+      "english": "<span data-i18n-slot=\"0\">2. Reading a Rising Pair Backwards</span>",
+      "translation": "<span data-i18n-slot=\"0\">2. Lire une paire montante à l'envers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "ta83575de748193c4",
+      "english": "<span data-i18n-slot=\"0\">5. Choosing a Pair Only Because It Is Moving Quickly</span>",
+      "translation": "<span data-i18n-slot=\"0\">5. Choisir une paire uniquement parce que cela évolue rapidement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "t1a6d6f55b187da53",
+      "english": "<span data-i18n-slot=\"0\">What is the base currency in a forex pair?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Quelle est la devise de base d'une paire de devises&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "t556f63b8135ebdbc",
+      "english": "<span data-i18n-slot=\"0\">What is the quote currency in a forex pair?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Quelle est la devise de cotation dans une paire de devises&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "ta08787179b0c2db3",
+      "english": "<span data-i18n-slot=\"0\">The quote currency is the second currency. It tells you how much of that currency is needed to equal one unit of the base currency.</span>",
+      "translation": "<span data-i18n-slot=\"0\">La devise de cotation est la deuxième devise. Il vous indique la quantité de cette devise nécessaire pour égaler une unité de la devise de base.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "tc7d918040f731758",
+      "english": "<span data-i18n-slot=\"0\">There is no universally best forex pair. Suitability depends on liquidity, trading costs, volatility, trading hours, strategy and the trader's objectives. A dedicated guide comparing the best currency pairs can examine these factors in more detail.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Il n’existe pas de meilleure paire de devises universellement. L'adéquation dépend de la liquidité, des coûts de négociation, de la volatilité, des heures de négociation, de la stratégie et des objectifs du trader. Un guide dédié comparant les meilleures paires de devises peut examiner ces facteurs plus en détail.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "tee1b1df050906af4",
+      "english": "<span data-i18n-slot=\"0\">Understand the Pair Before You Place the Trade</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comprendre la paire avant d'effectuer la transaction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ]
+    },
+    {
+      "key": "t11c65557fce86ac5",
+      "english": "<span data-i18n-slot=\"0\">For UAE and MENA traders, US releases often arrive during the afternoon or evening in Gulf Standard Time. USD pairs, gold, and US indices may then face wider spreads, slippage, rapid reversals, and losses beyond the amount initially planned.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pour les traders des Émirats arabes unis et de la région MENA, les publications américaines arrivent souvent dans l'après-midi ou le soir, à l'heure normale du Golfe. Les paires USD, l'or et les indices américains pourraient alors être confrontés à des spreads plus larges, à des dérapages, à des retournements rapides et à des pertes dépassant le montant initialement prévu.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "tf31140ea572d3336",
+      "english": "<span data-i18n-slot=\"0\">Scheduled events</span><span data-i18n-slot=\"1\"> have known release windows. Examples include:</span>",
+      "translation": "Les <span data-i18n-slot=\"0\">événements planifiés</span><span data-i18n-slot=\"1\"> ont des fenêtres de publication connues. Exemples&nbsp;:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t17f5ae28d44c9e10",
+      "english": "<span data-i18n-slot=\"0\">Release Frequency</span>",
+      "translation": "<span data-i18n-slot=\"0\">Fréquence de publication</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t91612e25fef9b58b",
+      "english": "<span data-i18n-slot=\"0\">Released By</span>",
+      "translation": "<span data-i18n-slot=\"0\">Publié par</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "ta85bae82790acb30",
+      "english": "<span data-i18n-slot=\"0\">Typical Volatility Level</span>",
+      "translation": "<span data-i18n-slot=\"0\">Niveau de volatilité typique</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t87e0b0f295b0edbc",
+      "english": "<span data-i18n-slot=\"0\">NFP / Employment Situation</span>",
+      "translation": "<span data-i18n-slot=\"0\">NFP / Situation de l’emploi</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t660559842e04f42a",
+      "english": "<span data-i18n-slot=\"0\">FOMC decision</span>",
+      "translation": "<span data-i18n-slot=\"0\">Décision du FOMC</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t7e86321f7eb652f5",
+      "english": "<span data-i18n-slot=\"0\">The Employment Situation is usually released at 8:30 a.m. Eastern Time and often appears on the first Friday of the month, although holidays or exceptional scheduling changes can move the date. Traders should use the official release calendar rather than assuming the date.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le rapport sur la situation de l’emploi est habituellement publié à 8:30 du matin, heure de l’Est, souvent le premier vendredi du mois. Les jours fériés ou des changements exceptionnels de calendrier peuvent toutefois modifier cette date. Les traders doivent consulter le calendrier officiel de publication plutôt que présumer de la date.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "tdc93319d087737f7",
+      "english": "<span data-i18n-slot=\"0\">Typical US Indices Reaction</span>",
+      "translation": "<span data-i18n-slot=\"0\">Réaction typique des indices américains</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t70a3017340734479",
+      "english": "<span data-i18n-slot=\"0\">Often range-bound unless another detail surprises</span>",
+      "translation": "<span data-i18n-slot=\"0\">Évolue souvent dans une fourchette, sauf si un autre détail surprend</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t9bbbb073e50319cd",
+      "english": "<span data-i18n-slot=\"0\">May strengthen as the USD and yields fall</span>",
+      "translation": "<span data-i18n-slot=\"0\">Peut se renforcer à mesure que le dollar et les rendements chutent</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t63813ca6869868aa",
+      "english": "<span data-i18n-slot=\"0\">May fall as expected borrowing costs increase</span>",
+      "translation": "<span data-i18n-slot=\"0\">Peut diminuer à mesure que les coûts d'emprunt attendus augmentent</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "tb5324190f4816454",
+      "english": "<span data-i18n-slot=\"0\">May remain range-bound</span>",
+      "translation": "<span data-i18n-slot=\"0\">Peut rester dans une fourchette</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t8a10a40279022b6c",
+      "english": "<span data-i18n-slot=\"0\">May focus on guidance and other data</span>",
+      "translation": "<span data-i18n-slot=\"0\">Peut se concentrer sur les orientations et les autres données</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "tcc26af6ae803b136",
+      "english": "<span data-i18n-slot=\"0\">Lower than forecast</span>",
+      "translation": "<span data-i18n-slot=\"0\">Inférieur aux prévisions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t1f8f9942a3486f96",
+      "english": "<span data-i18n-slot=\"0\">May strengthen as yields decline</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pourrait se renforcer à mesure que les rendements diminuent</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t888ca1237924bbbb",
+      "english": "<span data-i18n-slot=\"0\">“Forward guidance” means communication about the likely future direction of policy. Traders unfamiliar with terms such as basis points, hawkish, or dovish should confirm their meanings before trading around a policy announcement.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les « orientations prospectives » désignent la communication sur la direction future probable de la politique. Les traders peu familiers avec des termes comme points de base, restrictif (hawkish) ou accommodant (dovish) doivent en vérifier le sens avant de trader autour d’une annonce de politique monétaire.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t8faf5f5498fa3f94",
+      "english": "<span data-i18n-slot=\"0\">A practical framework starts before the release and continues after the initial price spike.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une démarche pratique commence avant la publication et se poursuit après le mouvement initial brusque du prix.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t061a56ad7f3c8fdd",
+      "english": "<span data-i18n-slot=\"0\">4. Check Spreads and Slippage</span>",
+      "translation": "<span data-i18n-slot=\"0\">4. Vérifier les spreads et le glissement de prix</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t9e73bf33f1e37efb",
+      "english": "<span data-i18n-slot=\"0\">During high-impact releases, the bid-ask spread can widen and available liquidity can change. A stop-loss limits risk intent but does not guarantee execution at the requested price.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Lors des publications à fort impact, l’écart entre les cours acheteur et vendeur peut s’élargir et la liquidité disponible peut changer. Un stop-loss vise à limiter le risque, mais ne garantit pas une exécution au prix demandé.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t352f7ba4fe30e932",
+      "english": "<span data-i18n-slot=\"0\">Common Mistakes During High-Impact Events</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erreurs courantes lors d'événements à fort impact</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t3089b0394d3f1407",
+      "english": "<span data-i18n-slot=\"0\">Holding correlated exposure:</span><span data-i18n-slot=\"1\"> Long USD, short gold, and short EUR/USD positions may express the same underlying view.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Détenir une exposition corrélée&nbsp;:</span><span data-i18n-slot=\"1\"> Les positions longues sur l'USD, courtes sur l'or et courtes sur l'EUR/USD peuvent exprimer la même vision sous-jacente.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t5b4f9c0108e12dc1",
+      "english": "<span data-i18n-slot=\"0\">What is the safest way to trade high-impact news?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Quelle est la façon la plus sûre de trader lors de publications d’actualités à fort impact ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t4d15e991ccaa7fcb",
+      "english": "<span data-i18n-slot=\"0\">Becoming an IB therefore involves more than sharing a link. A sustainable Introducing Broker partnership depends on regulatory transparency, accurate product knowledge, compliant marketing, reliable tracking, clear commission terms, and suitable client support.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Devenir IB implique donc bien plus que partager un lien. Un partenariat durable de courtier introducteur dépend de la transparence réglementaire, d’une connaissance exacte des produits, d’un marketing conforme, d’un suivi fiable, de conditions de commission claires et d’une assistance client adaptée.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t5efdb6e47cb9ddc8",
+      "english": "<span data-i18n-slot=\"0\">What Is an Introducing Broker (IB)?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu'est-ce qu'un courtier introducteur (IB)&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t032cee30c204f792",
+      "english": "<span data-i18n-slot=\"0\">Referred client:</span><span data-i18n-slot=\"1\"> Decides whether to register, fund, and trade.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Client apporté :</span><span data-i18n-slot=\"1\"> décide s’il souhaite s’inscrire, alimenter son compte et trader.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t3b9d8a2a959b20e0",
+      "english": "<span data-i18n-slot=\"0\">How Do Introducing Brokers Earn Commission?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment les courtiers introducteurs gagnent-ils des commissions&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t7318abb2e568815e",
+      "english": "<span data-i18n-slot=\"0\">Introducing Broker commission is generally connected to actual referred-client trading. Depending on the agreement, it may be calculated from eligible volume, spread contribution, account type, instrument, or another activity measure.</span>",
+      "translation": "<span data-i18n-slot=\"0\">La commission d’un courtier introducteur est généralement liée aux opérations réelles des clients apportés. Selon l’accord, elle peut être calculée à partir du volume admissible, de la contribution au spread, du type de compte, de l’instrument ou d’une autre mesure d’activité.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "tcea4cb95e6536ba5",
+      "english": "<span data-i18n-slot=\"0\">Client-attribution rules</span>",
+      "translation": "<span data-i18n-slot=\"0\">Règles d'attribution des clients</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t6733e34a80059490",
+      "english": "<span data-i18n-slot=\"0\">Whether sub-IB arrangements exist</span>",
+      "translation": "<span data-i18n-slot=\"0\">Existe-t-il des arrangements sous-IB&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t96f92567342a9b29",
+      "english": "<span data-i18n-slot=\"0\">Feature</span>",
+      "translation": "<span data-i18n-slot=\"0\">Fonctionnalité</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t6e6209bd0e201fe9",
+      "english": "<span data-i18n-slot=\"0\">Refers clients and may provide ongoing support</span>",
+      "translation": "<span data-i18n-slot=\"0\">Réfère les clients et peut fournir une assistance continue</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    },
+    {
+      "key": "t6a828beeaae9d42c",
+      "english": "<span data-i18n-slot=\"0\">Generates leads or conversions</span>",
+      "translation": "<span data-i18n-slot=\"0\">Génère des prospects ou des conversions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ]
+    }
+  ]
+}

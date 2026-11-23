@@ -1,0 +1,27 @@
+{
+  "language": "zh-TW",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "ta5f71c47b6409627",
+      "english": "<span data-i18n-slot=\"0\">Several key factors are coming together to fuel the growth of </span><span data-i18n-slot=\"1\">Forex trading</span><span data-i18n-slot=\"2\"> in the Middle East:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">幾個關鍵因素正在共同推動中東</span><span data-i18n-slot=\"1\">外匯交易</span><span data-i18n-slot=\"2\">的增長：</span>"
+    },
+    {
+      "key": "t57a71b4703dfe731",
+      "english": "But what truly sets<span data-i18n-slot=\"0\"> <span data-i18n-slot=\"1\">Forex trading</span></span> in the Middle East apart is how deeply its economic landscape, geopolitical tensions, cultural values, and religious practices influence trading behavior.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "但中東<span data-i18n-slot=\"0\"> <span data-i18n-slot=\"1\">外匯交易</span></span>真正與眾不同之處，在於當地經濟格局、地緣政治緊張局勢、文化價值觀和宗教習俗對交易行為的深刻影響。"
+    }
+  ]
+}

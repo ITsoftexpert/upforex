@@ -1,0 +1,430 @@
+[
+  {
+    "key": "tf375cc97e618ac49",
+    "english": "<span data-i18n-slot=\"0\">Lightning-Fast Execution: </span>When a breakout hits, every millisecond counts. You need your orders executed instantly at the price you expect. A platform with a high-performance trading engine and servers located in major financial hubs (e.g. London, New York data centers) will reduce latency. Fast execution with minimal slippage ensures that if you click buy on a 1.3000 breakout, you actually get something like 1.3000 and not 1.3010. Some leading platforms even boast execution speeds of a few milliseconds and have policies to minimize slippage and rejections even during volatile spikes. The result: you capture more of the breakout move instead of losing profit to delays or price jumps.",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+      "SSR:/blogs/strategy-snapshot-trading-breakouts"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">बिजली की तेजी से निष्पादन: </span>जब कोई ब्रेकआउट होता है, तो प्रत्येक मिलीसेकंड मायने रखता है। आप चाहते हैं कि आपके ऑर्डर आपकी अपेक्षित कीमत पर तुरंत निष्पादित हों। उच्च-प्रदर्शन ट्रेडिंग इंजन और प्रमुख वित्तीय केंद्रों (जैसे लंदन, न्यूयॉर्क डेटा सेंटर) में स्थित सर्वर वाला एक प्लेटफ़ॉर्म विलंबता को कम करेगा। न्यूनतम फिसलन के साथ तेजी से निष्पादन यह सुनिश्चित करता है कि यदि आप 1.3000 ब्रेकआउट पर खरीदारी पर क्लिक करते हैं, तो आपको वास्तव में 1.3000 जैसा कुछ मिलता है, 1.3010 नहीं। कुछ प्रमुख प्लेटफ़ॉर्म कुछ मिलीसेकंड की निष्पादन गति का भी दावा करते हैं और उनके पास अस्थिर स्पाइक्स के दौरान भी फिसलन और अस्वीकृति को कम करने की नीतियां हैं। परिणाम: आप देरी या मूल्य उछाल के कारण लाभ खोने के बजाय अधिक ब्रेकआउट चाल पर कब्जा कर लेते हैं।",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7590474394413875,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "681219342f541dd04363c836293405dd0a84bdcd700631b9aa13779064ddf52d",
+      "sourceTargetSha256": "6be8554a7840a9629270d9c49e14906ac004b14b8f51830b88377e5da3225bec",
+      "backTranslation": "Fast execution of electricity: When there is a breakout, each millisecond counts. You want your orders to be executed instantly at your expected price. A platform with a high-performance trading engine and a server located in major financial centers (such as London, New York Data Center) will reduce latency. Fast execution with minimal slippery ensures that if you click on shopping at 1.3000 breakouts, you really get something like 1.3000, not 1.3010. Some of the key platforms also claim the execution speed of a few milliseconds and have policies to reduce slippage and rejection even during unstable spikes. Results: You capture more breakout moves instead of losing profit due to delay or price bounce.",
+      "similarity": 0.8911194561471439,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t226cab65566ed4d3",
+    "english": "<span data-i18n-slot=\"0\">Tight Spreads and Low Fees: </span><span data-i18n-slot=\"1\">Breakout profits can evaporate if the cost of trading is too high. Many well-known brokers advertise super tight spreads, but what matters is that those spreads stay low even when liquidity is low. Be sure to choose a broker/platform known for ultra-low, stable spreads and no excessive commissions. For instance, if your platform typically has a 0.2 pip spread on EUR/USD during peak hours, it should ideally remain reasonably tight (maybe 0.5–1 pip) during quieter times too. Some lesser platforms widen their spreads considerably in off hours or charge hidden fees that eat into your gains. A competitive platform will highlight its consistently low spreads (often as low as 0.0-something pips on major pairs) and transparent fee structure. </span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+      "SSR:/blogs/strategy-snapshot-trading-breakouts"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">सख्त स्प्रेड और कम फीस: </span><span data-i18n-slot=\"1\">यदि ट्रेडिंग की लागत बहुत अधिक है तो ब्रेकआउट मुनाफा ख़त्म हो सकता है। कई जाने-माने ब्रोकर सुपर टाइट स्प्रेड का विज्ञापन करते हैं, लेकिन महत्वपूर्ण बात यह है कि तरलता कम होने पर भी वे स्प्रेड कम रहते हैं। ऐसे ब्रोकर/प्लेटफ़ॉर्म का चयन करना सुनिश्चित करें जो अत्यंत निम्न, स्थिर स्प्रेड और अत्यधिक कमीशन न देने के लिए जाना जाता हो। उदाहरण के लिए, यदि आपके प्लेटफ़ॉर्म में आमतौर पर पीक ऑवर्स के दौरान EUR/USD पर 0.2 पिप स्प्रेड होता है, तो इसे शांत समय के दौरान भी आदर्श रूप से यथोचित तंग (शायद 0.5-1 पिप) रहना चाहिए। कुछ छोटे प्लेटफ़ॉर्म कम घंटों में अपने प्रसार को काफी बढ़ा देते हैं या छिपी हुई फीस वसूलते हैं जो आपके लाभ को खा जाती है। एक प्रतिस्पर्धी मंच अपने लगातार कम स्प्रेड (अक्सर प्रमुख जोड़ियों पर 0.0-कुछ पिप्स जितना कम) और पारदर्शी शुल्क संरचना को उजागर करेगा। </span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-repair",
+    "similarity": 0.768879509792477,
+    "problems": [
+      "Changed numeric values",
+      "Source denial/exclusion needs bilingual review"
+    ]
+  },
+  {
+    "key": "t33f5ce182e78913c",
+    "english": "In summary, to “subtly outperform” those on big-name platforms, you want to be armed with superior tools and terms:",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+      "SSR:/blogs/strategy-snapshot-trading-breakouts"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "संक्षेप में, बड़े-नाम वाले प्लेटफार्मों पर \"सूक्ष्म रूप से बेहतर प्रदर्शन\" करने के लिए, आप बेहतर टूल और शर्तों से लैस होना चाहते हैं:",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7637177018487169,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "037c4200ea7f5e489285e1e76f7e7882bef2b898f1872b6b5d646b14081f6b9c",
+      "sourceTargetSha256": "f1aca4515aec0588748d1e05e26f20da11db57098bc6ee3fce8e796756e8d45c",
+      "backTranslation": "In short, to “improved performance” on large-named platforms, you want to be equipped with better tools and conditions:",
+      "similarity": 0.771995322841953,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t6fb41ec7006bdd17",
+    "english": "<span data-i18n-slot=\"0\">UpForex offers </span><span data-i18n-slot=\"1\">EUR/USD spreads from 0.1 pips</span><span data-i18n-slot=\"2\"> with </span><span data-i18n-slot=\"3\">zero commissions</span><span data-i18n-slot=\"4\">, meaning the spread you see is the only fee you pay—no hidden markups or overnight financing surprises . This transparent pricing ensures every pip works toward your bottom line, whether you’re trading majors, minors, or exotic pairs.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/best-forex-trading-platform#content",
+      "SSR:/blogs/best-forex-trading-platform"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">https://upx-entity-aa.अमान्य ऑफर </span><span data-i18n-slot=\"1\">EUR/USD 0.1 पिप्स से फैलता है</span><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">शून्य कमीशन</span><span data-i18n-slot=\"4\"> के साथ, जिसका अर्थ है कि जो स्प्रेड आप देखते हैं वह एकमात्र शुल्क है जिसका आप भुगतान करते हैं - कोई छिपा हुआ मार्कअप या रातोंरात वित्तपोषण आश्चर्य नहीं। यह पारदर्शी मूल्य निर्धारण सुनिश्चित करता है कि प्रत्येक पाइप आपकी निचली रेखा की ओर काम करता है, चाहे आप बड़ी, छोटी, या विदेशी जोड़ियों का व्यापार कर रहे हों।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-repair",
+    "similarity": 0.8029638318898739,
+    "problems": [
+      "Unresolved identity placeholder",
+      "Identity changed: UPFOREX"
+    ]
+  },
+  {
+    "key": "t8163ccdb8f7f1043",
+    "english": "<span data-i18n-slot=\"0\">Ultra-Tight Majors</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> EUR/USD from </span><span data-i18n-slot=\"4\">0.1 pips</span><span data-i18n-slot=\"5\">, matching raw-spread specialists without commissions .</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/best-forex-trading-platform#content",
+      "SSR:/blogs/best-forex-trading-platform"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">अल्ट्रा-टाइट मेजर्स</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> EUR/USD </span><span data-i18n-slot=\"4\">0.1 पिप्स</span><span data-i18n-slot=\"5\"> से, बिना कमीशन के रॉ-स्प्रेड विशेषज्ञों से मेल खाता है।</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.5609940651810267,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "2de15d54962ee765aa308525a13d1ed61346887bb3c05d08a687d006148f26d7",
+      "sourceTargetSha256": "10e9649ed78b3aca7e7259252c1b97c5eb015945c19a2e79cff1581fdab35c1a",
+      "backTranslation": "Ultra-Tita Majors EUR/USD corresponds to Raw-Spred experts without commissioning from 0.1 pips.",
+      "similarity": 0.8440715975867339,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t85c9062e1402fa66",
+    "english": "<span data-i18n-slot=\"0\">Consistent Execution</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Deep liquidity and robust infrastructure ensure spreads stay tight 24/5.</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\"></span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/best-forex-trading-platform#content",
+      "SSR:/blogs/best-forex-trading-platform"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">लगातार निष्पादन</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> गहरी तरलता और मजबूत बुनियादी ढांचा यह सुनिश्चित करता है कि स्प्रेड 24/5 तक ठहरें।</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\"></span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-repair",
+    "similarity": 0.6562345138775245,
+    "problems": [
+      "Changed numeric values"
+    ]
+  },
+  {
+    "key": "tc0650150b517e46a",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">How Forex Trading for Beginners Can Leverage UpForex’s Demo</span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+      "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">शुरुआती लोगों के लिए विदेशी मुद्रा व्यापार कैसे UpForex के डेमो का लाभ उठा सकता है</span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.6707046140596246,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "b36414dcd34e00b821aae4026e93a641dfda646127d17f35f4a49f28e3fa1c6f",
+      "sourceTargetSha256": "b996240f2dc72920ee56cbfe3e85c7e84348771c51c7c3f999e3e23e56f134d3",
+      "backTranslation": "How to Take Advantage of the Demo of UpForex for Beginners",
+      "similarity": 0.6835811431630785,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t42819e544a73c07a",
+    "english": "<span data-i18n-slot=\"0\">Market, limit, stop, trailing—see exactly how each behaves under live conditions.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+      "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">बाज़ार, सीमा, रुकना, पीछे चलना—देखें कि प्रत्येक जीवित परिस्थितियों में कैसा व्यवहार करता है।  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7799068123432198,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "c006deb218c99bf68d7142c5ebc14137f5c614ab8e6a5633338f6a9ec5198065",
+      "sourceTargetSha256": "373ac8a29520804433fc1871a1d9d881a71b11b583dffed9b0d7899f6c4dd5d9",
+      "backTranslation": "Market, limit, stop, walk behind—see how every living conditions behave.",
+      "similarity": 0.8398050076517067,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t092dcd6d5b5451cd",
+    "english": "<span data-i18n-slot=\"0\">Backtest patterns and indicators, then forward-test without risking your own funds.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+      "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">पैटर्न और संकेतकों का बैकटेस्ट करें, फिर अपने स्वयं के फंड को जोखिम में डाले बिना फॉरवर्ड-टेस्ट करें।  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.6038150073250924,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "6ee92a105d0d52d16a0a8e650ffa05bc469a4db0048e1b78585ae0e53a1483b3",
+      "sourceTargetSha256": "e7b7ecbfe53ebdba804c921b57a25997fba1ed298f983078d902434667d5fc0f",
+      "backTranslation": "Backtest patterns and indicators, then forward-test your own funds without risking.",
+      "similarity": 0.8963159205838108,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t5670a70ccd2cb8c2",
+    "english": "<span data-i18n-slot=\"0\">Copy-Trading Community:</span><span data-i18n-slot=\"1\"> Mirror vetted traders until you’re ready to fly solo.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+      "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">कॉपी-ट्रेडिंग समुदाय:</span><span data-i18n-slot=\"1\"> जब तक आप अकेले उड़ान भरने के लिए तैयार न हो जाएं, तब तक व्यापारियों की जांच करें।</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.6865124795435973,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "68788dae9e9d1e57e45d7dc8f1c9fb1595cce68d6511ed1cde3614fad62a459b",
+      "sourceTargetSha256": "37c50519ce7d0d44ce69e77602feb53378b1175d62d1066cf10bc50ac1c94a3b",
+      "backTranslation": "Copy-trading community: Check merchants until you’re ready to fly alone.",
+      "similarity": 0.8133646364533021,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t0f3620a9d486eac5",
+    "english": "<span data-i18n-slot=\"0\"> Aim for </span><span data-i18n-slot=\"1\">1–2 weeks</span><span data-i18n-slot=\"2\"> or </span><span data-i18n-slot=\"3\">15–30 demo trades</span><span data-i18n-slot=\"4\">, targeting small, consistent gains with ≤1% risk per trade.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+      "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span> 1-2 सप्ताह</span><span> या </span><span>15-30 डेमो ट्रेडों</span><span> का लक्ष्य रखें, प्रति ट्रेड ≤1% जोखिम के साथ छोटे, लगातार लाभ का लक्ष्य रखें।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-repair",
+    "similarity": 0.832114766850409,
+    "problems": [
+      "Changed numeric values",
+      "Changed HTML elements, attributes or URLs"
+    ]
+  },
+  {
+    "key": "t0067987935d8efc1",
+    "english": "<span data-i18n-slot=\"0\"> Use identical leverage, lot sizes, and risk rules. Journal every trade to refine your plan before switching over.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+      "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\"> समान उत्तोलन, लॉट आकार और जोखिम नियमों का उपयोग करें। आगे बढ़ने से पहले अपनी योजना को परिष्कृत करने के लिए प्रत्येक व्यापार को जर्नल करें।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.6932247522101795,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "f8009eaffd1bf9a9384621285d9049b0caf101a4b3c226942f1a0b7bc0fa7f66",
+      "sourceTargetSha256": "959cceb5aebcdc82691563039bc8df371407cd073f4b52413af685ececc5c750",
+      "backTranslation": "Use similar leverage, lot size and risk rules. Journal each business to refine your plan before proceeding.",
+      "similarity": 0.8318656263195425,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t1c851ae0ddc8b0c8",
+    "english": "<span data-i18n-slot=\"0\">For </span><span data-i18n-slot=\"1\">forex trading for beginners</span><span data-i18n-slot=\"2\">, the smartest path is clear: </span><span data-i18n-slot=\"3\">demo first, live later</span><span data-i18n-slot=\"4\">.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+      "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">शुरुआती लोगों के लिए विदेशी मुद्रा व्यापार</span><span data-i18n-slot=\"2\"> के लिए, सबसे स्मार्ट रास्ता स्पष्ट है: </span><span data-i18n-slot=\"3\">पहले डेमो, बाद में जियो</span><span data-i18n-slot=\"4\">।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.5860554082609972,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "81bf413288001ed21b840f810211ec469c7e5a86170147a7aab366f39624512e",
+      "sourceTargetSha256": "2d44c86de430f3df06a4c2cf5a5a98b179454091dd6c6670b2c0d0fd77c356e2",
+      "backTranslation": "For forex trading for beginners, the smartest way is clear: first demo, subsequently geo.",
+      "similarity": 0.8066156598358674,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t2cdf0fee1a737c62",
+    "english": "The process of purchasing and selling currencies with the intention of turning a profit is called <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">forex trading</span></span>, sometimes referred to as currency trading or foreign exchange trading. You exchange your rupees for dollars. When the value of the dollar rises compared to the rupee, you technically make a profit if you exchange it back. That simple concept is the heart of forex trading—except it’s done online, on a much bigger scale, and involves traders from all over the world",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+      "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "लाभ कमाने के इरादे से मुद्राओं को खरीदने और बेचने की प्रक्रिया को <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">विदेशी मुद्रा व्यापार</span></span> कहा जाता है, जिसे कभी-कभी मुद्रा व्यापार या विदेशी मुद्रा व्यापार भी कहा जाता है। आप डॉलर के बदले अपने रुपये बदलते हैं। जब डॉलर का मूल्य रुपये की तुलना में बढ़ जाता है, तो आप इसे वापस एक्सचेंज करने पर तकनीकी रूप से लाभ कमाते हैं। यह सरल अवधारणा विदेशी मुद्रा व्यापार का दिल है - सिवाय इसके कि यह ऑनलाइन किया जाता है, बहुत बड़े पैमाने पर, और इसमें दुनिया भर के व्यापारी शामिल होते हैं",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-repair",
+    "similarity": 0.814616201220415,
+    "problems": [
+      "Source denial/exclusion needs bilingual review"
+    ]
+  },
+  {
+    "key": "tbaf4195f8c94bedd",
+    "english": "<span data-i18n-slot=\"0\">When attempting to recover losses, overtrading</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">Keeping losing positions for too long</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">Closing profitable deals too soon</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">Making hasty judgments out of fear or greed</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+      "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">नुकसान की भरपाई करने का प्रयास करते समय, ओवरट्रेडिंग</span><span data-i18n-slot=\"1\"></span><span data-i18n-slot=\"2\">बहुत लंबे समय तक स्थिति खोते रहना</span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">लाभदायक सौदे बहुत जल्द बंद करना</span><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\">डर या लालच के कारण जल्दबाजी में निर्णय लेना</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7255031238622283,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "0cc553963313c01e7f11546888edad8da1503e7eddf2e42f66d51e44692c4103",
+      "sourceTargetSha256": "92b8a13b7979b122e6ee8291ca24135c9be7fa8cfe4e6c1fc82764844990fdad",
+      "backTranslation": "When trying to compensate for losses, overtraining is losing a very long position. Profitable deals close very soon. Making a decision in a hurry due to fear or greed.",
+      "similarity": 0.7808144614864216,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "ta1431a598f14f51b",
+    "english": "The US Dollar, expected to gain from Trump’s nationalistic trade stance, fell below 102 – with the Bloomberg Dollar Index marking its biggest one-day decline ever.",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/trump-tarrif#content",
+      "SSR:/blogs/trump-tarrif"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "ट्रम्प के राष्ट्रवादी व्यापार रुख से अमेरिकी डॉलर को लाभ मिलने की उम्मीद थी, जो 102 से नीचे गिर गया - ब्लूमबर्ग डॉलर इंडेक्स ने अब तक की सबसे बड़ी एक दिवसीय गिरावट दर्ज की।",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7348798322042961,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "db9b292cb13f3cdd6fc50dbf5c0a953d091106da2438d6f4c7a7ee1afe2e0f85",
+      "sourceTargetSha256": "1618034b081798b9c82bc661531199bfe33df6b1c39cf5edb390d651ac6ce0fc",
+      "backTranslation": "Trump’s nationalist trade stance expected the US dollar to gain, which fell below 102 – the Bloomberg Dollar Index recorded the largest one-day decline so far.",
+      "similarity": 0.7613375730517673,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  }
+]

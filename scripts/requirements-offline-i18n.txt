@@ -1,0 +1,5 @@
+# Local build tool only; never installed on the production website.
+ctranslate2==4.9.0
+sentencepiece==0.2.3
+opencc-python-reimplemented==0.1.7
+pysbd==0.3.4

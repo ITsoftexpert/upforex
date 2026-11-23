@@ -1,0 +1,573 @@
+{
+  "language": "zh-TW",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t95a43e0a723369f4",
+      "english": "<span data-i18n-slot=\"0\">Often wider than top USD majors</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常比主要美元貨幣對的點差更寬</span>"
+    },
+    {
+      "key": "tdb828a1e7c811f7c",
+      "english": "<span data-i18n-slot=\"0\">Moderate</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">中等</span>"
+    },
+    {
+      "key": "ta677096259b90cca",
+      "english": "<span data-i18n-slot=\"0\">Usually wider than major pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常比主要貨幣對更寬</span>"
+    },
+    {
+      "key": "ta94e990beff272d1",
+      "english": "<span data-i18n-slot=\"0\">Exotic</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">稀有貨幣對</span>"
+    },
+    {
+      "key": "t7715a5ef6392d707",
+      "english": "<span data-i18n-slot=\"0\">Typically wider and more variable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常更寬且更多變</span>"
+    },
+    {
+      "key": "t7fb9b3d49d405138",
+      "english": "<span data-i18n-slot=\"0\">These are general characteristics, not live UPFOREX quotes or guarantees of execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">這些是一般特徵，不是實時的 UPFOREX 報價或執行保證。</span>"
+    },
+    {
+      "key": "t7ce6c73a0d1715ee",
+      "english": "<span data-i18n-slot=\"0\">This is one of the most practical parts of forex liquidity to understand because a pair's trading conditions are not identical throughout the 24-hour market cycle.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">這是外匯流動性中最需要理解的實用部分之一，因為貨幣對的交易條件在整個 24 小時市場週期中並不完全相同。</span>"
+    },
+    {
+      "key": "ta40f46c749235e99",
+      "english": "<span data-i18n-slot=\"0\">Other USD- and European-currency pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">其他美元和歐洲貨幣對</span>"
+    },
+    {
+      "key": "t947518c6a2da721a",
+      "english": "<span data-i18n-slot=\"0\">Asian Session Activity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">亞洲交易時段的活躍情況</span>"
+    },
+    {
+      "key": "t00701525d4809ff7",
+      "english": "<span data-i18n-slot=\"0\">This illustrates an important point: liquidity is partly pair-specific.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">這說明瞭一個重要的觀點：流動性在一定程度上是特定於貨幣對的。</span>"
+    },
+    {
+      "key": "t278e94a91e527861",
+      "english": "<span data-i18n-slot=\"0\">Lower-Activity Windows</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">低活動視窗</span>"
+    },
+    {
+      "key": "tcd71ccf826b18542",
+      "english": "<span data-i18n-slot=\"0\">Liquidity can become thinner:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流動性可能會變得稀薄：</span>"
+    },
+    {
+      "key": "t01ee9b3a2c4a303e",
+      "english": "<span data-i18n-slot=\"0\">Between major session peaks</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要時段高峰之間</span>"
+    },
+    {
+      "key": "t147eaf406d9ae7f8",
+      "english": "<span data-i18n-slot=\"0\">Late in a trading day</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易日尾盤</span>"
+    },
+    {
+      "key": "t1662a8e61a3845dc",
+      "english": "<span data-i18n-slot=\"0\">As a result, a normally liquid pair can temporarily experience:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因此，通常流動的貨幣對可能會暫時經歷：</span>"
+    },
+    {
+      "key": "tcbbe69f00098f712",
+      "english": "<span data-i18n-slot=\"0\">Wider spreads</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">點差擴大</span>"
+    },
+    {
+      "key": "t4a6bd45e547c4de8",
+      "english": "<span data-i18n-slot=\"0\">Increased slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑點增加</span>"
+    },
+    {
+      "key": "tfd87452199d4236d",
+      "english": "<span data-i18n-slot=\"0\">Trading Condition</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易條件</span>"
+    },
+    {
+      "key": "t3e557a0d1441d069",
+      "english": "<span data-i18n-slot=\"0\">Higher-Liquidity Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">高流動性示例</span>"
+    },
+    {
+      "key": "t4d130a4336e91753",
+      "english": "<span data-i18n-slot=\"0\">Lower-Liquidity Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流動性較低的示例</span>"
+    },
+    {
+      "key": "tdaf4492135defef7",
+      "english": "<span data-i18n-slot=\"0\">Thinly traded exotic pair</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易清淡的奇異貨幣對</span>"
+    },
+    {
+      "key": "t081f4ae92e70b51b",
+      "english": "<span data-i18n-slot=\"0\">Often relatively tighter</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常相對更緊</span>"
+    },
+    {
+      "key": "tfe32cc2d2cffc4ab",
+      "english": "<span data-i18n-slot=\"0\">Slippage risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑點風險</span>"
+    },
+    {
+      "key": "t70c2676e7d332fee",
+      "english": "<span data-i18n-slot=\"0\">Large-order sensitivity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">對大額訂單的敏感度</span>"
+    },
+    {
+      "key": "t48ee0a784be74f28",
+      "english": "<span data-i18n-slot=\"0\">Lower relative impact</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相對影響較低</span>"
+    },
+    {
+      "key": "tc1049ef552a875bb",
+      "english": "<span data-i18n-slot=\"0\">High Liquidity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">高流動性</span>"
+    },
+    {
+      "key": "tbc0360f0e5347fb8",
+      "english": "<span data-i18n-slot=\"0\">Spreads often tighter</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">價差往往更小</span>"
+    },
+    {
+      "key": "tff13ea24c3888c64",
+      "english": "<span data-i18n-slot=\"0\">Spreads often wider</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">點差通常較寬</span>"
+    },
+    {
+      "key": "t0a8a9f6ca2bae6dc",
+      "english": "<span data-i18n-slot=\"0\">Lower relative slippage risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相對滑點風險較低</span>"
+    },
+    {
+      "key": "t6b943126f0d877e6",
+      "english": "<span data-i18n-slot=\"0\">Higher relative slippage risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相對滑點風險較高</span>"
+    },
+    {
+      "key": "t60efd03c9cc4163c",
+      "english": "<span data-i18n-slot=\"0\">What Are Common Misconceptions About Forex Liquidity?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">關於外匯流動性的常見誤解是什麼？</span>"
+    },
+    {
+      "key": "td715e9d0f0c83410",
+      "english": "<span data-i18n-slot=\"0\">Forex liquidity is often confused with several related but different concepts.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外匯流動性經常與幾個相關但不同的概念混淆。</span>"
+    },
+    {
+      "key": "tac2cbccb08637239",
+      "english": "<span data-i18n-slot=\"0\">A liquid pair can still move sharply when new information changes what buyers and sellers are willing to pay.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">當新資訊改變買家和賣家願意支付的價格時，流動性貨幣對仍可能大幅波動。</span>"
+    },
+    {
+      "key": "t861f893a942065b8",
+      "english": "<span data-i18n-slot=\"0\">High Liquidity Means Zero Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">高流動性意味著零滑點</span>"
+    },
+    {
+      "key": "tfb68ee60043c77a6",
+      "english": "<span data-i18n-slot=\"0\">It does not.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">事實並非如此。</span>"
+    },
+    {
+      "key": "t4ce64003ed0fe671",
+      "english": "<span data-i18n-slot=\"0\">Liquidity Is the Same All Day</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">全天流動性相同</span>"
+    },
+    {
+      "key": "t6b92fb9bcf709227",
+      "english": "<span data-i18n-slot=\"0\">This is one reason session timing can matter when evaluating spreads and execution conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">這也是評估點差和成交條件時，交易時段的時間安排可能很重要的原因之一。</span>"
+    },
+    {
+      "key": "t789913e8786d5e52",
+      "english": "<span data-i18n-slot=\"0\">A tight spread can be associated with strong liquidity, but spread is only one indicator.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">較小的點差可能與較強的流動性相關，但點差只是一個指標。</span>"
+    },
+    {
+      "key": "t420d830d18217dd1",
+      "english": "<span data-i18n-slot=\"0\">The published account conditions are:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">已釋出的帳戶條件為：</span>"
+    },
+    {
+      "key": "tf58ec93281736094",
+      "english": "<span data-i18n-slot=\"0\">Published Spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">公布的點差</span>"
+    },
+    {
+      "key": "t8bc167545356b75a",
+      "english": "<span data-i18n-slot=\"0\">Minimum trade size of 0.01 lots</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最小交易規模為0.01手</span>"
+    },
+    {
+      "key": "tce2771c187ead2f5",
+      "english": "<span data-i18n-slot=\"0\">The quoted spreads are starting levels rather than a promise that the minimum spread will be available on every order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">報價的點差是起始水平，而不是每個訂單都可用的最低點差的承諾。</span>"
+    },
+    {
+      "key": "t3a69c335c3d27cfb",
+      "english": "<span data-i18n-slot=\"0\">What is liquidity in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什麼是外匯流動性？</span>"
+    },
+    {
+      "key": "t1b08adcc6174c416",
+      "english": "<span data-i18n-slot=\"0\">Liquidity in forex describes how easily a currency pair can be bought or sold using available market prices without a relatively small transaction causing a material price movement. Higher liquidity normally means more buying and selling interest is available near the current price, while lower liquidity means market depth is thinner.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外匯流動性描述了按市場可用價格買賣貨幣對的容易程度，即相對較小的交易不會造成顯著價格變動。流動性較高通常意味著當前價格附近有更多買賣意願，而流動性較低則意味著市場深度較薄。</span>"
+    },
+    {
+      "key": "td055319f05eef6b1",
+      "english": "<span data-i18n-slot=\"0\">What are the most liquid forex pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流動性最強的外匯對是什麼？</span>"
+    },
+    {
+      "key": "ta15dd384139e2b90",
+      "english": "<span data-i18n-slot=\"0\">How does liquidity affect forex spreads?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流動性如何影響外匯點差？</span>"
+    },
+    {
+      "key": "ta7c0418b6a208461",
+      "english": "<span data-i18n-slot=\"0\">How does liquidity affect slippage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流動性如何影響滑點？</span>"
+    },
+    {
+      "key": "t1c6677190908f0f5",
+      "english": "<span data-i18n-slot=\"0\">What is high liquidity in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什麼是外匯的高流動性？</span>"
+    },
+    {
+      "key": "tfeb889f5bcd37c25",
+      "english": "<span data-i18n-slot=\"0\">When is forex liquidity usually highest?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外匯流動性通常什麼時候最高？</span>"
+    },
+    {
+      "key": "tcdd0aabb36a0570d",
+      "english": "<span data-i18n-slot=\"0\">No. Liquidity measures the availability of buying and selling interest, while volatility measures how much and how quickly prices change. A market can be both liquid and volatile, especially around major economic announcements when trading activity is high but prices are repricing rapidly.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">沒有。流動性衡量買賣興趣的可用性，而波動性衡量價格變化的程度和速度。市場可能既具有流動性又具有波動性，尤其是在重大經濟公告發布時，交易活動很高，但價格正在迅速重新定價。</span>"
+    },
+    {
+      "key": "tbdf08618c66449b2",
+      "english": "<span data-i18n-slot=\"0\">Slippage happens when a forex or CFD order executes at a different price from the price a trader expected when placing the order. The difference can be favorable, unfavorable, or sometimes nonexistent if the expected and execution prices match.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">當外匯或差價合約訂單的實際成交價格與交易者下單時預期的價格不同時，就會發生滑點。該差異可能有利，也可能不利；如果預期價與成交價相同，則沒有差異。</span>"
+    },
+    {
+      "key": "t92fc48dd0ad6ac23",
+      "english": "<span data-i18n-slot=\"0\">What Is Slippage in Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什麼是交易滑點？</span>"
+    },
+    {
+      "key": "tc7e03f17520fbdff",
+      "english": "<span data-i18n-slot=\"0\">If the same buy order instead executes at 1.1047, the fill is 3 pips lower than expected. That would represent </span><span data-i18n-slot=\"1\">positive slippage</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果同一筆買單反而在1.1047成交，成交價格就比預期低3點。這屬於</span><span data-i18n-slot=\"1\">正滑點</span><span data-i18n-slot=\"2\">。</span>"
+    },
+    {
+      "key": "tce09c6259db4a5ed",
+      "english": "<span data-i18n-slot=\"0\">Is Slippage the Same as Spread?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑點和點差一樣嗎？</span>"
+    },
+    {
+      "key": "t1c043daa8d9aabd8",
+      "english": "<span data-i18n-slot=\"0\">The </span><span data-i18n-slot=\"1\">spread</span><span data-i18n-slot=\"2\"> is the difference between an instrument's bid and ask prices at a particular moment.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">點差</span><span data-i18n-slot=\"2\">是某一金融工具在特定時刻買入價與賣出價之間的差額。</span>"
+    },
+    {
+      "key": "td4b66008b527ff40",
+      "english": "<span data-i18n-slot=\"0\">Difference between the current bid and ask price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">當前買入價和賣出價之間的差異</span>"
+    }
+  ]
+}

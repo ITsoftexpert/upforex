@@ -1,0 +1,487 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tbd82b9e1f39b9335",
+      "english": "<span data-i18n-slot=\"0\">The position's notional value should also not be confused with the margin required to open it. Leverage means margin can be only a fraction of the total market exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El valor nocional de la posición tampoco debe confundirse con el margen requerido para abrirla. El apalancamiento significa que el margen puede ser sólo una fracción de la exposición total al mercado.</span>"
+    },
+    {
+      "key": "tc286cbb766f2a559",
+      "english": "<span data-i18n-slot=\"0\">Gold CFDs need to be treated separately from forex pairs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los CFD sobre oro deben tratarse por separado de los pares de divisas.</span>"
+    },
+    {
+      "key": "t09acde13292d06e7",
+      "english": "<span data-i18n-slot=\"0\">How Do You Choose the Right Lot Size for Your Account?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo se elige el tamaño de lote adecuado para su cuenta?</span>"
+    },
+    {
+      "key": "t74a7e83f373d5705",
+      "english": "<span data-i18n-slot=\"0\">There is no single best or recommended forex lot size for every trader because appropriate position volume depends on the account, stop distance, instrument and the trader's own risk parameters.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No existe un tamaño de lote de Forex mejor o recomendado para cada operador porque el volumen de posición adecuado depende de la cuenta, la distancia de parada, el instrumento y los propios parámetros de riesgo del operador.</span>"
+    },
+    {
+      "key": "t13fe6574b7f32450",
+      "english": "<span data-i18n-slot=\"0\">Account balance:</span><span data-i18n-slot=\"1\"> The financial size of the trading account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Saldo de la cuenta:</span><span data-i18n-slot=\"1\"> El tamaño financiero de la cuenta comercial.</span>"
+    },
+    {
+      "key": "tdc918f699573ff63",
+      "english": "<span data-i18n-slot=\"0\">Instrument volatility:</span><span data-i18n-slot=\"1\"> Different instruments can move by very different amounts.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Volatilidad del instrumento:</span><span data-i18n-slot=\"1\"> Diferentes instrumentos pueden moverse en cantidades muy diferentes.</span>"
+    },
+    {
+      "key": "tf2ff381641bd8366",
+      "english": "<span data-i18n-slot=\"0\">Available margin:</span><span data-i18n-slot=\"1\"> Position size and leverage together determine margin requirements.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Margen disponible:</span><span data-i18n-slot=\"1\"> El tamaño de la posición y el apalancamiento determinan juntos los requisitos de margen.</span>"
+    },
+    {
+      "key": "t3faf5b6e3c247d2e",
+      "english": "<span data-i18n-slot=\"0\">No. Lot size determines the volume of the position, while leverage affects how much margin is required to support that market exposure. A trader can use the same lot size under different leverage settings; the position volume remains the same even though the margin requirement can change.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No. El tamaño del lote determina el volumen de la posición, mientras que el apalancamiento afecta la cantidad de margen necesario para respaldar esa exposición al mercado. Un operador puede utilizar el mismo tamaño de lote en diferentes configuraciones de apalancamiento; el volumen de la posición sigue siendo el mismo aunque el requisito de margen puede cambiar.</span>"
+    },
+    {
+      "key": "t2ab0b91dc29932f7",
+      "english": "<span data-i18n-slot=\"0\">Can I trade less than a micro lot?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Puedo operar con menos de un microlote?</span>"
+    },
+    {
+      "key": "tc08c9d4fddce5ae5",
+      "english": "<span data-i18n-slot=\"0\">A forex quote is the two-sided market price displayed for a currency pair at a particular moment.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Una cotización de divisas es el precio de mercado bilateral que se muestra para un par de divisas en un momento determinado.</span>"
+    },
+    {
+      "key": "tf9ca0e27f97b0239",
+      "english": "<span data-i18n-slot=\"0\">A quote might appear like this:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Una cotización puede aparecer así:</span>"
+    },
+    {
+      "key": "t5b4b404d0671a3cd",
+      "english": "<span data-i18n-slot=\"0\">1.0848</span><span data-i18n-slot=\"1\"> = bid</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.0848</span><span data-i18n-slot=\"1\"> = oferta</span>"
+    },
+    {
+      "key": "t5ec3d96cf68d7586",
+      "english": "<span data-i18n-slot=\"0\">Difference = spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferencia = diferencial</span>"
+    },
+    {
+      "key": "t6b8cba32d63d457e",
+      "english": "<span data-i18n-slot=\"0\">What Are the Bid and Ask Prices in a Forex Quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cuáles son los precios de oferta y demanda en una cotización de Forex?</span>"
+    },
+    {
+      "key": "tc6c9baa9b1717459",
+      "english": "<span data-i18n-slot=\"0\">If a trader submits a market sell, the relevant quoted side is approximately the bid at 1.0848.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Si un operador envía una venta de mercado, el lado cotizado relevante es aproximadamente la oferta en 1.0848.</span>"
+    },
+    {
+      "key": "t9b560dd666d9809e",
+      "english": "<span data-i18n-slot=\"0\">If a trader submits a market buy, the relevant quoted side is approximately the ask at 1.0850.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Si un operador envía una compra de mercado, el lado cotizado relevante es aproximadamente la demanda en 1.0850.</span>"
+    },
+    {
+      "key": "ta35959878ae6a31f",
+      "english": "<span data-i18n-slot=\"0\">Actual execution can differ from the displayed quote when prices move or market conditions change, but the two-sided quote tells the trader which side of the market applies to each direction.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La ejecución real puede diferir de la cotización mostrada cuando los precios se mueven o las condiciones del mercado cambian, pero la cotización bilateral le indica al operador qué lado del mercado se aplica en cada dirección.</span>"
+    },
+    {
+      "key": "tb101bccc09d7c0d2",
+      "english": "<span data-i18n-slot=\"0\">Bid</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Oferta</span>"
+    },
+    {
+      "key": "t9fb59a61858e6fbd",
+      "english": "<span data-i18n-slot=\"0\">Difference between ask and bid</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferencia entre ask y bid</span>"
+    },
+    {
+      "key": "t630fe2197cb8c967",
+      "english": "<span data-i18n-slot=\"0\">Quote</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cotización</span>"
+    },
+    {
+      "key": "t9a60d0e7cb45b1f3",
+      "english": "<span data-i18n-slot=\"0\">The two-sided market price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El precio de mercado bilateral</span>"
+    },
+    {
+      "key": "t4f3ff4088c72c798",
+      "english": "<span data-i18n-slot=\"0\">The ask is normally above the bid. That gap is what creates the spread.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La demanda normalmente está por encima de la oferta. Esa brecha es lo que crea el diferencial.</span>"
+    },
+    {
+      "key": "tc3b14d646a76af80",
+      "english": "<span data-i18n-slot=\"0\">What Is the Spread in a Forex Quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es el diferencial en una cotización de Forex?</span>"
+    },
+    {
+      "key": "t7cea19c403db76f8",
+      "english": "<span data-i18n-slot=\"0\">The spread is the difference between the ask price and the bid price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El diferencial es la diferencia entre el precio de venta y el precio de oferta.</span>"
+    },
+    {
+      "key": "t0283c76c3b0d0b9a",
+      "english": "<span data-i18n-slot=\"0\">Bid: 1.0848</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ask: 1.0850</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Precio bid: 1.0848</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Precio ask: 1.0850</span>"
+    },
+    {
+      "key": "td07423f8f3e00566",
+      "english": "<span data-i18n-slot=\"0\">UPFOREX publishes different starting spread structures across its</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">account types</span></span><span data-i18n-slot=\"4\">:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UPFOREX publica diferentes estructuras de diferenciales iniciales en sus</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">tipos de cuentas</span></span><span data-i18n-slot=\"4\">:</span>"
+    },
+    {
+      "key": "t599673b2d68023f2",
+      "english": "<span data-i18n-slot=\"0\">The important word is “domestic.” Whether a quote is direct or indirect depends on the observer's home currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La palabra importante es \"nacional\". El hecho de que una cotización sea directa o indirecta depende de la moneda local del observador.</span>"
+    },
+    {
+      "key": "tfd4d06035b4f9e51",
+      "english": "<span data-i18n-slot=\"0\">This expresses one unit of the domestic currency in terms of the foreign currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Expresa una unidad de la moneda nacional en términos de moneda extranjera.</span>"
+    },
+    {
+      "key": "t8122e3e7d9932c9d",
+      "english": "<span data-i18n-slot=\"0\">What Do Base and Quote Currency Mean Here?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué significan aquí las divisas base y de cotización?</span>"
+    },
+    {
+      "key": "t0bf8db81db01de4f",
+      "english": "<span data-i18n-slot=\"0\">USD is the quote currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">USD es la moneda cotizada.</span>"
+    },
+    {
+      "key": "tf4e24e26c5fc24de",
+      "english": "<span data-i18n-slot=\"0\">Assume MT5 displays:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Supongamos que MT5 muestra:</span>"
+    },
+    {
+      "key": "t08c2de5812382494",
+      "english": "<span data-i18n-slot=\"0\">Bid = 1.0848</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Oferta = 1.0848</span>"
+    },
+    {
+      "key": "t03dce32974be9e99",
+      "english": "<span data-i18n-slot=\"0\">Spread = 2 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferencial = 2 pips</span>"
+    },
+    {
+      "key": "t36775be552c4da2b",
+      "english": "<span data-i18n-slot=\"0\">A trader buying EUR/USD would look at the ask side.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un operador que compre EUR/USD miraría el lado de la venta.</span>"
+    },
+    {
+      "key": "td10af0c9e8ceb72f",
+      "english": "<span data-i18n-slot=\"0\">The ask matters because the trader is buying the base currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La demanda es importante porque el operador está comprando la moneda base.</span>"
+    },
+    {
+      "key": "tab39f8613dc6eee5",
+      "english": "<span data-i18n-slot=\"0\">A trader selling EUR/USD would look at the bid side.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un operador que vende EUR/USD miraría el lado de la oferta.</span>"
+    },
+    {
+      "key": "tc64cac06c8ea22fc",
+      "english": "<span data-i18n-slot=\"0\">to:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">a:</span>"
+    },
+    {
+      "key": "t7741a9bafd5e4a6c",
+      "english": "<span data-i18n-slot=\"0\">Both the bid and ask have risen by 2 pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tanto la oferta como la demanda han aumentado 2 pips.</span>"
+    },
+    {
+      "key": "tba8cbfaba5cd33a3",
+      "english": "<span data-i18n-slot=\"0\">Quote Stage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Etapa de cotización</span>"
+    },
+    {
+      "key": "td2c7e6a5350a9747",
+      "english": "<span data-i18n-slot=\"0\">Starting quote</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cotización inicial</span>"
+    },
+    {
+      "key": "tadc3e0a95d0f08d5",
+      "english": "<span data-i18n-slot=\"0\">2 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2 pips</span>"
+    },
+    {
+      "key": "t44e5845339c7e1e9",
+      "english": "<span data-i18n-slot=\"0\">Later quote</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cotización posterior</span>"
+    },
+    {
+      "key": "t7091c16e0de8091e",
+      "english": "<span data-i18n-slot=\"0\">+2 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">+2 pips</span>"
+    },
+    {
+      "key": "t5fa638b613fcb184",
+      "english": "<span data-i18n-slot=\"0\">Unchanged</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sin cambios</span>"
+    },
+    {
+      "key": "t62362b59b10c4155",
+      "english": "<span data-i18n-slot=\"0\">Suppose a trader had entered a long position near the original ask of 1.0850.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Supongamos que un operador había entrado en una posición larga cerca del precio solicitado original de 1.0850.</span>"
+    },
+    {
+      "key": "t43951ba97688f6c5",
+      "english": "<span data-i18n-slot=\"0\">At the later quote, the bid is now 1.0850. Because a long position is normally closed against the bid side, the market has moved enough for the new bid to reach the original illustrative entry price, before considering any other trading costs or execution differences.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">En la cotización posterior, la oferta es ahora 1.0850. Debido a que una posición larga normalmente se cierra contra el lado de la oferta, el mercado se ha movido lo suficiente como para que la nueva oferta alcance el precio de entrada ilustrativo original, antes de considerar cualquier otro costo comercial o diferencia de ejecución.</span>"
+    },
+    {
+      "key": "t9fc9cfdd79f3288b",
+      "english": "<span data-i18n-slot=\"0\">For a short position, the trader would monitor the ask when considering the price required to buy back and close the position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Para una posición corta, el operador controlaría la demanda al considerar el precio requerido para recomprar y cerrar la posición.</span>"
+    },
+    {
+      "key": "t21d661ca434613f4",
+      "english": "<span data-i18n-slot=\"0\">This is why reading only the middle of a quote or only one price can create confusion. The relevant side changes according to what the trader is doing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Esta es la razón por la que leer solo la mitad de una cotización o solo un precio puede crear confusión. El lado relevante cambia según lo que esté haciendo el comerciante.</span>"
+    }
+  ]
+}

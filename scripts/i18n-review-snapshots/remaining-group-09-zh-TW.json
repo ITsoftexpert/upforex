@@ -1,0 +1,912 @@
+{
+  "language": "zh-TW",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t049c1b31d0891fab",
+      "english": "How to Read a Forex Quote: Bid, Ask, Pip, and Price Movement Explained",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#title",
+        "SSR:/blogs",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "如何解讀外匯報價：買入價、賣出價、點與價格變動詳解"
+    },
+    {
+      "key": "t5ba1e95d6a088047",
+      "english": "Forex Quote: Bid, Ask, Spread & Pips | UPFOREX",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#metaTitle",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "外匯報價：買入價、賣出價、點差與點 | UPFOREX"
+    },
+    {
+      "key": "t1f6b435000e4da86",
+      "english": "Learn how to read a forex quote: bid, ask, spread, and pip movement explained, with a worked MT5 example.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#description",
+        "CMS:blogs/how-to-read-a-forex-quote#descriptionSnippet",
+        "SSR:/blogs",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "了解如何解讀外匯報價：透過MT5計算範例解釋買入價、賣出價、點差與以點衡量的價格變動。"
+    },
+    {
+      "key": "t905154bffdfcdea7",
+      "english": "What is a forex quote showing bid ask and spread",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#imageAltTag",
+        "SSR:/blogs",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "什麼是顯示買賣價和點差的外匯報價"
+    },
+    {
+      "key": "t890677991943d2b9",
+      "english": "forex quote",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#tag",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "外匯報價"
+    },
+    {
+      "key": "tcc70749943422b39",
+      "english": "FOREX QUOTE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#upperTag",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "外匯報價"
+    },
+    {
+      "key": "t16ce933451f80002",
+      "english": "bid ask spread",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#tag",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "買賣價差"
+    },
+    {
+      "key": "t80358f343b6623c2",
+      "english": "BID ASK SPREAD",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#upperTag",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "買賣價差"
+    },
+    {
+      "key": "t9859fefb87c0896b",
+      "english": "What Is Forex Liquidity? How It Affects Spreads, Slippage and Execution",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#title",
+        "SSR:/blogs",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "什麼是外匯流動性？它如何影響點差、滑點和執行"
+    },
+    {
+      "key": "tc5bc6999b92f99c1",
+      "english": "Forex Liquidity: Spreads, Slippage & Execution | UPFOREX",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#metaTitle",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "外匯流動性：點差、滑點和執行 | UPFOREX"
+    },
+    {
+      "key": "t609c11f2d44d5228",
+      "english": "Learn what forex liquidity means, which pairs are most liquid, and how liquidity affects spreads, slippage and execution on MT5.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#description",
+        "CMS:blogs/what-is-forex-liquidity#descriptionSnippet",
+        "SSR:/blogs",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "了解外匯流動性的含義、哪些貨幣對的流動性最強，以及流動性如何影響MT5上的點差、滑點與成交執行。"
+    },
+    {
+      "key": "t5f84a3652c445349",
+      "english": "Forex liquidity explained with spreads, slippage and market execution",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#imageAltTag",
+        "SSR:/blogs",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "外匯流動性透過點差、滑點和市場執行來解釋"
+    },
+    {
+      "key": "t567d1c81b7046b0b",
+      "english": "Forex Liquidity",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#tag",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "外匯流動性"
+    },
+    {
+      "key": "ta2b36101177f338b",
+      "english": "FOREX LIQUIDITY",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#upperTag",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "外匯流動性"
+    },
+    {
+      "key": "t65e5887413b73114",
+      "english": "Trading Execution",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#tag",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "交易執行"
+    },
+    {
+      "key": "t0715ccb4d24fee94",
+      "english": "TRADING EXECUTION",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#upperTag",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "交易執行"
+    },
+    {
+      "key": "tb937b9d5aaa5e505",
+      "english": "What Is Slippage in Forex Trading? Positive vs Negative Slippage",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#title",
+        "SSR:/blogs",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "什麼是外匯交易中的滑點？正滑點與負滑點"
+    },
+    {
+      "key": "t9ed256e2fc8ffd06",
+      "english": "What Is Slippage in Forex? Positive vs Negative Slippage",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#metaTitle",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "什麼是外匯滑點？正滑點與負滑點"
+    },
+    {
+      "key": "t6fdb94e882e43310",
+      "english": "Learn what slippage means in forex and CFD trading, why positive and negative slippage happens, and how traders can manage execution risk on MT5.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#description",
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#descriptionSnippet",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "了解外匯與差價合約交易中滑點的含義、正滑點和負滑點為何發生，以及交易者如何在MT5上管理成交執行風險。"
+    },
+    {
+      "key": "tea318392bfd99d00",
+      "english": "Forex Slippage – Positive and Negative Slippage in Trade Execution",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#imageAltTag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "外匯滑點——交易執行中的正滑點和負滑點"
+    },
+    {
+      "key": "te50784da329dd436",
+      "english": "Forex Slippage",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#tag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "外匯滑點"
+    },
+    {
+      "key": "t750fe4fa25e69096",
+      "english": "FOREX SLIPPAGE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#upperTag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "外匯滑點"
+    },
+    {
+      "key": "tddaa6362b70a64b4",
+      "english": "Slippage in Trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#tag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "交易滑點"
+    },
+    {
+      "key": "td5cdbe42c50104d4",
+      "english": "SLIPPAGE IN TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#upperTag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "交易滑點"
+    },
+    {
+      "key": "t95c930035fc7be33",
+      "english": "Positive and Negative Slippage",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#tag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "正滑點和負滑點"
+    },
+    {
+      "key": "t1ddae64313008a33",
+      "english": "POSITIVE AND NEGATIVE SLIPPAGE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#upperTag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "正滑點和負滑點"
+    },
+    {
+      "key": "tcec475a3cb2fa00f",
+      "english": "Market Order vs Limit Order vs Stop Order on MT5",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#title",
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#metaTitle",
+        "SSR:/blogs",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "MT5上的市價單、限價單與止價單比較"
+    },
+    {
+      "key": "t7198c8a3254cac11",
+      "english": "Market Order vs Limit Order",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#tag",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "市價單與限價單"
+    },
+    {
+      "key": "tfb8b3ac3b5560571",
+      "english": "MARKET ORDER VS LIMIT ORDER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#upperTag",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "市價單 VS 限價單"
+    },
+    {
+      "key": "tc8a193feb11f8dec",
+      "english": "MT5 ORDER TYPES",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#upperTag",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "MT5訂單類型"
+    },
+    {
+      "key": "t322778cf48071207",
+      "english": "Learn forex correlation, read tables, compare positive and negative pairs, and understand how correlated trades can concentrate risk.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#description",
+        "CMS:blogs/forex-correlation-explained#descriptionSnippet",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "瞭解外匯相關性、閱讀表格、比較正負貨幣對，並瞭解相關交易如何集中風險。"
+    },
+    {
+      "key": "t82922d9d4cb11adb",
+      "english": "Forex Correlation",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#tag",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "外匯相關性"
+    },
+    {
+      "key": "tf636e69da1ea9f1b",
+      "english": "FOREX CORRELATION",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#upperTag",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "外匯相關性"
+    },
+    {
+      "key": "t732940ce1d2edc50",
+      "english": "Currency Pair Correlation",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#tag",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "貨幣對相關性"
+    },
+    {
+      "key": "t9749368ec06e4310",
+      "english": "CURRENCY PAIR CORRELATION",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#upperTag",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "貨幣對相關性"
+    },
+    {
+      "key": "tc2150cfa804d5f20",
+      "english": "Forex Correlation Matrix",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#tag",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "外匯相關矩陣"
+    },
+    {
+      "key": "t749bbd1ad39544c0",
+      "english": "FOREX CORRELATION MATRIX",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#upperTag",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "外匯相關矩陣"
+    },
+    {
+      "key": "tca995440dd70baae",
+      "english": "What Is Drawdown in Trading? Balance vs Equity Drawdown Explained",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#title",
+        "SSR:/blogs",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "什麼是交易中的回撤？餘額與淨值回撤的解釋"
+    },
+    {
+      "key": "t257e36152f40ae05",
+      "english": "What Is Drawdown in Trading? Balance vs Equity | UpForex",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#metaTitle",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "什麼是交易中的回撤？餘額與權益| UpForex"
+    },
+    {
+      "key": "t2be26b54e6056d64",
+      "english": "Learn what drawdown means in trading, how balance and equity drawdown differ, how to calculate it, and practical ways to manage risk.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#description",
+        "CMS:blogs/what-is-drawdown-in-trading#descriptionSnippet",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "瞭解交易中的回撤意味著什麼、餘額和淨值回撤有何不同、如何計算以及管理風險的實用方法。"
+    },
+    {
+      "key": "taa81ed3f077ddf37",
+      "english": "Drawdown in Trading – Balance vs Equity and Maximum Drawdown",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#imageAltTag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "交易中的回撤——餘額與淨值以及最大回撤"
+    },
+    {
+      "key": "tcca4bc3bd4b7acb3",
+      "english": "Drawdown in Trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#tag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "交易回撤"
+    },
+    {
+      "key": "tdd7f4edb7ab54cd3",
+      "english": "DRAWDOWN IN TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#upperTag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "交易回撤"
+    },
+    {
+      "key": "t7b4e729dad956411",
+      "english": "Forex Drawdown",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#tag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "外匯回撤"
+    },
+    {
+      "key": "te0e58bbd02528071",
+      "english": "FOREX DRAWDOWN",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#upperTag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "外匯回撤"
+    },
+    {
+      "key": "ta1335831500433bf",
+      "english": "Maximum Drawdown",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#tag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "最大回撤"
+    },
+    {
+      "key": "t877ddc512aecf35f",
+      "english": "MAXIMUM DRAWDOWN",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#upperTag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "最大回撤"
+    },
+    {
+      "key": "tba8e4eb423470a04",
+      "english": "How to Calculate Forex Position Size: Formula, Lot Size & Risk Examples",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#title",
+        "SSR:/blogs",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "如何計算外匯頭寸規模：公式、手數和風險示例"
+    },
+    {
+      "key": "te02d8d9f86b7493b",
+      "english": "How to Calculate Forex Position Size & Lot Size | UPFOREX",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#metaTitle",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "如何計算外匯頭寸規模和手數 | UPFOREX"
+    },
+    {
+      "key": "te93bdde52c22b713",
+      "english": "Learn the forex position size formula, calculate lot size from risk and stop loss, and follow practical examples before placing a trade.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#description",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#descriptionSnippet",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "瞭解外匯頭寸規模公式，根據風險和止損計算手數，並在進行交易之前遵循實際示例。"
+    },
+    {
+      "key": "td04ce5f5ebdfbb5b",
+      "english": "Calculate Forex Position Size",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#imageAltTag",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "計算外匯頭寸規模"
+    },
+    {
+      "key": "tdd1871aef22bf7da",
+      "english": "What Is a Forex Currency Pair? Base, Quote, Major, Minor & Exotic Pairs Explained",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#title",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "什麼是外匯貨幣對？基礎貨幣、報價貨幣及主要、次要和稀有貨幣對詳解"
+    },
+    {
+      "key": "t4657dc94e3f54a4a",
+      "english": "What Is a Forex Currency Pair? Major, Minor & Exotic",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#metaTitle",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "什麼是外匯貨幣對？主要、次要與稀有貨幣對"
+    },
+    {
+      "key": "t21ce1da7f377812d",
+      "english": "Learn what a forex currency pair is, how base and quote currencies work, and how to read major, minor, and exotic pairs before you trade.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#description",
+        "CMS:blogs//what-is-a-forex-currency-pair#descriptionSnippet",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "瞭解什麼是外匯貨幣對、基礎貨幣和報價貨幣如何運作，以及如何在交易前閱讀主要貨幣對、次要貨幣對和奇異貨幣對。"
+    },
+    {
+      "key": "t4f0e76a04fa6154e",
+      "english": "Forex Currency Pair",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#imageAltTag",
+        "CMS:blogs//what-is-a-forex-currency-pair#tag",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "外匯貨幣對"
+    },
+    {
+      "key": "t1cb69820b87dfa0e",
+      "english": "FOREX CURRENCY PAIR",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#upperTag",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "外匯貨幣對"
+    },
+    {
+      "key": "tdc0b64fcb6568b60",
+      "english": "MAJOR CURRENCY PAIRS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#upperTag",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "主要貨幣對"
+    },
+    {
+      "key": "tb32edb376e6edd7b",
+      "english": "How Economic Events Move the Market: NFP, CPI & Fed Rate Decisions Explained",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#title",
+        "SSR:/blogs",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide",
+        "SSR:/blogs/forex-trading",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "經濟事件如何影響市場：非農就業資料、消費者物價指數和美聯儲利率決策解釋"
+    },
+    {
+      "key": "t7bb111f6da0936aa",
+      "english": "How Economic Events Move Forex Markets: NFP, CPI & Fed Guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#metaTitle",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "經濟事件如何影響外匯市場：非農就業資料、消費者物價指數和美聯儲指南"
+    },
+    {
+      "key": "tb3824995d0a71113",
+      "english": "Learn how NFP, CPI, and Fed rate decisions drive volatility in forex, gold, and indices. Master economic calendar analysis and risk management on MT5.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#description",
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#descriptionSnippet",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide",
+        "SSR:/blogs/forex-trading",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "瞭解非農就業資料、消費者物價指數和美聯儲利率決策如何推動外匯、黃金和指數的波動。在 MT5 上掌握經濟日曆分析和風險管理。"
+    },
+    {
+      "key": "t3616c2ed5ee39c75",
+      "english": "Economic Events Move Forex Markets",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#imageAltTag",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "經濟事件影響外匯市場"
+    },
+    {
+      "key": "t86b2b9e5f9b0cb49",
+      "english": "ForexEducation",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#tag",
+        "CMS:blogs/copy-trading-and-social-trading-explained#tag",
+        "CMS:blogs/forex-leverage-and-margin-explained#tag",
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#tag",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "外匯教育"
+    },
+    {
+      "key": "t1982cc256674ca09",
+      "english": "FOREXEDUCATION",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#upperTag",
+        "CMS:blogs/copy-trading-and-social-trading-explained#upperTag",
+        "CMS:blogs/forex-leverage-and-margin-explained#upperTag",
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#upperTag",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "外匯教育"
+    },
+    {
+      "key": "tb10a0fd2f445bb50",
+      "english": "FUNDAMENTALANALYSIS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#upperTag",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "基本面分析"
+    },
+    {
+      "key": "t95613323c25a3895",
+      "english": "ow to Become an Introducing Broker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#imageAltTag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "如何成為介紹經紀人"
+    },
+    {
+      "key": "tae87f6c03a1541fa",
+      "english": "IntroducingBroker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#tag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "介紹經紀商"
+    },
+    {
+      "key": "t626242e07b9da3da",
+      "english": "INTRODUCINGBROKER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#upperTag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "介紹經紀商"
+    },
+    {
+      "key": "tb9c47e22766e9148",
+      "english": "ForexIB",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#tag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "外匯IB"
+    },
+    {
+      "key": "t343b28e22dfc8888",
+      "english": "FOREXIB",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#upperTag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "外匯IB"
+    },
+    {
+      "key": "t1e2e49b2de3e08fa",
+      "english": "IBPROGRAM",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#upperTag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "IB計畫"
+    },
+    {
+      "key": "t3b1f56e62e27844a",
+      "english": "UpForexPartnership",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#tag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "UpForex 夥伴關係"
+    },
+    {
+      "key": "t5b3c46863c1d61ea",
+      "english": "UPFOREXPARTNERSHIP",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#upperTag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "UPFOREX合作夥伴關係"
+    },
+    {
+      "key": "t0a577c04d923491e",
+      "english": "ForexAffiliate",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#tag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "外匯聯盟"
+    },
+    {
+      "key": "td10ff604f6b121de",
+      "english": "FOREXAFFILIATE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#upperTag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "外匯聯盟"
+    },
+    {
+      "key": "t057db18b11a24aff",
+      "english": "Learn how copy trading works, compare it with social trading, review 6 platform checks, and decide whether it suits your risk profile. Start exploring.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#description",
+        "CMS:blogs/copy-trading-and-social-trading-explained#descriptionSnippet",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "瞭解複製交易的工作原理，將其與社交交易進行比較，檢視 6 項平臺檢查，並確定它是否適合您的風險狀況。開始探索。"
+    },
+    {
+      "key": "t5f7011c5eaf8ed83",
+      "english": "CopyTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#tag",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "複製交易"
+    },
+    {
+      "key": "t8fee30e5a28fb9a3",
+      "english": "COPYTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#upperTag",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "跟單交易"
+    },
+    {
+      "key": "t39dffd7be7bb2f7f",
+      "english": "MirrorTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#tag",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "映象交易"
+    },
+    {
+      "key": "tc64501dbcecbee9f",
+      "english": "MIRRORTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#upperTag",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "映象交易"
+    },
+    {
+      "key": "t35c1653ba6837a4b",
+      "english": "TradingSignals",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#tag",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "交易訊號"
+    },
+    {
+      "key": "t323604fb5579c28b",
+      "english": "TRADINGSIGNALS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#upperTag",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "交易訊號"
+    },
+    {
+      "key": "t9a9dfcd93ad40a3f",
+      "english": "ECN vs Market Maker Broker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#imageAltTag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "ECN 與做市商經紀商"
+    },
+    {
+      "key": "t12947b2436c652ee",
+      "english": "ECNBroker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#tag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "ECN經紀商"
+    },
+    {
+      "key": "t42a8c4843429f1ce",
+      "english": "ECNBROKER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#upperTag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "ECN經紀商"
+    },
+    {
+      "key": "t4bda89fbd93cd8d1",
+      "english": "MarketMaker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#tag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "做市商"
+    },
+    {
+      "key": "t2882955bd0e8bcf1",
+      "english": "MARKETMAKER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#upperTag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "做市商"
+    }
+  ]
+}

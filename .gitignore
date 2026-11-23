@@ -40,3 +40,12 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+*.zip
+
+# Local translation credentials (build tools only; never browser assets)
+/.env.local
+/.env.translation.local
+
+# Frontend-only public CMS refresh cache (runtime data, not source)
+/var/public-cms/

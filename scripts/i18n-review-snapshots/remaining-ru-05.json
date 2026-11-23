@@ -1,0 +1,1813 @@
+{
+  "language": "ru",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t1e28b3f77b51430f",
+      "english": "<span data-i18n-slot=\"0\">Leverage management begins with position size, not with choosing the highest ratio available.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Управление плечом начинается с размера позиции, а не с выбора самого высокого соотношения.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tec8515293ff22917",
+      "english": "<span data-i18n-slot=\"0\">Monitor exposure across correlated trades.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Мониторинг экспозиции по коррелированным сделкам.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tbac333805266f578",
+      "english": "<span data-i18n-slot=\"0\">Is Leverage Trading Halal?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Является ли торговля с кредитным плечом халяльной?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "te101093058b8d592",
+      "english": "<span data-i18n-slot=\"0\">Issues commonly reviewed include:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Вопросы, которые обычно рассматриваются, включают:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t66f77e292b003dad",
+      "english": "<span data-i18n-slot=\"0\">Whether interest or overnight swap charges apply</span>",
+      "translation": "<span data-i18n-slot=\"0\">Применяются ли процентные или ночные свопы</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t9d84ae124b48be26",
+      "english": "<span data-i18n-slot=\"0\">Notional value ÷ Required margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Условная величина ÷ Требуемая маржа</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "te3700639d9147e1b",
+      "english": "<span data-i18n-slot=\"0\">Notional value ÷ Leverage ratio</span>",
+      "translation": "<span data-i18n-slot=\"0\">Условное значение ÷ Коэффициент рычага</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tf57d4841a94a2857",
+      "english": "<span data-i18n-slot=\"0\">Free Margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Свободная маржа</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tfa51a876a199ad26",
+      "english": "<span data-i18n-slot=\"0\">Stop-Out</span>",
+      "translation": "<span data-i18n-slot=\"0\">Стоп-аут</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t2acfcde0595d8498",
+      "english": "<span data-i18n-slot=\"0\">Is leverage trading halal?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Является ли торговля с кредитным плечом халяльной?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t307ba3b8a7bf5be6",
+      "english": "<span data-i18n-slot=\"0\">How do I calculate the margin required for a trade?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как рассчитать маржу, необходимую для торговли?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t165acf2432741f14",
+      "english": "<span data-i18n-slot=\"0\">Skipping demo practice</span>",
+      "translation": "<span data-i18n-slot=\"0\">Пропуск демонстрационной практики</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t23d7016f0e63bd0b",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging without understanding margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Чрезмерное кредитное плечо без понимания маржи</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tfd26f4ab578bcbdb",
+      "english": "<span data-i18n-slot=\"0\">Entering trades without a stop-loss</span>",
+      "translation": "<span data-i18n-slot=\"0\">Вход в сделки без стоп-лосса</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "ta8b24923fc9b0a41",
+      "english": "<span data-i18n-slot=\"0\">Chasing losses through revenge trading</span>",
+      "translation": "<span data-i18n-slot=\"0\">Погоня за убытками через торговлю местью</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t9b66efcd122f50ed",
+      "english": "<span data-i18n-slot=\"0\">Failing to keep and review a trading journal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Неспособность вести и просматривать торговый журнал</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t119f82946e459876",
+      "english": "<span data-i18n-slot=\"0\">Define trading hours and maximum exposure.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Определение торговых часов и максимальной экспозиции.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t33aecf3374bc8b21",
+      "english": "<span data-i18n-slot=\"0\">Practise order placement and stop-loss use.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Практикуйте размещение заказа и использование стоп-лосс.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t4bed96fb30363a6d",
+      "english": "<span data-i18n-slot=\"0\">Mistake #3: Overleveraging Without Understanding Margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ошибка №3: Чрезмерное кредитное плечо без понимания маржи</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t1b18a5c8e7eb1a30",
+      "english": "<span data-i18n-slot=\"0\">Consider all correlated positions together.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Рассмотрим все взаимосвязанные позиции вместе.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tf7ea30159ad9f65f",
+      "english": "<span data-i18n-slot=\"0\">Set the invalidation level before entry.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Определите уровень, при котором торговая идея станет недействительной, до входа в сделку.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tcb1e98e73aee6a49",
+      "english": "<span data-i18n-slot=\"0\">The next trade has no special obligation to recover the previous loss.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Следующая сделка не имеет особых обязательств по возмещению предыдущего убытка.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tc278ee2b74a18b9d",
+      "english": "<span data-i18n-slot=\"0\">Review net results after fees.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Обзор чистых результатов после сборов.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t658133f719f1cc81",
+      "english": "<span data-i18n-slot=\"0\">Mistake #7: Trading Money Needed for Essential Expenses</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ошибка №7: Торговля на деньги, необходимые для обязательных расходов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t5beba7f2ead26992",
+      "english": "<span data-i18n-slot=\"0\">Reactive Trader</span>",
+      "translation": "<span data-i18n-slot=\"0\">Реактивный трейдер</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t9a710a4fdc6f7b63",
+      "english": "<span data-i18n-slot=\"0\">Watches every candle and changes decisions</span>",
+      "translation": "<span data-i18n-slot=\"0\">Смотреть каждую свечу и менять решения</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tc93933e8ff7f3420",
+      "english": "<span data-i18n-slot=\"0\">Enters first and considers the stop later</span>",
+      "translation": "<span data-i18n-slot=\"0\">Сначала входит в сделку, а о стопе думает позже</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tf2ff2dbd11cdefe7",
+      "english": "<span data-i18n-slot=\"0\">Defines the stop before entry</span>",
+      "translation": "<span data-i18n-slot=\"0\">Определяет остановку перед входом</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tc336cd09b9de75f3",
+      "english": "<span data-i18n-slot=\"0\">Trades to relieve fear or frustration</span>",
+      "translation": "<span data-i18n-slot=\"0\">Торговля, чтобы облегчить страх или разочарование</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tba584a1f35bad4bb",
+      "english": "<span data-i18n-slot=\"0\">Remembers trades selectively</span>",
+      "translation": "<span data-i18n-slot=\"0\">Помнить сделки выборочно</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t1f4c2e16769311a8",
+      "english": "<span data-i18n-slot=\"0\">Records and reviews each trade</span>",
+      "translation": "<span data-i18n-slot=\"0\">Записи и обзоры каждой сделки</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t8fd426a218552964",
+      "english": "<span data-i18n-slot=\"0\">Mistake #10: Not Keeping a Trading Journal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ошибка No10: не вести торговый журнал</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tda8b70ed6eeaa113",
+      "english": "<span data-i18n-slot=\"0\">Without a journal, traders remember dramatic results but miss repeated process errors. They may continue using a weak setup or blame the market for poor execution.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Без журнала трейдеры запоминают впечатляющие результаты, но упускают повторяющиеся ошибки процесса. Они могут продолжать использовать слабую настройку или обвинять рынок в плохом исполнении.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t1ea2cf62681882c2",
+      "english": "<span data-i18n-slot=\"0\">Record every trade in the same format.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Записывайте каждую сделку в одном формате.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tcbb276f5cc06842d",
+      "english": "<span data-i18n-slot=\"0\">Review groups of trades, not one result.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Обзор групп сделок, а не один результат.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t7bd040ffebc860df",
+      "english": "<span data-i18n-slot=\"0\">Separate strategy performance from rule-breaking.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Отделяйте результаты стратегии от последствий нарушения правил.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t0fcea632b1e98300",
+      "english": "<span data-i18n-slot=\"0\">Calculate loss and total exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Расчет потерь и общего воздействия</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t58a4ccc09b34d92a",
+      "english": "<span data-i18n-slot=\"0\">No stop-loss</span>",
+      "translation": "<span data-i18n-slot=\"0\">Нет стоп-лосс</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t980c3520a0ff7c9e",
+      "english": "<span data-i18n-slot=\"0\">Set invalidation before entry</span>",
+      "translation": "<span data-i18n-slot=\"0\">Определите уровень отмены торговой идеи до входа</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t0b2c9ca044625902",
+      "english": "<span data-i18n-slot=\"0\">Losses are chased immediately</span>",
+      "translation": "<span data-i18n-slot=\"0\">Потери немедленно преследуются</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "te2091fd61d61cec2",
+      "english": "<span data-i18n-slot=\"0\">Promotions replace proper comparison</span>",
+      "translation": "<span data-i18n-slot=\"0\">Реклама заменяет правильное сравнение</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t64f9a737bc7e4247",
+      "english": "<span data-i18n-slot=\"0\">Use checklists and predefined decisions</span>",
+      "translation": "<span data-i18n-slot=\"0\">Используйте контрольные списки и заранее определенные решения</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tf879de45b84b3e3d",
+      "english": "<span data-i18n-slot=\"0\">No journal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Нет журнала</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "td900590c39f58648",
+      "english": "<span data-i18n-slot=\"0\">Record and review each trade</span>",
+      "translation": "<span data-i18n-slot=\"0\">Запись и обзор каждой сделки</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tc73ea82409ede3ac",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">FAQs</span><span data-i18n-slot=\"2\"> </span></span><span data-i18n-slot=\"3\">What is the biggest mistake new forex traders make?</span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">часто задаваемые вопросы</span><span data-i18n-slot=\"2\"> </span></span><span data-i18n-slot=\"3\">Какую самую большую ошибку совершают новые трейдеры форекс?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t6f201425edefb4f3",
+      "english": "<span data-i18n-slot=\"0\">Why do most new traders fail?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Почему большинство начинающих трейдеров терпят неудачу?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t48acb7271d0466c7",
+      "english": "<span data-i18n-slot=\"0\">Pending order types</span>",
+      "translation": "<span data-i18n-slot=\"0\">Типы отложенных ордеров</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t2f04592296a2010e",
+      "english": "<span data-i18n-slot=\"0\">Backtesting engine</span>",
+      "translation": "<span data-i18n-slot=\"0\">Механизм тестирования на исторических данных</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t5d96f7d680d346b6",
+      "english": "<span data-i18n-slot=\"0\">Primarily single-symbol and single-threaded</span>",
+      "translation": "<span data-i18n-slot=\"0\">Преимущественно односимволный и однопоточный</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t933977c1d272b03f",
+      "english": "<span data-i18n-slot=\"0\">Local single-thread testing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Локальное однопоточное тестирование</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "tc3733afa0f9cb534",
+      "english": "<span data-i18n-slot=\"0\">Market depth</span>",
+      "translation": "<span data-i18n-slot=\"0\">Глубина рынка</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t5e1832aa31f8a5e6",
+      "english": "<span data-i18n-slot=\"0\">Suitable for many traditional forex EAs</span>",
+      "translation": "<span data-i18n-slot=\"0\">Подходит для многих традиционных советников форекс</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t8ace8873b6e6ef17",
+      "english": "<span data-i18n-slot=\"0\">Copy the EA file</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Paste the </span><span data-i18n-slot=\"4\">.ex5</span><span data-i18n-slot=\"5\"> or </span><span data-i18n-slot=\"6\">.mq5</span><span data-i18n-slot=\"7\"> file into the Experts folder. You may use subfolders to organise EAs.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Скопируйте файл советника</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Вставьте файл </span><span data-i18n-slot=\"4\">.ex5</span><span data-i18n-slot=\"5\"> или </span><span data-i18n-slot=\"6\">.mq5</span><span data-i18n-slot=\"7\"> в папку Experts. Для упорядочивания советников можно использовать подпапки.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t1e3bec33025f2cbd",
+      "english": "<span data-i18n-slot=\"0\">Review:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Обзор:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "tac3ffbe593fabd3d",
+      "english": "<span data-i18n-slot=\"0\">News or volatility filters</span>",
+      "translation": "<span data-i18n-slot=\"0\">Фильтры новостей или волатильности</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t017fe18524225ca9",
+      "english": "<span data-i18n-slot=\"0\">Next,</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">open a demo account</span></span><span data-i18n-slot=\"4\"> and observe the EA under live price movement. Demo execution may still differ from live conditions.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Затем </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">откройте демо-счёт</span></span><span data-i18n-slot=\"4\"> и наблюдайте за работой советника при текущем движении цен. Исполнение на демо-счёте всё же может отличаться от реальных условий.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t5369f24d423324c9",
+      "english": "<span data-i18n-slot=\"0\">EA-Assisted Workflow</span>",
+      "translation": "<span data-i18n-slot=\"0\">Рабочий процесс с помощью советника</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "ta2c15155970f8bd3",
+      "english": "<span data-i18n-slot=\"0\">Trader applies SL and TP by hand</span>",
+      "translation": "<span data-i18n-slot=\"0\">Трейдер применяет SL и TP вручную</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "ta303a645980da60d",
+      "english": "<span data-i18n-slot=\"0\">Trader decides when rules apply</span>",
+      "translation": "<span data-i18n-slot=\"0\">Трейдер решает, когда применяются правила</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t854d9862db499f22",
+      "english": "<span data-i18n-slot=\"0\">Available instruments</span>",
+      "translation": "<span data-i18n-slot=\"0\">Доступные инструменты</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "tf1351257c33638ff",
+      "english": "<span data-i18n-slot=\"0\">Stop-out and margin requirements</span>",
+      "translation": "<span data-i18n-slot=\"0\">Стоп-аут и маржинальные требования</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t77db7d8eefe19c1c",
+      "english": "<span data-i18n-slot=\"0\">What Is a Candlestick Pattern?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое свечной узор?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t271be859e2fa53d3",
+      "english": "<span data-i18n-slot=\"0\">Close:</span><span data-i18n-slot=\"1\"> The ending price</span>",
+      "translation": "<span data-i18n-slot=\"0\">Закрытие:</span><span data-i18n-slot=\"1\"> конечная цена</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tbdd80312c41f3da0",
+      "english": "<span data-i18n-slot=\"0\">Is the pattern near support or resistance?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Близка ли модель к поддержке или сопротивлению?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t64078e188b001a24",
+      "english": "<span data-i18n-slot=\"0\">A candle should not be analysed alone. The same shape may mean something different depending on the prior trend and its position on the chart.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Свечу нельзя анализировать в одиночку. Одна и та же форма может означать что-то другое в зависимости от предшествующего тренда и его положения на графике.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t06dcfba470867da8",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">doji</span><span data-i18n-slot=\"2\"> forms when the opening and closing prices are equal or very close, creating a tiny body with possible upper and lower wicks. It represents indecision because neither buyers nor sellers maintained control by the close.</span>",
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">Доджи</span><span data-i18n-slot=\"2\"> образуется, когда цены открытия и закрытия равны или очень близки: тело получается маленьким, а сверху и снизу могут быть тени. Это отражает неопределённость, поскольку к закрытию ни покупатели, ни продавцы не удержали контроль.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t70dfeb75075cf15b",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">hammer</span><span data-i18n-slot=\"2\"> has a small body near the top of its range, a long lower wick, and little or no upper wick. It is usually watched after a decline.</span>",
+      "translation": "<span data-i18n-slot=\"0\">У </span><span data-i18n-slot=\"1\">молота</span><span data-i18n-slot=\"2\"> маленькое тело около верхней части диапазона, длинная нижняя тень и короткая или отсутствующая верхняя тень. Обычно за ним наблюдают после снижения.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "taf9515029614cf58",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">shooting star</span><span data-i18n-slot=\"2\"> has a small body near the bottom of its range, a long upper wick, and little or no lower wick. Traders commonly watch for it after an upward move.</span>",
+      "translation": "<span data-i18n-slot=\"0\">У </span><span data-i18n-slot=\"1\">падающей звезды</span><span data-i18n-slot=\"2\"> маленькое тело около нижней части диапазона, длинная верхняя тень и короткая или отсутствующая нижняя тень. Трейдеры обычно ищут эту модель после движения вверх.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t0c5b1e7acf85309c",
+      "english": "<span data-i18n-slot=\"0\">Spinning Top</span>",
+      "translation": "<span data-i18n-slot=\"0\">Волчок</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tb23bc05808325944",
+      "english": "<span data-i18n-slot=\"0\">Bullish Candlestick Patterns</span>",
+      "translation": "<span data-i18n-slot=\"0\">Бычьи модели свечей</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tf2e9c1755100c847",
+      "english": "<span data-i18n-slot=\"0\">Bearish Candlestick Patterns</span>",
+      "translation": "<span data-i18n-slot=\"0\">Медвежьи модели свечей</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t8b2276840744a08e",
+      "english": "<span data-i18n-slot=\"0\">Bearish candlestick patterns may show increasing selling pressure or a weakening uptrend.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Медвежьи свечные модели могут указывать на усиление давления продавцов или ослабление восходящего тренда.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tdfe0354e962999e8",
+      "english": "<span data-i18n-slot=\"0\">Bearish Engulfing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Медвежий энгульф</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tf1ccdf6871d49f44",
+      "english": "<span data-i18n-slot=\"0\">It indicates that sellers recovered a meaningful part of the earlier rise. It should form after an upward move, with confirmation from further bearish price action or a support break.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Это указывает, что продавцы отыграли значительную часть предыдущего роста. Модель должна появиться после движения вверх и получить подтверждение дальнейшим медвежьим движением цены или пробоем поддержки.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t8f3a5d67288b36e7",
+      "english": "<span data-i18n-slot=\"0\">Reversal Candlestick Patterns: What They Signal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Разворотные свечные модели: о чём они сигнализируют</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t8be61c0d4c75e329",
+      "english": "<span data-i18n-slot=\"0\">Quick-Reference Table: Bullish vs. Bearish Patterns</span>",
+      "translation": "<span data-i18n-slot=\"0\">Краткая справочная таблица: бычьи и медвежьи модели</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t6892db8c7460f650",
+      "english": "<span data-i18n-slot=\"0\">Bullish reversal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Бычий разворот</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tff93a39d3d97406b",
+      "english": "<span data-i18n-slot=\"0\">A downtrend pauses before buyers begin taking control</span>",
+      "translation": "<span data-i18n-slot=\"0\">Пауза нисходящего тренда, прежде чем покупатели начнут брать контроль</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t46104251f3154553",
+      "english": "<span data-i18n-slot=\"0\">Bearish reversal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Медвежий разворот</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t6d91d925e0257caf",
+      "english": "<span data-i18n-slot=\"0\">Before entering, define the invalidation point, stop-loss, position size, potential reward, and any scheduled news that may change conditions. Confirmation improves decision quality but never removes uncertainty.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Перед входом определите точку недействительности, стоп-лосс, размер позиции, потенциальное вознаграждение и любые запланированные новости, которые могут изменить условия. Подтверждение улучшает качество принятия решений, но никогда не устраняет неопределенность.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t38df9d8401a3c23c",
+      "english": "<span data-i18n-slot=\"0\">Treating every wick as rejection:</span><span data-i18n-slot=\"1\"> Wicks can result from normal volatility.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Считать каждую тень признаком отторжения цены:</span><span data-i18n-slot=\"1\"> тени могут возникать из-за обычной волатильности.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t7f66a071db46ead9",
+      "english": "<span data-i18n-slot=\"0\">Assuming a guaranteed reversal:</span><span data-i18n-slot=\"1\"> Patterns only suggest a possible shift in sentiment.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Предполагая гарантированный разворот:</span><span data-i18n-slot=\"1\"> Паттерны лишь предполагают возможный сдвиг в настроении.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tee59b96904716331",
+      "english": "<span data-i18n-slot=\"0\">Skipping practice:</span><span data-i18n-slot=\"1\"> Traders should</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">practice reading patterns on a demo account before trading live</span></span><span data-i18n-slot=\"5\">, while recognising that demo results cannot reproduce every live-trading challenge.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Пропуск практики:</span><span data-i18n-slot=\"1\"> трейдерам следует </span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">тренироваться читать модели на демо-счёте до реальной торговли</span></span><span data-i18n-slot=\"5\">, понимая, что результаты демо не воспроизводят все трудности реальной торговли.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tfffe466e4d55843c",
+      "english": "<span data-i18n-slot=\"0\">What is a candlestick pattern?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое свечной узор?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t32b6f50edb9ccac2",
+      "english": "<span data-i18n-slot=\"0\">How do you read a candlestick chart?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как читать свечной график?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tb937c674c3045b26",
+      "english": "<span data-i18n-slot=\"0\">What are the most reliable candlestick patterns?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Какие свечные модели наиболее надёжны?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t164481225415e658",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between a bullish and bearish candlestick?</span>",
+      "translation": "<span data-i18n-slot=\"0\">В чём разница между бычьей и медвежьей свечой?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t94dfc1c95c1afd17",
+      "english": "<span data-i18n-slot=\"0\">Searches for the success rate of retail forex traders, success rate of retail day traders statistics, or statistics on retail day traders losing money often produce different figures because disclosures measure different products, regions, and periods. The question “can retail forex traders make money?” therefore cannot be answered with one universal percentage. Some traders do make profits, but consistent results require a tested edge, disciplined execution, and controlled risk.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Поиск доли успешных частных трейдеров форекс, статистики успешности частных внутридневных трейдеров или статистики их убытков часто даёт разные цифры, поскольку раскрываемые данные относятся к разным продуктам, регионам и периодам. Поэтому на вопрос «могут ли частные трейдеры форекс зарабатывать?» нельзя ответить одним универсальным процентом. Некоторые трейдеры действительно получают прибыль, но стабильные результаты требуют проверенного преимущества, дисциплинированного исполнения и контролируемого риска.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t916a6ce7ad0cf123",
+      "english": "<span data-i18n-slot=\"0\">Institutional Traders</span>",
+      "translation": "<span data-i18n-slot=\"0\">институциональные трейдеры</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t01fad1d850cd6608",
+      "english": "<span data-i18n-slot=\"0\">Formal limits, reporting, and risk teams</span>",
+      "translation": "<span data-i18n-slot=\"0\">Формальные ограничения, отчетность и группы риска</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t52aef77089f2ffbe",
+      "english": "<span data-i18n-slot=\"0\">Frequently overused for faster returns</span>",
+      "translation": "<span data-i18n-slot=\"0\">Часто используется чрезмерно ради более быстрой доходности</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t5b16a90dfd738bdf",
+      "english": "<span data-i18n-slot=\"0\">Decisions may be reviewed by teams and systems</span>",
+      "translation": "<span data-i18n-slot=\"0\">Решения могут пересматриваться группами и системами.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t368cbdccfe39162a",
+      "english": "<span data-i18n-slot=\"0\">A larger share experience net losses</span>",
+      "translation": "<span data-i18n-slot=\"0\">Большая доля трейдеров несёт чистые убытки</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t9d94a4f348ea752b",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging and Margin Risk</span>",
+      "translation": "<span data-i18n-slot=\"0\">Чрезмерное кредитное плечо и маржинальный риск</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "tbb37a507928cde1f",
+      "english": "<span data-i18n-slot=\"0\">The maximum leverage for CFDs available to retail traders in the UAE can vary by provider, instrument, account classification, and applicable regulations. UpForex lists leverage of </span><span data-i18n-slot=\"1\">up to 1:300</span><span data-i18n-slot=\"2\">, subject to possible adjustments based on market and liquidity conditions. Its account page also lists a </span><span data-i18n-slot=\"3\">50% margin-call level</span><span data-i18n-slot=\"4\"> and a </span><span data-i18n-slot=\"5\">30% stop-out level</span><span data-i18n-slot=\"6\">. </span>",
+      "translation": "<span data-i18n-slot=\"0\">Максимальное кредитное плечо по CFD для частных трейдеров в ОАЭ может различаться в зависимости от поставщика, инструмента, классификации счёта и применимых норм. UpForex указывает плечо </span><span data-i18n-slot=\"1\">до 1:300</span><span data-i18n-slot=\"2\"> с возможными корректировками в зависимости от рыночных условий и ликвидности. На странице счетов также указаны </span><span data-i18n-slot=\"3\">уровень маржин-колла 50%</span><span data-i18n-slot=\"4\"> и </span><span data-i18n-slot=\"5\">уровень стоп-аута 30%</span><span data-i18n-slot=\"6\">. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "tc2cb0f203af22a9e",
+      "english": "<span data-i18n-slot=\"0\">No Defined Risk Management Plan</span>",
+      "translation": "<span data-i18n-slot=\"0\">Нет четкого плана управления рисками</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t95005e5fafec4e01",
+      "english": "<span data-i18n-slot=\"0\">A Simple Example: How Leverage Risk Plays Out</span>",
+      "translation": "<span data-i18n-slot=\"0\">Простой пример: как проявляется риск кредитного плеча</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t881788ac2cb903fc",
+      "english": "<span data-i18n-slot=\"0\">Using UpForex’s published account levels, a 50% margin-call level on $166.67 of used margin would be reached when account equity falls to approximately </span><span data-i18n-slot=\"1\">$83.33</span><span data-i18n-slot=\"2\">. A 30% stop-out level would be reached when equity falls to approximately </span><span data-i18n-slot=\"3\">$50</span><span data-i18n-slot=\"4\">, assuming one open position, unchanged margin requirements, and no additional costs.</span>",
+      "translation": "<span data-i18n-slot=\"0\">При использовании опубликованных UpForex уровней счёта маржин-колл 50% при использованной марже $166.67 наступил бы при снижении средств счёта примерно до </span><span data-i18n-slot=\"1\">$83.33</span><span data-i18n-slot=\"2\">. Уровень стоп-аута 30% был бы достигнут при снижении средств примерно до </span><span data-i18n-slot=\"3\">$50</span><span data-i18n-slot=\"4\"> при условии одной открытой позиции, неизменных маржинальных требований и отсутствия дополнительных издержек.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t678daf42fed23c1a",
+      "english": "<span data-i18n-slot=\"0\">In practice, the position could therefore be liquidated before the adverse movement reaches the full 2%.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Таким образом, на практике позиция может быть ликвидирована до того, как отрицательное движение достигнет полного 2%.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t38aa6cda6b55d4bc",
+      "english": "<span data-i18n-slot=\"0\">Start With a Demo Account</span>",
+      "translation": "<span data-i18n-slot=\"0\">Начните с демо-счета</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "td71e22a900771865",
+      "english": "<span data-i18n-slot=\"0\">Keep a Trading Journal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Держите торговый журнал</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "t6aaf2ccb10824fbd",
+      "english": "<span data-i18n-slot=\"0\">Record the setup, entry, stop, target, risk, result, and emotional state. Review groups of trades instead of one result.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Запишите настройку, вход, остановку, цель, риск, результат и эмоциональное состояние. Обзор групп сделок вместо одного результата.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "taa01a82b542a0baf",
+      "english": "<span data-i18n-slot=\"0\">Why do most retail traders lose money?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Почему большинство трейдеров теряют деньги?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "tbaf8ebbe329b3db8",
+      "english": "<span data-i18n-slot=\"0\">Go Short?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Шорт?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "t29b477cc0f202d4c",
+      "english": "<span data-i18n-slot=\"0\">24/5 on MT5</span>",
+      "translation": "<span data-i18n-slot=\"0\">24/5 на MT5</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tc01a767695da2d3c",
+      "english": "<span data-i18n-slot=\"0\">How Gold CFD Trading Works: Step by Step</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как работает торговля CFD на золото: пошаговое руководство</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tc505aaa8aa580b08",
+      "english": "<span data-i18n-slot=\"0\">In gold CFD trading, one standard lot typically represents 100 troy ounces of gold. With gold trading above $4,700 per ounce in mid-2026, one lot carries significant notional value, which is where leverage comes in. Most retail traders use mini lots (10 oz) or micro lots (1 oz) to keep position sizes manageable.</span>",
+      "translation": "<span data-i18n-slot=\"0\">При торговле CFD на золото один стандартный лот обычно соответствует 100 тройским унциям золота. При цене золота выше $4,700 за унцию в середине 2026 года один лот имеет значительную номинальную стоимость, поэтому применяется кредитное плечо. Большинство частных трейдеров используют мини-лоты (10 oz) или микролоты (1 oz), чтобы сохранять управляемый размер позиций.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "td088049cc05d8d76",
+      "english": "<span data-i18n-slot=\"0\">Is Gold CFD Trading Legal in the UAE?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Законна ли торговля CFD на золото в ОАЭ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t32b539e90d1ec233",
+      "english": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">Check that client funds are held in segregated accounts</span>",
+      "translation": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">Убедитесь, что средства клиентов хранятся на отдельных счетах</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t3a05a79f9bd67acd",
+      "english": "<span data-i18n-slot=\"0\">Use Leverage to Manage Your Exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Используйте рычаги для управления вашим воздействием</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t42c4916476d6b002",
+      "english": "<span data-i18n-slot=\"0\">Geopolitical Events and Safe-Haven Demand</span>",
+      "translation": "<span data-i18n-slot=\"0\">Геополитические события и спрос на безопасные убежища</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t23973390c618b41a",
+      "english": "<span data-i18n-slot=\"0\">Gold CFD Trading Risks and How to Manage Them</span>",
+      "translation": "<span data-i18n-slot=\"0\">Риски торговли CFD на золото и управление ими</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t604c69b842acdeec",
+      "english": "<span data-i18n-slot=\"0\">Leverage amplifies both your profits and your losses. A 1% adverse move on a 100:1 leveraged gold position wipes out your entire margin. This is why position sizing and stop losses are not optional; they are the foundation of responsible CFD trading. Never risk more on a single trade than you can afford to lose.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Кредитное плечо увеличивает и прибыль, и убытки. Неблагоприятное движение на 1% по позиции на золото с плечом 100:1 уничтожает всю маржу. Поэтому расчёт размера позиции и стоп-лоссы не являются необязательными: это основа ответственной торговли CFD. Никогда не рискуйте в одной сделке суммой, которую не можете позволить себе потерять.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t2b571e0ffc796095",
+      "english": "<span data-i18n-slot=\"0\">Want to practice gold CFD trading before going live? </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Open a free UpForex demo account and trade XAU/USD with real market conditions and zero financial risk.</span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Хотите потренироваться торговать CFD на золото до перехода к реальной торговле? </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Откройте бесплатный демо-счёт UpForex и торгуйте XAU/USD в реальных рыночных условиях без финансового риска.</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t26ec9b133f83edef",
+      "english": "<span data-i18n-slot=\"0\">Gold CFD Trading Strategies for UAE Traders</span>",
+      "translation": "<span data-i18n-slot=\"0\">Стратегии торговли CFD на золото для трейдеров ОАЭ</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tc054b63b7f216405",
+      "english": "<span data-i18n-slot=\"0\">In periods of consolidation, like gold’s sideways movement in the $4,800–$5,200 zone during Q1 2026, range trading can be effective. You identify key support levels where price has bounced historically and key resistance levels where it has stalled, then trade between them. Range trades tend to have tighter profit targets and require discipline to exit if the range breaks.</span>",
+      "translation": "<span data-i18n-slot=\"0\">В периоды консолидации, например при боковом движении золота в зоне $4,800–$5,200 в Q1 2026 года, торговля в диапазоне может быть эффективной. Определите важные уровни поддержки, от которых цена ранее отскакивала, и сопротивления, у которых она останавливалась, и торгуйте между ними. Такие сделки обычно имеют более близкие цели прибыли и требуют дисциплины для выхода при пробое диапазона.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t1196fd9efac029b6",
+      "english": "<span data-i18n-slot=\"0\">How to Trade Gold CFDs on UpForex - Step by Step</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как торговать CFD на золото на UpForex — пошаговое руководство</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t69e98a5342d61517",
+      "english": "<span data-i18n-slot=\"0\">Step 5: Place Your First Gold CFD Trade</span>",
+      "translation": "<span data-i18n-slot=\"0\">Шаг 5: Откройте свою первую сделку CFD на золото</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t5c087a9ace8cc722",
+      "english": "<span data-i18n-slot=\"0\">Right-click XAU/USD in the market watch and select ‘New Order.' Choose your lot size, select buy (long) or sell (short), and set your stop-loss and take-profit levels before confirming. Your position will appear in the trade terminal at the bottom of the MT5 screen.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Щёлкните правой кнопкой мыши по XAU/USD в окне обзора рынка и выберите «Новый ордер». Укажите размер лота, выберите покупку (длинную позицию) или продажу (короткую позицию) и задайте уровни стоп-лосса и тейк-профита до подтверждения. Позиция появится в торговом терминале внизу экрана MT5.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t5117a7669bd4003e",
+      "english": "<span data-i18n-slot=\"0\">Islamic Swap-Free Accounts for UAE Traders</span>",
+      "translation": "<span data-i18n-slot=\"0\">Исламские счета без свопа для трейдеров ОАЭ</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "ta8067007014371ef",
+      "english": "<span data-i18n-slot=\"0\">Dedicated Support for UAE and Gulf Region Traders</span>",
+      "translation": "<span data-i18n-slot=\"0\">Полная поддержка трейдеров из ОАЭ и стран Персидского залива</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "te5f7985271eebdda",
+      "english": "<span data-i18n-slot=\"0\">Gold CFD Trading for Beginners in the UAE: 5 Things to Know First</span>",
+      "translation": "<span data-i18n-slot=\"0\">Золото CFD для начинающих в ОАЭ: 5 вещей, которые нужно знать в первую очередь</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t0da69c96298092aa",
+      "english": "<span data-i18n-slot=\"0\">2. Understand Leverage Before You Use It</span>",
+      "translation": "<span data-i18n-slot=\"0\">2.Понимать рычаги перед их использованием</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tee79717802c54c74",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">OTC Trading in the UAE: Legal Guide for Dubai Traders</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Внебиржевая торговля в ОАЭ: правовое руководство для трейдеров Дубая</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "td25a4e24d4e07074",
+      "english": "<span data-i18n-slot=\"0\">Major institutions have significantly upgraded their 2026 price targets. J.P. Morgan forecasts gold to average $6,000 per ounce by Q4 2026, while Goldman Sachs and Deutsche Bank both cite a $5,400–$6,000 range. For UAE investors, that structural demand story makes a compelling case for getting exposure to gold now.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Крупные организации существенно повысили целевые цены на 2026 год. J.P. Morgan прогнозирует среднюю цену золота $6,000 за унцию к Q4 2026 года, а Goldman Sachs и Deutsche Bank называют диапазон $5,400–$6,000. Для инвесторов ОАЭ эта структурная динамика спроса служит убедительным доводом в пользу инвестирования в золото уже сейчас.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tc99d92730aafcf25",
+      "english": "Medium–High",
+      "translation": "Средне-высокий",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "t09be5f969dc79c78",
+      "english": "Medium",
+      "translation": "средний",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "t03ae517d2f4b2edf",
+      "english": "Low–Medium",
+      "translation": "Низкий средний",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "t6ad38dba103e794e",
+      "english": "Passive, cost-efficient exposure",
+      "translation": "Пассивное, экономически эффективное воздействие",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tc1114d5264975bfe",
+      "english": "Instant",
+      "translation": "мгновенный",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "teb1d893a0c34654a",
+      "english": "<span data-i18n-slot=\"0\">For investment purposes, focus on DMCC- or LBMA-recognized bullion rather than jewelry. Large bars (1 oz and above) trade at just 1–2% above spot price, making them the most cost-efficient entry. Smaller bars and coins carry higher premiums of 4–6%, but they offer more flexibility when it comes to selling in portions. Always retain original packaging and certificates; this protects your resale value.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Для инвестиций сосредоточьтесь на слитках, признанных DMCC или LBMA, а не на ювелирных изделиях. Крупные слитки (1 oz и более) торгуются всего на 1–2% выше спотовой цены и дают наиболее экономичный вход. Небольшие слитки и монеты имеют более высокие наценки 4–6%, зато позволяют гибче продавать частями. Всегда сохраняйте оригинальную упаковку и сертификаты: это защищает стоимость перепродажи.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tc3748b17981d3ce9",
+      "english": "<span data-i18n-slot=\"0\">As of mid-2026, 24K gold in Dubai is trading in the AED 560–620 per gram range depending on global spot prices. Investment-grade gold is zero-rated for VAT, but jewelry and making charges attract standard VAT. There is no capital gains tax for individual investors in the UAE.</span>",
+      "translation": "<span data-i18n-slot=\"0\">По состоянию на середину 2026 года золото 24K в Дубае торгуется в диапазоне AED 560–620 за грамм в зависимости от мировых спотовых цен. Инвестиционное золото облагается НДС по нулевой ставке, но ювелирные изделия и плата за изготовление облагаются стандартным НДС. Для частных инвесторов в ОАЭ нет налога на прирост капитала.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "t7f851866d4e658fc",
+      "english": "<span data-i18n-slot=\"0\">Gold ETF Costs and Considerations</span>",
+      "translation": "<span data-i18n-slot=\"0\">Стоимость ETF и соображения</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tb7c5dfaef01d99a0",
+      "english": "<span data-i18n-slot=\"0\">ETFs charge an annual expense ratio (typically 0.15–0.40% for major gold ETFs), which is deducted from the fund’s returns. There are no storage costs since you do not hold physical gold. ETFs are highly liquid and can be bought and sold during market hours, making them a practical option for investors who want clean gold exposure without the premium of buying physical.</span>",
+      "translation": "<span data-i18n-slot=\"0\">ETF взимают ежегодную комиссию за управление (обычно 0.15–0.40% для крупных золотых ETF), которая вычитается из доходности фонда. Расходов на хранение нет, поскольку вы не держите физическое золото. ETF высоколиквидны, их можно покупать и продавать в часы работы рынка, поэтому они подходят инвесторам, желающим получить прямую экспозицию к золоту без наценки за покупку физического металла.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tff24fb5e555b462e",
+      "english": "<span data-i18n-slot=\"0\">Who Should Consider Gold Mutual Funds?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Кому нужны золотые взаимные фонды?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "t836cbbb4da54dbf2",
+      "english": "<span data-i18n-slot=\"0\">Gold mutual funds suit investors with a longer time horizon (3–5+ years) who want diversified exposure to the gold sector without managing positions themselves. If you are an active trader or want to react quickly to market movements, CFDs or ETFs give you far more flexibility.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Золотые паевые фонды подходят инвесторам с длительным горизонтом (3–5+ лет), которым нужна диверсифицированная экспозиция к золотому сектору без самостоятельного управления позициями. Активным трейдерам и тем, кто хочет быстро реагировать на рыночные движения, CFD или ETF дают гораздо больше гибкости.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tef35dcaad89d44fa",
+      "english": "<span data-i18n-slot=\"0\">Yes, amplified exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Да, усиленное воздействие</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "t0150589cb56e5194",
+      "english": "<span data-i18n-slot=\"0\">Long-term savers</span>",
+      "translation": "<span data-i18n-slot=\"0\">Долгосрочные вкладчики</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tab9908c868a75462",
+      "english": "<span data-i18n-slot=\"0\">Are you trying to preserve wealth over a 5–10 year horizon, hedge your existing portfolio, or actively trade price swings? Your goal determines which method makes sense. Long-term preservation points toward physical gold or tokenized platforms. Active trading points toward CFDs. Passive diversification points toward ETFs or mutual funds.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Хотите сохранить состояние на горизонте 5–10 лет, хеджировать существующий портфель или активно торговать ценовыми колебаниями? От цели зависит выбор метода. Для долгосрочного сохранения подходят физическое золото или токенизированные платформы, для активной торговли — CFD, для пассивной диверсификации — ETF или паевые фонды.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tb38f0a2326aacf73",
+      "english": "<span data-i18n-slot=\"0\">Rule 4: Practise on a Demo Account Before Going Live</span>",
+      "translation": "<span data-i18n-slot=\"0\">Правило 4: Практикуйтесь на демо-счёте до перехода к реальной торговле</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tdb5799b93a472e05",
+      "english": "<span data-i18n-slot=\"0\">Gold works best as a portfolio stabilizer, not your entire portfolio. Most professional portfolio managers allocate 5–15% of a portfolio to gold. Alongside gold, you might consider</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">index CFDs</span></span><span data-i18n-slot=\"4\">,</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">energy CFDs</span></span><span data-i18n-slot=\"8\">, or</span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">forex trading</span></span><span data-i18n-slot=\"12\"> to build a balanced, multi-asset approach.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Золото лучше использовать как стабилизатор портфеля, а не как весь портфель. Большинство профессиональных управляющих выделяют на золото 5–15% портфеля. Наряду с золотом можно рассмотреть </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">CFD на индексы</span></span><span data-i18n-slot=\"4\">, </span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">CFD на энергоносители</span></span><span data-i18n-slot=\"8\"> или </span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">торговлю на форекс</span></span><span data-i18n-slot=\"12\"> для сбалансированного подхода с несколькими классами активов.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "t43f928efd0f9e14b",
+      "english": "<span data-i18n-slot=\"0\">Is investing in gold halal in the UAE?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Являются ли инвестиции в золото халяльными в ОАЭ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "t50fce58ab2ce4922",
+      "english": "<span data-i18n-slot=\"0\">If you are ready to explore gold CFD trading, UpForex is a good place to start. It is SCA-regulated, runs on MT5, and you can try it out on a free demo account before putting any real money in. No pressure, just a straightforward way to get familiar with the gold market on your own terms.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Если вы готовы изучать торговлю CFD на золото, UpForex — подходящее место для начала. Компания регулируется SCA, работает на MT5 и позволяет попробовать торговлю на бесплатном демо-счёте до внесения реальных денег. Без давления: это простой способ познакомиться с рынком золота на собственных условиях.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "t94272538ff44552a",
+      "english": "<span data-i18n-slot=\"0\">If you are exploring OTC trading in the UAE, you are probably looking for a flexible way to access global markets without using a traditional exchange. OTC, or over-the-counter trading, means you buy and sell financial instruments directly through a broker or dealer rather than on a centralized exchange. That structure can give you broader access, more flexible trade sizes, and a wider range of products than exchange-only trading.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Если вы изучаете внебиржевую торговлю в ОАЭ, вероятно, вам нужен гибкий доступ к мировым рынкам без традиционной биржи. OTC, или внебиржевая торговля, означает покупку и продажу финансовых инструментов напрямую через брокера или дилера, а не на централизованной бирже. Такая структура может обеспечить более широкий доступ, более гибкие размеры сделок и большее разнообразие продуктов, чем исключительно биржевая торговля.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t25ca11897e756767",
+      "english": "<span data-i18n-slot=\"0\">For traders in Dubai and across the UAE, OTC trading can be a useful way to access forex, commodities, indices, and other financial instruments through a regulated provider. The most important part is making sure you trade with a licensed firm that operates under the correct regulatory framework.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Для трейдеров в Дубае и ОАЭ внебиржевая торговля может быть полезным способом доступа к форексу, товарам, индексам и другим финансовым инструментам через регулируемого поставщика. Самое главное — убедиться, что вы торгуете с лицензированной фирмой, которая работает в соответствии с правильной нормативной базой.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tc95ef812d98022d8",
+      "english": "<span data-i18n-slot=\"0\">What OTC Trading Means</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое внебиржевая торговля</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tb3fb8f8227f1a8fa",
+      "english": "<span data-i18n-slot=\"0\">When you trade OTC, you are not matching your order on a public exchange order book. Instead, the transaction happens directly between you and a broker, dealer, or liquidity provider. This makes OTC trading different from exchange trading, where orders are centralized and matched through a formal exchange environment.</span>",
+      "translation": "<span data-i18n-slot=\"0\">При внебиржевой торговле ваш ордер не сопоставляется с заявками в публичной биржевой книге ордеров. Вместо этого сделка проходит напрямую между вами и брокером, дилером или поставщиком ликвидности. В этом отличие от биржевой торговли, где ордера централизованы и сопоставляются в формальной биржевой среде.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tb3df0d2584ddec55",
+      "english": "<span data-i18n-slot=\"0\">OTC markets are common in forex, CFDs, commodities, and certain institutional products. Because of this, OTC trading often appeals to traders who want more flexibility, extended trading hours, and access to instruments that may not be listed on UAE exchanges.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Внебиржевые рынки распространены в торговле валютами, CFD, сырьевыми товарами и некоторыми институциональными продуктами. Поэтому такая торговля часто привлекает трейдеров, которым нужны большая гибкость, расширенные часы торговли и доступ к инструментам, которые могут не быть представлены на биржах ОАЭ.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t09485d37c5502105",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">OTC trading</span></span><span data-i18n-slot=\"2\"> is a market structure, not just one product. Depending on the provider, it can include a broad range of tradable assets and execution models.</span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">внебиржевая торговля</span></span><span data-i18n-slot=\"2\"> Это рыночная структура, а не один продукт. В зависимости от поставщика, он может включать в себя широкий спектр торгуемых активов и моделей исполнения.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t235637f0a4f5bc9c",
+      "english": "<span data-i18n-slot=\"0\">If you are based in the UAE, OTC trading can offer several advantages. You may be able to trade global markets from a single account, react to market movements outside local exchange hours, and access products that are not available on the Dubai Financial Market or Abu Dhabi Securities Exchange.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Для жителей ОАЭ внебиржевая торговля может иметь несколько преимуществ: доступ к мировым рынкам с одного счёта, возможность реагировать на движения за пределами часов работы местных бирж и доступ к продуктам, недоступным на Dubai Financial Market или Abu Dhabi Securities Exchange.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t570699debdc32506",
+      "english": "<span data-i18n-slot=\"0\">OTC Trading</span>",
+      "translation": "<span data-i18n-slot=\"0\">внебиржевая торговля</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tdee0b4f98d955145",
+      "english": "<span data-i18n-slot=\"0\">Exchange Trading</span>",
+      "translation": "<span data-i18n-slot=\"0\">Биржевая торговля</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tc8d078bce1cf02f0",
+      "english": "<span data-i18n-slot=\"0\">Venue</span>",
+      "translation": "<span data-i18n-slot=\"0\">место</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "te053414bd637801f",
+      "english": "<span data-i18n-slot=\"0\">Listed stocks, futures, ETFs</span>",
+      "translation": "<span data-i18n-slot=\"0\">Акции, фьючерсы, ETF</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t4ec9b22ddc2eec43",
+      "english": "<span data-i18n-slot=\"0\">Exchange and regulator oversight</span>",
+      "translation": "<span data-i18n-slot=\"0\">Надзор биржи и регулирующих органов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "teb82f8fb916fd7af",
+      "english": "<span data-i18n-slot=\"0\">Is OTC Trading Legal in the UAE?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Законна ли внебиржевая торговля в ОАЭ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t4d348e25e6f73437",
+      "english": "<span data-i18n-slot=\"0\">OTC trading can include several asset classes. The exact products depend on the broker’s licence, platform, and business model.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Внебиржевая торговля может включать в себя несколько классов активов. Точные продукты зависят от лицензии, платформы и бизнес-модели брокера.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t62957fa8bc0efaaa",
+      "english": "<span data-i18n-slot=\"0\">Crypto-Linked Products</span>",
+      "translation": "<span data-i18n-slot=\"0\">Крипто-связанные продукты</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t709f3bcefe729f38",
+      "english": "<span data-i18n-slot=\"0\">Bonds, Sukuk, and Structured Products</span>",
+      "translation": "<span data-i18n-slot=\"0\">Облигации, сукук и структурированные продукты</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tfc298c156187e7d1",
+      "english": "<span data-i18n-slot=\"0\">OTC markets are also used for more advanced products such as bonds, sukuk, and structured instruments. These are more common among institutional traders or experienced investors.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Внебиржевые рынки также используются для более сложных продуктов, таких как облигации, сукук и структурированные инструменты. Они чаще встречаются у институциональных трейдеров и опытных инвесторов.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t23849cf64cf4cf38",
+      "english": "<span data-i18n-slot=\"0\">How OTC Trading Works in Dubai</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как работает внебиржевая торговля в Дубае</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tb84f6723998de45d",
+      "english": "<span data-i18n-slot=\"0\">OTC trading in Dubai often appeals to traders because it combines access, flexibility, and international market exposure. If you want a trading account that can serve multiple markets from one place, OTC platforms can be especially useful.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Внебиржевая торговля в Дубае часто привлекает трейдеров, потому что она сочетает в себе доступ, гибкость и влияние на международный рынок. Если вам нужен торговый счет, который может обслуживать несколько рынков из одного места, внебиржевые платформы могут быть особенно полезны.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t4ca72d9e5e79296c",
+      "english": "<span data-i18n-slot=\"0\">Pricing and Execution</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ценообразование и исполнение</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t373ed7efa7828bdd",
+      "english": "<span data-i18n-slot=\"0\">OTC Trading for Different Types of Traders</span>",
+      "translation": "<span data-i18n-slot=\"0\">внебиржевая торговля для разных типов трейдеров</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t2d88ec462484346e",
+      "english": "<span data-i18n-slot=\"0\">OTC trading can suit different trader profiles depending on your goals.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Внебиржевая торговля может подходить разным типам трейдеров в зависимости от ваших целей.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "ta3d2a2d93d55bbb7",
+      "english": "<span data-i18n-slot=\"0\">If you are a beginner, OTC products can introduce you to forex or CFD trading in a relatively accessible way. A demo account, educational content, and smaller trade sizes can help you learn without taking unnecessary risk.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Для новичка внебиржевые продукты могут стать сравнительно доступным знакомством с торговлей на форекс или CFD. Демо-счёт, учебные материалы и небольшие размеры сделок помогают учиться без излишнего риска.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t1baf6808533c0cf0",
+      "english": "<span data-i18n-slot=\"0\">If You Are an Active Trader</span>",
+      "translation": "<span data-i18n-slot=\"0\">Если вы активный трейдер</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tf4bb5992502115fa",
+      "english": "<span data-i18n-slot=\"0\">If You Are Hedging Exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Если вы хеджируете экспозицию</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t7e29023bf39f290f",
+      "english": "<span data-i18n-slot=\"0\">If you are using financial markets to hedge currency, commodity, or portfolio risk, OTC instruments can give you more flexibility than many exchange-listed products. That is especially useful if you need targeted exposure rather than broad market ownership.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Если вы используете финансовые рынки для хеджирования валютных, товарных или портфельных рисков, внебиржевые инструменты могут дать вам больше гибкости, чем многие биржевые продукты. Это особенно полезно, если вам нужно целевое воздействие, а не широкое владение рынком.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t02c9cd80624e162e",
+      "english": "<span data-i18n-slot=\"0\">OTC trading has several clear benefits for UAE investors and traders.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Внебиржевая торговля имеет несколько очевидных преимуществ для инвесторов и трейдеров ОАЭ.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t100bc3f8ba1adf1e",
+      "english": "<span data-i18n-slot=\"0\">OTC trading also comes with risks, and you should be aware of them before opening a position.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Внебиржевая торговля также сопряжена с рисками, и вы должны знать о них, прежде чем открывать позицию.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "ta4790b7441ac5842",
+      "english": "<span data-i18n-slot=\"0\">How to Start OTC Trading in the UAE</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как начать внебиржевую торговлю в ОАЭ</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "tde5bc63d9e7d92f7",
+      "english": "<span data-i18n-slot=\"0\">Step 2: Complete Verification</span>",
+      "translation": "<span data-i18n-slot=\"0\">Шаг 2: полная проверка</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t5d21ea9b17036baf",
+      "english": "<span data-i18n-slot=\"0\">Step 3: Fund Your Account</span>",
+      "translation": "<span data-i18n-slot=\"0\">Шаг 3: Пополните свой счёт</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t25c78090bf95f534",
+      "english": "<span data-i18n-slot=\"0\">Select the OTC instruments that match your trading goals. You may trade forex, indices, commodities, or other products depending on the platform.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Выберите внебиржевые инструменты, которые соответствуют вашим торговым целям. Вы можете торговать на форексе, индексах, товарах или других продуктах в зависимости от платформы.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t276039efd0992fe3",
+      "english": "<span data-i18n-slot=\"0\">Look, OTC trading is a smart, flexible way for us in Dubai and the UAE to dive into forex, indices, commodities, and stock CFDs without the hassle of strict exchange rules or limited hours. The big thing? Stick with a licensed setup from SCA, DFSA, or FSRA, and you're good to go—totally legal.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Внебиржевая торговля — разумный и гибкий способ для жителей Дубая и ОАЭ выйти на форекс, индексы, сырьевые товары и CFD на акции без сложностей строгих биржевых правил и ограниченных часов работы. Главное — пользоваться компанией с лицензией SCA, DFSA или FSRA, и можно приступать: это полностью законно.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t84597af4fefb9378",
+      "english": "<span data-i18n-slot=\"0\">FAQs </span>",
+      "translation": "<span data-i18n-slot=\"0\">часто задаваемые вопросы </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t88409966e1778926",
+      "english": "<span data-i18n-slot=\"0\">What is OTC trading in the UAE?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое внебиржевая торговля в ОАЭ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t38f4f58cfd31e2dc",
+      "english": "<span data-i18n-slot=\"0\">Is OTC trading legal in Dubai?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Является ли внебиржевая торговля законной в Дубае?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    },
+    {
+      "key": "t5d355295a3c99ef9",
+      "english": "<span data-i18n-slot=\"0\">Is OTC trading risky?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Является ли внебиржевая торговля рискованной?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ]
+    }
+  ]
+}

@@ -1,14 +1,33 @@
 # BEGIN Upforex 410 Rules
 RewriteEngine On
 
+# The three legacy CMS permalinks migrated by SEO audit tab 1264087386.
+# Node SSR also handles encoded slash variants before Angular renders.
+RewriteRule ^((?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?blogs/how-to-calculate-forex-position-size:-formula,-lot-size-(?:&|&amp;)-risk-examples/*$ /$1blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples [R=301,L,NE]
+RewriteRule ^((?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?blogs/how-to-trade-stock-cfds-apple,-tesla-(?:&|&amp;)-nvidia/*$ /$1blogs/how-to-trade-stock-cfds-apple-tesla-nvidia [R=301,L,NE]
+
+# Match the same existing renamed routes in every supported language.
+RewriteRule ^((?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?products/index-future/*$ /$1products/index-cfds [R=301,L,NE]
+RewriteRule ^((?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?products/energy-future/*$ /$1products/energy-cfds [R=301,L,NE]
+
+# Match the Node SSR URL policy when Apache handles redirects first.
+RewriteCond %{REQUEST_URI} ^/(hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)(/|$)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+?)/+$ /$1 [R=301,L,NE]
+
 # Keep links to the misspelled addresses working.
 RewriteRule ^((?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?anti-monry-laundering/?$ /$1anti-money-laundering [R=301,L,NE]
 RewriteRule ^((?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?blogs/trump-tarrif/?$ /$1blogs/trump-tariff [R=301,L,NE]
 
+# Verified replacements for obsolete SEO-sheet URLs; canonical routes remain unchanged.
+RewriteRule ^((?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?blogs/trusted-forex-brokers-how-upforex-helps-traders/*$ /$1blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders [R=301,L,NE]
+RewriteRule ^((?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?blogs/how-to-invest-in-gold-in-uae/*$ /$1blogs/how-to-invest-in-gold-in-the-uae [R=301,L,NE]
+RewriteRule ^((?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?blogs/energy-cfd-trading-in-uae-with-upforex:-trade-global-energy-markets-smarter/*$ /$1blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter [R=301,L,NE]
+RewriteRule ^((?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?products/forex/*$ /$1products/forex-cfds [R=301,L,NE]
+RewriteRule ^((?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?products/us-stocks/*$ /$1products/stock-cfds [R=301,L,NE]
+RewriteRule ^(?:(?:hi|ar|fr|es|de|zh-cn|zh-tw|ja|pt|ru)/)?(?:demo|live)/*$ https://client.upforex.live/?tab=register [R=302,L,NE]
+
 # Set specific pages to 410 Gone
-Redirect 410 /products/us-stocks
 Redirect 410 /products/stocks-cfd
-Redirect 410 /demo
-Redirect 410 /products/index-future
 Redirect 410 /cdn-cgi/l/email-protection
 # END Upforex 410 Rules

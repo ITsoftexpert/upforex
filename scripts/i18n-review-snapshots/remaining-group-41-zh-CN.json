@@ -1,0 +1,347 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tb8ea499ff737f4f1",
+      "english": "Whether you’re a new trader with $100 or a pro handling $100K portfolios, UpForex protects your capital at every stage. That’s what makes it one of the best regulated forex platforms globally — not just in compliance, but in confidence.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "无论您是持有$100的新交易者，还是管理$100K投资组合的专业人士，UpForex都会在每个阶段保护您的资金。这使其成为全球最佳受监管外汇平台之一，不仅体现在合规方面，也体现在信心方面。"
+    },
+    {
+      "key": "td1ea2896ce9f7db0",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q: Is UpForex a regulated forex broker?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">问：UpForex 是受监管的外汇经纪商吗？</span></span>"
+    },
+    {
+      "key": "t2ee8f20f6e1390b7",
+      "english": "<span data-i18n-slot=\"0\">A:</span><span data-i18n-slot=\"1\"> Yes, UpForex is a regulated forex broker, with official licenses granted by authorities in Saint Lucia and Mauritius. Specifically, UpForex Ltd is incorporated in Saint Lucia under registration number 2024‑00700, and its affiliated company in Mauritius—UP Global Markets Ltd—is licensed by the Financial Services Commission (FSC) Mauritius as an Investment Dealer (License No. GB23204579).</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">答：</span><span data-i18n-slot=\"1\"> 是的，UpForex 是一家受监管的外汇经纪商，拥有圣卢西亚和毛里求斯当局授予的官方许可证。具体来说，UpForex Ltd 在圣卢西亚注册成立，注册号为 2024‑00700，其在毛里求斯的附属公司 UP Global Markets Ltd 已获得毛里求斯金融服务委员会 (FSC) 颁发的投资经销商许可（许可证号 GB23204579）。</span>"
+    },
+    {
+      "key": "t6363cc014d7155ff",
+      "english": "Blazing-fast order execution with low latency",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "极快的订单执行速度和低延迟"
+    },
+    {
+      "key": "t68edc63ab36931ac",
+      "english": "Secure <span data-i18n-slot=\"0\">fund protection</span> through segregated accounts",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "通过独立账户确保<span data-i18n-slot=\"0\">资金保护</span>"
+    },
+    {
+      "key": "t3de29b1d1ab538cd",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Fund Protection You Can Rely On</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1。值得信赖的资金保障</span></span>"
+    },
+    {
+      "key": "tbcaabf3cbd837382",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Bonus Trust Factor:</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">额外信任系数：</span></span>"
+    },
+    {
+      "key": "t3c9c7a86d288d1c2",
+      "english": "<span data-i18n-slot=\"0\">Speed is the silent killer of profits in forex. A 1-second delay during a high-volatility news release can cost you big. That’s why execution speed isn’t a luxury — it’s a core performance metric.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">速度是外汇利润的无声杀手。在高波动的新闻公布时段，1秒延迟就可能造成重大损失。因此，执行速度并非奢侈，而是核心性能指标。</span>"
+    },
+    {
+      "key": "te1fe1964f630b1ac",
+      "english": "Scalping strategies (where milliseconds matter)",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "剥头皮策略（毫秒至关重要）"
+    },
+    {
+      "key": "t044b5b24d76720ca",
+      "english": "Swing trades (where price precision affects entry accuracy)",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "波段交易（价格精度影响入场准确性）"
+    },
+    {
+      "key": "t3c87c3b1805917ef",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Instant Withdrawals — No Waiting Days</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. 即时提款——无需等待</span></span>"
+    },
+    {
+      "key": "t98a6d7fc7811310a",
+      "english": "<span data-i18n-slot=\"0\">Withdraw your funds anytime —</span> even on weekends",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">随时提取资金 - </span>即使在周末"
+    },
+    {
+      "key": "td9c7bd4f61938f55",
+      "english": "<span data-i18n-slot=\"0\">Real-Time Volume Analysis: </span>Spot market interest and liquidity shifts",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实时成交量分析：</span>识别市场兴趣和流动性的变化"
+    },
+    {
+      "key": "t61defd4b69e359db",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Market Access</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. 市场准入</span></span>"
+    },
+    {
+      "key": "tc66202eac3acd1aa",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">MT4: </span>Primarily focused on forex only.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">MT4：</span>主要专注于外汇。</span>"
+    },
+    {
+      "key": "t926de9bb12a811e3",
+      "english": "Trade multiple assets from one account",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "从一个账户交易多种资产"
+    },
+    {
+      "key": "te5767b5eadebadf2",
+      "english": "<span data-i18n-slot=\"0\">FAQs - Best Forex broker In 2025</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">常见问题解答 - 2025 年最佳外汇经纪商</span>"
+    },
+    {
+      "key": "td488fa1b3817b56b",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Who is the most trustworthy FX broker?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">谁是最值得信赖的外汇经纪商？</span></span>"
+    },
+    {
+      "key": "t4be392af298ef7a5",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Smart Charting Tools</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. 智能图表工具</span></span>"
+    },
+    {
+      "key": "t0e44e6f352f3c917",
+      "english": "Indicator libraries for RSI, MACD, Bollinger Bands, and more",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "RSI、MACD、布林带等指标库"
+    },
+    {
+      "key": "tdf8235358a403fdb",
+      "english": "Trailing Stops to ride winning trades while protecting downside",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "追踪止损可在获利交易的同时保护下行空间"
+    },
+    {
+      "key": "td1621cf165db470d",
+      "english": "Position Size Calculators to align trades with your risk appetite",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "头寸规模计算器可根据您的风险偏好调整交易"
+    },
+    {
+      "key": "t20c1bf0d196cd0b1",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Low Spreads + Fast Execution</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. 低点差+快速执行</span></span>"
+    },
+    {
+      "key": "t0677da012573be47",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. A Forex Broker with Fund Protection</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. 具有资金保护的外汇经纪商</span></span>"
+    },
+    {
+      "key": "t12387b25b9c6e279",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Forex Trading with Instant Withdrawals</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. 即时提款的外汇交易</span></span>"
+    },
+    {
+      "key": "t162f7cec08f6a416",
+      "english": "<span data-i18n-slot=\"0\">🚀 Join the most secure forex trading community today.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">🚀 立即加入最安全的外汇交易社区。</span>"
+    },
+    {
+      "key": "t28e432941e012fb0",
+      "english": "<span data-i18n-slot=\"0\">FAQs - Forex Trading </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">常见问题解答 - 外汇交易</span>"
+    },
+    {
+      "key": "t0b7f8eb6812ce8d4",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q: What is instant withdrawal?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">问：什么是即时提款？</span></span>"
+    },
+    {
+      "key": "t38eaa6dc12e01810",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q: Can I withdraw funds instantly after a trade?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">问：交易后我可以立即提取资金吗？</span></span>"
+    },
+    {
+      "key": "tcaed077862fe5682",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q: Which forex broker is the most reputable?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">问：哪家外汇经纪商最有信誉？</span></span>"
+    },
+    {
+      "key": "t967da4d9ce281e71",
+      "english": "<span data-i18n-slot=\"0\">Is forex trading Legal in the UAE?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇交易在阿联酋合法吗？</span>"
+    },
+    {
+      "key": "t9e097795af7ccb39",
+      "english": "In March 2025, trading volumes in UAE-based <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Forex platforms</span></span> hit a record high, fueled by market volatility from global interest rate changes and energy price shifts. According to reports, there’s a growing trend among Emirati youth and expats investing in Forex alongside traditional assets like real estate and gold.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "2025年三月，在全球利率变化和能源价格变化导致的市场波动的推动下，阿联酋<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">外汇平台</span></span>的交易量创下历史新高。据报道，阿联酋年轻人和外籍人士投资外汇以及房地产和黄金等传统资产的趋势日益明显。"
+    },
+    {
+      "key": "t9d35531a03295254",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">A Perfect Storm of Growth Drivers</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">增长动力的完美风暴</span></span>"
+    },
+    {
+      "key": "t18e62363851da9c9",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">FAQs - Forex Trading</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">常见问题解答 - 外汇交易</span></span>"
+    }
+  ]
+}

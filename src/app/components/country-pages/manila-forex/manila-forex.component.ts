@@ -1,3 +1,4 @@
+import { NativeTranslationService } from 'src/app/core/services/native-translation.service';
 import { Component, OnInit } from '@angular/core';
 import { Meta, Title } from '@angular/platform-browser';
 import { Store } from 'src/app/Store/store';
@@ -6,6 +7,7 @@ import { NgIconComponent } from '@ng-icons/core';
 
 
 @Component({
+  standalone: false,
   selector: 'app-manila-forex',
   templateUrl: './manila-forex.component.html',
   styleUrls: ['./manila-forex.component.scss'],
@@ -169,6 +171,7 @@ export class ManilaForexComponent implements OnInit {
   ];
 
   constructor(
+    private native: NativeTranslationService,
     private store: Store,
     private titleService: Title,
     private metaService: Meta
@@ -177,18 +180,18 @@ export class ManilaForexComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.titleService.setTitle('Forex Trading in Manila | UPFOREX MT5');
+    this.titleService.setTitle(this.native.translate('Forex Trading in Manila | UPFOREX MT5'));
 
     this.metaService.updateTag({
       name: 'description',
       content:
-        'Review online forex and CFD trading in Manila through MT5. Compare UPFOREX accounts, markets, deposits, spreads, commissions, and platform tools.',
+        this.native.translate('Review online forex and CFD trading in Manila through MT5. Compare UPFOREX accounts, markets, deposits, spreads, commissions, and platform tools.'),
     });
 
     this.metaService.updateTag({
       name: 'keywords',
       content:
-        'forex trading Manila, forex trading Philippines, MetaTrader 5 Manila, UPFOREX Philippines, forex account types Philippines',
+        this.native.translate('forex trading Manila, forex trading Philippines, MetaTrader 5 Manila, UPFOREX Philippines, forex account types Philippines'),
     });
   }
 }

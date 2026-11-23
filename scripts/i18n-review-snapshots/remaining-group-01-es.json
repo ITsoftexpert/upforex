@@ -1,0 +1,263 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t31807f16f1fbc780",
+      "english": "<span data-i18n-slot=\"0\">Central bank interest rate announcements.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Anuncios de tipos de interés de los bancos centrales.</span>"
+    },
+    {
+      "key": "t68eda797376159cb",
+      "english": "<span data-i18n-slot=\"0\">3. Strength of the US Dollar</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. Fortaleza del dólar estadounidense</span>"
+    },
+    {
+      "key": "ta50661330cf3fe5f",
+      "english": "<span data-i18n-slot=\"0\">Investment demand for bars, coins and exchange-traded products.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Demanda de inversión para lingotes, monedas y productos negociados en bolsa.</span>"
+    },
+    {
+      "key": "tdfd142d76a985abd",
+      "english": "<span data-i18n-slot=\"0\">Jewellery and silverware.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Joyas y platería.</span>"
+    },
+    {
+      "key": "tff9be69dbf51f819",
+      "english": "<span data-i18n-slot=\"0\">Making charges and retail premiums.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cargos de fabricación y primas minoristas.</span>"
+    },
+    {
+      "key": "t7c690b894676c105",
+      "english": "<span data-i18n-slot=\"0\">Dealer margins.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Márgenes del distribuidor.</span>"
+    },
+    {
+      "key": "t97f435e56f71315d",
+      "english": "<span data-i18n-slot=\"0\">Moving averages to study market trends.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Promedios móviles para estudiar las tendencias del mercado.</span>"
+    },
+    {
+      "key": "tce65d98c8ff4620a",
+      "english": "<span data-i18n-slot=\"0\">Candlestick charts to understand buying and selling activity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Gráficos de velas japonesas para comprender la actividad de compra y venta.</span>"
+    },
+    {
+      "key": "tca2379c59f886e09",
+      "english": "<span data-i18n-slot=\"0\">Risk Disclaimer: Trading CFDs and leveraged financial products involves significant risk and may not be suitable for every individual. Leverage can magnify both profits and losses. You may lose some or all of your invested capital. Understand the product, review the applicable terms and seek independent financial advice where appropriate before trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Descargo de responsabilidad sobre riesgos: operar con CFD y productos financieros apalancados implica un riesgo significativo y puede no ser adecuado para todas las personas. El apalancamiento puede magnificar tanto las ganancias como las pérdidas. Puede perder parte o la totalidad de su capital invertido. Comprenda el producto, revise los términos aplicables y busque asesoramiento financiero independiente, cuando corresponda, antes de operar.</span>"
+    },
+    {
+      "key": "t3f303d0bf1750f13",
+      "english": "Forex Brokers in Abu Dhabi | How to Choose the Right One",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#metaTitle",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "Corredores de Forex en Abu Dabi | Cómo elegir el correcto"
+    },
+    {
+      "key": "t7e8e0c72c49c9084",
+      "english": "Forex Brokers in Abu Dhabi",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#imageAltTag",
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#tag",
+        "SSR:/blogs",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "Corredores de Forex en Abu Dabi"
+    },
+    {
+      "key": "t65e580f2bc06ddc4",
+      "english": "FOREX BROKERS IN ABU DHABI",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#upperTag",
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#upperTag",
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#upperTag",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "CORREDORES DE FOREX EN ABU DHABI"
+    },
+    {
+      "key": "td30f6b0e6245b4b0",
+      "english": "forex demo account UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#tag",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "cuenta demo de forex EAU"
+    },
+    {
+      "key": "t6f7fa94e9858c430",
+      "english": "FOREX DEMO ACCOUNT UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#upperTag",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "CUENTA DEMO FOREX EAU"
+    },
+    {
+      "key": "tb733227403ac4b36",
+      "english": "best forex broker in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#tag",
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#tag",
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#tag",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "mejor corredor de divisas en los EAU"
+    },
+    {
+      "key": "tcd002914aeb61b16",
+      "english": "BEST FOREX BROKER IN UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#upperTag",
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#upperTag",
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#upperTag",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "MEJOR CORREDOR DE FOREX EN EAU"
+    },
+    {
+      "key": "t8aae20750a341203",
+      "english": "forex",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#category",
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#category",
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#category",
+        "CMS:blogs/forex-trading-strategy-market-conditions#category",
+        "CMS:blogs/what-is-lot-size-in-forex#category",
+        "CMS:blogs/how-to-read-a-forex-quote#category",
+        "CMS:blogs/what-is-forex-liquidity#category",
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#category",
+        "CMS:blogs/forex-correlation-explained#category",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#category",
+        "CMS:blogs//what-is-a-forex-currency-pair#category",
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#category",
+        "CMS:blogs/forex-leverage-and-margin-explained#category",
+        "CMS:blogs/why-retail-traders-lose-money#category",
+        "CMS:blogs/otc-trading-in-uae#category",
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#category",
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#category",
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#category",
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#category",
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#category",
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#category",
+        "CMS:blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter#category",
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#category",
+        "CMS:blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices#category",
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#category",
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#tag",
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#category",
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#tag",
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#category",
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#category",
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#category",
+        "CMS:blogs/zero-commission-forex-trading#category",
+        "CMS:blogs/best-regulated-forex-platform#category",
+        "CMS:blogs/best-forex-broker-for-metatrader-5#category",
+        "CMS:blogs/forex-broker-with-fund-protection#category",
+        "CMS:blogs/forex-trading-in-the-middle-east#category",
+        "CMS:blogs/forex-trading-with-instant-withdrawals#category",
+        "CMS:blogs/strategy-snapshot-trading-breakouts#category",
+        "CMS:blogs/best-forex-trading-platform#category",
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#category",
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#category",
+        "SSR:/blogs",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "divisas"
+    },
+    {
+      "key": "t39f425709cf42872",
+      "english": "<span data-i18n-slot=\"0\">Choosing a forex broker is one of the most important decisions for anyone interested in currency trading. With so many online trading companies offering different account types, platforms, spreads and trading conditions, knowing which one to trust can feel confusing. For beginners, the challenge is even greater because understanding the financial market is already a learning process.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Elegir un corredor de divisas es una de las decisiones más importantes para cualquier persona interesada en el comercio de divisas. Con tantas empresas de comercio en línea que ofrecen diferentes tipos de cuentas, plataformas, diferenciales y condiciones comerciales, saber en cuál confiar puede resultar confuso. Para los principiantes, el desafío es aún mayor porque comprender el mercado financiero ya es un proceso de aprendizaje.</span>"
+    },
+    {
+      "key": "t1f28d73f168de295",
+      "english": "<span data-i18n-slot=\"0\">Many people searching for </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex brokers in Abu Dhabi</span></span><span data-i18n-slot=\"3\"> focus mainly on low spreads, attractive promotions or high leverage. However, these features should never be the only reasons for choosing a trading provider. A broker's regulatory status, legal entity, trading costs, platform reliability and withdrawal conditions deserve equal attention.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Muchas personas que buscan </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">corredores de divisas en Abu Dabi</span></span><span data-i18n-slot=\"3\"> se centran principalmente en diferenciales bajos, promociones atractivas o un alto apalancamiento. Sin embargo, estas características nunca deberían ser las únicas razones para elegir un proveedor comercial. El estatus regulatorio, la entidad legal, los costos comerciales, la confiabilidad de la plataforma y las condiciones de retiro de un corredor merecen igual atención.</span>"
+    },
+    {
+      "key": "tb64a6ac97936be71",
+      "english": "<span data-i18n-slot=\"0\">A little research before opening an account can help traders avoid unnecessary confusion and make more informed decisions. Whether someone is exploring forex for the first time or has previous trading experience, understanding these important factors can make the selection process easier.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un poco de investigación antes de abrir una cuenta puede ayudar a los operadores a evitar confusiones innecesarias y tomar decisiones más informadas. Ya sea que alguien esté explorando Forex por primera vez o tenga experiencia comercial previa, comprender estos importantes factores puede facilitar el proceso de selección.</span>"
+    }
+  ]
+}

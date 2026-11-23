@@ -1,0 +1,423 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tbb17e0855e75f283",
+      "english": "STANDARD MINI MICRO LOTS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#upperTag",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "標準ミニマイクロロット"
+    },
+    {
+      "key": "tc1aad10c7299b3c6",
+      "english": "<span data-i18n-slot=\"0\">What Is Lot Size in Forex? Standard, Mini and Micro Lots Explained</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替におけるロットサイズとは何ですか?標準ロット、ミニロット、マイクロロットの説明</span>"
+    },
+    {
+      "key": "t41ba628a1b62eeb2",
+      "english": "<span data-i18n-slot=\"0\">Forex </span><span data-i18n-slot=\"1\">lot size</span><span data-i18n-slot=\"2\"> is the standardized unit used to measure trade volume. A standard lot represents 100,000 units of the base currency, a mini lot 10,000 units, a micro lot 1,000 units, and a nano lot 100 units. Nano-sized trading is not available through every broker or instrument.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替 </span><span data-i18n-slot=\"1\">ロットサイズ</span><span data-i18n-slot=\"2\"> は、取引量を測定するために使用される標準化された単位です。標準ロットは基本通貨の 100,000 単位、ミニロットは 10,000 単位、マイクロロットは 1,000 単位、ナノロットは 100 単位を表します。ナノサイズの取引は、すべてのブローカーや商品を通じて利用できるわけではありません。</span>"
+    },
+    {
+      "key": "t598333f39c1a022b",
+      "english": "<span data-i18n-slot=\"0\">A trader opening 1.00 lot has much greater market exposure than someone opening 0.01 lot in the same forex pair. As a result, the monetary effect of each pip is also larger.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.00 ロットをオープンするトレーダーは、同じ外国為替ペアで 0.01 ロットをオープンするトレーダーよりもはるかに大きな市場エクスポージャーを持ちます。その結果、各pipsの金銭的効果も大きくなります。</span>"
+    },
+    {
+      "key": "ta9c919d4ab4bfaac",
+      "english": "<span data-i18n-slot=\"0\">Understanding forex lot size therefore connects several important concepts: position volume, pip value, margin, leverage and trade-level risk. This guide explains those relationships practically, including how Standard, Mini and Micro lots map to MT5 volume notation and how traders can calculate position size instead of selecting it arbitrarily.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替のロットサイズを理解すると、ポジション量、ピップ値、証拠金、レバレッジ、取引ごとのリスクという重要な概念がつながります。このガイドでは、標準・ミニ・マイクロロットとMT5の取引数量の表記の対応関係や、任意に選ぶのではなくポジションサイズを計算する方法などを実践的に説明します。</span>"
+    },
+    {
+      "key": "t0eb4a95834535748",
+      "english": "<span data-i18n-slot=\"0\">Under the standard forex convention:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">標準的な外国為替規約では次のようになります。</span>"
+    },
+    {
+      "key": "t8254c2ac10c38f48",
+      "english": "<span data-i18n-slot=\"0\">This is the practical meaning behind terms such as lot size forex, forex lot size and trade volume. The lot does not tell you whether a position will gain or lose. It tells you how much market exposure the position represents.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これは、FXのロットサイズ、外国為替のロットサイズ、取引量といった用語の実際の意味です。ロットサイズからポジションが利益になるか損失になるかはわかりません。ポジションがどれほどの市場エクスポージャーを表すかがわかります。</span>"
+    },
+    {
+      "key": "td5011dd775ca4bf5",
+      "english": "<span data-i18n-slot=\"0\">On MT5, traders commonly enter this amount through the </span><span data-i18n-slot=\"1\">Volume</span><span data-i18n-slot=\"2\"> field when preparing an order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">MT5では通常、注文を準備するときに「</span><span data-i18n-slot=\"1\">数量（Volume）</span><span data-i18n-slot=\"2\">」欄にこの量を入力します。</span>"
+    },
+    {
+      "key": "tef5ebb8e80d6b1e6",
+      "english": "<span data-i18n-slot=\"0\">Larger position size where the trader's calculated risk parameters support the exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーが計算したリスクパラメータがエクスポージャをサポートする、より大きなポジションサイズ</span>"
+    },
+    {
+      "key": "t1abde346ff7a5f26",
+      "english": "<span data-i18n-slot=\"0\">Fine-grained sizing for smaller calculated exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">計算上の市場エクスポージャーが小さい場合の細かな数量調整</span>"
+    },
+    {
+      "key": "tf062f06df94a61e3",
+      "english": "<span data-i18n-slot=\"0\">Very small position increments where the broker and instrument support them</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ブローカーと金融商品がサポートする非常に小さなポジション増分</span>"
+    },
+    {
+      "key": "td621b3c32554493d",
+      "english": "<span data-i18n-slot=\"0\">In MT5-style decimal volume notation:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">MT5スタイルの小数の表記:</span>"
+    },
+    {
+      "key": "t0220a0e9dc7e1e59",
+      "english": "<span data-i18n-slot=\"0\">This gives one-tenth of the exposure of a standard forex lot in the same currency pair.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これは、同じ通貨ペアの標準ロットの十分の一のエクスポージャーになります。</span>"
+    },
+    {
+      "key": "t455f283987a95dc3",
+      "english": "<span data-i18n-slot=\"0\">In decimal notation:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">小数表記:</span>"
+    },
+    {
+      "key": "td08343dea43fe714",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot = 1 micro lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01ロット = 1マイクロロット</span>"
+    },
+    {
+      "key": "t6fc6e298f6849a24",
+      "english": "<span data-i18n-slot=\"0\">Some brokers or trading arrangements may support this size, but it is not universal. Traders should always check the allowed volume increments for the specific symbol they intend to trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一部のブローカーや取引取り決めはこのサイズをサポートしている場合がありますが、普遍的なものではありません。トレーダーは、取引する予定の特定のシンボルの許容ボリューム増分を常に確認する必要があります。</span>"
+    },
+    {
+      "key": "t8d726e74d8e462f2",
+      "english": "<span data-i18n-slot=\"0\">Choosing position size arbitrarily can make the actual monetary exposure very different from what a trader intended.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジションサイズを恣意的に選択すると、実際の金銭的エクスポージャーがトレーダーの意図したものと大きく異なる可能性があります。</span>"
+    },
+    {
+      "key": "t390ca30562af90cf",
+      "english": "<span data-i18n-slot=\"0\">A simplified position-sizing process is:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">簡略化されたポジションサイジングプロセスは次のとおりです。</span>"
+    },
+    {
+      "key": "tb096395b9c7e6fe7",
+      "english": "<span data-i18n-slot=\"0\">Define the stop-loss distance in pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロス距離をピップ単位で定義します。</span>"
+    },
+    {
+      "key": "t9973999ab8fa2024",
+      "english": "<span data-i18n-slot=\"0\">Lot Size = Risk Amount ÷ (Stop-Loss Distance × Pip Value per 1.00 Lot)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ロットサイズ = リスク量 ÷ (ストップロス距離 × 1.00 ロットあたりのピップ値)</span>"
+    },
+    {
+      "key": "t3c794ef24a18e7ee",
+      "english": "<span data-i18n-slot=\"0\">This example is hypothetical and educational, not a recommendation for how much any trader should risk.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">この例は仮説および教育的なものであり、トレーダーがどれだけリスクを負うべきかを推奨するものではありません。</span>"
+    },
+    {
+      "key": "t1a2930d51ffc9dbb",
+      "english": "<span data-i18n-slot=\"0\">Assume:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次のように仮定します。</span>"
+    },
+    {
+      "key": "t0207852ebd0c6a4c",
+      "english": "<span data-i18n-slot=\"0\">Hypothetical risk allocation: 1% = $100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">仮想のリスク配分: 1% = 100 ドル</span>"
+    },
+    {
+      "key": "t06e646371766af3d",
+      "english": "<span data-i18n-slot=\"0\">Instrument: EUR/USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通貨: ユーロ/米ドル</span>"
+    },
+    {
+      "key": "ta4a37330e6eaa144",
+      "english": "<span data-i18n-slot=\"0\">If the stop were twice as wide while the chosen monetary risk stayed the same, the calculated lot size would need to be smaller. If the allowed monetary exposure increased while the stop distance stayed unchanged, the mathematical lot size would increase.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">選択した金銭的リスクが同じで、ストップの幅が二倍になると、計算されるロットサイズは小さくする必要があります。ストップの距離を変えずに許容する金銭的エクスポージャーを増やすと、計算上のロットサイズは大きくなります。</span>"
+    },
+    {
+      "key": "t755d253bcbbcdc95",
+      "english": "<span data-i18n-slot=\"0\">A forex lot size calculator automates the same underlying relationships. Traders should still understand the inputs rather than relying on a calculator without knowing what the result represents.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替ロットサイズ計算ツールは、同じ基礎となる関係を自動化します。トレーダーは、結果が何を表すかを知らずに計算機に依存するのではなく、入力を理解する必要があります。</span>"
+    },
+    {
+      "key": "t5271f5cae83a2c42",
+      "english": "<span data-i18n-slot=\"0\">Suppose two traders both open the same 0.10-lot forex position. The trade volume is identical even if their accounts use different leverage settings.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">二 人のトレーダーが両方とも同じ 0.10 ロットの外国為替ポジションをオープンしているとします。アカウントが異なるレバレッジ設定を使用している場合でも、取引量は同じです。</span>"
+    },
+    {
+      "key": "tbc49720ebaadf48c",
+      "english": "<span data-i18n-slot=\"0\">What changes with leverage is the amount of account equity generally required as </span><span data-i18n-slot=\"1\">margin</span><span data-i18n-slot=\"2\"> to support that exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジによって変化するのは、そのエクスポージャーをサポートするために</span><span data-i18n-slot=\"1\">証拠金</span><span data-i18n-slot=\"2\">として通常必要とされる口座資本の額です。</span>"
+    },
+    {
+      "key": "t7b08e29c8f0ca8fe",
+      "english": "<span data-i18n-slot=\"0\">What It Controls</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">何を制御するのか</span>"
+    },
+    {
+      "key": "tff967c48c4cd26fc",
+      "english": "<span data-i18n-slot=\"0\">Relationship between exposure and required margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">エクスポージャと必要マージンの関係</span>"
+    },
+    {
+      "key": "t9aae7b2eaa427228",
+      "english": "<span data-i18n-slot=\"0\">Monetary effect of a pip movement for the selected position size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">選択したポジションサイズに対するピップ移動の金銭的影響</span>"
+    },
+    {
+      "key": "ta1a4f02b8cda511f",
+      "english": "<span data-i18n-slot=\"0\">This is the key distinction in the lot size vs leverage question.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これが、ロットサイズとレバレッジの問題における重要な違いです。</span>"
+    },
+    {
+      "key": "td8ccc3ee191a4e8c",
+      "english": "<span data-i18n-slot=\"0\">Higher leverage does not transform a micro lot into a mini or standard lot. Likewise, reducing lot size does not change the leverage ratio itself.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジを高くしても、マイクロロットがミニロットや標準ロットに変わるわけではありません。同様に、ロットサイズを縮小してもレバレッジ比率自体は変わりません。</span>"
+    },
+    {
+      "key": "tf4e0fedf0529a573",
+      "english": "<span data-i18n-slot=\"0\">For EUR/USD:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ユーロ/米ドルの場合:</span>"
+    },
+    {
+      "key": "t3c7478ddd2733837",
+      "english": "<span data-i18n-slot=\"0\">Base-Currency Units</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">基本通貨単位</span>"
+    },
+    {
+      "key": "ta78fc0005860f4f6",
+      "english": "<span data-i18n-slot=\"0\">$10 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ピップあたり$10</span>"
+    },
+    {
+      "key": "tc46048626feb79e6",
+      "english": "<span data-i18n-slot=\"0\">$1 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ピップあたり$1</span>"
+    },
+    {
+      "key": "t5c3952929f87ec28",
+      "english": "<span data-i18n-slot=\"0\">$0.10 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ピップあたり$0.10</span>"
+    },
+    {
+      "key": "t2af62924546df088",
+      "english": "<span data-i18n-slot=\"0\">$0.01 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ピップあたり$0.01</span>"
+    },
+    {
+      "key": "t606eeb6a35dfd91c",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot: approximately $2</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01ロット：約2ドル</span>"
+    },
+    {
+      "key": "tfc4c4243a8b43767",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot = 1,000 EUR</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01ロット = 1,000ユーロ</span>"
+    }
+  ]
+}

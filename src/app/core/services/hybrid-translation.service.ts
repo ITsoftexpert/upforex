@@ -1,7 +1,8 @@
-import { Injectable } from '@angular/core';
+import { Injectable, OnDestroy } from '@angular/core';
 import { TranslateService } from '@ngx-translate/core';
-import { BehaviorSubject, Observable } from 'rxjs';
+import { BehaviorSubject, Observable, Subscription } from 'rxjs';
 import { LanguageService } from './language.service';
+import { contentKey } from '../config/content-keys';
 
 /**
  * Hybrid Translation Service
@@ -16,10 +17,11 @@ import { LanguageService } from './language.service';
 @Injectable({
   providedIn: 'root',
 })
-export class HybridTranslationService {
+export class HybridTranslationService implements OnDestroy {
   private manualTranslations = new Map<string, Map<string, string>>();
   private currentLanguage$ = new BehaviorSubject<string>('en');
   private isLoading$ = new BehaviorSubject<boolean>(true);
+  private languageSubscription!: Subscription;
 
   constructor(
     private translate: TranslateService,
@@ -29,13 +31,14 @@ export class HybridTranslationService {
   }
 
   private initializeService(): void {
-    // Listen to language changes
-    this.languageService.getCurrentLanguage();
-    this.currentLanguage$.next(this.languageService.getCurrentLanguage().code);
-
-    // Initialize with default language
-    this.loadLanguage(this.languageService.getCurrentLanguage().code);
+    this.languageSubscription = this.languageService.currentLanguage$.subscribe(
+      (language) => this.loadLanguage(language.code)
+    );
     this.isLoading$.next(false);
+  }
+
+  ngOnDestroy(): void {
+    this.languageSubscription.unsubscribe();
   }
 
   /**
@@ -82,6 +85,12 @@ export class HybridTranslationService {
   ): string {
     const lang = currentLang || this.currentLanguage$.value;
     const langMap = this.manualTranslations.get(lang);
+    const english = this.manualTranslations.get('en')?.get(key) || fallbackText || key;
+    if (typeof this.translate.instant === 'function') {
+      const nativeKey = `COPY.${contentKey(english)}`;
+      const native = this.translate.instant(nativeKey);
+      if (typeof native === 'string' && native !== nativeKey) return native;
+    }
 
     // Check if manual translation exists
     if (langMap && langMap.has(key)) {

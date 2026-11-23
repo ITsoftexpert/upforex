@@ -1,0 +1,507 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tb59f6117ba953ae5",
+      "english": "<span data-i18n-slot=\"0\">When Opening a Position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">开仓时</span>"
+    },
+    {
+      "key": "t10c13b45fb2d2c17",
+      "english": "<span data-i18n-slot=\"0\">Open the order window for the chosen instrument.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">打开所选工具的订单窗口。</span>"
+    },
+    {
+      "key": "t270036d756dbf1bd",
+      "english": "<span data-i18n-slot=\"0\">Enter the stop-loss price in the </span><span data-i18n-slot=\"1\">Stop Loss</span><span data-i18n-slot=\"2\"> field.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在</span><span data-i18n-slot=\"1\">止损</span><span data-i18n-slot=\"2\">字段中输入止损价格。</span>"
+    },
+    {
+      "key": "t05d823358dfe84e1",
+      "english": "<span data-i18n-slot=\"0\">Enter the target in the </span><span data-i18n-slot=\"1\">Take Profit</span><span data-i18n-slot=\"2\"> field.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在</span><span data-i18n-slot=\"1\">止盈</span><span data-i18n-slot=\"2\">字段中输入目标。</span>"
+    },
+    {
+      "key": "tdedc5e4bdb8bf57b",
+      "english": "<span data-i18n-slot=\"0\">When Modifying an Open Position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">修改未平仓头寸时</span>"
+    },
+    {
+      "key": "tba9cb0d7645065b3",
+      "english": "<span data-i18n-slot=\"0\">Open the </span><span data-i18n-slot=\"1\">Trade</span><span data-i18n-slot=\"2\"> tab in the MT5 Toolbox.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">打开 MT5 工具箱中的</span><span data-i18n-slot=\"1\">交易</span><span data-i18n-slot=\"2\">选项卡。</span>"
+    },
+    {
+      "key": "tbe5fe1c4a6e44f04",
+      "english": "<span data-i18n-slot=\"0\">Right-click the open position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">右键单击未平仓头寸。</span>"
+    },
+    {
+      "key": "t64e79c6821fedd8c",
+      "english": "<span data-i18n-slot=\"0\">Select </span><span data-i18n-slot=\"1\">Modify or Delete</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">选择</span><span data-i18n-slot=\"1\">修改或删除</span><span data-i18n-slot=\"2\">。</span>"
+    },
+    {
+      "key": "t19957d84416d2ae4",
+      "english": "<span data-i18n-slot=\"0\">Enter or revise the stop-loss and take-profit values.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">输入或修改止损和止盈值。</span>"
+    },
+    {
+      "key": "t5d598bd6acf93812",
+      "english": "<span data-i18n-slot=\"0\">Common Stop-Loss and Take-Profit Mistakes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">常见的止损和止盈错误</span>"
+    },
+    {
+      "key": "ta60bc9ec08618060",
+      "english": "<span data-i18n-slot=\"0\">Placing the Stop Too Close</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损点设置得太近</span>"
+    },
+    {
+      "key": "tc2a0fe06b51d6bd4",
+      "english": "<span data-i18n-slot=\"0\">A very tight stop may be triggered by normal volatility even when the broader trade idea has not changed. Consider market structure and recent price range before selecting the level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">即使更广泛的交易理念没有改变，正常的波动也可能会触发非常严格的止损。在选择级别之前，请考虑市场结构和近期价格范围。</span>"
+    },
+    {
+      "key": "tccf7ae77071f5a85",
+      "english": "<span data-i18n-slot=\"0\">Trading Without a Stop-Loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">无止损交易</span>"
+    },
+    {
+      "key": "t8f6fcc821bbd6418",
+      "english": "<span data-i18n-slot=\"0\">Moving the Stop Farther Away</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">将止损位移得更远</span>"
+    },
+    {
+      "key": "t73e3bc001962886a",
+      "english": "<span data-i18n-slot=\"0\">Ignoring Spread, Gaps, and Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">忽略价差、缺口和滑点</span>"
+    },
+    {
+      "key": "t6f0a6fb74087d1b5",
+      "english": "<span data-i18n-slot=\"0\">A stop-loss is a trigger, not a guaranteed execution price. Fast markets, gaps, and low liquidity can cause the closing order to fill beyond the selected level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损是触发条件，并不保证执行价格。快速行情、跳空和低流动性可能导致平仓订单以越过所选止损位的价格成交。</span>"
+    },
+    {
+      "key": "ta2139f29c1e2a44f",
+      "english": "<span data-i18n-slot=\"0\">Choosing an Unrealistic Take-Profit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">选择不切实际的止盈</span>"
+    },
+    {
+      "key": "td38aec07d986bcad",
+      "english": "<span data-i18n-slot=\"0\">What is stop loss in trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易中什么是止损？</span>"
+    },
+    {
+      "key": "te44e6d376e510269",
+      "english": "<span data-i18n-slot=\"0\">What does stop loss mean?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损是什么意思？</span>"
+    },
+    {
+      "key": "t5e25d078918f10a2",
+      "english": "<span data-i18n-slot=\"0\">Stop loss means predefining the price at which a losing position should be closed. It converts an open-ended decision into a planned risk boundary. The financial amount at risk depends on the distance to the stop, the position size, the instrument, and execution conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损是指预先设定亏损仓位应平仓的价格。它将开放式决策转换为计划的风险边界。面临风险的财务金额取决于止损点的距离、头寸规模、工具和执行条件。</span>"
+    },
+    {
+      "key": "tb2b4172f70e860cb",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between stop-loss and take-profit?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损和止盈有什么区别？</span>"
+    },
+    {
+      "key": "t883f7661b03e2ebd",
+      "english": "<span data-i18n-slot=\"0\">What is a trailing stop-loss and how does it work?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是追踪止损及其工作原理？</span>"
+    },
+    {
+      "key": "tce943d29889688ad",
+      "english": "<span data-i18n-slot=\"0\">No. A stop-loss triggers an instruction to close the position, but it cannot guarantee the precise execution price. Gaps, low liquidity, rapid volatility, slippage, exchange rules, or rejected operations can result in a fill beyond the selected stop level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">没有。止损触发平仓指令，但不能保证精确的执行价格。缺口、低流动性、快速波动、滑点、交易规则或被拒绝的操作都可能导致成交超出选定的止损水平。</span>"
+    },
+    {
+      "key": "t1aa6f57750c887a3",
+      "english": "<span data-i18n-slot=\"0\">Should beginners always use a stop-loss?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初学者应该始终使用止损吗？</span>"
+    },
+    {
+      "key": "tccea82c8fc8dc80a",
+      "english": "<span data-i18n-slot=\"0\">Quick Answer:</span><span data-i18n-slot=\"1\"> For traders in the UAE and wider Gulf, the most active window is usually the London–New York overlap: approximately 4:00–8:00 p.m. GST during daylight-saving months and 5:00–9:00 p.m. GST during standard time. This period often brings stronger liquidity in major forex pairs, gold and US index markets.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">快速回答：</span><span data-i18n-slot=\"1\">对于阿联酋及更广泛海湾地区的交易者，最活跃的时段通常是伦敦与纽约的重叠时段：夏令时期间约为海湾标准时间（GST）下午4:00–8:00，标准时间期间为下午5:00–9:00。这一时段通常为主要外汇货币对、黄金和美国指数市场带来更充足的流动性。</span>"
+    },
+    {
+      "key": "tcea064668a1fa244",
+      "english": "<span data-i18n-slot=\"0\">These session windows align with the commonly used global forex-session framework. The UK and United States move their clocks at different times of the year, while Gulf Standard Time remains UTC+4 throughout the year. In 2026, US daylight saving runs from March 8 to November 1, while British Summer Time runs from March 29 to October 25.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这些交易时段与通用的全球外汇交易时段框架一致。英国和美国每年在不同时间调整时钟，而海湾标准时间全年保持UTC+4。2026年，美国夏令时从三月8日至十一月1日，英国夏令时从三月29日至十月25日。</span>"
+    },
+    {
+      "key": "t1bbceb5900edaaf1",
+      "english": "<span data-i18n-slot=\"0\">Best overlap windows</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最佳重叠窗口</span>"
+    },
+    {
+      "key": "t58af80c4bbf4d7a2",
+      "english": "<span data-i18n-slot=\"0\">During the short weeks when US and UK clock changes do not align, the London–New York overlap may temporarily run from approximately </span><span data-i18n-slot=\"1\">4:00–9:00 p.m. GST</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在美英时钟调整日期不一致的那几周里，伦敦与纽约的重叠时段可能暂时为</span><span data-i18n-slot=\"1\">海湾标准时间（GST）下午4:00–9:00左右</span><span data-i18n-slot=\"2\">。</span>"
+    },
+    {
+      "key": "t9175124f5d2511f7",
+      "english": "<span data-i18n-slot=\"0\">New York Session in GST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">纽约交易时段（海湾标准时间）</span>"
+    },
+    {
+      "key": "t75b544e4922d4508",
+      "english": "<span data-i18n-slot=\"0\">UK and US daylight saving</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">英国和美国夏令时</span>"
+    },
+    {
+      "key": "t7560633007badf7e",
+      "english": "<span data-i18n-slot=\"0\">DST transition weeks</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">夏令时过渡周</span>"
+    },
+    {
+      "key": "t0ce299f7605a6c33",
+      "english": "<span data-i18n-slot=\"0\">The official Nasdaq cash market trades from </span><span data-i18n-slot=\"1\">9:30 a.m. to 4:00 p.m. Eastern Time</span><span data-i18n-slot=\"2\">, Monday through Friday.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">纳斯达克官方现货市场交易时间为</span><span data-i18n-slot=\"1\">上午 9:30 至下午 4:00东部时间</span><span data-i18n-slot=\"2\">，周一至周五。</span>"
+    },
+    {
+      "key": "taede9e21e34278bb",
+      "english": "<span data-i18n-slot=\"0\">Nasdaq also lists pre-market trading from 4:00–9:30 a.m. ET and after-hours trading from 4:00–8:00 p.m. ET. In GST, that means:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">纳斯达克还列出了美国东部时间（ET）上午4:00–9:30的盘前交易，以及下午4:00–8:00的盘后交易。换算成海湾标准时间（GST）为：</span>"
+    },
+    {
+      "key": "t2241080da04ca32b",
+      "english": "<span data-i18n-slot=\"0\">Nasdaq Session</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">纳斯达克交易时段</span>"
+    },
+    {
+      "key": "tfbae3f11b796c35b",
+      "english": "<span data-i18n-slot=\"0\">During US DST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">美国夏令时期间</span>"
+    },
+    {
+      "key": "t5dd34091af43dcd3",
+      "english": "<span data-i18n-slot=\"0\">Pre-market</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">盘前交易</span>"
+    },
+    {
+      "key": "t1c74a3e9cb7f4567",
+      "english": "<span data-i18n-slot=\"0\">After-hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">盘后交易</span>"
+    },
+    {
+      "key": "t57d74db6d9e37900",
+      "english": "<span data-i18n-slot=\"0\">Extended sessions typically have lower liquidity and can experience wider price differences than regular hours.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">延长交易时段的流动性通常较低，而且价格差异可能比正常交易时段更大。</span>"
+    },
+    {
+      "key": "t698f572d8218068b",
+      "english": "<span data-i18n-slot=\"0\">The official exchange schedule is not necessarily the same as a broker’s CFD schedule. Nasdaq index CFDs may trade for longer periods than Nasdaq-listed stock CFDs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">官方交易时间表不一定与经纪商的差价合约时间表相同。纳斯达克指数差价合约的交易时间可能比纳斯达克上市股票差价合约的交易时间更长。</span>"
+    },
+    {
+      "key": "tc2f29dff88347f13",
+      "english": "<span data-i18n-slot=\"0\">Traders should confirm instrument-specific access through the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Index CFDs</span></span><span data-i18n-slot=\"4\"> and</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Stock CFDs</span></span><span data-i18n-slot=\"8\"> pages rather than assuming that all Nasdaq-related instruments use identical hours. UpForex confirms Nasdaq 100 exposure through its index-CFD offering and access to more than 200 company-share CFDs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易者应通过</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">指数差价合约</span></span><span data-i18n-slot=\"4\">和</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">股票差价合约</span></span><span data-i18n-slot=\"8\">页面确认特定工具的访问，而不是假设所有纳斯达克相关工具都使用相同的时间。 UpForex 通过其指数差价合约产品和超过 200 种公司股票差价合约确认了纳斯达克 100 的敞口。</span>"
+    },
+    {
+      "key": "t9694eae87084dd44",
+      "english": "<span data-i18n-slot=\"0\">For more context, see the related guide to</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">CFD Index Trading in UAE</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有关更多背景信息，请参阅阿联酋差价合约指数交易的相关指南</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">阿联酋差价合约指数交易</span></span><span data-i18n-slot=\"4\">。</span>"
+    },
+    {
+      "key": "t03a9fff279ed75c4",
+      "english": "<span data-i18n-slot=\"0\">Approximately 4:00–8:00 p.m. GST during daylight-saving periods</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">夏令时期间约为海湾标准时间（GST）下午4:00–8:00</span>"
+    },
+    {
+      "key": "t70a8c24d29859cf7",
+      "english": "<span data-i18n-slot=\"0\">Approximately 5:00–9:00 p.m. GST during standard time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">标准时间期间约为海湾标准时间（GST）下午5:00–9:00</span>"
+    },
+    {
+      "key": "t57eef638df81ef1a",
+      "english": "<span data-i18n-slot=\"0\">Liquidity may be thinner around the daily rollover period after North American activity declines and before the Asian market becomes fully active. Spreads can widen during quiet periods, holidays or unexpected news.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在北美活动下降之后、亚洲市场完全活跃之前，每日展期期间的流动性可能会减少。在淡季、假期或意外消息期间，点差可能会扩大。</span>"
+    },
+    {
+      "key": "t18e45140562aaacc",
+      "english": "<span data-i18n-slot=\"0\">What Are the Abu Dhabi Securities Exchange Trading Hours?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">阿布扎比证券交易所的交易时间是什么？</span>"
+    },
+    {
+      "key": "teb1af3e99416e3e3",
+      "english": "<span data-i18n-slot=\"0\">Pre-opening</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">开业前</span>"
+    },
+    {
+      "key": "t7c2bb0537c71826f",
+      "english": "<span data-i18n-slot=\"0\">Which Trading Overlap Suits Which Instrument?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">哪种交易重叠适合哪种工具？</span>"
+    },
+    {
+      "key": "t8b6c1b7f213849ab",
+      "english": "<span data-i18n-slot=\"0\">Instruments Commonly Watched</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常关注的交易品种</span>"
+    },
+    {
+      "key": "tf2771e6bc2138e53",
+      "english": "<span data-i18n-slot=\"0\">AUD/USD, NZD/USD, USD/JPY and JPY crosses</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">澳元/美元、新西兰元/美元、美元/日元和日元交叉盘</span>"
+    },
+    {
+      "key": "t1b63227e7855d406",
+      "english": "<span data-i18n-slot=\"0\">JPY crosses, EUR pairs and GBP pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">日元交叉盘、欧元货币对和英镑货币对</span>"
+    }
+  ]
+}

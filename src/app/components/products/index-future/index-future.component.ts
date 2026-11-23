@@ -3,6 +3,7 @@ import { advantages, benefits } from './constant';
 import { Store } from 'src/app/Store/store';
 
 @Component({
+  standalone: false,
   selector: 'app-index-future',
   templateUrl: './index-future.component.html',
   styleUrls: ['./index-future.component.scss'],

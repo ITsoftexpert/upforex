@@ -1,0 +1,37 @@
+{
+  "language": "zh-TW",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "te34c1a169185426c",
+      "english": "<span data-i18n-slot=\"0\">Before choosing a broker, it’s important to understand the forex trading laws and regulations in Dubai. Read our complete guide on </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">Forex Trading in Dubai</span></span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在選擇經紀商之前，瞭解迪拜的外匯交易法律和法規很重要。請閱讀我們關於</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">迪拜外匯交易</span></span></span><span data-i18n-slot=\"4\">的完整指南。</span>"
+    },
+    {
+      "key": "tadb646dbb353cae5",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"> </span></span><span data-i18n-slot=\"2\">Those who </span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\">Trade on MT5 in UAE</span></span><span data-i18n-slot=\"5\"> typically include:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"> </span></span><span data-i18n-slot=\"2\">在</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\">阿聯酋使用 MT5 進行交易</span></span><span data-i18n-slot=\"5\">的人通常包括：</span>"
+    },
+    {
+      "key": "t453f826b11adc447",
+      "english": "<span data-i18n-slot=\"0\">It's important for picking the </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Best Forex Trading Platform in Dubai</span></span><span data-i18n-slot=\"3\">,</span><span data-i18n-slot=\"4\"> especially for first-timers. A suitable platform should provide:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">選擇</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">迪拜最佳外匯交易平臺</span></span><span data-i18n-slot=\"3\">很重要，</span><span data-i18n-slot=\"4\">尤其是對於初學者。合適的平臺應提供：</span>"
+    }
+  ]
+}

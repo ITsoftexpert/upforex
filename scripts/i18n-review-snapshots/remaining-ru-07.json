@@ -1,0 +1,817 @@
+{
+  "language": "ru",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t3c87c3b1805917ef",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Instant Withdrawals — No Waiting Days</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Мгновенный вывод средств - нет дней ожидания</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t98a6d7fc7811310a",
+      "english": "<span data-i18n-slot=\"0\">Withdraw your funds anytime —</span> even on weekends",
+      "translation": "<span data-i18n-slot=\"0\">Вывод средств в любое время —</span> Даже в выходные дни",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t3a99651f51ad2fcb",
+      "english": "No hidden approvals, no manual delays",
+      "translation": "Нет скрытых согласований и задержек из-за ручной обработки",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t91ed0891c28cf78b",
+      "english": "You earned it. You get it. No excuses.",
+      "translation": "Вы это заработали. Вы это получаете. Без оправданий.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "tc66202eac3acd1aa",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">MT4: </span>Primarily focused on forex only.</span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">MT4: </span>преимущественно ориентирована только на форекс.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t63895c9886854564",
+      "english": "<span data-i18n-slot=\"0\">MT5: </span>Supports multiple asset classes like gold, stocks, oil, indices, and crypto.",
+      "translation": "<span data-i18n-slot=\"0\">MT5: </span>поддерживает несколько классов активов, включая золото, акции, нефть, индексы и криптовалюты.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "tc5183ca01d57b74e",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Timeframes and Chart Tools</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Таймфреймы и инструменты для диаграмм</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t46dc54d60f328442",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Order Types and Execution</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4 Типы ордеров и их исполнение</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "tc26161d08bd006e6",
+      "english": "<span data-i18n-slot=\"0\">Both platforms support automated trading, but MT5 uses MQL5, a more advanced programming language than MQL4 (used in MT4). If you're into building smarter bots and advanced strategies, MT5 is the future.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Обе платформы поддерживают автоматическую торговлю, но MT5 использует MQL5 — более продвинутый язык программирования, чем MQL4, используемый в MT4. Если вы создаёте более умных ботов и продвинутые стратегии, будущее за MT5.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t6677a1dc6374cf66",
+      "english": "However, it doesn’t support modern trading needs like multi-asset access, economic calendars, and faster automation — which are standard requirements in 2025.",
+      "translation": "Однако она не поддерживает современные торговые потребности, такие как доступ к нескольким классам активов, экономические календари и более быстрая автоматизация, которые стали стандартными требованиями в 2025 году.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t41d7b1360ad408d2",
+      "english": "Use advanced charting and SMC <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">tools</span></span></span>",
+      "translation": "Используйте расширенные графики и SMC <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">инструменты</span></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t95c798a95a05a89f",
+      "english": "Unfortunately, this isn't a “<span data-i18n-slot=\"0\">what if</span>” — it’s happening every day to traders who trust the wrong platforms.",
+      "translation": "К сожалению, это не гипотетическое «<span data-i18n-slot=\"0\">а что, если</span>» — такое каждый день происходит с трейдерами, доверяющими неподходящим платформам.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "t141f5e89430dfeab",
+      "english": "Multiple chart types (line, bar, candlestick)",
+      "translation": "Несколько типов графиков: линейный, баровый, свечной",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "t505ae53b1981586f",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Free Learning Hub &amp; Trading Signals</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Бесплатный учебный центр и торговые сигналы</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "tf3992881062fc587",
+      "english": "<span data-i18n-slot=\"0\">At UpForex, we believe that informed traders are successful traders — which is why we go beyond just giving you a platform. Our Free Learning Hub is designed to help you grow at every stage of your trading journey. Whether you’re a </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">beginner learning how forex works</span></span></span><span data-i18n-slot=\"4\"> or an experienced trader looking to sharpen your strategy, you’ll find video tutorials, expert articles, strategy breakdowns, and live market insights tailored to your level. Forex broker with fund protection, we offer free trading signals curated by seasoned analysts — giving you real-time entry and exit ideas backed by technical and fundamental research.</span>",
+      "translation": "<span data-i18n-slot=\"0\">В UpForex мы считаем, что информированные трейдеры — успешные трейдеры, поэтому предлагаем больше, чем просто платформу. Наш бесплатный учебный центр помогает расти на каждом этапе торгового пути. Если вы </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">новичок, изучающий форекс</span></span></span><span data-i18n-slot=\"4\">, или опытный трейдер, совершенствующий стратегию, вы найдёте видеоуроки, экспертные статьи, разборы стратегий и текущую рыночную аналитику по своему уровню. Как форекс-брокер с защитой средств, мы предлагаем бесплатные торговые сигналы, отобранные опытными аналитиками: идеи входа и выхода в реальном времени, подкреплённые техническими и фундаментальными исследованиями.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "tf9276d14fbdc7f10",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">UpForex Is Where Secure Trading Begins</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">UpForex - это то, с чего начинается безопасная торговля</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "t162f7cec08f6a416",
+      "english": "<span data-i18n-slot=\"0\">🚀 Join the most secure forex trading community today.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Присоединяйтесь к самому безопасному сообществу форекс сегодня.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "t28e432941e012fb0",
+      "english": "<span data-i18n-slot=\"0\">FAQs - Forex Trading </span>",
+      "translation": "<span data-i18n-slot=\"0\">Часто задаваемые вопросы о торговле на форекс</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "t0b7f8eb6812ce8d4",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q: What is instant withdrawal?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">В: Что такое мгновенный вывод средств?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "t38eaa6dc12e01810",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q: Can I withdraw funds instantly after a trade?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">В: Могу ли я вывести средства сразу после сделки?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "t18e62363851da9c9",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">FAQs - Forex Trading</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Часто задаваемые вопросы о торговле на форекс</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ]
+    },
+    {
+      "key": "tcb1847c087ababd2",
+      "english": "<span data-i18n-slot=\"0\">What is Forex Trading with Instant Withdrawals?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое торговля на Форекс с мгновенными выводами?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "t5e369b050ebd46bb",
+      "english": "Faster reinvestment opportunities",
+      "translation": "Более быстрые возможности инвестирования",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "t5aac14d56856f1a3",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Real-Time Charts:</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Графики реального времени:</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "ta44d53d73101a48d",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Zero Commission on Every Trade</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2.Нулевая комиссия по каждой сделке</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "td8014f9aa433e3ee",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Real-Time Insights</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Рыночная аналитика в реальном времени</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "t5912e6844511c08c",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. ₹10,000 Free Demo Account</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Бесплатный демо-счёт с ₹10,000</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "t1f0f6c7dc81030a3",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">6. Multi-Currency Withdrawals</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">6. Вывод средств в нескольких валютах</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "t6ecf718f037cbf95",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Which broker gives immediate withdrawal?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Какой брокер дает немедленный вывод средств?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "t42b3563add50d5ac",
+      "english": "<span data-i18n-slot=\"0\">If you're tired of waiting days to access your own money, UpForex is the game-changer you’ve been looking for. With lightning-fast processing and real-time payment integration, UpForex offers immediate withdrawals — no delays, no hidden conditions. Whether you're cashing out ₹500 or ₹50,000, your funds land in your account within minutes, even on weekends.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Если вы устали ждать несколько дней, чтобы получить доступ к собственным деньгам, UpForex предлагает решение, которое вы искали. Благодаря молниеносной обработке и интеграции платежей в реальном времени UpForex предлагает немедленный вывод без задержек и скрытых условий. Выводите ли вы ₹500 или ₹50,000, средства поступают на ваш счёт за несколько минут, даже в выходные.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "te117a6960d1eb280",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Which forex brokers have fast withdrawals with no fees?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Какие форекс-брокеры имеют быстрые снятия без комиссий?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "t5026e8f2b4cc3336",
+      "english": "<span data-i18n-slot=\"0\">Volatility per hour of EUR/USD during the Tokyo (Asian) session. Quiet Asian hours often see lower volatility – only around 5–7 pips of movement per hour on average – compared to the more active London or New York sessions.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Почасовая волатильность EUR/USD во время токийской, или азиатской, сессии. В спокойные азиатские часы волатильность часто ниже: в среднем лишь около 5–7 пипсов движения в час по сравнению с более активными сессиями Лондона и Нью-Йорка.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t7b5f6283cb16eaf1",
+      "english": "<span data-i18n-slot=\"0\">What do low-liquidity days look like?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как выглядят дни низкой ликвидности?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "tb0d41fe433661d96",
+      "english": "<span data-i18n-slot=\"0\">Actionable Breakout Trading Steps for Low-Liquidity Times</span>",
+      "translation": "<span data-i18n-slot=\"0\">Действенные шаги по прорыву для времени с низкой ликвидностью</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t4bc4bd02eb975bf0",
+      "english": "<span data-i18n-slot=\"0\">Confirm the Breakout: </span><span data-i18n-slot=\"1\">Rather than jumping in at the first tick beyond the range, it’s wise to confirm that the breakout is real. In low-liquidity conditions, false breakouts (or “fakeouts”) can happen when price pokes past the level but snaps back into the range. To filter these out, look for confirmation signals:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Подтвердите прорыв: </span><span data-i18n-slot=\"1\">Вместо того, чтобы прыгать на первом клеща за пределы диапазона, разумно подтвердить, что прорыв реален. В условиях низкой ликвидности ложные прорывы (или «подделки») могут произойти, когда цена проскакивает мимо уровня, но возвращается в диапазон. Чтобы отфильтровать их, ищите сигналы подтверждения:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t752ae4cb882eabed",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Monitor and Adjust: </span>Breakout trading isn’t a “set and forget” strategy, especially not in fast conditions. Keep a close eye on price behavior after your entry. If the breakout shows signs of stalling or reversing (e.g. a sudden large opposite candle on high volume), you might choose to close early. Conversely, if the move is strong and fundamentals support it (e.g. news came that justifies a new trend), you might extend your profit target or trail your stop more loosely to catch a bigger move. </span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Мониторинг и настройка: </span>Торговля прорывом не является стратегией «установить и забыть», особенно в быстрых условиях. Следите за ценовым поведением после входа. Если прорыв показывает признаки остановки или разворота (например, внезапная большая противоположная свеча на большом объеме), вы можете закрыться рано. И наоборот, если движение является сильным и его поддерживают фундаментальные факторы (например, появились новости, которые оправдывают новую тенденцию), вы можете расширить свою цель по прибыли или более свободно следовать своей остановке, чтобы поймать больший шаг. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t97c09eb51cfcc76b",
+      "english": "By following a structured approach like the above, you treat breakout trading less like gambling on a random spike and more like a systematic strategy with defined entry and exit rules. Next, we’ll discuss how using an advanced real-time forex trading platform can enhance your ability to execute this strategy effectively (and how to ensure your platform isn’t holding you back).",
+      "translation": "Следуя структурированному подходу, как описано выше, вы относитесь к прорывной торговле не столько как к азартным играм на случайном всплеске, сколько как к систематической стратегии с определенными правилами входа и выхода. Далее мы обсудим, как использование продвинутой торговой платформы в режиме реального времени может повысить вашу способность эффективно выполнять эту стратегию (и как убедиться, что ваша платформа не сдерживает вас).",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t98d9d9a4ec496768",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Bollinger Bands: </span>When bands pinch together during a low-vol period, it signals a volatility compression. A subsequent sudden widening of the bands often accompanies a breakout move. Traders might use a Bollinger Band squeeze as an early warning that “something’s about to happen.”</span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Полосы Боллинджера: </span>когда полосы сближаются в период низкой волатильности, это указывает на её сжатие. Последующее резкое расширение полос часто сопровождает пробой. Трейдеры могут использовать сжатие полос Боллинджера как раннее предупреждение о том, что «скоро что-то произойдёт».</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "tf375cc97e618ac49",
+      "english": "<span data-i18n-slot=\"0\">Lightning-Fast Execution: </span>When a breakout hits, every millisecond counts. You need your orders executed instantly at the price you expect. A platform with a high-performance trading engine and servers located in major financial hubs (e.g. London, New York data centers) will reduce latency. Fast execution with minimal slippage ensures that if you click buy on a 1.3000 breakout, you actually get something like 1.3000 and not 1.3010. Some leading platforms even boast execution speeds of a few milliseconds and have policies to minimize slippage and rejections even during volatile spikes. The result: you capture more of the breakout move instead of losing profit to delays or price jumps.",
+      "translation": "<span data-i18n-slot=\"0\">Молниеносное исполнение: </span>при пробое важна каждая миллисекунда. Вам нужно мгновенное исполнение ордеров по ожидаемой цене. Платформа с производительным торговым движком и серверами в крупных финансовых центрах, например в дата-центрах Лондона и Нью-Йорка, снижает задержки. Быстрое исполнение с минимальным проскальзыванием обеспечивает при покупке на пробое 1.3000 цену около 1.3000, а не 1.3010. Некоторые ведущие платформы заявляют исполнение за несколько миллисекунд и используют правила для снижения проскальзывания и отклонений даже во время резких всплесков волатильности. В итоге вы захватываете большую часть движения пробоя, а не теряете прибыль из-за задержек и ценовых скачков.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t226cab65566ed4d3",
+      "english": "<span data-i18n-slot=\"0\">Tight Spreads and Low Fees: </span><span data-i18n-slot=\"1\">Breakout profits can evaporate if the cost of trading is too high. Many well-known brokers advertise super tight spreads, but what matters is that those spreads stay low even when liquidity is low. Be sure to choose a broker/platform known for ultra-low, stable spreads and no excessive commissions. For instance, if your platform typically has a 0.2 pip spread on EUR/USD during peak hours, it should ideally remain reasonably tight (maybe 0.5–1 pip) during quieter times too. Some lesser platforms widen their spreads considerably in off hours or charge hidden fees that eat into your gains. A competitive platform will highlight its consistently low spreads (often as low as 0.0-something pips on major pairs) and transparent fee structure. </span>",
+      "translation": "<span data-i18n-slot=\"0\">Узкие спреды и низкие комиссии: </span><span data-i18n-slot=\"1\">прибыль от пробоев может исчезнуть при слишком высоких торговых издержках. Многие известные брокеры рекламируют очень узкие спреды, но важно, чтобы они оставались низкими и при низкой ликвидности. Выбирайте брокера или платформу, известных крайне низкими стабильными спредами и отсутствием чрезмерных комиссий. Например, если обычный спред EUR/USD в активные часы равен 0.2 пипса, желательно, чтобы и в спокойные часы он оставался достаточно узким, например 0.5–1 пипс. Некоторые менее качественные платформы сильно расширяют спреды в неактивные часы или взимают скрытые комиссии, уменьшающие прибыль. Конкурентоспособная платформа подчёркивает стабильно низкие спреды, нередко от 0.0 с небольшим пипса на основных парах, и прозрачную структуру комиссий.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "tfbea15962cb63e5a",
+      "english": "This transparency is crucial – you want to know that when you do catch a 30-pip breakout, virtually that entire 30 pips is yours, not minus a big chunk of costs.",
+      "translation": "Эта прозрачность имеет решающее значение - вы хотите знать, что, когда вы ловите прорыв в 30 пунктов, фактически все 30 пунктов являются вашими, а не минус большой кусок затрат.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t3f30aa41b38d58a3",
+      "english": "<span data-i18n-slot=\"0\">Regulatory Environment: </span>We touched on this earlier but to reiterate: Dubai is a forex-friendly environment with robust regulation (DFSA, etc.) and a culture of finance. It’s not uncommon to find semi-professional trading communities and prop firms in Dubai. Traders here are often well-capitalized and demand high standards from brokers. If you’re in Dubai, you likely insist on DFSA regulation or at least feel more secure with a broker that has it. Fortunately, many international brokers have a presence or licenses in the UAE. This means you have access to top-tier platforms and can trade comfortably.",
+      "translation": "<span data-i18n-slot=\"0\">Регуляторная среда: </span>мы уже затрагивали это, но повторим: Дубай благоприятен для форекс благодаря строгому регулированию, включая DFSA, и финансовой культуре. Здесь не редкость полупрофессиональные торговые сообщества и проприетарные торговые компании. Трейдеры часто располагают значительным капиталом и требуют от брокеров высоких стандартов. Если вы в Дубае, вы, вероятно, настаиваете на регулировании DFSA или хотя бы чувствуете себя увереннее с таким брокером. К счастью, многие международные брокеры представлены в ОАЭ или имеют местные лицензии. Это даёт доступ к платформам высокого уровня и возможность торговать с комфортом.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t6fb41ec7006bdd17",
+      "english": "<span data-i18n-slot=\"0\">UpForex offers </span><span data-i18n-slot=\"1\">EUR/USD spreads from 0.1 pips</span><span data-i18n-slot=\"2\"> with </span><span data-i18n-slot=\"3\">zero commissions</span><span data-i18n-slot=\"4\">, meaning the spread you see is the only fee you pay—no hidden markups or overnight financing surprises . This transparent pricing ensures every pip works toward your bottom line, whether you’re trading majors, minors, or exotic pairs.</span>",
+      "translation": "<span data-i18n-slot=\"0\">UpForex предлагает </span><span data-i18n-slot=\"1\">спреды EUR/USD от 0.1 пипса</span><span data-i18n-slot=\"2\"> с </span><span data-i18n-slot=\"3\">нулевыми комиссиями</span><span data-i18n-slot=\"4\">: видимый спред — единственная плата, без скрытых наценок и неожиданных расходов на финансирование за перенос позиции. Такое прозрачное ценообразование позволяет каждому пипсу работать на ваш финансовый результат независимо от торговли основными, второстепенными или экзотическими парами.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t3382bdc8e4a4f118",
+      "english": "<span data-i18n-slot=\"0\">EUR/USD Spread (Pips)</span>",
+      "translation": "<span data-i18n-slot=\"0\">Спред EUR/USD (пипсы)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t4272e5c17430bc55",
+      "english": "<span data-i18n-slot=\"0\">₹0 per trade</span>",
+      "translation": "<span data-i18n-slot=\"0\">₹0 за сделку</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t780d1f3383a894fd",
+      "english": "<span data-i18n-slot=\"0\">$0.05–$3.50 per lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">$0.05–$3.50 за лот</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t448e6ad17dc4cb01",
+      "english": "<span data-i18n-slot=\"0\">$3.5 per lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">3.5 доллара за лот</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "td035900cf12ce81c",
+      "english": "<span data-i18n-slot=\"0\">From </span><span data-i18n-slot=\"1\">0.0</span>",
+      "translation": "<span data-i18n-slot=\"0\">От </span><span data-i18n-slot=\"1\">0.0</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t0edbb6b511e4cb63",
+      "english": "<span data-i18n-slot=\"0\">$3.50 per lot round-turn</span>",
+      "translation": "<span data-i18n-slot=\"0\">$3.50 за полный оборот лота</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t8163ccdb8f7f1043",
+      "english": "<span data-i18n-slot=\"0\">Ultra-Tight Majors</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> EUR/USD from </span><span data-i18n-slot=\"4\">0.1 pips</span><span data-i18n-slot=\"5\">, matching raw-spread specialists without commissions .</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Крайне узкие спреды основных пар</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">: EUR/USD от </span><span data-i18n-slot=\"4\">0.1 пипса</span><span data-i18n-slot=\"5\">, на уровне специалистов по необработанным спредам, но без комиссий.</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t86fba9ede438c9f7",
+      "english": "<span data-i18n-slot=\"0\">Zero Commissions</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> The spread is your only cost—no per-lot fees or hidden charges.</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Нулевые комиссии</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">: спред — единственная издержка, без платы за лот и скрытых сборов.</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t09ea13dab62a5dbc",
+      "english": "<span data-i18n-slot=\"0\">Transparent Pricing</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> All spreads displayed in real time; no tiered markups or unpredictable fees.</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Прозрачное ценообразование</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">: все спреды отображаются в реальном времени, без многоуровневых наценок и непредсказуемых комиссий.</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "tfb8616b7f66f865b",
+      "english": "<span data-i18n-slot=\"0\">24/7 Chat Support</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Instant help—no phone queues or language barriers.</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Поддержка в чате 24/7</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">: мгновенная помощь без телефонных очередей и языковых барьеров.</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t51388f6bf904acbd",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Demo vs. Live: A Quick Comparison</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Демо и реальная торговля: краткое сравнение</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t780e92f87a232728",
+      "english": "<span data-i18n-slot=\"0\">Live Trading</span>",
+      "translation": "<span data-i18n-slot=\"0\">Реальная торговля</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t68a98c6b5a69808f",
+      "english": "<span data-i18n-slot=\"0\">₹0 real-money risk; learn by doing</span>",
+      "translation": "<span data-i18n-slot=\"0\">₹0 риска реальных денег; учитесь на практике</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t85726f3e20e17e04",
+      "english": "<span data-i18n-slot=\"0\">Refine entries/exits on real charts</span>",
+      "translation": "<span data-i18n-slot=\"0\">Совершенствуйте входы и выходы на реальных графиках</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "tc63e802d9ceed1c1",
+      "english": "<span data-i18n-slot=\"0\">Fast-track order execution skills</span>",
+      "translation": "<span data-i18n-slot=\"0\">Навыки быстрого выполнения заказов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t2730ebcca84ebdfc",
+      "english": "<span data-i18n-slot=\"0\">Steeper learning curve costs pips</span>",
+      "translation": "<span data-i18n-slot=\"0\">Более сложное обучение обходится в пипсы</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "tb64ca840f5031ffa",
+      "english": "<span data-i18n-slot=\"0\">Move live with a proven plan</span>",
+      "translation": "<span data-i18n-slot=\"0\">Переходите к реальной торговле с проверенным планом</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t207c42bb0eee48f5",
+      "english": "<span data-i18n-slot=\"0\">Profitability Odds</span>",
+      "translation": "<span data-i18n-slot=\"0\">Шансы на прибыльность</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "tc181f4121e4ccd02",
+      "english": "<span data-i18n-slot=\"0\">Up to 40% of beginners blow accounts</span>",
+      "translation": "<span data-i18n-slot=\"0\">До 40% новичков полностью теряют средства на счёте</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "tc0650150b517e46a",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">How Forex Trading for Beginners Can Leverage UpForex’s Demo</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Как новичкам в торговле на форекс использовать демо-счёт UpForex</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t42819e544a73c07a",
+      "english": "<span data-i18n-slot=\"0\">Market, limit, stop, trailing—see exactly how each behaves under live conditions.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Рыночные, лимитные, стоп-ордера и следящие стопы: изучите поведение каждого в реальных условиях.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t549dcb5117b7e9eb",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Test Strategies on Real Charts</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Тестируйте стратегии на реальных графиках</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t092dcd6d5b5451cd",
+      "english": "<span data-i18n-slot=\"0\">Backtest patterns and indicators, then forward-test without risking your own funds.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Проверка шаблонов и индикаторов, затем форвард-тест без риска для собственных средств.  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t15c227e2990d7ec0",
+      "english": "<span data-i18n-slot=\"0\">Visit upforex.com</span>",
+      "translation": "<span data-i18n-slot=\"0\">Посетите upforex.com</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t5d65511566edea79",
+      "english": "<span data-i18n-slot=\"0\"> From your dashboard, hit </span><span data-i18n-slot=\"1\">Start Demo Trading</span><span data-i18n-slot=\"2\">. Choose </span><span data-i18n-slot=\"3\">Web Trader</span><span data-i18n-slot=\"4\"> or download </span><span data-i18n-slot=\"5\">MT5/4</span><span data-i18n-slot=\"6\"> and log in with your demo credentials.</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"></span><span data-i18n-slot=\"9\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\"> На панели управления нажмите «</span><span data-i18n-slot=\"1\">Начать демо-торговлю</span><span data-i18n-slot=\"2\">». Выберите </span><span data-i18n-slot=\"3\">Web Trader</span><span data-i18n-slot=\"4\"> или скачайте </span><span data-i18n-slot=\"5\">MT5/4</span><span data-i18n-slot=\"6\"> и войдите с данными своего демо-счёта.</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"></span><span data-i18n-slot=\"9\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t264fc2fee65d9ac6",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Customize &amp; Trade</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Настройка и торговля</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "tf723bb8c264e5bce",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Why Beginners Should Always Demo First</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Почему новичкам всегда следует начинать с демо-счёта</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t64816bc6190951d6",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Confidence Building</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Укрепление доверия</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t0f3620a9d486eac5",
+      "english": "<span data-i18n-slot=\"0\"> Aim for </span><span data-i18n-slot=\"1\">1–2 weeks</span><span data-i18n-slot=\"2\"> or </span><span data-i18n-slot=\"3\">15–30 demo trades</span><span data-i18n-slot=\"4\">, targeting small, consistent gains with ≤1% risk per trade.</span>",
+      "translation": "<span data-i18n-slot=\"0\"> Ориентируйтесь на </span><span data-i18n-slot=\"1\">1–2 недели</span><span data-i18n-slot=\"2\"> или </span><span data-i18n-slot=\"3\">15–30 демо-сделок</span><span data-i18n-slot=\"4\">, стремясь к небольшой стабильной прибыли при риске ≤1% на сделку.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "tbeb942c050eddca2",
+      "english": "<span data-i18n-slot=\"0\">Try Free Demo Now:</span><span data-i18n-slot=\"1\"> Unlock ₹10,000 virtual funds instantly.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Попробуйте бесплатный демо-счёт сейчас:</span><span data-i18n-slot=\"1\"> мгновенно получите ₹10,000 виртуальных средств.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "tb1fcaf4244565d88",
+      "english": "<span data-i18n-slot=\"0\">Avoid too much leverage:</span> While it might boost earnings, it can also boost losses. The majority of profitable traders employ moderate leverage levels.",
+      "translation": "<span data-i18n-slot=\"0\">Избегайте чрезмерного кредитного плеча:</span> оно может увеличить и прибыль, и убытки. Большинство прибыльных трейдеров используют умеренное плечо.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ]
+    },
+    {
+      "key": "t4ccc8d35ff1d7133",
+      "english": "The <span data-i18n-slot=\"0\">Nasdaq</span> Composite Index fell the most since March 2020, while the S&amp;P 500 and <span data-i18n-slot=\"1\">Dow Jones Industrial Average</span> saw their sharpest drops since June 2020, according to Google Finance. But what was the trigger? A reciprocal tariff announcement by President Donald Trump, once again shaking up global trade dynamics.",
+      "translation": "По данным Google Finance, индекс <span data-i18n-slot=\"0\">Nasdaq</span> Composite показал самое сильное падение с марта 2020 года, а S&amp;P 500 и <span data-i18n-slot=\"1\">Dow Jones Industrial Average</span> — с июня 2020 года. Что стало причиной? Объявление президентом Дональдом Трампом взаимных пошлин, вновь изменившее динамику мировой торговли.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "t98ad18f5697f5775",
+      "english": "<span data-i18n-slot=\"0\">The Tech Meltdown: Nvidia, Amazon, Apple tank</span>",
+      "translation": "<span data-i18n-slot=\"0\">Обвал технологического сектора: падают Nvidia, Amazon и Apple</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "t337c98b0017db262",
+      "english": "<span data-i18n-slot=\"0\">Footwear and apparel stocks take a hit</span>",
+      "translation": "<span data-i18n-slot=\"0\">Акции производителей обуви и одежды оказались под ударом</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "t9d32030ac2ad9b16",
+      "english": "<span data-i18n-slot=\"0\">Here's how these stocks fared following the tariff announcement:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Вот как эти акции развивались после объявления тарифа:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "t5a1fc13d269b9535",
+      "english": "Adidas (Global)",
+      "translation": "Adidas (в мире)",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "ta42b5ca2e01de5c4",
+      "english": "<span data-i18n-slot=\"0\">Tariffs rattle US dollar, other asset classes</span>",
+      "translation": "<span data-i18n-slot=\"0\">Тарифы бьют по доллару США и другим классам активов</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "t3844bf864075dab2",
+      "english": "The content is meant for education and general information purposes only. Investments in the securities market are subject to market risks, read all the related documents carefully before investing. Past performance is not indicative of future returns. The securities are quoted as an example and not as a recommendation. This in no way is to be construed as financial advice or a recommendation to invest in any specific stock or financial instrument. The Company strongly encourages its users/viewers to conduct their own research, and consult with a registered financial advisor before making any investment decisions. All disputes in relation to the content would not have access to an exchange investor redressal forum or arbitration mechanism. INDmoney Global (IFSC) Private Limited, Unit No. GA-02, Seat No. 1-4, Ground Floor, Pragya Accelerator Block-15 T, Road 11, Zone-1, Processing Area, GIFT SEZ, Gift City, Gandhinagar, Gujarat, India, 382355 IFSCA Broker-Dealer Registration No. IFSC/BD/2023-24/0016, IFSCA DP Reg No: IFSC/DP/2023-24/010.",
+      "translation": "Материал предназначен только для обучения и общего информирования. Инвестиции на рынке ценных бумаг подвержены рыночным рискам; внимательно прочитайте все связанные документы до инвестирования. Прошлые результаты не указывают на будущую доходность. Ценные бумаги приведены как пример, а не как рекомендация. Это ни в коем случае нельзя считать финансовой консультацией или рекомендацией инвестировать в конкретную акцию или финансовый инструмент. Компания настоятельно рекомендует пользователям и зрителям проводить собственные исследования и обращаться к зарегистрированному финансовому консультанту до принятия инвестиционных решений. Споры, связанные с содержанием, не имели бы доступа к биржевому форуму рассмотрения жалоб инвесторов или арбитражному механизму. INDmoney Global (IFSC) Private Limited, помещение № GA-02, место № 1-4, первый этаж, Pragya Accelerator Block-15 T, Road 11, Zone-1, зона обработки, GIFT SEZ, Gift City, Gandhinagar, Gujarat, Индия, 382355. Регистрационный номер брокера-дилера IFSCA: IFSC/BD/2023-24/0016; регистрационный номер депозитарного участника IFSCA: IFSC/DP/2023-24/010.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    }
+  ]
+}

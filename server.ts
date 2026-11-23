@@ -1,31 +1,36 @@
+import { publicBlogStore, PublicCmsError } from './server/public-blog-store';
 import 'zone.js/node';
 
+import { marketingCacheHeaders, securityHeaders, staticCacheHeaders } from './server/http-policy';
+import { precompressedAssets, sendCompressedHtml, sendCompressedPublicJson } from './server/content-compression';
+import { protectPublicEmailMarkup } from './server/email-obfuscation';
+import { legacySeoDestination, LEGACY_ACCOUNT_REDIRECTS } from './src/app/core/config/legacy-seo-redirects';
 import { APP_BASE_HREF } from '@angular/common';
-import { ngExpressEngine } from '@nguniversal/express-engine';
-import * as express from 'express';
+import { CommonEngine } from '@angular/ssr/node';
+import express from 'express';
 import { existsSync } from 'node:fs';
 import { join } from 'node:path';
-import { AppServerModule } from './src/main.server';
-import { createProxyMiddleware } from 'http-proxy-middleware';
-import { marketingCacheHeaders, securityHeaders, staticCacheHeaders } from './server/http-policy';
-import { INITIAL_SITE_LANGUAGE, languageFromPath } from './src/app/core/services/bundled-translation.loader';
+import bootstrap from './src/main.server';
+import { isLocalizedLanguagePath } from './src/app/core/config/localized-routes';
+import { SSR_I18N_AUDIT, SsrI18nAudit } from './src/app/core/services/ssr-i18n-audit';
+import { createPublicSitemapHandler } from './src/server/public-sitemap';
+import { canonicalBlogPath } from './src/app/core/config/blog-permalinks';
+import { REQUEST, RESPONSE } from './src/app/core/tokens/ssr-request.tokens';
+const LEGACY_PUBLIC_REDIRECTS: Readonly<Record<string, string>> = {
+  '/anti-monry-laundering': '/anti-money-laundering',
+  '/products/index-future': '/products/index-cfds',
+  '/products/energy-future': '/products/energy-cfds',
+};
 // The Express app is exported so that it can be used by serverless Functions.
-export function app(): express.Express {
+export function app(options: { onI18nAudit?: (audit: SsrI18nAudit) => void } = {}): express.Express {
   const server = express();
   server.disable('x-powered-by');
   server.use(securityHeaders);
   const distFolder = join(process.cwd(), 'dist/upforex_Frontend/browser');
-  const indexHtml = existsSync(join(distFolder, 'index.original.html'))
+  const indexHtml = join(distFolder, existsSync(join(distFolder, 'index.original.html'))
     ? 'index.original.html'
-    : 'index';
-
-  // Our Universal express-engine (found @ https://github.com/angular/universal/tree/main/modules/express-engine)
-  server.engine(
-    'html',
-    ngExpressEngine({
-      bootstrap: AppServerModule,
-    })
-  );
+    : 'index.html');
+  const engine = new CommonEngine({ allowedHosts: ['www.upforex.com'] });
 
   server.set('view engine', 'html');
   server.set('views', distFolder);
@@ -35,49 +40,56 @@ export function app(): express.Express {
     const requestPath =
       queryIndex === -1 ? req.url : req.url.slice(0, queryIndex);
     const query = queryIndex === -1 ? '' : req.url.slice(queryIndex);
-    const normalizedPath = requestPath.replace(/\/{2,}/g, '/');
+    let normalizedPath = requestPath.replace(/\/{2,}/g, '/');
+    const languagePrefix = normalizedPath.split('/')[1];
+
+    // Normalize every localized public URL, including inner pages, in one
+    // redirect. Encoded path segments and the complete query remain intact.
+    if (isLocalizedLanguagePath(languagePrefix)) {
+      normalizedPath = normalizedPath.replace(/\/+$/, '');
+    }
+    const locale = isLocalizedLanguagePath(languagePrefix) ? `/${languagePrefix}` : '';
+    const legacyPath = normalizedPath.slice(locale.length).replace(/\/+$/, '');
+    if (LEGACY_PUBLIC_REDIRECTS[legacyPath]) normalizedPath = locale + LEGACY_PUBLIC_REDIRECTS[legacyPath];
+    const replacement = legacySeoDestination(legacyPath);
+    if (replacement) normalizedPath = locale + replacement;
+    const canonicalBlog = canonicalBlogPath(legacyPath);
+    if (canonicalBlog !== legacyPath) normalizedPath = locale + canonicalBlog;
+    // Keep the existing account-registration flow; the target is a fixed URL.
+    if (Object.prototype.hasOwnProperty.call(LEGACY_ACCOUNT_REDIRECTS, legacyPath)) {
+      res.redirect(302, LEGACY_ACCOUNT_REDIRECTS[legacyPath]);
+      return;
+    }
 
     if (normalizedPath !== requestPath) {
       res.redirect(301, `${normalizedPath}${query}`);
       return;
     }
 
-    const correctedPath = normalizedPath
-      .replace(/\/anti-monry-laundering\/?$/, '/anti-money-laundering')
-      .replace(/\/blogs\/trump-tarrif\/?$/, '/blogs/trump-tariff');
-
-    if (correctedPath !== normalizedPath) {
-      res.redirect(301, `${correctedPath}${query}`);
-      return;
-    }
-
     next();
   });
 
-  server.get('/products/index-future', (req, res) => {
-    res.redirect(301, `/products/index-cfds${req.url.slice(req.path.length)}`);
-  });
-
-  server.get('/products/energy-future', (req, res) => {
-    res.redirect(301, `/products/energy-cfds${req.url.slice(req.path.length)}`);
+  // Public read gateway belongs to the frontend Node process; the locked CMS is unchanged.
+  const blogs = publicBlogStore();
+  server.use((req, _res, next) => { if (!/(?:^|\/)admin(?:\/|$)/.test(req.path)) blogs.refreshInBackground(); next(); });
+  server.get('/api/public-cms-status', (_req, res) => { const status = blogs.status(); res.setHeader('Cache-Control', 'private, no-store'); res.status(status.usable ? 200 : 503).json(status); });
+  server.get('/api/public/blogs*', async (req, res, next) => {
+    if (!/^\/api\/public\/blogs(?:\/|$)/.test(req.path)) return next();
+    res.setHeader('Cache-Control', 'private, no-store');
+    res.setHeader('Cloudflare-CDN-Cache-Control', 'no-store');
+    res.setHeader('X-Public-Cms-Fetched-At', blogs.status().fetchedAt || 'unavailable');
+    res.setHeader('X-Public-Cms-Stale', String(blogs.status().stale));
+    try {
+      const url = new URL(req.originalUrl, 'https://www.upforex.com');
+      await sendCompressedPublicJson(req, res, blogs.read(url.pathname.slice('/api/public/blogs'.length), url.searchParams));
+    } catch (e) { res.status(e instanceof PublicCmsError ? e.status : 503).json({ status: false, message: 'Unable to load public articles.', data: null }); }
   });
 
   // Example Express Rest API endpoints
   // server.get('/api/**', (req, res) => { });
   // Serve static files from /browser
 
-  server.use(
-    '/sitemap.xml',
-    createProxyMiddleware({
-      target: 'https://api.upforex.com',
-      changeOrigin: true,
-      secure: false,
-      pathRewrite: { '^/sitemap.xml': '/sitemap.xml' },
-      onProxyRes(proxyRes, req, res) {
-        res.setHeader('Content-Type', 'application/xml');
-      },
-    })
-  );
+  server.get('/sitemap.xml', createPublicSitemapHandler());
 
    // ===== Short links -> social pages =====
   const socialRedirects: Record<string, string> = {
@@ -91,6 +103,7 @@ export function app(): express.Express {
     server.get(path, (_req, res) => res.redirect(302, target));
   });
 
+  server.use(precompressedAssets(distFolder));
   server.get(
     '*.*',
     express.static(distFolder, {
@@ -99,22 +112,27 @@ export function app(): express.Express {
     })
   );
 
-  // All regular routes use the Universal engine
-  server.get('*', (req, res) => {
-    res.render(indexHtml, {
-      req,
+  // Bind SSR to the site's public origin, never an untrusted Host header.
+  server.get('*', (req, res, next) => {
+    engine.render({
+      bootstrap,
+      documentFilePath: indexHtml,
+      publicPath: distFolder,
+      url: `https://www.upforex.com${req.originalUrl}`,
       providers: [
         { provide: APP_BASE_HREF, useValue: req.baseUrl },
-        { provide: INITIAL_SITE_LANGUAGE, useValue: languageFromPath(req.path) || 'en' },
+        { provide: REQUEST, useValue: req },
+        { provide: RESPONSE, useValue: res },
+        ...(options.onI18nAudit ? [{ provide: SSR_I18N_AUDIT, useValue: options.onI18nAudit }] : []),
       ],
-    }, (error: Error | null, html: string) => {
-      if (error) {
-        console.error('Unable to render page:', error);
-        res.status(500).send('Unable to load this page. Please try again later.');
-        return;
-      }
+    }).then(async html => {
+      if (res.statusCode === 200) html = protectPublicEmailMarkup(html);
       marketingCacheHeaders(req, res, html);
-      res.send(html);
+      await sendCompressedHtml(req, res, html);
+    }).catch(error => {
+      console.error('Unable to render page:', error);
+      if (!res.headersSent) res.status(500).send('Unable to load this page. Please try again later.');
+      else next(error);
     });
   });
 
@@ -141,4 +159,6 @@ if (moduleFilename === __filename || moduleFilename.includes('iisnode')) {
   run();
 }
 
+export { publicBlogStore } from './server/public-blog-store';
 export * from './src/main.server';
+export { default } from './src/main.server';

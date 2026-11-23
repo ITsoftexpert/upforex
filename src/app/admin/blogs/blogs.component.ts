@@ -25,6 +25,7 @@ import { CategoriesService } from 'src/app/core/services/categories.service';
 import { AdminService } from 'src/app/core/services/admin.service';
 
 @Component({
+  standalone: false,
   selector: 'app-blogs',
   templateUrl: './blogs.component.html',
   styleUrls: ['./blogs.component.scss'],

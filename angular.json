@@ -101,10 +101,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "upforex_Frontend:build:production"
+              "buildTarget": "upforex_Frontend:build:production"
             },
             "development": {
-              "browserTarget": "upforex_Frontend:build:development"
+              "buildTarget": "upforex_Frontend:build:development"
             },
             "options": {
               "proxyConfig": "proxy.conf.json"
@@ -115,7 +115,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "upforex_Frontend:build"
+            "buildTarget": "upforex_Frontend:build"
           }
         },
         "test": {
@@ -160,21 +160,21 @@
           "defaultConfiguration": "production"
         },
         "serve-ssr": {
-          "builder": "@nguniversal/builders:ssr-dev-server",
+          "builder": "@angular-devkit/build-angular:ssr-dev-server",
           "configurations": {
             "development": {
-              "browserTarget": "upforex_Frontend:build:development",
-              "serverTarget": "upforex_Frontend:server:development"
+              "serverTarget": "upforex_Frontend:server:development",
+              "buildTarget": "upforex_Frontend:build:development"
             },
             "production": {
-              "browserTarget": "upforex_Frontend:build:production",
-              "serverTarget": "upforex_Frontend:server:production"
+              "serverTarget": "upforex_Frontend:server:production",
+              "buildTarget": "upforex_Frontend:build:production"
             }
           },
           "defaultConfiguration": "development"
         },
         "prerender": {
-          "builder": "@nguniversal/builders:prerender",
+          "builder": "@angular-devkit/build-angular:prerender",
           "options": {
             "routes": [
               "/"
@@ -182,12 +182,12 @@
           },
           "configurations": {
             "production": {
-              "browserTarget": "upforex_Frontend:build:production",
-              "serverTarget": "upforex_Frontend:server:production"
+              "serverTarget": "upforex_Frontend:server:production",
+              "buildTarget": "upforex_Frontend:build:production"
             },
             "development": {
-              "browserTarget": "upforex_Frontend:build:development",
-              "serverTarget": "upforex_Frontend:server:development"
+              "serverTarget": "upforex_Frontend:server:development",
+              "buildTarget": "upforex_Frontend:build:development"
             }
           },
           "defaultConfiguration": "development"

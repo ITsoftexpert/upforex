@@ -1,0 +1,41 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "terminologyReference": "https://www.metatrader5.com/zh/terminal/help/trading/general_concept",
+  "rows": [
+    {
+      "key": "tcec475a3cb2fa00f",
+      "english": "Market Order vs Limit Order vs Stop Order on MT5",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#title",
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#metaTitle",
+        "SSR:/blogs",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "MT5上的市价单、限价单与突破单比较"
+    },
+    {
+      "key": "tcab7e61d0f16e7bf",
+      "english": "Stop Order MT5",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#tag",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "MT5突破订单"
+    },
+    {
+      "key": "t88d6063df8533a9f",
+      "english": "STOP ORDER MT5",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#upperTag",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "MT5突破订单"
+    }
+  ]
+}

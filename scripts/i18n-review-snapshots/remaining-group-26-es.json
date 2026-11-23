@@ -1,0 +1,477 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t36a51d5252bb07d2",
+      "english": "<span data-i18n-slot=\"0\">Reassess the thesis, monitor spreads, avoid increasing size impulsively and close the trade when the original reason for holding it no longer applies.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reevaluar la tesis, monitorear los diferenciales, evitar aumentar el tamaño impulsivamente y cerrar la operación cuando la razón original para mantenerla ya no se aplique.</span>"
+    },
+    {
+      "key": "t1d59b4c06653da08",
+      "english": "<span data-i18n-slot=\"0\">Long vs Short: Positioning Ahead of Earnings</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Largo versus corto: posicionamiento por delante de las ganancias</span>"
+    },
+    {
+      "key": "tb735fad84cc47ae2",
+      "english": "<span data-i18n-slot=\"0\">Common Mistakes During Earnings Season</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Errores comunes durante la temporada de resultados</span>"
+    },
+    {
+      "key": "t45d4568cd33d3e8e",
+      "english": "<span data-i18n-slot=\"0\">Opening several correlated technology positions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Abrir varias posiciones correlacionadas del sector tecnológico</span>"
+    },
+    {
+      "key": "t78759000d5305d0a",
+      "english": "<span data-i18n-slot=\"0\">Chasing the first post-release move</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Persiguiendo el primer movimiento posterior al lanzamiento</span>"
+    },
+    {
+      "key": "t1736862469f07ffe",
+      "english": "<span data-i18n-slot=\"0\">Confirm the earnings date and release time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Confirma la fecha de ganancias y la hora de lanzamiento</span>"
+    },
+    {
+      "key": "t9568142f1b4e336f",
+      "english": "<span data-i18n-slot=\"0\">Check position size, margin and spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Compruebe el tamaño de la posición, el margen y el spread</span>"
+    },
+    {
+      "key": "t34ede92a8f527032",
+      "english": "<span data-i18n-slot=\"0\">Allow for a gap beyond the stop</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tenga en cuenta un posible gap más allá del stop</span>"
+    },
+    {
+      "key": "ta02a3618618349c0",
+      "english": "<span data-i18n-slot=\"0\">Apple vs Tesla vs Nvidia CFDs: Which Suits Your Trading Style?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">CFD de Apple, Tesla y Nvidia: ¿cuál se adapta a su estilo de negociación?</span>"
+    },
+    {
+      "key": "t9fc90db79e2866e5",
+      "english": "<span data-i18n-slot=\"0\">Trading Preference</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Preferencia comercial</span>"
+    },
+    {
+      "key": "tf214bc212342a3d1",
+      "english": "<span data-i18n-slot=\"0\">Main earnings focus</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Enfoque principal en ganancias</span>"
+    },
+    {
+      "key": "tfac8b432c9bc4fc4",
+      "english": "<span data-i18n-slot=\"0\">Deliveries, margins and outlook</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Entregas, márgenes y perspectivas</span>"
+    },
+    {
+      "key": "tdbc1eca7b6a8d2cb",
+      "english": "<span data-i18n-slot=\"0\">Can move sharply when guidance changes expectations</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Puede cambiar bruscamente cuando la guía cambia las expectativas</span>"
+    },
+    {
+      "key": "t844e54e33e804fe7",
+      "english": "<span data-i18n-slot=\"0\">Often highly reactive to sentiment</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A menudo muy reactivo al sentimiento</span>"
+    },
+    {
+      "key": "t7a2bc935adb0f645",
+      "english": "<span data-i18n-slot=\"0\">Can reprice rapidly around guidance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Puede cambiar rápidamente el precio según la orientación</span>"
+    },
+    {
+      "key": "t9ada600758f2b419",
+      "english": "<span data-i18n-slot=\"0\">Analytical focus</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Enfoque analítico</span>"
+    },
+    {
+      "key": "td138b19ac799e976",
+      "english": "<span data-i18n-slot=\"0\">Expectations may already be priced in</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Es posible que las expectativas ya estén descontadas</span>"
+    },
+    {
+      "key": "ta49463f5bf35eb97",
+      "english": "<span data-i18n-slot=\"0\">Rapid sentiment shifts</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Rápidos cambios de sentimiento</span>"
+    },
+    {
+      "key": "t17ddcd63b84c91df",
+      "english": "<span data-i18n-slot=\"0\">Can you trade Apple, Tesla or Nvidia stock CFDs during earnings season?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Puedes operar con CFD sobre acciones de Apple, Tesla o Nvidia durante la temporada de resultados?</span>"
+    },
+    {
+      "key": "t18f434717cd0018f",
+      "english": "<span data-i18n-slot=\"0\">Stock CFDs may be traded around earnings when the broker offers the instrument and the relevant market is open. Review the availability note in the introduction and confirm current contract hours before ordering.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los CFD sobre acciones se pueden negociar en torno a ganancias cuando el corredor ofrece el instrumento y el mercado relevante está abierto. Revise la nota de disponibilidad en la introducción y confirme el horario actual del contrato antes de realizar el pedido.</span>"
+    },
+    {
+      "key": "t742cc9e6f0cd7de2",
+      "english": "<span data-i18n-slot=\"0\">Is it riskier to trade stock CFDs around earnings reports?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Es más riesgoso operar con CFD sobre acciones en torno a informes de resultados?</span>"
+    },
+    {
+      "key": "t6eaa3472f5c0fb66",
+      "english": "<span data-i18n-slot=\"0\">Do you need more margin during earnings season?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Necesita más margen durante la temporada de resultados?</span>"
+    },
+    {
+      "key": "t3d0e496c37a89bc0",
+      "english": "<span data-i18n-slot=\"0\">Can you short a stock CFD if you expect bad earnings?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Puedes vender un CFD sobre acciones si esperas obtener malas ganancias?</span>"
+    },
+    {
+      "key": "tb1ac29c2740165d8",
+      "english": "<span data-i18n-slot=\"0\">What happens if the stock gaps overnight?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué sucede si la acción presenta un gap de un día para otro?</span>"
+    },
+    {
+      "key": "tff724521274feae1",
+      "english": "<span data-i18n-slot=\"0\">Is a stock CFD the same as owning shares?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Es lo mismo un CFD sobre acciones que poseer acciones?</span>"
+    },
+    {
+      "key": "tc383181c4a751f70",
+      "english": "<span data-i18n-slot=\"0\">Can UAE traders access US stock CFDs through UpForex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Pueden los operadores de los EAU acceder a CFD sobre acciones estadounidenses a través de UpForex?</span>"
+    },
+    {
+      "key": "t13a73fdcf916c830",
+      "english": "<span data-i18n-slot=\"0\">Eligible UAE traders may access offered instruments subject to platform availability, account terms and jurisdictional requirements. Review the availability note in the introduction before trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los comerciantes elegibles de los EAU pueden acceder a los instrumentos ofrecidos sujeto a la disponibilidad de la plataforma, los términos de la cuenta y los requisitos jurisdiccionales. Revise la nota de disponibilidad en la introducción antes de operar.</span>"
+    },
+    {
+      "key": "t7898f5f0650de714",
+      "english": "<span data-i18n-slot=\"0\">Earnings trading requires more than predicting a beat or miss. Traders must consider guidance, leverage, overnight gaps, spreads and execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Operar en torno a los resultados exige más que predecir si superarán o no las expectativas. Los operadores deben considerar las previsiones, el apalancamiento, los gaps de un día para otro, los spreads y la ejecución.</span>"
+    },
+    {
+      "key": "tb1512115fbbab43f",
+      "english": "<span data-i18n-slot=\"0\">Risk Disclaimer:</span><span data-i18n-slot=\"1\"> Trading CFDs involves significant risk and may not be suitable for everyone. Leverage magnifies gains and losses, and gaps may produce losses exceeding the amount planned or initially deposited. Past performance does not guarantee future results. Trade only with money you can afford to lose and review the full</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">risk disclosure</span></span><span data-i18n-slot=\"5\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Descargo de responsabilidad sobre riesgos:</span><span data-i18n-slot=\"1\"> Operar con CFD implica un riesgo significativo y puede no ser adecuado para todos. El apalancamiento magnifica las ganancias y pérdidas, y las brechas pueden producir pérdidas que exceden la cantidad planificada o depositada inicialmente. El rendimiento pasado no garantiza resultados futuros. Opere únicamente con dinero que pueda permitirse perder y revise la</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">divulgación de riesgos</span></span><span data-i18n-slot=\"5\"> completa.</span>"
+    },
+    {
+      "key": "t7eeb1df7a1a80edd",
+      "english": "<span data-i18n-slot=\"0\">What Is a Take-Profit Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es una orden de obtención de beneficios?</span>"
+    },
+    {
+      "key": "tf8aa2945317bb94b",
+      "english": "<span data-i18n-slot=\"0\">Stop-Loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Límite de pérdidas</span>"
+    },
+    {
+      "key": "t1abcde0da401837d",
+      "english": "<span data-i18n-slot=\"0\">Take-Profit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Toma de beneficios</span>"
+    },
+    {
+      "key": "ta4a0aa2ff0780a9d",
+      "english": "<span data-i18n-slot=\"0\">Secures the planned gain</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Asegura la ganancia planificada</span>"
+    },
+    {
+      "key": "t50768ff93899cf4d",
+      "english": "<span data-i18n-slot=\"0\">Triggers when price moves</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se activa cuando el precio se mueve</span>"
+    },
+    {
+      "key": "t252922de74aee9ea",
+      "english": "<span data-i18n-slot=\"0\">In favour of the position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A favor de la posición</span>"
+    },
+    {
+      "key": "t14d82f4ec2eac5b8",
+      "english": "<span data-i18n-slot=\"0\">Typical placement for a long trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ubicación típica para una operación larga</span>"
+    },
+    {
+      "key": "tee19583833e956e0",
+      "english": "<span data-i18n-slot=\"0\">Typical placement for a short trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ubicación típica para una operación corta</span>"
+    },
+    {
+      "key": "t36a84431c9a2fc7b",
+      "english": "<span data-i18n-slot=\"0\">Defines where the trade idea is invalid</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Define dónde la idea comercial no es válida</span>"
+    },
+    {
+      "key": "td496061af8acd10a",
+      "english": "<span data-i18n-slot=\"0\">Defines where the planned objective is reached</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Define dónde se alcanza el objetivo planificado</span>"
+    },
+    {
+      "key": "te0ad3b45879379cf",
+      "english": "<span data-i18n-slot=\"0\">Reduces the temptation to wait for a losing trade to recover</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reduce la tentación de esperar a que se recupere una operación perdedora</span>"
+    },
+    {
+      "key": "t8ca5e24bf5381527",
+      "english": "<span data-i18n-slot=\"0\">Execution limitation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Limitación de ejecución</span>"
+    },
+    {
+      "key": "tf9c49f35424a83c3",
+      "english": "<span data-i18n-slot=\"0\">A trailing stop-loss automatically moves a stop level in the trade’s favour while maintaining a selected distance from the current price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un stop loss dinámico mueve automáticamente un nivel de stop a favor de la operación mientras mantiene una distancia seleccionada del precio actual.</span>"
+    },
+    {
+      "key": "t409ec8e566bce757",
+      "english": "<span data-i18n-slot=\"0\">How Do Stop-Loss and Take-Profit Work Together?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo funcionan juntos Stop-Loss y Take-Profit?</span>"
+    },
+    {
+      "key": "tdb3d9735dc58055b",
+      "english": "<span data-i18n-slot=\"0\">Stop-loss and take-profit orders let a trader compare the amount at risk with the potential reward before placing the trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Las órdenes de limitación de pérdidas y toma de ganancias permiten al operador comparar el monto en riesgo con la recompensa potencial antes de realizar la operación.</span>"
+    },
+    {
+      "key": "t21448912a1c9c1f4",
+      "english": "<span data-i18n-slot=\"0\">Risk = 1.1000 − 1.0950 = 0.0050, or 50 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Riesgo = 1.1000 − 1.0950 = 0.0050, o 50 pips</span>"
+    },
+    {
+      "key": "tebbe4b6cbd4123cc",
+      "english": "<span data-i18n-slot=\"0\">Swing highs and swing lows</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Altos y mínimos de oscilación</span>"
+    },
+    {
+      "key": "t81b87d9f90b64baf",
+      "english": "<span data-i18n-slot=\"0\">Spread and possible slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Spread y posible deslizamiento</span>"
+    }
+  ]
+}

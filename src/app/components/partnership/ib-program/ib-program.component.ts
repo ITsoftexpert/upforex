@@ -1,21 +1,25 @@
 import { Component } from '@angular/core';
-import { data, howItWorks, whyUpForex } from './constant';
+import { TranslateService } from '@ngx-translate/core';
 import { Store } from 'src/app/Store/store';
 import { Router } from '@angular/router';
 
 @Component({
+  standalone: false,
   selector: 'app-ib-program',
   templateUrl: './ib-program.component.html',
   styleUrls: ['./ib-program.component.scss'],
 })
 export class IbProgramComponent {
-  data = data;
-  howItWorks = howItWorks;
-  whyUpForex = whyUpForex;
   s3URL!: string;
-  constructor(private store: Store, private router: Router) {
+  constructor(private store: Store, private router: Router, public translations: TranslateService) {
     this.s3URL = this.store.s3BaseUrl();
   }
+
+  get usesNativeTranslation(): boolean {
+    return this.translations.currentLang === 'en' || !!this.translations.translations[this.translations.currentLang]?.['COPY'];
+  }
+
+  get englishContent(): any { return this.translations.translations['en']?.['IB']; }
 
   openForm() {
     this.store.setContactUsData({

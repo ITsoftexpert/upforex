@@ -1,3 +1,8 @@
+Current release status: read LOCAL_RELEASE_STATUS.txt and
+OFFLINE_TRANSLATION_GUIDE.txt. Translation generation now defaults to local
+offline models, without an API key or billing account. The legacy widget
+examples below do not certify translated initial SSR HTML or full coverage.
+
 ## 🎉 HYBRID TRANSLATION SYSTEM - SUCCESSFULLY IMPLEMENTED! 
 
 ---

@@ -1,0 +1,1341 @@
+{
+  "language": "ru",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "te3e5d3b097be3dca",
+      "english": "Energy CFD trading in the UAE",
+      "translation": "Торговля CFD на энергоносители в ОАЭ",
+      "kind": "text",
+      "sources": [
+        "src/app/components/list.blogs/list.blogs.component.ts#anchor",
+        "SSR:/blogs"
+      ]
+    },
+    {
+      "key": "tff9be69dbf51f819",
+      "english": "<span data-i18n-slot=\"0\">Making charges and retail premiums.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Плата за изготовление и розничные наценки.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ]
+    },
+    {
+      "key": "t26d8da489ff6572a",
+      "english": "<span data-i18n-slot=\"0\">UPFOREX</span><span data-i18n-slot=\"1\"> provides access to precious metals CFD trading, including gold (XAU/USD), silver (XAG/USD), platinum (XPT/USD) and palladium.</span>",
+      "translation": "<span data-i18n-slot=\"0\">UPFOREX</span><span data-i18n-slot=\"1\"> предоставляет доступ к торговле CFD на драгоценные металлы, включая золото (XAU/USD), серебро (XAG/USD), платину (XPT/USD) и палладий.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ]
+    },
+    {
+      "key": "tf693ba3c4f2b7c92",
+      "english": "<span data-i18n-slot=\"0\">Visit</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UPFOREX</span></span><span data-i18n-slot=\"4\"> to explore its trading services and learn more about accessing global financial markets.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Посетите </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UPFOREX</span></span><span data-i18n-slot=\"4\">, чтобы ознакомиться с торговыми услугами и узнать больше о доступе к мировым финансовым рынкам.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ]
+    },
+    {
+      "key": "ta5787ba7fa11b90d",
+      "english": "<span data-i18n-slot=\"0\">Overnight swap or financing charges.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Свопы за перенос позиции на следующий день или плата за финансирование.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ]
+    },
+    {
+      "key": "t36bbbc9809fc83ce",
+      "english": "<span data-i18n-slot=\"0\">Deposit and withdrawal charges.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Сборы за внесение и снятие средств.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ]
+    },
+    {
+      "key": "t1981006ce3590780",
+      "english": "<span data-i18n-slot=\"0\">Inactivity fees, where applicable.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Плата за бездействие, где это применимо.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ]
+    },
+    {
+      "key": "tf1235e797124b7b3",
+      "english": "<span data-i18n-slot=\"0\">Additional commissions on specific instruments.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Дополнительные комиссии по отдельным финансовым инструментам.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ]
+    },
+    {
+      "key": "t10c58e44f5c679fa",
+      "english": "<span data-i18n-slot=\"0\">Is order placement and management straightforward?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Просто ли размещать ордера и управлять ими?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ]
+    },
+    {
+      "key": "t8c860b28ab2d8ec2",
+      "english": "<span data-i18n-slot=\"0\">$7 per round lot on eligible forex and metals trades</span>",
+      "translation": "<span data-i18n-slot=\"0\">$7 за полный оборот лота по соответствующим сделкам на форекс и с металлами</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ]
+    },
+    {
+      "key": "t63ac3db4be5f81ec",
+      "english": "<span data-i18n-slot=\"0\">What happens when account equity falls.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что происходит, когда средства счёта уменьшаются.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ]
+    },
+    {
+      "key": "t9cfab8976699ce27",
+      "english": "<span data-i18n-slot=\"0\">How stop-loss orders can help manage exposure.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как стоп-лосс ордера могут помочь управлять экспозицией.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ]
+    },
+    {
+      "key": "tff8e1d36d60869d8",
+      "english": "<span data-i18n-slot=\"0\">A common mistake among beginners is focusing too much on potential profits and not enough on possible losses.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Распространённая ошибка новичков — уделять слишком много внимания потенциальной прибыли и недостаточно возможным убыткам.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ]
+    },
+    {
+      "key": "tc3a3aa1fd1f3807d",
+      "english": "<span data-i18n-slot=\"0\">Visit </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">UPFOREX</span></span><span data-i18n-slot=\"3\"> to learn more about its forex trading services, MT5 access and published account conditions.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Посетите </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">UPFOREX</span></span><span data-i18n-slot=\"3\">, чтобы узнать больше об услугах торговли на форекс, доступе к MT5 и опубликованных условиях счетов.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ]
+    },
+    {
+      "key": "te0ee99243a97e0be",
+      "english": "<span data-i18n-slot=\"0\">No. Spreads are only one part of the overall trading cost. Traders should also consider commissions, overnight financing, currency conversion and other applicable charges before comparing providers.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Нет. Спреды являются лишь частью общей стоимости торговли. Трейдеры также должны учитывать комиссионные, финансирование за ночь, конвертацию валюты и другие применимые сборы, прежде чем сравнивать поставщиков.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ]
+    },
+    {
+      "key": "tb05f48f91156d95f",
+      "english": "<span data-i18n-slot=\"0\">1:20 leverage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Кредитное плечо 1:20</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "td74f08146712849a",
+      "english": "<span data-i18n-slot=\"0\">To understand leverage, it helps to look at a simple example.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Чтобы понять кредитное плечо, полезно рассмотреть простой пример.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "t044670d58325848d",
+      "english": "<span data-i18n-slot=\"0\">The calculation is:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Расчет составляет:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tbe44502f53e2853b",
+      "english": "<span data-i18n-slot=\"0\">Required Margin = Total Position Value ÷ Leverage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Требуемая маржа = общая стоимость позиции ÷ кредитное плечо</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "tff8013460be6eaa8",
+      "english": "<span data-i18n-slot=\"0\">What Is the Difference Between Leverage and Margin?</span>",
+      "translation": "<span data-i18n-slot=\"0\">В чем разница между левериджем и маржей?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "tf4b64ecd0ad2c513",
+      "english": "<span data-i18n-slot=\"0\">This represents the entire initial margin used in the example.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Это вся начальная маржа, использованная в примере.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "t15929aa864cbad54",
+      "english": "<span data-i18n-slot=\"0\">Equity:</span><span data-i18n-slot=\"1\"> Account balance adjusted for unrealised profits and losses.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства счёта:</span><span data-i18n-slot=\"1\"> Баланс счёта с учётом нереализованной прибыли и убытков.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "t2158546725d9808d",
+      "english": "<span data-i18n-slot=\"0\">Overnight financing or swap charges.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ночное финансирование или свопы.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "t9a616102533c67b4",
+      "english": "<span data-i18n-slot=\"0\">Before choosing a trading account, review its complete fee structure and understand how different charges apply.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Прежде чем выбрать торговый счет, просмотрите его полную структуру комиссии и поймите, как применяются различные сборы.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "tf1b60b8760918f01",
+      "english": "<span data-i18n-slot=\"0\">How Can Traders Manage Leverage-Related Risks?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как трейдеры могут управлять рисками, связанными с кредитным плечом?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "tf6d39a23e9061f8f",
+      "english": "<span data-i18n-slot=\"0\">3. Understand Stop-Loss Orders</span>",
+      "translation": "<span data-i18n-slot=\"0\">3. Разберитесь со стоп-лосс ордерами</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "t803e665539c09c9b",
+      "english": "<span data-i18n-slot=\"0\">5. Monitor Open Positions Regularly</span>",
+      "translation": "<span data-i18n-slot=\"0\">5 Регулярно отслеживайте открытые позиции</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "t474297a35607aaa5",
+      "english": "<span data-i18n-slot=\"0\">People interested in </span><span data-i18n-slot=\"1\">forex trading UAE</span><span data-i18n-slot=\"2\"> should understand that trading conditions can vary depending on the provider, financial instrument, account type, and applicable regulatory jurisdiction.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Тем, кто интересуется </span><span data-i18n-slot=\"1\">торговлей на форекс в ОАЭ</span><span data-i18n-slot=\"2\">, следует понимать, что торговые условия могут различаться в зависимости от поставщика услуг, финансового инструмента, типа счёта и применимой регулирующей юрисдикции.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "t7a7f6a2ea65f82b6",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">UPFOREX</span> provides access to online trading services and the MetaTrader 5 (MT5) platform, which offers tools for monitoring financial markets and managing trading positions.</span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">UPFOREX</span> предоставляет доступ к услугам онлайн-трейдинга и платформе MetaTrader 5 (MT5), предлагающей инструменты для наблюдения за финансовыми рынками и управления торговыми позициями.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "te195c75979654703",
+      "english": "<span data-i18n-slot=\"0\">Frequently Asked Questions About Leverage in Forex Trading</span>",
+      "translation": "<span data-i18n-slot=\"0\">Часто задаваемые вопросы о кредитном плече в торговле на форекс</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "t9e2f9b8e3955497c",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">UPFOREX</span>provides access to <span data-i18n-slot=\"2\">MetaTrader 5</span> and various financial instruments for eligible clients. Explore the available trading services, understand the account conditions, and learn more about the tools available to support your market analysis.</span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">UPFOREX</span> предоставляет доступ к <span data-i18n-slot=\"2\">MetaTrader 5</span> и различным финансовым инструментам для соответствующих требованиям клиентов. Ознакомьтесь с доступными торговыми услугами и условиями счетов и узнайте больше об инструментах для анализа рынка.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ]
+    },
+    {
+      "key": "t9455856035210b82",
+      "english": "<span data-i18n-slot=\"0\">For most currency pairs, one pip represents a movement in the fourth decimal place. For example, if EUR/USD moves from 1.1050 to 1.1051, that is generally a one-pip movement.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Для большинства валютных пар один пипс соответствует изменению четвёртого знака после запятой. Например, движение EUR/USD с 1.1050 до 1.1051 обычно составляет один пипс.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ]
+    },
+    {
+      "key": "t437f87b211db3622",
+      "english": "<span data-i18n-slot=\"0\">What Is a Spread?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое спред?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ]
+    },
+    {
+      "key": "t4c17faebd8f6fc69",
+      "english": "<span data-i18n-slot=\"0\">Are There Additional Trading Charges?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Существуют ли дополнительные торговые сборы?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ]
+    },
+    {
+      "key": "t6c8e2d71beb9d5e3",
+      "english": "<span data-i18n-slot=\"0\">Overnight financing or swap charges</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ночное финансирование или свопы</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ]
+    },
+    {
+      "key": "t0e5f1335c94f656b",
+      "english": "<span data-i18n-slot=\"0\">Currency conversion charges</span>",
+      "translation": "<span data-i18n-slot=\"0\">Плата за конвертацию валюты</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ]
+    },
+    {
+      "key": "t6db1c2104d41ac9a",
+      "english": "<span data-i18n-slot=\"0\">Multiple chart timeframes</span>",
+      "translation": "<span data-i18n-slot=\"0\">Различные таймфреймы графиков</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ]
+    },
+    {
+      "key": "t6c551441ca68f91d",
+      "english": "<span data-i18n-slot=\"0\">Different order types</span>",
+      "translation": "<span data-i18n-slot=\"0\">Различные типы ордеров</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ]
+    },
+    {
+      "key": "t16d82a7eec913a58",
+      "english": "<span data-i18n-slot=\"0\">For example, the Standard account uses a commission-free structure, while the Pro-ECN account has a separate commission for eligible forex and metal trades.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Например, на счёте Standard комиссия не взимается, а на счёте Pro-ECN предусмотрена отдельная комиссия по соответствующим сделкам с валютами и металлами.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ]
+    },
+    {
+      "key": "t1dba5558479ba98e",
+      "english": "<span data-i18n-slot=\"0\">This step is just as important as comparing <span data-i18n-slot=\"1\">account</span> features and trading costs.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Этот шаг так же важен, как сравнение характеристик <span data-i18n-slot=\"1\">счетов</span> и торговых издержек.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ]
+    },
+    {
+      "key": "te5288f340bbea422",
+      "english": "<span data-i18n-slot=\"0\">One common mistake among new traders is concentrating too much on potential returns and not enough on possible losses.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Одна из распространённых ошибок начинающих трейдеров — слишком сильно сосредоточиваться на потенциальной доходности и недостаточно на возможных убытках.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ]
+    },
+    {
+      "key": "te90bb38bad23b047",
+      "english": "<span data-i18n-slot=\"0\">Here are some points worth following:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Вот некоторые моменты, заслуживающие внимания:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ]
+    },
+    {
+      "key": "tb975406794edab69",
+      "english": "<span data-i18n-slot=\"0\">Visit <span data-i18n-slot=\"1\">UPFOREX</span> to explore its trading platform, account options and available services.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Посетите <span data-i18n-slot=\"1\">UPFOREX</span>, чтобы ознакомиться с торговой платформой, вариантами счетов и доступными услугами.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ]
+    },
+    {
+      "key": "tb61ee6ff32d6ac3d",
+      "english": "Are you looking into <span data-i18n-slot=\"0\">MetaTrader Singapore</span> tools? A demo account is a good first step. You can learn charts, orders, indicators and account tools. You can also see how a broker links to the software. But a demo has limits. A good demo result does not promise a good live result.",
+      "translation": "Изучаете инструменты <span data-i18n-slot=\"0\">MetaTrader в Сингапуре</span>? Демо-счёт — хороший первый шаг. Вы можете освоить графики, ордера, индикаторы и инструменты счёта, а также увидеть, как брокер подключается к программному обеспечению. Но у демо-счёта есть ограничения. Хороший результат на демо-счёте не гарантирует хорошего результата при реальной торговле.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ]
+    },
+    {
+      "key": "t83d5a688e4bdee34",
+      "english": "Change chart timeframes",
+      "translation": "Менять таймфреймы графика",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ]
+    },
+    {
+      "key": "tee71afad63de74a7",
+      "english": "Adjust display settings",
+      "translation": "Настройка настроек дисплея",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ]
+    },
+    {
+      "key": "t1eebbb32e4fdb274",
+      "english": "<span data-i18n-slot=\"0\">Do not add many indicators at once. Learn what each one shows. Learn where it fails. Keep notes on what you see. Notes help you build a steady method. They keep you from guessing.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Не добавляйте сразу несколько показателей. Узнайте, что показывает каждый из них. Узнай, где он провалился. Ведите записи о том, что вы видите. Заметки помогут вам построить устойчивый метод. Они мешают вам гадать.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ]
+    },
+    {
+      "key": "t6e768b8dd06ca5fd",
+      "english": "Keep a Trading Journal",
+      "translation": "Держите торговый журнал",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ]
+    },
+    {
+      "key": "t703a3cfb93537855",
+      "english": "The pair and timeframe",
+      "translation": "Пара и временные рамки",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ]
+    },
+    {
+      "key": "tcec0dbcb92ed376d",
+      "english": "Why you took or skipped the trade",
+      "translation": "Почему вы взяли или пропустили сделку",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ]
+    },
+    {
+      "key": "t4efdc188ac61636c",
+      "english": "<span data-i18n-slot=\"0\">2. Is MT4 or MT5 better for beginners learning forex?</span>",
+      "translation": "<span data-i18n-slot=\"0\">2. Что лучше для новичков, изучающих форекс: MT4 или MT5?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ]
+    },
+    {
+      "key": "t1c953411728e6443",
+      "english": "Set practice stop-loss and take-profit orders. Work out position sizes. Learn how leverage works. Test your rules in different markets. These steps show you the risks before you go live.",
+      "translation": "Тренируйтесь устанавливать стоп-лосс и тейк-профит ордера. Рассчитывайте размеры позиций. Изучите работу кредитного плеча. Проверяйте свои правила в разных рыночных условиях. Эти шаги помогают увидеть риски до перехода к реальной торговле.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ]
+    },
+    {
+      "key": "tde426230cb7e8d12",
+      "english": "Volatile Markets",
+      "translation": "Нестабильные рынки",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ]
+    },
+    {
+      "key": "t3a6f908be322403f",
+      "english": "Start with a clear purpose. Decide:",
+      "translation": "Начните с четкой цели. Решите:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ]
+    },
+    {
+      "key": "t6c73617e799bdae4",
+      "english": "What must happen before you consider a trade",
+      "translation": "Что должно произойти, прежде чем рассматривать сделку",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ]
+    },
+    {
+      "key": "t2aea40c578387ac1",
+      "english": "<span data-i18n-slot=\"0\">Don’t stack many indicators with no clear purpose. Pick a few tools that answer specific questions. One can show direction. Another can show volatility. Clear rules for reading them beat extra complexity.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Не добавляйте много индикаторов без чёткой цели. Выберите несколько инструментов, отвечающих на конкретные вопросы: один может показывать направление, другой — волатильность. Понятные правила их интерпретации лучше излишней сложности.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ]
+    },
+    {
+      "key": "t6e2c69ef7c5af9a1",
+      "english": "Jobs data",
+      "translation": "Данные о занятости",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ]
+    },
+    {
+      "key": "t4e48a0fbd154a417",
+      "english": "The most exposure you will accept",
+      "translation": "Максимальный объём риска, который вы готовы принять",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ]
+    },
+    {
+      "key": "tb24eaaf4e3c27194",
+      "english": "<span data-i18n-slot=\"0\">There is also an important terminology distinction. An “equity trading account” commonly means a brokerage account used to trade company shares. </span><span data-i18n-slot=\"1\">Equity in a trading account</span><span data-i18n-slot=\"2\"> means the live account value after the unrealized results of open forex or CFD positions are included.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Есть и важное терминологическое различие. «Счёт для торговли акциями» обычно означает брокерский счёт, используемый для торговли акциями компаний. </span><span data-i18n-slot=\"1\">Средства торгового счёта</span><span data-i18n-slot=\"2\"> означают его текущую стоимость с учётом нереализованных результатов открытых позиций на форекс или по CFD.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t03b769993d56b901",
+      "english": "<span data-i18n-slot=\"0\">Withdrawals</span>",
+      "translation": "<span data-i18n-slot=\"0\">Вывод средств</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t67f67fda5165997a",
+      "english": "<span data-i18n-slot=\"0\">Profit from closed trades</span>",
+      "translation": "<span data-i18n-slot=\"0\">Прибыль от закрытых сделок</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t8d09d97bee69f739",
+      "english": "<span data-i18n-slot=\"0\">Losses from closed trades</span>",
+      "translation": "<span data-i18n-slot=\"0\">Убытки от закрытых сделок</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t9a8d7dd579061aa7",
+      "english": "<span data-i18n-slot=\"0\">Financing or swap adjustments already applied</span>",
+      "translation": "<span data-i18n-slot=\"0\">Корректировки финансирования или свопов, которые уже применяются</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t2b64436cafafa594",
+      "english": "<span data-i18n-slot=\"0\">Equity = Balance + Net Floating P/L</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства = баланс + чистая плавающая прибыль/убыток</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "td185cb4858823f00",
+      "english": "<span data-i18n-slot=\"0\">Net floating P/L = +$300</span>",
+      "translation": "<span data-i18n-slot=\"0\">Чистый плавающий P/L = + $300</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t99c06958ed89b890",
+      "english": "<span data-i18n-slot=\"0\">If the same account instead has:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Если же счет имеет:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "ta1afb95e18b77b46",
+      "english": "<span data-i18n-slot=\"0\">Net floating P/L = -$300</span>",
+      "translation": "<span data-i18n-slot=\"0\">Чистая плавающая прибыль/убыток = -$300</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tff099535baf90d5b",
+      "english": "<span data-i18n-slot=\"0\">Floating loss becomes realized loss.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Плавающий убыток становится реализованным убытком.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t51ead4c2b559c83e",
+      "english": "<span data-i18n-slot=\"0\">What Is the Difference Between Account Balance and Account Equity?</span>",
+      "translation": "<span data-i18n-slot=\"0\">В чем разница между балансом счета и его собственным капиталом?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tc2c95a6dd071da21",
+      "english": "<span data-i18n-slot=\"0\">What It Measures</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что он измеряет</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ]
+    },
+    {
+      "key": "t8d5eb1cc93d77a72",
+      "english": "<span data-i18n-slot=\"0\">Changes When...</span>",
+      "translation": "<span data-i18n-slot=\"0\">Меняется, когда...</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t4d1139b404a76d6c",
+      "english": "<span data-i18n-slot=\"0\">Settled account value</span>",
+      "translation": "<span data-i18n-slot=\"0\">Стоимость счёта по завершённым расчётам</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tf9a07a91c6ee22b7",
+      "english": "<span data-i18n-slot=\"0\">Neither Balance nor floating P/L changes</span>",
+      "translation": "<span data-i18n-slot=\"0\">Не меняются ни баланс, ни плавающая прибыль/убыток</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t4781fbb4c348f008",
+      "english": "<span data-i18n-slot=\"0\">Equity: $4,600</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства: $4,600</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t95adb07aacdeb5b6",
+      "english": "<span data-i18n-slot=\"0\">How Floating P/L Changes Equity Worked Example</span>",
+      "translation": "<span data-i18n-slot=\"0\">Пример расчёта: как плавающая прибыль/убыток изменяет средства счёта</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tbfdec96c193d01d8",
+      "english": "<span data-i18n-slot=\"0\">Equity</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства счёта</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "te4143d823292ff32",
+      "english": "<span data-i18n-slot=\"0\">Equity becomes:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства составляют:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "td50c5f53b39d7d3f",
+      "english": "<span data-i18n-slot=\"0\">Balance still shows:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Баланс показывает:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "te49b9ddebd199f10",
+      "english": "<span data-i18n-slot=\"0\">Position B = -$450 floating loss</span>",
+      "translation": "<span data-i18n-slot=\"0\">Позиция B = -$450 плавающего убытка</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t3e3c6073c9d8f081",
+      "english": "<span data-i18n-slot=\"0\">Net floating P/L is:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Чистый плавающий P/L:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t81c4fdd946d68341",
+      "english": "<span data-i18n-slot=\"0\">Net Floating P/L</span>",
+      "translation": "<span data-i18n-slot=\"0\">Чистая плавающая прибыль/убыток</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "td8b1654eee2d4190",
+      "english": "<span data-i18n-slot=\"0\">Total Account Equity Value</span>",
+      "translation": "<span data-i18n-slot=\"0\">Общая величина средств счёта</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "ta4fdb113f6a0c0c9",
+      "english": "<span data-i18n-slot=\"0\">Balance:</span><span data-i18n-slot=\"1\"> settled account value</span>",
+      "translation": "<span data-i18n-slot=\"0\">Баланс:</span><span data-i18n-slot=\"1\"> расчетная стоимость счета</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tceb3193912420e43",
+      "english": "<span data-i18n-slot=\"0\">Equity:</span><span data-i18n-slot=\"1\"> current value including floating P/L</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства:</span><span data-i18n-slot=\"1\"> текущая стоимость с учётом плавающей прибыли/убытка</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t656fc8f0c3088076",
+      "english": "<span data-i18n-slot=\"0\">Margin Level:</span><span data-i18n-slot=\"1\"> the relationship between Equity and used Margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Уровень маржи:</span><span data-i18n-slot=\"1\"> соотношение средств счёта и использованной маржи</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "td9fab6b44f2543ac",
+      "english": "<span data-i18n-slot=\"0\">The important point for this article is that Equity responds to open-position results.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Для этой статьи важно, что средства счёта реагируют на результаты открытых позиций.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t8aecfd9997e48bc7",
+      "english": "<span data-i18n-slot=\"0\">Why Does Equity Matter?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Почему важны средства счёта?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t65aa504dd30126af",
+      "english": "<span data-i18n-slot=\"0\">Two traders might each see:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Два трейдера могут видеть каждый на своём счёте:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t1132905da2ad104b",
+      "english": "<span data-i18n-slot=\"0\">If Trader A has +$800 in net floating P/L:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Если у трейдера A + $800 в чистом плавающем P/L:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t00b9d7ba1a7f82f4",
+      "english": "<span data-i18n-slot=\"0\">Equity = $10,800</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства = $10,800</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tb73e7cc9ef198dc5",
+      "english": "<span data-i18n-slot=\"0\">Equity = $8,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства = $8,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t005ba70cc57e2e9e",
+      "english": "<span data-i18n-slot=\"0\">Read Floating P/L alongside Equity instead of looking only at Balance.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Рассматривайте плавающую прибыль/убыток вместе со средствами счёта, а не только баланс.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "te26f09de86a2999a",
+      "english": "<span data-i18n-slot=\"0\">What Are Common Misconceptions About Balance and Equity?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Какие распространённые заблуждения связаны с балансом и средствами счёта?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t4b15e57501092049",
+      "english": "<span data-i18n-slot=\"0\">Equity = $4,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства = $4,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "td34ba5f571423247",
+      "english": "<span data-i18n-slot=\"0\">Equity and an Equity Curve Are the Same Thing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства счёта и кривая средств — одно и то же</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "td82b0cde241eabf0",
+      "english": "<span data-i18n-slot=\"0\">They are different concepts. Account Equity is the account's value at a particular moment. An </span><span data-i18n-slot=\"1\">equity curve</span><span data-i18n-slot=\"2\"> is a chart showing how Equity has changed over a period of time. One is a live account figure; the other is a historical performance view.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Это разные понятия. Средства счёта — его стоимость в конкретный момент. </span><span data-i18n-slot=\"1\">Кривая средств</span><span data-i18n-slot=\"2\"> — график изменения этой стоимости за определённый период. Первое — текущий показатель счёта, второе — представление исторических результатов.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tc17ee933f5216bfb",
+      "english": "<span data-i18n-slot=\"0\">Equity Only Matters When It Is Very Low</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства счёта важны только при очень низком значении</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "te9c86caead07d878",
+      "english": "<span data-i18n-slot=\"0\">FAQs</span>",
+      "translation": "<span data-i18n-slot=\"0\">часто задаваемые вопросы</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-read-a-forex-quote",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ]
+    },
+    {
+      "key": "t5ea399380a7860f2",
+      "english": "<span data-i18n-slot=\"0\">What is account equity in trading?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что такое собственный капитал в торговле?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t1376f60dfaf1876b",
+      "english": "<span data-i18n-slot=\"0\">Account equity is the current value of a trading account after the floating profit or loss from open positions is included. If there are no open positions or other equity adjustments, Balance and Equity will normally be the same. When open trades move in profit or loss, Equity changes while Balance can remain fixed.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства счёта — текущая стоимость торгового счёта с учётом плавающей прибыли или убытка по открытым позициям. Если открытых позиций и других корректировок нет, баланс и средства обычно совпадают. Когда открытые сделки приносят прибыль или убыток, средства меняются, а баланс может оставаться неизменным.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "te976cb22a15c799e",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between account balance and account equity?</span>",
+      "translation": "<span data-i18n-slot=\"0\">В чем разница между балансом счета и его собственным капиталом?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "teaba2b1b28f8896d",
+      "english": "<span data-i18n-slot=\"0\">Why is my equity lower than my balance?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Почему мой капитал ниже моего баланса?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tc820453588a6c221",
+      "english": "<span data-i18n-slot=\"0\">Can equity be higher than account balance?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Может ли капитал быть выше баланса счета?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t490e54f7567488c1",
+      "english": "<span data-i18n-slot=\"0\">How is equity connected to margin level?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как капитал связан с уровнем маржи?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tdcb0627c03d1de10",
+      "english": "<span data-i18n-slot=\"0\">Is account equity the same as an equity curve?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Является ли собственный капитал таким же, как кривая собственного капитала?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tccd0954c46fd73e2",
+      "english": "<span data-i18n-slot=\"0\">No. Account Equity is the account's current value after open-position results are included. An equity curve is a chart that tracks changes in equity over time. The first is a live account figure, while the second is a historical performance view.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Нет. Средства счёта — текущая стоимость счёта с учётом результатов открытых позиций. Кривая средств — график, отражающий изменение этой стоимости во времени. Первое — текущий показатель счёта, второе — представление исторических результатов.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t21132d6ab47e28f2",
+      "english": "<span data-i18n-slot=\"0\">Lot Type</span>",
+      "translation": "<span data-i18n-slot=\"0\">Тип лота</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "te89e169beec55971",
+      "english": "<span data-i18n-slot=\"0\">Standard Lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">Стандартный лот</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t24dd358d812fa609",
+      "english": "<span data-i18n-slot=\"0\">Mini Lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">Мини-лот</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t816fa5c4c5aa79d0",
+      "english": "<span data-i18n-slot=\"0\">Micro Lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">Микро-лот</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t1abde346ff7a5f26",
+      "english": "<span data-i18n-slot=\"0\">Fine-grained sizing for smaller calculated exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Мелкие шаги изменения объёма для меньшего расчётного риска</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "tf062f06df94a61e3",
+      "english": "<span data-i18n-slot=\"0\">Very small position increments where the broker and instrument support them</span>",
+      "translation": "<span data-i18n-slot=\"0\">Очень небольшие приросты позиций, где брокер и инструмент поддерживают их.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t1a2930d51ffc9dbb",
+      "english": "<span data-i18n-slot=\"0\">Assume:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Предположим:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t757a33f8ff82a74a",
+      "english": "<span data-i18n-slot=\"0\">What's the Difference Between Lot Size and Leverage?</span>",
+      "translation": "<span data-i18n-slot=\"0\">В чем разница между размером лота и плечом?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t7b08e29c8f0ca8fe",
+      "english": "<span data-i18n-slot=\"0\">What It Controls</span>",
+      "translation": "<span data-i18n-slot=\"0\">Что он контролирует</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t9af2614163624f2f",
+      "english": "<span data-i18n-slot=\"0\">Lot Size</span>",
+      "translation": "<span data-i18n-slot=\"0\">Размер лота</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "tbb5bead8d4e78f54",
+      "english": "<span data-i18n-slot=\"0\">Position volume and exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Объем позиции и экспозиция</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "tb4ca930ed8525694",
+      "english": "<span data-i18n-slot=\"0\">Account funds allocated to support the leveraged position</span>",
+      "translation": "<span data-i18n-slot=\"0\">Средства счёта, выделенные для обеспечения позиции с кредитным плечом</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t2048da6d3c4bae1f",
+      "english": "<span data-i18n-slot=\"0\">Pip Value</span>",
+      "translation": "<span data-i18n-slot=\"0\">Стоимость пипса</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "ta1a4f02b8cda511f",
+      "english": "<span data-i18n-slot=\"0\">This is the key distinction in the lot size vs leverage question.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Это ключевое различие между размером лота и кредитным плечом.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "te6d60e283309c9e8",
+      "english": "<span data-i18n-slot=\"0\">The distinction becomes more important outside forex.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Различие становится более важным вне форекс.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t1f36d1c47c0adfac",
+      "english": "<span data-i18n-slot=\"0\">How Does Lot Size Affect Pip Value?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Как размер лота влияет на ценность пипа?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t3c7478ddd2733837",
+      "english": "<span data-i18n-slot=\"0\">Base-Currency Units</span>",
+      "translation": "<span data-i18n-slot=\"0\">Единицы базовой валюты</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "ta78fc0005860f4f6",
+      "english": "<span data-i18n-slot=\"0\">$10 per pip</span>",
+      "translation": "<span data-i18n-slot=\"0\">10 долларов за пип</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t5c3952929f87ec28",
+      "english": "<span data-i18n-slot=\"0\">$0.10 per pip</span>",
+      "translation": "<span data-i18n-slot=\"0\">$0.10 за пипс</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "t68178947f479400b",
+      "english": "<span data-i18n-slot=\"0\">0.001 Nano Lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.001 нанолота</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t2af62924546df088",
+      "english": "<span data-i18n-slot=\"0\">$0.01 per pip</span>",
+      "translation": "<span data-i18n-slot=\"0\">$0.01 за пипс</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t91aa5a8d21447561",
+      "english": "<span data-i18n-slot=\"0\">That is why a lot size and pip calculator normally uses the pair, account currency and position size together.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Поэтому калькулятор размера лота и стоимости пипса обычно учитывает вместе валютную пару, валюту счёта и размер позиции.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t2a531adf667e7589",
+      "english": "<span data-i18n-slot=\"0\">A lot size is not automatically a fixed dollar amount.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Размер не является автоматически фиксированной суммой в долларах.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "tdc918f699573ff63",
+      "english": "<span data-i18n-slot=\"0\">Instrument volatility:</span><span data-i18n-slot=\"1\"> Different instruments can move by very different amounts.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Волатильность инструментов:</span><span data-i18n-slot=\"1\"> Различные инструменты могут перемещаться на очень разные суммы.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    }
+  ]
+}

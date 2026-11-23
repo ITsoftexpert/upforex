@@ -7,6 +7,7 @@ import {
   PLATFORM_ID,
 } from '@angular/core';
 @Component({
+  standalone: false,
   selector: 'app-fibonacci-calculator',
   templateUrl: './fibonacci-calculator.component.html',
   styleUrls: ['./fibonacci-calculator.component.scss'],

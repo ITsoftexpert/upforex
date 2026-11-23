@@ -1,3 +1,4 @@
+import { NativeTranslationService } from 'src/app/core/services/native-translation.service';
 import { Component, OnInit } from '@angular/core';
 import { Meta, Title } from '@angular/platform-browser';
 import { Store } from 'src/app/Store/store';
@@ -5,6 +6,7 @@ import { Store } from 'src/app/Store/store';
 import { NgIconComponent } from '@ng-icons/core';
 
 @Component({
+  standalone: false,
   selector: 'app-singapore-forex',
   templateUrl: './singapore-forex.component.html',
   styleUrls: ['./singapore-forex.component.scss'],
@@ -168,6 +170,7 @@ export class SingaporeForexComponent implements OnInit {
   ];
 
   constructor(
+    private native: NativeTranslationService,
     private store: Store,
     private titleService: Title,
     private metaService: Meta
@@ -176,12 +179,12 @@ export class SingaporeForexComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.titleService.setTitle('Forex Trading in Singapore | UPFOREX MT5');
+    this.titleService.setTitle(this.native.translate('Forex Trading in Singapore | UPFOREX MT5'));
 
     this.metaService.updateTag({
       name: 'description',
       content:
-        'Explore online forex and CFD trading in Singapore through MT5. Compare UPFOREX deposits, spreads, commissions, markets, and platform features.',
+        this.native.translate('Explore online forex and CFD trading in Singapore through MT5. Compare UPFOREX deposits, spreads, commissions, markets, and platform features.'),
     });
   }
 }

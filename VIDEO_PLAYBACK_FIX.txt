@@ -1,0 +1,62 @@
+VIDEO PLAYBACK FIX - LOCAL MERGED PROJECT
+
+CONFIRMED CAUSES
+1. localhost:4000 was running an older in-memory SSR build. Its HTML referenced
+   runtime.3cf307e03a4bd802.js and main.88c3c2a1f4d29208.js, both returning 404.
+   Angular/video initialization did not start. That local server was replaced
+   with the rebuilt merged project; current browser scripts return HTTP 200.
+2. The current shared video's intrinsic height could exceed its clipped parent:
+   1060px inside a 280px container at the screenshot's desktop viewport.
+   The shared directive now sets display:block and height:100% in SSR and CSR.
+   Existing object-fit:contain shows the full frame inside the original container.
+
+SCOPE
+Only src/app/common/directives/deferred-video.directive.ts changed in production
+source relative to upforex-main-local-merged-speed-20261121.zip.
+1,707 production files compared; no new production files, dependency, template,
+English copy, translation catalog, route, metadata or SEO logic changes.
+Existing section height and lazy video loading remain. Video downloads when near
+the viewport, plays muted, pauses offscreen and resumes when scrolled back.
+No S3 file, API, Git remote or production environment was modified.
+
+VERIFICATION ON THE REBUILT PROJECT
+- npm run build:ssr: PASS. Full log: tmp/release-build-ssr.log.
+- 13 video browser cases: PASS. Desktop including 1900x520 with docked DevTools,
+  normal desktop, mobile, Hindi/Arabic homepages and all eight country pages.
+  Checks: no initial offscreen source, visible frame fits container, playback time
+  advances, no media error, offscreen pause and resume after returning.
+- 13 production browser regression checks: PASS (navigation, blogs, localization,
+  chat loader, font metrics and visibly advancing MP4/WebM playback).
+- Actual localhost:4000 preview: PASS, visible playback and pause/resume.
+- 99 initial SSR responses: PASS, all nine video pages in all eleven languages.
+  Includes 90 translated page bodies, HTML lang/dir, canonical, reciprocal/self
+  hreflang, approved/translated metadata, native-ready flags and deferred video.
+- Earlier full-site SEO/SSR and dependency checks keep their original timestamps.
+  They were not rerun for this scoped video sizing change. The affected pages
+  were rechecked above; source comparison proves content/SEO/catalogs unchanged.
+- Earlier speed measurements were not rerun for this sizing fix. The new browser
+  checks confirm video still does not download during initial offscreen loading.
+
+REPEAT THE FOCUSED CHECKS (FROM merged-upforex)
+node scripts/verify-video-playback.cjs --label=fixed
+node scripts/verify-security-browser.cjs
+node scripts/verify-video-ssr.cjs
+The last command expects the current local SSR preview on port 4000.
+
+REBUILD / START SAFELY (POWERSHELL)
+Stop the previous SSR process with Ctrl+C in its terminal before rebuilding.
+Set-Location -LiteralPath 'C:\Users\hp\Desktop\Itsoft\upforex1-main\upforex1-main\merged-upforex'
+npm.cmd run build:ssr
+npm.cmd run serve:ssr
+Open http://localhost:4000 and refresh with Ctrl+Shift+R.
+Do not start the separate original backup project by mistake.
+
+REPORTS
+tmp/video-fix/fixed.json
+tmp/video-fix/localhost-fixed.json
+tmp/video-fix/ssr.json
+tmp/video-fix/source-preservation.json
+tmp/security-remediation/browser-verification.json
+tmp/deployment-readiness.json
+
+Only the local project was changed. No push, Jenkins operation or live deployment.

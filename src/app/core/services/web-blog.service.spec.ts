@@ -3,6 +3,45 @@ import { HttpClientTestingModule, HttpTestingController } from '@angular/common/
 import { ToastrService } from 'ngx-toastr';
 import { WebBlogService } from './web-blog.service';
 
+describe('Existing CMS permalink requests', () => {
+  let service: WebBlogService;
+  let http: HttpTestingController;
+  beforeEach(() => {
+    TestBed.configureTestingModule({ imports: [HttpClientTestingModule], providers: [
+      { provide: ToastrService, useValue: jasmine.createSpyObj('toastr', ['error']) },
+    ] });
+    service = TestBed.inject(WebBlogService);
+    http = TestBed.inject(HttpTestingController);
+  });
+  afterEach(() => http.verify());
+
+  for (const id of ['what-is-a-forex-quote', '/what-is-a-forex-currency-pair', 'position-size: formula, lot & risk']) {
+    for (const recommended of [false, true]) {
+      it(`encodes the stored ID as one API segment (${id}, recommended=${recommended})`, () => {
+        let received = false;
+        const request = recommended ? service.getRecommended(id) : service.getBlogById(id);
+        request.subscribe(response => received = response.status);
+        const pending = http.expectOne('https://api.upforex.com/api/v1/blogs/web/' + encodeURIComponent(id) + (recommended ? '/recommended' : ''));
+        expect(pending.request.method).toBe('GET');
+        pending.flush({ status: true, message: '', data: {} });
+        expect(received).toBeTrue();
+      });
+    }
+  }
+  it('resolves clean public slugs to the unchanged stored CMS ID', () => {
+    service.getBlogById('what-is-a-forex-currency-pair').subscribe();
+    http.expectOne('https://api.upforex.com/api/v1/blogs/web/%2Fwhat-is-a-forex-currency-pair').flush({status:true,data:{},message:''});
+  });
+  it('publishes clean internal links without editing CMS objects or article copy', () => {
+    let result: any;
+    service.getAllBlogs({pageNum:1,pageLimit:10,search:''}).subscribe(response=>result=response);
+    const article={permaLink:'/what-is-a-forex-currency-pair',title:'Existing English title',content:'Existing English article'};
+    http.expectOne(request=>request.url.endsWith('/api/v1/blogs/web')).flush({status:true,data:[article],message:''});
+    expect(result.data[0]).toEqual({...article,permaLink:'what-is-a-forex-currency-pair'});
+    expect(article.permaLink).toBe('/what-is-a-forex-currency-pair');
+  });
+});
+
 describe('WebBlogService public copy', () => {
   let service: WebBlogService;
   let http: HttpTestingController;
@@ -76,5 +115,23 @@ describe('WebBlogService public copy', () => {
       message: 'Article not found',
       data: null,
     });
+  });
+});
+
+describe('Frontend-owned public CMS gateway', () => {
+  it('uses the frontend read gateway without changing the admin backend', async () => {
+    const { PUBLIC_BLOG_GATEWAY } = await import('./public-blog-gateway.token');
+    TestBed.configureTestingModule({ imports: [HttpClientTestingModule], providers: [
+      { provide: ToastrService, useValue: {error:()=>{}} },
+      { provide: PUBLIC_BLOG_GATEWAY, useValue: '/api/public/blogs' },
+    ] });
+    const service=TestBed.inject(WebBlogService),http=TestBed.inject(HttpTestingController);
+    service.getAllBlogs({pageNum:2,pageLimit:10,search:''}).subscribe();
+    const pending=http.expectOne(req=>req.url==='/api/public/blogs'&&req.params.get('pageNum')==='2');
+    expect(pending.request.params.has('view')).toBeFalse();
+    pending.flush({status:true,data:[],metaData:{totalPage:7,pageNum:2,pageLimit:10}});
+    service.getBlogById('what-is-a-forex-currency-pair').subscribe();
+    http.expectOne('/api/public/blogs/%2Fwhat-is-a-forex-currency-pair').flush({status:true,data:{}});
+    http.verify();
   });
 });

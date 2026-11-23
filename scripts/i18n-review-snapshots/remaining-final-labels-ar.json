@@ -1,0 +1,17 @@
+{
+  "language": "ar",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "teb2a2117a1166433",
+      "english": "<span data-i18n-slot=\"0\">During US standard time:</span><span data-i18n-slot=\"1\"> 6:30 p.m.–1:00 a.m. GST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">خلال التوقيت القياسي في الولايات المتحدة:</span><span data-i18n-slot=\"1\"> 6:30 مساءً–1:00 صباحًا بتوقيت الخليج القياسي</span>"
+    }
+  ]
+}

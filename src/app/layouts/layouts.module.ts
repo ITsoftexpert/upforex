@@ -10,6 +10,7 @@ import { DisclaimerComponent } from './disclaimer/disclaimer.component';
 import { SocialMenuComponent } from './social-menu/social-menu.component';
 import { AdminNavbarComponent } from './admin-navbar/admin-navbar.component';
 import { TranslateModule } from '@ngx-translate/core';
+import { CommonModules } from '../common/common.module';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,7 @@ import { TranslateModule } from '@ngx-translate/core';
     SocialMenuComponent,
     AdminNavbarComponent,
   ],
-  imports: [CommonModule, RouterModule, NgbDropdownModule, NgbCollapseModule, TranslateModule],
+  imports: [CommonModule, CommonModules, RouterModule, NgbDropdownModule, NgbCollapseModule, TranslateModule],
   exports: [AdminNavbarComponent, TranslateModule],
 })
 export class LayoutsModule {}

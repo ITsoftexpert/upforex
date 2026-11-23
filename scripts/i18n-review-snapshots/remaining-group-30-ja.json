@@ -1,0 +1,597 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t9c05db9f7f5a479d",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">過剰なレバレッジ</span>"
+    },
+    {
+      "key": "ta20a322b29b6c4c7",
+      "english": "<span data-i18n-slot=\"0\">Size is chosen without margin awareness</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証拠金を理解せずにポジションサイズを選ぶ</span>"
+    },
+    {
+      "key": "t0fcea632b1e98300",
+      "english": "<span data-i18n-slot=\"0\">Calculate loss and total exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">損失と総エクスポージャーの計算</span>"
+    },
+    {
+      "key": "t58a4ccc09b34d92a",
+      "english": "<span data-i18n-slot=\"0\">No stop-loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスなし</span>"
+    },
+    {
+      "key": "t3e5129140d119dce",
+      "english": "<span data-i18n-slot=\"0\">The trader avoids accepting a losing idea</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは負けるアイデアを受け入れることを避ける</span>"
+    },
+    {
+      "key": "t980c3520a0ff7c9e",
+      "english": "<span data-i18n-slot=\"0\">Set invalidation before entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">入力前に無効化を設定する</span>"
+    },
+    {
+      "key": "t0b2c9ca044625902",
+      "english": "<span data-i18n-slot=\"0\">Losses are chased immediately</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">損失をすぐに取り戻そうとする</span>"
+    },
+    {
+      "key": "t85ece72a1eeb4108",
+      "english": "<span data-i18n-slot=\"0\">Attention stays on price movement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">引き続き値動きに注目</span>"
+    },
+    {
+      "key": "te829b76ad34740a2",
+      "english": "<span data-i18n-slot=\"0\">Measure results after all costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">すべてのコストを考慮した上で結果を測定する</span>"
+    },
+    {
+      "key": "tf3107d57f67a6853",
+      "english": "<span data-i18n-slot=\"0\">The account must meet financial needs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アカウントは経済的ニーズを満たす必要があります</span>"
+    },
+    {
+      "key": "te2091fd61d61cec2",
+      "english": "<span data-i18n-slot=\"0\">Promotions replace proper comparison</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プロモーションは適切な比較に代わるものです</span>"
+    },
+    {
+      "key": "tf879de45b84b3e3d",
+      "english": "<span data-i18n-slot=\"0\">No journal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">日記なし</span>"
+    },
+    {
+      "key": "td900590c39f58648",
+      "english": "<span data-i18n-slot=\"0\">Record and review each trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">各取引を記録して確認する</span>"
+    },
+    {
+      "key": "tc73ea82409ede3ac",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">FAQs</span><span data-i18n-slot=\"2\"> </span></span><span data-i18n-slot=\"3\">What is the biggest mistake new forex traders make?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">よくある質問</span><span data-i18n-slot=\"2\"> </span></span><span data-i18n-slot=\"3\">初心者の外国為替トレーダーが犯す最大の間違いは何ですか?</span>"
+    },
+    {
+      "key": "teef59d6b69b3f577",
+      "english": "<span data-i18n-slot=\"0\">Is it normal to lose money as a beginner forex trader?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初心者のFXトレーダーが損失を被るのは普通のことでしょうか?</span>"
+    },
+    {
+      "key": "t6f201425edefb4f3",
+      "english": "<span data-i18n-slot=\"0\">Why do most new traders fail?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">なぜほとんどの初心者トレーダーは失敗するのでしょうか?</span>"
+    },
+    {
+      "key": "t43bbd01cc598fef6",
+      "english": "<span data-i18n-slot=\"0\">Common reasons include weak preparation, excessive leverage, inconsistent risk controls, unrealistic expectations, emotional trading, and failure to review results. New traders often focus on direction while ignoring position size, costs, and repeated losses.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一般的な理由には、準備不足、過剰なレバレッジ、一貫性のないリスク管理、非現実的な期待、感情的な取引、結果の確認の怠りが含まれます。新しいトレーダーは、ポジションのサイズ、コスト、繰り返しの損失を無視して、方向性に重点を置くことがよくあります。</span>"
+    },
+    {
+      "key": "t6da98b59e1215ffb",
+      "english": "<span data-i18n-slot=\"0\">Can choosing the wrong broker cause losses?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">間違ったブローカーを選択すると損失が発生する可能性がありますか?</span>"
+    },
+    {
+      "key": "t612180a8a0f1bf9e",
+      "english": "<span data-i18n-slot=\"0\">A broker cannot control market direction, but unsuitable costs, execution conditions, leverage terms, platform reliability, or poor support can affect results and risk management. Review the broker’s legal entity, disclosures, account specifications, and available protections before depositing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ブローカーは市場の方向性をコントロールすることはできませんが、不適切なコスト、約定条件、レバレッジ条件、プラットフォームの信頼性、または貧弱なサポートが結果やリスク管理に影響を与える可能性があります。入金する前に、ブローカーの法人、開示情報、アカウントの仕様、利用可能な保護を確認してください。</span>"
+    },
+    {
+      "key": "t4b18f3f13194e2cd",
+      "english": "<span data-i18n-slot=\"0\">Understand the EA, backtest it, run it on demo, and monitor it before considering live use.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">実際の使用を検討する前に、EA を理解し、バックテストし、デモで実行し、監視してください。</span>"
+    },
+    {
+      "key": "t48acb7271d0466c7",
+      "english": "<span data-i18n-slot=\"0\">Pending order types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">未決注文の種類</span>"
+    },
+    {
+      "key": "t933977c1d272b03f",
+      "english": "<span data-i18n-slot=\"0\">Local single-thread testing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローカルのシングルスレッドテスト</span>"
+    },
+    {
+      "key": "t1551aa1d7742ac7d",
+      "english": "<span data-i18n-slot=\"0\">Basic Depth of Market window with limited functionality for most retail accounts</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ほとんどの個人口座の機能が制限された基本的な板情報ウィンドウ</span>"
+    },
+    {
+      "key": "t6f7f770c15b3b586",
+      "english": "<span data-i18n-slot=\"0\">Documentation explaining its logic and settings</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">そのロジックと設定を説明するドキュメント</span>"
+    },
+    {
+      "key": "t64053258f9d94d94",
+      "english": "<span data-i18n-slot=\"0\">You should also review the broker’s available</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">account types</span></span><span data-i18n-slot=\"4\">. Spreads, commissions, lot limits, leverage, and available instruments can affect an automated strategy.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ブローカーが利用できる</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">アカウント タイプ</span></span><span data-i18n-slot=\"4\">も確認する必要があります。スプレッド、手数料、ロット制限、レバレッジ、利用可能な商品は、自動化された戦略に影響を与える可能性があります。</span>"
+    },
+    {
+      "key": "t6b2349ce8c6e61a2",
+      "english": "<span data-i18n-slot=\"0\">Drag the EA from Navigator onto the chart, or double-click it, to open its Properties window.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">EA をナビゲーターからチャート上にドラッグするか、ダブルクリックしてプロパティ ウィンドウを開きます。</span>"
+    },
+    {
+      "key": "t555e33af87d736bd",
+      "english": "<span data-i18n-slot=\"0\">Stop-loss and take-profit rules</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスとテイクプロフィットのルール</span>"
+    },
+    {
+      "key": "tfae50000a50d61c6",
+      "english": "<span data-i18n-slot=\"0\">Allowed trade direction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">許可された取引方向</span>"
+    },
+    {
+      "key": "tac3ffbe593fabd3d",
+      "english": "<span data-i18n-slot=\"0\">News or volatility filters</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ニュースまたはボラティリティフィルター</span>"
+    },
+    {
+      "key": "t4053c7c292283be0",
+      "english": "<span data-i18n-slot=\"0\">Open the Strategy Tester with </span><span data-i18n-slot=\"1\">Ctrl+R</span><span data-i18n-slot=\"2\"> and select the EA, symbol, timeframe, historical period, testing model, deposit, leverage, and inputs. The tester supports historical optimisation, multi-currency strategies, multiple processing threads, forward testing, and simulated delays.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">Ctrl+R</span><span data-i18n-slot=\"2\"> でストラテジー テスターを開き、EA、シンボル、タイムフレーム、履歴期間、テスト モデル、デポジット、レバレッジ、インプットを選択します。テスターは、履歴の最適化、複数通貨戦略、複数の処理スレッド、フォワード テスト、遅延のシミュレートをサポートします。</span>"
+    },
+    {
+      "key": "t017fe18524225ca9",
+      "english": "<span data-i18n-slot=\"0\">Next,</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">open a demo account</span></span><span data-i18n-slot=\"4\"> and observe the EA under live price movement. Demo execution may still differ from live conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次に、</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">デモ口座を開設</span></span><span data-i18n-slot=\"4\">し、ライブ価格の動きで EA を観察します。デモの実行は実際の状況とは異なる場合があります。</span>"
+    },
+    {
+      "key": "t98cf3881cdf8d7c3",
+      "english": "<span data-i18n-slot=\"0\">Trader watches the chart</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーはチャートを観察します</span>"
+    },
+    {
+      "key": "t7b02023a8e08799e",
+      "english": "<span data-i18n-slot=\"0\">EA monitors programmed conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">EAはプログラムされた条件を監視します</span>"
+    },
+    {
+      "key": "t48eb2e417a2a7fe5",
+      "english": "<span data-i18n-slot=\"0\">Trader enters and exits manually</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは手動でエントリーおよびエグジットします</span>"
+    },
+    {
+      "key": "ta2c15155970f8bd3",
+      "english": "<span data-i18n-slot=\"0\">Trader applies SL and TP by hand</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは手動で SL と TP を適用します</span>"
+    },
+    {
+      "key": "tf53cc1f7ee5779c9",
+      "english": "<span data-i18n-slot=\"0\">Ignoring setup requirements:</span><span data-i18n-slot=\"1\"> Check costs, symbol, timeframe, and permissions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">設定要件の無視:</span><span data-i18n-slot=\"1\">コスト、シンボル、期間、権限を確認してください。</span>"
+    },
+    {
+      "key": "t5303d3d0ad079bc2",
+      "english": "<span data-i18n-slot=\"0\">Spreads, commissions, and trade-size limits</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッド、手数料、取引サイズ制限</span>"
+    },
+    {
+      "key": "tf1351257c33638ff",
+      "english": "<span data-i18n-slot=\"0\">Stop-out and margin requirements</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップアウトとマージンの要件</span>"
+    },
+    {
+      "key": "t8608a8c671348c08",
+      "english": "<span data-i18n-slot=\"0\">A scalping EA may behave differently when spreads widen. Compare its requirements with published terms instead of choosing only by the MT5 logo.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スキャルピング EA は、スプレッドが拡大すると動作が異なる場合があります。 MT5 ロゴだけで選択するのではなく、その要件を公開されている条件と比較してください。</span>"
+    },
+    {
+      "key": "te103c5d35430493b",
+      "english": "<span data-i18n-slot=\"0\">UpForex’s forex and CFD page states that its platform supports Expert Advisors for automated strategies. Readers can review</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">brokers that support Expert Advisors for automated trading</span></span><span data-i18n-slot=\"4\"> and use the</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">best forex broker for MetaTrader 5</span></span><span data-i18n-slot=\"8\"> guide as a broker-selection checklist.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex の外国為替および CFD ページには、そのプラットフォームが自動戦略のエキスパートアドバイザーをサポートしていると記載されています。読者は</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">自動取引のエキスパートアドバイザーをサポートするブローカー</span></span><span data-i18n-slot=\"4\">を確認し、</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">MetaTrader 5 に最適な外国為替ブローカー</span></span><span data-i18n-slot=\"8\">ガイドをブローカー選択チェックリストとして使用できます。</span>"
+    },
+    {
+      "key": "t86a9f08ae7ec9a16",
+      "english": "<span data-i18n-slot=\"0\">Is it safe to use EAs as a beginner?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初心者がEAを使用しても安全ですか?</span>"
+    },
+    {
+      "key": "ta15f34ae884797f6",
+      "english": "<span data-i18n-slot=\"0\">A candlestick chart shows how an asset’s price moved during a selected period. Each candle records the </span><span data-i18n-slot=\"1\">open, high, low, and close</span><span data-i18n-slot=\"2\">. Its body shows the distance between the opening and closing prices, while the upper and lower wicks show the highest and lowest prices reached.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローソク足チャートは、選択した期間中に資産の価格がどのように変動したかを示します。各ローソク足は</span><span data-i18n-slot=\"1\">始値、高値、安値、終値</span><span data-i18n-slot=\"2\">を記録します。本体は始値と終値の間の距離を示し、上部と下部の芯は到達した最高値と最低値を示します。</span>"
+    },
+    {
+      "key": "t82006f6bc7821a9d",
+      "english": "<span data-i18n-slot=\"0\">Traders use candlestick patterns to study market sentiment. A long bullish candle can show strong buying pressure, while a long bearish candle may suggest seller control. Patterns such as the doji, hammer, shooting star, and engulfing candle can also reveal hesitation, rejection, or a possible reversal.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーはローソク足パターンで市場心理を分析します。長い陽線は強い買い圧力を、長い陰線は売り手の優位を示す場合があります。十字線、ハンマー、流れ星、包み足などのパターンは、迷い、価格の拒否、反転の可能性を示すこともあります。</span>"
+    },
+    {
+      "key": "t7f04a94385ed4a8f",
+      "english": "<span data-i18n-slot=\"0\">Learning all candlestick patterns is less important than understanding how candle structure, trend, support and resistance, and confirmation work together. No pattern predicts the market with certainty. Its meaning depends on the timeframe, volatility, market context, and what happens next.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">すべてのローソク足パターンを学ぶことは、ローソク足の構造、トレンド、サポートとレジスタンス、確認がどのように連携するかを理解することほど重要ではありません。市場を確実に予測するパターンはありません。その意味は、時間枠、ボラティリティ、市場の状況、次に何が起こるかによって異なります。</span>"
+    },
+    {
+      "key": "td2d1a07eb1f8c21e",
+      "english": "<span data-i18n-slot=\"0\">Quick Answer:</span><span data-i18n-slot=\"1\"> A candlestick shows a market’s open, high, low, and close during a selected time period. The candle body shows the open-to-close range, while the wicks show the highest and lowest prices. Traders study candlestick patterns such as the doji, hammer, engulfing candle, and morning star to assess buyer and seller behaviour, but every signal requires context, confirmation, and risk management.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">簡潔な回答：</span><span data-i18n-slot=\"1\">ローソク足は、選択した期間の市場の始値、高値、安値、終値を示します。実体は始値から終値までの範囲を、ヒゲは最高値と最安値を示します。トレーダーは十字線、ハンマー、包み足、明けの明星などのパターンから売買双方の行動を分析しますが、すべてのシグナルには背景の把握、確認、リスク管理が必要です。</span>"
+    },
+    {
+      "key": "t77db7d8eefe19c1c",
+      "english": "<span data-i18n-slot=\"0\">What Is a Candlestick Pattern?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローソク足パターンとは何ですか?</span>"
+    },
+    {
+      "key": "t761b24636974305f",
+      "english": "<span data-i18n-slot=\"0\">A candlestick pattern is a formation created by one or more candles. Traders study these formations to understand how buyers and sellers behaved during a market period.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローソク足パターンは、一 つまたは複数のローソクによって作成されるフォーメーションです。トレーダーはこれらの形成を研究して、市場期間中に買い手と売り手がどのように行動したかを理解します。</span>"
+    },
+    {
+      "key": "tf33c9bd8e90a3f8a",
+      "english": "<span data-i18n-slot=\"0\">Each candle contains:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">各キャンドルには次のものが含まれています。</span>"
+    },
+    {
+      "key": "t91d06e7747efa23f",
+      "english": "<span data-i18n-slot=\"0\">A bullish candle closes above its opening price and is commonly green or white. A bearish candle closes below its opening price and is commonly red or black. Colours vary by platform, so the relationship between the open, close, body, and wicks matters more than colour.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">強気のローソク足は始値を上回って終了し、通常は緑または白です。弱気のローソク足は始値を下回って終了し、通常は赤または黒です。色はプラットフォームによって異なるため、色よりもオープン、クローズ、ボディ、ウィックの関係が重要です。</span>"
+    },
+    {
+      "key": "t25857500ca88ace6",
+      "english": "<span data-i18n-slot=\"0\">Candlestick patterns describe probability and market psychology. They do not guarantee the next move.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローソク足のパターンは確率と市場心理を表します。次の行動を保証するものではありません。</span>"
+    },
+    {
+      "key": "t99c5a06ef503fe22",
+      "english": "<span data-i18n-slot=\"0\">How Do You Read a Candlestick Chart?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローソク足チャートはどうやって読むのですか?</span>"
+    },
+    {
+      "key": "t2e70ee260e78a152",
+      "english": "<span data-i18n-slot=\"0\">Start by identifying the timeframe because each candle represents a fixed period. Higher-timeframe patterns may reflect more market activity, while very short timeframes can contain more noise.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">各ローソク足は固定期間を表すため、まず時間枠を特定します。より長いタイムフレームのパターンはより多くの市場活動を反映する可能性がありますが、非常に短いタイムフレームにはより多くのノイズが含まれる可能性があります。</span>"
+    },
+    {
+      "key": "tddfee0f04987af06",
+      "english": "<span data-i18n-slot=\"0\">Next, read the body and wicks. A long bullish body suggests stronger buying pressure, while a long bearish body suggests stronger selling pressure. A small body can indicate hesitation. A long upper wick shows rejection of higher prices, while a long lower wick shows rejection of lower prices.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次に本体と芯を読みます。強気の実体が長い場合は買い圧力が強いことを示し、弱気の実体が長い場合は売り圧力が強いことを示します。小さな体はためらいを示している可能性があります。長い上芯は高価格の拒否を示し、長い下芯は低価格の拒否を示します。</span>"
+    },
+    {
+      "key": "t11e701738e84fdcd",
+      "english": "<span data-i18n-slot=\"0\">Then compare the candle with earlier price action and check the surrounding structure:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次に、ローソク足を以前の価格変動と比較し、周囲の構造を確認します。</span>"
+    },
+    {
+      "key": "t33831b53dc42ea2b",
+      "english": "<span data-i18n-slot=\"0\">Is the market trending or ranging?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市場はトレンドですか、それともレンジですか?</span>"
+    },
+    {
+      "key": "t4325bee3ae77b29b",
+      "english": "<span data-i18n-slot=\"0\">Single Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">単一のローソク足パターン</span>"
+    },
+    {
+      "key": "t8c524ec5ed0febb5",
+      "english": "<span data-i18n-slot=\"0\">Doji</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">十字線</span>"
+    },
+    {
+      "key": "t06dcfba470867da8",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">doji</span><span data-i18n-slot=\"2\"> forms when the opening and closing prices are equal or very close, creating a tiny body with possible upper and lower wicks. It represents indecision because neither buyers nor sellers maintained control by the close.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">十字線</span><span data-i18n-slot=\"2\">は、始値と終値が等しいか非常に近いときに形成され、非常に小さな実体と、場合によって上下のヒゲを持ちます。引けまでに買い手も売り手も主導権を維持できなかったため、迷いを表します。</span>"
+    },
+    {
+      "key": "td8cb4c72df7552ba",
+      "english": "<span data-i18n-slot=\"0\">After a strong trend, a doji may signal slowing momentum, but it does not confirm a reversal. Traders usually wait for the next candle or a break of market structure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">強いトレンドの後の十字線は、勢いの鈍化を示す可能性がありますが、反転を確定するものではありません。トレーダーは通常、次のローソク足か、市場構造のブレイクを待ちます。</span>"
+    }
+  ]
+}

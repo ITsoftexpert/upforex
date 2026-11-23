@@ -1,0 +1,28 @@
+{
+  "language": "hi",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "note": "The unchanged English CMS splits take-profit across two paragraphs. Translate both adjacent fragments together, preserving both original paragraph slots and the complete meaning.",
+  "rows": [
+    {
+      "key": "t01fab2f0f1dde1d4",
+      "english": "<span data-i18n-slot=\"0\">A stop-loss and take-profit are price-based exit instructions attached to an open position or pending order. A stop-loss is placed where the trade idea should be considered invalid. A take-pro</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">स्टॉप-लॉस और टेक-प्रॉफिट मूल्य आधारित निकास निर्देश हैं, जो किसी खुली पोज़िशन या पेंडिंग ऑर्डर से जुड़े होते हैं। स्टॉप-लॉस उस स्तर पर लगाया जाता है जहाँ ट्रेड का आधार अमान्य माना जाना चाहिए। टेक-प्रॉफिट</span>"
+    },
+    {
+      "key": "tfab800f6ddfc6944",
+      "english": "<span data-i18n-slot=\"0\">fit is placed where the trader plans to close a successful position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">उस स्तर पर लगाया जाता है जहाँ ट्रेडर लाभदायक पोज़िशन बंद करने की योजना बनाता है।</span>"
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "td574fa4b5bdc6b19",
+      "english": "<span data-i18n-slot=\"0\">7. Manage the Position After the Announcement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">7。公告后管理仓位</span>"
+    },
+    {
+      "key": "t36a51d5252bb07d2",
+      "english": "<span data-i18n-slot=\"0\">Reassess the thesis, monitor spreads, avoid increasing size impulsively and close the trade when the original reason for holding it no longer applies.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">重新评估论点，监控点差，避免冲动地增加交易规模，并在持有交易的最初原因不再适用时结束交易。</span>"
+    },
+    {
+      "key": "t1d59b4c06653da08",
+      "english": "<span data-i18n-slot=\"0\">Long vs Short: Positioning Ahead of Earnings</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多头与空头：财报公布前的持仓安排</span>"
+    },
+    {
+      "key": "t533a4b232e344ef7",
+      "english": "<span data-i18n-slot=\"0\">A long CFD position may be considered when a trader expects results or guidance to exceed what the market has priced in. A short position may be considered when expectations appear too optimistic.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">当交易者预计结果或指导超出市场定价时，可以考虑多头差价合约头寸。当预期过于乐观时，可以考虑空头头寸。</span>"
+    },
+    {
+      "key": "tb735fad84cc47ae2",
+      "english": "<span data-i18n-slot=\"0\">Common Mistakes During Earnings Season</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">财报季的常见错误</span>"
+    },
+    {
+      "key": "tb288d6812cd98f81",
+      "english": "<span data-i18n-slot=\"0\">Ignoring spread widening or low liquidity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">忽略点差扩大或流动性低</span>"
+    },
+    {
+      "key": "t45d4568cd33d3e8e",
+      "english": "<span data-i18n-slot=\"0\">Opening several correlated technology positions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">开立多个相互关联的科技股持仓</span>"
+    },
+    {
+      "key": "t78759000d5305d0a",
+      "english": "<span data-i18n-slot=\"0\">Chasing the first post-release move</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">追逐发布后的第一个动作</span>"
+    },
+    {
+      "key": "t63d7cf04db8d898e",
+      "english": "<span data-i18n-slot=\"0\">Identify the metrics likely to drive the reaction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">确定可能推动反应的指标</span>"
+    },
+    {
+      "key": "t9568142f1b4e336f",
+      "english": "<span data-i18n-slot=\"0\">Check position size, margin and spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">检查头寸规模、保证金和点差</span>"
+    },
+    {
+      "key": "tf7ea0d79ebb73ac7",
+      "english": "<span data-i18n-slot=\"0\">Set stop-loss and take-profit levels</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">设置止损和止盈水平</span>"
+    },
+    {
+      "key": "t34ede92a8f527032",
+      "english": "<span data-i18n-slot=\"0\">Allow for a gap beyond the stop</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">考虑跳空越过止损位的可能性</span>"
+    },
+    {
+      "key": "t68e951a5ddc8c2a5",
+      "english": "<span data-i18n-slot=\"0\">Review correlated exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">查看相关风险</span>"
+    },
+    {
+      "key": "t8d0adb6f8ca99b3f",
+      "english": "<span data-i18n-slot=\"0\">Decide whether staying flat is safer</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">判断保持空仓是否更安全</span>"
+    },
+    {
+      "key": "t29e747bec9b4abc6",
+      "english": "<span data-i18n-slot=\"0\">Define the post-announcement exit plan</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">定义公告后退出计划</span>"
+    },
+    {
+      "key": "ta02a3618618349c0",
+      "english": "<span data-i18n-slot=\"0\">Apple vs Tesla vs Nvidia CFDs: Which Suits Your Trading Style?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">苹果、特斯拉、英伟达差价合约：哪种适合您的交易风格？</span>"
+    },
+    {
+      "key": "tf3bb4be426a07214",
+      "english": "<span data-i18n-slot=\"0\">Apple CFD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">苹果差价合约</span>"
+    },
+    {
+      "key": "te9fbf56db090a6d3",
+      "english": "<span data-i18n-slot=\"0\">Tesla CFD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">特斯拉差价合约</span>"
+    },
+    {
+      "key": "teb5b6c898b6e3c41",
+      "english": "<span data-i18n-slot=\"0\">Nvidia CFD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">英伟达差价合约</span>"
+    },
+    {
+      "key": "tf214bc212342a3d1",
+      "english": "<span data-i18n-slot=\"0\">Main earnings focus</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要盈利焦点</span>"
+    },
+    {
+      "key": "tfac8b432c9bc4fc4",
+      "english": "<span data-i18n-slot=\"0\">Deliveries, margins and outlook</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交付、利润和前景</span>"
+    },
+    {
+      "key": "t86cff2bdc04a30e5",
+      "english": "<span data-i18n-slot=\"0\">Volatility character</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">波动性特征</span>"
+    },
+    {
+      "key": "tdbc1eca7b6a8d2cb",
+      "english": "<span data-i18n-slot=\"0\">Can move sharply when guidance changes expectations</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">当指导改变预期时可能会急剧变化</span>"
+    },
+    {
+      "key": "t844e54e33e804fe7",
+      "english": "<span data-i18n-slot=\"0\">Often highly reactive to sentiment</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常对情绪高度反应</span>"
+    },
+    {
+      "key": "t7a2bc935adb0f645",
+      "english": "<span data-i18n-slot=\"0\">Can reprice rapidly around guidance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可以围绕指导快速重新定价</span>"
+    },
+    {
+      "key": "t17985cd42b00e5c8",
+      "english": "<span data-i18n-slot=\"0\">Semiconductor demand, supply and margins</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">半导体需求、供应和利润</span>"
+    },
+    {
+      "key": "tb904cacbdb6302c9",
+      "english": "<span data-i18n-slot=\"0\">Key risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要风险</span>"
+    },
+    {
+      "key": "ta49463f5bf35eb97",
+      "english": "<span data-i18n-slot=\"0\">Rapid sentiment shifts</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">情绪快速转变</span>"
+    },
+    {
+      "key": "t17ddcd63b84c91df",
+      "english": "<span data-i18n-slot=\"0\">Can you trade Apple, Tesla or Nvidia stock CFDs during earnings season?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">您可以在财报季期间交易苹果、特斯拉或英伟达股票差价合约吗？</span>"
+    },
+    {
+      "key": "t18f434717cd0018f",
+      "english": "<span data-i18n-slot=\"0\">Stock CFDs may be traded around earnings when the broker offers the instrument and the relevant market is open. Review the availability note in the introduction and confirm current contract hours before ordering.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">当经纪商提供该工具并且相关市场开放时，股票差价合约可以围绕收益进行交易。订购前请查看简介中的可用性说明并确认当前合同时间。</span>"
+    },
+    {
+      "key": "t6c5b0d5ec4b94688",
+      "english": "<span data-i18n-slot=\"0\">Margin depends on the instrument, position size, account and broker rules. Providers may change requirements during unusual volatility, so check the current contract specification.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保证金取决于工具、头寸规模、账户和经纪商规则。提供商可能会在异常波动期间更改要求，因此请检查当前的合同规范。</span>"
+    },
+    {
+      "key": "t3d0e496c37a89bc0",
+      "english": "<span data-i18n-slot=\"0\">Can you short a stock CFD if you expect bad earnings?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果您预期收益不佳，可以做空股票差价合约吗？</span>"
+    },
+    {
+      "key": "t1bfdd1ecdbfaa722",
+      "english": "<span data-i18n-slot=\"0\">A stock CFD generally permits short positions, subject to availability and conditions. A positive surprise can cause a gap beyond the planned stop-loss.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">股票差价合约通常允许空头头寸，但须视供应情况和条件而定。积极的意外可能会导致超出计划止损的缺口。</span>"
+    },
+    {
+      "key": "t1257ec9ebe5b4374",
+      "english": "<span data-i18n-slot=\"0\">The CFD may reopen far above or below its previous level. A stop-loss can execute at the next available price, producing a larger-than-planned loss.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">差价合约重新开放可能会远高于或低于之前的水平。止损可以在下一个可用价格执行，从而产生大于计划的损失。</span>"
+    },
+    {
+      "key": "tff724521274feae1",
+      "english": "<span data-i18n-slot=\"0\">Is a stock CFD the same as owning shares?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">股票差价合约与拥有股票相同吗？</span>"
+    },
+    {
+      "key": "t363118afb828b393",
+      "english": "<span data-i18n-slot=\"0\">No. A CFD provides price exposure but no ownership, voting rights or direct shareholder rights. Cash adjustments may apply under the contract terms.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">没有。差价合约提供价格风险，但不提供所有权、投票权或直接股东权利。现金调整可能会根据合同条款进行。</span>"
+    },
+    {
+      "key": "tf7b01bb61caeb3c4",
+      "english": "<span data-i18n-slot=\"0\">Review [link to UpForex's live Stock CFDs product page confirm exact URL before publishing] and practise the process in a demo environment before considering live exposure. For contract or market-hour questions,</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">contact our support team</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">查看[UpForex实时股票差价合约产品页面链接，发布前确认准确URL]，并在考虑真实资金风险敞口前，先在模拟环境中练习流程。有关合约或市场交易时间的问题，请</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">联系我们的支持团队</span></span><span data-i18n-slot=\"4\">。</span>"
+    },
+    {
+      "key": "t0175a30019d72eee",
+      "english": "<span data-i18n-slot=\"0\">Quick Answer:</span><span data-i18n-slot=\"1\"> A stop-loss automatically closes a trade at a chosen price to limit a loss, while a take-profit closes it at a chosen price to secure a gain. Used together, stop-loss and take-profit orders define a trade’s planned risk and potential reward before market movement or emotion affects the decision.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">快速回答：</span><span data-i18n-slot=\"1\">止损会自动以选定的价格平仓以限制损失，而止盈会以选定的价格平仓以确保收益。止损和止盈订单一起使用，可以在市场走势或情绪影响决策之前定义交易的计划风险和潜在回报。</span>"
+    },
+    {
+      "key": "tb39004371f176aab",
+      "english": "<span data-i18n-slot=\"0\">What Is a Stop-Loss Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是止损单？</span>"
+    },
+    {
+      "key": "tf52bc68467d0a552",
+      "english": "<span data-i18n-slot=\"0\">The simplest </span><span data-i18n-slot=\"1\">stop loss meaning</span><span data-i18n-slot=\"2\"> is a planned exit for a trade that moves in the wrong direction. For a long position, the stop-loss is normally placed below the entry price. For a short position, it is normally placed above the entry price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最简单的</span><span data-i18n-slot=\"1\">止损含义</span><span data-i18n-slot=\"2\">是针对错误方向的交易计划退出。对于多头头寸，止损通常设置在入场价格以下。对于空头头寸，通常放置在入场价格之上。</span>"
+    },
+    {
+      "key": "t7eeb1df7a1a80edd",
+      "english": "<span data-i18n-slot=\"0\">What Is a Take-Profit Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是止盈订单？</span>"
+    },
+    {
+      "key": "tfb561c618cfd18e9",
+      "english": "<span data-i18n-slot=\"0\">A take-profit is an instruction to close a position automatically when price reaches a predefined profit-taking level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止盈是当价格达到预定获利水平时自动平仓的指令。</span>"
+    },
+    {
+      "key": "tc7903fd5eaac26ad",
+      "english": "<span data-i18n-slot=\"0\">For a long position, the take-profit is normally above the entry price. For a short position, it is normally below the entry price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于多头头寸，止盈通常高于入场价格。对于空头头寸，它通常低于入场价格。</span>"
+    },
+    {
+      "key": "t910b796c889aa1c0",
+      "english": "<span data-i18n-slot=\"0\">Stop-Loss vs. Take-Profit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损与止盈</span>"
+    },
+    {
+      "key": "tf8aa2945317bb94b",
+      "english": "<span data-i18n-slot=\"0\">Stop-Loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损</span>"
+    },
+    {
+      "key": "t1abcde0da401837d",
+      "english": "<span data-i18n-slot=\"0\">Take-Profit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止盈</span>"
+    },
+    {
+      "key": "ta4a0aa2ff0780a9d",
+      "english": "<span data-i18n-slot=\"0\">Secures the planned gain</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">确保计划收益</span>"
+    },
+    {
+      "key": "t50768ff93899cf4d",
+      "english": "<span data-i18n-slot=\"0\">Triggers when price moves</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">价格变动时触发</span>"
+    },
+    {
+      "key": "t5b01597cc79c28ba",
+      "english": "<span data-i18n-slot=\"0\">Against the position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对持仓不利的方向</span>"
+    },
+    {
+      "key": "t14d82f4ec2eac5b8",
+      "english": "<span data-i18n-slot=\"0\">Typical placement for a long trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多头交易的典型布局</span>"
+    },
+    {
+      "key": "ta324d05c26161a0e",
+      "english": "<span data-i18n-slot=\"0\">Below the entry price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">低于入场价</span>"
+    },
+    {
+      "key": "tc99f11202029adc2",
+      "english": "<span data-i18n-slot=\"0\">Above the entry price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">高于入场价</span>"
+    },
+    {
+      "key": "tee19583833e956e0",
+      "english": "<span data-i18n-slot=\"0\">Typical placement for a short trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">空头交易的典型位置</span>"
+    },
+    {
+      "key": "t36a84431c9a2fc7b",
+      "english": "<span data-i18n-slot=\"0\">Defines where the trade idea is invalid</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">定义交易想法无效的地方</span>"
+    },
+    {
+      "key": "t8ca5e24bf5381527",
+      "english": "<span data-i18n-slot=\"0\">Execution limitation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">执行限制</span>"
+    },
+    {
+      "key": "t1300b989724355a7",
+      "english": "<span data-i18n-slot=\"0\">What Is a Trailing Stop-Loss?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是追踪止损？</span>"
+    },
+    {
+      "key": "tf9c49f35424a83c3",
+      "english": "<span data-i18n-slot=\"0\">A trailing stop-loss automatically moves a stop level in the trade’s favour while maintaining a selected distance from the current price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">追踪止损会自动将止损水平向有利于交易的方向移动，同时与当前价格保持选定的距离。</span>"
+    },
+    {
+      "key": "t3678c6adec877ba3",
+      "english": "<span data-i18n-slot=\"0\">Unlike a fixed stop-loss, a trailing stop can follow favourable price movement. If price later reverses, the stop remains at its most recently adjusted level rather than moving farther away.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">与固定止损不同，追踪止损可以跟随有利的价格变动。如果价格随后反转，止损位仍保持在最近调整的水平，而不是移得更远。</span>"
+    },
+    {
+      "key": "t409ec8e566bce757",
+      "english": "<span data-i18n-slot=\"0\">How Do Stop-Loss and Take-Profit Work Together?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损和止盈如何协同工作？</span>"
+    },
+    {
+      "key": "tbe952f69dc735957",
+      "english": "<span data-i18n-slot=\"0\">A trade risking 50 pips to target 100 pips has a </span><span data-i18n-slot=\"1\">1:2 risk-reward ratio</span><span data-i18n-slot=\"2\">. This does not mean the trade is likely to win or that the reward will be reached. It only measures the planned distance between entry and the two exit levels.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">以 50 点的风险达到目标 100 点的交易具有 </span><span data-i18n-slot=\"1\">1:2 的风险回报比</span><span data-i18n-slot=\"2\">。这并不意味着交易可能获胜或将获得回报。它仅测量入口和两个出口层之间的计划距离。</span>"
+    },
+    {
+      "key": "t44912769a4a85eff",
+      "english": "<span data-i18n-slot=\"0\">How Do You Choose Stop-Loss and Take-Profit Levels?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何选择止损和止盈水平？</span>"
+    },
+    {
+      "key": "t0f5f0aff32442387",
+      "english": "<span data-i18n-slot=\"0\">There is no universal distance that works for every instrument or strategy. Traders commonly assess:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">没有适用于所有工具或策略的通用距离。交易者通常评估：</span>"
+    },
+    {
+      "key": "tebbe4b6cbd4123cc",
+      "english": "<span data-i18n-slot=\"0\">Swing highs and swing lows</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">波动高点和波动低点</span>"
+    },
+    {
+      "key": "te8f2d5211ab0a3b5",
+      "english": "<span data-i18n-slot=\"0\">Current volatility</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">当前波动</span>"
+    },
+    {
+      "key": "tf9f6d3daad5fecc2",
+      "english": "<span data-i18n-slot=\"0\">Market-session liquidity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市场交易时段流动性</span>"
+    },
+    {
+      "key": "t81b87d9f90b64baf",
+      "english": "<span data-i18n-slot=\"0\">Spread and possible slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差和可能的滑点</span>"
+    },
+    {
+      "key": "t266ca414adf5977a",
+      "english": "<span data-i18n-slot=\"0\">Take-profit levels should also reflect realistic market structure. A target placed beyond major resistance or support may require a move that the current market conditions do not support.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止盈水平还应反映现实的市场结构。超出主要阻力位或支撑位的目标可能需要当前市场状况不支持的走势。</span>"
+    }
+  ]
+}

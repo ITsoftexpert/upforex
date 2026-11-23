@@ -1,0 +1,387 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t0e8306d05b221c48",
+      "english": "<span data-i18n-slot=\"0\">1. Easy access</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。轻松访问</span>"
+    },
+    {
+      "key": "t86f54d40777cd5c6",
+      "english": "<span data-i18n-slot=\"0\">3. High liquidity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。高流动性</span>"
+    },
+    {
+      "key": "tc493d0ccc96f2b8e",
+      "english": "<span data-i18n-slot=\"0\">3. Gold and Silver CFDs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。黄金和白银差价合约</span>"
+    },
+    {
+      "key": "t02e4b778b4bab608",
+      "english": "<span data-i18n-slot=\"0\">CFDs enable you to speculate on price movements.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">差价合约使您能够推测价格变动。</span>"
+    },
+    {
+      "key": "td5d3b9db420dd381",
+      "english": "<span data-i18n-slot=\"0\">✔ Leverage is available</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">✔ 可用杠杆</span>"
+    },
+    {
+      "key": "t1e4f348596d408bf",
+      "english": "<span data-i18n-slot=\"0\">5. Mining Stocks</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5。矿业股</span>"
+    },
+    {
+      "key": "tbb54921ed6a45b7e",
+      "english": "<span data-i18n-slot=\"0\">2. Abu Dhabi Global Market</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。阿布扎比全球市场</span>"
+    },
+    {
+      "key": "t3d692ded0574942f",
+      "english": "<span data-i18n-slot=\"0\">3. Securities and Commodities Authority</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。证券及商品管理局</span>"
+    },
+    {
+      "key": "t82dfa58854502b00",
+      "english": "<span data-i18n-slot=\"0\">Step 1: Learn the Basics</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 1 步：学习基础知识</span>"
+    },
+    {
+      "key": "t7be0214f4b29a49b",
+      "english": "<span data-i18n-slot=\"0\">Step 5: Practice with Demo Account</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 5 步：使用模拟账户练习</span>"
+    },
+    {
+      "key": "tce4dc998e4b08faa",
+      "english": "<span data-i18n-slot=\"0\">Most brokers offer demo trading. Use it to gain experience.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">大多数经纪商提供模拟交易。用它来获得经验。</span>"
+    },
+    {
+      "key": "tc242600a31180d9a",
+      "english": "<span data-i18n-slot=\"0\">1. Entry point</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。入口点</span>"
+    },
+    {
+      "key": "tc48b617fa62c0e2d",
+      "english": "<span data-i18n-slot=\"0\">2. Exit point</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。退出点</span>"
+    },
+    {
+      "key": "td3a2b97e05ec2228",
+      "english": "<span data-i18n-slot=\"0\">1. Buy in an uptrend</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。在上升趋势中买入</span>"
+    },
+    {
+      "key": "t3651622cf159432a",
+      "english": "<span data-i18n-slot=\"0\">2. Sell in a downtrend</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。在下降趋势中卖出</span>"
+    },
+    {
+      "key": "tbcb05c24a1b4fe70",
+      "english": "<span data-i18n-slot=\"0\">Useful tools: Moving Averages, RSI</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有用的工具：移动平均线、RSI</span>"
+    },
+    {
+      "key": "td5bf1eee340eb344",
+      "english": "<span data-i18n-slot=\"0\">2. </span><span data-i18n-slot=\"1\">Trading Range</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。 </span><span data-i18n-slot=\"1\">交易范围</span>"
+    },
+    {
+      "key": "t5fa71a0a6f17ba70",
+      "english": "<span data-i18n-slot=\"0\">1. Purchase from support</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。从支持处购买</span>"
+    },
+    {
+      "key": "t30e1329b880bb1e1",
+      "english": "<span data-i18n-slot=\"0\">2. Sell at resistance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。在阻力位卖出</span>"
+    },
+    {
+      "key": "t7f893381dbf34eff",
+      "english": "<span data-i18n-slot=\"0\">Major events include:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要活动包括：</span>"
+    },
+    {
+      "key": "ta2871edf0e57b481",
+      "english": "<span data-i18n-slot=\"0\">4. Long-Term Holding</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4。长期持有</span>"
+    },
+    {
+      "key": "t92c12660d04e9d84",
+      "english": "<span data-i18n-slot=\"0\">Ideal for heritage preservation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">非常适合遗产保护。</span>"
+    },
+    {
+      "key": "t2646d7f2a941cd62",
+      "english": "<span data-i18n-slot=\"0\">Key Rules Includes:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要规则包括：</span>"
+    },
+    {
+      "key": "t48fcb74c61eca11a",
+      "english": "<span data-i18n-slot=\"0\">✔ Risk only 1–2% of capital per trade</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> ✔ Use stop-loss orders</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span></span><span data-i18n-slot=\"6\"> ✔ Avoid over-leveraging</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"></span></span><span data-i18n-slot=\"9\"> ✔ Set profit targets</span><span data-i18n-slot=\"10\"><span data-i18n-slot=\"11\"></span></span><span data-i18n-slot=\"12\"> ✔ Avoid emotional trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">✔ 每笔交易仅承担1–2%资金的风险</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> ✔ 使用止损订单</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span></span><span data-i18n-slot=\"6\"> ✔ 避免过度使用杠杆</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"></span></span><span data-i18n-slot=\"9\"> ✔ 设定盈利目标</span><span data-i18n-slot=\"10\"><span data-i18n-slot=\"11\"></span></span><span data-i18n-slot=\"12\"> ✔ 避免情绪化交易。</span>"
+    },
+    {
+      "key": "tc95d57397432dbfb",
+      "english": "<span data-i18n-slot=\"0\"> ✔ Following unverified tips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"> ✔ 遵循未经验证的提示</span>"
+    },
+    {
+      "key": "tc350192eacf204ca",
+      "english": "<span data-i18n-slot=\"0\"> ✔ Overusing leverage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"> ✔ 过度使用杠杆</span>"
+    },
+    {
+      "key": "t1df069dfce6f92ad",
+      "english": "<span data-i18n-slot=\"0\">2. The brokers you use are regulated.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。您使用的经纪商受到监管。</span>"
+    },
+    {
+      "key": "tf9a1f683ee915c7f",
+      "english": "<span data-i18n-slot=\"0\">FAQ'S</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">常见问题解答</span>"
+    },
+    {
+      "key": "tf1a31473de4b9fb9",
+      "english": "<span data-i18n-slot=\"0\">No, </span><span data-i18n-slot=\"1\">beginners can start with demo accounts and educational resources before moving </span><span data-i18n-slot=\"2\">to live trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">不，</span><span data-i18n-slot=\"1\">初学者可以从模拟账户和教育资源开始，然后</span><span data-i18n-slot=\"2\">进行实时交易。</span>"
+    },
+    {
+      "key": "t165350c6fae28b02",
+      "english": "<span data-i18n-slot=\"0\">1. Advanced Charting Tools</span><span data-i18n-slot=\"1\"></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。高级图表工具</span><span data-i18n-slot=\"1\"></span>"
+    },
+    {
+      "key": "t1681c35b579c726d",
+      "english": "<span data-i18n-slot=\"0\">2. Multiple Order Types</span><span data-i18n-slot=\"1\"></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。多种订单类型</span><span data-i18n-slot=\"1\"></span>"
+    },
+    {
+      "key": "tfb047898b764eeee",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">What is Forex Trading?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">什么是外汇交易？</span></span>"
+    },
+    {
+      "key": "tdddf2ac5fddc5e51",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Is it Acceptable to Trade Forex in Dubai?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">在迪拜可以进行外汇交易吗？</span></span>"
+    },
+    {
+      "key": "t4313a9d5dcc1731f",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">How Forex Trading Works in Dubai</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">迪拜的外汇交易如何运作</span></span>"
+    },
+    {
+      "key": "t46284a398d4c7f89",
+      "english": "<span data-i18n-slot=\"0\">2. Simple and easy to operate</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。简单易操作</span>"
+    },
+    {
+      "key": "tebdc1c31d9fe9171",
+      "english": "<span data-i18n-slot=\"0\">3. Access to multiple currency pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。访问多种货币对</span>"
+    },
+    {
+      "key": "te3a8adf3067642e7",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">How to Begin Forex Trading in Dubai for Beginners</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">初学者如何在迪拜开始外汇交易</span></span>"
+    },
+    {
+      "key": "t32f5eaff4a03a165",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Dubai vs. Other Regions for Forex Trading</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">迪拜与其他地区的外汇交易</span></span>"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t331c617becf32ef5",
+      "english": "<span data-i18n-slot=\"0\">Tips for Beginners</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初学者提示</span>"
+    },
+    {
+      "key": "t5ce720aedb5719e2",
+      "english": "<span data-i18n-slot=\"0\">The Future of CFD Index Trading in UAE</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">阿联酋差价合约指数交易的未来</span>"
+    },
+    {
+      "key": "t4f5d7742df637684",
+      "english": "<span data-i18n-slot=\"0\">CFD index trading will continue to grow because it gives you:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">差价合约指数交易将继续增长，因为它为您提供：</span>"
+    },
+    {
+      "key": "t96171b122fd860e8",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. What is CFD Index Trading?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1。什么是差价合约指数交易？</span></span>"
+    },
+    {
+      "key": "t2cfdda3e3f2501fc",
+      "english": "<span data-i18n-slot=\"0\">CFD index trading lets you trade the price movement of stock market indices without owning them. You earn based on the difference between entry and exit price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">差价合约指数交易让您无需拥有股票市场指数即可交易它们的价格变动。您根据入场价和出场价之间的差额赚取收入。</span>"
+    },
+    {
+      "key": "t1c8698f8691956ea",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. How can you start CFD Index Trading in the UAE?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3。如何在阿联酋开始差价合约指数交易？</span></span>"
+    },
+    {
+      "key": "tcf8a15ec7468a148",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">9. What is OTC trading in the UAE?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">9。阿联酋的场外交易是什么？</span></span>"
+    },
+    {
+      "key": "tbff3da453d355a57",
+      "english": "<span data-i18n-slot=\"0\">OTC trading means you trade directly with a broker instead of using a central exchange. It is common for CFDs and forex.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易意味着您直接与经纪商进行交易，而不是使用中央交易所。这对于差价合约和外汇来说很常见。</span>"
+    },
+    {
+      "key": "t7793d57ecd75e084",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">10. Is OTC trading safe?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">10。场外交易安全吗？</span></span>"
+    },
+    {
+      "key": "t6e83d80bf322ad8f",
+      "english": "<span data-i18n-slot=\"0\">Understanding Forex Brokers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">了解外汇经纪商</span>"
+    },
+    {
+      "key": "td59b18c4909bdd2e",
+      "english": "<span data-i18n-slot=\"0\">A forex broker acts as a bridge between traders and the global currency market. Brokers provide trading platforms, market access, liquidity, and tools that allow traders to buy and sell currency pairs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇经纪商充当交易者和全球货币市场之间的桥梁。经纪商提供交易平台、市场准入、流动性以及允许交易者买卖货币对的工具。</span>"
+    },
+    {
+      "key": "tf84b70a3f749b1bb",
+      "english": "<span data-i18n-slot=\"0\">1. Advanced charting tools</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。高级图表工具</span>"
+    },
+    {
+      "key": "t107ec6d7d8b9d5b5",
+      "english": "<span data-i18n-slot=\"0\">3. Multiple order types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。多种订单类型</span>"
+    },
+    {
+      "key": "tdb651ab997789c5b",
+      "english": "<span data-i18n-slot=\"0\">5. Mobile and desktop access</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5。移动和桌面访问</span>"
+    },
+    {
+      "key": "t4ef1641ae27c493a",
+      "english": "<span data-i18n-slot=\"0\">Spreads, Fees, and Trading Costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差、费用和交易成本</span>"
+    },
+    {
+      "key": "t2b7e242b113e7143",
+      "english": "<span data-i18n-slot=\"0\">Another important factor when choosing a forex broker is the cost of trading. Forex brokers earn revenue through spreads, commissions, and other service fees.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">选择外汇经纪商时的另一个重要因素是交易成本。外汇经纪商通过点差、佣金和其他服务费赚取收入。</span>"
+    },
+    {
+      "key": "t6f169407c4f8fee7",
+      "english": "<span data-i18n-slot=\"0\">A spread is the difference between the buying price and selling price of a currency pair. Brokers that offer lower spreads can help traders maximize their profits.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差是货币对的买入价和卖出价之间的差额。提供较低点差的经纪商可以帮助交易者最大化利润。</span>"
+    },
+    {
+      "key": "td852c4b788b113e7",
+      "english": "<span data-i18n-slot=\"0\">1. Average spreads on major currency pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。主要货币对的平均点差</span>"
+    },
+    {
+      "key": "taa6d8b5077f356d8",
+      "english": "<span data-i18n-slot=\"0\">2. Commission fees per trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。每笔交易的佣金费用</span>"
+    },
+    {
+      "key": "t567d6db200212612",
+      "english": "<span data-i18n-slot=\"0\">3. Overnight swap fees</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。隔夜掉期费用</span>"
+    },
+    {
+      "key": "t2080c03a31b2497a",
+      "english": "<span data-i18n-slot=\"0\">4. Deposit and withdrawal charges</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4。存款和取款费用</span>"
+    },
+    {
+      "key": "t78e21fc6139708d4",
+      "english": "<span data-i18n-slot=\"0\">Availability of Demo Accounts</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">模拟账户的可用性</span>"
+    },
+    {
+      "key": "t913ff573470e4467",
+      "english": "<span data-i18n-slot=\"0\">Benefits of demo accounts include:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">模拟账户的好处包括：</span>"
+    },
+    {
+      "key": "tae5136583572ea30",
+      "english": "<span data-i18n-slot=\"0\">3. Understanding market movements</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。了解市场走势</span>"
+    },
+    {
+      "key": "t4ff955dc5387cee8",
+      "english": "<span data-i18n-slot=\"0\">2. Live chat and email assistance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。实时聊天和电子邮件帮助</span>"
+    },
+    {
+      "key": "t0d49e06085b90a7c",
+      "english": "<span data-i18n-slot=\"0\">1. Bank transfers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。银行转账</span>"
+    },
+    {
+      "key": "t59598e95a9e16f2b",
+      "english": "<span data-i18n-slot=\"0\">With the growing popularity of forex trading across the region, particularly in financial hubs like </span><span data-i18n-slot=\"1\">Dubai</span><span data-i18n-slot=\"2\">, finding the </span><span data-i18n-slot=\"3\">best forex trading platform Dubai</span><span data-i18n-slot=\"4\"> investors trust has become more important than ever.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">随着该地区外汇交易日益普及，尤其是在</span><span data-i18n-slot=\"1\">迪拜</span><span data-i18n-slot=\"2\">等金融中心，找到一家</span><span data-i18n-slot=\"3\">迪拜最佳外汇交易平台</span><span data-i18n-slot=\"4\">，且为投资者所信赖，已变得比以往更重要。</span>"
+    },
+    {
+      "key": "tcd47aa437632c07f",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Why should beginners use a demo account before trading forex?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#content",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4。为什么初学者在交易外汇之前应该使用模拟账户？</span></span>"
+    },
+    {
+      "key": "t066bdce873496e16",
+      "english": "<span data-i18n-slot=\"0\">1. Physical gold (bars, coins, jewelry)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。实物黄金（金条、金币、珠宝）</span>"
+    },
+    {
+      "key": "t7e1419390127ddb9",
+      "english": "<span data-i18n-slot=\"0\">4. CFDs (Contracts for Difference)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4。 CFD（差价合约）</span>"
+    },
+    {
+      "key": "t5f0f5e0ff9d3c797",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. High Demand</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4。高需求</span></span>"
+    },
+    {
+      "key": "ta8d7361c8574f12e",
+      "english": "<span data-i18n-slot=\"0\">Prices are usually quoted in USD per troy ounce globally and converted to AED per gram in local marketplaces. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">全球价格通常以美元每金衡盎司报价，并在当地市场转换为每克迪拉姆。 </span>"
+    }
+  ]
+}

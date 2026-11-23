@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
+  standalone: false,
   selector: 'app-risk-disclosure',
   templateUrl: './risk-disclosure.component.html',
   styleUrls: ['./risk-disclosure.component.scss'],

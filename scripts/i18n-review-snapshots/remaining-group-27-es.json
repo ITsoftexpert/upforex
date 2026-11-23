@@ -1,0 +1,319 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t7c563da75e0266c5",
+      "english": "<span data-i18n-slot=\"0\">How to Set a Stop-Loss and Take-Profit on MT5</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cómo establecer un límite de pérdidas y una toma de ganancias en MT5</span>"
+    },
+    {
+      "key": "tba9cb0d7645065b3",
+      "english": "<span data-i18n-slot=\"0\">Open the </span><span data-i18n-slot=\"1\">Trade</span><span data-i18n-slot=\"2\"> tab in the MT5 Toolbox.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Abra la pestaña </span><span data-i18n-slot=\"1\">Negociar</span><span data-i18n-slot=\"2\"> en la caja de herramientas MT5.</span>"
+    },
+    {
+      "key": "t5d598bd6acf93812",
+      "english": "<span data-i18n-slot=\"0\">Common Stop-Loss and Take-Profit Mistakes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Errores comunes al detener pérdidas y obtener ganancias</span>"
+    },
+    {
+      "key": "tccf7ae77071f5a85",
+      "english": "<span data-i18n-slot=\"0\">Trading Without a Stop-Loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negociar sin límite de pérdidas</span>"
+    },
+    {
+      "key": "t2627ba91eff8a26d",
+      "english": "<span data-i18n-slot=\"0\">A trader who plans to “close manually” may hesitate when a loss develops or may be unable to react during a sudden move or connection problem.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un operador que planea “cerrar manualmente” puede dudar cuando se produce una pérdida o puede ser incapaz de reaccionar durante un movimiento repentino o un problema de conexión.</span>"
+    },
+    {
+      "key": "t8f6fcc821bbd6418",
+      "english": "<span data-i18n-slot=\"0\">Moving the Stop Farther Away</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alejar la parada</span>"
+    },
+    {
+      "key": "t73e3bc001962886a",
+      "english": "<span data-i18n-slot=\"0\">Ignoring Spread, Gaps, and Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ignorar el spread, los gaps y el deslizamiento</span>"
+    },
+    {
+      "key": "ta2139f29c1e2a44f",
+      "english": "<span data-i18n-slot=\"0\">Choosing an Unrealistic Take-Profit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Elegir una toma de ganancias poco realista</span>"
+    },
+    {
+      "key": "tcb3874b490cff8f4",
+      "english": "<span data-i18n-slot=\"0\">Beginners should normally define their exit and maximum acceptable exposure before opening a leveraged trade. A stop-loss can support that process, but it must be paired with suitable position sizing and an understanding that execution may differ from the trigger price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los principiantes normalmente deben definir su salida y exposición máxima aceptable antes de abrir una operación apalancada. Un stop-loss puede respaldar ese proceso, pero debe ir acompañado de un tamaño de posición adecuado y la comprensión de que la ejecución puede diferir del precio de activación.</span>"
+    },
+    {
+      "key": "t5e178afbdb680c0d",
+      "english": "<span data-i18n-slot=\"0\">Stop-loss and take-profit orders help define a trade before emotions or fast price movement affect the decision. They cannot make a strategy profitable, but they can make its planned risk and reward easier to measure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Las órdenes de limitación de pérdidas y toma de ganancias ayudan a definir una operación antes de que las emociones o el rápido movimiento de precios afecten la decisión. No pueden hacer que una estrategia sea rentable, pero pueden hacer que el riesgo y la recompensa planificados sean más fáciles de medir.</span>"
+    },
+    {
+      "key": "t37739bbab42de80c",
+      "english": "<span data-i18n-slot=\"0\">Risk Disclosure:</span><span data-i18n-slot=\"1\"> Trading CFDs and leveraged products involves significant risk. Please ensure you fully understand the risks involved before trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Divulgación de riesgos:</span><span data-i18n-slot=\"1\"> Operar con CFD y productos apalancados implica un riesgo significativo. Asegúrese de comprender completamente los riesgos involucrados antes de operar.</span>"
+    },
+    {
+      "key": "tb4317085124931b7",
+      "english": "<span data-i18n-slot=\"0\">Traders who want a broader regional introduction can also read the guide to</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading in the Middle East</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los operadores que deseen una introducción regional más amplia también pueden leer la guía para</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">operar en Forex en Medio Oriente</span></span><span data-i18n-slot=\"4\">.</span>"
+    },
+    {
+      "key": "ta0d8eb9b33d837d5",
+      "english": "<span data-i18n-slot=\"0\">What Are the Major Trading Sessions in GST?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cuáles son las principales sesiones de negociación en GST?</span>"
+    },
+    {
+      "key": "t14ceb1e14a62f543",
+      "english": "<span data-i18n-slot=\"0\">1:00–10:00 a.m. during Australian DST; 2:00–11:00 a.m. during standard time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1:00 a 10:00 a. m. durante el horario de verano de Australia; 2:00 a. m. a 11:00 a. m. durante el horario estándar</span>"
+    },
+    {
+      "key": "t75b544e4922d4508",
+      "english": "<span data-i18n-slot=\"0\">UK and US daylight saving</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Horario de verano en Reino Unido y EE. UU.</span>"
+    },
+    {
+      "key": "t7560633007badf7e",
+      "english": "<span data-i18n-slot=\"0\">DST transition weeks</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Semanas de transición del horario de verano</span>"
+    },
+    {
+      "key": "t1eba38d084ab06ce",
+      "english": "<span data-i18n-slot=\"0\">Converted to UAE time:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Convertido a hora de los Emiratos Árabes Unidos:</span>"
+    },
+    {
+      "key": "t4ca3bdfd7a7cb463",
+      "english": "<span data-i18n-slot=\"0\">During US daylight saving:</span><span data-i18n-slot=\"1\"> 5:30 p.m.–midnight GST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Durante el horario de verano en EE. UU.:</span><span data-i18n-slot=\"1\"> 5:30 p. m.–medianoche GST</span>"
+    },
+    {
+      "key": "tfbae3f11b796c35b",
+      "english": "<span data-i18n-slot=\"0\">During US DST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Durante el horario de verano de EE. UU.</span>"
+    },
+    {
+      "key": "t59792e46f17ecf76",
+      "english": "<span data-i18n-slot=\"0\">During US Standard Time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Durante el horario estándar de EE. UU.</span>"
+    },
+    {
+      "key": "t5dd34091af43dcd3",
+      "english": "<span data-i18n-slot=\"0\">Pre-market</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Precomercialización</span>"
+    },
+    {
+      "key": "t1c74a3e9cb7f4567",
+      "english": "<span data-i18n-slot=\"0\">After-hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Fuera de horario</span>"
+    },
+    {
+      "key": "te9b5f4aeaaadaa10",
+      "english": "<span data-i18n-slot=\"0\">Midnight–4:00 a.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Medianoche–4:00 a. m.</span>"
+    },
+    {
+      "key": "tc2f29dff88347f13",
+      "english": "<span data-i18n-slot=\"0\">Traders should confirm instrument-specific access through the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Index CFDs</span></span><span data-i18n-slot=\"4\"> and</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Stock CFDs</span></span><span data-i18n-slot=\"8\"> pages rather than assuming that all Nasdaq-related instruments use identical hours. UpForex confirms Nasdaq 100 exposure through its index-CFD offering and access to more than 200 company-share CFDs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los operadores deben confirmar el acceso específico al instrumento a través de las páginas</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">CFD sobre índices</span></span><span data-i18n-slot=\"4\"> y</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">CFD sobre acciones</span></span><span data-i18n-slot=\"8\"> en lugar de asumir que todos los instrumentos relacionados con Nasdaq utilizan horarios idénticos. UpForex confirma la exposición al Nasdaq 100 a través de su oferta de CFD sobre índices y el acceso a más de 200 CFD sobre acciones de empresas.</span>"
+    },
+    {
+      "key": "t9694eae87084dd44",
+      "english": "<span data-i18n-slot=\"0\">For more context, see the related guide to</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">CFD Index Trading in UAE</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Para obtener más contexto, consulte la guía relacionada</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Operación de índices CFD en los Emiratos Árabes Unidos</span></span><span data-i18n-slot=\"4\">.</span>"
+    },
+    {
+      "key": "t57eef638df81ef1a",
+      "english": "<span data-i18n-slot=\"0\">Liquidity may be thinner around the daily rollover period after North American activity declines and before the Asian market becomes fully active. Spreads can widen during quiet periods, holidays or unexpected news.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La liquidez puede ser más escasa alrededor del período de renovación diaria después de que la actividad en América del Norte disminuya y antes de que el mercado asiático se vuelva completamente activo. Los diferenciales pueden ampliarse durante períodos de calma, días festivos o noticias inesperadas.</span>"
+    },
+    {
+      "key": "t18e45140562aaacc",
+      "english": "<span data-i18n-slot=\"0\">What Are the Abu Dhabi Securities Exchange Trading Hours?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cuáles son los horarios de negociación de la Bolsa de Valores de Abu Dabi?</span>"
+    },
+    {
+      "key": "t1f98cfd7b31783f3",
+      "english": "<span data-i18n-slot=\"0\">Continuous trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negociación continua</span>"
+    },
+    {
+      "key": "t7c2bb0537c71826f",
+      "english": "<span data-i18n-slot=\"0\">Which Trading Overlap Suits Which Instrument?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué superposición comercial se adapta a qué instrumento?</span>"
+    },
+    {
+      "key": "tee387ae12894669d",
+      "english": "<span data-i18n-slot=\"0\">The US cash equity market opens</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se abre el mercado de acciones al contado de EE. UU.</span>"
+    },
+    {
+      "key": "ta1ccf66707e61d59",
+      "english": "<span data-i18n-slot=\"0\">The London–New York overlap may suit traders seeking stronger liquidity in major USD pairs and gold. The Asian session may be more relevant to traders following JPY, AUD and NZD pairs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La superposición entre Londres y Nueva York puede ser adecuada para los operadores que buscan una mayor liquidez en los principales pares de dólares estadounidenses y en el oro. La sesión asiática puede ser más relevante para los operadores que siguen los pares JPY, AUD y NZD.</span>"
+    }
+  ]
+}

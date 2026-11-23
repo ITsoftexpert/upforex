@@ -1,0 +1,42 @@
+{
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "translations": {
+    "Document generated on {0}": {
+      "hi": "दस्तावेज़ {0} को तैयार किया गया",
+      "ar": "تم إنشاء المستند في {0}",
+      "fr": "Document généré le {0}",
+      "es": "Documento generado el {0}",
+      "de": "Dokument erstellt am {0}",
+      "zh-CN": "文档生成于 {0}",
+      "zh-TW": "文件產生於 {0}",
+      "ja": "文書の生成日：{0}",
+      "pt": "Documento gerado em {0}",
+      "ru": "Документ создан {0}"
+    },
+    "Terms content element not found": {
+      "hi": "शर्तों की सामग्री वाला एलिमेंट नहीं मिला",
+      "ar": "لم يتم العثور على عنصر محتوى الشروط",
+      "fr": "Élément contenant les conditions introuvable",
+      "es": "No se encontró el elemento del contenido de los términos",
+      "de": "Element mit dem Inhalt der Bedingungen nicht gefunden",
+      "zh-CN": "未找到条款内容元素",
+      "zh-TW": "找不到條款內容元素",
+      "ja": "利用規約のコンテンツ要素が見つかりません",
+      "pt": "Elemento do conteúdo dos termos não encontrado",
+      "ru": "Элемент содержимого условий не найден"
+    },
+    "Error generating PDF:": {
+      "hi": "PDF तैयार करने में त्रुटि:",
+      "ar": "خطأ أثناء إنشاء ملف PDF:",
+      "fr": "Erreur lors de la génération du PDF :",
+      "es": "Error al generar el PDF:",
+      "de": "Fehler beim Erstellen der PDF:",
+      "zh-CN": "生成 PDF 时出错：",
+      "zh-TW": "產生 PDF 時發生錯誤：",
+      "ja": "PDF 生成中のエラー：",
+      "pt": "Erro ao gerar o PDF:",
+      "ru": "Ошибка при создании PDF:"
+    }
+  }
+}

@@ -1,3 +1,4 @@
+import { NativeTranslationService } from 'src/app/core/services/native-translation.service';
 import { Component, OnInit } from '@angular/core';
 import { Meta, Title } from '@angular/platform-browser';
 import { Store } from 'src/app/Store/store';
@@ -5,6 +6,7 @@ import { DOCUMENT } from '@angular/common';
 import { Inject } from '@angular/core';
 
 @Component({
+  standalone: false,
   selector: 'app-south-africa-forex-review',
   templateUrl: './south-africa-forex-review.component.html',
   styleUrls: ['./south-africa-forex-review.component.scss'],
@@ -173,6 +175,7 @@ export class SouthAfricaForexReview2Component implements OnInit {
   ];
 
   constructor(
+    private native: NativeTranslationService,
     private store: Store,
     private titleService: Title,
     private metaService: Meta,
@@ -183,7 +186,7 @@ export class SouthAfricaForexReview2Component implements OnInit {
 
   ngOnInit(): void {
     this.titleService.setTitle(
-      'Forex Trading in South Africa | UPFOREX MT5 Review',
+      this.native.translate('Forex Trading in South Africa | UPFOREX MT5 Review'),
     );
 
     const schema = {
@@ -417,7 +420,7 @@ export class SouthAfricaForexReview2Component implements OnInit {
     this.metaService.updateTag({
       name: 'description',
       content:
-        'Review forex, metals, shares and available CFDs in South Africa through UPFOREX MT5. Compare account types, platform tools, regulation notes and risk warnings.',
+        this.native.translate('Review forex, metals, shares and available CFDs in South Africa through UPFOREX MT5. Compare account types, platform tools, regulation notes and risk warnings.'),
     });
 
     const existing = this.document.getElementById('south-africa-schema');

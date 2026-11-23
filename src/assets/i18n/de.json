@@ -10,11 +10,40 @@
     "blogs": "Blogs"
   },
   "HOME": {
+    "BANNER_TITLE": "Revolutionäres Smart Trading für einen globalen Marktvorteil",
+    "BANNER_SUBTITLE": "Handel mit Devisen und Aktien CFDs Edelmetalle, Index CFDs Energie CFDs und Krypto CFDs von Ihrem UPFOREX Handelskonto",
     "TRY_FREE_DEMO": "Kostenlose Demo versuchen",
     "OPEN_ACCOUNT": "Konto eröffnen",
     "WELCOME_TITLE": "Willkommen bei UPFOREX - Ihr führender Forex-Handelspartner",
     "TRADE_TAGLINE": "Handeln Sie intelligent. Verdienen Sie schneller. Wachsen Sie global.",
     "DESCRIPTION": "Bei UPFOREX bieten wir nächstgenerierende Forex-Handelslösungen für Einzelhändler, professionelle Anleger und Einführungsmakler.",
+    "CONFIDENCE_TITLE": "Handeln Sie mit Vertrauen – Außergewöhnliche Marktbedingungen für jeden Trader",
+    "CONFIDENCE_DESC": "Bei UPFOREX Wir bieten optimale Handelsbedingungen für Trader aller Erfahrungsstufen. Dank enger Spreads, hoher Liquidität und schneller Ausführung können Sie unbesorgt handeln.",
+    "BEST_PRICES_TITLE": "Beste Marktpreise & niedrige Spreads",
+    "BEST_PRICES_DESC": "Profitieren Sie von besseren Preisen für Forex, Aktien, Indizes und Kryptowährungen. CFDs Die",
+    "NEGATIVE_BALANCE": "Schutz vor negativem Kontostand",
+    "INSTANT_DEPOSITS_TITLE": "Sofortige Einzahlungen & schnelle Auszahlungen",
+    "INSTANT_DEPOSITS_DESC": "Profitieren Sie von schnellen Zahlungen mit vielfältigen Zahlungsoptionen wie Krypto, Banküberweisung, Neteller und Skrill.",
+    "SMARTER_TRADE_TITLE": "Intelligenter handeln mit globalen Vermögenswerten",
+    "SMARTER_TRADE_DESC": "Finden Sie Ihren nächsten Trade mit einfachem Zugang zu einer breiten Palette von Märkten.",
+    "GLOBAL_TRADING": "Nahtloser globaler Handel mit blitzschnellen ECN Konnektivität",
+    "SMART_FEATURES": "Intelligente Handelsfunktionen",
+    "CARD_1": "Entwickelt für moderne Händler",
+    "CARD_2": "Wir setzen uns für Transparenz und Sicherheit ein.",
+    "CARD_3": "Handelsinfrastruktur der nächsten Generation",
+    "CARD_4": "Wir sind für Sie da, wenn Sie uns brauchen.",
+    "MT5_TITLE": "Handeln Sie jederzeit und überall mit MetaTrader 5 ( MT5 ) – Mobil, Desktop & Web",
+    "MT5_DESC": "Erleben Sie fortgeschrittenen Handel mit MetaTrader 5 ( MT5 Eine leistungsstarke Plattform für Forex, Aktien, Indizes, Rohstoffe und Kryptowährungen. Ob zu Hause, im Büro oder unterwegs, MT5 ist auf Mobilgeräten, Desktop-Computern und im Web verfügbar – damit Sie keine Handelsmöglichkeit verpassen.",
+    "ADVANCED_CHARTS": "Erweiterte Chart-Tools: Echtzeit-Charts mit mehreren Zeitrahmen und integrierten Indikatoren anzeigen.",
+    "MULTI_ASSET": "Multi-Asset-Handel: Handeln Sie Devisen, Aktien, Indizes, Rohstoffe und Kryptowährungen über eine einzige Plattform.",
+    "FULL_ACCOUNT_CONTROL": "Vollständige Kontokontrolle",
+    "FULL_ACCOUNT_CONTROL_DESC": "Verwalten Sie Ihre Transaktionen, erteilen Sie Aufträge und behalten Sie Ihr Portfolio ganz einfach im Blick.",
+    "REAL_TIME_DATA": "Marktdaten in Echtzeit: Bleiben Sie mit Live-Preisen und Neuigkeiten auf dem Laufenden.",
+    "SECURE_EASY": "Sicher und einfach zu bedienen",
+    "SECURE_EASY_DESC": "Optimiert für mobile Endgeräte, für ein schnelles und sicheres Handelserlebnis.",
+    "MT5_FINAL": "Egal, ob Sie ein neuer oder ein erfahrener Händler sind, MT5 Hilft Ihnen, jede Handelschance zu nutzen. Jetzt herunterladen und besser handeln.",
+    "UNLOCK_MARKETS": "Erschließen Sie sich den Zugang zu globalen Märkten",
+    "UNLOCK_DESC": "Erleben Sie die Vorteile des globalen Handels mit nur einem Konto.",
     "TRADING_CALCULATORS": "Handelsrechner",
     "MARKET_ANALYSIS": "Marktanalyse",
     "MARKET_REVIEWS": "Marktbewertungen"
@@ -47,5 +76,102 @@
   "accounts": {
     "accounts": "Konten",
     "mt5Platform": "MetaTrader 5 (MT5) Plattform"
-  }
+  },
+  "IB": {
+    "TITLE": "UPFOREX Introducing Brokers (IB) Programm",
+    "TAGLINE": "Maximieren Sie Ihre Einnahmen. Erweitern Sie Ihr Netzwerk. Arbeiten Sie mit einem vertrauenswürdigen Broker zusammen.",
+    "INTRO": "Bei UPFOREX Unser IB-Programm bietet Ihnen unübertroffene Vorteile, hohes Provisionspotenzial und exklusive Partnerbetreuung. Egal, ob Sie ein erfahrener IB sind oder gerade erst anfangen – wir bieten maßgeschneiderte Lösungen für den Aufbau eines erfolgreichen Brokernetzwerks.",
+    "BENEFITS_TITLE": "Warum beitreten UPFOREX IB-Programm?",
+    "BENEFITS": [
+      {
+        "boldText": "Struktur der Hochkommission",
+        "subText": "Sichern Sie sich äußerst wettbewerbsfähige, mehrstufige Provisionen mit schnellen Auszahlungen, die dafür sorgen, dass Ihre Bemühungen und Erfolge bei der Kundenempfehlung großzügig belohnt werden."
+      },
+      {
+        "boldText": "Lebenslanger Umsatzanteil",
+        "subText": "Sichern Sie sich weiterhin langfristige Einnahmen von den aktiven Kunden, die Sie vermitteln, und gewährleisten Sie so ein fortlaufendes passives Einkommen mit jedem von ihnen getätigten Handel."
+      },
+      {
+        "boldText": "Echtzeit-IB-Dashboard",
+        "subText": "Verfolgen Sie Ihre Empfehlungen und Provisionen in Echtzeit mit unserer fortschrittlichen Lösung. MT5 Manager Suite – für die volle Kontrolle über Ihr Unternehmen."
+      },
+      {
+        "boldText": "Mehrstufige IB-Struktur",
+        "subText": "Erweitere dein Geschäft durch die Anwerbung von Sub-IBs und Affiliates und verdiene zusätzliche Prämien aus deren Aktivitäten, während du gleichzeitig dein Netzwerk ausbaust."
+      },
+      {
+        "boldText": "Flexible Auszahlungen",
+        "subText": "Sie haben die Wahl zwischen wöchentlichen oder monatlichen Provisionszahlungen und können sich so einen stetigen Cashflow und dauerhafte finanzielle Stabilität ohne Verzögerungen sichern."
+      },
+      {
+        "boldText": "Marketing- und Markenunterstützung",
+        "subText": "Erhalten Sie Zugriff auf maßgeschneiderte Marketingmaterialien, Banner und exklusive Werbemittel, um Kunden effektiv zu gewinnen und zu binden."
+      },
+      {
+        "boldText": "Zugang zu Premium-Handelstools",
+        "subText": "Bieten Sie Ihren Kunden hohe Liquidität, schnelle Ausführung und fortschrittliche Handelsbedingungen und verbessern Sie so deren Handelserlebnis."
+      },
+      {
+        "boldText": "Nahtloses Kunden-Onboarding",
+        "subText": "Vereinfachte Kontoeröffnung und KYC Prozesse, die eine reibungslose und einfache Kundenregistrierung mit minimalem Aufwand gewährleisten."
+      },
+      {
+        "boldText": "Spezieller IB-Support",
+        "subText": "Profitieren Sie von einem persönlichen Kundenbetreuer, der Sie bei jedem Schritt Ihrer Reise begleitet und unterstützt."
+      },
+      {
+        "boldText": "Globale Expansionsmöglichkeit",
+        "subText": "Errichten Sie Ihr eigenes IB-Netzwerk auf globaler Ebene, vernetzen Sie sich mit Händlern auf der ganzen Welt und vergrößern Sie Ihre Reichweite."
+      }
+    ],
+    "STEPS_TITLE": "So funktioniert es",
+    "STEPS": [
+      {
+        "boldText": "Melden Sie sich an",
+        "subText": "Registrieren Sie sich als Introducing Broker bei UPFOREX"
+      },
+      {
+        "boldText": "Kunden vermitteln",
+        "subText": "Gewinnen Sie neue Händler über Ihren individuellen Empfehlungslink oder direkte Kontakte."
+      },
+      {
+        "boldText": "Kunden handeln, Sie verdienen",
+        "subText": "Verdienen Sie Provisionen auf jeden Handel, den Ihre geworbenen Kunden ausführen."
+      },
+      {
+        "boldText": "Erweitere dein Netzwerk",
+        "subText": "Rekrutieren Sie Sub-IBs, um Ihre Einnahmen durch mehrstufige Provisionen zu steigern."
+      }
+    ],
+    "REASONS_TITLE": "Warum UpForex?",
+    "REASONS": [
+      {
+        "boldText": "Kundenspezifische IB-Lösungen",
+        "subText": "Wir bieten personalisierte Provisionsmodelle und White-Label-Lösungen, die auf große Introducing Broker (IBs) zugeschnitten sind und es ihnen ermöglichen, individuelle Geschäftsmodelle zu erstellen und ihr Umsatzpotenzial durch flexible Partnerschaftsmöglichkeiten zu maximieren."
+      },
+      {
+        "boldText": "Erstklassige Liquiditätsanbieter",
+        "subText": "Profitieren Sie von wettbewerbsfähigen Spreads und einer Ausführung auf institutionellem Niveau durch die Zusammenarbeit mit erstklassigen Liquiditätsanbietern. So stellen Sie sicher, dass Ihre Transaktionen unter den bestmöglichen Marktbedingungen ausgeführt werden und eine optimale Performance erzielt wird."
+      },
+      {
+        "boldText": "Regulierter und vertrauenswürdiger Broker",
+        "subText": "Arbeiten Sie mit einem transparenten und seriösen Forex-Broker zusammen, der sich an strenge regulatorische Standards hält und so die Sicherheit und Zuverlässigkeit Ihres Handelserlebnisses gewährleistet und Kunden weltweit ein beruhigendes Gefühl bietet."
+      },
+      {
+        "boldText": "Breites Instrumentensortiment",
+        "subText": "Bieten Sie Ihren Kunden eine umfassende Auswahl an Handelsinstrumenten, darunter Forex, Indizes, Rohstoffe und Kryptowährungen, und bieten Sie ihnen vielfältige Möglichkeiten, unterschiedlichen Handelsstrategien und Präferenzen gerecht zu werden."
+      },
+      {
+        "boldText": "Spitzentechnologie",
+        "subText": "Fortschrittlich MT5 Handelsplattformen bieten modernste Funktionen, die eine ultraschnelle Ausführung und ein reibungsloses Handelserlebnis gewährleisten und es den Kunden ermöglichen, im schnelllebigen Devisenmarkt immer einen Schritt voraus zu sein."
+      }
+    ],
+    "CTA_TITLE": "Verdienen Sie noch heute als IB!",
+    "JOIN_NOW": "📩 Jetzt beitreten -",
+    "FILL_FORM": "Füllen Sie das Formular aus.",
+    "OR_CONTACT": "oder kontaktieren Sie uns",
+    "GET_STARTED": "Um loszulegen.",
+    "APPLY_NOW": "Jetzt bewerben"
+  },
+  "__nativeI18nVersion": "af81a4657e7a422981c5"
 }

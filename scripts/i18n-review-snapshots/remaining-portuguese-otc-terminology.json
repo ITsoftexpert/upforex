@@ -1,0 +1,481 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t2098030c2cec82cc",
+      "english": "OTC Trading in the UAE | Legal Guide for Dubai Traders | UpForex",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#title",
+        "CMS:blogs/otc-trading-in-uae#metaTitle",
+        "SSR:/blogs",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "Negociação OTC nos EAU | Guia jurídico para traders em Dubai | UpForex"
+    },
+    {
+      "key": "t503fa844f76050c8",
+      "english": "OTC Trading in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#tag",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "Negociação OTC nos Emirados Árabes Unidos"
+    },
+    {
+      "key": "tca820b84c784f688",
+      "english": "OTC TRADING IN UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#upperTag",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "NEGOCIAÇÃO OTC NOS EAU"
+    },
+    {
+      "key": "t94272538ff44552a",
+      "english": "<span data-i18n-slot=\"0\">If you are exploring OTC trading in the UAE, you are probably looking for a flexible way to access global markets without using a traditional exchange. OTC, or over-the-counter trading, means you buy and sell financial instruments directly through a broker or dealer rather than on a centralized exchange. That structure can give you broader access, more flexible trade sizes, and a wider range of products than exchange-only trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se você está explorando a negociação OTC nos EAU, provavelmente procura uma forma flexível de acessar os mercados globais sem utilizar uma bolsa tradicional. A negociação OTC, ou no mercado de balcão, significa comprar e vender instrumentos financeiros diretamente por meio de uma corretora ou de um intermediário que negocia por conta própria, em vez de uma bolsa centralizada. Essa estrutura pode oferecer acesso mais amplo, tamanhos de operação mais flexíveis e uma variedade maior de produtos do que a negociação exclusivamente em bolsa.</span>"
+    },
+    {
+      "key": "t25ca11897e756767",
+      "english": "<span data-i18n-slot=\"0\">For traders in Dubai and across the UAE, OTC trading can be a useful way to access forex, commodities, indices, and other financial instruments through a regulated provider. The most important part is making sure you trade with a licensed firm that operates under the correct regulatory framework.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Para traders em Dubai e em todos os EAU, a negociação OTC pode ser uma forma útil de acessar forex, commodities, índices e outros instrumentos financeiros por meio de um prestador regulamentado. O mais importante é garantir que você negocie com uma empresa licenciada que atue sob o enquadramento regulatório correto.</span>"
+    },
+    {
+      "key": "tc95ef812d98022d8",
+      "english": "<span data-i18n-slot=\"0\">What OTC Trading Means</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que significa negociação OTC</span>"
+    },
+    {
+      "key": "tb3fb8f8227f1a8fa",
+      "english": "<span data-i18n-slot=\"0\">When you trade OTC, you are not matching your order on a public exchange order book. Instead, the transaction happens directly between you and a broker, dealer, or liquidity provider. This makes OTC trading different from exchange trading, where orders are centralized and matched through a formal exchange environment.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ao negociar no mercado de balcão, sua ordem não é casada em um livro de ofertas público de uma bolsa. Em vez disso, a transação ocorre diretamente entre você e uma corretora, um intermediário que negocia por conta própria ou um provedor de liquidez. Isso diferencia a negociação OTC da negociação em bolsa, na qual as ordens são centralizadas e casadas em um ambiente formal de bolsa.</span>"
+    },
+    {
+      "key": "tb3df0d2584ddec55",
+      "english": "<span data-i18n-slot=\"0\">OTC markets are common in forex, CFDs, commodities, and certain institutional products. Because of this, OTC trading often appeals to traders who want more flexibility, extended trading hours, and access to instruments that may not be listed on UAE exchanges.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Os mercados OTC são comuns em forex, CFDs, commodities e determinados produtos institucionais. Por isso, a negociação OTC costuma atrair traders que desejam mais flexibilidade, horários de negociação estendidos e acesso a instrumentos que podem não estar listados nas bolsas dos EAU.</span>"
+    },
+    {
+      "key": "t8bb10f8976150661",
+      "english": "<span data-i18n-slot=\"0\">Why Traders in the UAE Choose OTC Markets</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por que traders nos EAU escolhem os mercados OTC</span>"
+    },
+    {
+      "key": "t235637f0a4f5bc9c",
+      "english": "<span data-i18n-slot=\"0\">If you are based in the UAE, OTC trading can offer several advantages. You may be able to trade global markets from a single account, react to market movements outside local exchange hours, and access products that are not available on the Dubai Financial Market or Abu Dhabi Securities Exchange.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se você está nos EAU, a negociação OTC pode oferecer várias vantagens. Você pode ter a possibilidade de negociar nos mercados globais com uma única conta, reagir aos movimentos do mercado fora dos horários das bolsas locais e acessar produtos que não estão disponíveis no Dubai Financial Market ou na Abu Dhabi Securities Exchange.</span>"
+    },
+    {
+      "key": "t9cb9a5351e4d9aeb",
+      "english": "<span data-i18n-slot=\"0\">Another reason OTC trading appeals to many UAE residents is convenience. Instead of opening separate accounts with multiple providers, you may be able to access several asset classes through one regulated platform.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Outro motivo pelo qual a negociação OTC atrai muitos residentes dos EAU é a conveniência. Em vez de abrir contas separadas com vários prestadores, você pode ter acesso a diversas classes de ativos por meio de uma única plataforma regulamentada.</span>"
+    },
+    {
+      "key": "t8bc7adc099a5a9ec",
+      "english": "<span data-i18n-slot=\"0\">OTC and exchange trading serve different purposes. Exchange trading is centralized and standardized, while OTC trading is more direct and flexible.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A negociação OTC e a negociação em bolsa atendem a finalidades diferentes. A negociação em bolsa é centralizada e padronizada, enquanto a negociação OTC é mais direta e flexível.</span>"
+    },
+    {
+      "key": "t3f835576227942e0",
+      "english": "<span data-i18n-slot=\"0\">If you want standardized market structure and transparent exchange rules, exchange trading may be the better fit. If you want flexibility and broader market access, OTC trading may be more suitable.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se você deseja uma estrutura de mercado padronizada e regras de bolsa transparentes, a negociação em bolsa pode ser a opção mais adequada. Se deseja flexibilidade e acesso mais amplo ao mercado, a negociação OTC pode ser mais apropriada.</span>"
+    },
+    {
+      "key": "teb82f8fb916fd7af",
+      "english": "<span data-i18n-slot=\"0\">Is OTC Trading Legal in the UAE?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A negociação OTC é legal nos EAU?</span>"
+    },
+    {
+      "key": "tbcb42fcc08ca9262",
+      "english": "<span data-i18n-slot=\"0\">Yes, OTC trading can be legal in the UAE when the provider is properly licensed and the product is offered within the relevant regulatory framework. The key issue is not simply whether the market is OTC, but whether the firm offering it is authorized to do so.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sim, a negociação OTC pode ser legal nos EAU quando o prestador está devidamente licenciado e o produto é oferecido dentro do enquadramento regulatório pertinente. A questão central não é apenas saber se o mercado é OTC, mas se a empresa que oferece o produto está autorizada a fazê-lo.</span>"
+    },
+    {
+      "key": "t2f0c25e8155a65d0",
+      "english": "<span data-i18n-slot=\"0\">When you trade OTC, your provider is part of the transaction process. That makes regulation especially important because the broker, dealer, or platform can affect pricing, execution, and client protection.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ao negociar no mercado de balcão, seu prestador participa do processo da transação. Isso torna a regulamentação especialmente importante, pois a corretora, o intermediário ou a plataforma pode afetar os preços, a execução e a proteção do cliente.</span>"
+    },
+    {
+      "key": "tc88d127e9f269b46",
+      "english": "<span data-i18n-slot=\"0\">What You Can Trade OTC</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que você pode negociar no mercado de balcão</span>"
+    },
+    {
+      "key": "t4d348e25e6f73437",
+      "english": "<span data-i18n-slot=\"0\">OTC trading can include several asset classes. The exact products depend on the broker’s licence, platform, and business model.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A negociação OTC pode incluir diversas classes de ativos. Os produtos exatos dependem da licença, da plataforma e do modelo de negócio da corretora.</span>"
+    },
+    {
+      "key": "t9672bf40d42cc5ec",
+      "english": "<span data-i18n-slot=\"0\">Forex is the largest OTC market in the world. It lets you trade currency pairs such as EUR/USD, GBP/USD, or USD/JPY. </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Forex trading in dubai</span></span><span data-i18n-slot=\"3\"> is attractive because it is liquid, global, and often available almost continuously during the trading week.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Forex é o maior mercado OTC do mundo. Ele permite negociar pares de moedas como EUR/USD, GBP/USD ou USD/JPY. </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">A negociação forex em Dubai</span></span><span data-i18n-slot=\"3\"> é atraente por ser líquida, global e frequentemente estar disponível de forma quase contínua durante a semana de negociação.</span>"
+    },
+    {
+      "key": "t11c8f08fac6c4067",
+      "english": "<span data-i18n-slot=\"0\">Gold, silver, oil, and natural gas are commonly traded OTC. These instruments are popular with traders who want exposure to inflation, energy markets, or global macro trends.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ouro, prata, petróleo e gás natural são comumente negociados no mercado de balcão. Esses instrumentos são populares entre traders que desejam exposição à inflação, aos mercados de energia ou às tendências macroeconômicas globais.</span>"
+    },
+    {
+      "key": "tcd973c1a4c14cc5a",
+      "english": "<span data-i18n-slot=\"0\">Some platforms offer crypto-related OTC products or CFDs. These may allow you to speculate on digital asset price movement without direct ownership. Since crypto regulation can differ depending on the activity and jurisdiction, you should verify exactly what is being offered.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Algumas plataformas oferecem produtos OTC ou CFDs relacionados a criptoativos. Eles podem permitir que você especule sobre os movimentos de preço de ativos digitais sem possuí-los diretamente. Como a regulamentação de criptoativos pode variar conforme a atividade e a jurisdição, você deve verificar exatamente o que está sendo oferecido.</span>"
+    },
+    {
+      "key": "tfc298c156187e7d1",
+      "english": "<span data-i18n-slot=\"0\">OTC markets are also used for more advanced products such as bonds, sukuk, and structured instruments. These are more common among institutional traders or experienced investors.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Os mercados OTC também são utilizados para produtos mais avançados, como títulos de dívida, sukuk e instrumentos estruturados. Eles são mais comuns entre traders institucionais ou investidores experientes.</span>"
+    },
+    {
+      "key": "t23849cf64cf4cf38",
+      "english": "<span data-i18n-slot=\"0\">How OTC Trading Works in Dubai</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como funciona a negociação OTC em Dubai</span>"
+    },
+    {
+      "key": "tb84f6723998de45d",
+      "english": "<span data-i18n-slot=\"0\">OTC trading in Dubai often appeals to traders because it combines access, flexibility, and international market exposure. If you want a trading account that can serve multiple markets from one place, OTC platforms can be especially useful.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A negociação OTC em Dubai costuma atrair traders porque combina acesso, flexibilidade e exposição aos mercados internacionais. Se você deseja uma conta de negociação que possa atender a vários mercados em um só lugar, as plataformas OTC podem ser especialmente úteis.</span>"
+    },
+    {
+      "key": "t294baee3f17ff231",
+      "english": "<span data-i18n-slot=\"0\">Because OTC trading does not use a centralized exchange order book, execution quality matters more. You should pay attention to spreads, commissions, slippage, and the way your trades are routed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como a negociação OTC não utiliza um livro de ofertas centralizado de uma bolsa, a qualidade da execução é ainda mais importante. Você deve prestar atenção aos spreads, às comissões, à derrapagem de preço e à forma como suas operações são encaminhadas.</span>"
+    },
+    {
+      "key": "t357d8dfff1cdfee7",
+      "english": "<span data-i18n-slot=\"0\">If you are looking for an OTC trading platform in the UAE, UPFOREX is built to serve traders who want regulation, flexibility, and access to global markets from one account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se você procura uma plataforma de negociação OTC nos EAU, a UPFOREX foi desenvolvida para atender a traders que desejam regulamentação, flexibilidade e acesso aos mercados globais com uma única conta.</span>"
+    },
+    {
+      "key": "tfde5a1e9dd0f64fd",
+      "english": "<span data-i18n-slot=\"0\">UPFOREX may be a strong fit if you want a platform that supports multiple OTC products, </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">MT5 platform dubai</span></span><span data-i18n-slot=\"3\">, and a structure designed for UAE clients. If you value a </span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\">regulated forex brokers dubai</span></span><span data-i18n-slot=\"6\"> environment and a simple way to access several markets, that combination can be especially useful.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A UPFOREX pode ser uma boa opção se você deseja uma plataforma que ofereça suporte a vários produtos OTC, à </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">plataforma MT5 em Dubai</span></span><span data-i18n-slot=\"3\">, e a uma estrutura concebida para clientes dos EAU. Se você valoriza um ambiente de </span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\">corretoras forex regulamentadas em Dubai</span></span><span data-i18n-slot=\"6\"> e uma forma simples de acessar diversos mercados, essa combinação pode ser especialmente útil.</span>"
+    },
+    {
+      "key": "t04bd7e53e6252a4b",
+      "english": "<span data-i18n-slot=\"0\">You may prefer UPFOREX if you want a platform that combines product variety with regulatory clarity. Instead of dealing with several different providers, you can potentially manage multiple OTC instruments through one account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Você pode preferir a UPFOREX se deseja uma plataforma que combine variedade de produtos e clareza regulatória. Em vez de lidar com vários prestadores diferentes, você pode ter a possibilidade de administrar diversos instrumentos OTC por meio de uma única conta.</span>"
+    },
+    {
+      "key": "t373ed7efa7828bdd",
+      "english": "<span data-i18n-slot=\"0\">OTC Trading for Different Types of Traders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negociação OTC para diferentes tipos de traders</span>"
+    },
+    {
+      "key": "t2d88ec462484346e",
+      "english": "<span data-i18n-slot=\"0\">OTC trading can suit different trader profiles depending on your goals.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A negociação OTC pode atender a diferentes perfis de traders, dependendo dos seus objetivos.</span>"
+    },
+    {
+      "key": "ta3d2a2d93d55bbb7",
+      "english": "<span data-i18n-slot=\"0\">If you are a beginner, OTC products can introduce you to forex or CFD trading in a relatively accessible way. A demo account, educational content, and smaller trade sizes can help you learn without taking unnecessary risk.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se você é iniciante, os produtos OTC podem apresentar a negociação forex ou de CFDs de uma forma relativamente acessível. Uma conta de demonstração, conteúdo educacional e tamanhos de operação menores podem ajudar você a aprender sem assumir riscos desnecessários.</span>"
+    },
+    {
+      "key": "t96e3a8bc82b2e08e",
+      "english": "<span data-i18n-slot=\"0\">If you trade frequently, you may value the flexibility, speed, and wide product range that OTC platforms can provide. In that case, execution quality and pricing transparency become especially important.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se você negocia com frequência, pode valorizar a flexibilidade, a velocidade e a ampla variedade de produtos que as plataformas OTC podem oferecer. Nesse caso, a qualidade da execução e a transparência dos preços tornam-se especialmente importantes.</span>"
+    },
+    {
+      "key": "t1d99925c9febf538",
+      "english": "<span data-i18n-slot=\"0\">Advantages of OTC Trading in the UAE</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Vantagens da negociação OTC nos EAU</span>"
+    },
+    {
+      "key": "t02c9cd80624e162e",
+      "english": "<span data-i18n-slot=\"0\">OTC trading has several clear benefits for UAE investors and traders.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A negociação OTC oferece vários benefícios claros para investidores e traders nos EAU.</span>"
+    },
+    {
+      "key": "t100bc3f8ba1adf1e",
+      "english": "<span data-i18n-slot=\"0\">OTC trading also comes with risks, and you should be aware of them before opening a position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A negociação OTC também envolve riscos, e você deve conhecê-los antes de abrir uma posição.</span>"
+    },
+    {
+      "key": "ta4790b7441ac5842",
+      "english": "<span data-i18n-slot=\"0\">How to Start OTC Trading in the UAE</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como começar a negociar no mercado de balcão nos EAU</span>"
+    },
+    {
+      "key": "t25c78090bf95f534",
+      "english": "<span data-i18n-slot=\"0\">Select the OTC instruments that match your trading goals. You may trade forex, indices, commodities, or other products depending on the platform.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Selecione os instrumentos OTC que correspondam aos seus objetivos de negociação. Dependendo da plataforma, você pode negociar forex, índices, commodities ou outros produtos.</span>"
+    },
+    {
+      "key": "t276039efd0992fe3",
+      "english": "<span data-i18n-slot=\"0\">Look, OTC trading is a smart, flexible way for us in Dubai and the UAE to dive into forex, indices, commodities, and stock CFDs without the hassle of strict exchange rules or limited hours. The big thing? Stick with a licensed setup from SCA, DFSA, or FSRA, and you're good to go—totally legal.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Veja, a negociação OTC é uma forma inteligente e flexível de nós, em Dubai e nos EAU, entrarmos nos mercados de forex, índices, commodities e CFDs de ações sem as dificuldades de regras rígidas de bolsa ou horários limitados. O ponto principal? Utilize uma estrutura licenciada pela SCA, DFSA ou FSRA e estará tudo certo — totalmente legal.</span>"
+    },
+    {
+      "key": "tf05d19878db8fa99",
+      "english": "<span data-i18n-slot=\"0\">That's where UpForex comes in as your local go-to. We're licensed and regulated by the UAE Securities and Commodities Authority (License No. 20200000350, Category 5 – Arrangement &amp; Advice), with MT5 for smooth trading and all the OTC goodies you need in one spot. No fuss, just reliable access tailored for UAE folks like you.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">É aí que a UpForex entra como sua referência local. Somos licenciados e regulamentados pela Autoridade de Valores Mobiliários e Commodities dos EAU (Licença nº 20200000350, Categoria 5 – Intermediação e Consultoria), com MT5 para uma negociação fluida e todos os recursos OTC de que você precisa em um só lugar. Sem complicações, apenas acesso confiável adaptado aos residentes dos EAU como você.</span>"
+    },
+    {
+      "key": "t6577da478c10f0f1",
+      "english": "<span data-i18n-slot=\"0\">OTC trading in the UAE means buying and selling financial instruments directly through a broker or dealer instead of through a centralized exchange.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A negociação OTC nos EAU significa comprar e vender instrumentos financeiros diretamente por meio de uma corretora ou de um intermediário que negocia por conta própria, em vez de uma bolsa centralizada.</span>"
+    },
+    {
+      "key": "t6ef03a40a3a5b2f6",
+      "english": "<span data-i18n-slot=\"0\">Yes, OTC trading can be legal in Dubai when it is offered by a licensed provider and the product is permitted under the relevant regulatory framework.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sim, a negociação OTC pode ser legal em Dubai quando é oferecida por um prestador licenciado e o produto é permitido pelo enquadramento regulatório pertinente.</span>"
+    },
+    {
+      "key": "te5f9509bc78a0e59",
+      "english": "<span data-i18n-slot=\"0\">What can you trade OTC?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que você pode negociar no mercado de balcão?</span>"
+    },
+    {
+      "key": "t057dbce8eaed7912",
+      "english": "<span data-i18n-slot=\"0\">Can you trade OTC on mobile?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">É possível negociar no mercado de balcão pelo celular?</span>"
+    },
+    {
+      "key": "tde68580d821393cf",
+      "english": "<span data-i18n-slot=\"0\">Yes, many OTC platforms, including MT5-based platforms, allow mobile trading so you can monitor and manage positions on the go.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sim, muitas plataformas OTC, incluindo as baseadas em MT5, permitem negociar pelo celular para que você possa acompanhar e administrar posições onde estiver.</span>"
+    },
+    {
+      "key": "t5d355295a3c99ef9",
+      "english": "<span data-i18n-slot=\"0\">Is OTC trading risky?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A negociação OTC envolve riscos?</span>"
+    },
+    {
+      "key": "t687a1c9483c2d326",
+      "english": "<span data-i18n-slot=\"0\">Yes, OTC trading carries market risk, leverage risk, counterparty risk, and regulatory risk. You should always trade with caution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sim, a negociação OTC envolve risco de mercado, risco de alavancagem, risco de contraparte e risco regulatório. Você deve sempre negociar com cautela.</span>"
+    }
+  ]
+}

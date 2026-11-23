@@ -1,0 +1,217 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "td7bea7a48e50b67c",
+      "english": "<span data-i18n-slot=\"0\">Upside breakout-style entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Entrada por rompimento de alta</span>"
+    },
+    {
+      "key": "t29e78022c772cdb0",
+      "english": "<span data-i18n-slot=\"0\">Slippage can occur after trigger</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O deslizamento pode ocorrer após o disparo</span>"
+    },
+    {
+      "key": "t6736d9a5effb84ab",
+      "english": "<span data-i18n-slot=\"0\">Downside breakout-style entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Entrada por rompimento de baixa</span>"
+    },
+    {
+      "key": "t815e9afb82fd7e7d",
+      "english": "<span data-i18n-slot=\"0\">Stop-Limit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ordem stop-limit</span>"
+    },
+    {
+      "key": "tc2c825d32a538295",
+      "english": "<span data-i18n-slot=\"0\">Trigger plus added price control</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Gatilho mais controle de preço adicional</span>"
+    },
+    {
+      "key": "t80e9900f18b335cf",
+      "english": "<span data-i18n-slot=\"0\">Planned Pullback</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Retração planejada</span>"
+    },
+    {
+      "key": "t39f0f60c3213052e",
+      "english": "<span data-i18n-slot=\"0\">Worked Example Same Trade, Three Order Types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Exemplo prático: a mesma operação, três tipos de ordens</span>"
+    },
+    {
+      "key": "ta644bba2f95c2638",
+      "english": "<span data-i18n-slot=\"0\">Trader's Goal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Objetivo do trader</span>"
+    },
+    {
+      "key": "t2c940f4ab3183a4c",
+      "english": "<span data-i18n-slot=\"0\">Order Type Used</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tipo de ordem usado</span>"
+    },
+    {
+      "key": "t2c028695ca1c71b1",
+      "english": "<span data-i18n-slot=\"0\">Entry Trigger</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Gatilho de entrada</span>"
+    },
+    {
+      "key": "tf6db6b095415a911",
+      "english": "<span data-i18n-slot=\"0\">Enter immediately</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Entre imediatamente</span>"
+    },
+    {
+      "key": "tab55a8745b5d2460",
+      "english": "<span data-i18n-slot=\"0\">Enter after upside confirmation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Entre após confirmação positiva</span>"
+    },
+    {
+      "key": "t4b8b5964ac33b5e6",
+      "english": "<span data-i18n-slot=\"0\">Limit Order</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ordem Limitada</span>"
+    },
+    {
+      "key": "t955e3086854c8c48",
+      "english": "<span data-i18n-slot=\"0\">The screenshot should make the pending-order type and limit-price field easy to identify before the order is submitted.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A captura de tela deve facilitar a identificação do tipo de ordem pendente e do campo de preço limite antes de enviar a ordem.</span>"
+    },
+    {
+      "key": "td10fc6ac256bae9e",
+      "english": "<span data-i18n-slot=\"0\">Enter the required trigger price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Insira o preço de ativação necessário.</span>"
+    },
+    {
+      "key": "tf324e6c32ddff293",
+      "english": "<span data-i18n-slot=\"0\">Review the expiration and submit the order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Revise a validade e envie a ordem.</span>"
+    },
+    {
+      "key": "tbeeb03a536db4613",
+      "english": "<span data-i18n-slot=\"0\">What Common Mistakes Do Traders Make With Order Types?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Que erros comuns os traders cometem com os tipos de ordens?</span>"
+    },
+    {
+      "key": "ta0106ac7ee7ef1c7",
+      "english": "<span data-i18n-slot=\"0\">Focusing on entry type while overlooking trade size and leverage.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Concentrar-se no tipo de entrada e ignorar o tamanho e a alavancagem da negociação.</span>"
+    },
+    {
+      "key": "t698710084fcfc546",
+      "english": "<span data-i18n-slot=\"0\">FAQs About Market, Limit and Stop Orders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Perguntas frequentes sobre ordens de mercado, limite e stop</span>"
+    },
+    {
+      "key": "tb3146b47b6819763",
+      "english": "<span data-i18n-slot=\"0\">Q: What is a limit order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">P: O que é uma ordem limitada?</span>"
+    },
+    {
+      "key": "t79f5dea124118df3",
+      "english": "<span data-i18n-slot=\"0\">Practice the Order Logic Before Trading Live</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pratique a lógica das ordens antes de negociar com dinheiro real</span>"
+    }
+  ]
+}

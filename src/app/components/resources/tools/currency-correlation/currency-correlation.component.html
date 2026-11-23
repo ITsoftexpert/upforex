@@ -12,10 +12,9 @@
       class="mb-0 tw-text-lg tw-underline tw-cursor-pointer tw-text-themePrimary"
       routerLink="/resources/tools"
     >
-      Tools
-    </p>
+       {{ 'Tools' | localize }} </p>
     <p class="mb-0 tw-text-lg">&nbsp;/&nbsp;</p>
-    <p class="mb-0 tw-text-lg">Currency Correlation</p>
+    <p class="mb-0 tw-text-lg">{{ 'Currency Correlation' | localize }}</p>
   </div>
 
   <div class="tw-h-[70vh]">
@@ -30,11 +29,11 @@
   <div style="font-size: 10px">
     <a
       href="https://www.myfxbook.com"
-      title="Myfxbook"
+      [attr.title]="'Myfxbook' | localize"
       class="myfxbookLink"
       target="_self"
       rel="noopener"
-      >Powered by Myfxbook.com</a
+      >{{ 'Powered by Myfxbook.com' | localize }}</a
     >
   </div>
 </div>

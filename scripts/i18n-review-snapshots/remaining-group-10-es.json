@@ -1,0 +1,749 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t6f6b67242353ea00",
+      "english": "ForexBroker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#tag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "corredor de divisas"
+    },
+    {
+      "key": "t7268954467f82360",
+      "english": "FOREXBROKER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#upperTag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "CORREDOR DE FOREX"
+    },
+    {
+      "key": "tc40540d5b426a7bf",
+      "english": "BrokerComparison",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#tag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "Comparación de corredores"
+    },
+    {
+      "key": "tea0360d5d116cabf",
+      "english": "BROKERCOMPARISON",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#upperTag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "COMPARACIÓN DE BROKER"
+    },
+    {
+      "key": "t4f413ac2f42a7a88",
+      "english": "How to Trade Stock CFDs: Apple, Tesla & Nvidia (Earnings-Season Guide)",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#title",
+        "SSR:/blogs",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "Cómo operar con CFD sobre acciones: Apple, Tesla y Nvidia (Guía de la temporada de resultados)"
+    },
+    {
+      "key": "t5bf8a6383f314250",
+      "english": "How to Trade Stock CFDs: Apple, Tesla & Nvidia",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#metaTitle",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "Cómo operar con CFD sobre acciones: Apple, Tesla y Nvidia"
+    },
+    {
+      "key": "td82e64b929bb094d",
+      "english": "Learn how to trade Apple, Tesla and Nvidia CFDs during earnings season while managing leverage, gaps, spreads and volatility.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#description",
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#descriptionSnippet",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "Aprenda a operar con CFD de Apple, Tesla y Nvidia durante la temporada de resultados mientras gestiona el apalancamiento, las brechas, los diferenciales y la volatilidad."
+    },
+    {
+      "key": "t0562fb9d5522e35b",
+      "english": "Trade Stock CFDs: Apple, Tesla & Nvidia",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#imageAltTag",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "Opere CFD sobre acciones: Apple, Tesla y Nvidia"
+    },
+    {
+      "key": "t286fe971f0ea9697",
+      "english": "StockCFDs",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#tag",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "CFD sobre acciones"
+    },
+    {
+      "key": "t9eef3211917b96b7",
+      "english": "STOCKCFDS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#upperTag",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "CFD SOBRE ACCIONES"
+    },
+    {
+      "key": "te10300875f0aa40b",
+      "english": "TeslaCFD",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#tag",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "CFD sobre Tesla"
+    },
+    {
+      "key": "ta3363b470d04fd4b",
+      "english": "TESLACFD",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#upperTag",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "CFD SOBRE TESLA"
+    },
+    {
+      "key": "te19cb9adcf79eeb5",
+      "english": "Stop-Loss & Take-Profit",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#imageAltTag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "Stop Loss y Take Profit"
+    },
+    {
+      "key": "td86a24c47e65da68",
+      "english": "TakeProfit",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#tag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "tomar ganancias"
+    },
+    {
+      "key": "t81524e041426e628",
+      "english": "TAKEPROFIT",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#upperTag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "TOMAR BENEFICIOS"
+    },
+    {
+      "key": "tac11b1420efb5394",
+      "english": "MT5Orders",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#tag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "Órdenes en MT5"
+    },
+    {
+      "key": "t03a80fe2112d74f4",
+      "english": "MT5ORDERS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#upperTag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "ÓRDENES EN MT5"
+    },
+    {
+      "key": "t8958729507d3f13f",
+      "english": "TrailingStop",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#tag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "Stop dinámico"
+    },
+    {
+      "key": "tcecd2b958cd6e9bf",
+      "english": "TRAILINGSTOP",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#upperTag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "STOP DINÁMICO"
+    },
+    {
+      "key": "t28ebf7b50faa1ed1",
+      "english": "RiskReward",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#tag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "RiesgoRecompensa"
+    },
+    {
+      "key": "t8435b2f5a54a2291",
+      "english": "RISKREWARD",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#upperTag",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "RIESGORECOMPENSA"
+    },
+    {
+      "key": "t9255eb06277590bc",
+      "english": "See the best UAE trading hours in GST for forex overlaps, Nasdaq, gold and ADX, with DST conversions and practical timing guidance.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#description",
+        "CMS:blogs/best-trading-hours-middle-east-traders#descriptionSnippet",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "Vea los mejores horarios de negociación de los EAU en GST para superposiciones de divisas, Nasdaq, oro y ADX, con conversiones de horario de verano y orientación práctica sobre tiempos."
+    },
+    {
+      "key": "tc2e9a6119575aa55",
+      "english": "TradingHours",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#tag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "Horario de negociación"
+    },
+    {
+      "key": "tf00c28116d54f695",
+      "english": "TRADINGHOURS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#upperTag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "HORARIOS DE COMERCIO"
+    },
+    {
+      "key": "tffbaa2aa3ec30448",
+      "english": "MiddleEastTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#tag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "Operaciones en Oriente Medio"
+    },
+    {
+      "key": "t3d25a4ea23483548",
+      "english": "MIDDLEEASTTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#upperTag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "OPERACIONES EN ORIENTE MEDIO"
+    },
+    {
+      "key": "tcca426fcc6fcd16e",
+      "english": "ForexSessions",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#tag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "Sesiones Forex"
+    },
+    {
+      "key": "taadabe9cf5d74d4e",
+      "english": "FOREXSESSIONS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#upperTag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "SESIONES FOREX"
+    },
+    {
+      "key": "t787f054d49c5acad",
+      "english": "NasdaqGST",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#tag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "Nasdaq en horario GST"
+    },
+    {
+      "key": "tdc77a82db66f514d",
+      "english": "NASDAQGST",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#upperTag",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "NASDAQ EN HORARIO GST"
+    },
+    {
+      "key": "t64c873c6e52a2ef2",
+      "english": "Leverage & Margin Explained (With Real Examples)",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#title",
+        "SSR:/blogs",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "Apalancamiento y margen explicados (con ejemplos reales)"
+    },
+    {
+      "key": "t39ad4cbccce2d006",
+      "english": "Learn leverage, margin, margin level, and margin calls through clear formulas and worked trading examples before placing a trade.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#description",
+        "CMS:blogs/forex-leverage-and-margin-explained#descriptionSnippet",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "Aprenda apalancamiento, margen, nivel de margen y llamadas de margen a través de fórmulas claras y ejemplos comerciales trabajados antes de realizar una operación."
+    },
+    {
+      "key": "t0c4b0e6615a5fd96",
+      "english": "Forex Leverage & Margin Explained",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#imageAltTag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "Apalancamiento y margen de Forex explicados"
+    },
+    {
+      "key": "tf84375528dc24ee8",
+      "english": "ForexLeverage",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#tag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "Apalancamiento Forex"
+    },
+    {
+      "key": "tcf5ca7b2dfac4a48",
+      "english": "FOREXLEVERAGE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#upperTag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "FOREXApalancamiento"
+    },
+    {
+      "key": "ta6be1ecc397c1098",
+      "english": "TradingMargin",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#tag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "Margen comercial"
+    },
+    {
+      "key": "t01c62dac087acdf8",
+      "english": "TRADINGMARGIN",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#upperTag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "MARGEN COMERCIAL"
+    },
+    {
+      "key": "t181f6e3f82b952b3",
+      "english": "StopOut",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#tag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "Cierre forzoso (stop-out)"
+    },
+    {
+      "key": "t2b82bb1fcb0795d3",
+      "english": "STOPOUT",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#upperTag",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "CIERRE FORZOSO (STOP-OUT)"
+    },
+    {
+      "key": "t8005b9401799d79c",
+      "english": "ForexMistakes",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#tag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "Errores Forex"
+    },
+    {
+      "key": "t211114204c5892bc",
+      "english": "FOREXMISTAKES",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#upperTag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "ERRORES FOREX"
+    },
+    {
+      "key": "t38ae7bd1beb790e5",
+      "english": "TradingRisk",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#tag",
+        "CMS:blogs/why-retail-traders-lose-money#tag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "Riesgo comercial"
+    },
+    {
+      "key": "t678bfe31fb8fa885",
+      "english": "TRADINGRISK",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#upperTag",
+        "CMS:blogs/why-retail-traders-lose-money#upperTag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "RIESGO COMERCIAL"
+    },
+    {
+      "key": "tdcb7734c7323d818",
+      "english": "BeginnerTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#tag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "Operaciones para principiantes"
+    },
+    {
+      "key": "td780ceec9d51d5f8",
+      "english": "BEGINNERTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#upperTag",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "COMERCIO PRINCIPIANTE"
+    },
+    {
+      "key": "t1048f3aaaf66c7a0",
+      "english": "MT5ExpertAdvisors",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#tag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "Asesores expertos de MT5"
+    },
+    {
+      "key": "teec910aa4cc8bb60",
+      "english": "MT5EXPERTADVISORS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#upperTag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "ASESORES EXPERTOS DE MT5"
+    },
+    {
+      "key": "t34aa4aa27a33d1d0",
+      "english": "AutomatedTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#tag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "Comercio automatizado"
+    },
+    {
+      "key": "t10c94ee2c36b3550",
+      "english": "AUTOMATEDTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#upperTag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "COMERCIO AUTOMATIZADO"
+    },
+    {
+      "key": "tc1d340b3c94bd47d",
+      "english": "EAINSTALLATION",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#upperTag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "INSTALACIÓN DE EA"
+    },
+    {
+      "key": "tb8956e60beaeb58c",
+      "english": "TradingBots",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#tag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "Robots comerciales"
+    },
+    {
+      "key": "t8d880640fb86ef6c",
+      "english": "TRADINGBOTS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#upperTag",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "BOTS COMERCIALES"
+    },
+    {
+      "key": "tf4c54c6ef3e6a832",
+      "english": "Candlestick Patterns 101: How to Read Charts Like a Pro",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#title",
+        "SSR:/blogs",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "Patrones de velas japonesas 101: cómo leer gráficos como un profesional"
+    },
+    {
+      "key": "te1124908c01fc0c6",
+      "english": "Candlestick Patterns: How to Read Trading Charts",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#metaTitle",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "Patrones de velas japonesas: cómo leer gráficos comerciales"
+    },
+    {
+      "key": "t0e31aab3fc693a39",
+      "english": "Candlestick Patterns",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#imageAltTag",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "Patrones de velas"
+    },
+    {
+      "key": "t0c52dd6346d44119",
+      "english": "CandlestickPatterns",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#tag",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "Patrones de velas"
+    },
+    {
+      "key": "t8c3d0f8303a11839",
+      "english": "CANDLESTICKPATTERNS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#upperTag",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "PATRONES DE VELAS"
+    },
+    {
+      "key": "te4872e7a91530684",
+      "english": "TECHNICALANALYSIS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#upperTag",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "ANÁLISIS TÉCNICO"
+    },
+    {
+      "key": "t873f1e40729dfff2",
+      "english": "ChartPatterns",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#tag",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "Patrones de gráficos"
+    },
+    {
+      "key": "te85631202f3b2cd2",
+      "english": "CHARTPATTERNS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#upperTag",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "PATRONES DE GRÁFICOS"
+    },
+    {
+      "key": "tc3c1261b4a7714c1",
+      "english": "RetailTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#tag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "Operaciones de inversores minoristas"
+    },
+    {
+      "key": "t472d253b08e31361",
+      "english": "RETAILTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#upperTag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "OPERACIONES DE INVERSORES MINORISTAS"
+    },
+    {
+      "key": "tdc8f1b5acc596220",
+      "english": "ForexRisk",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#tag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "Riesgo Forex"
+    },
+    {
+      "key": "t3e31263a9f46de40",
+      "english": "FOREXRISK",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#upperTag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "RIESGO FOREX"
+    },
+    {
+      "key": "t0e63cae118d86867",
+      "english": "CFDTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#tag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "Comercio de CFD"
+    },
+    {
+      "key": "tec0e0861612a8ca7",
+      "english": "CFDTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#upperTag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "COMERCIO CFD"
+    },
+    {
+      "key": "t9f44f729fb99794d",
+      "english": "LeverageRisk",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#tag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "Riesgo de apalancamiento"
+    },
+    {
+      "key": "tc69f7ee9fd07f80d",
+      "english": "LEVERAGERISK",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#upperTag",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "RIESGO DE APALANCAMIENTO"
+    },
+    {
+      "key": "tf0fac352f10c3dca",
+      "english": "GOLD CFD TRADING, GOLD TRADING UAE, XAU/USD TRADING, GOLD TRADING DUBAI, CFD TRADING UAE, PRECIOUS METALS UAE, GOLD CFD 2026, MT5 GOLD TRADING, GOLD CFD LEVERAGE, SCA REGULATED TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#upperTag",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "COMERCIO DE CFD DE ORO, COMERCIO DE ORO EAU, COMERCIO XAU/USD, COMERCIO DE ORO DUBAI, COMERCIO DE CFD EAU, METALES PRECIOSOS EAU, CFD DE ORO 2026, MT5 COMERCIO DE ORO, APALANCAMIENTO DE CFD DE ORO, COMERCIO REGULADO POR SCA"
+    },
+    {
+      "key": "t9da2ba6a8345eecc",
+      "english": "how to invest in gold in uae",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#imageAltTag",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "cómo invertir en oro en eau"
+    }
+  ]
+}

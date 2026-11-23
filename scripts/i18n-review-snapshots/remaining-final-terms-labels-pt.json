@@ -1,0 +1,16 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tc4e2abcc29b61bdc",
+      "english": "Updated: {0}",
+      "kind": "text",
+      "sources": [
+        "src/app/components/terms-display/terms-display.component.html"
+      ],
+      "translation": "Atualizado: {0}"
+    }
+  ]
+}

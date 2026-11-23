@@ -1,0 +1,637 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t3684ae52ec0a1d22",
+      "english": "<span data-i18n-slot=\"0\">Overnight financing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オーバーナイト融資</span>"
+    },
+    {
+      "key": "t7a21647db8da1f07",
+      "english": "<span data-i18n-slot=\"0\">A potential charge or adjustment for eligible positions held overnight</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">夜間に保有される適格なポジションに対する請求または調整の可能性</span>"
+    },
+    {
+      "key": "tb51dc75cf3f83308",
+      "english": "<span data-i18n-slot=\"0\">Lower liquidity can occur:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流動性の低下が発生する可能性があります。</span>"
+    },
+    {
+      "key": "tc7fbb88abd971106",
+      "english": "<span data-i18n-slot=\"0\">Around certain market openings or closings</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">特定の市場の開始または終了の前後</span>"
+    },
+    {
+      "key": "t02a4bc252ca19e7b",
+      "english": "<span data-i18n-slot=\"0\">During quieter trading sessions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">静かな取引セッション中</span>"
+    },
+    {
+      "key": "t83b3bff04f76968e",
+      "english": "<span data-i18n-slot=\"0\">In less actively traded instruments</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">あまり活発に取引されていない金融商品</span>"
+    },
+    {
+      "key": "te257b27d0594825f",
+      "english": "<span data-i18n-slot=\"0\">During unusual market conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">異常な市況時</span>"
+    },
+    {
+      "key": "t7e7c7db952481bd1",
+      "english": "<span data-i18n-slot=\"0\">Order Size Relative to Liquidity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流動性に対する注文サイズ</span>"
+    },
+    {
+      "key": "t564d75e557ada3a1",
+      "english": "<span data-i18n-slot=\"0\">The route between a trader's platform, the broker's infrastructure, and available execution venues can also influence the time between order submission and execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーのプラットフォーム、ブローカーのインフラストラクチャ、利用可能な約定会場の間のルートも、注文の送信と約定の間の時間に影響を与える可能性があります。</span>"
+    },
+    {
+      "key": "tc939158aa2e96340",
+      "english": "<span data-i18n-slot=\"0\">Why Are Market Orders More Exposed to Slippage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">なぜ成行注文はスリッページにさらされやすいのでしょうか?</span>"
+    },
+    {
+      "key": "t28c20cc4f4fe7eea",
+      "english": "<span data-i18n-slot=\"0\">Limit orders work differently.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">指値注文の仕組みは異なります。</span>"
+    },
+    {
+      "key": "t5ebc74a200e513a0",
+      "english": "<span data-i18n-slot=\"0\">A limit order allows a trader to specify a price condition. That provides more control over the acceptable execution price, but it introduces another trade-off: </span><span data-i18n-slot=\"1\">the order may not execute at all</span><span data-i18n-slot=\"2\"> if the required price is not available.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">指値注文を使用すると、トレーダーは価格条件を指定できます。これにより、許容可能な約定価格をより細かく制御できるようになりますが、別のトレードオフが生じます。</span><span data-i18n-slot=\"1\">必要な価格が利用できない場合、注文はまったく約定されない可能性があります。</span><span data-i18n-slot=\"2\"></span>"
+    },
+    {
+      "key": "tef1b07454f929663",
+      "english": "<span data-i18n-slot=\"0\">Understanding this difference is important because managing slippage often involves choosing between execution certainty and price control.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページの管理には、約定の確実性と価格管理のどちらかを選択する必要があることが多いため、この違いを理解することが重要です。</span>"
+    },
+    {
+      "key": "taa0458771b7c9ee5",
+      "english": "<span data-i18n-slot=\"0\">Positive Slippage vs Negative Slippage: What's the Difference?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プラスのスリッページとマイナスのスリッページ: 違いは何ですか?</span>"
+    },
+    {
+      "key": "t467bf38c9b2c5f8c",
+      "english": "<span data-i18n-slot=\"0\">Positive slippage means an order executes at a price more favorable than expected. Negative slippage means the execution price is less favorable.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プラスのスリッページとは、予想より有利な価格で注文が約定することを意味します。マイナスのスリッページは、約定価格が不利であることを意味します。</span>"
+    },
+    {
+      "key": "t47d0a9cefffe82a2",
+      "english": "<span data-i18n-slot=\"0\">Lower execution price = positive slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定価格が低い = プラスのスリッページ</span>"
+    },
+    {
+      "key": "tab623a2858d39f10",
+      "english": "<span data-i18n-slot=\"0\">Higher execution price = negative slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定価格が高い = マイナスのスリッページ</span>"
+    },
+    {
+      "key": "t8c2ac3988d0d79d8",
+      "english": "<span data-i18n-slot=\"0\">Higher execution price = positive slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定価格が高い = プラスのスリッページ</span>"
+    },
+    {
+      "key": "taf9db31677145e6a",
+      "english": "<span data-i18n-slot=\"0\">Lower execution price = negative slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定価格の低下 = マイナスのスリッページ</span>"
+    },
+    {
+      "key": "ta096bf2747ffdcf5",
+      "english": "<span data-i18n-slot=\"0\">Buy Order Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">買い注文の例</span>"
+    },
+    {
+      "key": "tee7b1183443c73a7",
+      "english": "<span data-i18n-slot=\"0\">Expected 1.1050, filled 1.1047</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">予想1.1050、約定1.1047</span>"
+    },
+    {
+      "key": "t4cb17498a288a1a2",
+      "english": "<span data-i18n-slot=\"0\">Expected 1.1050, filled 1.1053</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">予想1.1050、約定1.1053</span>"
+    },
+    {
+      "key": "t21baf4ac269c651a",
+      "english": "<span data-i18n-slot=\"0\">Price moves favorably before execution and the better price remains available</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定前に価格が有利に推移し、より有利な価格が引き続き利用可能になる</span>"
+    },
+    {
+      "key": "t1711a54d28f6bd2b",
+      "english": "<span data-i18n-slot=\"0\">Negative slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">マイナスのスリッページ</span>"
+    },
+    {
+      "key": "t773fc67b2fdabdd7",
+      "english": "<span data-i18n-slot=\"0\">Execution is less favorable than expected</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">執行は予想より芳しくない</span>"
+    },
+    {
+      "key": "t9b5d5e44ea9f25f8",
+      "english": "<span data-i18n-slot=\"0\">Fast adverse movement, gaps, or reduced liquidity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">急速な逆方向の動き、ギャップ、または流動性の低下</span>"
+    },
+    {
+      "key": "tbab19f2d11fddd89",
+      "english": "<span data-i18n-slot=\"0\">No slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページなし</span>"
+    },
+    {
+      "key": "t6fce907a2e4245e0",
+      "english": "<span data-i18n-slot=\"0\">Execution matches the expected price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定は予想価格と一致します</span>"
+    },
+    {
+      "key": "t304acd532e25bcc1",
+      "english": "<span data-i18n-slot=\"0\">Expected 1.1050, filled 1.1050</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">予想 1.1050、約定 1.1050</span>"
+    },
+    {
+      "key": "t583e49ba6838d2a6",
+      "english": "<span data-i18n-slot=\"0\">The expected price remains available at execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">予想価格は約定時にも利用可能です</span>"
+    },
+    {
+      "key": "ta40c50343c36c0bc",
+      "english": "<span data-i18n-slot=\"0\">Slippage difference = Execution Price − Expected Price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページ差＝約定価格−期待価格</span>"
+    },
+    {
+      "key": "t96f387fad69db82a",
+      "english": "<span data-i18n-slot=\"0\">If the buy order had instead executed at 1.1046, the trader would receive a price 4 pips lower than expected, creating positive slippage.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">買い注文が 1.1046 で約定した場合、トレーダーは予想より 4 ピップス低い価格を受け取ることになり、プラスのスリッページが発生します。</span>"
+    },
+    {
+      "key": "t0979fa14f03d7298",
+      "english": "<span data-i18n-slot=\"0\">Slippage can be expressed using price units such as pips or points depending on the instrument and platform conventions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページは、商品やプラットフォームの規約に応じて、ピップやポイントなどの価格単位を使用して表現できます。</span>"
+    },
+    {
+      "key": "t694104e44efd8014",
+      "english": "<span data-i18n-slot=\"0\">Instant Execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">即時約定</span>"
+    },
+    {
+      "key": "td466f4ac28e1f1be",
+      "english": "<span data-i18n-slot=\"0\">Request Execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">リクエスト約定</span>"
+    },
+    {
+      "key": "t0ea9102611098c9e",
+      "english": "<span data-i18n-slot=\"0\">Under Instant Execution, for example, a price movement beyond the accepted deviation may result in a requote rather than automatic execution at the changed price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">たとえば、即時約定では、許容された偏差を超える価格変動があった場合、変更された価格での自動約定ではなく再クォートが行われる可能性があります。</span>"
+    },
+    {
+      "key": "t3255378a7e92281c",
+      "english": "<span data-i18n-slot=\"0\">Assume a trader submits a market buy order while the expected price is 1.1050 shortly before a high-impact economic announcement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">影響の大きい経済発表の直前に、予想価格が 1.1050 であるときにトレーダーが成行買い注文を提出したとします。</span>"
+    },
+    {
+      "key": "t8de28469dde5c18b",
+      "english": "<span data-i18n-slot=\"0\">Execution Stage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定段階</span>"
+    },
+    {
+      "key": "tc76642d5c513e049",
+      "english": "<span data-i18n-slot=\"0\">Positive Slippage Outcome</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プラスのスリッページ結果</span>"
+    },
+    {
+      "key": "t75f745c90bc3d681",
+      "english": "<span data-i18n-slot=\"0\">Negative Slippage Outcome</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">マイナスのスリッページ結果</span>"
+    },
+    {
+      "key": "tf3d21b454d4092f7",
+      "english": "<span data-i18n-slot=\"0\">3 pips lower</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3pips下がった</span>"
+    },
+    {
+      "key": "t624a11aa31ff4d16",
+      "english": "<span data-i18n-slot=\"0\">Result for buyer</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">購入者の結果</span>"
+    },
+    {
+      "key": "t53e11f1e7d02300e",
+      "english": "<span data-i18n-slot=\"0\">More favorable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">より有利</span>"
+    },
+    {
+      "key": "t41ed93de2831d9d2",
+      "english": "<span data-i18n-slot=\"0\">Less favorable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">あまり好ましくない</span>"
+    },
+    {
+      "key": "t081a491883b12d70",
+      "english": "<span data-i18n-slot=\"0\">Slippage type</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページの種類</span>"
+    },
+    {
+      "key": "t571e3ebc6c29b162",
+      "english": "<span data-i18n-slot=\"0\">Outcome 1: Positive Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">結果 1: プラスのスリッページ</span>"
+    },
+    {
+      "key": "t16de297eee0f7944",
+      "english": "<span data-i18n-slot=\"0\">Instead of filling at 1.1050, the order executes at 1.1047.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">注文は1.1050ではなく1.1047で約定します。</span>"
+    },
+    {
+      "key": "t4f65195571488869",
+      "english": "<span data-i18n-slot=\"0\">Outcome 2: Negative Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">結果 2: マイナスのスリッページ</span>"
+    },
+    {
+      "key": "t8169a695652588c9",
+      "english": "<span data-i18n-slot=\"0\">What Does High Slippage Mean?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">大きなスリッページとはどういう意味ですか？</span>"
+    },
+    {
+      "key": "t5ff1bf431f5656e1",
+      "english": "<span data-i18n-slot=\"0\">High slippage means there is a relatively large difference between the expected price and the actual execution price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページが大きいということは、予想価格と実際の約定価格の間に比較的大きな差があることを意味します。</span>"
+    },
+    {
+      "key": "ta8cb06bbbb0219b3",
+      "english": "<span data-i18n-slot=\"0\">It may occur when:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次の場合に発生する可能性があります。</span>"
+    },
+    {
+      "key": "tf518f68125738021",
+      "english": "<span data-i18n-slot=\"0\">Execution is delayed</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定が遅延する</span>"
+    },
+    {
+      "key": "t3002e6903179ce62",
+      "english": "<span data-i18n-slot=\"0\">High slippage does not have one universal numerical threshold.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">高スリッページには、単一の普遍的な数値閾値はありません。</span>"
+    },
+    {
+      "key": "t83da3e863a6bd5d2",
+      "english": "<span data-i18n-slot=\"0\">What may be considered unusually large for one instrument could be normal for another because tick size, volatility, liquidity, and trading conditions differ.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ティックサイズ、ボラティリティ、流動性、取引条件が異なるため、ある商品では異常に大きいとみなされるものでも、別の商品では正常である可能性があります。</span>"
+    },
+    {
+      "key": "t5a79465170964a0f",
+      "english": "<span data-i18n-slot=\"0\">Execution policy</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定方針</span>"
+    },
+    {
+      "key": "t9c67339522be1fd7",
+      "english": "<span data-i18n-slot=\"0\">Requote or rejection rules</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">リクオートまたは注文拒否のルール</span>"
+    },
+    {
+      "key": "tc2e0b47765618397",
+      "english": "<span data-i18n-slot=\"0\">Order-routing structure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オーダールーティング構造</span>"
+    },
+    {
+      "key": "t01ccc0938b7b07bf",
+      "english": "<span data-i18n-slot=\"0\">Actual execution records</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">実際の約定記録</span>"
+    },
+    {
+      "key": "t943bc3f0de6555c8",
+      "english": "<span data-i18n-slot=\"0\">Searching for the “lowest slippage broker” without considering these factors can oversimplify execution quality.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これらの要素を考慮せずに「スリッページが最も低いブローカー」を検索すると、執行品質が過度に単純化される可能性があります。</span>"
+    },
+    {
+      "key": "t792f4f026539ed8e",
+      "english": "<span data-i18n-slot=\"0\">How Can Traders Manage Slippage Risk?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーはスリッページのリスクをどのように管理できるでしょうか?</span>"
+    },
+    {
+      "key": "ta297a3342b47edc0",
+      "english": "<span data-i18n-slot=\"0\">Slippage cannot be eliminated completely, but traders can make execution choices that reduce exposure to some of the conditions associated with unfavorable fills.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページを完全に排除することはできませんが、トレーダーは不利な約定に関連するいくつかの条件への曝露を軽減する執行選択を行うことができます。</span>"
+    },
+    {
+      "key": "t30bbc8c51a544c5f",
+      "english": "<span data-i18n-slot=\"0\">A limit order can provide more control over the price condition for entry or exit.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">指値注文を使用すると、エントリーまたはエグジットの価格条件をより詳細に制御できます。</span>"
+    },
+    {
+      "key": "t64aaea8d9ad1f11f",
+      "english": "<span data-i18n-slot=\"0\">However, this creates a trade-off.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ただし、これにはトレードオフが生じます。</span>"
+    }
+  ]
+}

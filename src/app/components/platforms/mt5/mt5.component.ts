@@ -1,15 +1,18 @@
+import { NativeTranslationService } from 'src/app/core/services/native-translation.service';
 import { isPlatformBrowser } from '@angular/common';
 import { Component, Inject, PLATFORM_ID, OnInit } from '@angular/core';
 import { Store } from 'src/app/Store/store';
 import { Title, Meta } from '@angular/platform-browser';
 
 @Component({
+  standalone: false,
   selector: 'app-mt5',
   templateUrl: './mt5.component.html',
   styleUrls: ['./mt5.component.scss'],
 })
 export class Mt5Component implements OnInit {
   constructor(
+    private native: NativeTranslationService,
     private store: Store,
     @Inject(PLATFORM_ID) private platformId: Object,
     private titleService: Title,
@@ -17,6 +20,7 @@ export class Mt5Component implements OnInit {
   ) {}
 
   selectedDownload = '1';
+  readonly carouselText = { title: 'Slide {0} of {1}' };
   s3URL!: string;
 
   ngOnInit() {
@@ -24,16 +28,16 @@ export class Mt5Component implements OnInit {
 
     // ✅ Set Meta Title & Description
     this.titleService.setTitle(
-      'Trade on MT5 Platform | Top Multi-Asset Trading Platform'
+      this.native.metadata('title', 'Trade on MT5 Platform | Top Multi-Asset Trading Platform')
     );
     this.metaService.updateTag({
       name: 'description',
       content:
-        'Trade on MT5 Platform with UPFOREX, the trusted Multi-Asset Trading Platform offering powerful tools, secure trading, and affordable costs. Trade Smarter!',
+        this.native.metadata('description', 'Trade on MT5 Platform with UPFOREX, the trusted Multi-Asset Trading Platform offering powerful tools, secure trading, and affordable costs. Trade Smarter!'),
     });
     this.metaService.updateTag({
       name: 'keywords',
-      content: 'mt5 platform, multi-asset trading platform​',
+      content: this.native.translate('mt5 platform, multi-asset trading platform​'),
     });
   }
 

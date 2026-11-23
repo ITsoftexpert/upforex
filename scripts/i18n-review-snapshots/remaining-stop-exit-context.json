@@ -1,0 +1,48 @@
+{
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "note": "The unchanged English CMS splits take-profit across two paragraphs. Translate both adjacent fragments together, preserving both original paragraph slots and the complete meaning.",
+  "keys": ["t01fab2f0f1dde1d4", "tfab800f6ddfc6944"],
+  "translations": {
+    "hi": [
+      "स्टॉप-लॉस और टेक-प्रॉफिट मूल्य आधारित निकास निर्देश हैं, जो किसी खुली पोज़िशन या पेंडिंग ऑर्डर से जुड़े होते हैं। स्टॉप-लॉस उस स्तर पर लगाया जाता है जहाँ ट्रेड का आधार अमान्य माना जाना चाहिए। टेक-प्रॉफिट",
+      "उस स्तर पर लगाया जाता है जहाँ ट्रेडर लाभदायक पोज़िशन बंद करने की योजना बनाता है।"
+    ],
+    "ar": [
+      "وقف الخسارة وجني الأرباح تعليمات خروج تعتمد على السعر وتُرفق بمركز مفتوح أو أمر معلق. يُوضع وقف الخسارة عند المستوى الذي ينبغي عنده اعتبار فكرة الصفقة غير صالحة. أما جني الأرباح",
+      "فيُوضع عند المستوى الذي يخطط فيه المتداول لإغلاق مركز رابح."
+    ],
+    "fr": [
+      "Un stop-loss et un take-profit sont des instructions de sortie fondées sur le prix et rattachées à une position ouverte ou à un ordre en attente. Un stop-loss est placé au niveau auquel l’idée de trading doit être considérée comme invalidée. Un take-profit",
+      "est placé là où le trader prévoit de clôturer une position gagnante."
+    ],
+    "es": [
+      "El stop-loss y el take-profit son instrucciones de salida basadas en el precio y vinculadas a una posición abierta o a una orden pendiente. El stop-loss se coloca en el nivel en el que la idea de la operación debe considerarse invalidada. El take-profit",
+      "se coloca donde el operador tiene previsto cerrar una posición ganadora."
+    ],
+    "de": [
+      "Stop-Loss und Take-Profit sind preisbasierte Ausstiegsanweisungen, die einer offenen Position oder einer ausstehenden Order zugeordnet sind. Ein Stop-Loss wird dort gesetzt, wo die Handelsidee als ungültig gelten sollte. Ein Take-Profit",
+      "wird dort gesetzt, wo der Trader eine erfolgreiche Position schließen möchte."
+    ],
+    "zh-CN": [
+      "止损和止盈是附加于未平仓头寸或挂单的价格型退出指令。止损应设置在交易思路应被视为失效的价位。止盈",
+      "则设置在交易者计划平掉盈利头寸的价位。"
+    ],
+    "zh-TW": [
+      "停損和停利是附加於未平倉部位或掛單的價格型出場指令。停損應設在交易構想應被視為失效的價位。停利",
+      "則設在交易者計畫平掉獲利部位的價位。"
+    ],
+    "ja": [
+      "ストップロスとテイクプロフィットは、保有中のポジションや待機注文に設定する、価格に基づく決済指示です。ストップロスは、取引の根拠が無効になったと判断すべき価格に設定します。テイクプロフィットは",
+      "トレーダーが利益の出ているポジションを決済する予定の価格に設定します。"
+    ],
+    "pt": [
+      "O stop-loss e o take-profit são instruções de saída baseadas no preço e associadas a uma posição aberta ou a uma ordem pendente. O stop-loss é colocado no nível em que a ideia da operação deve ser considerada invalidada. O take-profit",
+      "é colocado onde o operador planeja encerrar uma posição lucrativa."
+    ],
+    "ru": [
+      "Стоп-лосс и тейк-профит — это ценовые инструкции для выхода, привязанные к открытой позиции или отложенному ордеру. Стоп-лосс устанавливают на уровне, при котором торговую идею следует считать недействительной. Тейк-профит",
+      "устанавливают там, где трейдер планирует закрыть прибыльную позицию."
+    ]
+  }
+}

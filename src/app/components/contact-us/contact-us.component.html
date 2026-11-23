@@ -2,8 +2,7 @@
 <div class="container tw-font-montserrat">
   <div class="tw-text-center p-5">
     <h1 class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-bold md:tw-my-4">
-      Contact Us
-    </h1>
+       {{ 'Contact Us' | localize }} </h1>
   </div>
   <div class="tw-grid tw-grid-cols-1 sm:tw-grid-cols-2 lg:tw-grid-cols-3 tw-gap-4 md:tw-px-16">
     <div class="text-white card tw-p-6">
@@ -12,11 +11,9 @@
       </div>
       <div class="tw-border-b-[1px] tw-border-b-white tw-py-4"></div>
       <p class="tw-mt-4 tw-text-lg tw-font-extrabold tw-tracking-wider tw-text-center">
-        Registered Office
-      </p>
+         {{ 'Registered Office' | localize }} </p>
       <p class="tw-text-sm tw-font-semibold tw-text-white tw-text-center">
-        4th Floor, Docks 4, The Docks, Caudan, Port Louis, Mauritius
-      </p>
+         {{ '4th Floor, Docks 4, The Docks, Caudan, Port Louis, Mauritius' | localize }} </p>
     </div>
 
     <div class="text-white card tw-p-6">
@@ -28,8 +25,7 @@
         <a href="mailto:support@upforex.com" class="tw-text-white tw-no-underline">support&#64;upforex.com</a>
       </p>
       <p class="tw-text-sm tw-font-semibold tw-text-white tw-text-center">
-        For Public Inquiries
-      </p>
+         {{ 'For Public Inquiries' | localize }} </p>
     </div>
 
     <div class="text-white card tw-p-6">
@@ -48,8 +44,7 @@
 
       </p>
       <p class="tw-text-sm tw-font-semibold tw-text-white tw-text-center">
-        MON - FRI, 9AM - 5PM
-      </p>
+         {{ 'MON - FRI, 9AM - 5PM' | localize }} </p>
     </div>
   </div>
   <section id="contact-us"></section>
@@ -57,13 +52,12 @@
   <!-- Form -->
 
   <p class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-bold text-center tw-mb-12">
-    Let's get in touch
-  </p>
+     {{ 'Let\'s get in touch' | localize }} </p>
   <section class="md:tw-p-0 tw-mb-12">
     <div class="tw-flex tw-justify-center tw-flex-col md:tw-flex-row tw-p-0 tw-gap-8 tw-px-6 sm:tw-px-6 ms:tw-px-0">
       <div class="tw-w-full md:tw-w-1/2 tw-p-0">
         <form class="tw-max-w-sm tw-mx-auto" [formGroup]="contactForm" (ngSubmit)="onSubmit()">
-          <label for="full-name" class="tw-block tw-mb-2 tw-text-lg tw-font-medium tw-text-white">Full Name</label>
+          <label for="full-name" class="tw-block tw-mb-2 tw-text-lg tw-font-medium tw-text-white">{{ 'Full Name' | localize }}</label>
           <div class="tw-flex">
             <span
               class="tw-inline-flex tw-items-center tw-px-3 tw-text-sm tw-border tw-border-e-0 tw-rounded-s-md tw-bg-black">
@@ -74,21 +68,20 @@
               class="tw-inline-flex tw-items-center tw-px-3 tw-text-sm tw-border tw-border-e-0 tw-bg-black tw-text-white tw-outline-none tw-cursor-default select-wrapper"
               (change)="changeSelect($event)">
               <option *ngFor="let initial of initials" [value]="initial">
-                {{ initial }}
+                {{ (initial) | localize }}
               </option>
             </select>
             <input type="text" id="full-name"
               class="tw-rounded-none tw-outline-none tw-text-white tw-rounded-e-lg tw-border tw-border-s-0 tw-block tw-flex-1 tw-min-w-0 tw-w-full tw-text-sm tw-p-2.5 tw-bg-black"
-              placeholder="Enter Full Name" formControlName="fullName" />
+              [attr.placeholder]="'Enter Full Name' | localize" formControlName="fullName" />
           </div>
           <p class="tw-mt-2 tw-text-sm tw-font-semibold tw-text-red-600" *ngIf="
               contactForm.get('fullName')?.invalid &&
               contactForm.get('fullName')?.touched
             ">
-            This field is required.
-          </p>
+             {{ 'This field is required.' | localize }} </p>
 
-          <label for="email" class="tw-block tw-mt-6 tw-mb-2 tw-text-lg tw-font-medium tw-text-white">Email</label>
+          <label for="email" class="tw-block tw-mt-6 tw-mb-2 tw-text-lg tw-font-medium tw-text-white">{{ 'Email' | localize }}</label>
           <div class="tw-flex">
             <span
               class="tw-inline-flex tw-items-center tw-px-3 tw-text-sm tw-border tw-border-e-0 tw-rounded-s-md tw-bg-black">
@@ -96,7 +89,7 @@
             </span>
             <input type="text" id="email"
               class="tw-rounded-none tw-outline-none tw-text-white tw-rounded-e-lg tw-border tw-block tw-flex-1 tw-min-w-0 tw-w-full tw-text-sm tw-p-2.5 tw-bg-black"
-              placeholder="Enter Email" formControlName="email" />
+              [attr.placeholder]="'Enter Email' | localize" formControlName="email" />
           </div>
           <p *ngIf="
               contactForm.get('email')?.invalid &&
@@ -104,8 +97,7 @@
                 !contactForm.get('email')?.hasError('email');
               else emailValidError
             " class="tw-mt-2 tw-text-sm tw-font-semibold tw-text-red-600">
-            This field is required.
-          </p>
+             {{ 'This field is required.' | localize }} </p>
 
           <ng-template #emailValidError>
             <p *ngIf="
@@ -113,11 +105,10 @@
                 contactForm.get('email')?.touched &&
                 contactForm.get('email')?.hasError('email')
               " class="tw-mt-2 tw-text-sm tw-font-semibold tw-text-red-600">
-              Please enter a valid email address.
-            </p>
+               {{ 'Please enter a valid email address.' | localize }} </p>
           </ng-template>
 
-          <label for="subject" class="tw-block tw-mt-6 tw-mb-2 tw-text-lg tw-font-medium tw-text-white">Subject</label>
+          <label for="subject" class="tw-block tw-mt-6 tw-mb-2 tw-text-lg tw-font-medium tw-text-white">{{ 'Subject' | localize }}</label>
           <div class="tw-flex">
             <span
               class="tw-inline-flex tw-items-center tw-px-3 tw-text-sm tw-border tw-border-e-0 tw-rounded-s-md tw-bg-black">
@@ -125,38 +116,36 @@
             </span>
             <input type="text" id="subject"
               class="tw-rounded-none tw-outline-none tw-text-white tw-rounded-e-lg tw-border tw-block tw-flex-1 tw-min-w-0 tw-w-full tw-text-sm tw-p-2.5 tw-bg-black"
-              placeholder="Enter Subject" formControlName="subject" />
+              [attr.placeholder]="'Enter Subject' | localize" formControlName="subject" />
           </div>
           <p class="tw-mt-2 tw-text-sm tw-font-semibold tw-text-red-600" *ngIf="
               contactForm.get('subject')?.invalid &&
               contactForm.get('subject')?.touched
             ">
-            This field is required.
-          </p>
+             {{ 'This field is required.' | localize }} </p>
 
-          <label for="message" class="tw-block tw-mt-6 tw-mb-2 tw-text-lg tw-font-medium tw-text-white">Message</label>
+          <label for="message" class="tw-block tw-mt-6 tw-mb-2 tw-text-lg tw-font-medium tw-text-white">{{ 'Message' | localize }}</label>
 
           <div class="tw-flex">
             <textarea id="message"
               class="tw-rounded-lg tw-resize-none tw-outline-none tw-text-white tw-border tw-block tw-flex-1 tw-min-w-0 tw-w-full tw-text-sm tw-p-2.5 tw-bg-black"
-              placeholder="Enter Message" rows="4" formControlName="message"></textarea>
+              [attr.placeholder]="'Enter Message' | localize" rows="4" formControlName="message"></textarea>
           </div>
           <p class="tw-mt-2 tw-text-sm tw-font-semibold tw-text-red-600" *ngIf="
               contactForm.get('message')?.invalid &&
               contactForm.get('message')?.touched
             ">
-            This field is required.
-          </p>
+             {{ 'This field is required.' | localize }} </p>
           <button class="btn btn-md tw-w-full tw-mt-4 text-white tw-mb-4 navbar-button-invert"
             [ngClass]="contactForm.invalid ? 'btn-disabled' : 'btn-enabled'"
             [disabled]="contactForm.invalid || isLoading">
-            {{ buttonName }}
+            {{ (buttonName) | localize }}
           </button>
         </form>
       </div>
       <div class="tw-w-full md:tw-w-1/2 tw-flex tw-justify-center md:tw-items-start md:tw-mt-8">
         <img [src]="s3URL + 'assets/images/JPG/contact-us.webp'" height="600" width="600" class="tw-rounded-2xl"
-          loading="lazy" alt="contact us" />
+          loading="lazy" [attr.alt]="'contact us' | localize" />
       </div>
     </div>
   </section>

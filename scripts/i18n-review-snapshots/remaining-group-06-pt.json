@@ -1,0 +1,393 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t137af4c094c969f4",
+      "english": "Which currency pairs you will study",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Quais pares de moedas você estudará"
+    },
+    {
+      "key": "td534088141d7101d",
+      "english": "Which timeframes you will use",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Quais prazos você usará"
+    },
+    {
+      "key": "t19c4ba95a9ae3c0f",
+      "english": "How you will judge a trade opportunity",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Como você julgará uma oportunidade de negociação"
+    },
+    {
+      "key": "t6c73617e799bdae4",
+      "english": "What must happen before you consider a trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "O que deve acontecer antes de você considerar uma negociação"
+    },
+    {
+      "key": "tf0e43f7ab96a92c4",
+      "english": "The most you will risk on one trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "O máximo que você arriscará em uma negociação"
+    },
+    {
+      "key": "tcccad7dc1ffa46a0",
+      "english": "<span data-i18n-slot=\"0\">Moving averages:</span> show price direction over a set period",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Médias móveis:</span> mostram a direção do preço durante um determinado período"
+    },
+    {
+      "key": "t47b14bbb5c5fd83d",
+      "english": "Build Risk Management Into Your Plan",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Incorpore o gerenciamento de riscos em seu plano"
+    },
+    {
+      "key": "t4e48a0fbd154a417",
+      "english": "The most exposure you will accept",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "A maior exposição que você aceitará"
+    },
+    {
+      "key": "t35a9a19b87ec03eb",
+      "english": "When you will exit a trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Quando você sairá de uma negociação"
+    },
+    {
+      "key": "ta6ac25c0dc2b8a50",
+      "english": "Slippage",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Deslizamento"
+    },
+    {
+      "key": "t05cd1fe6638527e4",
+      "english": "A trading journal helps you check your consistency. For each trade, note:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Um diário comercial ajuda você a verificar sua consistência. Para cada negociação, observe:"
+    },
+    {
+      "key": "ta116da2cca98d8d8",
+      "english": "A good forex strategy needs more than chart patterns or economic news. You need to recognize trends and ranges, understand the fundamentals, set clear rules and manage risk at every step.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Uma boa estratégia cambial precisa de mais do que padrões gráficos ou notícias económicas. Você precisa reconhecer tendências e variações, compreender os fundamentos, definir regras claras e gerenciar riscos em cada etapa."
+    },
+    {
+      "key": "t0af4ec0055e85066",
+      "english": "<span data-i18n-slot=\"0\">3. Which technical indicators are useful for forex analysis?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. Quais indicadores técnicos são úteis para análise cambial?</span>"
+    },
+    {
+      "key": "t9fa392a57b1db549",
+      "english": "What Is Account Equity in Trading? Balance & Floating P/L",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#title",
+        "CMS:blogs/what-is-account-equity-in-trading#metaTitle",
+        "SSR:/blogs",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide",
+        "SSR:/blogs/forex-trading",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "O que é o patrimônio da conta na negociação? Balanço e Flutuação P/L"
+    },
+    {
+      "key": "t1829c25770699981",
+      "english": "AccountEquity",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#tag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "Patrimônio da conta"
+    },
+    {
+      "key": "t811c42f7b95fbda1",
+      "english": "ACCOUNTEQUITY",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#upperTag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "PATRIMÔNIO LÍQUIDO DA CONTA"
+    },
+    {
+      "key": "t9408ef9a0137d1c0",
+      "english": "ForexTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#tag",
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#tag",
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#tag",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "Negociação Forex"
+    },
+    {
+      "key": "tf59b305a85397500",
+      "english": "FOREXTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#upperTag",
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#upperTag",
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#upperTag",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "NEGOCIAÇÃO FOREX"
+    },
+    {
+      "key": "t21e66207ea376c29",
+      "english": "FLOATINGPL",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#upperTag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "FLUTUANTEPL"
+    },
+    {
+      "key": "tf0e1c0f9ed54126d",
+      "english": "<span data-i18n-slot=\"0\">Account equity shows the current value of a trading account while positions are open. It explains why the Balance and Equity figures displayed on MetaTrader 5 (MT5) can show different amounts even when no deposit or withdrawal has taken place.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O patrimônio da conta mostra o valor atual de uma conta de negociação enquanto as posições estão abertas. Explica por que os valores de Saldo e Patrimônio Líquido exibidos em MetaTrader 5 (MT5) podem mostrar valores diferentes mesmo quando nenhum depósito ou retirada foi realizado.</span>"
+    },
+    {
+      "key": "tb24eaaf4e3c27194",
+      "english": "<span data-i18n-slot=\"0\">There is also an important terminology distinction. An “equity trading account” commonly means a brokerage account used to trade company shares. </span><span data-i18n-slot=\"1\">Equity in a trading account</span><span data-i18n-slot=\"2\"> means the live account value after the unrealized results of open forex or CFD positions are included.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Há também uma importante distinção terminológica. Uma “conta de negociação de ações” geralmente significa uma conta de corretagem usada para negociar ações de empresas. </span><span data-i18n-slot=\"1\">Capital em uma conta de negociação</span><span data-i18n-slot=\"2\"> significa o valor da conta ativa após a inclusão dos resultados não realizados de posições abertas de Forex ou CFD.</span>"
+    },
+    {
+      "key": "t67f67fda5165997a",
+      "english": "<span data-i18n-slot=\"0\">Profit from closed trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Lucro de negociações fechadas</span>"
+    },
+    {
+      "key": "t8d09d97bee69f739",
+      "english": "<span data-i18n-slot=\"0\">Losses from closed trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Perdas de negociações fechadas</span>"
+    },
+    {
+      "key": "t7330da727b69b6d6",
+      "english": "<span data-i18n-slot=\"0\">What Is Account Equity?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que é patrimônio líquido?</span>"
+    },
+    {
+      "key": "t2b64436cafafa594",
+      "english": "<span data-i18n-slot=\"0\">Equity = Balance + Net Floating P/L</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimônio líquido = Saldo + P/L flutuante líquido</span>"
+    },
+    {
+      "key": "t77deac8fdf69ad31",
+      "english": "<span data-i18n-slot=\"0\">The net floating P/L may be positive or negative.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O P/L flutuante líquido pode ser positivo ou negativo.</span>"
+    },
+    {
+      "key": "td185cb4858823f00",
+      "english": "<span data-i18n-slot=\"0\">Net floating P/L = +$300</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">P/L flutuante líquido = +$300</span>"
+    },
+    {
+      "key": "t1f6608ae28e19eba",
+      "english": "<span data-i18n-slot=\"0\">$5,000 + $300 = $5,300 Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">$ 5,000 + $ 300 = $ 5,300 de patrimônio líquido</span>"
+    },
+    {
+      "key": "ta1afb95e18b77b46",
+      "english": "<span data-i18n-slot=\"0\">Net floating P/L = -$300</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">P/L flutuante líquido = -$300</span>"
+    },
+    {
+      "key": "t43af7a730fd25039",
+      "english": "<span data-i18n-slot=\"0\">$5,000 - $300 = $4,700 Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">$ 5,000 - $ 300 = $ 4,700 Patrimônio líquido</span>"
+    },
+    {
+      "key": "t1dd17a8ad33ba16c",
+      "english": "<span data-i18n-slot=\"0\">Floating P/L</span><span data-i18n-slot=\"1\"> is the unrealized profit or loss associated with positions that are still open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O P/L flutuante</span><span data-i18n-slot=\"1\"> é o lucro ou prejuízo não realizado associado a posições que ainda estão abertas.</span>"
+    },
+    {
+      "key": "tc3307dfb041aeb79",
+      "english": "<span data-i18n-slot=\"0\">The closed position stops contributing floating P/L to Equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A posição fechada deixa de contribuir com P/L flutuante para o patrimônio líquido.</span>"
+    },
+    {
+      "key": "tedf19867c06ddabb",
+      "english": "<span data-i18n-slot=\"0\">This is why Balance can stay exactly the same for some time while Equity moves continuously.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">É por isso que o saldo pode permanecer exatamente igual por algum tempo, enquanto o patrimônio líquido muda continuamente.</span>"
+    },
+    {
+      "key": "t51ead4c2b559c83e",
+      "english": "<span data-i18n-slot=\"0\">What Is the Difference Between Account Balance and Account Equity?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Qual é a diferença entre saldo da conta e patrimônio líquido?</span>"
+    },
+    {
+      "key": "t4a96d7c3503674bd",
+      "english": "<span data-i18n-slot=\"0\">Stays Fixed When...</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Permanece fixo quando...</span>"
+    },
+    {
+      "key": "t98bb8eb33604ff39",
+      "english": "<span data-i18n-slot=\"0\">Account Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimônio da conta</span>"
+    },
+    {
+      "key": "tbbc80d826bdcdade",
+      "english": "<span data-i18n-slot=\"0\">Floating P/L</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">P/L flutuante</span>"
+    }
+  ]
+}

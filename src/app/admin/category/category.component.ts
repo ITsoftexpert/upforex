@@ -9,6 +9,7 @@ import {
 import { CategoriesService } from 'src/app/core/services/categories.service';
 
 @Component({
+  standalone: false,
   selector: 'app-category',
   templateUrl: './category.component.html',
   styleUrls: ['./category.component.scss'],

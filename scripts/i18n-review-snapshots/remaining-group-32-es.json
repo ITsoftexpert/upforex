@@ -1,0 +1,359 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "te942353a5b2b8602",
+      "english": "<span data-i18n-slot=\"0\">Preparation should include written rules, testing, and a trading journal. A trader who cannot explain a setup’s edge may be relying on hope.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La preparación debe incluir reglas escritas, pruebas y un diario comercial. Un operador que no puede explicar la ventaja de una configuración puede estar confiando en la esperanza.</span>"
+    },
+    {
+      "key": "t8b4ea9b01ffcd5a8",
+      "english": "<span data-i18n-slot=\"0\">Traders should review the economic calendar and reduce or avoid exposure when conditions fall outside the environment in which their strategy was tested.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los operadores deben revisar el calendario económico y reducir o evitar la exposición cuando las condiciones quedan fuera del entorno en el que se puso a prueba su estrategia.</span>"
+    },
+    {
+      "key": "t881788ac2cb903fc",
+      "english": "<span data-i18n-slot=\"0\">Using UpForex’s published account levels, a 50% margin-call level on $166.67 of used margin would be reached when account equity falls to approximately </span><span data-i18n-slot=\"1\">$83.33</span><span data-i18n-slot=\"2\">. A 30% stop-out level would be reached when equity falls to approximately </span><span data-i18n-slot=\"3\">$50</span><span data-i18n-slot=\"4\">, assuming one open position, unchanged margin requirements, and no additional costs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Según los niveles de cuenta publicados por UpForex, una llamada de margen del 50% sobre $166.67 de margen utilizado se alcanzaría cuando el patrimonio de la cuenta cayera a aproximadamente </span><span data-i18n-slot=\"1\">$83.33</span><span data-i18n-slot=\"2\">. Un cierre forzoso del 30% se alcanzaría cuando el patrimonio cayera a unos </span><span data-i18n-slot=\"3\">$50</span><span data-i18n-slot=\"4\">, suponiendo una posición abierta, requisitos de margen sin cambios y ningún coste adicional.</span>"
+    },
+    {
+      "key": "t73c6d3c17a58f68d",
+      "english": "<span data-i18n-slot=\"0\">These thresholds use the standard margin-level formula—equity divided by used margin—and may vary slightly with a broker’s exact real-time calculation method.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Estos umbrales utilizan la fórmula estándar de nivel de margen (capital dividido por el margen utilizado) y pueden variar ligeramente según el método de cálculo exacto en tiempo real de un corredor.</span>"
+    },
+    {
+      "key": "t3fbbbf2000b028ca",
+      "english": "<span data-i18n-slot=\"0\">Limit Risk Per Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Limitar el riesgo por operación</span>"
+    },
+    {
+      "key": "t7eb7883aeb9baac8",
+      "english": "<span data-i18n-slot=\"0\">Use a Written Trading Plan</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Utilice un plan comercial escrito</span>"
+    },
+    {
+      "key": "t38aa6cda6b55d4bc",
+      "english": "<span data-i18n-slot=\"0\">Start With a Demo Account</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comience con una cuenta de demostración</span>"
+    },
+    {
+      "key": "t7c97db88250e60ee",
+      "english": "<span data-i18n-slot=\"0\">Demo trading helps traders test rules and execution without risking capital. It cannot reproduce live pressure, so the move to a real account should begin with smaller positions and realistic expectations.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Las operaciones de demostración ayudan a los operadores a probar las reglas y la ejecución sin arriesgar capital. No puede reproducir la presión real, por lo que el paso a una cuenta real debe comenzar con posiciones más pequeñas y expectativas realistas.</span>"
+    },
+    {
+      "key": "t2450fb70db7ca0ee",
+      "english": "<span data-i18n-slot=\"0\">Traders should understand</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">how much capital they need to start trading</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los operadores deben comprender</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">cuánto capital necesitan para comenzar a operar</span></span><span data-i18n-slot=\"4\">.</span>"
+    },
+    {
+      "key": "t6aaf2ccb10824fbd",
+      "english": "<span data-i18n-slot=\"0\">Record the setup, entry, stop, target, risk, result, and emotional state. Review groups of trades instead of one result.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Registre la preparación, entrada, parada, objetivo, riesgo, resultado y estado emocional. Revise grupos de operaciones en lugar de un resultado.</span>"
+    },
+    {
+      "key": "t317547751c35e79b",
+      "english": "<span data-i18n-slot=\"0\">Treating maximum leverage as a recommended trading level</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tratar el apalancamiento máximo como un nivel de negociación recomendado</span>"
+    },
+    {
+      "key": "tc31f102d9a3156b9",
+      "english": "<span data-i18n-slot=\"0\">Do retail traders make money in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Los comerciantes minoristas ganan dinero con el comercio de divisas?</span>"
+    },
+    {
+      "key": "t23350164367f5c7c",
+      "english": "<span data-i18n-slot=\"0\">Trading success is not created by discovering a risk-free strategy. It requires controlling exposure, accepting uncertainty, and following a repeatable process.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El éxito comercial no se logra descubriendo una estrategia libre de riesgos. Requiere controlar la exposición, aceptar la incertidumbre y seguir un proceso repetible.</span>"
+    },
+    {
+      "key": "t2ece9c8eed890a34",
+      "english": "<span data-i18n-slot=\"0\">Required</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Obligatorio</span>"
+    },
+    {
+      "key": "t646aae841b3f9bb4",
+      "english": "<span data-i18n-slot=\"0\">Instant execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ejecución instantánea</span>"
+    },
+    {
+      "key": "t3278422b1d8ac14d",
+      "english": "<span data-i18n-slot=\"0\">Trading Hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Horario de negociación</span>"
+    },
+    {
+      "key": "te2b96b1b8b1151b1",
+      "english": "<span data-i18n-slot=\"0\">How Leverage Works in Gold CFD Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cómo funciona el apalancamiento en las operaciones con CFD sobre oro</span>"
+    },
+    {
+      "key": "tfcda4acb65b7f657",
+      "english": "<span data-i18n-slot=\"0\">What Are Spreads and Swap Fees?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué son los diferenciales y las tarifas de swap?</span>"
+    },
+    {
+      "key": "t0d79950cde21701c",
+      "english": "<span data-i18n-slot=\"0\">The spread is the cost you pay to enter a trade, it is built into the bid/ask price. Swap fees (also called overnight fees or rollover fees) apply when you hold a CFD position open past the daily rollover time, typically 5:00 PM New York time. If you are holding a gold CFD trade for multiple days, these fees accumulate and affect your overall returns. UpForex offers Islamic swap-free accounts for traders who require Sharia-compliant conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El diferencial es el costo que usted paga para ingresar a una operación y está integrado en el precio de oferta/demanda. Las tarifas de swap (también llamadas tarifas de un día para otro o tarifas de reinversión) se aplican cuando mantiene abierta una posición de CFD después de la hora de reinversión diaria, generalmente a las 5:00 p. m., hora de Nueva York. Si mantiene una operación de CFD sobre oro durante varios días, estas tarifas se acumulan y afectan sus rendimientos generales. UpForex ofrece cuentas islámicas sin swap para comerciantes que requieren condiciones que cumplan con la Sharia.</span>"
+    },
+    {
+      "key": "t08c99a24588dd97e",
+      "english": "<span data-i18n-slot=\"0\">The Securities and Commodities Authority (SCA) is the primary regulator for CFD trading on the UAE mainland. SCA-licensed brokers are authorized to offer gold CFDs to retail and institutional clients within a legally compliant framework. UpForex Financial Consultation LLC holds SCA License No. 20200000350 under Category 5, Arrangement &amp; Advice, meaning your gold CFD trades take place within a federally regulated environment.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La Autoridad de Valores y Materias Primas (SCA) es el principal regulador del comercio de CFD en el territorio continental de los EAU. Los corredores con licencia de la SCA están autorizados a ofrecer CFD sobre oro a clientes minoristas e institucionales dentro de un marco de cumplimiento legal. UpForex Financial Consultation LLC posee la licencia SCA n.º 20200000350 en la Categoría 5, Arreglo y asesoramiento, lo que significa que sus operaciones de CFD sobre oro se llevan a cabo dentro de un entorno regulado a nivel federal.</span>"
+    },
+    {
+      "key": "t65ccba0343586f5b",
+      "english": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">Verify the broker holds a valid SCA, DFSA, or FSRA license</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">Verifique que el corredor tenga una licencia SCA, DFSA o FSRA válida</span>"
+    },
+    {
+      "key": "te09c24cec186964a",
+      "english": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">Confirm the broker is authorised to offer commodity CFDs specifically</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">Confirme que el corredor está autorizado a ofrecer CFD sobre materias primas específicamente</span>"
+    },
+    {
+      "key": "td7fff469498fa79d",
+      "english": "<span data-i18n-slot=\"0\">Leverage gives you the ability to size positions relative to your risk appetite rather than your total account balance. Used responsibly with proper stop-losses, leverage lets you participate meaningfully in gold’s price movements without tying up large amounts of capital in a single trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El apalancamiento le brinda la posibilidad de dimensionar las posiciones en relación con su apetito por el riesgo en lugar del saldo total de su cuenta. Utilizado de manera responsable con límites de pérdidas adecuados, el apalancamiento le permite participar de manera significativa en los movimientos del precio del oro sin inmovilizar grandes cantidades de capital en una sola operación.</span>"
+    },
+    {
+      "key": "t1a7e1dd023121c06",
+      "english": "<span data-i18n-slot=\"0\">US Dollar Strength</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Fortaleza del dólar estadounidense</span>"
+    },
+    {
+      "key": "tbd3d95cc625076e0",
+      "english": "<span data-i18n-slot=\"0\">Central banks globally purchased a record 1,237 tonnes of gold in 2025, the third consecutive year above 1,000 tonnes. In Q1 2026 alone, central banks and official institutions recorded estimated net purchases of 244 tonnes, up 17% quarter on quarter. Goldman Sachs expects central bank buying to average 60 tonnes per month through the second half of 2026. Saudi Arabia and the UAE are reportedly exploring significant gold reserve allocations for the first time. This structural demand is one of the strongest long-term supports for gold prices.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los bancos centrales de todo el mundo compraron un récord de 1,237 toneladas de oro en 2025, el tercer año consecutivo por encima de las 1,000 toneladas. Solo en el T1 de 2026, los bancos centrales y las instituciones oficiales registraron compras netas estimadas de 244 toneladas, un 17% más que el trimestre anterior. Goldman Sachs prevé compras medias de los bancos centrales de 60 toneladas mensuales durante la segunda mitad de 2026. Según informaciones publicadas, Arabia Saudita y los EAU estudian por primera vez asignaciones significativas a reservas de oro. Esta demanda estructural es uno de los apoyos a largo plazo más sólidos para el precio del oro.</span>"
+    },
+    {
+      "key": "t42c4916476d6b002",
+      "english": "<span data-i18n-slot=\"0\">Geopolitical Events and Safe-Haven Demand</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Eventos geopolíticos y demanda de refugio seguro</span>"
+    },
+    {
+      "key": "t604c69b842acdeec",
+      "english": "<span data-i18n-slot=\"0\">Leverage amplifies both your profits and your losses. A 1% adverse move on a 100:1 leveraged gold position wipes out your entire margin. This is why position sizing and stop losses are not optional; they are the foundation of responsible CFD trading. Never risk more on a single trade than you can afford to lose.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El apalancamiento amplifica tanto sus ganancias como sus pérdidas. Un movimiento adverso del 1% en una posición de oro apalancada 100:1 anula todo su margen. Esta es la razón por la que el tamaño de la posición y el stop loss no son opcionales; son la base del comercio responsable de CFD. Nunca arriesgues más en una sola operación de lo que puedes permitirte perder.</span>"
+    },
+    {
+      "key": "tbd28c74513dbb62f",
+      "english": "<span data-i18n-slot=\"0\">Overnight Swap Fees</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tarifas de intercambio nocturno</span>"
+    },
+    {
+      "key": "t513894461d23bac8",
+      "english": "<span data-i18n-slot=\"0\">There is no single strategy that works for every trader. The right approach depends on your time availability, risk tolerance, and how you prefer to analyze the market. Here are four approaches suited to different styles:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No existe una estrategia única que funcione para todos los operadores. El enfoque correcto depende de su disponibilidad de tiempo, tolerancia al riesgo y cómo prefiere analizar el mercado. Aquí hay cuatro enfoques adecuados para diferentes estilos:</span>"
+    },
+    {
+      "key": "tbeaccf42b878053c",
+      "english": "<span data-i18n-slot=\"0\">Gold has been in a structural bull market since 2022. Trend following means identifying the direction of the dominant trend and trading in line with it. On higher timeframes (daily, weekly), the trend remains broadly upward. Trend followers use tools like moving averages, trendlines, and higher highs/higher lows to identify entry points on pullbacks within the broader trend.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El oro ha estado en un mercado alcista estructural desde 2022. Seguir la tendencia significa identificar la dirección de la tendencia dominante y operar en línea con ella. En períodos de tiempo más altos (diario, semanal), la tendencia se mantiene en general al alza. Los seguidores de tendencias utilizan herramientas como promedios móviles, líneas de tendencia y máximos y mínimos más altos para identificar puntos de entrada en retrocesos dentro de la tendencia más amplia.</span>"
+    },
+    {
+      "key": "t8343c5f478cd2934",
+      "english": "<span data-i18n-slot=\"0\">Range Trading - Buying Support, Selling Resistance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Operación de rango: soporte de compra, resistencia de venta</span>"
+    },
+    {
+      "key": "t69e98a5342d61517",
+      "english": "<span data-i18n-slot=\"0\">Step 5: Place Your First Gold CFD Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Paso 5: Realice su primera operación con CFD sobre oro</span>"
+    },
+    {
+      "key": "t11aae1c582483fad",
+      "english": "<span data-i18n-slot=\"0\">Step 6: Set Your Stop-Loss and Take-Profit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Paso 6: establezca su límite de pérdidas y obtención de beneficios</span>"
+    },
+    {
+      "key": "tae009b0a066a79a4",
+      "english": "<span data-i18n-slot=\"0\">Never open a gold CFD trade without a stop-loss. Decide in advance how much you are willing to lose on the trade, set your stop at that level, and do not move it in the wrong direction once the trade is live. Your take-profit level should reflect a realistic target based on your analysis, not wishful thinking.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Nunca abra una operación de CFD sobre oro sin un límite de pérdidas. Decida de antemano cuánto está dispuesto a perder en la operación, establezca su límite en ese nivel y no lo mueva en la dirección equivocada una vez que la operación esté activa. Su nivel de obtención de beneficios debe reflejar un objetivo realista basado en su análisis, no una ilusión.</span>"
+    },
+    {
+      "key": "t950d5e99ded39f81",
+      "english": "<span data-i18n-slot=\"0\">Tight Spreads on XAU/USD: ECN/STP Execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferenciales ajustados en XAU/USD: ejecución de ECN/STP</span>"
+    }
+  ]
+}

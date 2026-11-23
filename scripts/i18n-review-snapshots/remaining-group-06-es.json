@@ -1,0 +1,458 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "td534088141d7101d",
+      "english": "Which timeframes you will use",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "¿Qué plazos utilizarás?"
+    },
+    {
+      "key": "t19c4ba95a9ae3c0f",
+      "english": "How you will judge a trade opportunity",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Cómo juzgará una oportunidad comercial"
+    },
+    {
+      "key": "t63c16a2cbb764d10",
+      "english": "Longer-term traders may use daily or weekly charts with economic data. Shorter-term traders may use hourly charts. Neither is better by default. What works depends on your experience, your time and how well you manage risk.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Los operadores a largo plazo pueden utilizar gráficos diarios o semanales con datos económicos. Los operadores a corto plazo pueden utilizar gráficos horarios. Ninguno de los dos es mejor por defecto. Lo que funciona depende de su experiencia, su tiempo y qué tan bien gestione el riesgo."
+    },
+    {
+      "key": "t6c73617e799bdae4",
+      "english": "What must happen before you consider a trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "¿Qué debe suceder antes de considerar una operación?"
+    },
+    {
+      "key": "tf0e43f7ab96a92c4",
+      "english": "The most you will risk on one trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Lo máximo que arriesgará en una operación"
+    },
+    {
+      "key": "tcccad7dc1ffa46a0",
+      "english": "<span data-i18n-slot=\"0\">Moving averages:</span> show price direction over a set period",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Promedios móviles:</span> muestran la dirección del precio durante un período determinado"
+    },
+    {
+      "key": "tb5b3c9e4d69dff7e",
+      "english": "Your strategy should say how you will handle these events. Some traders avoid opening trades just before big news, because fast price changes make execution less predictable. Others wait and study how price reacts afterward.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Su estrategia debe decir cómo manejará estos eventos. Algunos operadores evitan abrir operaciones justo antes de las grandes noticias, porque los rápidos cambios de precios hacen que la ejecución sea menos predecible. Otros esperan y estudian cómo reacciona el precio después."
+    },
+    {
+      "key": "t6ba10a2d5ce392b3",
+      "english": "<span data-i18n-slot=\"0\">Either way, read each release in context. Don’t treat it as a stand-alone signal.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">De cualquier manera, lea cada comunicado en contexto. No lo trates como una señal independiente.</span>"
+    },
+    {
+      "key": "tc217dc3ad4c2cda8",
+      "english": "Your position size",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Tamaño de tu posición"
+    },
+    {
+      "key": "t35a9a19b87ec03eb",
+      "english": "When you will exit a trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Cuándo saldrá de una operación"
+    },
+    {
+      "key": "tf46fc8278bd01ec7",
+      "english": "Spreads",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "diferenciales"
+    },
+    {
+      "key": "ta6ac25c0dc2b8a50",
+      "english": "Slippage",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "deslizamiento"
+    },
+    {
+      "key": "te9ff0898bbb55898",
+      "english": "A demo account lets you learn the platform and practice your rules without risking real capital. Demo results can still differ from live trading. Execution, liquidity and emotions all play a part.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Una cuenta de demostración le permite aprender la plataforma y practicar sus reglas sin arriesgar capital real. Los resultados de la demostración aún pueden diferir de los del trading real. La ejecución, la liquidez y las emociones influyen."
+    },
+    {
+      "key": "t05cd1fe6638527e4",
+      "english": "A trading journal helps you check your consistency. For each trade, note:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Un diario comercial le ayuda a comprobar su coherencia. Para cada operación, tenga en cuenta:"
+    },
+    {
+      "key": "t18e9c670329bb62e",
+      "english": "<span data-i18n-slot=\"0\">1. How do market conditions affect a forex trading strategy?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. ¿Cómo afectan las condiciones del mercado a una estrategia de compraventa de divisas?</span>"
+    },
+    {
+      "key": "te3ef6237608964df",
+      "english": "<span data-i18n-slot=\"0\">2. What are the key steps to building a forex trading strategy?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. ¿Cuáles son los pasos clave para construir una estrategia de compraventa de divisas?</span>"
+    },
+    {
+      "key": "t5ca1977c8d4d7524",
+      "english": "Common choices are moving averages, the Relative Strength Index (RSI) and support and resistance levels. Moving averages show price trends. RSI measures momentum. Support and resistance levels mark areas where price may react.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "Las opciones más comunes son las medias móviles, el índice de fuerza relativa (RSI) y los niveles de soporte y resistencia. Las medias móviles muestran las tendencias de los precios. El RSI mide el impulso. Los niveles de soporte y resistencia marcan áreas donde el precio puede reaccionar."
+    },
+    {
+      "key": "t9fa392a57b1db549",
+      "english": "What Is Account Equity in Trading? Balance & Floating P/L",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#title",
+        "CMS:blogs/what-is-account-equity-in-trading#metaTitle",
+        "SSR:/blogs",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide",
+        "SSR:/blogs/forex-trading",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "¿Qué es el capital de la cuenta en el comercio? Balance y P/L flotante"
+    },
+    {
+      "key": "t20218a7f979af345",
+      "english": "Account equity in trading showing balance and floating profit and loss",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#imageAltTag",
+        "SSR:/blogs",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "Patrimonio de la cuenta en el comercio que muestra el saldo y las pérdidas y ganancias flotantes"
+    },
+    {
+      "key": "t1829c25770699981",
+      "english": "AccountEquity",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#tag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "Patrimonio de la cuenta"
+    },
+    {
+      "key": "t811c42f7b95fbda1",
+      "english": "ACCOUNTEQUITY",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#upperTag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "PATRIMONIO DE LA CUENTA"
+    },
+    {
+      "key": "t112b0127b9ad6f89",
+      "english": "FloatingPL",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#tag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "Pérdidas y ganancias flotantes"
+    },
+    {
+      "key": "t21e66207ea376c29",
+      "english": "FLOATINGPL",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#upperTag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "PÉRDIDAS Y GANANCIAS FLOTANTES"
+    },
+    {
+      "key": "tf0e1c0f9ed54126d",
+      "english": "<span data-i18n-slot=\"0\">Account equity shows the current value of a trading account while positions are open. It explains why the Balance and Equity figures displayed on MetaTrader 5 (MT5) can show different amounts even when no deposit or withdrawal has taken place.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El capital de la cuenta muestra el valor actual de una cuenta comercial mientras las posiciones están abiertas. Explica por qué las cifras de Saldo y Patrimonio que se muestran en MetaTrader 5 (MT5) pueden mostrar cantidades diferentes incluso cuando no se ha realizado ningún depósito o retiro.</span>"
+    },
+    {
+      "key": "t70f233926f0ecc26",
+      "english": "<span data-i18n-slot=\"0\">For traders exploring</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading in the UAE</span></span><span data-i18n-slot=\"4\">, understanding Balance, Equity, and floating P/L provides an important foundation before moving into margin and leverage mechanics.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Para los operadores que exploran </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">la negociación de divisas en los EAU</span></span><span data-i18n-slot=\"4\">, comprender el saldo, el patrimonio y las pérdidas y ganancias flotantes proporciona una base importante antes de abordar los mecanismos del margen y el apalancamiento.</span>"
+    },
+    {
+      "key": "tb24eaaf4e3c27194",
+      "english": "<span data-i18n-slot=\"0\">There is also an important terminology distinction. An “equity trading account” commonly means a brokerage account used to trade company shares. </span><span data-i18n-slot=\"1\">Equity in a trading account</span><span data-i18n-slot=\"2\"> means the live account value after the unrealized results of open forex or CFD positions are included.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">También existe una distinción terminológica importante. Una «cuenta de negociación de acciones» suele ser una cuenta de corretaje para negociar acciones de empresas. </span><span data-i18n-slot=\"1\">El patrimonio de una cuenta de negociación</span><span data-i18n-slot=\"2\"> es su valor actual tras incluir los resultados no realizados de las posiciones abiertas de divisas o CFD.</span>"
+    },
+    {
+      "key": "ta543db502b9aa348",
+      "english": "<span data-i18n-slot=\"0\">Account balance</span><span data-i18n-slot=\"1\"> is the settled value of a trading account before the current profit or loss on open positions is included.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Saldo de la cuenta</span><span data-i18n-slot=\"1\"> es el valor liquidado de una cuenta comercial antes de incluir las ganancias o pérdidas actuales en las posiciones abiertas.</span>"
+    },
+    {
+      "key": "t67f67fda5165997a",
+      "english": "<span data-i18n-slot=\"0\">Profit from closed trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Beneficio de las operaciones cerradas</span>"
+    },
+    {
+      "key": "t8d09d97bee69f739",
+      "english": "<span data-i18n-slot=\"0\">Losses from closed trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pérdidas por operaciones cerradas</span>"
+    },
+    {
+      "key": "t7b416e2a22763ff0",
+      "english": "<span data-i18n-slot=\"0\">Instead, the open trade generates floating profit or floating loss, which affects Equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">En cambio, la operación abierta genera ganancias o pérdidas flotantes que afectan al patrimonio de la cuenta.</span>"
+    },
+    {
+      "key": "t7330da727b69b6d6",
+      "english": "<span data-i18n-slot=\"0\">What Is Account Equity?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es el patrimonio de la cuenta?</span>"
+    },
+    {
+      "key": "t9891396dc64d31d5",
+      "english": "<span data-i18n-slot=\"0\">Account equity</span><span data-i18n-slot=\"1\"> is the current value of a trading account after the net floating profit or loss from open positions is included.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio de la cuenta</span><span data-i18n-slot=\"1\"> es el valor actual de una cuenta comercial después de incluir la ganancia o pérdida neta flotante de las posiciones abiertas.</span>"
+    },
+    {
+      "key": "t2b64436cafafa594",
+      "english": "<span data-i18n-slot=\"0\">Equity = Balance + Net Floating P/L</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio = Saldo + P/L flotante neto</span>"
+    },
+    {
+      "key": "tbd78e139aa4b1167",
+      "english": "<span data-i18n-slot=\"0\">For example, suppose:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por ejemplo, supongamos:</span>"
+    },
+    {
+      "key": "t1f6608ae28e19eba",
+      "english": "<span data-i18n-slot=\"0\">$5,000 + $300 = $5,300 Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">$5,000 + $300 = $5,300 de capital</span>"
+    },
+    {
+      "key": "t43af7a730fd25039",
+      "english": "<span data-i18n-slot=\"0\">$5,000 - $300 = $4,700 Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">$5,000 - $300 = $4,700 de capital</span>"
+    },
+    {
+      "key": "tcc9ea569cdaba1fd",
+      "english": "<span data-i18n-slot=\"0\">This is why the </span><span data-i18n-slot=\"1\">total account equity value</span><span data-i18n-slot=\"2\"> can change constantly even though Balance stays unchanged.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Esta es la razón por la que el </span><span data-i18n-slot=\"1\">valor total del capital de la cuenta</span><span data-i18n-slot=\"2\"> puede cambiar constantemente aunque el saldo permanezca sin cambios.</span>"
+    },
+    {
+      "key": "t837a8c7d2404da29",
+      "english": "<span data-i18n-slot=\"0\">When the trade closes:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cuando se cierra la operación:</span>"
+    },
+    {
+      "key": "t4f73a1150eebd45b",
+      "english": "<span data-i18n-slot=\"0\">Floating profit becomes realized profit.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El beneficio flotante se convierte en beneficio realizado.</span>"
+    },
+    {
+      "key": "tbc4ca385bda5ecb9",
+      "english": "<span data-i18n-slot=\"0\">Account Balance shows settled account value, while Account Equity shows the account's current value after floating P/L is included.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El saldo de la cuenta muestra el valor liquidado de la cuenta, mientras que el capital de la cuenta muestra el valor actual de la cuenta después de incluir las pérdidas y ganancias flotantes.</span>"
+    },
+    {
+      "key": "tc2c95a6dd071da21",
+      "english": "<span data-i18n-slot=\"0\">What It Measures</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Qué mide</span>"
+    },
+    {
+      "key": "t4a96d7c3503674bd",
+      "english": "<span data-i18n-slot=\"0\">Stays Fixed When...</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Permanece fijo cuando...</span>"
+    },
+    {
+      "key": "t98bb8eb33604ff39",
+      "english": "<span data-i18n-slot=\"0\">Account Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio de la cuenta</span>"
+    },
+    {
+      "key": "tf9a07a91c6ee22b7",
+      "english": "<span data-i18n-slot=\"0\">Neither Balance nor floating P/L changes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ni el saldo ni las pérdidas y ganancias flotantes cambian</span>"
+    }
+  ]
+}

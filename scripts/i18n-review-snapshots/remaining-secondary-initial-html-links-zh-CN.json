@@ -1,0 +1,17 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "te07a37f7aa9cfb81",
+      "english": "<span data-i18n-slot=\"0\">Platform conditions also matter. Traders comparing providers can review the guide to choosing the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">best forex broker in the Middle East</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">平台条件也很重要。正在比较服务提供商的交易者可以阅读选择</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">中东最佳外汇经纪商</span></span><span data-i18n-slot=\"4\">的指南。</span>"
+    }
+  ]
+}

@@ -1,0 +1,557 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tf424fba1d89eab7d",
+      "english": "<span data-i18n-slot=\"0\">A swap-free label may address overnight interest but not every Sharia question. Review the legal and fee structure, check current</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">account types</span></span><span data-i18n-slot=\"4\">, and consult a qualified Islamic-finance scholar familiar with the product.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">免掉期标签可以解决隔夜利息，但不能解决所有伊斯兰教法问题。查看法律和费用结构，检查当前</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">账户类型</span></span><span data-i18n-slot=\"4\">，并咨询熟悉该产品的合格伊斯兰金融学者。</span>"
+    },
+    {
+      "key": "t9d84ae124b48be26",
+      "english": "<span data-i18n-slot=\"0\">Notional value ÷ Required margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">名义价值 ÷ 所需保证金</span>"
+    },
+    {
+      "key": "te3700639d9147e1b",
+      "english": "<span data-i18n-slot=\"0\">Notional value ÷ Leverage ratio</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">名义价值 ÷ 杠杆率</span>"
+    },
+    {
+      "key": "tf57d4841a94a2857",
+      "english": "<span data-i18n-slot=\"0\">Free Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可用保证金</span>"
+    },
+    {
+      "key": "t43aebaadf5410a93",
+      "english": "<span data-i18n-slot=\"0\">Equity − Used margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">净值 - 已用保证金</span>"
+    },
+    {
+      "key": "t582e40ada687d215",
+      "english": "<span data-i18n-slot=\"0\">Margin Level</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保证金水平</span>"
+    },
+    {
+      "key": "t32331f421fa85af0",
+      "english": "<span data-i18n-slot=\"0\">Equity ÷ Used margin × 100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">净值 ÷ 已用保证金 × 100</span>"
+    },
+    {
+      "key": "t9c08d4e7ef8f6641",
+      "english": "<span data-i18n-slot=\"0\">Margin Call</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">追加保证金通知</span>"
+    },
+    {
+      "key": "tfa51a876a199ad26",
+      "english": "<span data-i18n-slot=\"0\">Stop-Out</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">强制平仓</span>"
+    },
+    {
+      "key": "td850c8a6aca0fd08",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between leverage and margin?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆和保证金有什么区别？</span>"
+    },
+    {
+      "key": "ta02bd09b0056838f",
+      "english": "<span data-i18n-slot=\"0\">Leverage is the ratio between a position’s notional value and the margin required to support it. Margin is the account equity reserved for that position. Higher leverage reduces required margin for the same position, but the market exposure and monetary effect of a price move remain unchanged.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆是头寸的名义价值与支持该头寸所需的保证金之间的比率。保证金是为该头寸保留的账户净值。较高的杠杆率会降低相同头寸所需的保证金，但价格变动的市场风险和货币影响保持不变。</span>"
+    },
+    {
+      "key": "t554d2871809d49e5",
+      "english": "<span data-i18n-slot=\"0\">What happens when you get a margin call?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">收到追加保证金通知时会发生什么？</span>"
+    },
+    {
+      "key": "tc9dec5a21e8079c0",
+      "english": "<span data-i18n-slot=\"0\">A margin call means equity has fallen to the broker’s defined margin threshold. The account has limited capacity to support open positions. Depending on the broker and platform, the trader may need to reduce exposure or add funds. If equity falls further, automatic stop-out liquidation may begin.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">追加保证金意味着净值已跌至经纪商规定的保证金阈值。该账户支持未平仓头寸的能力有限。根据经纪商和平台的不同，交易者可能需要减少风险敞口或增加资金。如果净值进一步下跌，可能会开始自动平仓。</span>"
+    },
+    {
+      "key": "t2acfcde0595d8498",
+      "english": "<span data-i18n-slot=\"0\">Is leverage trading halal?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆交易是否清真？</span>"
+    },
+    {
+      "key": "t8308f393ef16456d",
+      "english": "<span data-i18n-slot=\"0\">Its permissibility depends on the complete contract and how the trade is structured. Interest, swaps, loan conditions, ownership, derivatives, uncertainty, and speculation may all affect the assessment. A swap-free feature alone may not settle every issue, so consult a qualified Islamic-finance scholar.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">其允许性取决于完整的合同以及交易的结构。利息、掉期、贷款条件、所有权、衍生品、不确定性和投机都可能影响评估。仅靠免掉期功能可能无法解决所有问题，因此请咨询合格的伊斯兰金融学者。</span>"
+    },
+    {
+      "key": "t307ba3b8a7bf5be6",
+      "english": "<span data-i18n-slot=\"0\">How do I calculate the margin required for a trade?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何计算交易所需的保证金？</span>"
+    },
+    {
+      "key": "t32d9d9f609961e1c",
+      "english": "<span data-i18n-slot=\"0\">Divide the position’s notional value by the leverage ratio. A $100,000 position at 1:100 leverage requires approximately $1,000 in margin before broker-specific calculations and trading costs. Some instruments use different contract sizes or margin methods, so confirm the platform specification.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">将头寸的名义价值除以杠杆比率。在 1:100 杠杆下，100,000 美元的头寸需要大约 1,000 美元的保证金，不考虑经纪商特定的计算和交易成本。某些工具使用不同的合约规模或保证金方法，因此请确认平台规格。</span>"
+    },
+    {
+      "key": "tfa722de65c8f9efe",
+      "english": "<span data-i18n-slot=\"0\">What is a stop-out level?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是强制平仓水平？</span>"
+    },
+    {
+      "key": "tcb2b59a3e3de61f5",
+      "english": "<span data-i18n-slot=\"0\">A stop-out level is the margin threshold at which a trading system may begin closing open positions automatically to reduce exposure. UpForex’s current account page lists a 30% stop-out level. The exact liquidation sequence and calculations may depend on the platform and open positions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">强制平仓水平是交易系统可以开始自动平仓以减少风险的保证金阈值。 UpForex 的当前账户页面列出了 30% 的强制平仓水平。确切的清算顺序和计算可能取决于平台和未平仓头寸。</span>"
+    },
+    {
+      "key": "tbdf0fdcde49f7607",
+      "english": "<span data-i18n-slot=\"0\">Trading without a written plan</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">没有书面计划的交易</span>"
+    },
+    {
+      "key": "t165acf2432741f14",
+      "english": "<span data-i18n-slot=\"0\">Skipping demo practice</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">跳过演示练习</span>"
+    },
+    {
+      "key": "t23d7016f0e63bd0b",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging without understanding margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在不了解保证金的情况下过度杠杆化</span>"
+    },
+    {
+      "key": "tfd26f4ab578bcbdb",
+      "english": "<span data-i18n-slot=\"0\">Entering trades without a stop-loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">不设止损进行交易</span>"
+    },
+    {
+      "key": "t131143e8f011f3da",
+      "english": "<span data-i18n-slot=\"0\">Ignoring spreads, commissions, and swap costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">忽略点差、佣金和掉期成本</span>"
+    },
+    {
+      "key": "tffd64fe716550f63",
+      "english": "<span data-i18n-slot=\"0\">Mistake #1: Trading Without a Written Plan</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">错误＃1：没有书面计划的交易</span>"
+    },
+    {
+      "key": "t119f82946e459876",
+      "english": "<span data-i18n-slot=\"0\">Define trading hours and maximum exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">定义交易时间和最大风险。</span>"
+    },
+    {
+      "key": "t42191db961381e03",
+      "english": "<span data-i18n-slot=\"0\">Skip trades that do not meet the plan.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">跳过不符合计划的交易。</span>"
+    },
+    {
+      "key": "t7b3faba573b3e4b3",
+      "english": "<span data-i18n-slot=\"0\">Mistake #2: Skipping Demo Practice</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">错误#2：跳过演示练习</span>"
+    },
+    {
+      "key": "t33aecf3374bc8b21",
+      "english": "<span data-i18n-slot=\"0\">Practise order placement and stop-loss use.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">练习下单和止损的使用。</span>"
+    },
+    {
+      "key": "te800f0f72e4ca46f",
+      "english": "<span data-i18n-slot=\"0\">Follow the same rules intended for live trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">遵循与实时交易相同的规则。</span>"
+    },
+    {
+      "key": "t4bed96fb30363a6d",
+      "english": "<span data-i18n-slot=\"0\">Mistake #3: Overleveraging Without Understanding Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">错误#3：在不了解保证金的情况下过度杠杆化</span>"
+    },
+    {
+      "key": "t633ce628baa591e0",
+      "english": "<span data-i18n-slot=\"0\">The main error is choosing position size without understanding used margin, free margin, or total exposure across several trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要错误是在不了解多笔交易的已用保证金、可用保证金或总风险敞口的情况下选择头寸规模。</span>"
+    },
+    {
+      "key": "t1b18a5c8e7eb1a30",
+      "english": "<span data-i18n-slot=\"0\">Consider all correlated positions together.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">将所有相关位置放在一起考虑。</span>"
+    },
+    {
+      "key": "t374f3eac8723a6da",
+      "english": "<span data-i18n-slot=\"0\">Check how much free margin would remain after opening the position instead of looking only at the required deposit.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">检查开仓后剩余多少可用保证金，而不是只看所需的保证金。</span>"
+    },
+    {
+      "key": "t74b047d2e1991844",
+      "english": "<span data-i18n-slot=\"0\">Mistake #4: Trading Without a Stop-Loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">错误＃4：没有止损的交易</span>"
+    },
+    {
+      "key": "t327f13992d201157",
+      "english": "<span data-i18n-slot=\"0\">Mistake #5: Doubling Position Size After a Loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">错误＃5：亏损后将头寸规模加倍</span>"
+    },
+    {
+      "key": "tb1031eab595167d9",
+      "english": "<span data-i18n-slot=\"0\">Mistake #6: Ignoring Spreads, Commissions, and Swap Costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">错误#6：忽略点差、佣金和掉期成本</span>"
+    },
+    {
+      "key": "tc278ee2b74a18b9d",
+      "english": "<span data-i18n-slot=\"0\">Review net results after fees.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">查看扣除费用后的净结果。</span>"
+    },
+    {
+      "key": "te2da352f951067f9",
+      "english": "<span data-i18n-slot=\"0\">Check how costs change during volatility.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">检查波动期间成本如何变化。</span>"
+    },
+    {
+      "key": "t658133f719f1cc81",
+      "english": "<span data-i18n-slot=\"0\">Mistake #7: Trading Money Needed for Essential Expenses</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">错误#7：使用基本生活开支所需资金进行交易</span>"
+    },
+    {
+      "key": "t8715ef53807fa937",
+      "english": "<span data-i18n-slot=\"0\">Searches for the </span><span data-i18n-slot=\"1\">best forex traders in Dubai</span><span data-i18n-slot=\"2\"> often reflect a wider need for a trustworthy trading environment. Dubai forex traders should review the broker’s legal entity, disclosures,</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">account types</span></span><span data-i18n-slot=\"6\">, and whether it is</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"> </span><span data-i18n-slot=\"9\">a broker with proper fund protection</span></span><span data-i18n-slot=\"10\">. The linked guide explains factors traders can review when assessing broker safeguards. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">搜索“</span><span data-i18n-slot=\"1\">迪拜最优秀的外汇交易者</span><span data-i18n-slot=\"2\">”，往往反映出人们对可信赖交易环境的更广泛需求。迪拜外汇交易者应查看经纪商的法律实体、披露信息、</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">账户类型</span></span><span data-i18n-slot=\"6\">，以及其是否是</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"> </span><span data-i18n-slot=\"9\">一家提供适当资金保护的经纪商</span></span><span data-i18n-slot=\"10\">。链接的指南介绍了交易者在评估经纪商保障措施时可以考察的因素。</span>"
+    },
+    {
+      "key": "t4c264f999a52fd79",
+      "english": "<span data-i18n-slot=\"0\">Use a pre-trade checklist.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">使用交易前清单。</span>"
+    },
+    {
+      "key": "tf3729a5dd0d19701",
+      "english": "<span data-i18n-slot=\"0\">Step away when urgency affects judgement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">当紧急情况影响判断时离开。</span>"
+    },
+    {
+      "key": "t5beba7f2ead26992",
+      "english": "<span data-i18n-slot=\"0\">Reactive Trader</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">反应型交易者</span>"
+    },
+    {
+      "key": "t94efb007050e9cc7",
+      "english": "<span data-i18n-slot=\"0\">Disciplined Trader</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有纪律的交易者</span>"
+    },
+    {
+      "key": "tc93933e8ff7f3420",
+      "english": "<span data-i18n-slot=\"0\">Enters first and considers the stop later</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">先入场，之后才考虑止损</span>"
+    },
+    {
+      "key": "tf2ff2dbd11cdefe7",
+      "english": "<span data-i18n-slot=\"0\">Defines the stop before entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在入场前确定止损位</span>"
+    },
+    {
+      "key": "tc336cd09b9de75f3",
+      "english": "<span data-i18n-slot=\"0\">Trades to relieve fear or frustration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通过交易来缓解恐惧或沮丧</span>"
+    },
+    {
+      "key": "tba584a1f35bad4bb",
+      "english": "<span data-i18n-slot=\"0\">Remembers trades selectively</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">选择性地记住交易</span>"
+    },
+    {
+      "key": "t1f4c2e16769311a8",
+      "english": "<span data-i18n-slot=\"0\">Records and reviews each trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">记录并审查每笔交易</span>"
+    },
+    {
+      "key": "tccc3bfba376b085e",
+      "english": "<span data-i18n-slot=\"0\">A journal should record the setup, entry reason, stop, planned exit, costs, result, and whether rules were followed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易日志应记录交易设置、入场理由、止损位、计划退出方式、成本、结果，以及是否遵守了规则。</span>"
+    },
+    {
+      "key": "t1ea2cf62681882c2",
+      "english": "<span data-i18n-slot=\"0\">Record every trade in the same format.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">以相同的格式记录每笔交易。</span>"
+    },
+    {
+      "key": "t8b1dad5ad180d41c",
+      "english": "<span data-i18n-slot=\"0\">How to Fix It</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何解决</span>"
+    },
+    {
+      "key": "t280acd850595a333",
+      "english": "<span data-i18n-slot=\"0\">The trader rushes into live trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易者冲入实时交易</span>"
+    },
+    {
+      "key": "t54c0f172370d38f0",
+      "english": "<span data-i18n-slot=\"0\">Practise execution and rules on demo</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在演示中练习执行和规则</span>"
+    }
+  ]
+}

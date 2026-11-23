@@ -1,0 +1,387 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tb62455cb5aa0046d",
+      "english": "<span data-i18n-slot=\"0\">Typical Tendency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tendência Típica</span>"
+    },
+    {
+      "key": "t4456bbcdac37b887",
+      "english": "<span data-i18n-slot=\"0\">Can show an inverse tendency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pode mostrar uma tendência inversa</span>"
+    },
+    {
+      "key": "t641242137c1e1f67",
+      "english": "<span data-i18n-slot=\"0\">A forex correlation cheat sheet can help explain which pairs are worth checking together, but it should not be treated as a replacement for current market data.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma folha de dicas de correlação cambial pode ajudar a explicar quais pares vale a pena verificar juntos, mas não deve ser tratada como um substituto para os dados atuais do mercado.</span>"
+    },
+    {
+      "key": "tb750fa0f7466b389",
+      "english": "<span data-i18n-slot=\"0\">However, both positions also represent exposure to USD on the opposite side of the trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No entanto, ambas as posições também representam exposição ao dólar americano no lado oposto da negociação.</span>"
+    },
+    {
+      "key": "te87e29725cb3805a",
+      "english": "<span data-i18n-slot=\"0\">Do these trades share the same currency?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Essas negociações compartilham a mesma moeda?</span>"
+    },
+    {
+      "key": "tf870e56fcb450655",
+      "english": "<span data-i18n-slot=\"0\">Are they historically correlated over the timeframe I am trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Eles estão historicamente correlacionados ao longo do período em que estou negociando?</span>"
+    },
+    {
+      "key": "t8154037440462d54",
+      "english": "<span data-i18n-slot=\"0\">Employment figures</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Números de emprego</span>"
+    },
+    {
+      "key": "t59964cc6b41f1cea",
+      "english": "<span data-i18n-slot=\"0\">One example is the relationship between commodity-linked currencies and commodity prices.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Um exemplo é a relação entre moedas ligadas às commodities e os preços dessas commodities.</span>"
+    },
+    {
+      "key": "t4a54ef2d91524baf",
+      "english": "<span data-i18n-slot=\"0\">Cross-asset correlation is therefore most useful as a risk-awareness tool rather than a fixed directional rule.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Assim, a correlação entre ativos é mais útil como ferramenta de percepção de risco, e não como uma regra direcional fixa.</span>"
+    },
+    {
+      "key": "tfa59e4e0dcb33a3c",
+      "english": "<span data-i18n-slot=\"0\">How Do Traders Use Correlation in Strategy and Hedging?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como os traders usam a correlação na estratégia e no hedge?</span>"
+    },
+    {
+      "key": "tc2ee5ff9bd80cacd",
+      "english": "<span data-i18n-slot=\"0\">Traders can use forex correlation to identify duplicated exposure and to understand how one position may interact with another.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Os traders podem usar a correlação cambial para identificar exposições duplicadas e compreender como uma posição pode interagir com outra.</span>"
+    },
+    {
+      "key": "t749a27f91ecd18db",
+      "english": "<span data-i18n-slot=\"0\">Two common applications are exposure management and partial hedging.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Duas aplicações comuns são o gerenciamento de exposição e o hedge parcial.</span>"
+    },
+    {
+      "key": "t5a9c19c0767ea616",
+      "english": "<span data-i18n-slot=\"0\">A forex correlation strategy used this way is primarily an exposure-checking process.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma estratégia de correlação cambial usada desta forma é principalmente um processo de verificação de exposição.</span>"
+    },
+    {
+      "key": "tbbe6a00eb9c8b79e",
+      "english": "<span data-i18n-slot=\"0\">However, a forex correlation hedging strategy does not automatically produce a balanced hedge.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No entanto, uma estratégia de cobertura de correlação cambial não produz automaticamente uma cobertura equilibrada.</span>"
+    },
+    {
+      "key": "tba2a9c131aaf587d",
+      "english": "<span data-i18n-slot=\"0\">Different base and quote currencies</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferentes moedas base e de cotação</span>"
+    },
+    {
+      "key": "tb5cad90844625d40",
+      "english": "<span data-i18n-slot=\"0\">A hedge based only on historical correlation can become ineffective if the relationship weakens or reverses.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma cobertura baseada apenas na correlação histórica pode tornar-se ineficaz se a relação enfraquecer ou reverter.</span>"
+    },
+    {
+      "key": "t4ed2b8f508267453",
+      "english": "<span data-i18n-slot=\"0\">Is there a simple forex correlation cheat sheet?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Existe uma folha de dicas simples de correlação forex?</span>"
+    },
+    {
+      "key": "t11bed989e3cad563",
+      "english": "<span data-i18n-slot=\"0\">UPFOREX provides multi-asset market access through</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UpForex's MT5 trading environment</span></span><span data-i18n-slot=\"4\">. Readers can also review</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">UpForex's regulatory background</span></span><span data-i18n-slot=\"8\">: UP Global Markets Ltd is licensed by the Financial Services Commission (FSC) of Mauritius (License No. GB25204570); UPFOREX Financial Consultation LLC is licensed and regulated by the UAE Securities and Commodities Authority (SCA) under Category 5 Arrangement &amp; Advice (License No. 20200000350).</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A UPFOREX oferece acesso a mercados de múltiplos ativos por meio do </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">ambiente de negociação MT5 da UpForex</span></span><span data-i18n-slot=\"4\">. Os leitores também podem consultar o </span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">histórico regulatório da UpForex</span></span><span data-i18n-slot=\"8\">: UP Global Markets Ltd é licenciada pela Financial Services Commission (FSC) das Maurícias (licença nº GB25204570); UPFOREX Financial Consultation LLC é licenciada e regulada pela Securities and Commodities Authority (SCA) dos EAU na Categoria 5 Arrangement &amp; Advice (licença nº 20200000350).</span>"
+    },
+    {
+      "key": "t26c3feac19dd7924",
+      "english": "<span data-i18n-slot=\"0\">What Is Drawdown in Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que é drawdown na negociação?</span>"
+    },
+    {
+      "key": "t69e62f71b32f4a75",
+      "english": "<span data-i18n-slot=\"0\">That is the basic drawdown meaning in trading: it measures decline relative to a previous high rather than simply counting individual losing trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Esse é o significado básico do drawdown nas negociações: ele mede o declínio em relação a uma máxima anterior, em vez de simplesmente contar as negociações perdedoras individuais.</span>"
+    },
+    {
+      "key": "t1edd20d3152e389b",
+      "english": "<span data-i18n-slot=\"0\">If someone asks what drawdown means in trading, a simple way to think about it is the distance between an account's high-water mark and the lower value reached afterwards.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se alguém perguntar o que significa drawdown na negociação, uma maneira simples de pensar sobre isso é a distância entre o limite máximo de uma conta e o valor mais baixo alcançado posteriormente.</span>"
+    },
+    {
+      "key": "t9e16614c330df464",
+      "english": "<span data-i18n-slot=\"0\">Drawdown can be measured using:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O drawdown pode ser medido usando:</span>"
+    },
+    {
+      "key": "tffc1ae53d8fb4e19",
+      "english": "<span data-i18n-slot=\"0\">Account equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimônio da conta</span>"
+    },
+    {
+      "key": "t76ba1b98acf85ae0",
+      "english": "<span data-i18n-slot=\"0\">Balance Drawdown vs. Equity Drawdown: What's the Difference?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">drawdown de saldo vs. drawdown de patrimônio: qual é a diferença?</span>"
+    },
+    {
+      "key": "ted4f4077e8914c21",
+      "english": "<span data-i18n-slot=\"0\">Balance drawdown is based on closed-trade results, while equity drawdown also reflects unrealized profit or loss from positions that remain open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A redução do saldo é baseada nos resultados de negociações fechadas, enquanto a redução do patrimônio também reflete lucros ou perdas não realizados de posições que permanecem abertas.</span>"
+    },
+    {
+      "key": "tf4e18a172637c029",
+      "english": "<span data-i18n-slot=\"0\">Balance Drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">drawdown de saldo</span>"
+    },
+    {
+      "key": "ta9cbe092be1a04f2",
+      "english": "<span data-i18n-slot=\"0\">Balance drawdown is calculated from changes in the account balance after trades have been closed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A redução do saldo é calculada a partir das alterações no saldo da conta após o fechamento das negociações.</span>"
+    },
+    {
+      "key": "t10e8d9842e2d196a",
+      "english": "<span data-i18n-slot=\"0\">Equity Drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">drawdown de patrimônio</span>"
+    },
+    {
+      "key": "tbd98c057ade62e99",
+      "english": "<span data-i18n-slot=\"0\">Equity drawdown includes unrealized profit and loss on open positions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O drawdown do patrimônio líquido inclui lucros e prejuízos não realizados de posições abertas.</span>"
+    },
+    {
+      "key": "t7feeca65606e5587",
+      "english": "<span data-i18n-slot=\"0\">Relative to the earlier $10,000 peak, this represents an 8% equity drawdown.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Em relação ao pico anterior de US$ 10,000, isso representa uma redução de 8% no patrimônio líquido.</span>"
+    },
+    {
+      "key": "t573b8163ecb44743",
+      "english": "<span data-i18n-slot=\"0\">Equity drawdown can therefore provide a more immediate view of current exposure because it shows the effect of open trades rather than waiting until those trades are closed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O drawdown do patrimônio líquido pode, portanto, oferecer uma visão mais imediata da exposição atual, pois mostra o efeito das operações abertas em vez de esperar que sejam fechadas.</span>"
+    },
+    {
+      "key": "taed4da5e82805c96",
+      "english": "<span data-i18n-slot=\"0\">Results from closed trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Resultados de negociações fechadas</span>"
+    },
+    {
+      "key": "t6074e39c1d0df694",
+      "english": "<span data-i18n-slot=\"0\">When trades close and affect balance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Quando as operações são fechadas e afetam o saldo</span>"
+    },
+    {
+      "key": "t777946a81a2b19b6",
+      "english": "<span data-i18n-slot=\"0\">Reviewing realized account performance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Analisando o desempenho realizado da conta</span>"
+    },
+    {
+      "key": "td1b95b1d5bcf7545",
+      "english": "<span data-i18n-slot=\"0\">Monitoring current account exposure and live drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Monitorar a exposição atual da conta e o drawdown em tempo real</span>"
+    },
+    {
+      "key": "t518644d754d04fc9",
+      "english": "<span data-i18n-slot=\"0\">A Simple Example of Balance vs. Equity Drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Um exemplo simples de drawdown do saldo e do patrimônio líquido</span>"
+    },
+    {
+      "key": "tf273f79fb99d4cbf",
+      "english": "<span data-i18n-slot=\"0\">Drawdown From $10,000 Peak</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">drawdown do pico de $ 10,000</span>"
+    },
+    {
+      "key": "tc060d3684c838e42",
+      "english": "<span data-i18n-slot=\"0\">Starting peak</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pico inicial</span>"
+    }
+  ]
+}

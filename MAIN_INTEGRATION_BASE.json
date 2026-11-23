@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/ITsoftexpert/upforex",
+  "mainCommit": "34dd59577c54541b6286982a9341d534884b108a",
+  "referenceParent": "63de756b469472e0e625f4608e0a8de241528fdd",
+  "integrationBranch": "integrate/local-seo-i18n-20261121",
+  "scope": "Local source reconciliation; owner deploys later",
+  "mainPreserved": ["English copy corrections", "blog styling and pagination", "active V2 legal document URLs", "HTTP security and conditional caching", "AML and tariff typo redirects"],
+  "localPreserved": ["Angular 21 security migration", "native per-page SSR catalogs", "canonical and reciprocal hreflang", "approved metadata sheet", "clean blog aliases", "full initial HTML verification"],
+  "paidTranslationRequests": 0,
+  "pushed": false,
+  "deployed": false
+}

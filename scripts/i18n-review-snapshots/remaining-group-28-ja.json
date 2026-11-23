@@ -1,0 +1,637 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t70508deb9d907fc9",
+      "english": "<span data-i18n-slot=\"0\">During active overlaps, traders may encounter:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アクティブなオーバーラップ中に、トレーダーは次のような状況に遭遇する可能性があります。</span>"
+    },
+    {
+      "key": "t4ad6d463cb47a24b",
+      "english": "<span data-i18n-slot=\"0\">Tighter spreads in heavily traded instruments</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引の活発な商品の、より狭いスプレッド</span>"
+    },
+    {
+      "key": "te07a37f7aa9cfb81",
+      "english": "<span data-i18n-slot=\"0\">Platform conditions also matter. Traders comparing providers can review the guide to choosing the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">best forex broker in the Middle East</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プラットフォームの状態も重要です。プロバイダーを比較するトレーダーは、</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">中東で最高の外国為替ブローカーを選択するためのガイド</span></span><span data-i18n-slot=\"4\">を確認できます。</span>"
+    },
+    {
+      "key": "te6314041f36bc37f",
+      "english": "<span data-i18n-slot=\"0\">The London–New York overlap is usually the most active forex window. It generally runs from 4:00–8:00 p.m. GST during UK and US daylight-saving periods and 5:00–9:00 p.m. during standard time. The best window for an individual trader still depends on the currency pair, strategy and risk tolerance.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ロンドンとニューヨークの重複時間帯は、通常、外国為替取引が最も活発な時間帯です。英国と米国が夏時間の期間は一般に湾岸標準時（GST）の午後4:00–8:00、標準時間の期間は午後5:00–9:00です。個々のトレーダーに最適な時間帯は、通貨ペア、戦略、リスク許容度によって異なります。</span>"
+    },
+    {
+      "key": "t6b5ddda065b29efc",
+      "english": "<span data-i18n-slot=\"0\">The Nasdaq regular market opens at 5:30 p.m. GST while the United States observes daylight saving and at 6:30 p.m. GST during US standard time. Nasdaq’s official regular session runs from 9:30 a.m. to 4:00 p.m. Eastern Time.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ナスダックの通常市場は、米国夏時間中は湾岸標準時（GST）の午後5:30、米国標準時間中は午後6:30に開場します。ナスダック公式の通常取引時間は、米東部時間の午前9:30–午後4:00です。</span>"
+    },
+    {
+      "key": "t57b8307ba65eb887",
+      "english": "<span data-i18n-slot=\"0\">Are gold CFDs tradable 24 hours a day?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金のCFDは24時間取引可能ですか?</span>"
+    },
+    {
+      "key": "t0ad674d4eba88ce8",
+      "english": "<span data-i18n-slot=\"0\">ADX’s official website currently lists its trading week as </span><span data-i18n-slot=\"1\">Monday through Friday</span><span data-i18n-slot=\"2\">. The pre-opening session runs from </span><span data-i18n-slot=\"3\">9:30–10:00 a.m. GST</span><span data-i18n-slot=\"4\">, followed by continuous trading from </span><span data-i18n-slot=\"5\">10:00 a.m.–2:45 p.m. GST</span><span data-i18n-slot=\"6\">. Holiday and special-session schedules should be confirmed directly with ADX.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ADXの公式サイトでは、現在の取引日は</span><span data-i18n-slot=\"1\">月曜日から金曜日</span><span data-i18n-slot=\"2\">とされています。プレオープン時間は</span><span data-i18n-slot=\"3\">湾岸標準時（GST）の午前9:30–10:00</span><span data-i18n-slot=\"4\">で、続く連続取引は</span><span data-i18n-slot=\"5\">湾岸標準時（GST）の午前10:00–午後2:45</span><span data-i18n-slot=\"6\">です。祝日や特別取引日の時間は、ADXに直接確認してください。</span>"
+    },
+    {
+      "key": "tdde04509bf7596bd",
+      "english": "<span data-i18n-slot=\"0\">Leverage and margin are connected but different. The simplest </span><span data-i18n-slot=\"1\">leverage meaning</span><span data-i18n-slot=\"2\"> is controlling a position larger than the capital set aside for it. Margin is the account equity reserved to open and maintain that position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジと証拠金は関連していますが、異なるものです。最も簡単な</span><span data-i18n-slot=\"1\">レバレッジの意味</span><span data-i18n-slot=\"2\">は、取引のために確保した資金よりも大きなポジションを扱うことです。証拠金は、そのポジションの新規建てと維持のために確保される口座の有効証拠金です。</span>"
+    },
+    {
+      "key": "t562b4dfd2a00ed05",
+      "english": "<span data-i18n-slot=\"0\">A $100,000 position at 1:100 leverage requires roughly $1,000 in margin before costs or broker adjustments. Gains and losses are still calculated from the full $100,000 exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジ 1:100 で 100,000 ドルのポジションには、コストやブローカーの調整前に約 1,000 ドルの証拠金が必要です。損益は依然として 100,000 ドル全額のエクスポージャーから計算されます。</span>"
+    },
+    {
+      "key": "tcf3a908755bace25",
+      "english": "<span data-i18n-slot=\"0\">Readers who are</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">new to forex trading</span></span><span data-i18n-slot=\"4\"> should first understand position sizes, pips, stop-losses, and equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">読者のうち</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">外国為替取引が初めての方</span></span><span data-i18n-slot=\"4\">は、まずポジションサイズ、ピップ、ストップロス、有効証拠金を理解する必要があります。</span>"
+    },
+    {
+      "key": "t9daadd7ded088653",
+      "english": "<span data-i18n-slot=\"0\">Quick Answer:</span><span data-i18n-slot=\"1\"> Leverage lets a trader control a larger position than their deposited capital and is expressed as a ratio, such as 1:100. Margin is the amount set aside from the account to open and hold that position. Higher leverage reduces the margin required for the same position, but it does not reduce market exposure; the same price move still creates the same monetary gain or loss.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">クイックアンサー:</span><span data-i18n-slot=\"1\"> レバレッジを使用すると、トレーダーは入金額よりも大きなポジションを管理でき、1:100 などの比率で表されます。証拠金とは、そのポジションを開設して保持するために口座とは別に取っておかれる金額です。レバレッジを高くすると、同じポジションに必要な証拠金が減りますが、市場エクスポージャーは減りません。同じ価格変動でも同じ金銭的利益または損失が生じます。</span>"
+    },
+    {
+      "key": "t5ae0c42180948bdd",
+      "english": "<span data-i18n-slot=\"0\">Leverage in trading is the relationship between a position’s total notional value and the capital required to support it. At 1:100 leverage, every $1 of required margin can support up to $100 of market exposure, subject to the broker’s terms, instrument, and current conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引におけるレバレッジは、ポジションの想定元本総額とそれをサポートするために必要な資本との関係です。 1:100 レバレッジでは、ブローカーの条件、商品、現在の状況に応じて、必要な証拠金 1 ドルごとに最大 100 ドルの市場エクスポージャーをサポートできます。</span>"
+    },
+    {
+      "key": "t81459223065609c9",
+      "english": "<span data-i18n-slot=\"0\">Leverage = Notional position value ÷ Required margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジ = 想定ポジション価値 ÷ 必要証拠金</span>"
+    },
+    {
+      "key": "t0f00574a3f22ceb0",
+      "english": "<span data-i18n-slot=\"0\">If a position is worth $100,000 and requires $1,000 in margin:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジションの価値が 100,000 ドルで、証拠金が 1,000 ドル必要な場合:</span>"
+    },
+    {
+      "key": "t8bcb08502b7d0128",
+      "english": "<span data-i18n-slot=\"0\">What Is Margin in Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引における証拠金とは何ですか?</span>"
+    },
+    {
+      "key": "t86835c6be30a1baf",
+      "english": "<span data-i18n-slot=\"0\">In everyday business language, “margin” can refer to profit. In trading, margin has a different meaning: it is the portion of account equity reserved by the broker while a leveraged position is open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">日常のビジネス用語では、「マージン」は利益を指します。トレーディングでは、証拠金は別の意味を持ちます。証拠金は、レバレッジをかけたポジションがオープンしている間にブローカーによって確保される口座資本の一部です。</span>"
+    },
+    {
+      "key": "ta16b0a25a477c547",
+      "english": "<span data-i18n-slot=\"0\">The common formula is:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一般的な式は次のとおりです。</span>"
+    },
+    {
+      "key": "t8029d0368210a9fa",
+      "english": "<span data-i18n-slot=\"0\">Margin is collateral, not normally a fee or maximum loss. The amount left after it is reserved is </span><span data-i18n-slot=\"1\">free margin</span><span data-i18n-slot=\"2\">:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証拠金は担保であり、通常は手数料や最大損失ではありません。予約後に残る金額は</span><span data-i18n-slot=\"1\">自由証拠金</span><span data-i18n-slot=\"2\">:</span>です。"
+    },
+    {
+      "key": "te7e3face85741904",
+      "english": "<span data-i18n-slot=\"0\">Free margin = Equity − Used margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">余剰証拠金 = 有効証拠金 − 使用証拠金</span>"
+    },
+    {
+      "key": "t3b9401486b5b3502",
+      "english": "<span data-i18n-slot=\"0\">Margin trading meaning:</span><span data-i18n-slot=\"1\"> Using part of a position’s value as collateral to open and maintain a leveraged trade. Forex margin requirements can vary by currency pair, account type, leverage, and market conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">信用取引の意味:</span><span data-i18n-slot=\"1\"> ポジションの価値の一部を担保として使用して、レバレッジ取引を開始および維持します。外国為替証拠金要件は、通貨ペア、口座タイプ、レバレッジ、市場状況によって異なります。</span>"
+    },
+    {
+      "key": "tfb263a0403b5c248",
+      "english": "<span data-i18n-slot=\"0\">How Leverage and Margin Work Together Worked Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジとマージンの連携例</span>"
+    },
+    {
+      "key": "t40ffb89f9e10171f",
+      "english": "<span data-i18n-slot=\"0\">This simplified example explains mechanics and is not a trading recommendation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">この簡略化された例は仕組みを説明するものであり、取引を推奨するものではありません。</span>"
+    },
+    {
+      "key": "t71607dda5224e008",
+      "english": "<span data-i18n-slot=\"0\">A trader has:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは次のものを持っています。</span>"
+    },
+    {
+      "key": "tf7d6b3e1210473d5",
+      "english": "<span data-i18n-slot=\"0\">Account equity before the trade:</span><span data-i18n-slot=\"1\"> $1,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引前の口座の有効証拠金：</span><span data-i18n-slot=\"1\">$1,000</span>"
+    },
+    {
+      "key": "tf274f4b86b29901c",
+      "english": "<span data-i18n-slot=\"0\">Approximate notional value:</span><span data-i18n-slot=\"1\"> $100,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">想定元本概算額:</span><span data-i18n-slot=\"1\"> $100,000</span>"
+    },
+    {
+      "key": "t7724f10df3f3c7d7",
+      "english": "<span data-i18n-slot=\"0\">Step 1: Calculate Required Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ステップ 1: 必要な証拠金を計算する</span>"
+    },
+    {
+      "key": "te778001698f36fa4",
+      "english": "<span data-i18n-slot=\"0\">The trade uses the entire $1,000 equity as margin.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">この取引は、有効証拠金$1,000の全額を証拠金として使用します。</span>"
+    },
+    {
+      "key": "tb19cd3a45e280a08",
+      "english": "<span data-i18n-slot=\"0\">Step 2: Calculate Free Margin at Entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ステップ 2: エントリー時のフリーマージンを計算する</span>"
+    },
+    {
+      "key": "td2858b66fccfe82a",
+      "english": "<span data-i18n-slot=\"0\">Free margin = $1,000 equity − $1,000 margin = $0</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">余剰証拠金 = 有効証拠金$1,000 − 証拠金$1,000 = $0</span>"
+    },
+    {
+      "key": "t1a624c7d399d5491",
+      "english": "<span data-i18n-slot=\"0\">Step 3: Apply a 50-Pip Adverse Move</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ステップ 3: 50 ピップスの逆方向の動きを適用する</span>"
+    },
+    {
+      "key": "t5da21ab5c6ad558f",
+      "english": "<span data-i18n-slot=\"0\">50 pips × $10 = $500 floating loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">50 ピップス × 10 ドル = 500 ドルの変動損失</span>"
+    },
+    {
+      "key": "t1234080c4474c704",
+      "english": "<span data-i18n-slot=\"0\">The account values become:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アカウントの値は次のようになります。</span>"
+    },
+    {
+      "key": "t143a7068d95da54e",
+      "english": "<span data-i18n-slot=\"0\">Floating loss:</span><span data-i18n-slot=\"1\"> −$500</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変動損失:</span><span data-i18n-slot=\"1\"> −$500</span>"
+    },
+    {
+      "key": "t016f6aac9e16c62a",
+      "english": "<span data-i18n-slot=\"0\">Equity:</span><span data-i18n-slot=\"1\"> $500</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金：</span><span data-i18n-slot=\"1\">$500</span>"
+    },
+    {
+      "key": "tf9fa4fdd41dd8f0d",
+      "english": "<span data-i18n-slot=\"0\">Step 4: Calculate Margin Level</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ステップ 4: 証拠金レベルを計算する</span>"
+    },
+    {
+      "key": "t63f20bf5cb1815a5",
+      "english": "<span data-i18n-slot=\"0\">Margin level = Equity ÷ Used margin × 100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証拠金維持率 = 有効証拠金 ÷ 使用証拠金 × 100</span>"
+    },
+    {
+      "key": "tdb826257770fa6c7",
+      "english": "<span data-i18n-slot=\"0\">The table below compares the margin needed for the same $100,000 notional position. These are illustrative ratios and do not state which ratios are available on a specific account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">以下の表は、同じ 100,000 ドルの想定上のポジションに必要な証拠金を比較しています。これらは例示的な比率であり、特定のアカウントでどの比率が利用できるかを示すものではありません。</span>"
+    },
+    {
+      "key": "t6bbfe3fa70f80e4a",
+      "english": "<span data-i18n-slot=\"0\">Required Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">必要証拠金</span>"
+    },
+    {
+      "key": "t203e91fcb9bdf7fe",
+      "english": "<span data-i18n-slot=\"0\">Loss From a 1% Adverse Move</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1% の逆手による損失</span>"
+    },
+    {
+      "key": "tb1da8982ee9c7460",
+      "english": "<span data-i18n-slot=\"0\">Required margin falls as leverage rises, but the exposure and loss from the same market movement do not shrink. This is the central risk of trading with leverage: a smaller margin requirement can make an oversized position easier to open without making that position safer.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジが上昇すると必要証拠金は減少しますが、同じ市場変動によるエクスポージャーと損失は縮小しません。これがレバレッジを利用した取引の中心的なリスクです。証拠金要件が小さいと、ポジションの安全性が高まることなく、特大のポジションをオープンしやすくなる可能性があります。</span>"
+    },
+    {
+      "key": "t07a9c291560bd92f",
+      "english": "<span data-i18n-slot=\"0\">What Is a Margin Call?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">マージンコールとは何ですか?</span>"
+    },
+    {
+      "key": "td7102d73dd8f91eb",
+      "english": "<span data-i18n-slot=\"0\">The </span><span data-i18n-slot=\"1\">margin call meaning</span><span data-i18n-slot=\"2\"> is a warning or account condition reached when equity falls to a set percentage of used margin. The account then has limited capacity to support open trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">マージンコールの意味</span><span data-i18n-slot=\"2\">は、資本が使用済み証拠金の設定パーセントに下がったときに到達する警告または口座条件です。その場合、アカウントはオープン取引をサポートする能力が制限されます。</span>"
+    },
+    {
+      "key": "tbd25223134fe977f",
+      "english": "<span data-i18n-slot=\"0\">The response depends on the broker and system. A trader may need to reduce exposure or add funds, but adding money does not repair a weak trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">応答はブローカーとシステムによって異なります。トレーダーはエクスポージャーを減らすか資金を追加する必要があるかもしれませんが、資金を追加しても弱い取引は修復されません。</span>"
+    },
+    {
+      "key": "teba8a07a03ebfd70",
+      "english": "<span data-i18n-slot=\"0\">In the worked example, equity of $500 against $1,000 of used margin creates a 50% margin level. If equity fell to $300 while used margin remained $1,000, the margin level would be 30%, ignoring changes caused by partial liquidation, costs, or broker calculations.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">実際の例では、使用証拠金 1,000 ドルに対して資本 500 ドルにより、50% の証拠金レベルが作成されます。資本が 300 ドルに下落し、使用済み証拠金が 1,000 ドルのままである場合、部分清算、コスト、またはブローカーの計算による変更を無視して、証拠金レベルは 30% になります。</span>"
+    },
+    {
+      "key": "t16505bf263f4fa8a",
+      "english": "<span data-i18n-slot=\"0\">What Is Margin Level, and How Is It Calculated?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証拠金レベルとは何ですか?またその計算方法は何ですか?</span>"
+    },
+    {
+      "key": "t4761a1e27c9101f4",
+      "english": "<span data-i18n-slot=\"0\">Margin level meaning:</span><span data-i18n-slot=\"1\"> The percentage relationship between current account equity and the margin being used by open positions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証拠金維持率の意味：</span><span data-i18n-slot=\"1\">現在の口座の有効証拠金と、保有ポジションに使用中の証拠金との比率を百分率で表したものです。</span>"
+    },
+    {
+      "key": "t11014367d02ed627",
+      "english": "<span data-i18n-slot=\"0\">Margin level is calculated as:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証拠金レベルは次のように計算されます。</span>"
+    },
+    {
+      "key": "t3bc57ee70e253e5f",
+      "english": "<span data-i18n-slot=\"0\">A higher percentage means more equity relative to used margin. A falling level means losses or new positions are consuming account capacity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">パーセンテージが高いほど、使用済み証拠金に比べて資本が多くなることを意味します。レベルの低下は、損失または新しいポジションがアカウントのキャパシティを消費していることを意味します。</span>"
+    },
+    {
+      "key": "te50efc17bfa29751",
+      "english": "<span data-i18n-slot=\"0\">Equity:</span><span data-i18n-slot=\"1\"> $2,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金：</span><span data-i18n-slot=\"1\">$2,000</span>"
+    },
+    {
+      "key": "t7c2f90c631832bfe",
+      "english": "<span data-i18n-slot=\"0\">If open losses reduce equity to $1,000:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">未決済の損失により資本が 1,000 ドルに減少した場合:</span>"
+    },
+    {
+      "key": "tbe2c97a519484e2f",
+      "english": "<span data-i18n-slot=\"0\">Margin level:</span><span data-i18n-slot=\"1\"> $1,000 ÷ $500 × 100 = </span><span data-i18n-slot=\"2\">200%</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証拠金レベル:</span><span data-i18n-slot=\"1\"> $1,000 ÷ $500 × 100 = </span><span data-i18n-slot=\"2\">200%</span>"
+    },
+    {
+      "key": "tc0133371b7031a07",
+      "english": "<span data-i18n-slot=\"0\">Why Higher Leverage Means Higher Risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジが高いほどリスクが高い理由</span>"
+    },
+    {
+      "key": "tf2f038b927cb2a87",
+      "english": "<span data-i18n-slot=\"0\">Higher leverage lowers the margin needed to open the same position. That can encourage a trader to control more exposure than the account can absorb.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジが高くなると、同じポジションをオープンするために必要な証拠金が少なくなります。これにより、トレーダーは口座が吸収できる以上のエクスポージャーをコントロールするようになる可能性があります。</span>"
+    },
+    {
+      "key": "t7357b669b3579345",
+      "english": "<span data-i18n-slot=\"0\">Consider two traders who both open a $100,000 EUR/USD position. One reserves $2,000 at 1:50 and the other reserves $200 at 1:500. A 1% adverse move is still approximately $1,000 for either position because both control the same notional value.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">どちらも$100,000のEUR/USDポジションを建てる二人のトレーダーを考えます。一方は1:50で$2,000を確保し、もう一方は1:500で$200を確保します。どちらも同じ想定元本を扱うため、1%の不利な値動きによる損失は、いずれのポジションでも約$1,000です。</span>"
+    },
+    {
+      "key": "tb2117eab3471f91b",
+      "english": "<span data-i18n-slot=\"0\">The second trader’s smaller margin deposit does not create a smaller loss. It only means the position required less collateral to open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">二 番目のトレーダーが証拠金を預けても、損失が小さくなるわけではありません。それは、ポジションをオープンするために必要な担保が少なくなることを意味するだけです。</span>"
+    },
+    {
+      "key": "t1818644a81585dd8",
+      "english": "<span data-i18n-slot=\"0\">Higher leverage can also enable several correlated positions, creating hidden concentration. The available</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex and CFD trading products</span></span><span data-i18n-slot=\"4\"> allow traders to review supported markets and contract conditions before choosing their exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジを高くすると、複数の相関ポジションが有効になり、隠れた集中が生じる可能性があります。利用可能な</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">外国為替および CFD 取引商品</span></span><span data-i18n-slot=\"4\">により、トレーダーはエクスポージャを選択する前にサポートされている市場と契約条件を確認できます。</span>"
+    },
+    {
+      "key": "t801ca8e3191422b1",
+      "english": "<span data-i18n-slot=\"0\">How to Manage Leverage and Margin Responsibly</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジと証拠金を責任を持って管理する方法</span>"
+    },
+    {
+      "key": "t66365c94da5446fc",
+      "english": "<span data-i18n-slot=\"0\">Practical controls include:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">実際のコントロールには次のようなものがあります。</span>"
+    },
+    {
+      "key": "tec8515293ff22917",
+      "english": "<span data-i18n-slot=\"0\">Monitor exposure across correlated trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相関のある取引全体でエクスポージャを監視します。</span>"
+    },
+    {
+      "key": "tbc66eedf971ad7b3",
+      "english": "<span data-i18n-slot=\"0\">Review margin level before adding positions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジションを追加する前に証拠金レベルを確認してください。</span>"
+    },
+    {
+      "key": "t66f77e292b003dad",
+      "english": "<span data-i18n-slot=\"0\">Whether interest or overnight swap charges apply</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金利または翌日物スワップ手数料が適用されるかどうか</span>"
+    },
+    {
+      "key": "tb684de7f4c1b0337",
+      "english": "<span data-i18n-slot=\"0\">Whether the trader obtains valid ownership or possession</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーが有効な所有権または占有を取得するかどうか</span>"
+    },
+    {
+      "key": "t63fe2d472ce201ef",
+      "english": "<span data-i18n-slot=\"0\">Whether the instrument is a CFD or another derivative</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金融商品が CFD か別のデリバティブかどうか</span>"
+    }
+  ]
+}

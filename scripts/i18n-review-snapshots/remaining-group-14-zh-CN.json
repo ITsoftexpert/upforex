@@ -1,0 +1,827 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "te606e4cfd1aa6f11",
+      "english": "<span data-i18n-slot=\"0\">For many currency pairs quoted to four decimal places:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于许多货币对，报价为小数点后四位：</span>"
+    },
+    {
+      "key": "tf7fa1e85cf0d3a67",
+      "english": "<span data-i18n-slot=\"0\">0.0001 = 1 pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.0001 = 1 点</span>"
+    },
+    {
+      "key": "tb7be5f1514d8f113",
+      "english": "<span data-i18n-slot=\"0\">If EUR/USD moves from:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果EUR/USD从以下报价变动：</span>"
+    },
+    {
+      "key": "tff8d5e2f2e8c1647",
+      "english": "<span data-i18n-slot=\"0\">that side of the quote has moved by 1 pip.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">报价的一侧移动了 1 点。</span>"
+    },
+    {
+      "key": "tb44016735b9402f7",
+      "english": "<span data-i18n-slot=\"0\">equals 10 pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">等于 10 点。</span>"
+    },
+    {
+      "key": "tff2b13c2775de77c",
+      "english": "<span data-i18n-slot=\"0\">Pairs involving the Japanese yen are commonly quoted differently, with the pip usually associated with the second decimal place rather than the fourth.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">涉及日元的货币对通常以不同的方式报价，点通常与小数点第二位而不是第四位相关。</span>"
+    },
+    {
+      "key": "tfdf8b9f7d156d523",
+      "english": "<span data-i18n-slot=\"0\">Knowing how many pips a quote has moved is different from knowing the monetary value of that movement. Pip value depends on factors such as the currency pair and position size, so that calculation should be handled separately rather than mixed into basic quote reading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">了解报价变动了多少点与了解该变动的货币价值不同。点值取决于货币对和头寸规模等因素，因此计算应单独进行，而不是混合到基本报价读取中。</span>"
+    },
+    {
+      "key": "tcce713c0696a492c",
+      "english": "<span data-i18n-slot=\"0\">A rising forex quote means the base currency is becoming more valuable relative to the quote currency, while a falling quote indicates the opposite relationship.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇报价上涨意味着基础货币相对于报价货币变得更有价值，而报价下降则表示相反的关系。</span>"
+    },
+    {
+      "key": "taddf9163be6244c3",
+      "english": "<span data-i18n-slot=\"0\">Suppose EUR/USD moves from:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/how-to-read-a-forex-quote",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">假设EUR/USD从以下报价变动：</span>"
+    },
+    {
+      "key": "te964d188a01d99f6",
+      "english": "<span data-i18n-slot=\"0\">Both sides of the quote have moved higher.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">报价双方均已走高。</span>"
+    },
+    {
+      "key": "td61dbb16636497a4",
+      "english": "<span data-i18n-slot=\"0\">If the quote instead falls to:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果报价反而跌至：</span>"
+    },
+    {
+      "key": "t97d4778f7a204df5",
+      "english": "<span data-i18n-slot=\"0\">A long position generally benefits from upward movement after accounting for the relevant entry and exit sides.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在考虑了相关进入和退出方面后，多头头寸通常会受益于价格上涨。</span>"
+    },
+    {
+      "key": "tcb855ad249d3a31c",
+      "english": "<span data-i18n-slot=\"0\">A short position generally benefits from downward movement after accounting for the relevant bid/ask sides.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">考虑到相关出价/要价后，空头头寸通常会从价格下跌中受益。</span>"
+    },
+    {
+      "key": "t877b427cbf1ac9d8",
+      "english": "<span data-i18n-slot=\"0\">The key is to compare like with like. When assessing movement, compare bid with bid or ask with ask rather than comparing the original bid directly with a later ask.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">关键是同类比较。评估变动时，将出价与出价进行比较，或者将要价与要价进行比较，而不是直接将原始出价与后来的要价进行比较。</span>"
+    },
+    {
+      "key": "t6da5699ca70a4c6e",
+      "english": "<span data-i18n-slot=\"0\">What Is the Difference Between a Live and Static Forex Quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实时外汇报价和静态外汇报价有什么区别？</span>"
+    },
+    {
+      "key": "t6083abca57d2e73e",
+      "english": "<span data-i18n-slot=\"0\">A live forex quote updates as market pricing changes, while a static quote is simply an example or snapshot captured at one moment.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实时外汇报价会随着市场定价的变化而更新，而静态报价只是某一时刻捕获的示例或快照。</span>"
+    },
+    {
+      "key": "t1fa485c1e69df3b7",
+      "english": "<span data-i18n-slot=\"0\">What Are Common Mistakes When Reading a Forex Quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">阅读外汇报价时有哪些常见错误？</span>"
+    },
+    {
+      "key": "td1bcb972cb0e1e62",
+      "english": "<span data-i18n-slot=\"0\">Confusing Bid and Ask</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">混淆买入价与卖出价</span>"
+    },
+    {
+      "key": "t973565083cee2898",
+      "english": "<span data-i18n-slot=\"0\">Buy → ask</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">买入 → 卖出价（ask）</span>"
+    },
+    {
+      "key": "t6ffefa66f354d476",
+      "english": "<span data-i18n-slot=\"0\">Sell → bid</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">卖出 → 出价</span>"
+    },
+    {
+      "key": "t192842f20d2977e8",
+      "english": "<span data-i18n-slot=\"0\">Ignoring the Spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">忽略点差</span>"
+    },
+    {
+      "key": "t556ef8cb42608f2d",
+      "english": "<span data-i18n-slot=\"0\">Comparing the Wrong Sides</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">比较错误的一面</span>"
+    },
+    {
+      "key": "t5cb8cdd042af8592",
+      "english": "<span data-i18n-slot=\"0\">If a position was opened using the ask, its closing value should not automatically be judged using another ask price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果使用卖价建仓，则不应使用另一个卖价自动判断其平仓价值。</span>"
+    },
+    {
+      "key": "tb07124d2a5ba7404",
+      "english": "<span data-i18n-slot=\"0\">For a long position, the bid becomes relevant when closing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于多头头寸，出价在平仓时变得相关。</span>"
+    },
+    {
+      "key": "t052201b5a973710b",
+      "english": "<span data-i18n-slot=\"0\">Assuming the Quote Is Fixed</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">假设报价是固定的</span>"
+    },
+    {
+      "key": "t1d58339ee703034c",
+      "english": "<span data-i18n-slot=\"0\">Quotes update continuously when the market is active.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市场活跃时报价不断更新。</span>"
+    },
+    {
+      "key": "taea19cafdce1ce5d",
+      "english": "<span data-i18n-slot=\"0\">Confusing Quote Currency With a Forex Quote</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">混淆报价货币与外汇报价</span>"
+    },
+    {
+      "key": "tfafe8d56b435920e",
+      "english": "<span data-i18n-slot=\"0\">“Quote currency” means the second currency in a pair. A “forex quote” refers to the displayed price information for the pair.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">“报价货币”是指货币对中的第二种货币。 “外汇报价”是指显示的货币对价格信息。</span>"
+    },
+    {
+      "key": "t64b347f2efca7c96",
+      "english": "<span data-i18n-slot=\"0\">How Do You View Forex Quotes on UPFOREX MT5?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何查看 UPFOREX MT5 上的外汇报价？</span>"
+    },
+    {
+      "key": "t032ced03ea038125",
+      "english": "<span data-i18n-slot=\"0\">A useful practice routine is:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一个有用的练习例程是：</span>"
+    },
+    {
+      "key": "t4f8905e284dc750e",
+      "english": "<span data-i18n-slot=\"0\">Open MT5 using a demo account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">使用模拟帐户打开 MT5。</span>"
+    },
+    {
+      "key": "tcf039ac73b170afd",
+      "english": "<span data-i18n-slot=\"0\">Select a currency pair in Market Watch.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在市场观察中选择货币对。</span>"
+    },
+    {
+      "key": "t06b6300fe514b813",
+      "english": "<span data-i18n-slot=\"0\">Identify the bid and ask.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">确定出价和要价。</span>"
+    },
+    {
+      "key": "td7c8f05bfc614e41",
+      "english": "<span data-i18n-slot=\"0\">Calculate the spread between them.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">计算它们之间的价差。</span>"
+    },
+    {
+      "key": "t7fdf451240e8169c",
+      "english": "<span data-i18n-slot=\"0\">Compare conditions across different market periods.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">比较不同市场时期的情况。</span>"
+    },
+    {
+      "key": "t4cb2798d594afd0f",
+      "english": "<span data-i18n-slot=\"0\">What is a forex quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是外汇报价？</span>"
+    },
+    {
+      "key": "t8f2c11200bc37b24",
+      "english": "<span data-i18n-slot=\"0\">A forex quote is the two-sided price shown for a currency pair. It normally contains a bid price associated with selling and an ask price associated with buying. The difference between the two is the spread, and changes in the quote show how the relative value of the two currencies is moving.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇报价是货币对显示的双向价格。它通常包含与卖出相关的买入价和与买入相关的卖出价。两者之间的差异是点差，报价的变化显示了两种货币的相对价值如何变化。</span>"
+    },
+    {
+      "key": "td34d7dac569f0506",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between bid and ask price?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">买价和卖价有什么区别？</span>"
+    },
+    {
+      "key": "t27d0ff01aa8a0ff7",
+      "english": "<span data-i18n-slot=\"0\">The bid is the price associated with selling a currency pair, while the ask is the price associated with buying it. The ask is normally higher than the bid, and the difference between them is called the spread.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">买入价（bid）是交易者卖出货币对时所对应的价格，卖出价（ask）则是买入时所对应的价格。卖出价通常高于买入价，两者的差额称为点差。</span>"
+    },
+    {
+      "key": "tadd50a24fc2954c0",
+      "english": "<span data-i18n-slot=\"0\">What is the spread in a forex quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇报价的点差是多少？</span>"
+    },
+    {
+      "key": "t29dbfbff6e3c3097",
+      "english": "<span data-i18n-slot=\"0\">The spread is the difference between the ask and bid prices. If EUR/USD is illustratively quoted at 1.0848 / 1.0850, the difference is 0.0002, which equals 2 pips for that pair. Spreads can change as liquidity, volatility and market conditions change.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差是卖价和买价之间的差额。如果欧元/美元的报价为 1.0848 / 1.0850，则差异为 0.0002，相当于该货币对的 2 点。点差可能会随着流动性、波动性和市场条件的变化而变化。</span>"
+    },
+    {
+      "key": "t851f584d77c06e25",
+      "english": "<span data-i18n-slot=\"0\">What is a direct quote in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是外汇直接报价？</span>"
+    },
+    {
+      "key": "t3fb2fb08b29035c8",
+      "english": "<span data-i18n-slot=\"0\">A direct quote shows the amount of domestic currency needed for one unit of a foreign currency. What counts as direct depends on the observer's domestic currency. An indirect quote reverses the relationship and expresses foreign currency per unit of domestic currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">直接报价显示一单位外币所需的本币金额。什么算直接取决于观察者的本国货币。间接报价颠倒了这种关系，以每单位本币表示外币。</span>"
+    },
+    {
+      "key": "t937a5277eee0d477",
+      "english": "<span data-i18n-slot=\"0\">What is the quote currency in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇中的报价货币是什么？</span>"
+    },
+    {
+      "key": "t9bb57b6febcda859",
+      "english": "<span data-i18n-slot=\"0\">The quote currency is the second currency shown in a forex pair. In EUR/USD, USD is the quote currency. The displayed pair price expresses the value of one unit of the base currency in terms of the quote currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">报价货币是外汇对中显示的第二种货币。在欧元/美元中，美元是报价货币。显示的货币对价格以报价货币表示一单位基础货币的价值。</span>"
+    },
+    {
+      "key": "t2526deb3256024c3",
+      "english": "<span data-i18n-slot=\"0\">How do you know whether a forex quote is rising or falling?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何知道外汇报价是上涨还是下跌？</span>"
+    },
+    {
+      "key": "t761e67b1dcbd52f3",
+      "english": "<span data-i18n-slot=\"0\">Compare the same side of the quote over time. If both bid and ask move higher, the pair has risen; if both move lower, it has fallen. Comparing bid with bid or ask with ask avoids confusing genuine price movement with the spread between the two sides.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">比较一段时间内报价的同一面。如果出价和要价均走高，则货币对上涨；如果两者都走低，则它已经下跌。将出价与出价或要价与要价进行比较，可以避免将真实的价格变动与两侧之间的价差混淆。</span>"
+    },
+    {
+      "key": "tce4bc846613dce32",
+      "english": "<span data-i18n-slot=\"0\">Is a forex quote on MT5 a live price?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">MT5 上的外汇报价是实时价格吗？</span>"
+    },
+    {
+      "key": "t549cd5fd1e200c57",
+      "english": "<span data-i18n-slot=\"0\">Practice Reading the Quote Before Placing a Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">练习在进行交易之前阅读报价</span>"
+    },
+    {
+      "key": "t18b72b164c38719c",
+      "english": "<span data-i18n-slot=\"0\">Reading a forex quote becomes much easier once bid, ask, spread and pip movement are treated as separate parts of the same two-sided price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">将买入价、卖出价、点差以及以点衡量的价格变动视为同一双向报价的不同部分后，外汇报价就更容易理解了。</span>"
+    },
+    {
+      "key": "te5d8ec7c2118c95e",
+      "english": "<span data-i18n-slot=\"0\">Forex </span><span data-i18n-slot=\"1\">liquidity</span><span data-i18n-slot=\"2\"> describes how easily a currency pair can be bought or sold at available market prices without a relatively small order causing a material price movement. A highly liquid pair normally has many active buyers and sellers around the current price, while a less-liquid market has fewer orders available across nearby price levels.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇</span><span data-i18n-slot=\"1\">流动性</span><span data-i18n-slot=\"2\">描述了按可用市场价格买卖货币对的容易程度，即相对较小的订单不会造成显著价格变动。流动性高的货币对通常在当前价格附近有许多活跃的买方和卖方，而流动性较低的市场在相邻价格水平上的可用订单较少。</span>"
+    },
+    {
+      "key": "t908472f7180bc9a5",
+      "english": "<span data-i18n-slot=\"0\">Liquidity matters because it directly affects trading conditions. Higher liquidity generally supports tighter </span><span data-i18n-slot=\"1\">spreads</span><span data-i18n-slot=\"2\"> because more buying and selling interest is competing around the current price. It can also reduce the likelihood or size of </span><span data-i18n-slot=\"3\">slippage</span><span data-i18n-slot=\"4\">, although slippage can still occur during fast markets. </span><span data-i18n-slot=\"5\">Execution</span><span data-i18n-slot=\"6\"> may feel smoother when sufficient liquidity is available because orders have more nearby prices at which they can potentially be filled.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流动性很重要，因为它直接影响交易条件。流动性较高时通常有助于形成较窄的</span><span data-i18n-slot=\"1\">点差</span><span data-i18n-slot=\"2\">，因为更多买卖意愿在当前价格附近竞争。它也可能降低</span><span data-i18n-slot=\"3\">滑点</span><span data-i18n-slot=\"4\">发生的概率或幅度，但行情快速变动时仍可能出现滑点。流动性充足时，</span><span data-i18n-slot=\"5\">成交执行</span><span data-i18n-slot=\"6\">可能更顺畅，因为订单在相邻价格上有更多潜在的成交机会。</span>"
+    },
+    {
+      "key": "t6ad2d796fafdb0dc",
+      "english": "<span data-i18n-slot=\"0\">What Is Forex Liquidity?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是外汇流动性？</span>"
+    },
+    {
+      "key": "t14d55f7cb8baa49a",
+      "english": "<span data-i18n-slot=\"0\">Forex liquidity is the depth of buying and selling activity available in the foreign exchange market at different price levels.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇流动性是指外汇市场上不同价格水平的买卖活动的深度。</span>"
+    },
+    {
+      "key": "tf4bafe70b81bd992",
+      "english": "<span data-i18n-slot=\"0\">The Bank for International Settlements reported average global FX turnover of about </span><span data-i18n-slot=\"1\">$9.6 trillion per day in April 2025</span><span data-i18n-slot=\"2\">, with the US dollar on one side of </span><span data-i18n-slot=\"3\">89% of all FX trades</span><span data-i18n-slot=\"4\">.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">BIS press release, 30 September 2025</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">国际清算银行报告称，全球外汇平均交易额约为</span><span data-i18n-slot=\"1\">2025年四月日均9.6万亿美元</span><span data-i18n-slot=\"2\">，而美元是</span><span data-i18n-slot=\"3\">全部外汇交易中89%的交易的一方</span><span data-i18n-slot=\"4\">。</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">BIS新闻稿，2025年九月30日</span></span>"
+    },
+    {
+      "key": "t80fada8a847b0962",
+      "english": "<span data-i18n-slot=\"0\">Why Does Liquidity Matter to a Forex Trader?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">为什么流动性对外汇交易者很重要？</span>"
+    },
+    {
+      "key": "t1e23d23fa25d6e19",
+      "english": "<span data-i18n-slot=\"0\">Slippage: Thin liquidity can increase the chance that the expected price is no longer available when an order executes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑点：流动性不足会增加订单执行时预期价格不再可用的可能性。</span>"
+    },
+    {
+      "key": "t3084aa0ceda1e726",
+      "english": "<span data-i18n-slot=\"0\">A pair may appear relatively calm and tightly priced during an active session, then display wider spreads or less consistent execution when participation falls.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一个货币对在活跃交易时段可能相对平稳且点差较窄，但当市场参与度下降时，点差可能扩大，成交执行也可能变得不够稳定。</span>"
+    },
+    {
+      "key": "t08538e24c0252970",
+      "english": "<span data-i18n-slot=\"0\">How Does Liquidity Affect Forex Spreads?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流动性如何影响外汇点差？</span>"
+    },
+    {
+      "key": "t885a43540d690dea",
+      "english": "<span data-i18n-slot=\"0\">Higher liquidity usually supports tighter spreads because more buyers and sellers are competing around the current market price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">更高的流动性通常会支持更小的价差，因为更多的买家和卖家围绕当前的市场价格进行竞争。</span>"
+    },
+    {
+      "key": "t1a1e50081553af34",
+      "english": "<span data-i18n-slot=\"0\">This relationship is why spreads can change throughout the day rather than remaining fixed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这种关系就是为什么点差可以全天变化而不是保持固定的原因。</span>"
+    },
+    {
+      "key": "tde3e9299c82991d9",
+      "english": "<span data-i18n-slot=\"0\">Typical factors that can affect both liquidity and spreads include:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可能影响流动性和点差的典型因素包括：</span>"
+    },
+    {
+      "key": "t1d356c7adebfe660",
+      "english": "<span data-i18n-slot=\"0\">Trading-session activity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易时段活动</span>"
+    },
+    {
+      "key": "t4aa10c3a13f27070",
+      "english": "<span data-i18n-slot=\"0\">Holidays</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">假期</span>"
+    },
+    {
+      "key": "t40280fdd02a41275",
+      "english": "<span data-i18n-slot=\"0\">Market openings and closings</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市场开盘和收盘</span>"
+    },
+    {
+      "key": "t261196cbb9e5b2e1",
+      "english": "<span data-i18n-slot=\"0\">How Does Liquidity Affect Slippage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流动性如何影响滑点？</span>"
+    },
+    {
+      "key": "t8300199e7f88c1c0",
+      "english": "<span data-i18n-slot=\"0\">How Does Liquidity Affect Trade Execution?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流动性如何影响交易执行？</span>"
+    },
+    {
+      "key": "tb1a0b22bff178653",
+      "english": "<span data-i18n-slot=\"0\">Liquidity affects how much market depth is available for an order to interact with when it reaches execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流动性会影响订单在执行时可进行交互的市场深度。</span>"
+    },
+    {
+      "key": "t6fc8b82307c18571",
+      "english": "<span data-i18n-slot=\"0\">Actual fill price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实际成交价格</span>"
+    },
+    {
+      "key": "tac4aa5d482a05d8c",
+      "english": "<span data-i18n-slot=\"0\">Spread paid at entry or exit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">进入或退出时支付的点差</span>"
+    },
+    {
+      "key": "t2002ee807039308e",
+      "english": "<span data-i18n-slot=\"0\">It is important to separate liquidity from execution speed. A technically fast trading platform cannot create market liquidity that does not exist. Infrastructure and liquidity are related parts of execution, but they are not the same thing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">将流动性与执行速度分开非常重要。技术上快速的交易平台无法创造不存在的市场流动性。基础设施和流动性是执行的相关部分，但它们不是同一件事。</span>"
+    },
+    {
+      "key": "t5243bab0bf7c454e",
+      "english": "<span data-i18n-slot=\"0\">Which Forex Pairs Have the Most Liquidity?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">哪些外汇货币对具有最大的流动性？</span>"
+    },
+    {
+      "key": "te53f788119542097",
+      "english": "<span data-i18n-slot=\"0\">Pair</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs/forex-correlation-explained#content",
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/forex-correlation-explained",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">配对</span>"
+    },
+    {
+      "key": "t34d583f00a466ada",
+      "english": "<span data-i18n-slot=\"0\">Typical Spread Behavior</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的点差表现</span>"
+    },
+    {
+      "key": "t09ae82c5c12af851",
+      "english": "<span data-i18n-slot=\"0\">Typical Slippage Risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的滑点风险</span>"
+    },
+    {
+      "key": "tded6e71aa356aee6",
+      "english": "<span data-i18n-slot=\"0\">Major</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要货币对</span>"
+    },
+    {
+      "key": "tb26cd96cbbf9a66a",
+      "english": "<span data-i18n-slot=\"0\">Usually among the tighter major-pair spreads</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常是主要货币对价差较小的货币</span>"
+    },
+    {
+      "key": "tfa74a31f4f922aa9",
+      "english": "<span data-i18n-slot=\"0\">Usually tight during active periods</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">活跃时段的点差通常较窄</span>"
+    },
+    {
+      "key": "t1bbe05c81b12a0ec",
+      "english": "<span data-i18n-slot=\"0\">Usually tight but can widen during volatility</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差通常较窄，但在波动时可能扩大</span>"
+    },
+    {
+      "key": "tb18b771967e84ff3",
+      "english": "<span data-i18n-slot=\"0\">Low to moderate</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">低到中等</span>"
+    },
+    {
+      "key": "t32b9f9b6ec78716a",
+      "english": "<span data-i18n-slot=\"0\">Minor</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次要货币对</span>"
+    }
+  ]
+}

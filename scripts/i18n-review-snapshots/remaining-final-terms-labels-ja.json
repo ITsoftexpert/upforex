@@ -1,0 +1,25 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tc4e2abcc29b61bdc",
+      "english": "Updated: {0}",
+      "kind": "text",
+      "sources": [
+        "src/app/components/terms-display/terms-display.component.html"
+      ],
+      "translation": "更新日：{0}"
+    },
+    {
+      "key": "t6ff6dc552e17130f",
+      "english": "© {0} Upforex. All rights reserved.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/terms-display/terms-display.component.html"
+      ],
+      "translation": "© {0} Upforex. 無断転載を禁じます。"
+    }
+  ]
+}

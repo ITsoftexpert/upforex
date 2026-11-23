@@ -1,0 +1,419 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t7c02c213809c7583",
+      "english": "<span data-i18n-slot=\"0\">1. Start With a Demo Account</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Comece com uma conta demo</span>"
+    },
+    {
+      "key": "t0da69c96298092aa",
+      "english": "<span data-i18n-slot=\"0\">2. Understand Leverage Before You Use It</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. Entenda a alavancagem antes de usá-la</span>"
+    },
+    {
+      "key": "t484f1b35e555d35f",
+      "english": "<span data-i18n-slot=\"0\">Leverage is not free money; it multiplies both your gains and your losses. Start with the lowest leverage available and only increase it once you have a clear risk management strategy in place. Most experienced traders use far less than the maximum available leverage even when they have access to higher ratios.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alavancagem não é dinheiro grátis; ela multiplica ganhos e perdas. Comece com a menor alavancagem disponível e só aumente quando tiver uma estratégia clara de gestão de riscos. A maioria dos traders experientes usa muito menos do que a alavancagem máxima disponível, mesmo tendo acesso a proporções mais altas.</span>"
+    },
+    {
+      "key": "t6909e80dc7e88031",
+      "english": "<span data-i18n-slot=\"0\">4. Follow a Trading Plan: Not Your Emotions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4. Siga um plano de negociação, não suas emoções.</span>"
+    },
+    {
+      "key": "t108056cc42025ec6",
+      "english": "<span data-i18n-slot=\"0\">5. Only Trade With a Regulated, SCA-Licensed Broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5. Negocie apenas com uma corretora regulamentada e licenciada pela SCA</span>"
+    },
+    {
+      "key": "td235ab7d4f856789",
+      "english": "<span data-i18n-slot=\"0\">Frequently Asked Questions: Gold CFD Trading in UAE</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Perguntas frequentes: negociação de CFDs de ouro nos EAU</span>"
+    },
+    {
+      "key": "taf8612bce2ed5f18",
+      "english": "<span data-i18n-slot=\"0\">Yes. UpForex Financial Consultation LLC is licensed and regulated by the UAE Securities and Commodities Authority (SCA) under license No. 20200000350. UP Global Markets Ltd. is regulated by the Financial Services Commission (FSC) of Mauritius under license No. GB25204570.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sim. A UpForex Financial Consultation LLC é licenciada e regulada pela Autoridade de Valores Mobiliários e Commodities (SCA) sob licença no 20200000350. A UP Global Markets Ltd. é regulada pela Comissão de Serviços Financeiros (FSC) da Maurícia sob a licença No. GB25204570.</span>"
+    },
+    {
+      "key": "tddb6f2c4ac135a58",
+      "english": "<span data-i18n-slot=\"0\"> Related UpForex Guides</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Guias relacionados da UpForex</span>"
+    },
+    {
+      "key": "te092a2e732d45ad9",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">What Is Gold Trading in UAE? Complete Beginner’s Guide</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">O que é comércio de ouro nos EAU? Guia de Iniciante completo</span></span>"
+    },
+    {
+      "key": "t058b7061944da043",
+      "english": "<span data-i18n-slot=\"0\">Trading gold CFDs and other leveraged products involves significant risk and may not be suitable for all investors. You could lose more than your initial deposit. UpForex Financial Consultation LLC is licensed by the UAE Securities and Commodities Authority (SCA), license No. 20200000350. UP Global Markets Ltd. is licensed by the FSC Mauritius under license No. GB25204570. Price forecasts referenced in this article are from third-party financial institutions and do not constitute financial advice from UpForex. Past performance is not indicative of future results.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negociar CFDs de ouro e outros produtos alavancados envolve risco significativo e pode não ser adequado para todos os investidores. Você pode perder mais do que seu depósito inicial. A UpForex Financial Consultation LLC é licenciada pela UAE Securities and Commodities Authority (SCA), licença no 20200000350. A UP Global Markets Ltd. é licenciada pela FSC Maurícia sob a licença No. GB25204570. As previsões de preços referidas neste artigo são de instituições financeiras de terceiros e não constituem consultoria financeira da UpForex. Desempenho passado não é indicativo de resultados futuros.</span>"
+    },
+    {
+      "key": "td25a4e24d4e07074",
+      "english": "<span data-i18n-slot=\"0\">Major institutions have significantly upgraded their 2026 price targets. J.P. Morgan forecasts gold to average $6,000 per ounce by Q4 2026, while Goldman Sachs and Deutsche Bank both cite a $5,400–$6,000 range. For UAE investors, that structural demand story makes a compelling case for getting exposure to gold now.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">As principais instituições elevaram significativamente suas metas de preço para 2026. O J.P. Morgan prevê que o ouro alcance uma média de $6,000 por onça até o T4 de 2026, enquanto Goldman Sachs e Deutsche Bank citam uma faixa de $5,400–$6,000. Para os investidores dos EAU, essa demanda estrutural é um argumento convincente a favor da exposição ao ouro agora.</span>"
+    },
+    {
+      "key": "t03ae517d2f4b2edf",
+      "english": "Low–Medium",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "Baixo-Médio"
+    },
+    {
+      "key": "t6ad38dba103e794e",
+      "english": "Passive, cost-efficient exposure",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "Exposição passiva e econômica."
+    },
+    {
+      "key": "t3f92aa8ab654e89e",
+      "english": "Hands-off, diversified investors",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "Investidores que buscam diversificação sem gestão direta"
+    },
+    {
+      "key": "tc1114d5264975bfe",
+      "english": "Instant",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "Instantânea."
+    },
+    {
+      "key": "t988892c92423e6a9",
+      "english": "<span data-i18n-slot=\"0\">Gold Bars vs Gold Coins: What Should You Buy?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Barras de ouro e moedas de ouro: o que comprar?</span>"
+    },
+    {
+      "key": "teb1d893a0c34654a",
+      "english": "<span data-i18n-slot=\"0\">For investment purposes, focus on DMCC- or LBMA-recognized bullion rather than jewelry. Large bars (1 oz and above) trade at just 1–2% above spot price, making them the most cost-efficient entry. Smaller bars and coins carry higher premiums of 4–6%, but they offer more flexibility when it comes to selling in portions. Always retain original packaging and certificates; this protects your resale value.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Para fins de investimento, concentre-se em barras reconhecidas pelo DMCC ou LBMA em vez de jóias. Barras grandes (1 oz ou mais) trocam a apenas 1–2% acima do preço à vista, tornando-as a entrada mais econômica. Barras e moedas menores têm prêmios maiores de 4–6%, mas oferecem mais flexibilidade quando se trata de vender em porções. Sempre mantenha as embalagens e certificados originais, isso protege seu valor de revenda.</span>"
+    },
+    {
+      "key": "t4c66e81073aff452",
+      "english": "<span data-i18n-slot=\"0\">What Does Physical Gold Cost in the UAE Right Now?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Quanto custa o ouro físico nos EAU agora?</span>"
+    },
+    {
+      "key": "tc3748b17981d3ce9",
+      "english": "<span data-i18n-slot=\"0\">As of mid-2026, 24K gold in Dubai is trading in the AED 560–620 per gram range depending on global spot prices. Investment-grade gold is zero-rated for VAT, but jewelry and making charges attract standard VAT. There is no capital gains tax for individual investors in the UAE.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Em meados de 2026, o ouro 24K em Dubai está negociando no AED 560–620 por grama, dependendo dos preços globais à vista. Ouro de nível de investimento é zero para o IVA, mas jóias e cobranças atraem IVA padrão. Não há imposto sobre ganhos de capital para investidores individuais nos EAU.</span>"
+    },
+    {
+      "key": "tffb089ed983310b5",
+      "english": "<span data-i18n-slot=\"0\">Storage and Insurance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Armazém e Seguro</span>"
+    },
+    {
+      "key": "t35bf3ebcf7f9d5a8",
+      "english": "<span data-i18n-slot=\"0\">Gold stocks can outperform physical gold in a bull market because of operating leverage; rising prices increase company profits at a faster rate. But in a downturn, stocks tend to fall more sharply than the metal itself. If you want pure gold price exposure, stocks introduce variables that go beyond the gold market.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">As ações de ouro podem superar o ouro físico em um mercado de touros por causa da alavancagem operacional, os preços crescentes aumentam os lucros da empresa em uma taxa mais rápida. Mas em uma recessão, as ações tendem a cair mais acentuadamente do que o próprio metal. Se você quer exposição ao preço do ouro puro, ações introduzem variáveis que vão além do mercado de ouro.</span>"
+    },
+    {
+      "key": "tb29329efea304e8d",
+      "english": "<span data-i18n-slot=\"0\">How UAE Investors Can Access Gold ETFs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como os investidores podem acessar ETFs de ouro</span>"
+    },
+    {
+      "key": "tb7c5dfaef01d99a0",
+      "english": "<span data-i18n-slot=\"0\">ETFs charge an annual expense ratio (typically 0.15–0.40% for major gold ETFs), which is deducted from the fund’s returns. There are no storage costs since you do not hold physical gold. ETFs are highly liquid and can be bought and sold during market hours, making them a practical option for investors who want clean gold exposure without the premium of buying physical.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ETFs cobram uma taxa de despesa anual (tipicamente 0.15–0.40% para ETFs de ouro), que é deduzida dos retornos do fundo. Não há custos de armazenamento, já que você não tem ouro físico. Os ETFs são altamente líquidos e podem ser comprados e vendidos durante as horas de mercado, tornando-os uma opção prática para investidores que querem exposição a preço do ouro sem o prêmio de comprar físico.</span>"
+    },
+    {
+      "key": "t836cbbb4da54dbf2",
+      "english": "<span data-i18n-slot=\"0\">Gold mutual funds suit investors with a longer time horizon (3–5+ years) who want diversified exposure to the gold sector without managing positions themselves. If you are an active trader or want to react quickly to market movements, CFDs or ETFs give you far more flexibility.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Fundos mútuos de ouro se adequam a investidores com um horizonte de tempo maior (3–5+ anos) que querem uma exposição diversificada ao setor de ouro sem gerenciar as próprias posições. Se você é um comerciante ativo ou quer reagir rapidamente aos movimentos de mercado, CFDs ou ETFs lhe dão muito mais flexibilidade.</span>"
+    },
+    {
+      "key": "t169540504654a054",
+      "english": "<span data-i18n-slot=\"0\">Digital Gold vs Tokenized Gold: Which Is Better for UAE Traders?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ouro digital e ouro tokenizado: qual é melhor para os traders dos EAU?</span>"
+    },
+    {
+      "key": "tef35dcaad89d44fa",
+      "english": "<span data-i18n-slot=\"0\">Yes, amplified exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sim, exposição ampliada.</span>"
+    },
+    {
+      "key": "t0150589cb56e5194",
+      "english": "<span data-i18n-slot=\"0\">Long-term savers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Poupadores de longo prazo</span>"
+    },
+    {
+      "key": "tf16bde26eb6165dc",
+      "english": "<span data-i18n-slot=\"0\">Trade Gold With SCA-Regulated Confidence</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Troque ouro com confiança regulada pela SCA</span>"
+    },
+    {
+      "key": "tc4373daf8a71f40b",
+      "english": "<span data-i18n-slot=\"0\">UpForex Financial Consultation LLC operates under UAE Securities and Commodities Authority (SCA) license No. 20200000350, with UP Global Markets Ltd. additionally regulated by the FSC Mauritius (license No. GB25204570). When you</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">trade gold on UpForex</span></span><span data-i18n-slot=\"4\">, you trade within a legally accountable framework with investor protections in place.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A UpForex Financial Consultation LLC opera sob a licença da UAE Securities and Commodities Authority (SCA) no 20200000350, com a UP Global Markets Ltd. adicionalmente regulada pela FSC Maurícia (licença no GB25204570). Quando você</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Troque ouro em UpForex</span></span><span data-i18n-slot=\"4\">, você negocia dentro de um quadro legalmente responsável com proteções de investidores no local.</span>"
+    },
+    {
+      "key": "t447447e568c7ba59",
+      "english": "<span data-i18n-slot=\"0\">Tight Spreads on XAU/USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Spreads estreitos em XAU/USD</span>"
+    },
+    {
+      "key": "tdb5799b93a472e05",
+      "english": "<span data-i18n-slot=\"0\">Gold works best as a portfolio stabilizer, not your entire portfolio. Most professional portfolio managers allocate 5–15% of a portfolio to gold. Alongside gold, you might consider</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">index CFDs</span></span><span data-i18n-slot=\"4\">,</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">energy CFDs</span></span><span data-i18n-slot=\"8\">, or</span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">forex trading</span></span><span data-i18n-slot=\"12\"> to build a balanced, multi-asset approach.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ouro funciona melhor como estabilizador de portfólio, não como todo o seu portfólio. A maioria dos gerentes profissionais de portfólio aloca 5–15% de um portfólio ao ouro. Ao lado do ouro, você pode considerar</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">índice CFDs</span></span><span data-i18n-slot=\"4\">,</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">energia CFDs</span></span><span data-i18n-slot=\"8\">, ou</span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">Forex trading</span></span><span data-i18n-slot=\"12\"> para construir uma abordagem equilibrada e multi-ativo.</span>"
+    },
+    {
+      "key": "tf092911ad89aa444",
+      "english": "<span data-i18n-slot=\"0\">It depends on the method. Tokenized gold platforms typically allow very low entry points, making them accessible for new investors building a position gradually. Gold CFDs on UpForex also have a low minimum deposit. Physical gold bars start at AED 600–800 for small denominations, while larger investment bars require significantly more capital.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Depende do método. Plataformas de ouro tokenizadas normalmente permitem pontos de entrada muito baixos, tornando-os acessíveis para novos investidores construindo uma posição gradualmente. CFDs de ouro na UpForex também têm um depósito mínimo baixo. Barras de ouro físicas começam em 600–800 AED para pequenas denominações, enquanto barras de investimento maiores requerem significativamente mais capital.</span>"
+    },
+    {
+      "key": "td2c291b988eb9871",
+      "english": "<span data-i18n-slot=\"0\">Yes. UpForex Financial Consultation LLC is licensed and regulated by the UAE Securities and Commodities Authority (SCA) under Category 5 – Arrangement &amp; Advice, License No. 20200000350. UP Global Markets Ltd. is licensed by the FSC Mauritius under Licence No. GB25204570.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sim. A UpForex Financial Consultation LLC é licenciada e regulamentada pela Autoridade de Valores Mobiliários e Commodities dos EAU (SCA) na categoria 5 – Arranjo e Aconselhamento, Licença no 20200000350. A UP Global Markets Ltd. é licenciada pela FSC Maurícia sob a licença No. GB25204570.</span>"
+    },
+    {
+      "key": "tb14eac16adf4e910",
+      "english": "<span data-i18n-slot=\"0\">Ready to start trading gold in the UAE? </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Open a free demo or live account on UpForex and access XAU/USD today.</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pronto para começar a trocar ouro nos EAU? </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Abra uma demo grátis ou conta ao vivo na UpForex e acesse XAU/USD hoje.</span></span>"
+    },
+    {
+      "key": "t42b370bc425fca22",
+      "english": "<span data-i18n-slot=\"0\">Related UpForex Guides:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Guias relacionados da UpForex:</span>"
+    },
+    {
+      "key": "t840ff46952b42c59",
+      "english": "<span data-i18n-slot=\"0\">Trading CFDs and leveraged products, including gold CFDs, involves significant risk and may not be suitable for all investors. You could lose more than your initial deposit. UpForex Financial Consultation LLC is licensed by the UAE Securities and Commodities Authority (SCA), license No. 20200000350. UP Global Markets Ltd. is licensed by the FSC Mauritius under Licence No. GB25204570. This article is for informational purposes only and does not constitute financial or investment advice. Past performance is not indicative of future results.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negociar CFDs e produtos alavancados, incluindo CFDs de ouro, envolve risco significativo e pode não ser adequado para todos os investidores. Você pode perder mais do que seu depósito inicial. A UpForex Financial Consultation LLC é licenciada pela UAE Securities and Commodities Authority (SCA), licença no 20200000350. A UP Global Markets Ltd. é licenciada pela FSC Maurícia sob a licença No. GB25204570. Este artigo é apenas para fins informativos e não constitui conselho financeiro ou investimento. Desempenho passado não é indicativo de resultados futuros.</span>"
+    },
+    {
+      "key": "t829885ad4be203db",
+      "english": "<span data-i18n-slot=\"0\">OTC Trading vs Exchange Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negociação no mercado de balcão e em bolsa</span>"
+    },
+    {
+      "key": "tdee0b4f98d955145",
+      "english": "<span data-i18n-slot=\"0\">Exchange Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negociação em bolsa</span>"
+    },
+    {
+      "key": "tc8d078bce1cf02f0",
+      "english": "<span data-i18n-slot=\"0\">Venue</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Local</span>"
+    },
+    {
+      "key": "t316dbbad52db1c97",
+      "english": "<span data-i18n-slot=\"0\">Centralized exchange</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Bolsa centralizada</span>"
+    },
+    {
+      "key": "te053414bd637801f",
+      "english": "<span data-i18n-slot=\"0\">Listed stocks, futures, ETFs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ações listadas, futuros, ETFs</span>"
+    }
+  ]
+}

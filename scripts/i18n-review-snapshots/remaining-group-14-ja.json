@@ -1,0 +1,631 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tff8d5e2f2e8c1647",
+      "english": "<span data-i18n-slot=\"0\">that side of the quote has moved by 1 pip.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">クォートのその側は 1 ピップ移動しました。</span>"
+    },
+    {
+      "key": "t553ca8174c837581",
+      "english": "<span data-i18n-slot=\"0\">A move from:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次からの移行:</span>"
+    },
+    {
+      "key": "tb44016735b9402f7",
+      "english": "<span data-i18n-slot=\"0\">equals 10 pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">10 ピップスに相当します。</span>"
+    },
+    {
+      "key": "tff2b13c2775de77c",
+      "english": "<span data-i18n-slot=\"0\">Pairs involving the Japanese yen are commonly quoted differently, with the pip usually associated with the second decimal place rather than the fourth.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">日本円を含む通貨ペアは通常、異なる桁数で表示され、ピップは小数点以下第四位ではなく第二位に対応します。</span>"
+    },
+    {
+      "key": "t575aed12b2b2486a",
+      "english": "<span data-i18n-slot=\"0\">Modern trading platforms may also display an additional fractional digit. That smaller unit is often referred to as a point or pipette, depending on the terminology being used.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最新の取引プラットフォームでは、追加の小数点以下の桁が表示される場合もあります。この小さな単位は、使用される用語に応じて、ポイントまたはピペットと呼ばれることがよくあります。</span>"
+    },
+    {
+      "key": "tfdf8b9f7d156d523",
+      "english": "<span data-i18n-slot=\"0\">Knowing how many pips a quote has moved is different from knowing the monetary value of that movement. Pip value depends on factors such as the currency pair and position size, so that calculation should be handled separately rather than mixed into basic quote reading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相場が何ピップス動いたかを知ることは、その動きの金銭的価値を知ることとは異なります。ピップ値は通貨ペアやポジションサイズなどの要因に依存するため、計算は基本的な相場の読み取りに混ぜるのではなく、個別に処理する必要があります。</span>"
+    },
+    {
+      "key": "t9b2f32686fe5cd3a",
+      "english": "<span data-i18n-slot=\"0\">How Do You Read Rising vs Falling Forex Prices?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替価格の上昇と下落をどのように判断しますか?</span>"
+    },
+    {
+      "key": "tcce713c0696a492c",
+      "english": "<span data-i18n-slot=\"0\">A rising forex quote means the base currency is becoming more valuable relative to the quote currency, while a falling quote indicates the opposite relationship.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替相場の上昇は、基準通貨の価値が相場通貨に比べて高まっていることを意味し、相場の下落はその逆の関係を示します。</span>"
+    },
+    {
+      "key": "te964d188a01d99f6",
+      "english": "<span data-i18n-slot=\"0\">Both sides of the quote have moved higher.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相場の両側が上昇した。</span>"
+    },
+    {
+      "key": "td61dbb16636497a4",
+      "english": "<span data-i18n-slot=\"0\">If the quote instead falls to:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">代わりに提示価格が次の値に下がった場合：</span>"
+    },
+    {
+      "key": "td1869f61f08e8b5b",
+      "english": "<span data-i18n-slot=\"0\">For traders:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダー向け:</span>"
+    },
+    {
+      "key": "tcb855ad249d3a31c",
+      "english": "<span data-i18n-slot=\"0\">A short position generally benefits from downward movement after accounting for the relevant bid/ask sides.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ショートポジションは一般に、関連する買い/売りサイドを考慮した後、下向きの動きから恩恵を受けます。</span>"
+    },
+    {
+      "key": "t877b427cbf1ac9d8",
+      "english": "<span data-i18n-slot=\"0\">The key is to compare like with like. When assessing movement, compare bid with bid or ask with ask rather than comparing the original bid directly with a later ask.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">重要なのは、似たものと似たものを比較することです。動きを評価するときは、最初の買い値とその後の売り値を直接比較するのではなく、買い値と買い値、または売り値と売り値を比較します。</span>"
+    },
+    {
+      "key": "t6da5699ca70a4c6e",
+      "english": "<span data-i18n-slot=\"0\">What Is the Difference Between a Live and Static Forex Quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ライブ外国為替相場と静的外国為替相場の違いは何ですか?</span>"
+    },
+    {
+      "key": "t6083abca57d2e73e",
+      "english": "<span data-i18n-slot=\"0\">A live forex quote updates as market pricing changes, while a static quote is simply an example or snapshot captured at one moment.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ライブの外国為替相場は市場価格の変化に応じて更新されますが、静的な相場はある瞬間にキャプチャされた単なる例またはスナップショットにすぎません。</span>"
+    },
+    {
+      "key": "tb461b666f38da33c",
+      "english": "<span data-i18n-slot=\"0\">Educational articles often use static figures such as:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">教育用の記事では、次のようなある時点の数値をよく使います。</span>"
+    },
+    {
+      "key": "te790b64db3124999",
+      "english": "<span data-i18n-slot=\"0\">Someone searching specifically for a “live forex quote” is therefore usually looking for real-time market data rather than an educational definition.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">したがって、特に「ライブ外国為替相場」を検索している人は、通常、教育的な定義ではなく、リアルタイムの市場データを探しています。</span>"
+    },
+    {
+      "key": "t1fa485c1e69df3b7",
+      "english": "<span data-i18n-slot=\"0\">What Are Common Mistakes When Reading a Forex Quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替相場を読むときによくある間違いは何ですか?</span>"
+    },
+    {
+      "key": "td1bcb972cb0e1e62",
+      "english": "<span data-i18n-slot=\"0\">Confusing Bid and Ask</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ビッドとアスクの混同</span>"
+    },
+    {
+      "key": "t5e60a24f624c2a1d",
+      "english": "<span data-i18n-slot=\"0\">A trader may look at the bid and assume it is also the immediate buying price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーはビッドを見て、それがすぐに買える価格でもあると誤解することがあります。</span>"
+    },
+    {
+      "key": "t192842f20d2977e8",
+      "english": "<span data-i18n-slot=\"0\">Ignoring the Spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッドを無視する</span>"
+    },
+    {
+      "key": "t556ef8cb42608f2d",
+      "english": "<span data-i18n-slot=\"0\">Comparing the Wrong Sides</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">間違った側面を比較する</span>"
+    },
+    {
+      "key": "t5cb8cdd042af8592",
+      "english": "<span data-i18n-slot=\"0\">If a position was opened using the ask, its closing value should not automatically be judged using another ask price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アスクを使用してポジションがオープンされた場合、その終値は別のアスク価格を使用して自動的に判断されるべきではありません。</span>"
+    },
+    {
+      "key": "t1d58339ee703034c",
+      "english": "<span data-i18n-slot=\"0\">Quotes update continuously when the market is active.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市場が活発な場合、相場は継続的に更新されます。</span>"
+    },
+    {
+      "key": "taea19cafdce1ce5d",
+      "english": "<span data-i18n-slot=\"0\">Confusing Quote Currency With a Forex Quote</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相場通貨と外国為替相場の混同</span>"
+    },
+    {
+      "key": "tfafe8d56b435920e",
+      "english": "<span data-i18n-slot=\"0\">“Quote currency” means the second currency in a pair. A “forex quote” refers to the displayed price information for the pair.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">「相場通貨」とは、ペアの 二 番目の通貨を意味します。 「外国為替相場」とは、表示されたペアの価格情報を指します。</span>"
+    },
+    {
+      "key": "t64b347f2efca7c96",
+      "english": "<span data-i18n-slot=\"0\">How Do You View Forex Quotes on UPFOREX MT5?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UPFOREX MT5 で外国為替相場を表示するにはどうすればよいですか?</span>"
+    },
+    {
+      "key": "tcf039ac73b170afd",
+      "english": "<span data-i18n-slot=\"0\">Select a currency pair in Market Watch.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">気配値表示で通貨ペアを選択します。</span>"
+    },
+    {
+      "key": "td7c8f05bfc614e41",
+      "english": "<span data-i18n-slot=\"0\">Calculate the spread between them.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">それらの間のスプレッドを計算します。</span>"
+    },
+    {
+      "key": "tf9aaf7bba0844c2b",
+      "english": "<span data-i18n-slot=\"0\">Watch how each side changes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">それぞれの提示価格がどう変わるかを観察してください。</span>"
+    },
+    {
+      "key": "te495e8664f1d970a",
+      "english": "<span data-i18n-slot=\"0\">For readers approaching the topic from a regional perspective, the site also provides information on</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading in Abu Dhabi</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">地域の観点からこのトピックに取り組む読者のために、このサイトでは</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">アブダビの外国為替取引</span></span><span data-i18n-slot=\"4\">に関する情報も提供しています。</span>"
+    },
+    {
+      "key": "t4cb2798d594afd0f",
+      "english": "<span data-i18n-slot=\"0\">What is a forex quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替相場とは何ですか?</span>"
+    },
+    {
+      "key": "t8f2c11200bc37b24",
+      "english": "<span data-i18n-slot=\"0\">A forex quote is the two-sided price shown for a currency pair. It normally contains a bid price associated with selling and an ask price associated with buying. The difference between the two is the spread, and changes in the quote show how the relative value of the two currencies is moving.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替の提示価格は、通貨ペアの売買両側の価格です。通常、売るときのビッド価格と、買うときのアスク価格が含まれます。両者の差がスプレッドで、提示価格の変化は両通貨の相対的な価値の動きを示します。</span>"
+    },
+    {
+      "key": "td34d7dac569f0506",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between bid and ask price?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ビッド価格とアスク価格はどう違いますか？</span>"
+    },
+    {
+      "key": "t27d0ff01aa8a0ff7",
+      "english": "<span data-i18n-slot=\"0\">The bid is the price associated with selling a currency pair, while the ask is the price associated with buying it. The ask is normally higher than the bid, and the difference between them is called the spread.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ビッドは通貨ペアの売りに関連する価格であり、アスクは通貨ペアの購入に関連する価格です。通常、売値は買値よりも高く、その差はスプレッドと呼ばれます。</span>"
+    },
+    {
+      "key": "tadd50a24fc2954c0",
+      "english": "<span data-i18n-slot=\"0\">What is the spread in a forex quote?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替相場のスプレッドとは何ですか?</span>"
+    },
+    {
+      "key": "t29dbfbff6e3c3097",
+      "english": "<span data-i18n-slot=\"0\">The spread is the difference between the ask and bid prices. If EUR/USD is illustratively quoted at 1.0848 / 1.0850, the difference is 0.0002, which equals 2 pips for that pair. Spreads can change as liquidity, volatility and market conditions change.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッドとは、売値と買値の差です。たとえば、EUR/USD が 1.0848 / 1.0850 である場合、その差は 0.0002 で、これはそのペアの 2 ピップに相当します。スプレッドは、流動性、ボラティリティ、市場状況の変化に応じて変化する可能性があります。</span>"
+    },
+    {
+      "key": "t851f584d77c06e25",
+      "english": "<span data-i18n-slot=\"0\">What is a direct quote in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替における直接相場とは何ですか?</span>"
+    },
+    {
+      "key": "t937a5277eee0d477",
+      "english": "<span data-i18n-slot=\"0\">What is the quote currency in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替の相場通貨とは何ですか?</span>"
+    },
+    {
+      "key": "t9bb57b6febcda859",
+      "english": "<span data-i18n-slot=\"0\">The quote currency is the second currency shown in a forex pair. In EUR/USD, USD is the quote currency. The displayed pair price expresses the value of one unit of the base currency in terms of the quote currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相場通貨は、外国為替ペアに表示される 二 番目の通貨です。 EUR/USD では、USD が相場通貨となります。表示されるペア価格は、建値通貨で換算した基本通貨の 一 単位の価値を表します。</span>"
+    },
+    {
+      "key": "t2526deb3256024c3",
+      "english": "<span data-i18n-slot=\"0\">How do you know whether a forex quote is rising or falling?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替相場が上昇しているか下落しているかをどうやって知ることができますか?</span>"
+    },
+    {
+      "key": "t761e67b1dcbd52f3",
+      "english": "<span data-i18n-slot=\"0\">Compare the same side of the quote over time. If both bid and ask move higher, the pair has risen; if both move lower, it has fallen. Comparing bid with bid or ask with ask avoids confusing genuine price movement with the spread between the two sides.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">見積書の同じ側を時間の経過とともに比較します。ビッドとアスクの両方が上昇した場合、ペアは上昇しています。両方が下に移動した場合、それは下落しています。ビッドとビッド、またはアスクとアスクを比較することで、実際の価格の動きと両者のスプレッドを混同することを回避できます。</span>"
+    },
+    {
+      "key": "tce4bc846613dce32",
+      "english": "<span data-i18n-slot=\"0\">Is a forex quote on MT5 a live price?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">MT5 の外国為替相場はライブ価格ですか?</span>"
+    },
+    {
+      "key": "t549cd5fd1e200c57",
+      "english": "<span data-i18n-slot=\"0\">Practice Reading the Quote Before Placing a Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引を行う前に相場を読む練習をする</span>"
+    },
+    {
+      "key": "t18b72b164c38719c",
+      "english": "<span data-i18n-slot=\"0\">Reading a forex quote becomes much easier once bid, ask, spread and pip movement are treated as separate parts of the same two-sided price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ビッド、アスク、スプレッド、ピップ単位の価格変動を、同じ双方向の提示価格のそれぞれ異なる部分として捉えると、外国為替の提示価格がはるかに読みやすくなります。</span>"
+    },
+    {
+      "key": "te5d8ec7c2118c95e",
+      "english": "<span data-i18n-slot=\"0\">Forex </span><span data-i18n-slot=\"1\">liquidity</span><span data-i18n-slot=\"2\"> describes how easily a currency pair can be bought or sold at available market prices without a relatively small order causing a material price movement. A highly liquid pair normally has many active buyers and sellers around the current price, while a less-liquid market has fewer orders available across nearby price levels.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替の</span><span data-i18n-slot=\"1\">流動性</span><span data-i18n-slot=\"2\">は、比較的小さな注文が大きな価格変動を起こすことなく、利用可能な市場価格で通貨ペアをどれほど容易に売買できるかを表します。流動性の高い通貨ペアでは、通常、現在の価格付近に活発な買い手と売り手が多くいます。一方、流動性の低い市場では、近くの価格帯で利用できる注文が少なくなります。</span>"
+    },
+    {
+      "key": "tf4bafe70b81bd992",
+      "english": "<span data-i18n-slot=\"0\">The Bank for International Settlements reported average global FX turnover of about </span><span data-i18n-slot=\"1\">$9.6 trillion per day in April 2025</span><span data-i18n-slot=\"2\">, with the US dollar on one side of </span><span data-i18n-slot=\"3\">89% of all FX trades</span><span data-i18n-slot=\"4\">.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">BIS press release, 30 September 2025</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">国際決済銀行によると、世界の外国為替取引高は</span><span data-i18n-slot=\"1\">2025年四月に一日平均約9.6兆ドル</span><span data-i18n-slot=\"2\">で、米ドルは</span><span data-i18n-slot=\"3\">全外国為替取引の89%で取引通貨の一方</span><span data-i18n-slot=\"4\">でした。</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">BISプレスリリース、2025年九月30日</span></span>"
+    },
+    {
+      "key": "t3084aa0ceda1e726",
+      "english": "<span data-i18n-slot=\"0\">A pair may appear relatively calm and tightly priced during an active session, then display wider spreads or less consistent execution when participation falls.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ペアは、アクティブなセッション中は比較的穏やかで価格が厳しいように見えますが、参加者が減少するとスプレッドが拡大したり、約定の一貫性が低下したりすることがあります。</span>"
+    },
+    {
+      "key": "t1a1e50081553af34",
+      "english": "<span data-i18n-slot=\"0\">This relationship is why spreads can change throughout the day rather than remaining fixed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">この関係があるため、スプレッドは一定のままではなく、一日の中で変化することがあります。</span>"
+    },
+    {
+      "key": "t40280fdd02a41275",
+      "english": "<span data-i18n-slot=\"0\">Market openings and closings</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市場の開始と終了</span>"
+    },
+    {
+      "key": "t9ea0f225b0531a93",
+      "english": "<span data-i18n-slot=\"0\">Overall volatility</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">全体的なボラティリティ</span>"
+    },
+    {
+      "key": "t6fc8b82307c18571",
+      "english": "<span data-i18n-slot=\"0\">Actual fill price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">実際の約定価格</span>"
+    },
+    {
+      "key": "ta0ee5b2de0b9af2d",
+      "english": "<span data-i18n-slot=\"0\">Category</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">カテゴリ</span>"
+    },
+    {
+      "key": "t34d583f00a466ada",
+      "english": "<span data-i18n-slot=\"0\">Typical Spread Behavior</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的なスプレッドの動き</span>"
+    },
+    {
+      "key": "t09ae82c5c12af851",
+      "english": "<span data-i18n-slot=\"0\">Typical Slippage Risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的なスリッページのリスク</span>"
+    },
+    {
+      "key": "tded6e71aa356aee6",
+      "english": "<span data-i18n-slot=\"0\">Major</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">メジャー</span>"
+    },
+    {
+      "key": "tb26cd96cbbf9a66a",
+      "english": "<span data-i18n-slot=\"0\">Usually among the tighter major-pair spreads</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常、より狭いメジャーペアのスプレッドの中にあります</span>"
+    },
+    {
+      "key": "tfa74a31f4f922aa9",
+      "english": "<span data-i18n-slot=\"0\">Usually tight during active periods</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">活発な時間帯は通常スプレッドが狭い</span>"
+    },
+    {
+      "key": "t1bbe05c81b12a0ec",
+      "english": "<span data-i18n-slot=\"0\">Usually tight but can widen during volatility</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常はタイトだが、ボラティリティ時には拡大する可能性がある</span>"
+    },
+    {
+      "key": "tb18b771967e84ff3",
+      "english": "<span data-i18n-slot=\"0\">Low to moderate</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">低から中程度</span>"
+    },
+    {
+      "key": "t32b9f9b6ec78716a",
+      "english": "<span data-i18n-slot=\"0\">Minor</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">マイナー</span>"
+    },
+    {
+      "key": "t5f67cc9d65a86f35",
+      "english": "<span data-i18n-slot=\"0\">Medium to high</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">中～高</span>"
+    }
+  ]
+}

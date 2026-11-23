@@ -1,0 +1,1707 @@
+{
+  "language": "fr",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t630beccf656c9113",
+      "english": "<span data-i18n-slot=\"0\">4:00 p.m.–1:00 a.m. during EDT; 5:00 p.m.–2:00 a.m. during EST</span>",
+      "translation": "<span data-i18n-slot=\"0\">4:00 p.m.–1:00 a.m. pendant l’heure EDT ; 5:00 p.m.–2:00 a.m. pendant l’heure EST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t1f2c3d07de8d2e27",
+      "english": "<span data-i18n-slot=\"0\">Sydney–Tokyo:</span><span data-i18n-slot=\"1\"> About </span><span data-i18n-slot=\"2\">4:00–10:00 or 11:00 a.m. GST</span><span data-i18n-slot=\"3\">, depending on Australian daylight saving.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Sydney–Tokyo :</span><span data-i18n-slot=\"1\"> environ </span><span data-i18n-slot=\"2\">4:00–10:00 ou 11:00 a.m., heure GST</span><span data-i18n-slot=\"3\">, selon l’heure d’été australienne.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t7c7dac56ba9333d0",
+      "english": "<span data-i18n-slot=\"0\">Tokyo–London:</span><span data-i18n-slot=\"1\"> About </span><span data-i18n-slot=\"2\">11:00 a.m.–1:00 p.m. GST during BST</span><span data-i18n-slot=\"3\"> or </span><span data-i18n-slot=\"4\">noon–1:00 p.m. during GMT</span><span data-i18n-slot=\"5\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Tokyo–Londres :</span><span data-i18n-slot=\"1\"> environ </span><span data-i18n-slot=\"2\">11:00 a.m.–1:00 p.m., heure GST, pendant l’heure BST</span><span data-i18n-slot=\"3\"> ou </span><span data-i18n-slot=\"4\">midi–1:00 p.m. pendant l’heure GMT</span><span data-i18n-slot=\"5\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t94284af57616a00d",
+      "english": "<span data-i18n-slot=\"0\">London–New York:</span><span data-i18n-slot=\"1\"> About </span><span data-i18n-slot=\"2\">4:00–8:00 p.m. GST during joint daylight-saving periods</span><span data-i18n-slot=\"3\"> or </span><span data-i18n-slot=\"4\">5:00–9:00 p.m. during standard time</span><span data-i18n-slot=\"5\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Londres–New York :</span><span data-i18n-slot=\"1\"> environ </span><span data-i18n-slot=\"2\">4:00–8:00 p.m., heure GST, pendant les périodes communes d’heure d’été</span><span data-i18n-slot=\"3\"> ou </span><span data-i18n-slot=\"4\">5:00–9:00 p.m. en heure standard</span><span data-i18n-slot=\"5\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t58af80c4bbf4d7a2",
+      "english": "<span data-i18n-slot=\"0\">During the short weeks when US and UK clock changes do not align, the London–New York overlap may temporarily run from approximately </span><span data-i18n-slot=\"1\">4:00–9:00 p.m. GST</span><span data-i18n-slot=\"2\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pendant les quelques semaines où les changements d’heure américains et britanniques ne coïncident pas, le chevauchement Londres–New York peut temporairement s’étendre d’environ </span><span data-i18n-slot=\"1\">4:00–9:00 p.m., heure GST</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tf04f9734d9194cda",
+      "english": "<span data-i18n-slot=\"0\">The London–New York overlap is generally the most active four-hour period in the forex day.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le chevauchement Londres-New York est généralement la période de quatre heures la plus active de la journée de change.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t926e6b4f9ff34173",
+      "english": "<span data-i18n-slot=\"0\">For UAE traders, it normally occurs at:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pour les traders des Émirats arabes unis, il se produit normalement à :</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "te2142bf3ee3d4465",
+      "english": "<span data-i18n-slot=\"0\">Main Overlap</span>",
+      "translation": "<span data-i18n-slot=\"0\">Chevauchement principal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t75b544e4922d4508",
+      "english": "<span data-i18n-slot=\"0\">UK and US daylight saving</span>",
+      "translation": "<span data-i18n-slot=\"0\">Heure d'été au Royaume-Uni et aux États-Unis</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t7938c081c5a0ec47",
+      "english": "<span data-i18n-slot=\"0\">11:00 a.m.–8:00 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">11:00 a.m.–8:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tcf264f5a06c1ce3a",
+      "english": "<span data-i18n-slot=\"0\">4:00 p.m.–1:00 a.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">4:00 p.m.–1:00 a.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t0e71152b9326783f",
+      "english": "<span data-i18n-slot=\"0\">4:00–8:00 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">4:00–8:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t89255b7a88f2ce90",
+      "english": "<span data-i18n-slot=\"0\">Noon–9:00 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Midi–9:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t64f960887a8839b8",
+      "english": "<span data-i18n-slot=\"0\">5:00 p.m.–2:00 a.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">5:00 p.m.–2:00 a.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tdab80c0917c2969f",
+      "english": "<span data-i18n-slot=\"0\">5:00–9:00 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">5:00–9:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t3570a37ac5535b9e",
+      "english": "<span data-i18n-slot=\"0\">4:00–9:00 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">4:00–9:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t0ce299f7605a6c33",
+      "english": "<span data-i18n-slot=\"0\">The official Nasdaq cash market trades from </span><span data-i18n-slot=\"1\">9:30 a.m. to 4:00 p.m. Eastern Time</span><span data-i18n-slot=\"2\">, Monday through Friday.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le marché au comptant officiel du Nasdaq est ouvert de </span><span data-i18n-slot=\"1\">9:30 a.m. à 4:00 p.m., heure de l’Est</span><span data-i18n-slot=\"2\">, du lundi au vendredi.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t1eba38d084ab06ce",
+      "english": "<span data-i18n-slot=\"0\">Converted to UAE time:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Converti en heure des Émirats arabes unis&nbsp;:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t4ca3bdfd7a7cb463",
+      "english": "<span data-i18n-slot=\"0\">During US daylight saving:</span><span data-i18n-slot=\"1\"> 5:30 p.m.–midnight GST</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pendant l’heure d’été américaine :</span><span data-i18n-slot=\"1\"> 5:30 p.m.–minuit, heure GST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "teb2a2117a1166433",
+      "english": "<span data-i18n-slot=\"0\">During US standard time:</span><span data-i18n-slot=\"1\"> 6:30 p.m.–1:00 a.m. GST</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pendant l’heure standard américaine :</span><span data-i18n-slot=\"1\"> 6:30 p.m.–1:00 a.m., heure GST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "taede9e21e34278bb",
+      "english": "<span data-i18n-slot=\"0\">Nasdaq also lists pre-market trading from 4:00–9:30 a.m. ET and after-hours trading from 4:00–8:00 p.m. ET. In GST, that means:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le Nasdaq indique aussi des échanges avant ouverture de 4:00–9:30 a.m. ET et après clôture de 4:00–8:00 p.m. ET. En heure GST, cela correspond à :</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tfbae3f11b796c35b",
+      "english": "<span data-i18n-slot=\"0\">During US DST</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pendant l'heure d'été aux États-Unis</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t5dd34091af43dcd3",
+      "english": "<span data-i18n-slot=\"0\">Pre-market</span>",
+      "translation": "<span data-i18n-slot=\"0\">Avant ouverture</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t60e325e5f401deff",
+      "english": "<span data-i18n-slot=\"0\">Noon–5:30 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Midi–5:30 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t71ee437dd1bdf597",
+      "english": "<span data-i18n-slot=\"0\">1:00–6:30 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">1:00–6:30 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t30703637d1dfe623",
+      "english": "<span data-i18n-slot=\"0\">5:30 p.m.–midnight</span>",
+      "translation": "<span data-i18n-slot=\"0\">5:30 p.m.–minuit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tacd21fabfd37dadb",
+      "english": "<span data-i18n-slot=\"0\">6:30 p.m.–1:00 a.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">6:30 p.m.–1:00 a.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "te9b5f4aeaaadaa10",
+      "english": "<span data-i18n-slot=\"0\">Midnight–4:00 a.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Minuit–4:00 a.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "ta7f441fac56eb846",
+      "english": "<span data-i18n-slot=\"0\">1:00–5:00 a.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">1:00–5:00 a.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t03a9fff279ed75c4",
+      "english": "<span data-i18n-slot=\"0\">Approximately 4:00–8:00 p.m. GST during daylight-saving periods</span>",
+      "translation": "<span data-i18n-slot=\"0\">Environ 4:00–8:00 p.m., heure GST, pendant les périodes d’heure d’été</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t70a8c24d29859cf7",
+      "english": "<span data-i18n-slot=\"0\">Approximately 5:00–9:00 p.m. GST during standard time</span>",
+      "translation": "<span data-i18n-slot=\"0\">Environ 5:00–9:00 p.m., heure GST, en heure standard</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "td77c5d38b74ffcfa",
+      "english": "<span data-i18n-slot=\"0\">ADX’s official exchange-timings information currently lists its trading week as </span><span data-i18n-slot=\"1\">Monday through Friday</span><span data-i18n-slot=\"2\">. Its official auction information confirms the pre-opening session from </span><span data-i18n-slot=\"3\">9:30–10:00 a.m. GST</span><span data-i18n-slot=\"4\"> and shows that the pre-close auction begins at </span><span data-i18n-slot=\"5\">2:45 p.m. GST</span><span data-i18n-slot=\"6\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les informations officielles d’ADX sur les horaires de la bourse indiquent actuellement une semaine de trading </span><span data-i18n-slot=\"1\">du lundi au vendredi</span><span data-i18n-slot=\"2\">. Les informations officielles sur les enchères confirment une séance de préouverture de </span><span data-i18n-slot=\"3\">9:30–10:00 a.m., heure GST</span><span data-i18n-slot=\"4\"> et précisent que l’enchère de préclôture commence à </span><span data-i18n-slot=\"5\">2:45 p.m., heure GST</span><span data-i18n-slot=\"6\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "td39f1a535243adf9",
+      "english": "<span data-i18n-slot=\"0\">9:30–10:00 a.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">9:30–10:00 a.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tf0e30611451282ad",
+      "english": "<span data-i18n-slot=\"0\">10:00 a.m.–2:45 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">10:00 a.m.–2:45 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t746e73e2657d6f12",
+      "english": "<span data-i18n-slot=\"0\">GST Trading Window</span>",
+      "translation": "<span data-i18n-slot=\"0\">Plage de trading en heure GST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tb5390412a8470c62",
+      "english": "<span data-i18n-slot=\"0\">4:00–10:00/11:00 a.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">4:00–10:00/11:00 a.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tf2771e6bc2138e53",
+      "english": "<span data-i18n-slot=\"0\">AUD/USD, NZD/USD, USD/JPY and JPY crosses</span>",
+      "translation": "<span data-i18n-slot=\"0\">AUD/USD, NZD/USD, USD/JPY et paires croisées en JPY</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t757af9fe103672b6",
+      "english": "<span data-i18n-slot=\"0\">11:00 a.m.–1:00 p.m. or noon–1:00 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">11:00 a.m.–1:00 p.m. ou midi–1:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t3f0fe48aa62bae40",
+      "english": "<span data-i18n-slot=\"0\">4:00–8:00 p.m. or 5:00–9:00 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">4:00–8:00 p.m. ou 5:00–9:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "td323b12ac021f5c2",
+      "english": "<span data-i18n-slot=\"0\">5:30 p.m. or 6:30 p.m. onward</span>",
+      "translation": "<span data-i18n-slot=\"0\">À partir de 5:30 p.m. ou de 6:30 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t3ed311b2ea3a342e",
+      "english": "<span data-i18n-slot=\"0\">Nasdaq 100, US indices and US stock CFDs</span>",
+      "translation": "<span data-i18n-slot=\"0\">Nasdaq 100, indices américains et CFD sur actions américaines</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tee387ae12894669d",
+      "english": "<span data-i18n-slot=\"0\">The US cash equity market opens</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ouverture du marché américain des actions au comptant</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t0f1a012715897a29",
+      "english": "<span data-i18n-slot=\"0\">ADX-listed securities through authorized exchange brokers</span>",
+      "translation": "<span data-i18n-slot=\"0\">Titres cotés à l'ADX par l'intermédiaire de courtiers en bourse agréés</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t4ad6d463cb47a24b",
+      "english": "<span data-i18n-slot=\"0\">Tighter spreads in heavily traded instruments</span>",
+      "translation": "<span data-i18n-slot=\"0\">Des spreads plus serrés sur les instruments fortement négociés</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "te6314041f36bc37f",
+      "english": "<span data-i18n-slot=\"0\">The London–New York overlap is usually the most active forex window. It generally runs from 4:00–8:00 p.m. GST during UK and US daylight-saving periods and 5:00–9:00 p.m. during standard time. The best window for an individual trader still depends on the currency pair, strategy and risk tolerance.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le chevauchement Londres–New York est généralement la plage forex la plus active. Il s’étend habituellement de 4:00–8:00 p.m., heure GST, pendant les périodes d’heure d’été britannique et américaine, et de 5:00–9:00 p.m. en heure standard. La meilleure plage pour un trader dépend toujours de la paire de devises, de sa stratégie et de sa tolérance au risque.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t6b5ddda065b29efc",
+      "english": "<span data-i18n-slot=\"0\">The Nasdaq regular market opens at 5:30 p.m. GST while the United States observes daylight saving and at 6:30 p.m. GST during US standard time. Nasdaq’s official regular session runs from 9:30 a.m. to 4:00 p.m. Eastern Time.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le marché régulier du Nasdaq ouvre à 5:30 p.m., heure GST, lorsque les États-Unis appliquent l’heure d’été, et à 6:30 p.m., heure GST, pendant l’heure standard américaine. La séance régulière officielle du Nasdaq se déroule de 9:30 a.m. à 4:00 p.m., heure de l’Est.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t0ad674d4eba88ce8",
+      "english": "<span data-i18n-slot=\"0\">ADX’s official website currently lists its trading week as </span><span data-i18n-slot=\"1\">Monday through Friday</span><span data-i18n-slot=\"2\">. The pre-opening session runs from </span><span data-i18n-slot=\"3\">9:30–10:00 a.m. GST</span><span data-i18n-slot=\"4\">, followed by continuous trading from </span><span data-i18n-slot=\"5\">10:00 a.m.–2:45 p.m. GST</span><span data-i18n-slot=\"6\">. Holiday and special-session schedules should be confirmed directly with ADX.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le site officiel d’ADX indique actuellement une semaine de trading </span><span data-i18n-slot=\"1\">du lundi au vendredi</span><span data-i18n-slot=\"2\">. La préouverture se déroule de </span><span data-i18n-slot=\"3\">9:30–10:00 a.m., heure GST</span><span data-i18n-slot=\"4\">, suivie de la négociation continue de </span><span data-i18n-slot=\"5\">10:00 a.m.–2:45 p.m., heure GST</span><span data-i18n-slot=\"6\">. Les horaires des jours fériés et des séances spéciales doivent être confirmés directement auprès d’ADX.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "te7c5ed0d56f83fab",
+      "english": "<span data-i18n-slot=\"0\">Does Gulf Standard Time change with daylight saving?</span>",
+      "translation": "<span data-i18n-slot=\"0\">L'heure standard du Golfe change-t-elle avec l'heure d'été&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t5ae0c42180948bdd",
+      "english": "<span data-i18n-slot=\"0\">Leverage in trading is the relationship between a position’s total notional value and the capital required to support it. At 1:100 leverage, every $1 of required margin can support up to $100 of market exposure, subject to the broker’s terms, instrument, and current conditions.</span>",
+      "translation": "<span data-i18n-slot=\"0\">L’effet de levier en trading est le rapport entre la valeur notionnelle totale d’une position et le capital nécessaire pour la soutenir. Avec un levier de 1:100, chaque $1 de marge requise peut soutenir jusqu’à $100 d’exposition au marché, selon les conditions du courtier, l’instrument et les conditions actuelles.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t81459223065609c9",
+      "english": "<span data-i18n-slot=\"0\">Leverage = Notional position value ÷ Required margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Levier = Valeur de position notionnelle ÷ Marge requise</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t8029d0368210a9fa",
+      "english": "<span data-i18n-slot=\"0\">Margin is collateral, not normally a fee or maximum loss. The amount left after it is reserved is </span><span data-i18n-slot=\"1\">free margin</span><span data-i18n-slot=\"2\">:</span>",
+      "translation": "<span data-i18n-slot=\"0\">La marge est une garantie, pas normalement une redevance ou une perte maximale. Le montant restant après sa réservation est </span><span data-i18n-slot=\"1\">marge libre</span><span data-i18n-slot=\"2\">:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "te7e3face85741904",
+      "english": "<span data-i18n-slot=\"0\">Free margin = Equity − Used margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Marge libre = Fonds propres − Marge utilisée</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tfb263a0403b5c248",
+      "english": "<span data-i18n-slot=\"0\">How Leverage and Margin Work Together Worked Example</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment le levier et la marge fonctionnent ensemble : exemple détaillé</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t40ffb89f9e10171f",
+      "english": "<span data-i18n-slot=\"0\">This simplified example explains mechanics and is not a trading recommendation.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cet exemple simplifié explique les mécanismes et ne constitue pas une recommandation de trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t71607dda5224e008",
+      "english": "<span data-i18n-slot=\"0\">A trader has:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un trader dispose de :</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tf7d6b3e1210473d5",
+      "english": "<span data-i18n-slot=\"0\">Account equity before the trade:</span><span data-i18n-slot=\"1\"> $1,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Capitaux propres du compte avant la transaction&nbsp;:</span><span data-i18n-slot=\"1\">&nbsp;1,000&nbsp;$</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t709cbeb34ec380cf",
+      "english": "<span data-i18n-slot=\"0\">Leverage:</span><span data-i18n-slot=\"1\"> 1:100</span>",
+      "translation": "<span data-i18n-slot=\"0\">Levier&nbsp;:</span><span data-i18n-slot=\"1\"> 1:100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tfe4a708012f28cec",
+      "english": "<span data-i18n-slot=\"0\">Required margin = $100,000 ÷ 100 = $1,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Marge requise = 100,000&nbsp;$ ÷ 100 = 1,000&nbsp;$</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "te778001698f36fa4",
+      "english": "<span data-i18n-slot=\"0\">The trade uses the entire $1,000 equity as margin.</span>",
+      "translation": "<span data-i18n-slot=\"0\">La transaction utilise la totalité du capital de 1,000&nbsp;$ comme marge.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t1a624c7d399d5491",
+      "english": "<span data-i18n-slot=\"0\">Step 3: Apply a 50-Pip Adverse Move</span>",
+      "translation": "<span data-i18n-slot=\"0\">Étape&nbsp;3&nbsp;: Appliquer un mouvement défavorable de 50 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t016f6aac9e16c62a",
+      "english": "<span data-i18n-slot=\"0\">Equity:</span><span data-i18n-slot=\"1\"> $500</span>",
+      "translation": "<span data-i18n-slot=\"0\">Capitaux propres&nbsp;:</span><span data-i18n-slot=\"1\">&nbsp;500&nbsp;$</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t065c9a72ad1efa6e",
+      "english": "<span data-i18n-slot=\"0\">Used margin:</span><span data-i18n-slot=\"1\"> $1,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Marge utilisée&nbsp;:</span><span data-i18n-slot=\"1\">&nbsp;1,000&nbsp;$</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tf15cf29e5ecf4e70",
+      "english": "<span data-i18n-slot=\"0\">Leverage Ratio Comparison Table</span>",
+      "translation": "<span data-i18n-slot=\"0\">Tableau comparatif du rapport de levier</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t203e91fcb9bdf7fe",
+      "english": "<span data-i18n-slot=\"0\">Loss From a 1% Adverse Move</span>",
+      "translation": "<span data-i18n-slot=\"0\">Perte d'un déplacement négatif de 1 %</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t07a9c291560bd92f",
+      "english": "<span data-i18n-slot=\"0\">What Is a Margin Call?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu’est-ce qu’un appel de marge ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t11014367d02ed627",
+      "english": "<span data-i18n-slot=\"0\">Margin level is calculated as:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le niveau de marge est calculé comme suit:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "te50efc17bfa29751",
+      "english": "<span data-i18n-slot=\"0\">Equity:</span><span data-i18n-slot=\"1\"> $2,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Avoirs :</span><span data-i18n-slot=\"1\"> 2,000 $</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tcb8c616a8edb6176",
+      "english": "<span data-i18n-slot=\"0\">Used margin:</span><span data-i18n-slot=\"1\"> $500</span>",
+      "translation": "<span data-i18n-slot=\"0\">Marge utilisée:</span><span data-i18n-slot=\"1\"> 500 $</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t801ca8e3191422b1",
+      "english": "<span data-i18n-slot=\"0\">How to Manage Leverage and Margin Responsibly</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment gérer l'effet de levier et la marge de manière responsable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tec8515293ff22917",
+      "english": "<span data-i18n-slot=\"0\">Monitor exposure across correlated trades.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Surveillez l'exposition sur les transactions corrélées.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tef2dad9798a05709",
+      "english": "<span data-i18n-slot=\"0\">Do not add funds merely to delay closing an invalid trade.</span>",
+      "translation": "<span data-i18n-slot=\"0\">N'ajoutez pas de fonds simplement pour retarder la clôture d'une transaction invalide.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tbac333805266f578",
+      "english": "<span data-i18n-slot=\"0\">Is Leverage Trading Halal?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le trading avec effet de levier est-il halal&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tb684de7f4c1b0337",
+      "english": "<span data-i18n-slot=\"0\">Whether the trader obtains valid ownership or possession</span>",
+      "translation": "<span data-i18n-slot=\"0\">Si le trader obtient une propriété ou une possession valable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tf424fba1d89eab7d",
+      "english": "<span data-i18n-slot=\"0\">A swap-free label may address overnight interest but not every Sharia question. Review the legal and fee structure, check current</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">account types</span></span><span data-i18n-slot=\"4\">, and consult a qualified Islamic-finance scholar familiar with the product.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un libellé « sans swap » peut traiter la question des intérêts au jour le jour, mais pas toutes les questions liées à la charia. Examinez la structure juridique et tarifaire, vérifiez les </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">types de comptes actuels</span></span><span data-i18n-slot=\"4\"> et consultez un spécialiste qualifié de la finance islamique connaissant le produit.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t9d84ae124b48be26",
+      "english": "<span data-i18n-slot=\"0\">Notional value ÷ Required margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Valeur notionnelle ÷ Marge requise</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "te3700639d9147e1b",
+      "english": "<span data-i18n-slot=\"0\">Notional value ÷ Leverage ratio</span>",
+      "translation": "<span data-i18n-slot=\"0\">Valeur notionnelle ÷ Ratio de levier</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tf57d4841a94a2857",
+      "english": "<span data-i18n-slot=\"0\">Free Margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Marge libre</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t43aebaadf5410a93",
+      "english": "<span data-i18n-slot=\"0\">Equity − Used margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Capitaux propres − Marge utilisée</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t32331f421fa85af0",
+      "english": "<span data-i18n-slot=\"0\">Equity ÷ Used margin × 100</span>",
+      "translation": "<span data-i18n-slot=\"0\">Capitaux propres ÷ Marge utilisée × 100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tfa51a876a199ad26",
+      "english": "<span data-i18n-slot=\"0\">Stop-Out</span>",
+      "translation": "<span data-i18n-slot=\"0\">Clôture forcée (stop-out)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t307ba3b8a7bf5be6",
+      "english": "<span data-i18n-slot=\"0\">How do I calculate the margin required for a trade?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment puis-je calculer la marge requise pour un échange?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t32d9d9f609961e1c",
+      "english": "<span data-i18n-slot=\"0\">Divide the position’s notional value by the leverage ratio. A $100,000 position at 1:100 leverage requires approximately $1,000 in margin before broker-specific calculations and trading costs. Some instruments use different contract sizes or margin methods, so confirm the platform specification.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Divisez la valeur notionnelle de la position par le ratio de levier. Une position de $100,000 avec un levier de 1:100 nécessite environ $1,000 de marge, avant les calculs propres au courtier et les coûts de trading. Certains instruments utilisent des tailles de contrat ou des méthodes de marge différentes ; vérifiez donc les spécifications de la plateforme.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tbdf0fdcde49f7607",
+      "english": "<span data-i18n-slot=\"0\">Trading without a written plan</span>",
+      "translation": "<span data-i18n-slot=\"0\">Trader sans plan écrit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t165acf2432741f14",
+      "english": "<span data-i18n-slot=\"0\">Skipping demo practice</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ignorer l'entraînement de démonstration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t23d7016f0e63bd0b",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging without understanding margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Utiliser un levier excessif sans comprendre la marge</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tfd26f4ab578bcbdb",
+      "english": "<span data-i18n-slot=\"0\">Entering trades without a stop-loss</span>",
+      "translation": "<span data-i18n-slot=\"0\">Saisir des transactions sans stop-loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t9b66efcd122f50ed",
+      "english": "<span data-i18n-slot=\"0\">Failing to keep and review a trading journal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ne pas tenir et revoir un journal de trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tffd64fe716550f63",
+      "english": "<span data-i18n-slot=\"0\">Mistake #1: Trading Without a Written Plan</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erreur n°1&nbsp;: trader sans plan écrit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t42191db961381e03",
+      "english": "<span data-i18n-slot=\"0\">Skip trades that do not meet the plan.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ignorez les transactions qui ne respectent pas le plan.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tdbdec970f4f88046",
+      "english": "<span data-i18n-slot=\"0\">Use a short pre-trade checklist so every entry is reviewed against the same conditions before an order is placed.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Utilisez une courte liste de contrôle avant chaque opération afin d’examiner chaque entrée selon les mêmes conditions avant de passer un ordre.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t7b3faba573b3e4b3",
+      "english": "<span data-i18n-slot=\"0\">Mistake #2: Skipping Demo Practice</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erreur n°2&nbsp;: ignorer la pratique de démonstration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t33aecf3374bc8b21",
+      "english": "<span data-i18n-slot=\"0\">Practise order placement and stop-loss use.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Entraînez-vous à placer des ordres et à utiliser le stop-loss.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t4bed96fb30363a6d",
+      "english": "<span data-i18n-slot=\"0\">Mistake #3: Overleveraging Without Understanding Margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erreur n°3 : utiliser un levier excessif sans comprendre la marge</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t74b047d2e1991844",
+      "english": "<span data-i18n-slot=\"0\">Mistake #4: Trading Without a Stop-Loss</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erreur n°4&nbsp;: trader sans stop-loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t3497a3d25737c728",
+      "english": "<span data-i18n-slot=\"0\">Size the trade according to the stop distance.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Déterminez la taille de l’opération selon la distance du stop.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t327f13992d201157",
+      "english": "<span data-i18n-slot=\"0\">Mistake #5: Doubling Position Size After a Loss</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erreur n°5&nbsp;: doubler la taille de la position après une perte</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t6a747aafaf733f69",
+      "english": "<span data-i18n-slot=\"0\">Review the loss before trading again.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Examinez la perte avant de négocier à nouveau.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t658133f719f1cc81",
+      "english": "<span data-i18n-slot=\"0\">Mistake #7: Trading Money Needed for Essential Expenses</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erreur n°7 : trader avec l’argent nécessaire aux dépenses essentielles</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t7e73a4c19f94faad",
+      "english": "<span data-i18n-slot=\"0\">Mistake #8: Choosing the Wrong Account or Broker</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erreur n°8&nbsp;: Choisir le mauvais compte ou le mauvais courtier</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t4c264f999a52fd79",
+      "english": "<span data-i18n-slot=\"0\">Use a pre-trade checklist.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Utilisez une liste de contrôle préalable à l'échange.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tf3729a5dd0d19701",
+      "english": "<span data-i18n-slot=\"0\">Step away when urgency affects judgement.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Éloignez-vous lorsque l'urgence affecte le jugement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t5beba7f2ead26992",
+      "english": "<span data-i18n-slot=\"0\">Reactive Trader</span>",
+      "translation": "<span data-i18n-slot=\"0\">Trader réactif</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t94efb007050e9cc7",
+      "english": "<span data-i18n-slot=\"0\">Disciplined Trader</span>",
+      "translation": "<span data-i18n-slot=\"0\">Trader discipliné</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t64bdf8102bdbc304",
+      "english": "<span data-i18n-slot=\"0\">Follows a written setup and review process</span>",
+      "translation": "<span data-i18n-slot=\"0\">Suit un processus écrit de configuration et de révision</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tc93933e8ff7f3420",
+      "english": "<span data-i18n-slot=\"0\">Enters first and considers the stop later</span>",
+      "translation": "<span data-i18n-slot=\"0\">Entre en position puis envisage le stop plus tard</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tf2ff2dbd11cdefe7",
+      "english": "<span data-i18n-slot=\"0\">Defines the stop before entry</span>",
+      "translation": "<span data-i18n-slot=\"0\">Définit le stop avant l’entrée</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tc336cd09b9de75f3",
+      "english": "<span data-i18n-slot=\"0\">Trades to relieve fear or frustration</span>",
+      "translation": "<span data-i18n-slot=\"0\">Trade pour soulager la peur ou la frustration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tba584a1f35bad4bb",
+      "english": "<span data-i18n-slot=\"0\">Remembers trades selectively</span>",
+      "translation": "<span data-i18n-slot=\"0\">Se souvient des transactions de manière sélective</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t1f4c2e16769311a8",
+      "english": "<span data-i18n-slot=\"0\">Records and reviews each trade</span>",
+      "translation": "<span data-i18n-slot=\"0\">Enregistre et examine chaque transaction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t8fd426a218552964",
+      "english": "<span data-i18n-slot=\"0\">Mistake #10: Not Keeping a Trading Journal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erreur n°10 : ne pas tenir de journal de trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t1ea2cf62681882c2",
+      "english": "<span data-i18n-slot=\"0\">Record every trade in the same format.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Enregistrez chaque transaction dans le même format.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tcbb276f5cc06842d",
+      "english": "<span data-i18n-slot=\"0\">Review groups of trades, not one result.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Examinez des groupes de transactions, pas un seul résultat.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t7bd040ffebc860df",
+      "english": "<span data-i18n-slot=\"0\">Separate strategy performance from rule-breaking.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Séparez les performances de la stratégie du non-respect des règles.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "teb947fadb8afc891",
+      "english": "<span data-i18n-slot=\"0\">Mistake</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erreur</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t8b1dad5ad180d41c",
+      "english": "<span data-i18n-slot=\"0\">How to Fix It</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment le réparer</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "te09a84d514c8351f",
+      "english": "<span data-i18n-slot=\"0\">Define entry, exit, risk, and no-trade rules</span>",
+      "translation": "<span data-i18n-slot=\"0\">Définir les règles d'entrée, de sortie, de risque et de non-échange</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t280acd850595a333",
+      "english": "<span data-i18n-slot=\"0\">The trader rushes into live trading</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le trader se lance dans le trading en direct</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t9c05db9f7f5a479d",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging</span>",
+      "translation": "<span data-i18n-slot=\"0\">Levier excessif</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t980c3520a0ff7c9e",
+      "english": "<span data-i18n-slot=\"0\">Set invalidation before entry</span>",
+      "translation": "<span data-i18n-slot=\"0\">Définir l'invalidation avant l'entrée</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t5dbc2cdc69536dd6",
+      "english": "<span data-i18n-slot=\"0\">Revenge trading</span>",
+      "translation": "<span data-i18n-slot=\"0\">Trading de revanche</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t0b2c9ca044625902",
+      "english": "<span data-i18n-slot=\"0\">Losses are chased immediately</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les pertes sont immédiatement poursuivies</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t85ece72a1eeb4108",
+      "english": "<span data-i18n-slot=\"0\">Attention stays on price movement</span>",
+      "translation": "<span data-i18n-slot=\"0\">L'attention reste portée sur l'évolution des prix</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tffcd114d2e05b0c1",
+      "english": "<span data-i18n-slot=\"0\">Wrong broker or account</span>",
+      "translation": "<span data-i18n-slot=\"0\">Mauvais courtier ou compte</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tf879de45b84b3e3d",
+      "english": "<span data-i18n-slot=\"0\">No journal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pas de journal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "td900590c39f58648",
+      "english": "<span data-i18n-slot=\"0\">Record and review each trade</span>",
+      "translation": "<span data-i18n-slot=\"0\">Enregistrez et examinez chaque transaction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t532929ef5e1556d5",
+      "english": "<span data-i18n-slot=\"0\">How much should a beginner risk per trade?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Combien un débutant doit-il risquer par transaction&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tf6abcfa8aa573fec",
+      "english": "<span data-i18n-slot=\"0\">An EA reduces manual chart watching but only follows its code. Weak rules, unsuitable settings, changing conditions, or excessive position sizes can still cause losses.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un EA réduit la surveillance manuelle des graphiques, mais ne fait que suivre son code. Des règles faibles, des réglages inadaptés, des conditions changeantes ou des positions trop importantes peuvent tout de même entraîner des pertes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t48acb7271d0466c7",
+      "english": "<span data-i18n-slot=\"0\">Pending order types</span>",
+      "translation": "<span data-i18n-slot=\"0\">Types d’ordres en attente</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t5d96f7d680d346b6",
+      "english": "<span data-i18n-slot=\"0\">Primarily single-symbol and single-threaded</span>",
+      "translation": "<span data-i18n-slot=\"0\">Principalement à symbole unique et à thread unique</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t1634cc960b53d8aa",
+      "english": "<span data-i18n-slot=\"0\">Multi-currency, multi-threaded, and real-tick testing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Tests multidevises, multithreads et en ticks réels</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t6bded738a2c6fdbe",
+      "english": "<span data-i18n-slot=\"0\">Depth of Market and exchange Time &amp; Sales support</span>",
+      "translation": "<span data-i18n-slot=\"0\">Prise en charge de la profondeur de marché et du Time &amp; Sales de la bourse</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "ta789939adc8b261e",
+      "english": "<span data-i18n-slot=\"0\">Open the Experts directory</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Open:</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span></span><span data-i18n-slot=\"6\">MQL5 &gt; Experts</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"></span></span><span data-i18n-slot=\"9\">This is the standard EA storage folder.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ouvrez le répertoire Experts</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ouvrez :</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span></span><span data-i18n-slot=\"6\">MQL5 &gt; Experts</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"></span></span><span data-i18n-slot=\"9\">Il s’agit du dossier standard de stockage des EA.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t1e3bec33025f2cbd",
+      "english": "<span data-i18n-slot=\"0\">Review:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Révision&nbsp;:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t45c3381d3f20497f",
+      "english": "<span data-i18n-slot=\"0\">Fixed lot size or percentage risk</span>",
+      "translation": "<span data-i18n-slot=\"0\">Taille de lot fixe ou pourcentage de risque</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "tfae50000a50d61c6",
+      "english": "<span data-i18n-slot=\"0\">Allowed trade direction</span>",
+      "translation": "<span data-i18n-slot=\"0\">Sens de trading autorisé</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "tee218f8f98878229",
+      "english": "<span data-i18n-slot=\"0\">Review drawdown, trade count, costs, consecutive losses, and whether results depend on a few unusual trades. Data quality, spreads, slippage, modelling choices, and over-optimisation can distort a backtest.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Examinez le drawdown, le nombre d’opérations, les coûts, les pertes consécutives et la dépendance éventuelle des résultats à quelques opérations inhabituelles. La qualité des données, les spreads, le glissement de prix, les choix de modélisation et la suroptimisation peuvent fausser un backtest.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t8a4b0a5d91296ed5",
+      "english": "<span data-i18n-slot=\"0\">Common Mistakes Beginners Make With EAs</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erreurs courantes commises par les débutants avec les EA</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "td2e81902b04861d6",
+      "english": "<span data-i18n-slot=\"0\">Starting on a live account:</span><span data-i18n-slot=\"1\"> Complete historical and demo testing first.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Commencer avec un compte réel&nbsp;:</span><span data-i18n-slot=\"1\"> Effectuez d'abord les tests historiques et de démonstration.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t5303d3d0ad079bc2",
+      "english": "<span data-i18n-slot=\"0\">Spreads, commissions, and trade-size limits</span>",
+      "translation": "<span data-i18n-slot=\"0\">Spreads, commissions et limites de taille des transactions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "t71e585e4d49ccbe8",
+      "english": "<span data-i18n-slot=\"0\">VPS and demo-account access</span>",
+      "translation": "<span data-i18n-slot=\"0\">Accès au VPS et au compte de démonstration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ]
+    },
+    {
+      "key": "ta15f34ae884797f6",
+      "english": "<span data-i18n-slot=\"0\">A candlestick chart shows how an asset’s price moved during a selected period. Each candle records the </span><span data-i18n-slot=\"1\">open, high, low, and close</span><span data-i18n-slot=\"2\">. Its body shows the distance between the opening and closing prices, while the upper and lower wicks show the highest and lowest prices reached.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un graphique en chandelier montre l'évolution du prix d'un actif au cours d'une période sélectionnée. Chaque bougie enregistre l'</span><span data-i18n-slot=\"1\">ouverture, haut, bas et fermeture</span><span data-i18n-slot=\"2\">. Son corps indique la distance entre les prix d'ouverture et de clôture, tandis que les mèches supérieure et inférieure affichent les prix les plus élevés et les plus bas atteints.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t77db7d8eefe19c1c",
+      "english": "<span data-i18n-slot=\"0\">What Is a Candlestick Pattern?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu'est-ce qu'un modèle de chandelier?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t91d06e7747efa23f",
+      "english": "<span data-i18n-slot=\"0\">A bullish candle closes above its opening price and is commonly green or white. A bearish candle closes below its opening price and is commonly red or black. Colours vary by platform, so the relationship between the open, close, body, and wicks matters more than colour.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une bougie haussière clôture au-dessus de son prix d'ouverture et est généralement verte ou blanche. Une bougie baissière clôture en dessous de son prix d'ouverture et est généralement rouge ou noire. Les couleurs varient selon la plateforme, donc la relation entre l'ouverture, la fermeture, le corps et les mèches compte plus que la couleur.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t25857500ca88ace6",
+      "english": "<span data-i18n-slot=\"0\">Candlestick patterns describe probability and market psychology. They do not guarantee the next move.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les patrons de chandelier décrivent la probabilité et la psychologie du marché. Ils ne garantissent pas le prochain mouvement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t99c5a06ef503fe22",
+      "english": "<span data-i18n-slot=\"0\">How Do You Read a Candlestick Chart?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment lire un graphique en chandelier&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tddfee0f04987af06",
+      "english": "<span data-i18n-slot=\"0\">Next, read the body and wicks. A long bullish body suggests stronger buying pressure, while a long bearish body suggests stronger selling pressure. A small body can indicate hesitation. A long upper wick shows rejection of higher prices, while a long lower wick shows rejection of lower prices.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ensuite, lisez le corps et les mèches. Un long corps haussier suggère une pression acheteuse plus forte, tandis qu’un long corps baissier suggère une pression vendeuse plus forte. Un petit corps peut indiquer une hésitation. Une longue mèche supérieure indique un rejet des prix plus élevés, tandis qu’une longue mèche inférieure indique un rejet des prix plus bas.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tbdd80312c41f3da0",
+      "english": "<span data-i18n-slot=\"0\">Is the pattern near support or resistance?</span>",
+      "translation": "<span data-i18n-slot=\"0\">La configuration est-elle proche d'un support ou d'une résistance&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t4325bee3ae77b29b",
+      "english": "<span data-i18n-slot=\"0\">Single Candlestick Patterns</span>",
+      "translation": "<span data-i18n-slot=\"0\">Modèles de chandeliers simples</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t1cef09588c52b726",
+      "english": "<span data-i18n-slot=\"0\">Shooting Star</span>",
+      "translation": "<span data-i18n-slot=\"0\">Étoile filante</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t0c5b1e7acf85309c",
+      "english": "<span data-i18n-slot=\"0\">Spinning Top</span>",
+      "translation": "<span data-i18n-slot=\"0\">Toupie</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "te49099be2d520cc0",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">spinning top</span><span data-i18n-slot=\"2\"> has a small body with visible upper and lower wicks. Unlike a doji, its open and close are not almost identical, but they remain close.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une </span><span data-i18n-slot=\"1\">toupie</span><span data-i18n-slot=\"2\"> a un petit corps avec des mèches supérieures et inférieures visibles. Contrairement à un doji, son ouverture et sa fermeture ne sont pas quasiment identiques, mais elles restent proches.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tb23bc05808325944",
+      "english": "<span data-i18n-slot=\"0\">Bullish Candlestick Patterns</span>",
+      "translation": "<span data-i18n-slot=\"0\">Modèles de chandeliers haussiers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t4b95f3a9757cd44b",
+      "english": "<span data-i18n-slot=\"0\">Bullish Engulfing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Avalement haussier</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t37090010666c9bbe",
+      "english": "<span data-i18n-slot=\"0\">Piercing Line</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pénétrante haussière</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "te295685fcdcee937",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">piercing line</span><span data-i18n-slot=\"2\"> begins with a bearish candle, followed by a bullish candle that closes above the midpoint of the first candle’s body.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une </span><span data-i18n-slot=\"1\">pénétrante haussière</span><span data-i18n-slot=\"2\"> commence par une bougie baissière, suivie d’une bougie haussière qui clôture au-dessus du milieu du corps de la première bougie.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tf2e9c1755100c847",
+      "english": "<span data-i18n-slot=\"0\">Bearish Candlestick Patterns</span>",
+      "translation": "<span data-i18n-slot=\"0\">Modèles de chandeliers baissiers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t8b2276840744a08e",
+      "english": "<span data-i18n-slot=\"0\">Bearish candlestick patterns may show increasing selling pressure or a weakening uptrend.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les modèles de chandeliers baissiers peuvent montrer une pression de vente croissante ou un affaiblissement de la tendance haussière.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tdfe0354e962999e8",
+      "english": "<span data-i18n-slot=\"0\">Bearish Engulfing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Avalement baissier</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t947dedd1e2ca668b",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">bearish engulfing pattern</span><span data-i18n-slot=\"2\"> uses a bullish candle followed by a larger bearish candle whose body covers the previous body.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un </span><span data-i18n-slot=\"1\">modèle d'engloutissement baissier</span><span data-i18n-slot=\"2\"> utilise une bougie haussière suivie d'une bougie baissière plus grande dont le corps recouvre le corps précédent.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "teb5f2903c540a87b",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">dark cloud cover</span><span data-i18n-slot=\"2\"> pattern begins with a bullish candle. The next candle is bearish and closes below the midpoint of the previous bullish body.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une </span><span data-i18n-slot=\"1\">couverture nuageuse sombre</span><span data-i18n-slot=\"2\"> commence par une bougie haussière. La bougie suivante est baissière et clôture en dessous du point médian du corps haussier précédent.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t8f3a5d67288b36e7",
+      "english": "<span data-i18n-slot=\"0\">Reversal Candlestick Patterns: What They Signal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Modèles de chandeliers d'inversion&nbsp;: ce qu'ils signalent</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t2e96b6763d6bdc22",
+      "english": "<span data-i18n-slot=\"0\">The hammer, bullish engulfing pattern, morning star, and piercing line are commonly treated as bullish reversal signals. The shooting star, bearish engulfing pattern, evening star, and dark cloud cover are bearish reversal signals. A doji or spinning top mainly shows indecision.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le marteau, la configuration engloutissante haussière, l'étoile du matin et la ligne perçante sont généralement traités comme des signaux d'inversion haussiers. L'étoile filante, la configuration engloutissante baissière, l'étoile du soir et la couverture nuageuse sombre sont des signaux d'inversion baissière. Un doji ou une toupie montre principalement de l'indécision.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t8be61c0d4c75e329",
+      "english": "<span data-i18n-slot=\"0\">Quick-Reference Table: Bullish vs. Bearish Patterns</span>",
+      "translation": "<span data-i18n-slot=\"0\">Tableau de référence rapide&nbsp;: modèles haussiers et baissiers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tb71174060796f5f0",
+      "english": "<span data-i18n-slot=\"0\">Quick-Reference: Bullish vs. Bearish Candlestick Patterns</span>",
+      "translation": "<span data-i18n-slot=\"0\">Référence rapide&nbsp;: modèles de chandeliers haussiers et baissiers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tf8542953ad36e5b5",
+      "english": "<span data-i18n-slot=\"0\">Pattern</span>",
+      "translation": "<span data-i18n-slot=\"0\">Modèle</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t47e95aa3d526cf47",
+      "english": "<span data-i18n-slot=\"0\">What It Signals</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ce que cela signale</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t6892db8c7460f650",
+      "english": "<span data-i18n-slot=\"0\">Bullish reversal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Retournement haussier</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t84631c569f6698ae",
+      "english": "<span data-i18n-slot=\"0\">Sellers pushed price down, but buyers regained control by the close</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les vendeurs ont fait baisser les prix, mais les acheteurs ont repris le contrôle à la clôture</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "t46104251f3154553",
+      "english": "<span data-i18n-slot=\"0\">Bearish reversal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Retournement baissier</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    },
+    {
+      "key": "tc7b33bc12d2a1119",
+      "english": "<span data-i18n-slot=\"0\">Buyers pushed price up, but sellers regained control by the close</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les acheteurs ont fait monter les prix, mais les vendeurs ont repris le contrôle à la clôture</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ]
+    }
+  ]
+}

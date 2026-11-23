@@ -27,6 +27,7 @@ interface LegalDoc {
 
 
 @Component({
+  standalone: false,
   selector: 'app-legel-document-pge',
   templateUrl: './legel-document-pge.component.html',
   styleUrls: ['./legel-document-pge.component.scss'],

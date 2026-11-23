@@ -1,0 +1,517 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t2774e4dacd259fec",
+      "english": "<span data-i18n-slot=\"0\">Usually automatic after subscription</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常は購読後に自動で行われます</span>"
+    },
+    {
+      "key": "tf625c61e6ee2a04e",
+      "english": "<span data-i18n-slot=\"0\">Often manual, with optional automation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多くの場合は手動ですが、オプションで自動化も可能</span>"
+    },
+    {
+      "key": "ta57eb75b9198829d",
+      "english": "<span data-i18n-slot=\"0\">What is followed</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">何がフォローされているか</span>"
+    },
+    {
+      "key": "tf6ec4753213122f7",
+      "english": "<span data-i18n-slot=\"0\">A trader’s live decisions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーの生の意思決定</span>"
+    },
+    {
+      "key": "t10a54c08f9259c9a",
+      "english": "<span data-i18n-slot=\"0\">Real funds are exposed when enabled</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効にすると実際の資金がリスクにさらされます</span>"
+    },
+    {
+      "key": "t095924f8bf901ffc",
+      "english": "<span data-i18n-slot=\"0\">Requires provider and risk evaluation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プロバイダーとリスクの評価が必要</span>"
+    },
+    {
+      "key": "t46f975b1f5e7b9c3",
+      "english": "<span data-i18n-slot=\"0\">Requires judgement and filtering</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">判断とフィルタリングが必要</span>"
+    },
+    {
+      "key": "t7a4a93abc3fbaa15",
+      "english": "<span data-i18n-slot=\"0\">Blind reliance on another trader</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">他のトレーダーに盲目的に依存する</span>"
+    },
+    {
+      "key": "tc8cea7db095eca01",
+      "english": "<span data-i18n-slot=\"0\">Acting on poor or biased information</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">貧弱な情報や偏った情報に基づいて行動する</span>"
+    },
+    {
+      "key": "ta8cafb1cc1b87174",
+      "english": "<span data-i18n-slot=\"0\">Strategy failure when conditions change</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">状況が変わると戦略が失敗する</span>"
+    },
+    {
+      "key": "t3186492244edd7c0",
+      "english": "<span data-i18n-slot=\"0\">Choose a regulated platform or broker environment.</span><span data-i18n-slot=\"1\"> Verify the legal entity, available instruments, and whether the copying feature comes from the broker or a third party.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">規制されたプラットフォームまたはブローカー環境を選択します。</span><span data-i18n-slot=\"1\">法人、利用可能な手段、およびコピー機能がブローカーまたはサードパーティによるものであるかどうかを確認します。</span>"
+    },
+    {
+      "key": "t08c055a5df81e73d",
+      "english": "<span data-i18n-slot=\"0\">Review the provider’s history.</span><span data-i18n-slot=\"1\"> Look beyond headline returns to drawdown, trading frequency, account age, open losses, leverage, and concentration.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プロバイダーの履歴を確認します。</span><span data-i18n-slot=\"1\">ヘッドラインのリターンだけでなく、ドローダウン、取引頻度、口座経過期間、未決済損失、レバレッジ、集中度などにも注目してください。</span>"
+    },
+    {
+      "key": "t9ad05b53746c119b",
+      "english": "<span data-i18n-slot=\"0\">The provider supplies trading activity. The subscriber carries the financial consequences in the subscriber account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プロバイダーは取引アクティビティを提供します。加入者は加入者アカウントの財務上の結果を負担します。</span>"
+    },
+    {
+      "key": "t3843a2924ee0e528",
+      "english": "<span data-i18n-slot=\"0\">Past performance cannot predict future results</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">過去の実績から将来の結果を予測することはできません</span>"
+    },
+    {
+      "key": "t943a506c56367744",
+      "english": "<span data-i18n-slot=\"0\">Offers allocation controls on many platforms</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多くのプラットフォームで割り当て制御を提供します</span>"
+    },
+    {
+      "key": "t2d1b59bca131871c",
+      "english": "<span data-i18n-slot=\"0\">Fees, spreads, commissions, and slippage still apply</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手数料、スプレッド、コミッション、スリッページは引き続き適用されます</span>"
+    },
+    {
+      "key": "tdfdf6f942331e370",
+      "english": "<span data-i18n-slot=\"0\">Illustrative Value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">例示的な値</span>"
+    },
+    {
+      "key": "t495d1f2a94b3ec90",
+      "english": "<span data-i18n-slot=\"0\">Selected copy ratio</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">選択された倍率</span>"
+    },
+    {
+      "key": "tcc97553c5ed7ce74",
+      "english": "<span data-i18n-slot=\"0\">10% of provider size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プロバイダーの規模の 10%</span>"
+    },
+    {
+      "key": "t7f7a39b52871ba9b",
+      "english": "<span data-i18n-slot=\"0\">Provider opens</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プロバイダーが新規注文を建てる</span>"
+    },
+    {
+      "key": "td8c24bba782910fe",
+      "english": "<span data-i18n-slot=\"0\">Subscriber position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">購読者のポジション</span>"
+    },
+    {
+      "key": "t6e72769b30ef1cf9",
+      "english": "<span data-i18n-slot=\"0\">Provider closes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プロバイダーが決済する</span>"
+    },
+    {
+      "key": "t250cb9cbe488e713",
+      "english": "<span data-i18n-slot=\"0\">Subscriber position also closes, subject to execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">購読者のポジションも、約定状況に応じて決済される</span>"
+    },
+    {
+      "key": "tfcb6db3503a843b1",
+      "english": "<span data-i18n-slot=\"0\">Hands-Off Beginner</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">自分で取引操作を行いたくない初心者</span>"
+    },
+    {
+      "key": "t7fe53459f3903d93",
+      "english": "<span data-i18n-slot=\"0\">A learning trader can use provider histories to study entries, exits, and risk patterns. The danger is copying without forming an independent view.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">学習中のトレーダーは、プロバイダーの履歴を使用して、エントリー、エグジット、リスク パターンを研究できます。危険なのは、独立した見解を形成せずにコピーすることです。</span>"
+    },
+    {
+      "key": "t6212b029ab4f2e0d",
+      "english": "<span data-i18n-slot=\"0\">Experienced Trader Seeking Another Decision Source</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">別の意思決定源を求める経験豊富なトレーダー</span>"
+    },
+    {
+      "key": "t6fe75a67c9ad0533",
+      "english": "<span data-i18n-slot=\"0\">An experienced trader may use signals as one input, provided the copied strategy adds diversification instead of repeating existing exposure. Anyone considering copy trading forex positions should monitor the account rather than treating automation as passive or risk-free.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">経験豊富なトレーダーは、コピーされた戦略が既存のエクスポージャーを繰り返すのではなく多様化を追加する場合、シグナルを 一 つの入力として使用することがあります。外国為替ポジションのコピートレードを検討している人は、自動化を受動的またはリスクのないものとして扱うのではなく、アカウントを監視する必要があります。</span>"
+    },
+    {
+      "key": "t4eb3726257e55e5e",
+      "english": "<span data-i18n-slot=\"0\">How to Get Started Even If You Are Not Using Copy Trading Yet</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">まだコピートレードを使用していない場合でも始める方法</span>"
+    },
+    {
+      "key": "ta1c73b93c1f04913",
+      "english": "<span data-i18n-slot=\"0\">Learn order types, leverage, margin, and stop-loss mechanics.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">注文タイプ、レバレッジ、マージン、ストップロスの仕組みを学びます。</span>"
+    },
+    {
+      "key": "t5db01143a781282b",
+      "english": "<span data-i18n-slot=\"0\">Review provider statistics, especially drawdown and account age.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プロバイダーの統計、特にドローダウンとアカウントの経過時間を確認します。</span>"
+    },
+    {
+      "key": "t0b665d4077b657d0",
+      "english": "<span data-i18n-slot=\"0\">Start with limited exposure and monitor copied trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">限られたエクスポージャーから始めて、コピーされた取引を監視してください。</span>"
+    },
+    {
+      "key": "t0ae53563a95541f7",
+      "english": "<span data-i18n-slot=\"0\">Selecting a trader from short-term returns alone</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">短期的なリターンだけでトレーダーを選ぶ</span>"
+    },
+    {
+      "key": "t55a65f9ee4a2937e",
+      "english": "<span data-i18n-slot=\"0\">Allocating too much capital to one provider</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一 つのプロバイダーに過大な資本を割り当てている</span>"
+    },
+    {
+      "key": "tf2e6a24e7f93ed1c",
+      "english": "<span data-i18n-slot=\"0\">Leaving copying active without review</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レビューせずにコピーをアクティブのままにする</span>"
+    },
+    {
+      "key": "t50741d2c29bcc944",
+      "english": "<span data-i18n-slot=\"0\">How much money do I need to start copy trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">コピートレードを始めるにはどれくらいの資金が必要ですか?</span>"
+    },
+    {
+      "key": "t7a567b2f7a9410b9",
+      "english": "<span data-i18n-slot=\"0\">Can I stop copying a trader at any time?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーのコピーをいつでもやめることはできますか?</span>"
+    },
+    {
+      "key": "td7b2668edf0bd030",
+      "english": "<span data-i18n-slot=\"0\">Broker-provided bid and ask quotes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ブローカーが提供する買値と売値</span>"
+    },
+    {
+      "key": "t0841a9ddc1b6a287",
+      "english": "<span data-i18n-slot=\"0\">Counterparty</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引相手</span>"
+    },
+    {
+      "key": "tdfd0e2e9b92b47b5",
+      "english": "<span data-i18n-slot=\"0\">Often spread-only; fixed or variable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多くの場合、スプレッドのみです。固定または可変</span>"
+    },
+    {
+      "key": "tddb75f4101f384c1",
+      "english": "<span data-i18n-slot=\"0\">Usually variable and may be raw or near-raw</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常は変動制で、ロースプレッドまたはそれに近い水準となる場合がある</span>"
+    },
+    {
+      "key": "t5aa56b2b2d36224b",
+      "english": "<span data-i18n-slot=\"0\">Frequently no separate commission</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多くの場合、別途手数料はかかりません</span>"
+    },
+    {
+      "key": "tab01a457af4a6fbf",
+      "english": "<span data-i18n-slot=\"0\">Often charges commission, markup or both</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多くの場合、手数料、マークアップ、またはその両方が請求されます</span>"
+    },
+    {
+      "key": "t6cecfb2503db90e5",
+      "english": "<span data-i18n-slot=\"0\">May be higher for commission-based tiers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">コミッションベースのレベルでは高くなる可能性があります</span>"
+    },
+    {
+      "key": "t1be6288ee3043bdc",
+      "english": "<span data-i18n-slot=\"0\">Best suited for</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最適な用途</span>"
+    },
+    {
+      "key": "t9c090847397aeeeb",
+      "english": "<span data-i18n-slot=\"0\">Traders who prefer simple spread pricing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">シンプルなスプレッド価格設定を好むトレーダー</span>"
+    },
+    {
+      "key": "t4cc253b861f683f8",
+      "english": "<span data-i18n-slot=\"0\">Conflict exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">利益相反へのさらされ方</span>"
+    },
+    {
+      "key": "td261995815964888",
+      "english": "<span data-i18n-slot=\"0\">Potentially higher when flow is internalized</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流れが内部化されると潜在的に高くなる</span>"
+    },
+    {
+      "key": "tcbda12164b78b3f4",
+      "english": "<span data-i18n-slot=\"0\">Dealing-desk conflict may be reduced, but execution risks remain</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ディーリングデスクに関わる利益相反は減る可能性があるが、約定リスクは残る</span>"
+    },
+    {
+      "key": "t71875be7df9e780f",
+      "english": "<span data-i18n-slot=\"0\">Execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定</span>"
+    },
+    {
+      "key": "tecd811b33991af69",
+      "english": "<span data-i18n-slot=\"0\">Can occur in volatile markets</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">不安定な市場で発生する可能性がある</span>"
+    },
+    {
+      "key": "t7b538149ddce2b45",
+      "english": "<span data-i18n-slot=\"0\">A homepage label is not enough. Check:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ホームページのラベルだけでは十分ではありません。確認してください:</span>"
+    }
+  ]
+}

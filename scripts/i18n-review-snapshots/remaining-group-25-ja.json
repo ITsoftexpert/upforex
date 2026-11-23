@@ -1,0 +1,527 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tbf7a9f42df3795f4",
+      "english": "<span data-i18n-slot=\"0\">Slippage policy:</span><span data-i18n-slot=\"1\"> Slippage can occur under either model.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページ ポリシー:</span><span data-i18n-slot=\"1\"> どちらのモデルでもスリッページが発生する可能性があります。</span>"
+    },
+    {
+      "key": "tf2d709fec98b0b48",
+      "english": "<span data-i18n-slot=\"0\">Cost Element</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">原価要素</span>"
+    },
+    {
+      "key": "t33bbc52e649b04ea",
+      "english": "<span data-i18n-slot=\"0\">Illustrative spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッドの例</span>"
+    },
+    {
+      "key": "tf1d9e01ed56759ae",
+      "english": "<span data-i18n-slot=\"0\">Illustrative round-lot commission</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ラウンドロット手数料の例</span>"
+    },
+    {
+      "key": "tf60e5ebf02f4552b",
+      "english": "<span data-i18n-slot=\"0\">Main cost presentation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主なコスト提示</span>"
+    },
+    {
+      "key": "taf812f04c4cfc0ce",
+      "english": "<span data-i18n-slot=\"0\">Cost embedded in spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッドに組み込まれたコスト</span>"
+    },
+    {
+      "key": "teb70240898dc6e2a",
+      "english": "<span data-i18n-slot=\"0\">Tighter spread plus commission</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">タイトなスプレッドと手数料</span>"
+    },
+    {
+      "key": "ta42149ee285857f2",
+      "english": "<span data-i18n-slot=\"0\">An occasional trader may prefer simple spread-only pricing. A frequent trader may focus more on raw spread, commission and average slippage. The relevant comparison is the effective total cost.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引頻度の低いトレーダーには、費用がスプレッドのみに含まれるシンプルな料金体系が合う場合があります。頻繁に取引するトレーダーは、ロースプレッド、コミッション、平均スリッページをより重視する場合があります。比較すべきなのは、実効的な総コストです。</span>"
+    },
+    {
+      "key": "teea07d1b1fb49e87",
+      "english": "<span data-i18n-slot=\"0\">“ECN means no slippage.”</span><span data-i18n-slot=\"1\"> False. Slippage can occur when the requested price is unavailable.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">「ECN はスリッページがないことを意味します。」</span><span data-i18n-slot=\"1\"> 誤り。リクエストされた価格が利用できない場合、スリッページが発生する可能性があります。</span>"
+    },
+    {
+      "key": "t3f7771d1eb9464b5",
+      "english": "<span data-i18n-slot=\"0\">“The homepage reveals the execution model.”</span><span data-i18n-slot=\"1\"> Not reliably. Read the agreement and execution policy.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">「ホームページで実行モデルが明らかになります。」</span><span data-i18n-slot=\"1\"> 信頼性はありません。契約と実行ポリシーをお読みください。</span>"
+    },
+    {
+      "key": "te1af4348cecc74c4",
+      "english": "<span data-i18n-slot=\"0\">A spread-only account may suit a trader who:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッド専用口座は、次のようなトレーダーに適しています。</span>"
+    },
+    {
+      "key": "t69ee3d240e947ea4",
+      "english": "<span data-i18n-slot=\"0\">Wants a lower entry deposit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">エントリーデポジットを低くしたい</span>"
+    },
+    {
+      "key": "t629f27a647956c1e",
+      "english": "<span data-i18n-slot=\"0\">Trades less frequently</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引頻度が低い</span>"
+    },
+    {
+      "key": "t34d25a019ebc7ed7",
+      "english": "<span data-i18n-slot=\"0\">Prefers costs included in the spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッドに含まれるコストを優先する</span>"
+    },
+    {
+      "key": "t36cb54d6afa2e7f0",
+      "english": "<span data-i18n-slot=\"0\">An ECN-style account may suit a trader who:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ECN スタイルの口座は、次のようなトレーダーに適しています。</span>"
+    },
+    {
+      "key": "tc13e3af6de8dd970",
+      "english": "<span data-i18n-slot=\"0\">Can compare spread plus commission</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッドと手数料を比較できる</span>"
+    },
+    {
+      "key": "td6da323769b630ff",
+      "english": "<span data-i18n-slot=\"0\">Understands that raw spreads remain variable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">生のスプレッドは変動し続けることを理解している</span>"
+    },
+    {
+      "key": "tcc1580e4ee8c0470",
+      "english": "<span data-i18n-slot=\"0\">A market maker broker provides bid and ask quotes and may act as counterparty to client trades. It may internalize exposure, match opposing orders or hedge externally. This creates a potential conflict, but regulated firms can manage it through transparent policies and controls.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">マーケットメーカーブローカーはビッドとアスクを提示し、顧客取引の相手方となる場合があります。リスクを内部で処理したり、反対方向の注文を突き合わせたり、外部でヘッジしたりする場合があります。これにより潜在的な利益相反が生じますが、規制対象企業は透明な方針や管理策を通じて対処できます。</span>"
+    },
+    {
+      "key": "td1f16497f0221ff1",
+      "english": "<span data-i18n-slot=\"0\">A broker or broker-dealer serves clients and may act as agent, principal or both. A market maker is a dealing function in which a firm provides bid and ask prices and stands ready to transact at those quotes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ブローカーまたはブローカー・ディーラーは顧客にサービスを提供し、代理人、自己勘定の取引当事者、またはその両方として行動する場合があります。マーケットメーカーとは、企業がビッドとアスクを提示し、その価格で取引に応じる用意をするディーリング機能です。</span>"
+    },
+    {
+      "key": "t28631dcc1de346f8",
+      "english": "<span data-i18n-slot=\"0\">Yes. A broker can offer different pricing and execution arrangements across account tiers. The account name alone does not prove how every trade is routed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">はい。ブローカーは、アカウント階層全体で異なる価格設定と実行の取り決めを提供できます。口座名だけでは、すべての取引がどのようにルーティングされるかを証明することはできません。</span>"
+    },
+    {
+      "key": "t0a0535016c1bae11",
+      "english": "<span data-i18n-slot=\"0\">Risk Disclaimer:</span><span data-i18n-slot=\"1\"> Forex and CFD trading is leveraged, involves significant risk and may not be suitable for everyone. Losses may exceed the initial deposit. Past performance does not guarantee future results. Trade only with funds you can afford to lose and review the full</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">risk disclosure</span></span><span data-i18n-slot=\"5\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">リスク免責条項:</span><span data-i18n-slot=\"1\"> 外国為替および CFD 取引はレバレッジを利用しており、重大なリスクを伴うため、すべての人に適しているわけではありません。損失は​​当初入金額を超える可能性があります。過去のパフォーマンスは将来の結果を保証するものではありません。損失を許容できる資金でのみ取引し、完全な</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">リスク開示</span></span><span data-i18n-slot=\"5\">を確認してください。</span>"
+    },
+    {
+      "key": "t35a2fefe06d3992e",
+      "english": "<span data-i18n-slot=\"0\">Earnings season can move Apple, Tesla and Nvidia quickly as traders reassess results, guidance, margins and demand. For </span><span data-i18n-slot=\"1\">UAE traders</span><span data-i18n-slot=\"2\">, the challenge is not simply predicting whether a company will beat expectations. It is managing leverage, spreads, overnight gaps and announcements that may arrive during evening hours in Gulf Standard Time.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">決算シーズンには、トレーダーが業績、ガイダンス、利益率、需要を再評価するため、Apple、Tesla、Nvidia が急速に動く可能性があります。 </span><span data-i18n-slot=\"1\">UAE のトレーダー</span><span data-i18n-slot=\"2\">にとって、課題は単に企業が期待を上回るかどうかを予測することではありません。レバレッジ、スプレッド、夜間ギャップ、湾岸標準時間の夕方に届く可能性のあるアナウンスを管理しています。</span>"
+    },
+    {
+      "key": "ta58581613f306fd1",
+      "english": "<span data-i18n-slot=\"0\">During earnings season, CFDs allow traders to:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">収益シーズン中、CFD を使用するとトレーダーは次のことが可能になります。</span>"
+    },
+    {
+      "key": "t841aab038cda5cad",
+      "english": "<span data-i18n-slot=\"0\">Use margin instead of paying the full share value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">株式の全額を支払う代わりに証拠金を利用する</span>"
+    },
+    {
+      "key": "t8509305422093438",
+      "english": "<span data-i18n-slot=\"0\">Define exposure in CFD units</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">CFD 単位で露出を定義する</span>"
+    },
+    {
+      "key": "t6f6747d0eaa1bd3e",
+      "english": "<span data-i18n-slot=\"0\">Use stop-loss and take-profit orders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロス注文とテイクプロフィット注文を使用する</span>"
+    },
+    {
+      "key": "t9806156049946e2e",
+      "english": "<span data-i18n-slot=\"0\">Leverage reduces the capital required to open a position but magnifies gains and losses. </span><span data-i18n-slot=\"1\">UAE-based traders</span><span data-i18n-slot=\"2\"> should check contract hours, margin requirements and available instruments before trading US stock CFDs. For more detail, review</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">CFD Stock Trading in UAE</span></span><span data-i18n-slot=\"6\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジを利用すると、ポジションをオープンするのに必要な資本が減りますが、利益と損失は拡大します。 </span><span data-i18n-slot=\"1\">UAE を拠点とするトレーダー</span><span data-i18n-slot=\"2\">は、米国株 CFD を取引する前に、契約時間、証拠金要件、利用可能な商品を確認する必要があります。詳細については、</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">UAE での CFD 株取引</span></span><span data-i18n-slot=\"6\">をご覧ください。</span>"
+    },
+    {
+      "key": "t0db035dbc12185a9",
+      "english": "<span data-i18n-slot=\"0\">Buying the Share Outright</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">株式を完全に購入する</span>"
+    },
+    {
+      "key": "tc1034749df1d1d5f",
+      "english": "<span data-i18n-slot=\"0\">No ownership of the underlying share</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">基礎となる株式の所有権がない</span>"
+    },
+    {
+      "key": "t4f086f5d61713a4b",
+      "english": "<span data-i18n-slot=\"0\">Usually traded on margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常は証拠金取引が行われます</span>"
+    },
+    {
+      "key": "t4b386e244a5dea68",
+      "english": "<span data-i18n-slot=\"0\">Commonly requires full purchase value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常、購入金額全額が必要です</span>"
+    },
+    {
+      "key": "t9b5ba0b6701eb8ac",
+      "english": "<span data-i18n-slot=\"0\">Generally available, subject to conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一般利用可能（条件付き）</span>"
+    },
+    {
+      "key": "t310c4e1b40a7dd5d",
+      "english": "<span data-i18n-slot=\"0\">May require borrowing arrangements</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">借入の手配が必要な場合がある</span>"
+    },
+    {
+      "key": "ta0e6ae9181f8d80f",
+      "english": "<span data-i18n-slot=\"0\">Dividends and rights</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">配当金と権利</span>"
+    },
+    {
+      "key": "t79f5068500e80509",
+      "english": "<span data-i18n-slot=\"0\">Shorter-term speculation or hedging</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">短期的な投機またはヘッジ</span>"
+    },
+    {
+      "key": "t811bda4a75cf40e6",
+      "english": "<span data-i18n-slot=\"0\">Share-price decline and concentration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">株価下落と集中</span>"
+    },
+    {
+      "key": "t0ecfe510ae34b07a",
+      "english": "<span data-i18n-slot=\"0\">Why Earnings Season Moves Apple, Tesla and Nvidia Differently</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">決算シーズンで Apple、Tesla、Nvidia が異なる動きをする理由</span>"
+    },
+    {
+      "key": "t6c7a4e76d9255fd2",
+      "english": "<span data-i18n-slot=\"0\">Tesla: Deliveries, Margins and Management Commentary</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">テスラ：納車、利益率、経営陣のコメント</span>"
+    },
+    {
+      "key": "t930954dbb906ab27",
+      "english": "<span data-i18n-slot=\"0\">Tesla traders typically watch vehicle deliveries, selling prices, production costs, automotive margins, energy storage and management commentary. Delivery information may affect expectations before the full release, making margins and guidance especially important.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">テスラのトレーダーは通常、納車台数、販売価格、生産コスト、自動車部門の利益率、蓄電事業、経営陣のコメントに注目します。決算全体の発表前に納車情報が市場予想に影響する場合があるため、利益率と業績見通しが特に重要になります。</span>"
+    },
+    {
+      "key": "t4d646460dfdac82c",
+      "english": "<span data-i18n-slot=\"0\">Earnings-Season Profile Comparison</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">決算期の特徴の比較</span>"
+    },
+    {
+      "key": "t752bedd89c48bcb8",
+      "english": "<span data-i18n-slot=\"0\">Typical Volatility Driver</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的なボラティリティ要因</span>"
+    },
+    {
+      "key": "ta97dca43e18c401f",
+      "english": "<span data-i18n-slot=\"0\">Historical Earnings-Day Move Range*</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">過去の決算発表日の値動きの範囲*</span>"
+    },
+    {
+      "key": "t7f0996bc59ed46f0",
+      "english": "<span data-i18n-slot=\"0\">Deliveries, margins, pricing and commentary</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">納車、利益率、価格設定、コメント</span>"
+    },
+    {
+      "key": "ta0a50c40f173eb80",
+      "english": "<span data-i18n-slot=\"0\">Can reprice sharply when guidance changes expectations</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">業績見通しが市場予想を変えると、価格が急激に見直される可能性がある</span>"
+    },
+    {
+      "key": "t155e5234cfdc6442",
+      "english": "<span data-i18n-slot=\"0\">*Qualitative descriptions only; they do not imply a fixed or expected move.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">*定性的な説明のみ。固定された動きや予想される動きを意味するものではありません。</span>"
+    },
+    {
+      "key": "t80ae30d6e5eb40a8",
+      "english": "<span data-i18n-slot=\"0\">1. Confirm the Earnings Date and Time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. 決算発表の日時を確認する</span>"
+    },
+    {
+      "key": "t8aa3e43a20f08eb2",
+      "english": "<span data-i18n-slot=\"0\">Tesla: deliveries, automotive margins and outlook</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">テスラ：納車、自動車利益率、見通し</span>"
+    },
+    {
+      "key": "t892b53df9e614483",
+      "english": "<span data-i18n-slot=\"0\">A company may beat current-quarter estimates but fall because guidance disappoints.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">企業は今四半期の予想を上回ったとしても、ガイダンスが期待を裏切ったために下落する可能性があります。</span>"
+    },
+    {
+      "key": "tda7d49497b5070ab",
+      "english": "<span data-i18n-slot=\"0\">3. Check the Volatility Environment</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. ボラティリティ環境を確認する</span>"
+    },
+    {
+      "key": "t0b6eb0acf75e6caa",
+      "english": "<span data-i18n-slot=\"0\">4. Calculate Position Size and Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4. ポジションサイズとマージンの計算</span>"
+    },
+    {
+      "key": "t2ef222389ea25226",
+      "english": "<span data-i18n-slot=\"0\">Set the maximum acceptable monetary loss before choosing volume. Consider the stop distance, available margin, possible gap, costs and related positions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ボリュームを選択する前に、最大許容金銭的損失を設定します。停止距離、利用可能なマージン、起こり得るギャップ、コスト、および関連するポジションを考慮してください。</span>"
+    },
+    {
+      "key": "t27953f3257f5157e",
+      "english": "<span data-i18n-slot=\"0\">6. Place the Order and Define the Exit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">6. 注文を出し、出口を定義する</span>"
+    }
+  ]
+}

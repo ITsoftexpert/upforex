@@ -1,0 +1,473 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "td7a169740a2ee72e",
+      "english": "<span data-i18n-slot=\"0\">Ignoring Volatility and Market Conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">忽略波动性和市场状况</span>"
+    },
+    {
+      "key": "t73c6d3c17a58f68d",
+      "english": "<span data-i18n-slot=\"0\">These thresholds use the standard margin-level formula—equity divided by used margin—and may vary slightly with a broker’s exact real-time calculation method.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这些阈值使用标准保证金水平公式（净值除以已用保证金），并且可能会因经纪商的精确实时计算方法而略有不同。</span>"
+    },
+    {
+      "key": "t678daf42fed23c1a",
+      "english": "<span data-i18n-slot=\"0\">In practice, the position could therefore be liquidated before the adverse movement reaches the full 2%.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实际上，在不利变动达到 2% 之前，头寸可能会被清算。</span>"
+    },
+    {
+      "key": "t3fbbbf2000b028ca",
+      "english": "<span data-i18n-slot=\"0\">Limit Risk Per Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">限制每笔交易的风险</span>"
+    },
+    {
+      "key": "tb662e4d8bd35e8bc",
+      "english": "<span data-i18n-slot=\"0\">Calculate Position Size From the Stop-Loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">根据止损计算头寸规模</span>"
+    },
+    {
+      "key": "t2bbcaeeb0ab7b69b",
+      "english": "<span data-i18n-slot=\"0\">Calculate position size from account size, acceptable loss, stop distance, price-movement value, and expected costs. The stop marks where the idea becomes invalid; position size controls the financial loss.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">根据账户规模、可接受的损失、止损距离、价格变动值和预期成本计算头寸规模。停止标志着这个想法变得无效；头寸规模控制财务损失。</span>"
+    },
+    {
+      "key": "t38aa6cda6b55d4bc",
+      "english": "<span data-i18n-slot=\"0\">Start With a Demo Account</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">从模拟帐户开始</span>"
+    },
+    {
+      "key": "t7c97db88250e60ee",
+      "english": "<span data-i18n-slot=\"0\">Demo trading helps traders test rules and execution without risking capital. It cannot reproduce live pressure, so the move to a real account should begin with smaller positions and realistic expectations.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">模拟交易可帮助交易者测试规则和执行，而无需承担资本风险。它无法重现实时压力，因此转向真实账户应该从较小的头寸和现实的期望开始。</span>"
+    },
+    {
+      "key": "t6d911933f0a90ec9",
+      "english": "<span data-i18n-slot=\"0\">Aggressive income targets on small accounts encourage excessive leverage. Trading capital should stay separate from money needed for bills, emergencies, debt, or other essentials.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">小账户的激进收入目标鼓励过度杠杆化。交易资金应与账单、紧急情况、债务或其他必需品所需的资金分开。</span>"
+    },
+    {
+      "key": "t32664a7e88e06662",
+      "english": "<span data-i18n-slot=\"0\">Moving a stop-loss farther away to avoid accepting a loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">将止损移得更远以避免接受损失</span>"
+    },
+    {
+      "key": "tc7cc7f87c3c1b5af",
+      "english": "<span data-i18n-slot=\"0\">Increasing position size immediately after a win or loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">盈利或亏损后立即增加头寸规模</span>"
+    },
+    {
+      "key": "t317547751c35e79b",
+      "english": "<span data-i18n-slot=\"0\">Treating maximum leverage as a recommended trading level</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">将最大杠杆视为建议交易水平</span>"
+    },
+    {
+      "key": "tc69f5919c8fc05ef",
+      "english": "<span data-i18n-slot=\"0\">Risk Disclaimer:</span><span data-i18n-slot=\"1\"> Forex and CFD trading involves leveraged financial products and carries a high risk of losing money. Losses may occur rapidly and may exceed expectations during volatile or illiquid conditions. This article is provided for educational purposes only and does not constitute financial, investment, legal, or tax advice.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">风险免责声明：</span><span data-i18n-slot=\"1\">外汇和差价合约交易涉及杠杆金融产品，存在较高的亏损风险。在波动或流动性不足的情况下，损失可能会迅速发生并可能超出预期。本文仅供教育目的，不构成财务、投资、法律或税务建议。</span>"
+    },
+    {
+      "key": "tc86bcc1de7758597",
+      "english": "<span data-i18n-slot=\"0\">What Does CFD Mean in Gold Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">差价合约在黄金交易中意味着什么？</span>"
+    },
+    {
+      "key": "t1c333d1adc9cfea8",
+      "english": "<span data-i18n-slot=\"0\">Physical Gold</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实物黄金</span>"
+    },
+    {
+      "key": "t1bd92f975b21e5af",
+      "english": "<span data-i18n-slot=\"0\">Gold CFDs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">黄金差价合约</span>"
+    },
+    {
+      "key": "t1e06d1b92b7b2eb7",
+      "english": "<span data-i18n-slot=\"0\">Price exposure only</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">仅获得价格风险敞口</span>"
+    },
+    {
+      "key": "tc351e52f32ba5ac1",
+      "english": "<span data-i18n-slot=\"0\">Not required</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">不需要</span>"
+    },
+    {
+      "key": "tbaf8ebbe329b3db8",
+      "english": "<span data-i18n-slot=\"0\">Go Short?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">做空？</span>"
+    },
+    {
+      "key": "t646aae841b3f9bb4",
+      "english": "<span data-i18n-slot=\"0\">Instant execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">即时执行</span>"
+    },
+    {
+      "key": "t3278422b1d8ac14d",
+      "english": "<span data-i18n-slot=\"0\">Trading Hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易时间</span>"
+    },
+    {
+      "key": "tb5545e9c98982254",
+      "english": "<span data-i18n-slot=\"0\">Opening a Long or Short Position on XAU/USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">开设 XAU/USD 多头或空头头寸</span>"
+    },
+    {
+      "key": "t28c0e3a8854da31a",
+      "english": "<span data-i18n-slot=\"0\">How Gold CFD Prices Are Quoted</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">黄金差价合约价格如何报价</span>"
+    },
+    {
+      "key": "t503f0ecc44b5aca4",
+      "english": "<span data-i18n-slot=\"0\">What Is a Lot Size in Gold CFD Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">黄金差价合约交易的手数是多少？</span>"
+    },
+    {
+      "key": "tc505aaa8aa580b08",
+      "english": "<span data-i18n-slot=\"0\">In gold CFD trading, one standard lot typically represents 100 troy ounces of gold. With gold trading above $4,700 per ounce in mid-2026, one lot carries significant notional value, which is where leverage comes in. Most retail traders use mini lots (10 oz) or micro lots (1 oz) to keep position sizes manageable.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在黄金差价合约交易中，一标准手通常代表 100 金衡盎司黄金。到 2026 年中期，黄金交易价格将高于每盎司 4,700 美元，一手交易具有巨大的名义价值，这就是杠杆的用武之地。大多数零售交易者使用迷你手数（10 盎司）或微型手数（1 盎司）来保持头寸规模可控。</span>"
+    },
+    {
+      "key": "te2b96b1b8b1151b1",
+      "english": "<span data-i18n-slot=\"0\">How Leverage Works in Gold CFD Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆在黄金差价合约交易中如何运作</span>"
+    },
+    {
+      "key": "tfcda4acb65b7f657",
+      "english": "<span data-i18n-slot=\"0\">What Are Spreads and Swap Fees?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是点差和掉期费用？</span>"
+    },
+    {
+      "key": "t0d79950cde21701c",
+      "english": "<span data-i18n-slot=\"0\">The spread is the cost you pay to enter a trade, it is built into the bid/ask price. Swap fees (also called overnight fees or rollover fees) apply when you hold a CFD position open past the daily rollover time, typically 5:00 PM New York time. If you are holding a gold CFD trade for multiple days, these fees accumulate and affect your overall returns. UpForex offers Islamic swap-free accounts for traders who require Sharia-compliant conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差是您进入交易所支付的成本，它包含在买价/卖价中。当您持有差价合约头寸超过每日展期时间（通常为纽约时间下午 5:00）时，将收取掉期费（也称为隔夜费或展期费）。如果您持有黄金差价合约交易多日，这些费用会累积并影响您的整体回报。 UpForex 为需要符合伊斯兰教法的交易者提供伊斯兰免掉期账户。</span>"
+    },
+    {
+      "key": "td088049cc05d8d76",
+      "english": "<span data-i18n-slot=\"0\">Is Gold CFD Trading Legal in the UAE?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">黄金差价合约交易在阿联酋合法吗？</span>"
+    },
+    {
+      "key": "te09c24cec186964a",
+      "english": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">Confirm the broker is authorised to offer commodity CFDs specifically</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">确认经纪商有权专门提供商品差价合约</span>"
+    },
+    {
+      "key": "te43fd22af516db2c",
+      "english": "<span data-i18n-slot=\"0\">Physical gold only makes you money when prices go up. Gold CFDs work in both directions. If you think gold is going to pull back after the January 2026 highs, you can short XAU/USD and profit from the decline. This flexibility is particularly valuable in a volatile year where gold has shown 20%+ swings in both directions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实物黄金只有在价格上涨时才会赚钱。黄金差价合约可双向交易。如果您认为黄金会在2026年一月高点之后回调，可以做空XAU/USD并从下跌中获利。这种灵活性在黄金双向波动均超过20%的动荡年份尤其有价值。</span>"
+    },
+    {
+      "key": "t3a05a79f9bd67acd",
+      "english": "<span data-i18n-slot=\"0\">Use Leverage to Manage Your Exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">利用杠杆来管理您的风险</span>"
+    },
+    {
+      "key": "td7fff469498fa79d",
+      "english": "<span data-i18n-slot=\"0\">Leverage gives you the ability to size positions relative to your risk appetite rather than your total account balance. Used responsibly with proper stop-losses, leverage lets you participate meaningfully in gold’s price movements without tying up large amounts of capital in a single trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆使您能够根据您的风险偏好而不是您的账户总余额来调整头寸规模。通过负责任地使用适当的止损，杠杆可以让您有意义地参与黄金价格走势，而无需在单笔交易中占用大量资金。</span>"
+    },
+    {
+      "key": "t1a7e1dd023121c06",
+      "english": "<span data-i18n-slot=\"0\">US Dollar Strength</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">美元走强</span>"
+    },
+    {
+      "key": "t1dee0f53f27272e7",
+      "english": "<span data-i18n-slot=\"0\">US Federal Reserve Rate Decisions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">美联储利率决定</span>"
+    },
+    {
+      "key": "t604c69b842acdeec",
+      "english": "<span data-i18n-slot=\"0\">Leverage amplifies both your profits and your losses. A 1% adverse move on a 100:1 leveraged gold position wipes out your entire margin. This is why position sizing and stop losses are not optional; they are the foundation of responsible CFD trading. Never risk more on a single trade than you can afford to lose.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆会放大您的利润和损失。 100:1 杠杆黄金头寸的 1% 不利变动会耗尽您的全部保证金。这就是为什么仓位调整和止损不是可选的；它们是负责任的差价合约交易的基础。切勿在单笔交易中冒超出您承受能力的风险。</span>"
+    },
+    {
+      "key": "tbd28c74513dbb62f",
+      "english": "<span data-i18n-slot=\"0\">Overnight Swap Fees</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">隔夜掉期费用</span>"
+    },
+    {
+      "key": "tf3c3e6b6d76e3536",
+      "english": "<span data-i18n-slot=\"0\">If you hold a gold CFD position overnight, swap fees apply. On longer-term positions, these fees can accumulate significantly and erode your returns even if the gold price moves in your favor. Always factor swap costs into your trade planning, especially if you intend to hold positions for more than a few days.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果您持有黄金差价合约头寸过夜，则需支付掉期费用。对于长期头寸，即使金价走势对您有利，这些费用也会大量累积并侵蚀您的回报。始终将掉期成本纳入您的交易计划中，特别是如果您打算持有头寸超过几天。</span>"
+    },
+    {
+      "key": "tbf8352f76ddb73b5",
+      "english": "<span data-i18n-slot=\"0\">Gold’s 2026 performance has been extraordinary but volatile. The metal hit $5,595 in January, then corrected 20% following hawkish Fed Chair nomination news before rebounding above $5,200 by late February. If your stop-loss is not in place during moves like these, a single trade can cause disproportionate damage to your account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">黄金在2026年的表现非凡，但波动剧烈。一月金价达到$5,595，随后因鹰派美联储主席提名的消息回调20%，并于二月下旬反弹至$5,200以上。如果在此类行情中没有设置止损，单笔交易就可能对账户造成不成比例的损害。</span>"
+    },
+    {
+      "key": "t8343c5f478cd2934",
+      "english": "<span data-i18n-slot=\"0\">Range Trading - Buying Support, Selling Resistance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">区间交易 - 买入支撑、卖出阻力</span>"
+    },
+    {
+      "key": "tc054b63b7f216405",
+      "english": "<span data-i18n-slot=\"0\">In periods of consolidation, like gold’s sideways movement in the $4,800–$5,200 zone during Q1 2026, range trading can be effective. You identify key support levels where price has bounced historically and key resistance levels where it has stalled, then trade between them. Range trades tend to have tighter profit targets and require discipline to exit if the range breaks.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在盘整期间，例如2026年第1季度黄金在$4,800–$5,200区间横盘时，区间交易可能有效。您识别价格在历史上曾反弹的关键支撑位及曾停滞的关键阻力位，然后在两者之间交易。区间交易的盈利目标往往较近，并要求在区间突破时有纪律地退出。</span>"
+    },
+    {
+      "key": "t4eaa200d23d2da23",
+      "english": "<span data-i18n-slot=\"0\">Hedging With Gold CFDs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">利用黄金差价合约进行对冲</span>"
+    },
+    {
+      "key": "t5b5789d14706a617",
+      "english": "<span data-i18n-slot=\"0\">Step 3: Fund Your Account in AED or USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 3 步：为您的账户注入迪拉姆或美元</span>"
+    },
+    {
+      "key": "t69e98a5342d61517",
+      "english": "<span data-i18n-slot=\"0\">Step 5: Place Your First Gold CFD Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 5 步：进行第一笔黄金差价合约交易</span>"
+    },
+    {
+      "key": "t11aae1c582483fad",
+      "english": "<span data-i18n-slot=\"0\">Step 6: Set Your Stop-Loss and Take-Profit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 6 步：设置止损和止盈</span>"
+    },
+    {
+      "key": "tae009b0a066a79a4",
+      "english": "<span data-i18n-slot=\"0\">Never open a gold CFD trade without a stop-loss. Decide in advance how much you are willing to lose on the trade, set your stop at that level, and do not move it in the wrong direction once the trade is live. Your take-profit level should reflect a realistic target based on your analysis, not wishful thinking.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">切勿在没有止损的情况下进行黄金差价合约交易。提前决定您愿意在交易中损失多少，将止损设置在该水平，并且在交易开始后不要将止损移向错误的方向。您的止盈水平应该反映基于您的分析的现实目标，而不是一厢情愿的想法。</span>"
+    }
+  ]
+}

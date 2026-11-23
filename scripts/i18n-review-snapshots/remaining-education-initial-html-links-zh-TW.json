@@ -1,0 +1,27 @@
+{
+  "language": "zh-TW",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tac0fcd09cdc4884d",
+      "english": "<span data-i18n-slot=\"0\">The UpForex website identifies UP Global Markets Ltd as licensed by the Financial Services Commission of Mauritius. It also identifies its UAE-affiliated partner as licensed under a Category 5 Arrangement and Advice licence. Traders can learn more</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">about UpForex</span></span><span data-i18n-slot=\"4\"> and explore the</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">UpForex trading education blog</span></span><span data-i18n-slot=\"8\"> for additional educational material. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex 網站註明，UP Global Markets Ltd 獲得了毛里求斯金融服務委員會的許可。網站還註明，其阿聯酋關聯合作夥伴持有第 5 類安排與諮詢許可證。交易者可以瞭解更多</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">關於 UpForex</span></span><span data-i18n-slot=\"4\">的資訊，並瀏覽</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">UpForex 交易教育部落格</span></span><span data-i18n-slot=\"8\">以取得更多教育資料。</span>"
+    },
+    {
+      "key": "t3abb8d5f25d109f1",
+      "english": "<span data-i18n-slot=\"0\">If you hold other assets, equities, forex positions, or a broader investment portfolio, gold CFDs can serve as a hedge against downside risk. When equity markets fall or the dollar weakens, gold tends to rise, offsetting losses elsewhere. This is a more advanced use of gold CFDs that complements a wider trading or investment strategy. You can read more about this in our guide on</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">how to invest in gold in UAE</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果您持有其他資產、股票、外匯部位或更廣泛的投資組合，黃金差價合約可以作為下行風險的避險工具。當股市下跌或美元走弱時，黃金往往會上漲，從而抵銷其他方面的損失。這是黃金差價合約的一種更進階用法，可以補充更廣泛的交易或投資策略。您可以閱讀我們的</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">如何在阿聯酋投資黃金</span></span><span data-i18n-slot=\"4\">指南，瞭解更多相關資訊。</span>"
+    }
+  ]
+}

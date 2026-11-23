@@ -18,6 +18,7 @@ import { AdminService } from 'src/app/core/services/admin.service';
 import { Store } from 'src/app/Store/store';
 
 @Component({
+  standalone: false,
   selector: 'app-main',
   templateUrl: './main.component.html',
   styleUrls: ['./main.component.scss'],

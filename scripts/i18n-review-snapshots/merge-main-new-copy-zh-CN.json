@@ -1,0 +1,508 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t3fb994258d176b63",
+      "english": "Up to 1:300",
+      "kind": "text",
+      "sources": [
+        "src/app/components/account/account-types/account-types.component.html",
+        "src/app/components/account/account-types/constant.ts#standard",
+        "src/app/components/account/account-types/constant.ts#proEcn",
+        "src/app/components/account/account-types/constant.ts#eliteEcn",
+        "SSR:/accounts",
+        "SSR:/accounts/account-types"
+      ],
+      "translation": "最高 1:300"
+    },
+    {
+      "key": "tde578bb017635248",
+      "english": "Commission",
+      "kind": "text",
+      "sources": [
+        "src/app/components/account/account-types/account-types.component.html",
+        "SSR:/accounts",
+        "SSR:/accounts/account-types"
+      ],
+      "translation": "佣金"
+    },
+    {
+      "key": "t0a9ca28b5a312491",
+      "english": "live trading view chart",
+      "kind": "text",
+      "sources": [
+        "src/app/components/home/home.component.html",
+        "src/app/components/platforms/mt5/mt5.component.html",
+        "SSR:/",
+        "SSR:/platforms/mt5"
+      ],
+      "translation": "实时交易视图图表"
+    },
+    {
+      "key": "tda103872d678ab00",
+      "english": "The trading library",
+      "kind": "text",
+      "sources": [
+        "src/app/components/list.blogs/list.blogs.component.html",
+        "SSR:/blogs"
+      ],
+      "translation": "交易资料库"
+    },
+    {
+      "key": "t44fb6e653e8fc5f7",
+      "english": "Explore forex fundamentals, market insights and practical guides for your next step in trading.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/list.blogs/list.blogs.component.html",
+        "SSR:/blogs"
+      ],
+      "translation": "探索外汇基础知识、市场洞察和实用指南，为交易的下一步做好准备。"
+    },
+    {
+      "key": "t146d201d0bbf872d",
+      "english": "Read guide",
+      "kind": "text",
+      "sources": [
+        "src/app/components/list.blogs/list.blogs.component.html",
+        "SSR:/blogs"
+      ],
+      "translation": "阅读指南"
+    },
+    {
+      "key": "t08b274c8aaf485a0",
+      "english": "economic calendar tool",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/tools/tools/tools.component.html",
+        "SSR:/resources/tools"
+      ],
+      "translation": "经济日历工具"
+    },
+    {
+      "key": "tb3e8d6826aad85a0",
+      "english": "The Pip Calculator estimates the value of a pip for a currency pair based on your trade size and account currency, helping you assess potential profit or loss from price movements.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/tools/tools/tools.component.html",
+        "SSR:/resources/tools"
+      ],
+      "translation": "点值计算器根据您的交易规模和账户货币，估算某一货币对每点的价值，帮助您评估价格变动可能带来的利润或亏损。"
+    },
+    {
+      "key": "t3626334880bea2e8",
+      "english": "Calculation: (1.3490 − 1.3450) × 5 × 100,000 = $2,000.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/trading-rules/trading-rules.component.html",
+        "SSR:/resources/trading-rules"
+      ],
+      "translation": "计算： (1.3490 − 1.3450) × 5 × 100,000 = $2,000."
+    },
+    {
+      "key": "tc6b4d608963c2cc8",
+      "english": "Best Broker used till Date",
+      "kind": "text",
+      "sources": [
+        "src/app/layouts/social-menu/social-menu.component.html",
+        "SSR:/",
+        "SSR:/about-us",
+        "SSR:/contact-us",
+        "SSR:/risk-disclosure",
+        "SSR:/anti-money-laundering",
+        "SSR:/privacy-policy",
+        "SSR:/legal-documents",
+        "SSR:/blogs",
+        "SSR:/forex-trading-abu-dhabi",
+        "SSR:/forex-trading-cape-town",
+        "SSR:/forex-trading-johannesburg",
+        "SSR:/forex-trading-nairobi",
+        "SSR:/forex-trading-south-africa",
+        "SSR:/forex-trading-kuala-lumpur",
+        "SSR:/forex-trading-manila",
+        "SSR:/forex-trading-singapore",
+        "SSR:/products/forex-cfds",
+        "SSR:/products/stock-cfds",
+        "SSR:/products/precious-metal",
+        "SSR:/products/index-cfds",
+        "SSR:/products/energy-cfds",
+        "SSR:/products/cryptocurrencies-cfd",
+        "SSR:/accounts",
+        "SSR:/accounts/account-types",
+        "SSR:/partnerships",
+        "SSR:/partnerships/partnership-benefits",
+        "SSR:/partnerships/ib-programs",
+        "SSR:/partnerships/money-managers",
+        "SSR:/partnerships/education-partners",
+        "SSR:/partnerships/finfluencer",
+        "SSR:/partnerships/country-partners",
+        "SSR:/partnerships/social-trading",
+        "SSR:/partnerships/institutional-services",
+        "SSR:/platforms/mt5",
+        "SSR:/resources/introduction-to-forex",
+        "SSR:/resources/trading-glossary",
+        "SSR:/resources/trading-rules",
+        "SSR:/resources/faq",
+        "SSR:/resources/contract-specifications",
+        "SSR:/resources/tools",
+        "SSR:/resources/tools/economic-calendar",
+        "SSR:/resources/tools/currency-converter",
+        "SSR:/resources/tools/pip-calculator",
+        "SSR:/resources/tools/fibonacci-calculator",
+        "SSR:/resources/tools/currency-correlation",
+        "SSR:/resources/tools/pivot-point-calculator",
+        "SSR:/resources/tools/margin-calculator",
+        "SSR:/resources/tools/profit-calculator",
+        "SSR:/resources/tools/currency-volatility",
+        "SSR:/resources/tools/currency-heat-map",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide",
+        "SSR:/blogs/forex-trading-strategy-market-conditions",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-read-a-forex-quote",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/forex-correlation-explained",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/what-is-a-forex-currency-pair",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/why-retail-traders-lose-money",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae",
+        "SSR:/blogs/otc-trading-in-uae",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide",
+        "SSR:/blogs/zero-commission-forex-trading",
+        "SSR:/blogs/best-regulated-forex-platform",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5",
+        "SSR:/blogs/forex-broker-with-fund-protection",
+        "SSR:/blogs/forex-trading-in-the-middle-east",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts",
+        "SSR:/blogs/best-forex-trading-platform",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners",
+        "SSR:/blogs/forex-trading",
+        "SSR:/blogs/trump-tariff"
+      ],
+      "translation": "迄今使用过的最佳经纪商"
+    },
+    {
+      "key": "tc058cd8689b0df32",
+      "english": "Go Back to Home",
+      "kind": "text",
+      "sources": [
+        "src/app/not-found/not-found.component.html"
+      ],
+      "translation": "返回首页"
+    },
+    {
+      "key": "t7bd02777999bf127",
+      "english": "Seek professional tax advice",
+      "kind": "text",
+      "sources": [
+        "src/app/components/country-pages/south-africa-forex-review/south-africa-forex-review.component.ts#boldText",
+        "SSR:/forex-trading-south-africa"
+      ],
+      "translation": "寻求专业税务建议"
+    },
+    {
+      "key": "t3ca3175df030cf17",
+      "english": "Trade at the prices you see, a key advantage for active platinum and gold trading.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/products/precious-metal/constant.ts#subText",
+        "SSR:/products/precious-metal"
+      ],
+      "translation": "按您看到的价格交易，这是活跃进行铂金和黄金交易的一项重要优势。"
+    },
+    {
+      "key": "t6a7247f78d28ccff",
+      "english": "Leverage Schedule & Margin Requirements",
+      "kind": "text",
+      "sources": [
+        "src/app/legel-document-pge/legel-document-pge.component.ts#name",
+        "SSR:/legal-documents"
+      ],
+      "translation": "杠杆表与保证金要求"
+    },
+    {
+      "key": "tb4ef38a9c292259f",
+      "english": "Leverage limits and margin requirements that apply to UpForex trading instruments.",
+      "kind": "text",
+      "sources": [
+        "src/app/legel-document-pge/legel-document-pge.component.ts#about",
+        "SSR:/legal-documents"
+      ],
+      "translation": "适用于 UpForex 交易工具的杠杆限制和保证金要求。"
+    },
+    {
+      "key": "t3e6285c724f11cf3",
+      "english": "Privacy & Confidentiality Policy",
+      "kind": "text",
+      "sources": [
+        "src/app/legel-document-pge/legel-document-pge.component.ts#name",
+        "SSR:/legal-documents"
+      ],
+      "translation": "隐私与保密政策"
+    },
+    {
+      "key": "t31c68b950b18dcbd",
+      "english": "Our strict privacy and confidentiality measures to protect client information.",
+      "kind": "text",
+      "sources": [
+        "src/app/legel-document-pge/legel-document-pge.component.ts#about",
+        "SSR:/legal-documents"
+      ],
+      "translation": "我们为保护客户信息采取的严格隐私和保密措施。"
+    },
+    {
+      "key": "t978aa06bf99a65cb",
+      "english": "Learn how to become an introducing broker in 6 clear steps, understand variable commissions, compare IB roles, and explore a partnership with UPFOREX.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#description",
+        "CMS:blogs/how-to-become-an-introducing-broker#descriptionSnippet",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "通过 6 个清晰步骤了解如何成为介绍经纪商，理解可变佣金，比较 IB 的职责，并探索与 UPFOREX 的合作。"
+    },
+    {
+      "key": "t410dbf03b4a0a665",
+      "english": "At UPFOREX, we prioritize fund protection while providing quick and direct access to your profits.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#description",
+        "CMS:blogs/forex-broker-with-fund-protection#descriptionSnippet",
+        "SSR:/blogs/forex-broker-with-fund-protection",
+        "SSR:/blogs/forex-trading-in-the-middle-east",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts",
+        "SSR:/blogs/best-forex-trading-platform",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "在 UPFOREX，我们优先考虑资金保护，同时让您能够快速、直接地获取利润。"
+    },
+    {
+      "key": "t21603582a6db62fa",
+      "english": "<span data-i18n-slot=\"0\">Leverage Low Liquidity for High Potential – And Equip Yourself for Success</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"> 利用低流动性挖掘高潜力，并为成功做好准备 </span>"
+    },
+    {
+      "key": "tb77e61ef1009d28d",
+      "english": "Understand tariffs, reciprocal trade measures, and how Trump's tariff announcements affected US stocks, currencies, and global markets.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trump-tariff#description",
+        "CMS:blogs/trump-tariff#descriptionSnippet",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5",
+        "SSR:/blogs/forex-trading",
+        "SSR:/blogs/trump-tariff"
+      ],
+      "translation": "了解关税、对等贸易措施，以及特朗普的关税公告如何影响美国股票、货币和全球市场。"
+    },
+    {
+      "key": "t079a7eaa9d1ae68e",
+      "english": "UPFOREX Financial Services LLC is licensed and regulated by the UAE Capital Market Authority (CMA) under Category 5 – Arrangement & Advice, holding License No. 20200000350.",
+      "kind": "text",
+      "sources": [
+        "src/app/layouts/disclaimer/disclaimer.component.html",
+        "SSR:/",
+        "SSR:/about-us",
+        "SSR:/contact-us",
+        "SSR:/risk-disclosure",
+        "SSR:/anti-money-laundering",
+        "SSR:/privacy-policy",
+        "SSR:/legal-documents",
+        "SSR:/blogs",
+        "SSR:/forex-trading-abu-dhabi",
+        "SSR:/forex-trading-cape-town",
+        "SSR:/forex-trading-johannesburg",
+        "SSR:/forex-trading-nairobi",
+        "SSR:/forex-trading-south-africa",
+        "SSR:/forex-trading-kuala-lumpur",
+        "SSR:/forex-trading-manila",
+        "SSR:/forex-trading-singapore",
+        "SSR:/products/forex-cfds",
+        "SSR:/products/stock-cfds",
+        "SSR:/products/precious-metal",
+        "SSR:/products/index-cfds",
+        "SSR:/products/energy-cfds",
+        "SSR:/products/cryptocurrencies-cfd",
+        "SSR:/accounts",
+        "SSR:/accounts/account-types",
+        "SSR:/partnerships",
+        "SSR:/partnerships/partnership-benefits",
+        "SSR:/partnerships/ib-programs",
+        "SSR:/partnerships/money-managers",
+        "SSR:/partnerships/education-partners",
+        "SSR:/partnerships/finfluencer",
+        "SSR:/partnerships/country-partners",
+        "SSR:/partnerships/social-trading",
+        "SSR:/partnerships/institutional-services",
+        "SSR:/platforms/mt5",
+        "SSR:/resources/introduction-to-forex",
+        "SSR:/resources/trading-glossary",
+        "SSR:/resources/trading-rules",
+        "SSR:/resources/faq",
+        "SSR:/resources/contract-specifications",
+        "SSR:/resources/tools",
+        "SSR:/resources/tools/economic-calendar",
+        "SSR:/resources/tools/currency-converter",
+        "SSR:/resources/tools/pip-calculator",
+        "SSR:/resources/tools/fibonacci-calculator",
+        "SSR:/resources/tools/currency-correlation",
+        "SSR:/resources/tools/pivot-point-calculator",
+        "SSR:/resources/tools/margin-calculator",
+        "SSR:/resources/tools/profit-calculator",
+        "SSR:/resources/tools/currency-volatility",
+        "SSR:/resources/tools/currency-heat-map",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide",
+        "SSR:/blogs/forex-trading-strategy-market-conditions",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-read-a-forex-quote",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/forex-correlation-explained",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/what-is-a-forex-currency-pair",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/why-retail-traders-lose-money",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae",
+        "SSR:/blogs/otc-trading-in-uae",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide",
+        "SSR:/blogs/zero-commission-forex-trading",
+        "SSR:/blogs/best-regulated-forex-platform",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5",
+        "SSR:/blogs/forex-broker-with-fund-protection",
+        "SSR:/blogs/forex-trading-in-the-middle-east",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts",
+        "SSR:/blogs/best-forex-trading-platform",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners",
+        "SSR:/blogs/forex-trading",
+        "SSR:/blogs/trump-tariff"
+      ],
+      "translation": "UPFOREX Financial Services LLC 持有阿联酋资本市场管理局 (CMA) 颁发的第 5 类——安排与咨询业务牌照，并受其监管，牌照编号为 20200000350。"
+    },
+    {
+      "key": "t40daed80f4b866b6",
+      "english": "We believe that a forex trading platform should adapt to each trader's lifestyle. That’s why we offer robust, user-friendly trading on both desktop and mobile devices. Our platforms support the use of Expert Advisors (EAs) for automated trading strategies and offer micro-lot trading for precise risk management, making",
+      "kind": "text",
+      "sources": [
+        "src/app/components/products/forex/forex.component.html",
+        "SSR:/products/forex-cfds"
+      ],
+      "translation": "我们认为，外汇交易平台应适应每位交易者的生活方式。因此，我们在桌面和移动设备上都提供强大且易用的交易功能。我们的平台支持使用专家顾问 (EAs) 实施自动交易策略，并提供微型手交易以进行精确的风险管理，从而使"
+    },
+    {
+      "key": "t11f1e8a20c45de40",
+      "english": "<span data-i18n-slot=\"0\">An Expert Advisor runs inside the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">MT5 platform</span></span><span data-i18n-slot=\"4\">. It may identify setups, size positions, place orders, apply stop-loss and take-profit levels, or manage open trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"> 专家顾问在 </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\"> MT5 平台 </span></span><span data-i18n-slot=\"4\"> 内运行。它可以识别交易形态、确定仓位大小、下单、设置止损和止盈水平，或管理未平仓交易。 </span>"
+    },
+    {
+      "key": "t1e77985785fc7c53",
+      "english": "<span data-i18n-slot=\"0\">MT5 uses MQL5 for Expert Advisors, custom indicators, and scripts. EA files are stored in </span><span data-i18n-slot=\"1\">MQL5/Experts</span><span data-i18n-slot=\"2\"> and appear in Navigator after installation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"> MT5 使用 MQL5 编写专家顾问、自定义指标和脚本。EA 文件存储在 </span><span data-i18n-slot=\"1\"> MQL5/Experts </span><span data-i18n-slot=\"2\"> 中，并在安装后显示在 Navigator 中。 </span>"
+    },
+    {
+      "key": "tc84efe438f590659",
+      "english": "<span data-i18n-slot=\"0\">Ans: </span><span data-i18n-slot=\"1\">With instant withdrawals, traders can get their money in a matter of minutes as opposed to hours or days. At UPFOREX, we prioritize fund protection while providing quick and direct access to your profits.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"> 答： </span><span data-i18n-slot=\"1\"> 通过即时提款，交易者可以在几分钟内拿到资金，而不必等待数小时或数天。 在 UPFOREX，我们优先考虑资金保护，同时让您能够快速、直接地获取利润。 </span>"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+OFFLINE TRANSLATIONS: NO CARD, BILLING ACCOUNT OR TRANSLATION API
+
+The original development workspace had local CPU translation models. Model
+weights are not included in this merged source or its delivery ZIP. Building
+and serving the completed catalogs requires no model, account or API setup.
+The optional generation workflow below requires a separate local model setup.
+Reuse the existing reviewed translations before generating anything new.
+No changes to the English source, website design or public routes are needed.
+
+The models run only on the development computer. They produce local JSON
+drafts. Python, model weights and generation caches stay under ignored tmp/;
+they are not imported into Angular or executed for website visitors.
+
+Commands from the folder containing package.json:
+
+  npm.cmd run i18n:plan
+    The default planning command is now offline, with no cloud estimate.
+    missingUnrecordedDrafts counts only work not yet generated locally.
+    missingValidatedMessages and incompletePages show the actual coverage gap;
+    zero missing draft files does not mean the release is complete.
+
+  npm.cmd run i18n:translate -- --languages=ar --limit=16
+    The default translation command now runs the local model, not a paid API.
+
+  npm.cmd run i18n:offline
+    Show a local generation plan; no translation or network request.
+
+  npm.cmd run i18n:offline:generate -- --languages=ar --limit=16
+    Generate a small, resumable local draft batch. No cloud request.
+
+  npm.cmd run i18n:offline:generate -- --languages=ar --repair-drafts --limit=16
+    Retry saved local drafts with structural, identity or financial warnings,
+    plus exact-source entries held as requires-repair in the review queue.
+    A consumer/cloud translation cache is not required for local repairs.
+    Ordinary resumes preserve cached failures rather than repeat inference.
+
+  npm.cmd run i18n:offline:status
+    Refresh per-source and per-page review queues under tmp/offline-i18n.
+    Review actual source/target meaning, not only the draft-exists count.
+
+All generated drafts remain unreviewed. Local models can omit sentences,
+alter identities or use the wrong financial term. Number/HTML integrity,
+financial-denial/percentage checks, semantic scores and reverse translation
+are checks, not a guarantee of correct meaning or native-speaker approval.
+Do not publish incomplete English fallback as a translated page.
+
+After exact-source translations have been reviewed/corrected and saved in
+scripts/i18n-reviewed-translations.json, prepare complete page catalogs:
+
+  node scripts/prepare-native-catalogs.cjs --write
+  npm.cmd run build:ssr
+  npm.cmd run test:i18n
+  npm.cmd run verify:seo -- --require-complete
+  npm.cmd run verify:ssr-i18n -- --require-complete
+
+The coverage manifest and reciprocal self-referencing hreflang are generated
+only for pages with all required translations. Strict checks inspect every
+declared completed page/language combination in initial SSR HTML.
+There is no automatic draft publication or paid-API fallback in the local
+generation command. The separate scripts/translate-native-catalogs.cjs cloud
+tool remains in the project, but is not called by these default commands;
+paid generation is not authorized.
+
+Fresh-machine setup downloads public packages/models once; translation itself
+runs locally. See scripts/requirements-offline-i18n.txt,
+scripts/setup-offline-i18n.py and scripts/offline-i18n-NOTICES.txt.
+No setup is needed again on this already configured workspace.
+
+Deployment stays on HOLD until all required strict release checks pass.

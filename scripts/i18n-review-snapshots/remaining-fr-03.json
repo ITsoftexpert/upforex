@@ -1,0 +1,1315 @@
+{
+  "language": "fr",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t549cd5fd1e200c57",
+      "english": "<span data-i18n-slot=\"0\">Practice Reading the Quote Before Placing a Trade</span>",
+      "translation": "<span data-i18n-slot=\"0\">Entraînez-vous à lire la cotation avant de passer une transaction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t18b72b164c38719c",
+      "english": "<span data-i18n-slot=\"0\">Reading a forex quote becomes much easier once bid, ask, spread and pip movement are treated as separate parts of the same two-sided price.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Lire une cotation forex devient beaucoup plus facile dès lors que les cours acheteur et vendeur, le spread et les variations en pips sont considérés comme des éléments distincts d’un même prix à deux côtés.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tf4bafe70b81bd992",
+      "english": "<span data-i18n-slot=\"0\">The Bank for International Settlements reported average global FX turnover of about </span><span data-i18n-slot=\"1\">$9.6 trillion per day in April 2025</span><span data-i18n-slot=\"2\">, with the US dollar on one side of </span><span data-i18n-slot=\"3\">89% of all FX trades</span><span data-i18n-slot=\"4\">.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">BIS press release, 30 September 2025</span></span>",
+      "translation": "<span data-i18n-slot=\"0\">La Banque des règlements internationaux a fait état d’un volume mondial moyen de transactions de change d’environ </span><span data-i18n-slot=\"1\">$9.6 billions par jour en avril 2025</span><span data-i18n-slot=\"2\">, le dollar américain étant l’une des deux devises dans </span><span data-i18n-slot=\"3\">89% de toutes les transactions de change</span><span data-i18n-slot=\"4\">.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Communiqué de presse de la BRI, 30 septembre 2025</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t8e443fb128c3c321",
+      "english": "<span data-i18n-slot=\"0\">Scheduled economic announcements</span>",
+      "translation": "<span data-i18n-slot=\"0\">Annonces économiques programmées</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t261196cbb9e5b2e1",
+      "english": "<span data-i18n-slot=\"0\">How Does Liquidity Affect Slippage?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment la liquidité influence-t-elle le glissement de prix ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t8300199e7f88c1c0",
+      "english": "<span data-i18n-slot=\"0\">How Does Liquidity Affect Trade Execution?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment la liquidité affecte-t-elle l'exécution des transactions&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t6fc8b82307c18571",
+      "english": "<span data-i18n-slot=\"0\">Actual fill price</span>",
+      "translation": "<span data-i18n-slot=\"0\">Prix d'exécution réel</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t0b8799e27140f1e8",
+      "english": "<span data-i18n-slot=\"0\">Slippage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Glissement de prix</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t34d583f00a466ada",
+      "english": "<span data-i18n-slot=\"0\">Typical Spread Behavior</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comportement habituel du spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tb26cd96cbbf9a66a",
+      "english": "<span data-i18n-slot=\"0\">Usually among the tighter major-pair spreads</span>",
+      "translation": "<span data-i18n-slot=\"0\">Habituellement parmi les spreads les plus serrés des paires majeures</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t7fb9b3d49d405138",
+      "english": "<span data-i18n-slot=\"0\">These are general characteristics, not live UPFOREX quotes or guarantees of execution.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Il s’agit de caractéristiques générales, et non de cotations UPFOREX en temps réel ou de garanties d’exécution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t713d4f1812a7c27e",
+      "english": "<span data-i18n-slot=\"0\">London and New York Overlap</span>",
+      "translation": "<span data-i18n-slot=\"0\">Chevauchement de Londres et de New York</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tee71464306b18301",
+      "english": "<span data-i18n-slot=\"0\">More activity can support deeper pricing and relatively tighter spreads under normal conditions.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une activité accrue peut favoriser une plus grande profondeur de cotation et des spreads relativement plus serrés dans des conditions normales.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t32ec8f8b8122f151",
+      "english": "<span data-i18n-slot=\"0\">For UAE traders, thinking in terms of session overlap rather than fixed local clock times is useful because daylight-saving changes can shift international session timing during the year.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pour les traders des Émirats arabes unis, il est utile de penser en termes de chevauchement des sessions plutôt que d'heures locales fixes, car les changements d'heure d'été peuvent modifier l'horaire des sessions internationales au cours de l'année.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t278e94a91e527861",
+      "english": "<span data-i18n-slot=\"0\">Lower-Activity Windows</span>",
+      "translation": "<span data-i18n-slot=\"0\">Fenêtres à faible activité</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t147eaf406d9ae7f8",
+      "english": "<span data-i18n-slot=\"0\">Late in a trading day</span>",
+      "translation": "<span data-i18n-slot=\"0\">Tard dans une journée de bourse</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t5fbb9e842b13f062",
+      "english": "<span data-i18n-slot=\"0\">Fast repricing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Retarification rapide</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t4a6bd45e547c4de8",
+      "english": "<span data-i18n-slot=\"0\">Increased slippage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Glissement de prix accru</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tfd87452199d4236d",
+      "english": "<span data-i18n-slot=\"0\">Trading Condition</span>",
+      "translation": "<span data-i18n-slot=\"0\">Condition de trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tdaf4492135defef7",
+      "english": "<span data-i18n-slot=\"0\">Thinly traded exotic pair</span>",
+      "translation": "<span data-i18n-slot=\"0\">Paire exotique peu négociée</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t4ad878560391f1ba",
+      "english": "<span data-i18n-slot=\"0\">London/New York overlap</span>",
+      "translation": "<span data-i18n-slot=\"0\">Chevauchement Londres/New York</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t295ed2dab412e6cc",
+      "english": "<span data-i18n-slot=\"0\">Low-activity period</span>",
+      "translation": "<span data-i18n-slot=\"0\">Période de faible activité</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tbe78530c2d18bd70",
+      "english": "<span data-i18n-slot=\"0\">Typically thinner</span>",
+      "translation": "<span data-i18n-slot=\"0\">Généralement moins profond</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t6ae7dc0808150960",
+      "english": "<span data-i18n-slot=\"0\">Spread behavior</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comportement du spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t70c2676e7d332fee",
+      "english": "<span data-i18n-slot=\"0\">Large-order sensitivity</span>",
+      "translation": "<span data-i18n-slot=\"0\">Sensibilité aux ordres importants</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t2390ad42814bc5ee",
+      "english": "<span data-i18n-slot=\"0\">Thinner available pricing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Moins de profondeur dans les cotations disponibles</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tff13ea24c3888c64",
+      "english": "<span data-i18n-slot=\"0\">Spreads often wider</span>",
+      "translation": "<span data-i18n-slot=\"0\">Spreads souvent plus larges</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t986075ca9c4acac0",
+      "english": "<span data-i18n-slot=\"0\">Larger orders may be easier to absorb</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les ordres plus importants peuvent être plus faciles à absorber</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t9675905b9946f973",
+      "english": "<span data-i18n-slot=\"0\">These relationships are tendencies rather than guarantees.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ces relations sont des tendances plutôt que des garanties.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tac2cbccb08637239",
+      "english": "<span data-i18n-slot=\"0\">A liquid pair can still move sharply when new information changes what buyers and sellers are willing to pay.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une paire liquide peut encore évoluer fortement lorsque de nouvelles informations modifient ce que les acheteurs et les vendeurs sont prêts à payer.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tfb68ee60043c77a6",
+      "english": "<span data-i18n-slot=\"0\">It does not.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ce n'est pas le cas.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tf58ec93281736094",
+      "english": "<span data-i18n-slot=\"0\">Published Spread</span>",
+      "translation": "<span data-i18n-slot=\"0\">Spread publié</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t8bc167545356b75a",
+      "english": "<span data-i18n-slot=\"0\">Minimum trade size of 0.01 lots</span>",
+      "translation": "<span data-i18n-slot=\"0\">Taille minimale des échanges de 0.01 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t185d01aaf9ac2ff0",
+      "english": "<span data-i18n-slot=\"0\">Leverage up to 1:300</span>",
+      "translation": "<span data-i18n-slot=\"0\">Effet de levier jusqu’à 1:300</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "td055319f05eef6b1",
+      "english": "<span data-i18n-slot=\"0\">What are the most liquid forex pairs?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Quelles sont les paires de devises les plus liquides&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "tf7821ba9d6ccf8c3",
+      "english": "<span data-i18n-slot=\"0\">Build a Clearer View of Trading Conditions</span>",
+      "translation": "<span data-i18n-slot=\"0\">Mieux comprendre les conditions de trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ]
+    },
+    {
+      "key": "t92fc48dd0ad6ac23",
+      "english": "<span data-i18n-slot=\"0\">What Is Slippage in Trading?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu'est-ce que le glissement dans le trading&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t9f593ebb156eb89f",
+      "english": "<span data-i18n-slot=\"0\">The meaning of slippage therefore depends not only on the price difference but also on whether the trader is buying or selling.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le sens du glissement de prix dépend donc non seulement de la différence de prix, mais aussi du fait que le trader achète ou vende.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tce09c6259db4a5ed",
+      "english": "<span data-i18n-slot=\"0\">Is Slippage the Same as Spread?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le glissement de prix est-il la même chose que le spread ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "td4b66008b527ff40",
+      "english": "<span data-i18n-slot=\"0\">Difference between the current bid and ask price</span>",
+      "translation": "<span data-i18n-slot=\"0\">Différence entre le prix acheteur et le prix vendeur actuel</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t22a916a0836d65e8",
+      "english": "<span data-i18n-slot=\"0\">A separate transaction charge that may apply depending on the account</span>",
+      "translation": "<span data-i18n-slot=\"0\">Des frais de transaction distincts peuvent s'appliquer en fonction du compte</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t3684ae52ec0a1d22",
+      "english": "<span data-i18n-slot=\"0\">Overnight financing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Financement au jour le jour</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t7a21647db8da1f07",
+      "english": "<span data-i18n-slot=\"0\">A potential charge or adjustment for eligible positions held overnight</span>",
+      "translation": "<span data-i18n-slot=\"0\">Des frais ou ajustements potentiels pour les positions éligibles détenues pendant la nuit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t83b3bff04f76968e",
+      "english": "<span data-i18n-slot=\"0\">In less actively traded instruments</span>",
+      "translation": "<span data-i18n-slot=\"0\">Dans les instruments moins activement négociés</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tcab7ad6810754e44",
+      "english": "<span data-i18n-slot=\"0\">Execution Speed and Infrastructure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Vitesse d'exécution et infrastructure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "taa0458771b7c9ee5",
+      "english": "<span data-i18n-slot=\"0\">Positive Slippage vs Negative Slippage: What's the Difference?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Glissement de prix positif ou négatif : quelle est la différence ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t8c2ac3988d0d79d8",
+      "english": "<span data-i18n-slot=\"0\">Higher execution price = positive slippage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Prix d'exécution plus élevé = glissement positif</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t07b8dd3936a3227b",
+      "english": "<span data-i18n-slot=\"0\">It should not automatically be interpreted as evidence that a broker deliberately selected one outcome. Individual fills need to be considered alongside market conditions, liquidity, order type, timing, execution rules, and available pricing.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cela ne doit pas automatiquement être interprété comme une preuve qu'un courtier a délibérément choisi un résultat. Les exécutions individuelles doivent être prises en compte en fonction des conditions du marché, de la liquidité, du type d'ordre, du calendrier, des règles d'exécution et des prix disponibles.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t86ab5b9408d5407c",
+      "english": "<span data-i18n-slot=\"0\">Positive vs Negative Slippage Comparison</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comparaison des glissements positifs et négatifs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "ta7f88990949ec4c6",
+      "english": "<span data-i18n-slot=\"0\">What Happens</span>",
+      "translation": "<span data-i18n-slot=\"0\">Que se passe-t-il</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "ta096bf2747ffdcf5",
+      "english": "<span data-i18n-slot=\"0\">Buy Order Example</span>",
+      "translation": "<span data-i18n-slot=\"0\">Exemple d’ordre d’achat</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t34f4649911ede163",
+      "english": "<span data-i18n-slot=\"0\">Positive slippage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Glissement de prix positif</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tee7b1183443c73a7",
+      "english": "<span data-i18n-slot=\"0\">Expected 1.1050, filled 1.1047</span>",
+      "translation": "<span data-i18n-slot=\"0\">Prix attendu : 1.1050, exécuté à 1.1047</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t4cb17498a288a1a2",
+      "english": "<span data-i18n-slot=\"0\">Expected 1.1050, filled 1.1053</span>",
+      "translation": "<span data-i18n-slot=\"0\">Prix attendu : 1.1050, exécuté à 1.1053</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t21baf4ac269c651a",
+      "english": "<span data-i18n-slot=\"0\">Price moves favorably before execution and the better price remains available</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le prix évolue favorablement avant l'exécution et le meilleur prix reste disponible</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t1711a54d28f6bd2b",
+      "english": "<span data-i18n-slot=\"0\">Negative slippage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Glissement de prix négatif</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t6fce907a2e4245e0",
+      "english": "<span data-i18n-slot=\"0\">Execution matches the expected price</span>",
+      "translation": "<span data-i18n-slot=\"0\">L'exécution correspond au prix attendu</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t304acd532e25bcc1",
+      "english": "<span data-i18n-slot=\"0\">Expected 1.1050, filled 1.1050</span>",
+      "translation": "<span data-i18n-slot=\"0\">Prix attendu : 1.1050, exécuté à 1.1050</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t846e91fb814b03dd",
+      "english": "<span data-i18n-slot=\"0\">How Is Slippage Calculated?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment le glissement est-il calculé&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "ta40c50343c36c0bc",
+      "english": "<span data-i18n-slot=\"0\">Slippage difference = Execution Price − Expected Price</span>",
+      "translation": "<span data-i18n-slot=\"0\">Différence de glissement = Prix d'exécution − Prix attendu</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "td466f4ac28e1f1be",
+      "english": "<span data-i18n-slot=\"0\">Request Execution</span>",
+      "translation": "<span data-i18n-slot=\"0\">Exécution sur demande</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t0ea9102611098c9e",
+      "english": "<span data-i18n-slot=\"0\">Under Instant Execution, for example, a price movement beyond the accepted deviation may result in a requote rather than automatic execution at the changed price.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Dans le cadre de l'exécution instantanée, par exemple, un mouvement de prix au-delà de l'écart accepté peut entraîner une nouvelle cotation plutôt qu'une exécution automatique au prix modifié.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tc76642d5c513e049",
+      "english": "<span data-i18n-slot=\"0\">Positive Slippage Outcome</span>",
+      "translation": "<span data-i18n-slot=\"0\">Résultat de glissement positif</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t75f745c90bc3d681",
+      "english": "<span data-i18n-slot=\"0\">Negative Slippage Outcome</span>",
+      "translation": "<span data-i18n-slot=\"0\">Résultat de glissement négatif</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t4ca11dbd141b1fa1",
+      "english": "<span data-i18n-slot=\"0\">Actual execution</span>",
+      "translation": "<span data-i18n-slot=\"0\">Exécution réelle</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t081a491883b12d70",
+      "english": "<span data-i18n-slot=\"0\">Slippage type</span>",
+      "translation": "<span data-i18n-slot=\"0\">Type de glissement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t571e3ebc6c29b162",
+      "english": "<span data-i18n-slot=\"0\">Outcome 1: Positive Slippage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Résultat 1 : Glissement de prix positif</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tda3718b8fa2e2c14",
+      "english": "<span data-i18n-slot=\"0\">The examples show why the </span><span data-i18n-slot=\"1\">meaning of slippage</span><span data-i18n-slot=\"2\"> cannot be understood only from the size of the price difference.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ces exemples montrent pourquoi le </span><span data-i18n-slot=\"1\">sens du glissement de prix</span><span data-i18n-slot=\"2\"> ne peut être compris uniquement à partir de l’ampleur de la différence de prix.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t8169a695652588c9",
+      "english": "<span data-i18n-slot=\"0\">What Does High Slippage Mean?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Que signifie un glissement élevé&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t0bb3d357a7f46721",
+      "english": "<span data-i18n-slot=\"0\">Prices are moving unusually quickly</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les prix évoluent inhabituellement rapidement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t67bccb832cd30bcd",
+      "english": "<span data-i18n-slot=\"0\">How Does the Execution Model Affect Slippage?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment le modèle d'exécution affecte-t-il le glissement&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t4b11ae8f34c70fe1",
+      "english": "<span data-i18n-slot=\"0\">Available order types</span>",
+      "translation": "<span data-i18n-slot=\"0\">Types d’ordres disponibles</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t9c67339522be1fd7",
+      "english": "<span data-i18n-slot=\"0\">Requote or rejection rules</span>",
+      "translation": "<span data-i18n-slot=\"0\">Règles de re-cotation ou de rejet</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tc2e0b47765618397",
+      "english": "<span data-i18n-slot=\"0\">Order-routing structure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Structure d’acheminement des ordres</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t943bc3f0de6555c8",
+      "english": "<span data-i18n-slot=\"0\">Searching for the “lowest slippage broker” without considering these factors can oversimplify execution quality.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Rechercher le « courtier au glissement de prix le plus faible » sans prendre en compte ces facteurs peut simplifier à l’excès la qualité d’exécution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t792f4f026539ed8e",
+      "english": "<span data-i18n-slot=\"0\">How Can Traders Manage Slippage Risk?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment les traders peuvent-ils gérer le risque de glissement de prix ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t5f7d8343b85ecd75",
+      "english": "<span data-i18n-slot=\"0\">Use Limit Orders When Price Control Matters More</span>",
+      "translation": "<span data-i18n-slot=\"0\">Utilisez les ordres limités lorsque le contrôle des prix est plus important</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t64aaea8d9ad1f11f",
+      "english": "<span data-i18n-slot=\"0\">However, this creates a trade-off.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cependant, cela crée un compromis.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "te91c15015aefef1d",
+      "english": "<span data-i18n-slot=\"0\">Consider Order Size</span>",
+      "translation": "<span data-i18n-slot=\"0\">Tenez compte de la taille de l’ordre</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t799ea7dbc3bbe089",
+      "english": "<span data-i18n-slot=\"0\">Execution delays</span>",
+      "translation": "<span data-i18n-slot=\"0\">Retards d'exécution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tc576ddf0fc62f3b4",
+      "english": "<span data-i18n-slot=\"0\">Order rejection</span>",
+      "translation": "<span data-i18n-slot=\"0\">Rejet de l’ordre</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "td0fe75ca62c715ce",
+      "english": "<span data-i18n-slot=\"0\">Slippage assumptions</span>",
+      "translation": "<span data-i18n-slot=\"0\">Hypothèses de glissement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "te127737dd79e9d41",
+      "english": "<span data-i18n-slot=\"0\">One order provides limited information.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un seul ordre fournit peu d’informations.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t101d243aac57d1ec",
+      "english": "<span data-i18n-slot=\"0\">Actual execution price</span>",
+      "translation": "<span data-i18n-slot=\"0\">Prix d'exécution réel</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "td10ed08d4975f30b",
+      "english": "<span data-i18n-slot=\"0\">Order type</span>",
+      "translation": "<span data-i18n-slot=\"0\">Type d’ordre</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tb48bcdf55285d7ad",
+      "english": "<span data-i18n-slot=\"0\">Slippage direction</span>",
+      "translation": "<span data-i18n-slot=\"0\">Direction du glissement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t7c26d37cfb05faa4",
+      "english": "<span data-i18n-slot=\"0\">Slippage amount</span>",
+      "translation": "<span data-i18n-slot=\"0\">Montant du glissement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tc595283584f3d451",
+      "english": "<span data-i18n-slot=\"0\">Reviewing a larger group of trades can provide more context than focusing on one positive or negative fill.</span>",
+      "translation": "<span data-i18n-slot=\"0\">L'examen d'un plus grand groupe de transactions peut fournir plus de contexte que le fait de se concentrer sur une seule exécution positive ou négative.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "tc7f63bb2b3508006",
+      "english": "<span data-i18n-slot=\"0\">What is slippage in forex?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu’est-ce que le glissement de prix sur le forex ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "te14340342c787f28",
+      "english": "<span data-i18n-slot=\"0\">Slippage can occur when market prices change before an order is executed. Common conditions include high volatility, economic news, market gaps, reduced liquidity, large orders relative to available liquidity, and execution delays. Market orders are generally more exposed because they prioritize execution rather than a fixed entry price.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un glissement peut se produire lorsque les prix du marché changent avant qu'un ordre ne soit exécuté. Les conditions courantes incluent une volatilité élevée, des actualités économiques, des écarts de marché, une liquidité réduite, des ordres importants par rapport à la liquidité disponible et des retards d'exécution. Les ordres de marché sont généralement plus exposés car ils donnent la priorité à l'exécution plutôt qu'à un prix d'entrée fixe.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t2e5681e8192f0e0c",
+      "english": "<span data-i18n-slot=\"0\">What is positive slippage?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu'est-ce qu'un glissement positif&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "teb0ea22f1f1c116b",
+      "english": "<span data-i18n-slot=\"0\">How do you calculate slippage?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment calculez-vous le glissement&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t50e2ba2afdebd354",
+      "english": "<span data-i18n-slot=\"0\">Can slippage be completely avoided?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le glissement peut-il être complètement évité&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t6765804565101a8d",
+      "english": "<span data-i18n-slot=\"0\">Is slippage the same as spread?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le glissement de prix est-il la même chose que le spread ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ]
+    },
+    {
+      "key": "t883bd6a186bb66eb",
+      "english": "<span data-i18n-slot=\"0\">MetaTrader 5 supports market orders alongside Buy Limit, Sell Limit, Buy Stop, Sell Stop, Buy Stop Limit and Sell Stop Limit pending orders.</span>",
+      "translation": "<span data-i18n-slot=\"0\">MetaTrader 5 prend en charge les ordres au marché ainsi que les ordres en attente d’achat à cours limité (Buy Limit), de vente à cours limité (Sell Limit), d’achat stop (Buy Stop), de vente stop (Sell Stop), d’achat stop limité (Buy Stop Limit) et de vente stop limité (Sell Stop Limit).</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t6367393c4c8a61a8",
+      "english": "<span data-i18n-slot=\"0\">What Is a Limit Order?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu'est-ce qu'un ordre limité&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tbdf3b4bc6aaced26",
+      "english": "<span data-i18n-slot=\"0\">What Is a Buy Limit Order?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu'est-ce qu'un ordre d'achat limité&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t8cf0e07afc36587e",
+      "english": "<span data-i18n-slot=\"0\">What Is a Sell Limit Order?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu'est-ce qu'un ordre de vente limité&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t97c6c0a68091b152",
+      "english": "<span data-i18n-slot=\"0\">Desired sell entry: 1.1100</span>",
+      "translation": "<span data-i18n-slot=\"0\">Entrée de vente souhaitée&nbsp;:&nbsp;1.1100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t0886b5fa18f488a6",
+      "english": "<span data-i18n-slot=\"0\">Set the trade volume.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Définissez le volume des échanges.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t572bd011936eac1b",
+      "english": "<span data-i18n-slot=\"0\">Review any available expiration setting.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Vérifiez tout paramètre d'expiration disponible.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t57a30cebf5c002cf",
+      "english": "<span data-i18n-slot=\"0\">Submit the pending order.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Soumettez l’ordre en attente.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t8638e5a93eab8e55",
+      "english": "<span data-i18n-slot=\"0\">Order: Buy Stop at 1.1100</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ordre&nbsp;: achat stop à 1.1100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "teea4040c9c04ef94",
+      "english": "<span data-i18n-slot=\"0\">The trader is not trying to buy a dip. The instruction waits for an upward price trigger.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le trader ne cherche pas à acheter un repli. L’instruction attend un déclenchement lié à une hausse du prix.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "ta1ab9e5f8b7d8bfd",
+      "english": "<span data-i18n-slot=\"0\">Market Order vs Limit Order vs Stop Order Comparison Table</span>",
+      "translation": "<span data-i18n-slot=\"0\">Tableau comparatif des ordres au marché, à cours limité et stop</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t3439a06df650356b",
+      "english": "<span data-i18n-slot=\"0\">Order Type</span>",
+      "translation": "<span data-i18n-slot=\"0\">Type d’ordre</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tc1069c74582cf322",
+      "english": "<span data-i18n-slot=\"0\">Execution Price</span>",
+      "translation": "<span data-i18n-slot=\"0\">Prix d'exécution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tba8db6ce8c917526",
+      "english": "<span data-i18n-slot=\"0\">Best For</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le plus adapté à</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "tf7f5845b3c893d4f",
+      "english": "<span data-i18n-slot=\"0\">Order may remain unfilled</span>",
+      "translation": "<span data-i18n-slot=\"0\">L’ordre peut rester inexécuté</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "td7bea7a48e50b67c",
+      "english": "<span data-i18n-slot=\"0\">Upside breakout-style entry</span>",
+      "translation": "<span data-i18n-slot=\"0\">Entrée de type cassure à la hausse</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tb5b47879d1d104d3",
+      "english": "<span data-i18n-slot=\"0\">Sell Stop</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ordre de vente stop</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t6736d9a5effb84ab",
+      "english": "<span data-i18n-slot=\"0\">Downside breakout-style entry</span>",
+      "translation": "<span data-i18n-slot=\"0\">Entrée de type cassure à la baisse</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t3c3344e851a88eb8",
+      "english": "<span data-i18n-slot=\"0\">Limit price or better after the stop trigger, if filled</span>",
+      "translation": "<span data-i18n-slot=\"0\">Au prix limite ou à un prix plus favorable après le déclenchement du stop, si l’ordre est exécuté</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "td8da0c5dc34f8e63",
+      "english": "<span data-i18n-slot=\"0\">Triggered limit order may remain unfilled</span>",
+      "translation": "<span data-i18n-slot=\"0\">L'ordre limité déclenché peut rester non exécuté</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t80e9900f18b335cf",
+      "english": "<span data-i18n-slot=\"0\">Planned Pullback</span>",
+      "translation": "<span data-i18n-slot=\"0\">Repli prévu</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tf101ea74e62393e8",
+      "english": "<span data-i18n-slot=\"0\">Neither is automatically better. The order should reflect the planned setup.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Aucun des deux n’est automatiquement meilleur. L’ordre doit correspondre à la configuration prévue.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t39f0f60c3213052e",
+      "english": "<span data-i18n-slot=\"0\">Worked Example Same Trade, Three Order Types</span>",
+      "translation": "<span data-i18n-slot=\"0\">Exemple pratique Même transaction, trois types d'ordres</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "ta644bba2f95c2638",
+      "english": "<span data-i18n-slot=\"0\">Trader's Goal</span>",
+      "translation": "<span data-i18n-slot=\"0\">Objectif du trader</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t2c940f4ab3183a4c",
+      "english": "<span data-i18n-slot=\"0\">Order Type Used</span>",
+      "translation": "<span data-i18n-slot=\"0\">Type d’ordre utilisé</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t2c028695ca1c71b1",
+      "english": "<span data-i18n-slot=\"0\">Entry Trigger</span>",
+      "translation": "<span data-i18n-slot=\"0\">Déclencheur d'entrée</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t67a1c52ffdf7d4e3",
+      "english": "<span data-i18n-slot=\"0\">Request goes to market immediately; fill depends on execution conditions</span>",
+      "translation": "<span data-i18n-slot=\"0\">La demande est envoyée immédiatement au marché ; l’exécution dépend des conditions d’exécution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t2d5690b8d4903bc2",
+      "english": "<span data-i18n-slot=\"0\">Wait for a pullback</span>",
+      "translation": "<span data-i18n-slot=\"0\">Attendre un repli</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "tab55a8745b5d2460",
+      "english": "<span data-i18n-slot=\"0\">Enter after upside confirmation</span>",
+      "translation": "<span data-i18n-slot=\"0\">Entrez après confirmation à la hausse</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t814e5936af400ffe",
+      "english": "<span data-i18n-slot=\"0\">Trade size and account exposure still need to be considered separately. The</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Leverage &amp; Margin Explained</span></span><span data-i18n-slot=\"4\"> guide covers those mechanics.</span>",
+      "translation": "<span data-i18n-slot=\"0\">La taille des transactions et l'exposition du compte doivent toujours être considérées séparément. Le guide</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Explication de l'effet de levier et de la marge</span></span><span data-i18n-slot=\"4\"> couvre ces mécanismes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t766f66f0fd768d80",
+      "english": "<span data-i18n-slot=\"0\">Open the New Order window.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ouvrez la fenêtre Nouvel ordre.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t4b8b5964ac33b5e6",
+      "english": "<span data-i18n-slot=\"0\">Limit Order</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ordre limité</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t66e843fdc411333d",
+      "english": "<span data-i18n-slot=\"0\">Select the pending-order option.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Sélectionnez l’option d’ordre en attente.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "te757770fe308788d",
+      "english": "<span data-i18n-slot=\"0\">Review the expiration setting.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Vérifiez le paramètre d'expiration.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t72cc5beda521f9ab",
+      "english": "<span data-i18n-slot=\"0\">Stop Order</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ordre stop</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    },
+    {
+      "key": "t86a1c0edaeea1859",
+      "english": "<span data-i18n-slot=\"0\">Forgetting to review pending-order expiration settings.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Oublier de vérifier les paramètres d’expiration des ordres en attente.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ]
+    }
+  ]
+}

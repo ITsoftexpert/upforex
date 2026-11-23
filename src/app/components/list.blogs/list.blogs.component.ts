@@ -1,14 +1,18 @@
-import { Component } from '@angular/core';
+import { Component, Inject, Optional } from '@angular/core';
 import { WebBlogService } from 'src/app/core/services/web-blog.service';
 import { Store } from 'src/app/Store/store';
+import { RESPONSE } from 'src/app/core/tokens/ssr-request.tokens';
+import { PUBLIC_BLOG_GUIDES } from 'src/app/core/config/public-blog-guides';
 
 @Component({
+  standalone: false,
   selector: 'app-list.blogs',
   templateUrl: './list.blogs.component.html',
   styleUrls: ['./list.blogs.component.scss'],
 })
 export class ListBlogsComponent {
-  constructor(private blogService: WebBlogService, private store: Store) {}
+  constructor(private blogService: WebBlogService, private store: Store,
+    @Optional() @Inject(RESPONSE) private response: { status(code: number): unknown } | null = null) {}
   articles: any[] = [];
   isLoading: boolean = false;
   totalPages = 0;
@@ -64,6 +68,11 @@ export class ListBlogsComponent {
 
   get featuredGuides(): { slug: string; anchor: string }[] {
     const guides = [...this.curatedGuides];
+    const existing = new Set(guides.map(guide => guide.slug));
+    for (const guide of PUBLIC_BLOG_GUIDES) if (!existing.has(guide.slug)) {
+      guides.push(guide);
+      existing.add(guide.slug);
+    }
 
     this.articles.forEach((article) => {
       if (article.permaLink && article.title) {
@@ -105,7 +114,10 @@ export class ListBlogsComponent {
     this.isLoading = true;
     this.blogService
       .getAllBlogs(params)
-      .subscribe((res) => this.processBlogsResponse(res));
+      .subscribe({
+        next: (res) => { if (!res.status) this.response?.status(503); this.processBlogsResponse(res); },
+        error: () => { this.isLoading = false; this.response?.status(503); },
+      });
   }
 
   loadMore() {

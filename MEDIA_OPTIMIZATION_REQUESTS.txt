@@ -1,0 +1,56 @@
+OWNER MEDIA / HOSTING WORK
+Local code improvements are in PERFORMANCE_CHANGES.txt. No paid API or card is needed for those.
+
+1. VIDEOS (highest priority when the video section is viewed)
+https://upforex-assets.s3.eu-north-1.amazonaws.com/assets/videos/smart_trading.mp4
+Current: 6.99 MB. H.264 MP4; keep aspect ratio, muted decorative video; aim for 1-2 MB if labels remain legible
+https://upforex-assets.s3.eu-north-1.amazonaws.com/assets/videos/smart_trading.webm
+Current: 10.96 MB. VP9 WebM; keep aspect ratio; aim for 2-3 MB if labels remain legible
+Keep composition and duration. Use at most 1280px width where readable, preserve aspect ratio, and remove unused audio.
+MP4 should use fast-start metadata. Check chart/text legibility and looping before replacement.
+Videos now load only near the viewport, so they no longer compete with initial hero loading.
+
+2. IMAGES
+43 current remote images exceed 150 KB. Full URL/size/page list: media-optimization-input/media-inventory.csv.
+Blog hero: aim for 1200-1600px width and 100-200 KB WebP/AVIF when readable. Use smaller responsive variants for cards.
+Preserve transparency, logos, captions, charts and aspect ratio; do not crop important information.
+Examples, largest first:
+- 2.68 MB | https://upforex-assets.s3.eu-north-1.amazonaws.com/uploads/image/1744740156440-269843714.jpg
+  Page: https://www.upforex.com/blogs/forex-trading
+- 2.24 MB | https://upforex-assets.s3.eu-north-1.amazonaws.com/uploads/image/1744740188999-202167433.jpg
+  Page: https://www.upforex.com/blogs/trump-tariff
+- 1.12 MB | https://upforex-assets.s3.eu-north-1.amazonaws.com/assets/images/JPG/accounts-one.webp
+  Page: https://www.upforex.com/accounts
+- 0.82 MB | https://upforex-assets.s3.eu-north-1.amazonaws.com/uploads/image/1794388991501-112238117.png
+  Page: https://www.upforex.com/blogs
+- 0.82 MB | https://upforex-assets.s3.eu-north-1.amazonaws.com/uploads/image/1794388991175-39893028.png
+  Page: https://www.upforex.com/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi
+- 0.61 MB | https://upforex-assets.s3.eu-north-1.amazonaws.com/assets/images/JPG/crypto_2_temp.webp
+  Page: https://www.upforex.com/products/cryptocurrencies-cfd
+- 0.60 MB | https://upforex-assets.s3.eu-north-1.amazonaws.com/uploads/image/1775218758162-6205943.png
+  Page: https://www.upforex.com/blogs/what-is-gold-trading-in-uae-complete-beginners-guide
+- 0.55 MB | https://upforex-assets.s3.eu-north-1.amazonaws.com/assets/images/forex_2.webp
+  Page: https://www.upforex.com/products/forex-cfds
+- 0.52 MB | https://upforex-assets.s3.eu-north-1.amazonaws.com/uploads/image/1774433845611-139376567.png
+  Page: https://www.upforex.com/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners
+- 0.50 MB | https://upforex-assets.s3.eu-north-1.amazonaws.com/uploads/image/1774434354433-224890159.png
+  Page: https://www.upforex.com/blogs/upforex-a-trusted-trading-platform-connecting-global-markets
+
+3. WHERE TO PUT FILES
+Put optimized copies in merged-upforex/media-optimization-input/. Keep the original filename recognizable.
+Original files and remote URLs are retained until the replacement is reviewed and integrated.
+These remote images come from S3/CMS. Their production replacement requires owner upload/reference changes.
+
+4. EXISTING HOSTING / TRACKING SETTINGS
+S3 media have no Cache-Control header. Set caching on the owner infrastructure; versioned immutable filenames can use long TTLs.
+Avoid long immutable TTLs on mutable filenames. Preserve private/admin/API cache bypasses.
+Deploy Node SSR with matching browser files and .br/.gz sidecars, not the browser folder alone.
+Preserve Vary: Accept-Encoding and correct Content-Encoding/MIME when using a proxy/CDN.
+Review GTM-58ST2V5D in Tag Manager for duplicate Analytics tags. Both G-B5C306C5Z8 and G-464B5CB56E remain in code.
+Confirm which properties are needed before disabling account-side tags; no analytics property was removed here.
+The inspected live HTML response reported CF-Cache-Status: DYNAMIC. Review public HTML cache eligibility while respecting origin private/no-store and cookie/auth bypasses.
+Cloudflare does not cache HTML/JSON by default: https://developers.cloudflare.com/cache/concepts/default-cache-behavior/
+Origin cache-control guidance: https://developers.cloudflare.com/cache/concepts/cache-control/
+Check actual production mobile PageSpeed and Core Web Vitals after owner deployment.
+
+I have not modified S3 objects, CMS records, Cloudflare settings, Tag Manager, Jenkins or live code.

@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
+  standalone: false,
   selector: 'app-trading-glossary',
   templateUrl: './trading-glossary.component.html',
   styleUrls: ['./trading-glossary.component.scss'],

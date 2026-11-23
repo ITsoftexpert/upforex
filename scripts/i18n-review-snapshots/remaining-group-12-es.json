@@ -1,0 +1,606 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t42845b3099e42738",
+      "english": "forex real account",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#tag",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "cuenta real de divisas"
+    },
+    {
+      "key": "t6b8e3770655aeef8",
+      "english": "FOREX REAL ACCOUNT",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#upperTag",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "CUENTA REAL FOREX"
+    },
+    {
+      "key": "tb270843fceac1749",
+      "english": "ONLINE TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#upperTag",
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#upperTag",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "COMERCIO EN LÍNEA"
+    },
+    {
+      "key": "t70d9fe7de84453c7",
+      "english": "Minimum Amount Required for Forex Trading | Complete Guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#title",
+        "SSR:/blogs",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "Cantidad mínima requerida para operar en Forex | Guía completa"
+    },
+    {
+      "key": "tc49abe4e2b0e94d4",
+      "english": "Learn the minimum amount to start forex trading in 2025. Beginner’s guide on deposits, account types, and safe tips to start trading.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#description",
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#descriptionSnippet",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "Conozca la cantidad mínima para comenzar a operar en Forex en 2025. Guía para principiantes sobre depósitos, tipos de cuentas y consejos seguros para comenzar a operar."
+    },
+    {
+      "key": "ta1c1486cf70b42ba",
+      "english": "forex trading guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#imageAltTag",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "guía de comercio de divisas"
+    },
+    {
+      "key": "tff3458b8ee8c40ec",
+      "english": "How to Get Start Zero Commission Forex Trading With UpForex?",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#title",
+        "SSR:/blogs",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "¿Cómo empezar a operar en Forex sin comisión con UpForex?"
+    },
+    {
+      "key": "ted756ddb5ee0968f",
+      "english": "Zero commission forex trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#imageAltTag",
+        "CMS:blogs/forex-trading-with-instant-withdrawals#tag",
+        "SSR:/blogs/zero-commission-forex-trading",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ],
+      "translation": "Comercio de divisas sin comisión"
+    },
+    {
+      "key": "tb5803c46c6d83ea0",
+      "english": "Zero Spreads Forex Broker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#tag",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "Bróker Forex con diferenciales cero"
+    },
+    {
+      "key": "tfa533c46391bb9a0",
+      "english": "ZERO SPREADS FOREX BROKER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#upperTag",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "BROKER FOREX CERO SPREADS"
+    },
+    {
+      "key": "t50498d958f649c09",
+      "english": "Zero commission trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#tag",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "Comercio sin comisiones"
+    },
+    {
+      "key": "t4a04cd95bb427249",
+      "english": "ZERO COMMISSION TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#upperTag",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "COMERCIO CERO COMISIÓN"
+    },
+    {
+      "key": "t96a6695d7727efc1",
+      "english": "REGULATED FOREX PLATFORM",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#upperTag",
+        "CMS:blogs/forex-broker-with-fund-protection#upperTag",
+        "SSR:/blogs/best-regulated-forex-platform",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "PLATAFORMA FOREX REGULADA"
+    },
+    {
+      "key": "tdbff8e7af0a108c0",
+      "english": "best forex Broker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#tag",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "mejor corredor de divisas"
+    },
+    {
+      "key": "t78909cba455f8bc0",
+      "english": "BEST FOREX BROKER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#upperTag",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "MEJOR CORREDOR DE FOREX"
+    },
+    {
+      "key": "t7c78e925f9e61ee3",
+      "english": "forex trading Legal",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#tag",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "comercio de divisas Legal"
+    },
+    {
+      "key": "t57c82ce5aaad8b23",
+      "english": "FOREX TRADING LEGAL",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#upperTag",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "COMERCIO FOREX LEGAL"
+    },
+    {
+      "key": "tb5e5fbcf4a7391ed",
+      "english": "Is Forex Trading with Instant Withdrawals Really on UpForex?",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#title",
+        "CMS:blogs/forex-trading-with-instant-withdrawals#metaTitle",
+        "SSR:/blogs",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi",
+        "SSR:/blogs/forex-trading-strategy-market-conditions",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-read-a-forex-quote",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading",
+        "SSR:/blogs/forex-correlation-explained",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/what-is-a-forex-currency-pair",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/why-retail-traders-lose-money",
+        "SSR:/blogs/otc-trading-in-uae",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide",
+        "SSR:/blogs/zero-commission-forex-trading",
+        "SSR:/blogs/best-regulated-forex-platform",
+        "SSR:/blogs/forex-broker-with-fund-protection",
+        "SSR:/blogs/forex-trading-in-the-middle-east",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts",
+        "SSR:/blogs/best-forex-trading-platform",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "¿Realmente se opera en Forex con retiros instantáneos en UpForex?"
+    },
+    {
+      "key": "t3a251438cf9301f6",
+      "english": "Forex Trading with Instant Withdrawal",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#tag",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ],
+      "translation": "Comercio de Forex con retiro instantáneo"
+    },
+    {
+      "key": "tc53c6a18901c89d6",
+      "english": "FOREX TRADING WITH INSTANT WITHDRAWAL",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#upperTag",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ],
+      "translation": "COMERCIO FOREX CON RETIRO INSTANTÁNEO"
+    },
+    {
+      "key": "tb69d57fbef075c2f",
+      "english": "ZERO COMMISSION FOREX TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#upperTag",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ],
+      "translation": "COMERCIO FOREX CON COMISIÓN CERO"
+    },
+    {
+      "key": "t1f6ba9324e927104",
+      "english": "As volume starts to pick up (your real-time forex trading platform’s volume indicators or order flow tools can be very handy here), be alert for price approaching your marked support/resistance levels",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#descriptionSnippet",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi",
+        "SSR:/blogs/forex-trading-strategy-market-conditions",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-read-a-forex-quote",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading",
+        "SSR:/blogs/forex-correlation-explained",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/what-is-a-forex-currency-pair",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/why-retail-traders-lose-money",
+        "SSR:/blogs/otc-trading-in-uae",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide",
+        "SSR:/blogs/zero-commission-forex-trading",
+        "SSR:/blogs/best-regulated-forex-platform",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5",
+        "SSR:/blogs/forex-broker-with-fund-protection",
+        "SSR:/blogs/forex-trading-in-the-middle-east",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals",
+        "SSR:/blogs/best-forex-trading-platform",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "A medida que el volumen comienza a aumentar (los indicadores de volumen de su plataforma de operaciones de cambio en tiempo real o las herramientas de flujo de órdenes pueden ser muy útiles aquí), esté alerta si el precio se acerca a sus niveles marcados de soporte/resistencia."
+    },
+    {
+      "key": "tee2daecf6c6f96df",
+      "english": "forex trading platform",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#tag",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ],
+      "translation": "plataforma de comercio de divisas"
+    },
+    {
+      "key": "t0a82668ff064541f",
+      "english": "FOREX TRADING PLATFORM",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#upperTag",
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#upperTag",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "PLATAFORMA DE COMERCIO FOREX"
+    },
+    {
+      "key": "t1d066f84868a4820",
+      "english": "best forex trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#tag",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "mejor comercio de divisas"
+    },
+    {
+      "key": "t24baba440f900a60",
+      "english": "BEST FOREX TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#upperTag",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "MEJOR COMERCIO FOREX"
+    },
+    {
+      "key": "t19fd10d44c5657ac",
+      "english": "best forex trading platforms",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#tag",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "mejores plataformas de comercio de divisas"
+    },
+    {
+      "key": "t2c8a4634aa6730cc",
+      "english": "BEST FOREX TRADING PLATFORMS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#upperTag",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "MEJORES PLATAFORMAS DE COMERCIO FOREX"
+    },
+    {
+      "key": "t0358738306708733",
+      "english": "Why Starting with a Demo Is Key: A Beginner’s Journey on UpForex",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#title",
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#metaTitle",
+        "SSR:/blogs",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi",
+        "SSR:/blogs/forex-trading-strategy-market-conditions",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-read-a-forex-quote",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading",
+        "SSR:/blogs/forex-correlation-explained",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/what-is-a-forex-currency-pair",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/why-retail-traders-lose-money",
+        "SSR:/blogs/otc-trading-in-uae",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide",
+        "SSR:/blogs/zero-commission-forex-trading",
+        "SSR:/blogs/best-regulated-forex-platform",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5",
+        "SSR:/blogs/forex-broker-with-fund-protection",
+        "SSR:/blogs/forex-trading-in-the-middle-east",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts",
+        "SSR:/blogs/best-forex-trading-platform",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Por qué es clave comenzar con una demostración: el viaje de un principiante en UpForex"
+    },
+    {
+      "key": "t17cdfca86186e0cc",
+      "english": "Jumping into real-money trading can feel like diving into the deep end without learning to swim. For forex trading for beginners, a demo account is your life jacket.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#description",
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#descriptionSnippet",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi",
+        "SSR:/blogs/forex-trading-strategy-market-conditions",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-read-a-forex-quote",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading",
+        "SSR:/blogs/forex-correlation-explained",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/what-is-a-forex-currency-pair",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/why-retail-traders-lose-money",
+        "SSR:/blogs/otc-trading-in-uae",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide",
+        "SSR:/blogs/zero-commission-forex-trading",
+        "SSR:/blogs/best-regulated-forex-platform",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5",
+        "SSR:/blogs/forex-broker-with-fund-protection",
+        "SSR:/blogs/forex-trading-in-the-middle-east",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts",
+        "SSR:/blogs/best-forex-trading-platform",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Saltar al comercio con dinero real puede ser como sumergirse en lo más profundo sin aprender a nadar. Para el comercio de divisas para principiantes, una cuenta demo es su chaleco salvavidas."
+    },
+    {
+      "key": "tc08a883064cca6b6",
+      "english": "forex trading for beginners",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#imageAltTag",
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#tag",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "comercio de divisas para principiantes"
+    },
+    {
+      "key": "t69c68f70f2aaf836",
+      "english": "FOREX TRADING FOR BEGINNERS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#upperTag",
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#upperTag",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "COMERCIO FOREX PARA PRINCIPIANTES"
+    },
+    {
+      "key": "t9efd26efc80ffc3f",
+      "english": "Forex trading platform",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#tag",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "plataforma de comercio de divisas"
+    },
+    {
+      "key": "t99b01c50a6303816",
+      "english": "Forex Trading for Beginners",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#imageAltTag",
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#tag",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Comercio de divisas para principiantes"
+    },
+    {
+      "key": "t4af395354c32adcb",
+      "english": "How To Start Forex Trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#tag",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "Cómo empezar a operar en Forex"
+    },
+    {
+      "key": "t1598981517e0f92b",
+      "english": "HOW TO START FOREX TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#upperTag",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "CÓMO EMPEZAR A OPERAR EN FOREX"
+    },
+    {
+      "key": "tdda6d61b5bb9556b",
+      "english": "Forex Trading Alt Tag",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading#videoAltTag"
+      ],
+      "translation": "Etiqueta alternativa de operaciones de cambio"
+    },
+    {
+      "key": "tb2d739e57c87cf33",
+      "english": "TEST",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading#upperTag",
+        "SSR:/blogs/forex-trading"
+      ],
+      "translation": "PRUEBA"
+    },
+    {
+      "key": "t9a2253170d8afa0b",
+      "english": "Trump",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trump-tarrif#tag",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "Trump"
+    },
+    {
+      "key": "t9fa384170d7b1b0b",
+      "english": "TRUMP",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trump-tarrif#upperTag",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "TRUMP"
+    },
+    {
+      "key": "tf1e831f7bfa185eb",
+      "english": "Tariff",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trump-tarrif#tag",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "Arancel"
+    },
+    {
+      "key": "t4b7749f77c801335",
+      "english": "BEER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trump-tarrif#upperTag",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "CERVEZA"
+    },
+    {
+      "key": "t3dc2d53b0c875ecf",
+      "english": "BLEED",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trump-tarrif#upperTag",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "SANGRAR"
+    }
+  ]
+}

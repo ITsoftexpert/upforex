@@ -1,0 +1,595 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t95a43e0a723369f4",
+      "english": "<span data-i18n-slot=\"0\">Often wider than top USD majors</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多くの場合、トップのUSDメジャーよりも幅広い</span>"
+    },
+    {
+      "key": "tdb828a1e7c811f7c",
+      "english": "<span data-i18n-slot=\"0\">Moderate</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">中等度</span>"
+    },
+    {
+      "key": "t2028d2a0fe1e1900",
+      "english": "<span data-i18n-slot=\"0\">Medium</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">中</span>"
+    },
+    {
+      "key": "tcd7bf6ed61af843f",
+      "english": "<span data-i18n-slot=\"0\">Typically wider</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常は幅が広い</span>"
+    },
+    {
+      "key": "t7715a5ef6392d707",
+      "english": "<span data-i18n-slot=\"0\">Typically wider and more variable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常は幅が広く、より変化しやすい</span>"
+    },
+    {
+      "key": "ta40f46c749235e99",
+      "english": "<span data-i18n-slot=\"0\">Other USD- and European-currency pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">その他の米ドルおよび欧州通貨ペア</span>"
+    },
+    {
+      "key": "t00701525d4809ff7",
+      "english": "<span data-i18n-slot=\"0\">This illustrates an important point: liquidity is partly pair-specific.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これは重要な点を示しています。流動性は部分的にペア固有であるということです。</span>"
+    },
+    {
+      "key": "t278e94a91e527861",
+      "english": "<span data-i18n-slot=\"0\">Lower-Activity Windows</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">活動性の低いウィンドウ</span>"
+    },
+    {
+      "key": "tcd71ccf826b18542",
+      "english": "<span data-i18n-slot=\"0\">Liquidity can become thinner:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流動性が薄くなる可能性があります。</span>"
+    },
+    {
+      "key": "t147eaf406d9ae7f8",
+      "english": "<span data-i18n-slot=\"0\">Late in a trading day</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引日の後半</span>"
+    },
+    {
+      "key": "t11ae509cc1970f9c",
+      "english": "<span data-i18n-slot=\"0\">When participation falls significantly</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">参加者が著しく減少した場合</span>"
+    },
+    {
+      "key": "ta947a250d11e6ac6",
+      "english": "<span data-i18n-slot=\"0\">Lower participation can lead to wider spreads and greater sensitivity to individual orders.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">参加者の減少によりスプレッドが拡大し、個々の注文に対する感度が高まる可能性があります。</span>"
+    },
+    {
+      "key": "t1662a8e61a3845dc",
+      "english": "<span data-i18n-slot=\"0\">As a result, a normally liquid pair can temporarily experience:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">その結果、通常は流動的な通貨ペアは一時的に次のような状況に陥る可能性があります。</span>"
+    },
+    {
+      "key": "t5fbb9e842b13f062",
+      "english": "<span data-i18n-slot=\"0\">Fast repricing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">素早い価格再設定</span>"
+    },
+    {
+      "key": "t187772127f73f69c",
+      "english": "<span data-i18n-slot=\"0\">More variable execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定状況のばらつきの増加</span>"
+    },
+    {
+      "key": "tfd87452199d4236d",
+      "english": "<span data-i18n-slot=\"0\">Trading Condition</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引条件</span>"
+    },
+    {
+      "key": "t3e557a0d1441d069",
+      "english": "<span data-i18n-slot=\"0\">Higher-Liquidity Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流動性の高い例</span>"
+    },
+    {
+      "key": "t4d130a4336e91753",
+      "english": "<span data-i18n-slot=\"0\">Lower-Liquidity Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流動性が低い例</span>"
+    },
+    {
+      "key": "tdaf4492135defef7",
+      "english": "<span data-i18n-slot=\"0\">Thinly traded exotic pair</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引が薄いエキゾチックペア</span>"
+    },
+    {
+      "key": "t295ed2dab412e6cc",
+      "english": "<span data-i18n-slot=\"0\">Low-activity period</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">低活動期間</span>"
+    },
+    {
+      "key": "tbe78530c2d18bd70",
+      "english": "<span data-i18n-slot=\"0\">Typically thinner</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常は薄い</span>"
+    },
+    {
+      "key": "t6ae7dc0808150960",
+      "english": "<span data-i18n-slot=\"0\">Spread behavior</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッド動作</span>"
+    },
+    {
+      "key": "t081f4ae92e70b51b",
+      "english": "<span data-i18n-slot=\"0\">Often relatively tighter</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">比較的タイトな場合が多い</span>"
+    },
+    {
+      "key": "t569d3a0558798547",
+      "english": "<span data-i18n-slot=\"0\">Often relatively wider</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">比較的広い場合が多い</span>"
+    },
+    {
+      "key": "tfe32cc2d2cffc4ab",
+      "english": "<span data-i18n-slot=\"0\">Slippage risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページリスク</span>"
+    },
+    {
+      "key": "t70c2676e7d332fee",
+      "english": "<span data-i18n-slot=\"0\">Large-order sensitivity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">大口注文に対する感応度</span>"
+    },
+    {
+      "key": "te305093d925ba323",
+      "english": "<span data-i18n-slot=\"0\">This is why judging execution conditions only by the currency pair name is incomplete. Pair, session, volatility and order size provide a more useful picture.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">このため、通貨ペア名だけで約定条件を判断するのは不完全です。ペア、セッション、ボラティリティ、注文サイズにより、より有用な情報が得られます。</span>"
+    },
+    {
+      "key": "tc1049ef552a875bb",
+      "english": "<span data-i18n-slot=\"0\">High Liquidity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">高い流動性</span>"
+    },
+    {
+      "key": "tf2cbecefc158a9c1",
+      "english": "<span data-i18n-slot=\"0\">Low Liquidity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流動性が低い</span>"
+    },
+    {
+      "key": "t2390ad42814bc5ee",
+      "english": "<span data-i18n-slot=\"0\">Thinner available pricing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">利用可能な気配値の厚みが小さい</span>"
+    },
+    {
+      "key": "tbc0360f0e5347fb8",
+      "english": "<span data-i18n-slot=\"0\">Spreads often tighter</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッドが狭くなることが多い</span>"
+    },
+    {
+      "key": "tff13ea24c3888c64",
+      "english": "<span data-i18n-slot=\"0\">Spreads often wider</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッドが広くなることが多い</span>"
+    },
+    {
+      "key": "t986075ca9c4acac0",
+      "english": "<span data-i18n-slot=\"0\">Larger orders may be easier to absorb</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">大量の注文は吸収しやすい可能性があります</span>"
+    },
+    {
+      "key": "t107561449309f836",
+      "english": "<span data-i18n-slot=\"0\">This is incorrect.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これは間違いです。</span>"
+    },
+    {
+      "key": "tfb68ee60043c77a6",
+      "english": "<span data-i18n-slot=\"0\">It does not.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">そうではありません。</span>"
+    },
+    {
+      "key": "t420d830d18217dd1",
+      "english": "<span data-i18n-slot=\"0\">The published account conditions are:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">公表されている口座条件は次のとおりです。</span>"
+    },
+    {
+      "key": "tf58ec93281736094",
+      "english": "<span data-i18n-slot=\"0\">Published Spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">公開されたスプレッド</span>"
+    },
+    {
+      "key": "t8bc167545356b75a",
+      "english": "<span data-i18n-slot=\"0\">Minimum trade size of 0.01 lots</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最小取引サイズは0.01ロット</span>"
+    },
+    {
+      "key": "t185d01aaf9ac2ff0",
+      "english": "<span data-i18n-slot=\"0\">Leverage up to 1:300</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最大1:300のレバレッジ</span>"
+    },
+    {
+      "key": "tce2771c187ead2f5",
+      "english": "<span data-i18n-slot=\"0\">The quoted spreads are starting levels rather than a promise that the minimum spread will be available on every order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">見積もられたスプレッドは開始レベルであり、すべての注文で最小スプレッドが利用可能であることを約束するものではありません。</span>"
+    },
+    {
+      "key": "t1b08adcc6174c416",
+      "english": "<span data-i18n-slot=\"0\">Liquidity in forex describes how easily a currency pair can be bought or sold using available market prices without a relatively small transaction causing a material price movement. Higher liquidity normally means more buying and selling interest is available near the current price, while lower liquidity means market depth is thinner.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替の流動性は、比較的小さな取引が大きな価格変動を引き起こすことなく、利用可能な市場価格で通貨ペアをどれほど容易に売買できるかを表します。通常、流動性が高いほど現在の価格付近に売買意欲が多く集まり、流動性が低いほど市場の厚みは小さくなります。</span>"
+    },
+    {
+      "key": "tc0f3ef63e3c97291",
+      "english": "<span data-i18n-slot=\"0\">High liquidity means substantial trading interest and market depth are available around current prices. Highly liquid forex pairs generally support tighter spreads and more consistent execution under normal conditions, although liquidity can still change during major news, session transitions or unusual market events.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流動性が高いということは、現在の価格付近で大きな取引関心と市場の厚みが得られることを意味します。流動性の高い外国為替ペアは通常、通常の状況下でより狭いスプレッドとより一貫した約定をサポートしますが、主要なニュース、セッションの移行、または異常な市場イベントの際には流動性が依然として変化する可能性があります。</span>"
+    },
+    {
+      "key": "tf7821ba9d6ccf8c3",
+      "english": "<span data-i18n-slot=\"0\">Build a Clearer View of Trading Conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引条件をより明確に把握する</span>"
+    },
+    {
+      "key": "ta05b932d1f6f3b0d",
+      "english": "<span data-i18n-slot=\"0\">Understanding forex liquidity helps explain why spreads, slippage and execution can change from one market period to another. Instead of looking only at the currency pair, consider the trading session, current volatility, order size and available market activity together.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替の流動性を理解することは、スプレッド、スリッページ、約定が市場期間ごとに変化する理由を説明するのに役立ちます。通貨ペアだけを見るのではなく、取引セッション、現在のボラティリティ、注文サイズ、利用可能な市場活動を合わせて考慮してください。</span>"
+    },
+    {
+      "key": "tbdf08618c66449b2",
+      "english": "<span data-i18n-slot=\"0\">Slippage happens when a forex or CFD order executes at a different price from the price a trader expected when placing the order. The difference can be favorable, unfavorable, or sometimes nonexistent if the expected and execution prices match.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページは、外国為替やCFDの注文が、トレーダーが発注時に予想した価格と異なる価格で約定した場合に生じます。差は有利な場合も不利な場合もあり、予想価格と約定価格が一致すれば差が生じないこともあります。</span>"
+    },
+    {
+      "key": "t2ea3a0b41a0dee46",
+      "english": "<span data-i18n-slot=\"0\">Understanding </span><span data-i18n-slot=\"1\">what is slippage in forex trading</span><span data-i18n-slot=\"2\"> becomes especially important during fast-moving markets, economic announcements, periods of lower liquidity, and situations where available prices change quickly. Traders using MetaTrader 5 (MT5), including those accessing</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">forex trading in Abu Dhabi</span></span><span data-i18n-slot=\"6\">, can encounter the same underlying execution effect.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替取引におけるスリッページとは</span><span data-i18n-slot=\"1\">を理解する</span><span data-i18n-slot=\"2\">は、市場の動きの速い時、経済発表、流動性の低下時、利用可能な価格が急速に変化する状況では特に重要になります。 MetaTrader 5 (MT5) を使用するトレーダー (</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">アブダビの外国為替取引</span></span><span data-i18n-slot=\"6\">にアクセスするトレーダーを含む) は、同じ根本的な約定効果に遭遇する可能性があります。</span>"
+    },
+    {
+      "key": "t90eb558ea7c18292",
+      "english": "<span data-i18n-slot=\"0\">Slippage is the difference between the price expected when an order is submitted and the price at which the trade actually executes. It commonly occurs when prices change quickly, or liquidity is limited. A better execution price creates positive slippage, while a less favorable execution price creates negative slippage.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページとは、注文が送信されたときに予想される価格と、実際に取引が実行される価格との差です。これは一般に、価格が急速に変化する場合、または流動性が制限されている場合に発生します。より良い約定価格はプラスのスリッページを作成し、あまり有利でない約定価格はマイナスのスリッページを作成します。</span>"
+    },
+    {
+      "key": "tec0ed2ec554b8ec0",
+      "english": "<span data-i18n-slot=\"0\">Slippage in trading is the difference between the price a trader expects to receive and the price at which an order actually executes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引におけるスリッページは、トレーダーが受け取ることを期待する価格と注文が実際に約定する価格の差です。</span>"
+    },
+    {
+      "key": "t3e1c851b2b78fb75",
+      "english": "<span data-i18n-slot=\"0\">For example, suppose a trader submits a buy order while EUR/USD is available around 1.1050. If the order ultimately executes at 1.1053, the trader has received a price 3 pips higher than expected.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">たとえば、EUR/USD が 1.1050 付近で利用可能なときにトレーダーが買い注文を送信したとします。注文が最終的に 1.1053 で約定した場合、トレーダーは予想より 3 ピップス高い価格を受け取りました。</span>"
+    },
+    {
+      "key": "t4417c61d3c67f65f",
+      "english": "<span data-i18n-slot=\"0\">For a buyer, this represents </span><span data-i18n-slot=\"1\">negative slippage</span><span data-i18n-slot=\"2\"> because the trade was opened at a less favorable price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">買い手にとって、これは</span><span data-i18n-slot=\"1\">不利なスリッページ</span><span data-i18n-slot=\"2\">を意味します。これは、取引が不利な価格で開始されたためです。</span>"
+    },
+    {
+      "key": "tc7e03f17520fbdff",
+      "english": "<span data-i18n-slot=\"0\">If the same buy order instead executes at 1.1047, the fill is 3 pips lower than expected. That would represent </span><span data-i18n-slot=\"1\">positive slippage</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">同じ買い注文が 1.1047 で約定した場合、約定は予想より 3 ピップ低くなります。これは</span><span data-i18n-slot=\"1\">プラスのスリッページ</span><span data-i18n-slot=\"2\">を表します。</span>"
+    },
+    {
+      "key": "t9f593ebb156eb89f",
+      "english": "<span data-i18n-slot=\"0\">The meaning of slippage therefore depends not only on the price difference but also on whether the trader is buying or selling.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">したがって、スリッページの意味は、価格差だけでなく、トレーダーが買いか売りかによっても異なります。</span>"
+    },
+    {
+      "key": "tce09c6259db4a5ed",
+      "english": "<span data-i18n-slot=\"0\">Is Slippage the Same as Spread?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スリッページはスプレッドと同じですか?</span>"
+    },
+    {
+      "key": "t6a422700790d0774",
+      "english": "<span data-i18n-slot=\"0\">No. Spread and slippage describe different parts of trading costs and execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">いいえ、スプレッドとスリッページは、取引コストと約定のさまざまな部分を表します。</span>"
+    },
+    {
+      "key": "t1c043daa8d9aabd8",
+      "english": "<span data-i18n-slot=\"0\">The </span><span data-i18n-slot=\"1\">spread</span><span data-i18n-slot=\"2\"> is the difference between an instrument's bid and ask prices at a particular moment.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">スプレッド</span><span data-i18n-slot=\"2\">は、特定の時点における商品の買値と売値の差です。</span>"
+    },
+    {
+      "key": "t7a95f4d88c96639a",
+      "english": "<span data-i18n-slot=\"0\">Meaning</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">意味</span>"
+    },
+    {
+      "key": "td4b66008b527ff40",
+      "english": "<span data-i18n-slot=\"0\">Difference between the current bid and ask price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">現在の買値と売値の差</span>"
+    },
+    {
+      "key": "t3dc7573a618162a4",
+      "english": "<span data-i18n-slot=\"0\">Difference between expected and actual execution price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">予想約定価格と実際の約定価格の差</span>"
+    }
+  ]
+}

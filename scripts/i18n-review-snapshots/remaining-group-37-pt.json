@@ -1,0 +1,467 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tbceda40c1b764d70",
+      "english": "<span data-i18n-slot=\"0\">Yes, beginners can take part via trading on regulated platforms. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sim, iniciantes podem participar de negociações em plataformas reguladas. </span>"
+    },
+    {
+      "key": "t6560fc381c1417aa",
+      "english": "<span data-i18n-slot=\"0\">Q2. Do I need a lot of money to start forex trading in Dubai?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q2. Preciso de muito dinheiro para começar a negociar forex em Dubai?</span>"
+    },
+    {
+      "key": "t860875f70af7ca55",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Real-Time Market Pricing</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Preços de mercado em tempo real</span></span>"
+    },
+    {
+      "key": "t5905be619b3056b7",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Multi-Asset Trading in One Place</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Negociação de múltiplos ativos em um só lugar</span></span>"
+    },
+    {
+      "key": "tcac0f41091690ffe",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. </span><span data-i18n-slot=\"2\">Advanced Trading Infrastructure</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. </span><span data-i18n-slot=\"2\">Infraestrutura de Comércio Avançada</span></span>"
+    },
+    {
+      "key": "tfeb034544de8be1e",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Precious Metals</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Metais preciosos</span></span>"
+    },
+    {
+      "key": "t040b68257b3bd12d",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. CFD Stocks</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. CFDs de ações</span></span>"
+    },
+    {
+      "key": "tab3712f320e7be6d",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">7. Energy CFDs</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">7. CFDs de energia</span></span>"
+    },
+    {
+      "key": "t976a027a8af1d3c4",
+      "english": "<span data-i18n-slot=\"0\">Trade major and minor currency pairs with ease, giving you global market exposure. You can also explore commodities like oil through </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Forex Oil Trading</span></span><span data-i18n-slot=\"3\">, keeping track of energy market movements influenced by supply and demand.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negocie pares de moedas principais e secundários com facilidade, obtendo exposição ao mercado global. Você também pode explorar commodities como o petróleo por meio da </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">negociação de petróleo no forex</span></span><span data-i18n-slot=\"3\">, acompanhando os movimentos do mercado de energia influenciados pela oferta e pela demanda.</span>"
+    },
+    {
+      "key": "tabf5d90a2496c440",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Informational FAQs</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Perguntas frequentes informativas</span></span>"
+    },
+    {
+      "key": "td7b5710ff45e4c5f",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q1: What makes Upforex one of the trusted forex brokers UAE?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q1: O que torna a Upforex uma das corretoras de forex de confiança nos EAU?</span></span>"
+    },
+    {
+      "key": "t1264121f9b97f91b",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q2: Can I trade multiple asset classes on Upforex?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q2: Posso negociar várias classes de ativos na Upforex?</span></span>"
+    },
+    {
+      "key": "t840df91a81cb9b6e",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q3: Does Upforex provide MT5 trading in the UAE?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q3: A Upforex oferece negociação no MT5 nos EAU?</span></span>"
+    },
+    {
+      "key": "tea07dcc8f0e6582c",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q4: Is there a dedicated tool section to assist trading?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q4: Existe uma seção de ferramentas dedicada a auxiliar a negociação?</span></span>"
+    },
+    {
+      "key": "te422ee820f8be540",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q6: Can I trade cryptocurrencies on the platform?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q6: Posso negociar criptomoedas na plataforma?</span></span>"
+    },
+    {
+      "key": "t1d29dbbf8f6787cd",
+      "english": "<span data-i18n-slot=\"0\">Rather than focusing on ownership, CFD-based trading emphasizes market participation. This structure aligns well with the fast-paced nature of Bitcoin markets, where global price activity remains continuous and highly liquid.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Em vez de focar na propriedade, a negociação por CFDs enfatiza a participação no mercado. Essa estrutura se ajusta ao ritmo acelerado dos mercados de Bitcoin, cuja atividade global de preços permanece contínua e altamente líquida.</span>"
+    },
+    {
+      "key": "t456f48a688f0033e",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Platform Performance and Trading Environment</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Desempenho da Plataforma e Ambiente de Negociação</span></span>"
+    },
+    {
+      "key": "t27c459a48d6b14c8",
+      "english": "<span data-i18n-slot=\"0\">User-friendly interfaces help traders focus on market behavior rather than platform limitations, improving decision-making speed and execution accuracy.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Interfaces fáceis de usar ajudam os traders a se concentrar no comportamento do mercado, em vez das limitações da plataforma, melhorando a velocidade das decisões e a precisão da execução.</span>"
+    },
+    {
+      "key": "t7c35916ec7ca1078",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">FAQ’s</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Perguntas frequentes.</span></span>"
+    },
+    {
+      "key": "t50a9533f53075333",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q3: What is the difference between Bitcoin CFD and buying Bitcoin?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q3: Qual é a diferença entre um CFD de Bitcoin e comprar Bitcoin?</span></span>"
+    },
+    {
+      "key": "t95c481a04a8297b2",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q4: Can traders profit from falling Bitcoin prices with CFDs?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q4: Os traders podem lucrar com a queda do preço do Bitcoin usando CFDs?</span></span>"
+    },
+    {
+      "key": "t09ec07abe7ba5607",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q5: Is Bitcoin CFD trading available alongside other assets?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q5: A negociação de CFDs de Bitcoin está disponível junto com outros ativos?</span></span>"
+    },
+    {
+      "key": "tc0e16d4d5cc9114f",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q6: What factors influence Bitcoin CFD price movements?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q6: Que fatores influenciam os movimentos de preço dos CFDs de Bitcoin?</span></span>"
+    },
+    {
+      "key": "t0610f98d898f21cf",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q7: Are Bitcoin CFDs suitable for short-term trading?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q7: Os CFDs de Bitcoin são adequados para negociações de curto prazo?</span></span>"
+    },
+    {
+      "key": "t2c7e627aa59e4984",
+      "english": "<span data-i18n-slot=\"0\">You can often trade stocks, forex and gold on one platform.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Você pode trocar ações, forex e ouro em uma plataforma.</span>"
+    },
+    {
+      "key": "tdc2d4680f5eebfca",
+      "english": "Share prices move for many reasons:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "Os preços das ações mudam por muitas razões:"
+    },
+    {
+      "key": "t7a64ad4b83426509",
+      "english": "Company earnings",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "Ganhos da empresa"
+    },
+    {
+      "key": "t64673e65bda294dd",
+      "english": "Clean, simple screens",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "Telas limpas e simples."
+    },
+    {
+      "key": "t89ddcd8efd680dc2",
+      "english": "Charts that respond fast",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "Gráficos que respondem rápido"
+    },
+    {
+      "key": "t865645bf1f493511",
+      "english": "This helps you see how a stock reacts to the news.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "Isso ajuda a ver como uma ação reage às notícias."
+    },
+    {
+      "key": "t5a4900a07d53ef54",
+      "english": "Clear Pricing",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "Preços claros"
+    },
+    {
+      "key": "t7a50622ba81d506f",
+      "english": "How Liquidity Affects Stock CFDs",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "Como a liquidez afeta os CFDs de ações"
+    },
+    {
+      "key": "t316ffd41b15bef13",
+      "english": "Earnings reports",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "Relatórios de ganhos"
+    },
+    {
+      "key": "tb77d8daca2a6a3de",
+      "english": "New to stock CFDs? Try a free UpForex demo account first. You can practice before you trade with real money.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "Está começando nos CFDs de ações? Experimente primeiro uma conta demo gratuita da UpForex. Você pode praticar antes de negociar com dinheiro real."
+    },
+    {
+      "key": "t0801e846c42a55b0",
+      "english": "<span data-i18n-slot=\"0\">Q4. Can I trade other assets on the same platform?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q4. Posso trocar outros bens na mesma plataforma?</span>"
+    },
+    {
+      "key": "tc895dbe1f68a5771",
+      "english": "<span data-i18n-slot=\"0\">Q6. Why is the UAE a good base for stock CFD trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q6. Por que o EAU é uma boa base para ações de CFD?</span>"
+    },
+    {
+      "key": "t0fca640d29aedbb5",
+      "english": "Leverage can boost profits and losses. You can lose more than you put in.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "A alavancagem pode ampliar lucros e perdas. Você pode perder mais do que investiu."
+    },
+    {
+      "key": "tff39b4ee32b98aca",
+      "english": "Look for live charts, efficient order execution, strong security and learning tools.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "Procure gráficos ao vivo, execução eficiente, segurança forte e ferramentas de aprendizagem."
+    },
+    {
+      "key": "t875602adf55fa6af",
+      "english": "Practice on a demo account before you trade for real.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "Pratique em uma conta demo antes de trocar de verdade."
+    },
+    {
+      "key": "t5e73c0c51bbce501",
+      "english": "What Is Leverage?",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "O que é alavancagem?"
+    },
+    {
+      "key": "tbd8f8b4d63923e05",
+      "english": "Industrial demand",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "Demanda industrial"
+    },
+    {
+      "key": "tf81209c4a47133c0",
+      "english": "Currency moves",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "Movimentos das moedas"
+    },
+    {
+      "key": "t155d5da67a5f665c",
+      "english": "<span data-i18n-slot=\"0\">Take-profit orders</span> close a trade at a price you set, to lock in a gain.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ordens de realização de lucro</span> fecham uma operação no preço que você define para assegurar um ganho."
+    },
+    {
+      "key": "tb31e3dd4a5e6225a",
+      "english": "Choose a Trusted Trading Environment",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "Escolha um ambiente de negociação confiável"
+    },
+    {
+      "key": "t154021d1727e3b41",
+      "english": "Often, yes. Leverage lets you increase your market exposure. It can boost both profits and losses. You may lose more than your initial investment.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "Muitas vezes, sim. A alavancagem permite aumentar sua exposição ao mercado. Ela pode ampliar tanto os lucros quanto as perdas. Você pode perder mais do que o investimento inicial."
+    },
+    {
+      "key": "t4884f347c9ba9767",
+      "english": "Common tools include stop-loss orders, position sizing and diversification. Use them to keep your risk under control.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "Ferramentas comuns incluem ordens de stop-loss, dimensionamento de posições e diversificação. Use-as para manter o risco sob controle."
+    }
+  ]
+}

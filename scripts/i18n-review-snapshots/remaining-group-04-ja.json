@@ -1,0 +1,460 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t605b9d9a16be59d6",
+      "english": "<span data-i18n-slot=\"0\">Spreads between buying and selling prices.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">買値と売値のスプレッド。</span>"
+    },
+    {
+      "key": "t03d93d544370292e",
+      "english": "<span data-i18n-slot=\"0\">Trading commissions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引手数料。</span>"
+    },
+    {
+      "key": "t2158546725d9808d",
+      "english": "<span data-i18n-slot=\"0\">Overnight financing or swap charges.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オーバーナイト融資またはスワップ手数料。</span>"
+    },
+    {
+      "key": "tf4b2a23df5472efd",
+      "english": "<span data-i18n-slot=\"0\">Other account-related charges.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">その他のアカウント関連の料金。</span>"
+    },
+    {
+      "key": "tf1b60b8760918f01",
+      "english": "<span data-i18n-slot=\"0\">How Can Traders Manage Leverage-Related Risks?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーはレバレッジ関連のリスクをどのように管理できますか?</span>"
+    },
+    {
+      "key": "t6db0e3afe0d0752b",
+      "english": "<span data-i18n-slot=\"0\">Leverage cannot remove market uncertainty, but traders can take practical steps to manage their exposure. Risk management should be part of the trading plan before any position is opened.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジを利用しても市場の不確実性を取り除くことはできませんが、トレーダーはエクスポージャーを管理するための実践的な措置を講じることはできます。ポジションをオープンする前に、リスク管理を取引計画の一部として含める必要があります。</span>"
+    },
+    {
+      "key": "tdaea25ca877c0256",
+      "english": "<span data-i18n-slot=\"0\">Every trader has different financial circumstances and experience levels. Before trading, consider how much money you can afford to lose without affecting your essential expenses or financial responsibilities.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーごとに財務状況や経験レベルが異なります。取引する前に、必要不可欠な出費や経済的責任に影響を与えずに、どのくらいの金額を失っても許容できるかを検討してください。</span>"
+    },
+    {
+      "key": "t803e665539c09c9b",
+      "english": "<span data-i18n-slot=\"0\">5. Monitor Open Positions Regularly</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5. オープンポジションを定期的に監視する</span>"
+    },
+    {
+      "key": "t204b286880bc5550",
+      "english": "<span data-i18n-slot=\"0\">Market conditions can change quickly. Traders should monitor account equity, available margin, and open positions to understand their current exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市場環境は急速に変化することがあります。トレーダーは現在のエクスポージャーを把握するため、口座の有効証拠金、利用可能な証拠金、保有ポジションを確認する必要があります。</span>"
+    },
+    {
+      "key": "t367ece70fdb7479a",
+      "english": "<span data-i18n-slot=\"0\">Review available leverage:</span><span data-i18n-slot=\"1\"> Different instruments and client categories may have different leverage limits. Do not assume that the same ratio applies to every currency pair or account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">利用可能なレバレッジを確認する:</span><span data-i18n-slot=\"1\"> 金融商品や顧客カテゴリが異なると、レバレッジ制限が異なる場合があります。すべての通貨ペアまたは口座に同じ比率が適用されると想定しないでください。</span>"
+    },
+    {
+      "key": "t1b70b55c3f75f10a",
+      "english": "<span data-i18n-slot=\"0\">Always verify the actual legal entity and the scope of its authorisation rather than relying only on a brand name or marketing statement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ブランド名やマーケティングステートメントだけに頼るのではなく、必ず実際の法人とその認可の範囲を確認してください。</span>"
+    },
+    {
+      "key": "ta94d146c9dbcaa78",
+      "english": "<span data-i18n-slot=\"0\">Learning about leverage is not just about understanding how much money is required to open a position. It is also about recognising how market exposure affects financial decisions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジについて学ぶことは、ポジションをオープンするために必要な資金を理解することだけではありません。それはまた、市場エクスポージャーが財務上の決定にどのような影響を与えるかを認識することでもあります。</span>"
+    },
+    {
+      "key": "t23a27b907674dc80",
+      "english": "<span data-i18n-slot=\"0\">A trader who understands leverage can better evaluate position sizes, calculate margin requirements, and recognise when market exposure becomes excessive.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジを理解しているトレーダーは、ポジションサイズをより適切に評価し、証拠金要件を計算し、市場エクスポージャーが過剰になる時期を認識することができます。</span>"
+    },
+    {
+      "key": "t6e92275360fe0b93",
+      "english": "<span data-i18n-slot=\"0\">For example, two traders may have the same account balance but use very different position sizes. The trader taking a smaller position may have more room to manage unfavourable market movements, while the trader using excessive leverage may face much greater pressure from even minor price changes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">たとえば、二 人のトレーダーが同じ口座残高を持っていても、非常に異なるポジション サイズを使用する場合があります。より小さなポジションをとるトレーダーは、不利な市場の動きに対処する余地がより大きいかもしれませんが、過剰なレバレッジを使用しているトレーダーは、わずかな価格変動であっても、より大きなプレッシャーに直面する可能性があります。</span>"
+    },
+    {
+      "key": "te195c75979654703",
+      "english": "<span data-i18n-slot=\"0\">Frequently Asked Questions About Leverage in Forex Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替取引のレバレッジに関するよくある質問</span>"
+    },
+    {
+      "key": "t089553458848fdf9",
+      "english": "<span data-i18n-slot=\"0\">A leverage ratio of 1:100 means that a trader can control a position worth $100 for every $1 of required margin. For example, a $10,000 position would require $100 in margin, assuming the full position is subject to that ratio.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジ比率 1:100 は、トレーダーが必要証拠金 1 ドルごとに 100 ドル相当のポジションをコントロールできることを意味します。たとえば、ポジション全体がその比率の影響を受けると仮定すると、10,000 ドルのポジションには 100 ドルの証拠金が必要になります。</span>"
+    },
+    {
+      "key": "t71791437e80056c9",
+      "english": "<span data-i18n-slot=\"0\">Not necessarily. Higher leverage allows traders to access larger positions with less initial margin, but it also increases potential losses relative to their deposited capital. The appropriate level depends on financial circumstances, experience, and risk tolerance.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">必ずしもそうとは限りません。レバレッジが高くなると、トレーダーは少ない初期証拠金でより大きなポジションにアクセスできるようになりますが、預けた資本に比べて潜在的な損失も増加します。適切なレベルは、財務状況、経験、リスク許容度によって異なります。</span>"
+    },
+    {
+      "key": "t598efccf06a2d2c1",
+      "english": "<span data-i18n-slot=\"0\">Beginners can access leveraged trading where permitted and subject to account eligibility. However, they should first understand margin, position sizing, and potential losses. Practising with a demo account can help build familiarity before considering live trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初心者は、アカウントの適格性を条件として、許可されている場合にレバレッジ取引にアクセスできます。ただし、最初にマージン、ポジションサイジング、潜在的な損失について理解する必要があります。デモ口座で練習することは、ライブ取引を検討する前に慣れを築くのに役立ちます。</span>"
+    },
+    {
+      "key": "te4a27035117b7725",
+      "english": "<span data-i18n-slot=\"0\">A margin call may occur when account equity falls below a provider's required margin threshold. Depending on the provider's policies, traders may need to reduce exposure or add funds. Open positions may also be closed automatically.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座の有効証拠金が提供会社の必要証拠金の基準を下回ると、マージンコールが発生することがあります。提供会社の方針によっては、エクスポージャーを減らすか、資金を追加する必要があります。保有ポジションが自動的に決済される場合もあります。</span>"
+    },
+    {
+      "key": "t406b6113e6fbc047",
+      "english": "<span data-i18n-slot=\"0\">Leverage determines how large a position can be relative to the required capital. Margin is the amount of money required to open and maintain that position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジは、必要な資本に対してポジションがどの程度大きくなるかを決定します。証拠金とは、そのポジションをオープンして維持するために必要な金額です。</span>"
+    },
+    {
+      "key": "te2ca52739a86e32f",
+      "english": "<span data-i18n-slot=\"0\">7. Can traders lose more than their initial deposit?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">7. トレーダーは最初の入金額以上の損失を被ることはありますか?</span>"
+    },
+    {
+      "key": "t0115e94c64783edc",
+      "english": "<span data-i18n-slot=\"0\">Leverage is an important concept in currency trading because it allows traders to access larger market positions with a smaller amount of initial margin. However, it also increases financial exposure and can lead to significant losses when market movements go against an open position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジは、トレーダーが少ない当初証拠金でより大きな市場ポジションにアクセスできるため、通貨取引における重要な概念です。ただし、財務上のエクスポージャーも増大し、市場の動きがオープンポジションに反する場合に重大な損失につながる可能性があります。</span>"
+    },
+    {
+      "key": "t69b3380bb7f0c6cd",
+      "english": "<span data-i18n-slot=\"0\">Understanding the relationship between leverage, margin, position size, and market volatility can help traders make more informed decisions. Beginners should focus on learning the basics, practising with demo accounts, and developing sensible risk management habits before entering live markets.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジ、証拠金、ポジションサイズ、市場のボラティリティの関係を理解することは、トレーダーがより多くの情報に基づいた意思決定を行うのに役立ちます。初心者は、ライブ市場に参入する前に、基本を学び、デモ口座で練習し、賢明なリスク管理習慣を身に付けることに重点を置く必要があります。</span>"
+    },
+    {
+      "key": "tcd6656e24f34778c",
+      "english": "What Should You Know Before Starting Forex Trading in Abu Dhabi?",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#title",
+        "SSR:/blogs",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "アブダビで外国為替取引を始める前に知っておくべきことは何ですか?"
+    },
+    {
+      "key": "ta43df73407168ea2",
+      "english": "What to Know Before Starting Forex Trading in Abu Dhabi",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#metaTitle",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "アブダビで外国為替取引を始める前に知っておくべきこと"
+    },
+    {
+      "key": "t9ff8e1bf2815fea1",
+      "english": "Planning to start forex trading in Abu Dhabi? Understand currency, leverage, trading platforms account types & risk management before getting started.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#description",
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#descriptionSnippet",
+        "SSR:/blogs",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "アブダビで外国為替取引を始める予定ですか?始める前に、通貨、レバレッジ、取引プラットフォームのアカウントの種類、リスク管理を理解してください。"
+    },
+    {
+      "key": "t573a0e3f75244a91",
+      "english": "forex broker UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#tag",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "外国為替ブローカー アラブ首長国連邦"
+    },
+    {
+      "key": "t7b34079fa19fa4b1",
+      "english": "FOREX BROKER UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#upperTag",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "外国為替ブローカー アラブ首長国連邦"
+    },
+    {
+      "key": "t0fd0e23dd127bca7",
+      "english": "<span data-i18n-slot=\"0\">However, getting started with forex trading requires more than opening an account and choosing a currency pair. You need to understand how exchange rates work, what affects currency prices, how trading platforms operate and what risks are involved.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ただし、外国為替取引を始めるには、口座を開設して通貨ペアを選択するだけでは不十分です。為替レートがどのように機能するのか、何が通貨価格に影響を与えるのか、取引プラットフォームがどのように動作するのか、どのようなリスクが伴うのかを理解する必要があります。</span>"
+    },
+    {
+      "key": "t089daaaa04f93b9c",
+      "english": "<span data-i18n-slot=\"0\">For anyone researching </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex trading in Abu Dhabi</span></span><span data-i18n-slot=\"3\">, having this basic knowledge can make the learning process easier. It also helps when comparing trading platforms, understanding account conditions and deciding whether this type of financial activity is suitable for your circumstances.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">アブダビでの外国為替取引を研究している人</span></span><span data-i18n-slot=\"3\">は、この基本的な知識を持っていると学習プロセスが容易になります。また、取引プラットフォームを比較し、口座状況を理解し、このタイプの金融活動が状況に適しているかどうかを判断する際にも役立ちます。</span>"
+    },
+    {
+      "key": "t7359dff63b50700c",
+      "english": "<span data-i18n-slot=\"0\">Unlike buying shares in a company, <span data-i18n-slot=\"1\">forex trading</span> involves comparing the value of one currency against another. Currencies are traded in pairs, and their prices change according to economic conditions, market demand and international developments.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">会社の株を購入するのとは異なり、<span data-i18n-slot=\"1\">外国為替取引</span>では、ある通貨の価値を別の通貨と比較する必要があります。通貨はペアで取引され、その価格は経済状況、市場の需要、国際情勢に応じて変化します。</span>"
+    },
+    {
+      "key": "tb7e3ef5f084ae259",
+      "english": "<span data-i18n-slot=\"0\">Some commonly followed currency pairs include:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一般的に使用される通貨ペアには次のようなものがあります。</span>"
+    },
+    {
+      "key": "t7ac6be4b41c1306f",
+      "english": "<span data-i18n-slot=\"0\">Understanding these differences is a useful starting point before exploring online forex trading in Abu Dhabi.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これらの違いを理解することは、アブダビでのオンライン外国為替取引を検討する前に役立つ出発点となります。</span>"
+    },
+    {
+      "key": "te65571e89434950c",
+      "english": "<span data-i18n-slot=\"0\">Not all currency pairs have the same trading costs or market activity. Some may experience wider spreads and sharper price movements than others.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">すべての通貨ペアで取引コストや市場の取引状況が同じであるわけではありません。ほかの通貨ペアよりスプレッドが広く、価格変動が激しくなるものもあります。</span>"
+    },
+    {
+      "key": "t9455856035210b82",
+      "english": "<span data-i18n-slot=\"0\">For most currency pairs, one pip represents a movement in the fourth decimal place. For example, if EUR/USD moves from 1.1050 to 1.1051, that is generally a one-pip movement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ほとんどの通貨ペアでは、一ピップは小数点以下第四位の変動を表します。たとえば、EUR/USDが1.1050から1.1051に動いた場合、通常は一ピップの変動です。</span>"
+    },
+    {
+      "key": "t8fc2a3ca3a75edc6",
+      "english": "<span data-i18n-slot=\"0\">A wider spread can increase the cost of entering and exiting a position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッドが広いと、ポジションの出入りにかかるコストが増加する可能性があります。</span>"
+    },
+    {
+      "key": "t4c17faebd8f6fc69",
+      "english": "<span data-i18n-slot=\"0\">Are There Additional Trading Charges?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">追加の取引手数料はありますか?</span>"
+    },
+    {
+      "key": "t697e642306d5909f",
+      "english": "<span data-i18n-slot=\"0\">Depending on the account and instrument, traders may encounter:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座と商品によっては、トレーダーは次のような状況に遭遇する可能性があります。</span>"
+    },
+    {
+      "key": "t259578980cc4c4e0",
+      "english": "<span data-i18n-slot=\"0\">Trading commissions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引手数料</span>"
+    },
+    {
+      "key": "t6c8e2d71beb9d5e3",
+      "english": "<span data-i18n-slot=\"0\">Overnight financing or swap charges</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">翌日物融資またはスワップ手数料</span>"
+    },
+    {
+      "key": "t0e5f1335c94f656b",
+      "english": "<span data-i18n-slot=\"0\">Currency conversion charges</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通貨換算手数料</span>"
+    },
+    {
+      "key": "t8d9711044b7ef4fc",
+      "english": "<span data-i18n-slot=\"0\">Deposit and withdrawal fees</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">入出金手数料</span>"
+    },
+    {
+      "key": "tefbf7901ca4edee7",
+      "english": "<span data-i18n-slot=\"0\">Before opening an account, review the complete fee structure rather than comparing spreads alone.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座を開設する前に、スプレッドだけを比較するのではなく、手数料体系全体を確認してください。</span>"
+    },
+    {
+      "key": "ta967030c7381c216",
+      "english": "<span data-i18n-slot=\"0\">5. Understand Leverage and Margin Before Opening a Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5. 取引を開始する前にレバレッジとマージンを理解する</span>"
+    },
+    {
+      "key": "t8aa5fe5dec6eed1b",
+      "english": "<span data-i18n-slot=\"0\">Margin is the amount required to maintain an open trading position. If the available account equity falls below certain levels, the trading provider may issue a margin call or automatically close positions according to its terms.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証拠金は、保有中の取引ポジションを維持するために必要な金額です。口座の有効証拠金が一定の水準を下回ると、取引サービスの提供会社は、その条件に従ってマージンコールを発するか、ポジションを自動決済する場合があります。</span>"
+    }
+  ]
+}

@@ -9,6 +9,7 @@ import { Component, OnInit } from '@angular/core';
 import { HybridTranslationService } from 'src/app/core/services/hybrid-translation.service';
 
 @Component({
+  standalone: false,
   selector: 'app-example-translation',
   template: `
     <div class="container">

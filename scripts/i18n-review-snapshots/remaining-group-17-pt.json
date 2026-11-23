@@ -1,0 +1,349 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t212d3736be956b8a",
+      "english": "<span data-i18n-slot=\"0\">Consider Scheduled Economic Announcements</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Considere anúncios econômicos programados</span>"
+    },
+    {
+      "key": "tb15fe3ee80df8c10",
+      "english": "<span data-i18n-slot=\"0\">Include Slippage in Algorithmic Trading Tests</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Incluir derrapagem em testes de negociação algorítmica</span>"
+    },
+    {
+      "key": "tc576ddf0fc62f3b4",
+      "english": "<span data-i18n-slot=\"0\">Order rejection</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Rejeição de ordem</span>"
+    },
+    {
+      "key": "td0fe75ca62c715ce",
+      "english": "<span data-i18n-slot=\"0\">Slippage assumptions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Suposições de derrapagem</span>"
+    },
+    {
+      "key": "te127737dd79e9d41",
+      "english": "<span data-i18n-slot=\"0\">One order provides limited information.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma ordem fornece informações limitadas.</span>"
+    },
+    {
+      "key": "td10ed08d4975f30b",
+      "english": "<span data-i18n-slot=\"0\">Order type</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tipo de ordem</span>"
+    },
+    {
+      "key": "tb48bcdf55285d7ad",
+      "english": "<span data-i18n-slot=\"0\">Slippage direction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Direção de deslizamento</span>"
+    },
+    {
+      "key": "t7c26d37cfb05faa4",
+      "english": "<span data-i18n-slot=\"0\">Slippage amount</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Quantidade de deslizamento</span>"
+    },
+    {
+      "key": "tc595283584f3d451",
+      "english": "<span data-i18n-slot=\"0\">Reviewing a larger group of trades can provide more context than focusing on one positive or negative fill.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Analisar um conjunto maior de operações pode fornecer mais contexto do que focar em uma única execução positiva ou negativa.</span>"
+    },
+    {
+      "key": "tc7f63bb2b3508006",
+      "english": "<span data-i18n-slot=\"0\">What is slippage in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que é derrapagem no forex?</span>"
+    },
+    {
+      "key": "t27d1b3cb4711dd79",
+      "english": "<span data-i18n-slot=\"0\">Slippage in forex is the difference between the price expected when a forex order is submitted and the price at which it actually executes. It can be positive when the fill is more favorable, negative when the fill is less favorable, or zero when execution occurs at the expected price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A derrapagem no Forex é a diferença entre o preço esperado quando uma ordem é enviada e o preço pelo qual ela é efetivamente executada. Pode ser positiva quando a execução é mais favorável, negativa quando é menos favorável ou zero quando ocorre ao preço esperado.</span>"
+    },
+    {
+      "key": "t4512789b2a17c6cd",
+      "english": "<span data-i18n-slot=\"0\">What causes slippage in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que causa derrapagem na negociação forex?</span>"
+    },
+    {
+      "key": "te14340342c787f28",
+      "english": "<span data-i18n-slot=\"0\">Slippage can occur when market prices change before an order is executed. Common conditions include high volatility, economic news, market gaps, reduced liquidity, large orders relative to available liquidity, and execution delays. Market orders are generally more exposed because they prioritize execution rather than a fixed entry price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A derrapagem pode ocorrer quando os preços de mercado mudam antes de uma ordem ser executada. As condições comuns incluem alta volatilidade, notícias económicas, lacunas de mercado, liquidez reduzida, encomendas grandes em relação à liquidez disponível e atrasos na execução. As ordens de mercado estão geralmente mais expostas porque priorizam a execução em vez de um preço de entrada fixo.</span>"
+    },
+    {
+      "key": "t2e5681e8192f0e0c",
+      "english": "<span data-i18n-slot=\"0\">What is positive slippage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que é derrapagem positiva?</span>"
+    },
+    {
+      "key": "t038d16970cdc4a0d",
+      "english": "<span data-i18n-slot=\"0\">Positive slippage occurs when an order executes at a price more favorable than expected. For a buy order, this means filling at a price below the expected price. For a sell order, it means filling above it. Positive slippage is still a form of slippage because the actual fill differs from the expected price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A derrapagem positiva ocorre quando uma ordem é executada a um preço mais favorável do que o esperado. Para uma ordem de compra, significa executar abaixo do preço esperado. Para uma ordem de venda, significa executar acima dele. Continua sendo derrapagem porque o preço efetivo de execução difere do esperado.</span>"
+    },
+    {
+      "key": "t2014878cc77bc280",
+      "english": "<span data-i18n-slot=\"0\">What does negative slippage mean in trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que significa derrapagem negativa na negociação?</span>"
+    },
+    {
+      "key": "t5b1f741e2a0a8430",
+      "english": "<span data-i18n-slot=\"0\">Negative slippage means an order executes at a less favorable price than expected. A buy order experiences negative slippage when it fills higher than expected, while a sell order experiences negative slippage when it fills lower. The effect can become more noticeable during rapid or thin market conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Derrapagem negativa significa que uma ordem é executada a um preço menos favorável do que o esperado. Uma ordem de compra sofre derrapagem negativa quando é preenchida acima do esperado, enquanto uma ordem de venda sofre derrapagem negativa quando é preenchida abaixo do esperado. O efeito pode tornar-se mais perceptível durante condições de mercado rápidas ou fracas.</span>"
+    },
+    {
+      "key": "teb0ea22f1f1c116b",
+      "english": "<span data-i18n-slot=\"0\">How do you calculate slippage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como você calcula a derrapagem?</span>"
+    },
+    {
+      "key": "t50e2ba2afdebd354",
+      "english": "<span data-i18n-slot=\"0\">Can slippage be completely avoided?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O deslizamento pode ser completamente evitado?</span>"
+    },
+    {
+      "key": "t2a9b61af22450c1d",
+      "english": "<span data-i18n-slot=\"0\">Is forex slippage different for traders in the UAE?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A derrapagem cambial é diferente para os comerciantes nos Emirados Árabes Unidos?</span>"
+    },
+    {
+      "key": "t69cd9215103fb5b1",
+      "english": "<span data-i18n-slot=\"0\">The basic mechanics of forex slippage are the same for UAE traders as elsewhere: execution depends on the available price when an order is filled. The specific platform settings, instruments, account terms, execution arrangements, and legal entity serving the client can differ, so traders should review the applicable broker documentation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A mecânica básica da derrapagem forex é a mesma para os comerciantes dos Emirados Árabes Unidos e de outros lugares: a execução depende do preço disponível quando uma ordem é preenchida. As configurações específicas da plataforma, os instrumentos, os termos da conta, os acordos de execução e a entidade legal que atende o cliente podem ser diferentes, portanto, os traders devem revisar a documentação aplicável da corretora.</span>"
+    },
+    {
+      "key": "t5720decdcbb7c439",
+      "english": "<span data-i18n-slot=\"0\">Slippage is part of trading execution risk. Understanding the relationship between market orders, limit orders, liquidity, volatility, price movement, and execution modes can help traders develop more realistic expectations about the price an order may receive.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A derrapagem faz parte do risco de execução comercial. Compreender a relação entre ordens de mercado, ordens limitadas, liquidez, volatilidade, movimento de preços e modos de execução pode ajudar os traders a desenvolver expectativas mais realistas sobre o preço que uma ordem pode receber.</span>"
+    },
+    {
+      "key": "t6367393c4c8a61a8",
+      "english": "<span data-i18n-slot=\"0\">What Is a Limit Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que é uma ordem limitada?</span>"
+    },
+    {
+      "key": "t3114e6fceece68fc",
+      "english": "<span data-i18n-slot=\"0\">A limit order waits for the market to reach a selected price and seeks execution at that price or a more favorable one.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma ordem limitada espera que o mercado atinja um preço selecionado e busca a execução nesse preço ou em um preço mais favorável.</span>"
+    },
+    {
+      "key": "t589c94fb9cc5fe4f",
+      "english": "<span data-i18n-slot=\"0\">How Do You Set a Limit Order on MT5?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como definir uma ordem limitada no MT5?</span>"
+    },
+    {
+      "key": "t0886b5fa18f488a6",
+      "english": "<span data-i18n-slot=\"0\">Set the trade volume.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Defina o volume de negociação.</span>"
+    },
+    {
+      "key": "taa530400a8711b28",
+      "english": "<span data-i18n-slot=\"0\">A stop entry and a Stop Loss may both involve price triggers, but they have different jobs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma entrada de stop e um stop loss podem envolver gatilhos de preço, mas têm funções diferentes.</span>"
+    },
+    {
+      "key": "t3439a06df650356b",
+      "english": "<span data-i18n-slot=\"0\">Order Type</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tipo de ordem</span>"
+    },
+    {
+      "key": "tc1069c74582cf322",
+      "english": "<span data-i18n-slot=\"0\">Execution Price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Preço de Execução</span>"
+    },
+    {
+      "key": "tba8db6ce8c917526",
+      "english": "<span data-i18n-slot=\"0\">Best For</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Melhor para</span>"
+    },
+    {
+      "key": "tf8c9ef6b76208329",
+      "english": "<span data-i18n-slot=\"0\">Key Risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Risco Principal</span>"
+    },
+    {
+      "key": "t757911c8b8548f78",
+      "english": "<span data-i18n-slot=\"0\">Submitted immediately</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Enviado imediatamente</span>"
+    },
+    {
+      "key": "tf7f5845b3c893d4f",
+      "english": "<span data-i18n-slot=\"0\">Order may remain unfilled</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A ordem pode permanecer sem execução</span>"
+    },
+    {
+      "key": "tdd318cd5d0f89aeb",
+      "english": "<span data-i18n-slot=\"0\">Buy Stop</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Compra stop</span>"
+    }
+  ]
+}

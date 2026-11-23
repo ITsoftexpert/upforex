@@ -1,0 +1,461 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t9d5b71d97090cf27",
+      "english": "<span data-i18n-slot=\"0\"> ✔ Tangible ownership</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> ✔ Long-term security</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"> ✔ Propiedad tangible</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> ✔ Seguridad a largo plazo</span>"
+    },
+    {
+      "key": "td5d3b9db420dd381",
+      "english": "<span data-i18n-slot=\"0\">✔ Leverage is available</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">✔ Apalancamiento disponible</span>"
+    },
+    {
+      "key": "t1e4f348596d408bf",
+      "english": "<span data-i18n-slot=\"0\">5. Mining Stocks</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5. Acciones mineras</span>"
+    },
+    {
+      "key": "t77bf9e59a96adbb7",
+      "english": "<span data-i18n-slot=\"0\">Trading with authorized brokers is crucial to safety. Trusted authorities in the UAE monitor financial activities, including:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comerciar con corredores autorizados es crucial para la seguridad. Autoridades confiables en los EAU monitorean las actividades financieras, incluyendo:</span>"
+    },
+    {
+      "key": "tbb54921ed6a45b7e",
+      "english": "<span data-i18n-slot=\"0\">2. Abu Dhabi Global Market</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. Mercado global de Abu Dabi</span>"
+    },
+    {
+      "key": "t3d692ded0574942f",
+      "english": "<span data-i18n-slot=\"0\">3. Securities and Commodities Authority</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. Autoridad de Valores y Materias Primas</span>"
+    },
+    {
+      "key": "t08b73d16bdd81334",
+      "english": "<span data-i18n-slot=\"0\">✔ Always use licensed brokers from these authorities.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">✔ Utilice siempre corredores autorizados por estas autoridades.</span>"
+    },
+    {
+      "key": "tc5e80f7569bfac25",
+      "english": "<span data-i18n-slot=\"0\">Step 2: Choose a Regulated Broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Paso 2: elija un corredor regulado</span>"
+    },
+    {
+      "key": "t0ab9105acc3146e8",
+      "english": "<span data-i18n-slot=\"0\">Step 4: Fund Your Account</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Paso 4: deposite fondos en su cuenta</span>"
+    },
+    {
+      "key": "tce4dc998e4b08faa",
+      "english": "<span data-i18n-slot=\"0\">Most brokers offer demo trading. Use it to gain experience.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La mayoría de los corredores ofrecen operaciones de demostración. Úselo para ganar experiencia.</span>"
+    },
+    {
+      "key": "tdf8e336c5ca05d36",
+      "english": "<span data-i18n-slot=\"0\">Step 6: Create a Trading Plan</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Paso 6: crear un plan comercial</span>"
+    },
+    {
+      "key": "tc242600a31180d9a",
+      "english": "<span data-i18n-slot=\"0\">1. Entry point</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Punto de entrada</span>"
+    },
+    {
+      "key": "tc48b617fa62c0e2d",
+      "english": "<span data-i18n-slot=\"0\">2. Exit point</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. Punto de salida</span>"
+    },
+    {
+      "key": "tef4b14cfb6d043a1",
+      "english": "<span data-i18n-slot=\"0\">Step 7: Start Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Paso 7: Comience a operar</span>"
+    },
+    {
+      "key": "td3a2b97e05ec2228",
+      "english": "<span data-i18n-slot=\"0\">1. Buy in an uptrend</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Comprar en una tendencia alcista</span>"
+    },
+    {
+      "key": "t3651622cf159432a",
+      "english": "<span data-i18n-slot=\"0\">2. Sell in a downtrend</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. Vender en una tendencia bajista</span>"
+    },
+    {
+      "key": "tbcb05c24a1b4fe70",
+      "english": "<span data-i18n-slot=\"0\">Useful tools: Moving Averages, RSI</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Herramientas útiles: medias móviles, RSI</span>"
+    },
+    {
+      "key": "ta2871edf0e57b481",
+      "english": "<span data-i18n-slot=\"0\">4. Long-Term Holding</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4. Tenencia a largo plazo</span>"
+    },
+    {
+      "key": "t2dba2d9ca4fb5be6",
+      "english": "<span data-i18n-slot=\"0\"> ✔ Trading without proper education</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"> ✔ Operar sin la educación adecuada</span>"
+    },
+    {
+      "key": "tc95d57397432dbfb",
+      "english": "<span data-i18n-slot=\"0\"> ✔ Following unverified tips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"> ✔ Seguir consejos no verificados</span>"
+    },
+    {
+      "key": "tc350192eacf204ca",
+      "english": "<span data-i18n-slot=\"0\"> ✔ Overusing leverage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"> ✔ Uso excesivo del apalancamiento</span>"
+    },
+    {
+      "key": "t1df069dfce6f92ad",
+      "english": "<span data-i18n-slot=\"0\">2. The brokers you use are regulated.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. Los corredores que utiliza están regulados.</span>"
+    },
+    {
+      "key": "tb530d32b929ccd9b",
+      "english": "<span data-i18n-slot=\"0\">4. Before doing the actual trading, you practice.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4. Antes de realizar operaciones reales, practique.</span>"
+    },
+    {
+      "key": "t7055494a41f32976",
+      "english": "<span data-i18n-slot=\"0\">You can develop a successful trading journey by using regulated brokers, following proven strategies and carefully managing risks. Whether your goal is short-term profit or long-term wealth protection, gold and silver are still effective financial tools.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Puede desarrollar un viaje comercial exitoso utilizando corredores regulados, siguiendo estrategias comprobadas y gestionando cuidadosamente los riesgos. Ya sea que su objetivo sea obtener ganancias a corto plazo o proteger su patrimonio a largo plazo, el oro y la plata siguen siendo herramientas financieras eficaces.</span>"
+    },
+    {
+      "key": "tf9a1f683ee915c7f",
+      "english": "<span data-i18n-slot=\"0\">FAQ'S</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Preguntas frecuentes</span>"
+    },
+    {
+      "key": "tca6f084b8a872dab",
+      "english": "<span data-i18n-slot=\"0\">You can </span><span data-i18n-slot=\"1\">start gold trading with as little as a few hundred dirhams, depending on the broker </span><span data-i18n-slot=\"2\">and trading platform you choose.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Puede </span><span data-i18n-slot=\"1\">empezar a operar con oro con tan solo unos pocos cientos de dirhams, dependiendo del corredor </span><span data-i18n-slot=\"2\">y de la plataforma de negociación que elija.</span>"
+    },
+    {
+      "key": "t2f2a4e53ee91d2cb",
+      "english": "<span data-i18n-slot=\"0\">Risk Disclosure:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "CMS:blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Divulgación de riesgos:</span>"
+    },
+    {
+      "key": "t55e2357fa1864223",
+      "english": "<span data-i18n-slot=\"0\">Trading CFDs and leveraged products involves significant risk. Please ensure you fully understand the risks involved before trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#content",
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La operación con CFD y productos apalancados implica un riesgo significativo. Asegúrese de comprender completamente los riesgos involucrados antes de operar.</span>"
+    },
+    {
+      "key": "t165350c6fae28b02",
+      "english": "<span data-i18n-slot=\"0\">1. Advanced Charting Tools</span><span data-i18n-slot=\"1\"></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Herramientas de gráficos avanzadas</span><span data-i18n-slot=\"1\"></span>"
+    },
+    {
+      "key": "t1681c35b579c726d",
+      "english": "<span data-i18n-slot=\"0\">2. Multiple Order Types</span><span data-i18n-slot=\"1\"></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. Múltiples tipos de pedidos</span><span data-i18n-slot=\"1\"></span>"
+    },
+    {
+      "key": "t2ee844b40a960928",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Benefits of Trading Stocks on MT5 in Dubai</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Beneficios de negociar acciones en MT5 en Dubai</span></span>"
+    },
+    {
+      "key": "tda0f049b1cdc71b9",
+      "english": "<span data-i18n-slot=\"0\">Trading stocks through MT5 offers several practical advantages:</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La negociación de acciones a través de MT5 ofrece varias ventajas prácticas: </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span>"
+    },
+    {
+      "key": "t7f890de754fa8bc5",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q4. Do I own stocks if I trade on MT5?<span data-i18n-slot=\"2\"></span> </span></span><span data-i18n-slot=\"3\">Users typically trade price fluctuations rather than physical shares due to platform structure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q4. ¿Tengo acciones si opero en MT5? <span data-i18n-slot=\"2\"></span></span></span><span data-i18n-slot=\"3\">Los usuarios normalmente intercambian fluctuaciones de precios en lugar de acciones físicas debido a la estructura de la plataforma.</span>"
+    },
+    {
+      "key": "tfb047898b764eeee",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">What is Forex Trading?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">¿Qué es el comercio de divisas?</span></span>"
+    },
+    {
+      "key": "t1f258153366d59d3",
+      "english": "<span data-i18n-slot=\"0\">Forex trading involves the exchange of one currency for another based on changing market prices. Global economic factors including rates of interest, price increases statistics, political stability, and central bank actions all have an impact on these price changes. The forex market works globally and is open throughout the day during the week, allowing participants to monitor and react to market movements in real time.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El comercio de divisas implica el intercambio de una moneda por otra en función de los cambios en los precios del mercado. Los factores económicos globales, incluidas las tasas de interés, las estadísticas de aumento de precios, la estabilidad política y las acciones de los bancos centrales, tienen un impacto en estos cambios de precios. El mercado de divisas funciona globalmente y está abierto durante todo el día durante la semana, lo que permite a los participantes monitorear y reaccionar a los movimientos del mercado en tiempo real.</span>"
+    },
+    {
+      "key": "t9bb2d6beaae9774c",
+      "english": "<span data-i18n-slot=\"0\">Forex trading follows various regulatory rules and regulations:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El comercio de divisas sigue varias reglas y regulaciones regulatorias:</span>"
+    },
+    {
+      "key": "t4313a9d5dcc1731f",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">How Forex Trading Works in Dubai</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Cómo funciona el comercio de divisas en Dubái</span></span>"
+    },
+    {
+      "key": "t5f7fb838693ff88c",
+      "english": "<span data-i18n-slot=\"0\">4. Clear trading conditions and execution transparency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4. Condiciones comerciales claras y transparencia en la ejecución</span>"
+    },
+    {
+      "key": "te3a8adf3067642e7",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">How to Begin Forex Trading in Dubai for Beginners</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Cómo comenzar a operar en Forex en Dubái para principiantes</span></span>"
+    },
+    {
+      "key": "tb60c9bfbc23a9605",
+      "english": "<span data-i18n-slot=\"0\">Entering the forex market should be a planned and well-informed process for newcomers. Following are the most significant stages:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ingresar al mercado de divisas debe ser un proceso planificado y bien informado para los recién llegados. A continuación se detallan las etapas más significativas:</span>"
+    },
+    {
+      "key": "t50ce9e427b56acfc",
+      "english": "<span data-i18n-slot=\"0\">3. Create an online trading account by following the online registration and verification process.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. Cree una cuenta comercial en línea siguiendo el proceso de registro y verificación en línea.</span>"
+    },
+    {
+      "key": "t374a1f5c1c0e212a",
+      "english": "<span data-i18n-slot=\"0\">By following these instructions, newcomers can enter forex trading with consistency and understanding.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Al seguir estas instrucciones, los recién llegados pueden ingresar al comercio de divisas con coherencia y comprensión.</span>"
+    },
+    {
+      "key": "t32f5eaff4a03a165",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Dubai vs. Other Regions for Forex Trading</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Dubai frente a otras regiones para el comercio de divisas</span></span>"
+    },
+    {
+      "key": "tdeba386e260fae5c",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">The Bottom Line</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Conclusión</span></span>"
+    }
+  ]
+}

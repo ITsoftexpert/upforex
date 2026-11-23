@@ -1,5 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { CommonModules } from '../../common/common.module';
+import { TranslateModule } from '@ngx-translate/core';
 import { UpforexAgentComponent } from './upforex-agent/upforex-agent.component';
 import { PartnershipProgramsComponent } from './partnership-programs/partnership-programs.component';
 import { PartnershipRoutingModule } from './partnership-routing.module';
@@ -23,6 +25,6 @@ import { InstitutionalServiceComponent } from './institutional-service/instituti
     SocialTradingComponent,
     InstitutionalServiceComponent,
   ],
-  imports: [CommonModule, PartnershipRoutingModule],
+  imports: [CommonModule, CommonModules, PartnershipRoutingModule, TranslateModule],
 })
 export class PartnershipModule {}

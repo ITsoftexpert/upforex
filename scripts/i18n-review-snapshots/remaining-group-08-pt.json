@@ -1,0 +1,113 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t21132d6ab47e28f2",
+      "english": "<span data-i18n-slot=\"0\">Lot Type</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tipo de lote</span>"
+    },
+    {
+      "key": "te89e169beec55971",
+      "english": "<span data-i18n-slot=\"0\">Standard Lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Lote Padrão</span>"
+    },
+    {
+      "key": "td08343dea43fe714",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot = 1 micro lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01 lote = 1 microlote</span>"
+    },
+    {
+      "key": "t0316766b0fe6e92d",
+      "english": "<span data-i18n-slot=\"0\">Determine the account amount allocated to trade risk.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Determine o valor da conta alocado ao risco comercial.</span>"
+    },
+    {
+      "key": "t9973999ab8fa2024",
+      "english": "<span data-i18n-slot=\"0\">Lot Size = Risk Amount ÷ (Stop-Loss Distance × Pip Value per 1.00 Lot)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tamanho do lote = Valor do risco ÷ (Distância de stop-loss × Valor do pip por 1.00 lote)</span>"
+    },
+    {
+      "key": "t1a2930d51ffc9dbb",
+      "english": "<span data-i18n-slot=\"0\">Assume:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Suponha:</span>"
+    },
+    {
+      "key": "t7b08e29c8f0ca8fe",
+      "english": "<span data-i18n-slot=\"0\">What It Controls</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que ele controla</span>"
+    },
+    {
+      "key": "t9af2614163624f2f",
+      "english": "<span data-i18n-slot=\"0\">Lot Size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tamanho do lote</span>"
+    },
+    {
+      "key": "t3c7478ddd2733837",
+      "english": "<span data-i18n-slot=\"0\">Base-Currency Units</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Unidades de moeda base</span>"
+    },
+    {
+      "key": "t127ce2f57cb12707",
+      "english": "<span data-i18n-slot=\"0\">This distinction is important for searches such as “0.01 lot size in dollars.”</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Essa distinção é importante para pesquisas como “tamanho de lote de 0.01 em dólares”.</span>"
+    }
+  ]
+}

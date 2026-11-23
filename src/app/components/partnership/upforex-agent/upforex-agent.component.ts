@@ -4,6 +4,7 @@ import { Store } from 'src/app/Store/store';
 import { Router } from '@angular/router';
 
 @Component({
+  standalone: false,
   selector: 'app-upforex-agent',
   templateUrl: './upforex-agent.component.html',
   styleUrls: ['./upforex-agent.component.scss'],

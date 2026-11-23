@@ -1,0 +1,127 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t2e378513099b579f",
+      "english": "<span data-i18n-slot=\"0\">Before opening a live trading account, take time to evaluate the following factors.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Antes de abrir uma conta de negociação real, reserve um tempo para avaliar os seguintes fatores.</span>"
+    },
+    {
+      "key": "tf29ccdf4ac3e5d54",
+      "english": "<span data-i18n-slot=\"0\">The company's complete legal name.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A razão social completa da empresa.</span>"
+    },
+    {
+      "key": "tc3512f9ae1c89a82",
+      "english": "<span data-i18n-slot=\"0\">The legal entity responsible for executing trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A pessoa jurídica responsável pela execução das negociações.</span>"
+    },
+    {
+      "key": "t1981006ce3590780",
+      "english": "<span data-i18n-slot=\"0\">Inactivity fees, where applicable.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Taxas de inatividade, quando aplicável.</span>"
+    },
+    {
+      "key": "t10c58e44f5c679fa",
+      "english": "<span data-i18n-slot=\"0\">Is order placement and management straightforward?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">É simples colocar e gerenciar ordens?</span>"
+    },
+    {
+      "key": "t8c860b28ab2d8ec2",
+      "english": "<span data-i18n-slot=\"0\">$7 per round lot on eligible forex and metals trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">US$7 por lote («round lot») em operações elegíveis de forex e metais</span>"
+    },
+    {
+      "key": "t63ac3db4be5f81ec",
+      "english": "<span data-i18n-slot=\"0\">What happens when account equity falls.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que acontece quando o patrimônio da conta cai.</span>"
+    },
+    {
+      "key": "t9cfab8976699ce27",
+      "english": "<span data-i18n-slot=\"0\">How stop-loss orders can help manage exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como as ordens stop-loss podem ajudar a gerenciar a exposição.</span>"
+    },
+    {
+      "key": "t48f35fce56bb0e8a",
+      "english": "<span data-i18n-slot=\"0\">Responsible trading starts with understanding the risks, setting realistic expectations and never using money that cannot be afforded to lose.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A negociação responsável começa com a compreensão dos riscos, a definição de expectativas realistas e o compromisso de nunca usar dinheiro que você não pode se dar ao luxo de perder.</span>"
+    },
+    {
+      "key": "tf634743980c4f7ff",
+      "english": "<span data-i18n-slot=\"0\">How long do withdrawals usually take?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Quanto tempo normalmente demoram os saques?</span>"
+    },
+    {
+      "key": "t21ff345c302fae76",
+      "english": "<span data-i18n-slot=\"0\">Market volatility.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Volatilidade do mercado.</span>"
+    },
+    {
+      "key": "tc477447d3a877433",
+      "english": "<span data-i18n-slot=\"0\">Trading psychology.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Psicologia do trading.</span>"
+    }
+  ]
+}

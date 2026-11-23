@@ -1,0 +1,647 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t0e1f4618db8da08e",
+      "english": "<span data-i18n-slot=\"0\">The main differences between major, minor, and exotic pairs are the currencies involved, their typical liquidity, and their usual spread characteristics.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要货币对、次要货币对和外来货币对之间的主要区别在于所涉及的货币、典型的流动性以及通常的点差特征。</span>"
+    },
+    {
+      "key": "tfda9c4e202a896f8",
+      "english": "<span data-i18n-slot=\"0\">Typical Spread Characteristics</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的点差特征</span>"
+    },
+    {
+      "key": "tbb111d53b17da7ed",
+      "english": "<span data-i18n-slot=\"0\">Example Base/Quote Countries or Regions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">基础货币/报价货币所属国家或地区示例</span>"
+    },
+    {
+      "key": "t91d55ee426ef8f18",
+      "english": "<span data-i18n-slot=\"0\">Usually high</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常较高</span>"
+    },
+    {
+      "key": "teb8dbbb7d4767ccd",
+      "english": "<span data-i18n-slot=\"0\">Generally tighter than less-liquid pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常比流动性较低的货币对更紧</span>"
+    },
+    {
+      "key": "t01a778b4e2bf1f1c",
+      "english": "<span data-i18n-slot=\"0\">Moderate to high depending on pair</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">中等到高，具体取决于配对</span>"
+    },
+    {
+      "key": "te12b44ce05b3fdf0",
+      "english": "<span data-i18n-slot=\"0\">Can be wider than the most liquid majors</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差可能比流动性最强的主要货币对更宽</span>"
+    },
+    {
+      "key": "t0de5ee63c2407827",
+      "english": "<span data-i18n-slot=\"0\">Can vary more than heavily traded majors</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差可能比交易活跃的主要货币对变化更大</span>"
+    },
+    {
+      "key": "t8516492b547a84b7",
+      "english": "<span data-i18n-slot=\"0\">Often wider than major pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常比主要货币对更宽</span>"
+    },
+    {
+      "key": "ta5d769f653ed49be",
+      "english": "<span data-i18n-slot=\"0\">Often wider and more variable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常更广泛、更多变</span>"
+    },
+    {
+      "key": "tf74a0e0274fa2b70",
+      "english": "<span data-i18n-slot=\"0\">Which Currency Pairs Are Most Traded?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">哪些货币对交易量最大？</span>"
+    },
+    {
+      "key": "tf841255f000a8c13",
+      "english": "<span data-i18n-slot=\"0\">The most actively traded forex pairs are heavily concentrated around the U.S. dollar, with major pairs accounting for much of global FX activity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易最活跃的外汇货币对主要集中在美元，主要货币对占据了全球外汇活动的大部分。</span>"
+    },
+    {
+      "key": "t4cd360af5b774539",
+      "english": "<span data-i18n-slot=\"0\">The latest BIS survey recorded an average OTC foreign-exchange turnover of approximately </span><span data-i18n-slot=\"1\">$9.6 trillion per day in April 2025</span><span data-i18n-slot=\"2\">, highlighting the scale of the global currency market. The dollar remained the dominant currency, appearing on one side of </span><span data-i18n-slot=\"3\">89% of all FX trades</span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">BIS最新调查记录，场外外汇交易日均交易额约为</span><span data-i18n-slot=\"1\">2025年四月每天9.6万亿美元</span><span data-i18n-slot=\"2\">，凸显全球货币市场的规模。美元仍占主导地位，是</span><span data-i18n-slot=\"3\">全部外汇交易中89%的交易的一方</span><span data-i18n-slot=\"4\">。</span>"
+    },
+    {
+      "key": "t52f5343c9d54563a",
+      "english": "<span data-i18n-slot=\"0\">For beginners, pairs such as EUR/USD, USD/JPY and GBP/USD are among the most recognisable examples to study when learning how forex quotations work.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于初学者来说，欧元/美元、美元/日元和英镑/美元等货币对是学习外汇报价如何运作时最知名的研究示例。</span>"
+    },
+    {
+      "key": "te282c70b6b4a2e6d",
+      "english": "<span data-i18n-slot=\"0\">Trading hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易时间</span>"
+    },
+    {
+      "key": "t542f5c33c4c87efb",
+      "english": "<span data-i18n-slot=\"0\">Spread and other costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差和其他成本</span>"
+    },
+    {
+      "key": "t31d62c2c5ee0d1e4",
+      "english": "<span data-i18n-slot=\"0\">Position sizing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">头寸规模</span>"
+    },
+    {
+      "key": "t35207abd10dbe721",
+      "english": "<span data-i18n-slot=\"0\">Entry and exit decisions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">进入和退出决策</span>"
+    },
+    {
+      "key": "t6d05c94f9fdaa431",
+      "english": "<span data-i18n-slot=\"0\">The most common currency-pair mistakes come from misunderstanding how the quotation works rather than from the pair names themselves.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最常见的货币对错误来自于对报价原理的误解，而不是货币对名称本身。</span>"
+    },
+    {
+      "key": "tde5f5d76ca14fffa",
+      "english": "<span data-i18n-slot=\"0\">1. Confusing the Base and Quote Currency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。混淆基础货币和报价货币</span>"
+    },
+    {
+      "key": "tb806f932369ee148",
+      "english": "<span data-i18n-slot=\"0\">For EUR/USD, EUR is the base not USD.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于欧元/美元，欧元是基础，而不是美元。</span>"
+    },
+    {
+      "key": "taf21955c1fac5368",
+      "english": "<span data-i18n-slot=\"0\">2. Reading a Rising Pair Backwards</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。向后读取上升货币对</span>"
+    },
+    {
+      "key": "t6599b4187d5fe7e8",
+      "english": "<span data-i18n-slot=\"0\">3. Assuming Every Pip Has the Same Monetary Value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。假设每个点具有相同的货币价值</span>"
+    },
+    {
+      "key": "t23cd451c3e8fa92c",
+      "english": "<span data-i18n-slot=\"0\">A pip describes price movement, but its monetary value can vary according to the currency pair, position size and account currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点描述了价格变动，但其货币价值可能会根据货币对、头寸规模和账户货币而变化。</span>"
+    },
+    {
+      "key": "tc8fd7f0628886ffe",
+      "english": "<span data-i18n-slot=\"0\">4. Assuming All Pairs Have Similar Trading Conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4。假设所有货币对都有相似的交易条件</span>"
+    },
+    {
+      "key": "t9fdcfa7d22067bef",
+      "english": "<span data-i18n-slot=\"0\">Major, minor and exotic pairs can differ significantly in liquidity and spread behaviour.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要货币对、次要货币对和外来货币对在流动性和点差行为方面可能存在显着差异。</span>"
+    },
+    {
+      "key": "ta83575de748193c4",
+      "english": "<span data-i18n-slot=\"0\">5. Choosing a Pair Only Because It Is Moving Quickly</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5。仅因为移动速度快而选择一对</span>"
+    },
+    {
+      "key": "t6eda16f1ebe55f7d",
+      "english": "<span data-i18n-slot=\"0\">A large price movement alone does not make a pair suitable for a particular trader or strategy. Understanding what is driving the pair is more useful than choosing it only because the chart looks active.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">仅大幅价格变动并不能使货币对适合特定交易者或策略。了解推动该货币对的因素比仅仅因为图表看起来活跃而选择它更有用。</span>"
+    },
+    {
+      "key": "t9755cc6e65326a8e",
+      "english": "<span data-i18n-slot=\"0\">Standard:</span><span data-i18n-slot=\"1\"> minimum deposit $100, spreads from 0.1 pips, $0 commission</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">标准：</span><span data-i18n-slot=\"1\">最低存款 100 美元，点差 0.1 点起，佣金 0 美元</span>"
+    },
+    {
+      "key": "te6db17727f5a7cb8",
+      "english": "<span data-i18n-slot=\"0\">If you are completely new to the market, start with the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">How to Start Forex Trading for Beginners</span></span><span data-i18n-slot=\"4\"> guide before moving from pair terminology into order types, trading sessions and platform use.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果您对市场完全陌生，请先阅读</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">初学者如何开始外汇交易</span></span><span data-i18n-slot=\"4\">指南，然后再从货币对术语转向订单类型、交易时段和平台使用。</span>"
+    },
+    {
+      "key": "ta640d9018661a1cd",
+      "english": "<span data-i18n-slot=\"0\">FAQs About Forex Currency Pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有关外汇货币对的常见问题解答</span>"
+    },
+    {
+      "key": "t19ca4c5f89c6d29f",
+      "english": "<span data-i18n-slot=\"0\">What is a currency pair in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇中的货币对是什么？</span>"
+    },
+    {
+      "key": "t556f63b8135ebdbc",
+      "english": "<span data-i18n-slot=\"0\">What is the quote currency in a forex pair?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇货币对中的报价货币是什么？</span>"
+    },
+    {
+      "key": "ta4ae9e38254ed176",
+      "english": "<span data-i18n-slot=\"0\">Which currency pair is best for forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">哪种货币对最适合外汇交易？</span>"
+    },
+    {
+      "key": "tc7d918040f731758",
+      "english": "<span data-i18n-slot=\"0\">There is no universally best forex pair. Suitability depends on liquidity, trading costs, volatility, trading hours, strategy and the trader's objectives. A dedicated guide comparing the best currency pairs can examine these factors in more detail.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">不存在普遍最佳的外汇对。适合性取决于流动性、交易成本、波动性、交易时间、策略和交易者的目标。比较最佳货币对的专门指南可以更详细地研究这些因素。</span>"
+    },
+    {
+      "key": "tee1b1df050906af4",
+      "english": "<span data-i18n-slot=\"0\">Understand the Pair Before You Place the Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易前了解货币对</span>"
+    },
+    {
+      "key": "t1ad5360b239244af",
+      "english": "<span data-i18n-slot=\"0\">Understanding a </span><span data-i18n-slot=\"1\">forex currency pair</span><span data-i18n-slot=\"2\"> gives you the foundation for reading forex prices, identifying the base and quote currencies, interpreting pips, and recognising the differences between major, minor, and exotic pairs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">了解</span><span data-i18n-slot=\"1\">外汇货币对</span><span data-i18n-slot=\"2\">，为解读外汇价格、识别基础货币和报价货币、理解点，以及认识主要、次要和稀有货币对的区别打下基础。</span>"
+    },
+    {
+      "key": "tdaf37279da3574b7",
+      "english": "<span data-i18n-slot=\"0\">Economic events in</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading</span></span><span data-i18n-slot=\"4\"> are scheduled releases, policy decisions, or unexpected developments that can affect currencies, commodities, and indices. An economic event in trading is any announcement or development that can change expectations about economic growth, inflation, employment, interest rates, or financial stability.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">外汇交易</span></span><span data-i18n-slot=\"4\">中的经济事件包括计划中的数据发布、政策决定，或可能影响货币、大宗商品和指数的突发进展。交易中的经济事件，是任何可能改变对经济增长、通胀、就业、利率或金融稳定预期的公告或事态发展。</span>"
+    },
+    {
+      "key": "t11c65557fce86ac5",
+      "english": "<span data-i18n-slot=\"0\">For UAE and MENA traders, US releases often arrive during the afternoon or evening in Gulf Standard Time. USD pairs, gold, and US indices may then face wider spreads, slippage, rapid reversals, and losses beyond the amount initially planned.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于阿联酋及中东和北非的交易者，美国数据往往在海湾标准时间的下午或晚上发布。届时，美元货币对、黄金和美国指数可能出现点差扩大、滑点、快速反转，以及超过原先计划金额的损失。</span>"
+    },
+    {
+      "key": "tf31140ea572d3336",
+      "english": "<span data-i18n-slot=\"0\">Scheduled events</span><span data-i18n-slot=\"1\"> have known release windows. Examples include:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">预定事件</span><span data-i18n-slot=\"1\">具有已知的发布窗口。示例包括：</span>"
+    },
+    {
+      "key": "t8e7d84cc1109a6f6",
+      "english": "<span data-i18n-slot=\"0\">Federal Open Market Committee decisions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">联邦公开市场委员会的决定</span>"
+    },
+    {
+      "key": "t9b42838dc1d225d1",
+      "english": "<span data-i18n-slot=\"0\">Event</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">活动</span>"
+    },
+    {
+      "key": "t17f5ae28d44c9e10",
+      "english": "<span data-i18n-slot=\"0\">Release Frequency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">发布频率</span>"
+    },
+    {
+      "key": "t91612e25fef9b58b",
+      "english": "<span data-i18n-slot=\"0\">Released By</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">发布者</span>"
+    },
+    {
+      "key": "t87e0b0f295b0edbc",
+      "english": "<span data-i18n-slot=\"0\">NFP / Employment Situation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">非农就业数据/就业情况</span>"
+    },
+    {
+      "key": "t91194366f3200c70",
+      "english": "<span data-i18n-slot=\"0\">NFP Result vs. Typical Market Reaction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">非农就业报告结果与典型市场反应</span>"
+    },
+    {
+      "key": "t51de2b5d027bea4f",
+      "english": "<span data-i18n-slot=\"0\">NFP Outcome</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">非农就业结果</span>"
+    },
+    {
+      "key": "t016f54842e49d24c",
+      "english": "<span data-i18n-slot=\"0\">Typical USD Reaction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的美元反应</span>"
+    },
+    {
+      "key": "tdc93319d087737f7",
+      "english": "<span data-i18n-slot=\"0\">Typical US Indices Reaction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的美国指数反应</span>"
+    },
+    {
+      "key": "tc80b9ae2a9884a5a",
+      "english": "<span data-i18n-slot=\"0\">May weaken as the USD and yields rise</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">随着美元和收益率上升，可能会走软</span>"
+    },
+    {
+      "key": "tf16d18b8e6b8a69e",
+      "english": "<span data-i18n-slot=\"0\">Near forecast</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">接近预期</span>"
+    },
+    {
+      "key": "t70a3017340734479",
+      "english": "<span data-i18n-slot=\"0\">Often range-bound unless another detail surprises</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常会受到范围限制，除非另一个细节令人惊讶</span>"
+    },
+    {
+      "key": "t9bbbb073e50319cd",
+      "english": "<span data-i18n-slot=\"0\">May strengthen as the USD and yields fall</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">随着美元和收益率下跌，可能会走强</span>"
+    },
+    {
+      "key": "t1dfeed7edc526322",
+      "english": "<span data-i18n-slot=\"0\">Often strengthens if traders price tighter policy</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果交易者定价收紧政策，通常会走强</span>"
+    },
+    {
+      "key": "t63813ca6869868aa",
+      "english": "<span data-i18n-slot=\"0\">May fall as expected borrowing costs increase</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">由于预期借贷成本增加，可能会下降</span>"
+    },
+    {
+      "key": "tb5324190f4816454",
+      "english": "<span data-i18n-slot=\"0\">May remain range-bound</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可能保持区间波动</span>"
+    },
+    {
+      "key": "t1f8f9942a3486f96",
+      "english": "<span data-i18n-slot=\"0\">May strengthen as yields decline</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">随着收益率下降，可能会走强</span>"
+    },
+    {
+      "key": "t8a318648f1e7c572",
+      "english": "<span data-i18n-slot=\"0\">1. Compare Actual With Forecast</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。比较实际与预测</span>"
+    },
+    {
+      "key": "tacaa876ab1c00462",
+      "english": "<span data-i18n-slot=\"0\">2. Identify What Was Already Priced In</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。确定已经定价的内容</span>"
+    },
+    {
+      "key": "tf5aa59f8bf0c2f6c",
+      "english": "<span data-i18n-slot=\"0\">Markets trade expectations. A rate hike may not strengthen the dollar if it was fully expected and the Fed signals that no more hikes are likely.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市场交易预期。如果加息完全在预期之中并且美联储暗示不太可能再次加息，那么加息可能不会让美元走强。</span>"
+    },
+    {
+      "key": "t368582c9a1745c93",
+      "english": "<span data-i18n-slot=\"0\">3. Watch the First and Second Moves</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. 观察最初和随后的价格变动</span>"
+    },
+    {
+      "key": "t061a56ad7f3c8fdd",
+      "english": "<span data-i18n-slot=\"0\">4. Check Spreads and Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4。检查点差和滑点</span>"
+    },
+    {
+      "key": "t9e73bf33f1e37efb",
+      "english": "<span data-i18n-slot=\"0\">During high-impact releases, the bid-ask spread can widen and available liquidity can change. A stop-loss limits risk intent but does not guarantee execution at the requested price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在高影响力的发布期间，买卖价差可能会扩大，可用流动性可能会发生变化。止损限制风险意图，但不保证按要求的价格执行。</span>"
+    },
+    {
+      "key": "t3089b0394d3f1407",
+      "english": "<span data-i18n-slot=\"0\">Holding correlated exposure:</span><span data-i18n-slot=\"1\"> Long USD, short gold, and short EUR/USD positions may express the same underlying view.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">持有相关风险敞口：</span><span data-i18n-slot=\"1\">多头美元、空头黄金和空头欧元/美元头寸可能表达相同的基本观点。</span>"
+    }
+  ]
+}

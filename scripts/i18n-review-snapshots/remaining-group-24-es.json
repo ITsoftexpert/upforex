@@ -1,0 +1,587 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "ta57eb75b9198829d",
+      "english": "<span data-i18n-slot=\"0\">What is followed</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Qué se sigue</span>"
+    },
+    {
+      "key": "t312c736504761441",
+      "english": "<span data-i18n-slot=\"0\">Control over trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Control sobre las operaciones</span>"
+    },
+    {
+      "key": "t29f1f65d2ff5285d",
+      "english": "<span data-i18n-slot=\"0\">Subscriber can usually stop or adjust copying</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El suscriptor normalmente puede detener o ajustar la copia</span>"
+    },
+    {
+      "key": "t8e719d4085180b00",
+      "english": "<span data-i18n-slot=\"0\">No exposure unless the user trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sin exposición a menos que el usuario opere</span>"
+    },
+    {
+      "key": "t10a54c08f9259c9a",
+      "english": "<span data-i18n-slot=\"0\">Real funds are exposed when enabled</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los fondos reales están expuestos cuando está habilitado</span>"
+    },
+    {
+      "key": "t46f975b1f5e7b9c3",
+      "english": "<span data-i18n-slot=\"0\">Requires judgement and filtering</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Requiere criterio y filtrado</span>"
+    },
+    {
+      "key": "t7a4a93abc3fbaa15",
+      "english": "<span data-i18n-slot=\"0\">Blind reliance on another trader</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Confianza ciega en otro comerciante</span>"
+    },
+    {
+      "key": "tc8cea7db095eca01",
+      "english": "<span data-i18n-slot=\"0\">Acting on poor or biased information</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Actuar sobre la base de información deficiente o sesgada</span>"
+    },
+    {
+      "key": "t3186492244edd7c0",
+      "english": "<span data-i18n-slot=\"0\">Choose a regulated platform or broker environment.</span><span data-i18n-slot=\"1\"> Verify the legal entity, available instruments, and whether the copying feature comes from the broker or a third party.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Elija una plataforma regulada o un entorno de corredor.</span><span data-i18n-slot=\"1\"> Verifique la entidad legal, los instrumentos disponibles y si la función de copia proviene del corredor o de un tercero.</span>"
+    },
+    {
+      "key": "t08c055a5df81e73d",
+      "english": "<span data-i18n-slot=\"0\">Review the provider’s history.</span><span data-i18n-slot=\"1\"> Look beyond headline returns to drawdown, trading frequency, account age, open losses, leverage, and concentration.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Revise el historial del proveedor.</span><span data-i18n-slot=\"1\"> Mire más allá de las rentabilidades destacadas y examine el drawdown, la frecuencia de negociación, la antigüedad de la cuenta, las pérdidas abiertas, el apalancamiento y la concentración.</span>"
+    },
+    {
+      "key": "t249ab9cb3b9e6381",
+      "english": "<span data-i18n-slot=\"0\">Signal Provider vs. Subscriber: Who Carries the Risk?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Proveedor de señales frente a suscriptor: ¿quién corre el riesgo?</span>"
+    },
+    {
+      "key": "t9ad05b53746c119b",
+      "english": "<span data-i18n-slot=\"0\">The provider supplies trading activity. The subscriber carries the financial consequences in the subscriber account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El proveedor suministra la actividad comercial. El suscriptor soporta las consecuencias financieras en la cuenta del suscriptor.</span>"
+    },
+    {
+      "key": "tff2096103d053d4c",
+      "english": "<span data-i18n-slot=\"0\">Automates the replication of selected trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Automatiza la replicación de operaciones seleccionadas</span>"
+    },
+    {
+      "key": "t1942f3f76ffd141d",
+      "english": "<span data-i18n-slot=\"0\">The subscriber still bears every copied loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El suscriptor aún soporta todas las pérdidas copiadas</span>"
+    },
+    {
+      "key": "t943a506c56367744",
+      "english": "<span data-i18n-slot=\"0\">Offers allocation controls on many platforms</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ofrece controles de asignación en muchas plataformas</span>"
+    },
+    {
+      "key": "t2d1b59bca131871c",
+      "english": "<span data-i18n-slot=\"0\">Fees, spreads, commissions, and slippage still apply</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Aún se aplican tarifas, diferenciales, comisiones y deslizamientos</span>"
+    },
+    {
+      "key": "t7d002337e5cca179",
+      "english": "<span data-i18n-slot=\"0\">Track-record transparency:</span><span data-i18n-slot=\"1\"> Look for account age, complete history, drawdown, open exposure, and deposit changes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Transparencia del historial:</span><span data-i18n-slot=\"1\"> examine la antigüedad de la cuenta, el historial completo, el drawdown, la exposición abierta y los cambios en los depósitos.</span>"
+    },
+    {
+      "key": "tc14c589bde0bc6fb",
+      "english": "<span data-i18n-slot=\"0\">Risk controls:</span><span data-i18n-slot=\"1\"> Check allocation caps, equity protection, stop settings, and the ability to pause copying.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Controles de riesgos:</span><span data-i18n-slot=\"1\"> verifique los límites de asignación, la protección del capital, la configuración de detención y la capacidad de pausar la copia.</span>"
+    },
+    {
+      "key": "t83bdc4fdab841745",
+      "english": "<span data-i18n-slot=\"0\">Cost disclosure:</span><span data-i18n-slot=\"1\"> Review subscriptions, spreads, commission, financing, and withdrawal terms.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Divulgación de costos:</span><span data-i18n-slot=\"1\"> Revise las suscripciones, los diferenciales, las comisiones, la financiación y los términos de retiro.</span>"
+    },
+    {
+      "key": "t94f4f7cf290fdfef",
+      "english": "<span data-i18n-slot=\"0\">UAE users should verify licensing rather than relying on promotional claims.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los usuarios de los EAU deben verificar la licencia en lugar de confiar en afirmaciones promocionales.</span>"
+    },
+    {
+      "key": "t6e72769b30ef1cf9",
+      "english": "<span data-i18n-slot=\"0\">Provider closes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El proveedor cierra</span>"
+    },
+    {
+      "key": "tfcb6db3503a843b1",
+      "english": "<span data-i18n-slot=\"0\">Hands-Off Beginner</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Principiante sin intervención</span>"
+    },
+    {
+      "key": "t6212b029ab4f2e0d",
+      "english": "<span data-i18n-slot=\"0\">Experienced Trader Seeking Another Decision Source</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comerciante experimentado que busca otra fuente de decisión</span>"
+    },
+    {
+      "key": "t6fe75a67c9ad0533",
+      "english": "<span data-i18n-slot=\"0\">An experienced trader may use signals as one input, provided the copied strategy adds diversification instead of repeating existing exposure. Anyone considering copy trading forex positions should monitor the account rather than treating automation as passive or risk-free.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un operador experimentado puede utilizar señales como entrada, siempre que la estrategia copiada agregue diversificación en lugar de repetir la exposición existente. Cualquiera que esté considerando copiar posiciones de Forex debe monitorear la cuenta en lugar de tratar la automatización como algo pasivo o libre de riesgos.</span>"
+    },
+    {
+      "key": "ta1c73b93c1f04913",
+      "english": "<span data-i18n-slot=\"0\">Learn order types, leverage, margin, and stop-loss mechanics.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Aprenda los tipos de órdenes, el apalancamiento, el margen y la mecánica de stop-loss.</span>"
+    },
+    {
+      "key": "t5db01143a781282b",
+      "english": "<span data-i18n-slot=\"0\">Review provider statistics, especially drawdown and account age.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Revise las estadísticas del proveedor, especialmente el drawdown y la antigüedad de la cuenta.</span>"
+    },
+    {
+      "key": "t0b665d4077b657d0",
+      "english": "<span data-i18n-slot=\"0\">Start with limited exposure and monitor copied trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comience con una exposición limitada y controle las operaciones copiadas.</span>"
+    },
+    {
+      "key": "t0ae53563a95541f7",
+      "english": "<span data-i18n-slot=\"0\">Selecting a trader from short-term returns alone</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Seleccionar un operador basándose únicamente en su rentabilidad a corto plazo</span>"
+    },
+    {
+      "key": "t8bd33147750f7557",
+      "english": "<span data-i18n-slot=\"0\">Assuming every provider trade includes a suitable stop-loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Suponiendo que cada operación con un proveedor incluya un límite de pérdidas adecuado</span>"
+    },
+    {
+      "key": "tf52fa10ddd9273f7",
+      "english": "<span data-i18n-slot=\"0\">Forgetting subscription and trading costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Olvidar los costos de suscripción y negociación</span>"
+    },
+    {
+      "key": "tf2e6a24e7f93ed1c",
+      "english": "<span data-i18n-slot=\"0\">Leaving copying active without review</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Dejar la copia activa sin revisión</span>"
+    },
+    {
+      "key": "t7a567b2f7a9410b9",
+      "english": "<span data-i18n-slot=\"0\">Can I stop copying a trader at any time?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Puedo dejar de copiar a un operador en cualquier momento?</span>"
+    },
+    {
+      "key": "t80e59ccff7d251d5",
+      "english": "<span data-i18n-slot=\"0\">Quick Answer:</span><span data-i18n-slot=\"1\"> A market maker broker provides executable prices and may internalize or take the opposite side of a client trade. An ECN-style broker connects orders to pricing from multiple liquidity sources. ECN-style accounts often use variable spreads plus commission, while market-maker pricing commonly places more of the cost inside the spread.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Respuesta rápida:</span><span data-i18n-slot=\"1\"> Un corredor creador de mercado proporciona precios ejecutables y puede internalizar o tomar el lado opuesto de la operación de un cliente. Un corredor estilo ECN conecta órdenes con precios de múltiples fuentes de liquidez. Las cuentas de estilo ECN suelen utilizar diferenciales variables más comisiones, mientras que los precios de los creadores de mercado suelen colocar una mayor parte del coste dentro del diferencial.</span>"
+    },
+    {
+      "key": "t529d94d27d721324",
+      "english": "<span data-i18n-slot=\"0\">What Is a Market Maker Broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es un corredor creador de mercado?</span>"
+    },
+    {
+      "key": "ta06344a6b9d8c9ba",
+      "english": "<span data-i18n-slot=\"0\">A market maker broker provides bid and ask prices and may act as the contractual counterparty to a client’s trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un corredor creador de mercado proporciona precios de oferta y demanda y puede actuar como contraparte contractual de la operación de un cliente.</span>"
+    },
+    {
+      "key": "tf03795635b1442b3",
+      "english": "<span data-i18n-slot=\"0\">In a dealing-desk structure, the broker may internalize exposure, match opposing client flow or hedge externally. Because it may hold the opposite side of a trade, a potential conflict of interest can exist.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">En una estructura de mesa de operaciones, el corredor puede internalizar la exposición, igualar el flujo de clientes opuesto o cubrirse externamente. Debido a que puede tener el lado opuesto de una operación, puede existir un posible conflicto de intereses.</span>"
+    },
+    {
+      "key": "tba01388b71574f6b",
+      "english": "<span data-i18n-slot=\"0\">Market-maker accounts often use spread-only pricing. Spreads may be fixed or variable and can widen when volatility increases or liquidity falls.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Las cuentas de creadores de mercado suelen utilizar precios de sólo diferencial. Los diferenciales pueden ser fijos o variables y pueden ampliarse cuando aumenta la volatilidad o cae la liquidez.</span>"
+    },
+    {
+      "key": "tb6ea8b6b1a3f3327",
+      "english": "<span data-i18n-slot=\"0\">An ECN-style broker connects client orders to prices supplied by multiple liquidity sources instead of relying on one internally generated quote.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un corredor estilo ECN conecta las órdenes de los clientes con los precios proporcionados por múltiples fuentes de liquidez en lugar de depender de una cotización generada internamente.</span>"
+    },
+    {
+      "key": "t4612d57ad6b7733e",
+      "english": "<span data-i18n-slot=\"0\">ECN brokers can display tighter spreads when liquidity is strong, but those spreads may widen and orders can experience slippage. The legal counterparty to a retail CFD may still be the broker, depending on the agreement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los corredores ECN pueden mostrar diferenciales más ajustados cuando la liquidez es fuerte, pero esos diferenciales pueden ampliarse y las órdenes pueden experimentar deslizamientos. La contraparte legal de un CFD minorista puede seguir siendo el corredor, según el acuerdo.</span>"
+    },
+    {
+      "key": "t2fa05e466a2a7b6a",
+      "english": "<span data-i18n-slot=\"0\">Market Maker Broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Agente creador de mercado</span>"
+    },
+    {
+      "key": "tf9179148cf28fe16",
+      "english": "<span data-i18n-slot=\"0\">ECN Broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Corredor ECN</span>"
+    },
+    {
+      "key": "td7b2668edf0bd030",
+      "english": "<span data-i18n-slot=\"0\">Broker-provided bid and ask quotes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cotizaciones de oferta y demanda proporcionadas por el corredor</span>"
+    },
+    {
+      "key": "t0841a9ddc1b6a287",
+      "english": "<span data-i18n-slot=\"0\">Counterparty</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Contraparte</span>"
+    },
+    {
+      "key": "t02b4b493254549f9",
+      "english": "<span data-i18n-slot=\"0\">Broker may internalize or act as counterparty</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El corredor puede internalizar o actuar como contraparte</span>"
+    },
+    {
+      "key": "t60e0972a19ab8414",
+      "english": "<span data-i18n-slot=\"0\">Spread type</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tipo de spread</span>"
+    },
+    {
+      "key": "tdfd0e2e9b92b47b5",
+      "english": "<span data-i18n-slot=\"0\">Often spread-only; fixed or variable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A menudo, el coste se incluye solo en el spread; fijo o variable</span>"
+    },
+    {
+      "key": "tddb75f4101f384c1",
+      "english": "<span data-i18n-slot=\"0\">Usually variable and may be raw or near-raw</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por lo general, es variable y puede estar sin procesar o casi sin procesar</span>"
+    },
+    {
+      "key": "t5aa56b2b2d36224b",
+      "english": "<span data-i18n-slot=\"0\">Frequently no separate commission</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Con frecuencia no hay comisiones separadas</span>"
+    },
+    {
+      "key": "tab01a457af4a6fbf",
+      "english": "<span data-i18n-slot=\"0\">Often charges commission, markup or both</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A menudo cobra comisión, margen de beneficio o ambos</span>"
+    },
+    {
+      "key": "t067f956b2a06efe1",
+      "english": "<span data-i18n-slot=\"0\">Typical minimum deposit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Depósito mínimo típico</span>"
+    },
+    {
+      "key": "t1be6288ee3043bdc",
+      "english": "<span data-i18n-slot=\"0\">Best suited for</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Más adecuado para</span>"
+    },
+    {
+      "key": "t3e0ce4ee06a2e38c",
+      "english": "<span data-i18n-slot=\"0\">Traders who compare raw spreads and trade more frequently</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comerciantes que comparan diferenciales brutos y operan con más frecuencia</span>"
+    },
+    {
+      "key": "t71875be7df9e780f",
+      "english": "<span data-i18n-slot=\"0\">Execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ejecución</span>"
+    },
+    {
+      "key": "t5d37d83719c8ca6b",
+      "english": "<span data-i18n-slot=\"0\">Broker controls quoting and internal execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El corredor controla las cotizaciones y la ejecución interna</span>"
+    },
+    {
+      "key": "t04d1eed537d31953",
+      "english": "<span data-i18n-slot=\"0\">Fills depend on connectivity, liquidity and available prices</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Las ejecuciones dependen de la conectividad, la liquidez y los precios disponibles</span>"
+    },
+    {
+      "key": "tccd36eb1f6987afb",
+      "english": "<span data-i18n-slot=\"0\">The </span><span data-i18n-slot=\"1\">difference between a market maker and a broker</span><span data-i18n-slot=\"2\"> can be confusing because a market maker may also operate as a broker or dealer. “Broker” describes the firm or service relationship; “market maker” describes a pricing and dealing function.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La </span><span data-i18n-slot=\"1\">diferencia entre un creador de mercado y un corredor</span><span data-i18n-slot=\"2\"> puede resultar confusa porque un creador de mercado también puede operar como corredor o comerciante. “Corredor” describe la empresa o relación de servicio; \"Creador de mercado\" describe una función de fijación de precios y negociación.</span>"
+    },
+    {
+      "key": "te517e0ee1c0b74dc",
+      "english": "<span data-i18n-slot=\"0\">$7 per round lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">$7 por «round lot»</span>"
+    },
+    {
+      "key": "t06d10522e6a4d73c",
+      "english": "<span data-i18n-slot=\"0\">How to Tell If a Broker Is a Market Maker or an ECN Broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cómo saber si un corredor es un creador de mercado o un corredor ECN</span>"
+    }
+  ]
+}

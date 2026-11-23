@@ -12,6 +12,7 @@ import { TranslateService } from '@ngx-translate/core';
  */
 
 @Pipe({
+  standalone: false,
   name: 'hybridTranslate',
   pure: false, // Important: needed to detect language changes
 })

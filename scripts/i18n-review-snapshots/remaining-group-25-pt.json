@@ -1,0 +1,481 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tc3c9c09af83a5424",
+      "english": "<span data-i18n-slot=\"0\">Execution policy:</span><span data-i18n-slot=\"1\"> Look for internalization, principal dealing, liquidity providers and routing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Política de execução:</span><span data-i18n-slot=\"1\"> Procure internalização, negociação principal, fornecedores de liquidez e roteamento.</span>"
+    },
+    {
+      "key": "t6cb742a53790474d",
+      "english": "<span data-i18n-slot=\"0\">Written clarification:</span><span data-i18n-slot=\"1\"> Ask how orders are priced, routed and hedged.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Esclarecimento por escrito:</span><span data-i18n-slot=\"1\"> pergunte como os preços das ordens são definidos, como elas são roteadas e como a exposição é protegida por hedge.</span>"
+    },
+    {
+      "key": "t973950ef885a053f",
+      "english": "<span data-i18n-slot=\"0\">Execution Walkthrough: How the Same Trade Looks on Each Model</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Exemplo de execução: como a mesma operação funciona em cada modelo</span>"
+    },
+    {
+      "key": "te2cc7e9b44bfd243",
+      "english": "<span data-i18n-slot=\"0\">Assume a trader buys </span><span data-i18n-slot=\"1\">one standard lot of EUR/USD</span><span data-i18n-slot=\"2\">, where one pip is approximately </span><span data-i18n-slot=\"3\">$10</span><span data-i18n-slot=\"4\"> in a US-dollar account. The market midpoint does not move before closing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Suponha que um trader compre </span><span data-i18n-slot=\"1\">um lote padrão de EUR/USD</span><span data-i18n-slot=\"2\">, em que cada pip vale aproximadamente </span><span data-i18n-slot=\"3\">$10</span><span data-i18n-slot=\"4\"> em uma conta em dólares americanos. O preço médio entre bid e ask não muda antes do encerramento.</span>"
+    },
+    {
+      "key": "t585f8f30afd67922",
+      "english": "<span data-i18n-slot=\"0\">Market Maker-Style Spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Spread de modelo formador de mercado</span>"
+    },
+    {
+      "key": "t5d9f5942a6ef929e",
+      "english": "<span data-i18n-slot=\"0\">ECN-Style Spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Spread de modelo ECN</span>"
+    },
+    {
+      "key": "t33bbc52e649b04ea",
+      "english": "<span data-i18n-slot=\"0\">Illustrative spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Spread ilustrativo</span>"
+    },
+    {
+      "key": "t0ede3621fc2f8f9b",
+      "english": "<span data-i18n-slot=\"0\">1.0 pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.0 pip</span>"
+    },
+    {
+      "key": "t480bf00ea3894538",
+      "english": "<span data-i18n-slot=\"0\">0.2 pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.2 pip</span>"
+    },
+    {
+      "key": "t6dd3fc9fb3d89d57",
+      "english": "<span data-i18n-slot=\"0\">Approximate spread cost</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Custo aproximado do spread</span>"
+    },
+    {
+      "key": "teb70240898dc6e2a",
+      "english": "<span data-i18n-slot=\"0\">Tighter spread plus commission</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Spread mais estreito acrescido de comissão</span>"
+    },
+    {
+      "key": "ta42149ee285857f2",
+      "english": "<span data-i18n-slot=\"0\">An occasional trader may prefer simple spread-only pricing. A frequent trader may focus more on raw spread, commission and average slippage. The relevant comparison is the effective total cost.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Um trader que opera ocasionalmente pode preferir uma estrutura simples de custos apenas no spread. Um trader frequente pode dar mais atenção ao spread bruto, à comissão e à derrapagem média. A comparação relevante é o custo total efetivo.</span>"
+    },
+    {
+      "key": "t0807c725488cd405",
+      "english": "<span data-i18n-slot=\"0\">Common Misconceptions About Market Makers and ECN Brokers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Equívocos comuns sobre formadores de mercado e corretoras ECN</span>"
+    },
+    {
+      "key": "tb43743d511fd7671",
+      "english": "<span data-i18n-slot=\"0\">Which Account Type Should You Choose?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Que tipo de conta você deve escolher?</span>"
+    },
+    {
+      "key": "te1af4348cecc74c4",
+      "english": "<span data-i18n-slot=\"0\">A spread-only account may suit a trader who:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma conta com custos apenas no spread pode ser adequada a um trader que:</span>"
+    },
+    {
+      "key": "t69ee3d240e947ea4",
+      "english": "<span data-i18n-slot=\"0\">Wants a lower entry deposit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Quer um depósito menor.</span>"
+    },
+    {
+      "key": "t629f27a647956c1e",
+      "english": "<span data-i18n-slot=\"0\">Trades less frequently</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negocia menos frequentemente</span>"
+    },
+    {
+      "key": "td0aa56d148ebe037",
+      "english": "<span data-i18n-slot=\"0\">Trades frequently</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negocia com frequência</span>"
+    },
+    {
+      "key": "td6da323769b630ff",
+      "english": "<span data-i18n-slot=\"0\">Understands that raw spreads remain variable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Entende que os spreads crus permanecem variáveis.</span>"
+    },
+    {
+      "key": "t2dfa21120c06e7e4",
+      "english": "<span data-i18n-slot=\"0\">What is a market maker broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que é uma corretora formadora de mercado?</span>"
+    },
+    {
+      "key": "tcc1580e4ee8c0470",
+      "english": "<span data-i18n-slot=\"0\">A market maker broker provides bid and ask quotes and may act as counterparty to client trades. It may internalize exposure, match opposing orders or hedge externally. This creates a potential conflict, but regulated firms can manage it through transparent policies and controls.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma corretora formadora de mercado fornece cotações bid e ask e pode atuar como contraparte das operações dos clientes. Pode internalizar a exposição, combinar ordens opostas ou fazer hedge externamente. Isso cria um possível conflito de interesses, mas as empresas regulamentadas podem administrá-lo por meio de políticas e controles transparentes.</span>"
+    },
+    {
+      "key": "td1f16497f0221ff1",
+      "english": "<span data-i18n-slot=\"0\">A broker or broker-dealer serves clients and may act as agent, principal or both. A market maker is a dealing function in which a firm provides bid and ask prices and stands ready to transact at those quotes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma corretora ou um broker-dealer atende clientes e pode atuar como intermediário, contraparte por conta própria ou ambos. A formação de mercado é uma função de negociação em que uma empresa fornece preços bid e ask e se mantém pronta para negociar nessas cotações.</span>"
+    },
+    {
+      "key": "t6855e0b958aaf0ed",
+      "english": "<span data-i18n-slot=\"0\">The </span><span data-i18n-slot=\"1\">broker vs market maker</span><span data-i18n-slot=\"2\"> decision should not be based on slogans. Compare spread, commission, minimum deposit, execution policy, slippage terms and legal counterparty. Choose the structure that fits the intended trade size and frequency without assuming either model removes risk.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A decisão entre </span><span data-i18n-slot=\"1\">corretora e formador de mercado</span><span data-i18n-slot=\"2\"> não deve se basear em slogans. Compare spread, comissão, depósito mínimo, política de execução, condições de derrapagem e contraparte legal. Escolha a estrutura adequada ao tamanho e à frequência pretendidos das operações, sem presumir que qualquer um dos modelos elimina o risco.</span>"
+    },
+    {
+      "key": "t841aab038cda5cad",
+      "english": "<span data-i18n-slot=\"0\">Use margin instead of paying the full share value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Use a margem em vez de pagar o valor total das ações.</span>"
+    },
+    {
+      "key": "tba122e16b65fb8bc",
+      "english": "<span data-i18n-slot=\"0\">Stock CFD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">CFD de ações</span>"
+    },
+    {
+      "key": "t0db035dbc12185a9",
+      "english": "<span data-i18n-slot=\"0\">Buying the Share Outright</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comprando a ação direta</span>"
+    },
+    {
+      "key": "te623b412afbe0b3e",
+      "english": "<span data-i18n-slot=\"0\">Ownership</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Propriedade</span>"
+    },
+    {
+      "key": "tc1034749df1d1d5f",
+      "english": "<span data-i18n-slot=\"0\">No ownership of the underlying share</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sem propriedade da ação subjacente</span>"
+    },
+    {
+      "key": "t4b386e244a5dea68",
+      "english": "<span data-i18n-slot=\"0\">Commonly requires full purchase value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Normalmente requer valor de compra total.</span>"
+    },
+    {
+      "key": "t609fc9063a0add7e",
+      "english": "<span data-i18n-slot=\"0\">Ability to go short</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Possibilidade de operar vendido</span>"
+    },
+    {
+      "key": "t310c4e1b40a7dd5d",
+      "english": "<span data-i18n-slot=\"0\">May require borrowing arrangements</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pode exigir acordos de empréstimo.</span>"
+    },
+    {
+      "key": "t4640f4c7c5dec599",
+      "english": "<span data-i18n-slot=\"0\">Cash adjustments may apply</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ajustes de caixa podem se aplicar.</span>"
+    },
+    {
+      "key": "t79f5068500e80509",
+      "english": "<span data-i18n-slot=\"0\">Shorter-term speculation or hedging</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Especulação de curto prazo ou cobertura</span>"
+    },
+    {
+      "key": "t811bda4a75cf40e6",
+      "english": "<span data-i18n-slot=\"0\">Share-price decline and concentration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Redução do preço das ações e concentração</span>"
+    },
+    {
+      "key": "t6c7a4e76d9255fd2",
+      "english": "<span data-i18n-slot=\"0\">Tesla: Deliveries, Margins and Management Commentary</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tesla: entregas, margens e comentários da administração</span>"
+    },
+    {
+      "key": "tfb32c52741a45dc1",
+      "english": "<span data-i18n-slot=\"0\">Nvidia: Data-Centre Demand, AI Spending and Outlook</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Nvidia: demanda de data centers, gastos com IA e perspectivas</span>"
+    },
+    {
+      "key": "t4d646460dfdac82c",
+      "english": "<span data-i18n-slot=\"0\">Earnings-Season Profile Comparison</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comparação de perfis na temporada de resultados</span>"
+    },
+    {
+      "key": "t93ea393b4f42705b",
+      "english": "<span data-i18n-slot=\"0\">Timing Consideration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Aspectos de horário a considerar</span>"
+    },
+    {
+      "key": "t06d0e0bd35731145",
+      "english": "<span data-i18n-slot=\"0\">Announcements commonly occur outside regular US hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Anúncios geralmente ocorrem fora do horário regular dos EUA.</span>"
+    },
+    {
+      "key": "t7f0996bc59ed46f0",
+      "english": "<span data-i18n-slot=\"0\">Deliveries, margins, pricing and commentary</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Entregas, margens, preços e comentários</span>"
+    },
+    {
+      "key": "t9b0d32f1d146b14f",
+      "english": "<span data-i18n-slot=\"0\">AI demand, data-centre revenue and guidance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Demanda por IA, receita de data centers e projeções</span>"
+    },
+    {
+      "key": "ta0a50c40f173eb80",
+      "english": "<span data-i18n-slot=\"0\">Can reprice sharply when guidance changes expectations</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pode revalorizar quando a orientação muda de expectativas.</span>"
+    },
+    {
+      "key": "t07c35a06043200c2",
+      "english": "<span data-i18n-slot=\"0\">Post-market releases may create gaps</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Lançamentos pós-mercado podem criar lacunas.</span>"
+    },
+    {
+      "key": "t155e5234cfdc6442",
+      "english": "<span data-i18n-slot=\"0\">*Qualitative descriptions only; they do not imply a fixed or expected move.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Apenas descrições qualitativas, não implicam um movimento fixo ou esperado.</span>"
+    },
+    {
+      "key": "t2430dab852cd48d8",
+      "english": "<span data-i18n-slot=\"0\">Step-by-Step: How to Trade a Stock CFD Around an Earnings Report</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Passo a passo: como negociar um CFD de ações em torno de um relatório de resultados</span>"
+    },
+    {
+      "key": "t80ae30d6e5eb40a8",
+      "english": "<span data-i18n-slot=\"0\">1. Confirm the Earnings Date and Time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Confirme a data e a hora da divulgação dos resultados</span>"
+    },
+    {
+      "key": "tda7d49497b5070ab",
+      "english": "<span data-i18n-slot=\"0\">3. Check the Volatility Environment</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. Verifique o ambiente de volatilidade.</span>"
+    }
+  ]
+}

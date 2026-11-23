@@ -1,0 +1,95 @@
+CURRENT FRONTEND-ONLY UPDATE (23 Nov 2026)
+Use FRONTEND_ONLY_RELEASE.txt and the fresh LOCAL_COMPLETION_REPORT.txt. Older backend-first integration instructions below are historical. No backend deployment is required for the frontend public cache.
+
+LOCAL MERGE SCOPE
+Latest SEO fixes: SEO_SHEET_FIXES.txt. Earlier video-only fix: VIDEO_PLAYBACK_FIX.txt.
+Current speed changes and before/after measurements: PERFORMANCE_CHANGES.txt.
+Remaining owner media/CDN work: MEDIA_OPTIMIZATION_REQUESTS.txt.
+GitHub: https://github.com/ITsoftexpert/upforex
+Main base: 34dd59577c54541b6286982a9341d534884b108a
+Local branch: integrate/local-seo-i18n-20261121
+The original project is backed up and remains separate. No push or deployment.
+
+MAIN FEATURES RETAINED
+- Current English typo/copy corrections, including the public blog correction helper.
+- Blog card/featured-guide styling and API-based Load More pagination.
+- Active V2 legal-document names, PDF destinations and visibility choices.
+- HTTP security headers, anonymous 5-minute edge caching and static asset cache rules.
+- Existing AML and tariff typo redirects.
+- 62 main CSS/SCSS files are byte-for-byte identical. Five files remove only an
+  unsupported MP4-as-background-image request; global styles prefer the same
+  Montserrat font in WOFF2 with TTF fallback. Layout and visible copy are retained.
+
+LOCAL FEATURES RETAINED
+- Angular 21 dependency security migration and its exact verified lockfile.
+- Native locale/page catalogs in initial SSR HTML; bounded page caches.
+- Completed-page self-canonical, self/reciprocal hreflang and clean URL normalization.
+- Existing approved spreadsheet metadata and three clean legacy blog slug migrations.
+- Full initial-HTML, translation, numeric/markup/link and metadata verification.
+- Deferred PDF libraries and existing public functionality.
+
+MERGE-SPECIFIC ADJUSTMENTS
+- Reconciled source differences in a separate clone/branch; resolved 22 file conflicts.
+- Updated 88 exact English translation keys changed by current main copy.
+- Reused validated targets for 62 meaning-equivalent English spelling/grammar changes.
+- Translated 26 genuinely changed labels/paragraphs into all 10 supported languages offline.
+- Retained source meanings and values, including corrected pip-calculator copy,
+  complete EA descriptions, current legal descriptions and main's fund-protection wording.
+- Kept original rich-text markup, link destinations and MQL5/Experts paths.
+- Mapped only the approved sheet's existing misspelled AML URL to main's real redirect target.
+- Combined CMS copy correction with local encoded stored-ID handling and clean public slugs.
+- Retained main initialization behavior using native SSR/page loaders; avoid bundling ten
+  complete language files into browser main JavaScript.
+- Archived the old generated catalog version outside shipped assets; no catalog deletion.
+- Extended verification for main typo redirects, actual server headers and blog/mobile behavior.
+
+LATEST RELEASE CHECK
+Supplied backend source is prepared separately in ../merged-upforex-backend.
+Complete local integration passes both strict 1,110-combination audits, all supplied
+sheet checks and actual browser/HTTP checks using isolated recorded CMS data.
+Production API/provider/proxy configuration still needs owner verification.
+Deploy backend first and rerun the checks against the real API, then deploy frontend.
+Exact steps: BACKEND_DEPLOYMENT_GUIDE.txt. No push or deployment was performed.
+
+BACKEND-INTEGRATION FRONTEND CHANGES
+- Listing requests use the backend's optional lightweight view=cards response.
+- Listing failures stop the spinner, retain loaded cards and return SSR 503.
+- Optional recommendation failures do not hold the article spinner open.
+- Verification-only HTTP transport targets the supplied loopback backend and labels
+  its corpus/target explicitly. Production runtime keeps the existing API origin.
+- No template, CSS, English article body or public page URL changed in this step.
+
+CURRENT COUNTS (catalog availability; fresh HTML results are in LOCAL_COMPLETION_REPORT.txt)
+111 current public pages x 10 non-English languages = 1,110 combinations.
+8,751 current English source messages available in each language; 0 missing.
+Catalog version: af81a4657e7a422981c5 (same body dictionaries; approved article heads refreshed).
+The count differs from the earlier local source because main's English/CMS corrections
+replace obsolete messages and unify duplicate wording. It does not drop current public pages.
+
+COMMANDS USED
+git fetch origin main: read main into the isolated clone; no remote modification.
+git switch -c integrate/local-seo-i18n-20261121 origin/main: create local integration branch.
+git diff / git merge-file: compare and reconcile local/base/main file changes.
+npm ci: install exact lockfile dependencies.
+npm run build:ssr: compile matching browser and server builds.
+npm run test:i18n: translation/SEO integrity and Angular component tests.
+npm run test:regression: main's copy, loader, blog-service and pagination tests.
+npm run test:server: security/cache rules and mocked purge tests; no live purge.
+npm audit: read current npm advisories; no audit fix --force.
+npm run verify:seo -- --require-complete: full initial-HTML SEO/body/redirect gate.
+npm run verify:ssr-i18n -- --require-complete: independent complete native SSR gate.
+node scripts/verify-merged-http.cjs: check actual built SSR security/cache behavior.
+node scripts/verify-security-browser.cjs: check browser routing, Load More and locale/mobile UI.
+node scripts/measure-i18n-performance.cjs: local warm SSR timing and compressed asset sizes.
+
+OWNER NOTES
+Use Node 24.18.0/npm 11.16.0. Main previously used Angular 16; hosting must support
+the updated Node requirement before deployment. Start Node SSR with npm run serve:ssr.
+Do not serve only the browser directory for multilingual initial HTML.
+All 317 metadata rows are reconciled: 312 canonical heads, five legacy aliases,
+two existing account actions and one user-confirmed obsolete 404 exclusion.
+The live Cloudflare email rewrite is prevented using supported origin HTML comments;
+actual edge behavior must be checked after deployment. See SEO_SHEET_FIXES.txt.
+No payment card, cloud account, API key or paid translation request was used.
+Local tests do not certify production hosting/CDN, live Core Web Vitals or authenticated writes.
+Translations have assistant/automated review; no native-speaker certification is claimed.

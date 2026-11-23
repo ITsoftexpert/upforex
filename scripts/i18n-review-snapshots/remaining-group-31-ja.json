@@ -1,0 +1,797 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t70dfeb75075cf15b",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">hammer</span><span data-i18n-slot=\"2\"> has a small body near the top of its range, a long lower wick, and little or no upper wick. It is usually watched after a decline.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">ハンマー</span><span data-i18n-slot=\"2\"> は、範囲の上部近くにある小さな本体、長い下部の芯、および上部の芯がほとんどまたはまったくありません。通常、下落後に注目されます。</span>"
+    },
+    {
+      "key": "taf9515029614cf58",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">shooting star</span><span data-i18n-slot=\"2\"> has a small body near the bottom of its range, a long upper wick, and little or no lower wick. Traders commonly watch for it after an upward move.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">流れ星</span><span data-i18n-slot=\"2\">は、範囲の底近くに小さな体があり、長い上芯があり、下芯はほとんどまたはまったくありません。トレーダーは通常、上昇相場の後に注目します。</span>"
+    },
+    {
+      "key": "t961b889f99c960b7",
+      "english": "<span data-i18n-slot=\"0\">The upper wick shows that buyers pushed price higher but could not hold those levels. Near resistance, a bearish next candle or a move below the pattern’s low can provide confirmation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">上部の芯は、買い手が価格を押し上げたが、その水準を維持できなかったことを示しています。レジスタンス付近、次の弱気のローソク足、またはパターンの安値を下回る動きは確認となる可能性があります。</span>"
+    },
+    {
+      "key": "t0c5b1e7acf85309c",
+      "english": "<span data-i18n-slot=\"0\">Spinning Top</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">こま</span>"
+    },
+    {
+      "key": "te49099be2d520cc0",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">spinning top</span><span data-i18n-slot=\"2\"> has a small body with visible upper and lower wicks. Unlike a doji, its open and close are not almost identical, but they remain close.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">コマ</span><span data-i18n-slot=\"2\">は実体が小さく、上下に明瞭なヒゲがあります。十字線とは異なり、始値と終値はほぼ同一ではありませんが、近い水準にあります。</span>"
+    },
+    {
+      "key": "tb23bc05808325944",
+      "english": "<span data-i18n-slot=\"0\">Bullish Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">強気のローソク足パターン</span>"
+    },
+    {
+      "key": "t51dd18c3086ffa59",
+      "english": "<span data-i18n-slot=\"0\">Bullish candlestick patterns may show increasing buying pressure or a weakening downtrend. They are most useful when supported by context and confirmation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">強気のローソク足パターンは、購入圧力の増大または下降トレンドの弱まりを示している可能性があります。これらは、コンテキストと確認によってサポートされている場合に最も役立ちます。</span>"
+    },
+    {
+      "key": "t4b95f3a9757cd44b",
+      "english": "<span data-i18n-slot=\"0\">Bullish Engulfing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">強気の巻き込み</span>"
+    },
+    {
+      "key": "t239fc3be8ba9904c",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">bullish engulfing pattern</span><span data-i18n-slot=\"2\"> uses two candles: a bearish candle followed by a larger bullish candle whose body covers the previous body.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">強気巻き込みパターン</span><span data-i18n-slot=\"2\">では、二 つのローソク足が使用されます。弱気なローソク足の後に、実体が前の実体を覆う大きな強気のローソク足が続きます。</span>"
+    },
+    {
+      "key": "taa8002f7ccff84d5",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">morning star</span><span data-i18n-slot=\"2\"> is a three-candle bullish reversal pattern: a strong bearish candle, a small-bodied candle, and a bullish candle.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">モーニングスター</span><span data-i18n-slot=\"2\">は、三本のローソク足の強気反転パターンです。強い弱気のローソク足、小型のローソク足、そして強気のローソク足です。</span>"
+    },
+    {
+      "key": "t0f6f527f8360b54d",
+      "english": "<span data-i18n-slot=\"0\">The sequence shows seller control, hesitation, and then buyer recovery. It is more meaningful after a clear downtrend, particularly when the third candle closes strongly near support.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">この並びは、売り手の優勢、迷い、そして買い手の回復を示します。明確な下降トレンドの後、特に三本目のローソク足がサポート付近で強い引け方をした場合に、より意味を持ちます。</span>"
+    },
+    {
+      "key": "t37090010666c9bbe",
+      "english": "<span data-i18n-slot=\"0\">Piercing Line</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ピアスライン</span>"
+    },
+    {
+      "key": "te295685fcdcee937",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">piercing line</span><span data-i18n-slot=\"2\"> begins with a bearish candle, followed by a bullish candle that closes above the midpoint of the first candle’s body.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">ピアスライン</span><span data-i18n-slot=\"2\">は弱気のローソク足で始まり、最初のローソク足の実体の中間点より上で閉じる強気のローソク足が続きます。</span>"
+    },
+    {
+      "key": "tf2e9c1755100c847",
+      "english": "<span data-i18n-slot=\"0\">Bearish Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">弱気のローソク足パターン</span>"
+    },
+    {
+      "key": "t8b2276840744a08e",
+      "english": "<span data-i18n-slot=\"0\">Bearish candlestick patterns may show increasing selling pressure or a weakening uptrend.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">弱気のローソク足パターンでは、売り圧力の増大や上昇トレンドの弱まりが示される可能性があります。</span>"
+    },
+    {
+      "key": "tdfe0354e962999e8",
+      "english": "<span data-i18n-slot=\"0\">Bearish Engulfing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">弱気の巻き込み</span>"
+    },
+    {
+      "key": "t947dedd1e2ca668b",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">bearish engulfing pattern</span><span data-i18n-slot=\"2\"> uses a bullish candle followed by a larger bearish candle whose body covers the previous body.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">弱気巻き込みパターン</span><span data-i18n-slot=\"2\">では、強気のローソク足の後に、実体が前の実体を覆う大きな弱気のローソク足が続きます。</span>"
+    },
+    {
+      "key": "t64bb794a984e9f7e",
+      "english": "<span data-i18n-slot=\"0\">An </span><span data-i18n-slot=\"1\">evening star</span><span data-i18n-slot=\"2\"> is a three-candle bearish reversal pattern: a strong bullish candle, a small-bodied candle, and a bearish candle.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">宵の明星</span><span data-i18n-slot=\"2\">は、三本のローソク足の弱気反転パターンです。強い強気のローソク足、小型のローソク足、そして弱気のローソク足です。</span>"
+    },
+    {
+      "key": "t9d89a5b78f8605dd",
+      "english": "<span data-i18n-slot=\"0\">Dark Cloud Cover</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">かぶせ線</span>"
+    },
+    {
+      "key": "teb5f2903c540a87b",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">dark cloud cover</span><span data-i18n-slot=\"2\"> pattern begins with a bullish candle. The next candle is bearish and closes below the midpoint of the previous bullish body.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">暗雲に覆われた</span><span data-i18n-slot=\"2\">パターンは強気のローソク足で始まります。次のローソク足は弱気で、前の強気の実体の中間点を下回って終了します。</span>"
+    },
+    {
+      "key": "t8f3a5d67288b36e7",
+      "english": "<span data-i18n-slot=\"0\">Reversal Candlestick Patterns: What They Signal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">反転ローソク足パターン: それが何を示すか</span>"
+    },
+    {
+      "key": "t2e96b6763d6bdc22",
+      "english": "<span data-i18n-slot=\"0\">The hammer, bullish engulfing pattern, morning star, and piercing line are commonly treated as bullish reversal signals. The shooting star, bearish engulfing pattern, evening star, and dark cloud cover are bearish reversal signals. A doji or spinning top mainly shows indecision.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ハンマー、強気の包み足、明けの明星、切り込み線は、一般に上昇反転のシグナルとされます。流れ星、弱気の包み足、宵の明星、かぶせ線は下降反転のシグナルです。十字線やコマは主に迷いを示します。</span>"
+    },
+    {
+      "key": "tff302e482e6455cc",
+      "english": "<span data-i18n-slot=\"0\">For example, imagine a market making lower highs and lower lows. A small bearish candle forms near support, followed by a larger bullish engulfing candle. The next candle closes above the pattern’s high, and the price begins moving upward.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">たとえば、市場が高値を切り下げ、安値を切り下げていると想像してください。小さな弱気のローソク足がサポート付近に形成され、その後に大きな強気の巻き込みローソク足が続きます。次のローソク足はパターンの高値を超えて終了し、価格は上昇し始めます。</span>"
+    },
+    {
+      "key": "t8be61c0d4c75e329",
+      "english": "<span data-i18n-slot=\"0\">Quick-Reference Table: Bullish vs. Bearish Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">早見表: 強気パターンと弱気パターン</span>"
+    },
+    {
+      "key": "tb71174060796f5f0",
+      "english": "<span data-i18n-slot=\"0\">Quick-Reference: Bullish vs. Bearish Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">クイックリファレンス: 強気のローソク足パターンと弱気のローソク足パターン</span>"
+    },
+    {
+      "key": "t96ec432ec33f8f6a",
+      "english": "<span data-i18n-slot=\"0\">Candles Involved</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">キャンドルの関係</span>"
+    },
+    {
+      "key": "t47e95aa3d526cf47",
+      "english": "<span data-i18n-slot=\"0\">What It Signals</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">何を知らせるのか</span>"
+    },
+    {
+      "key": "t6892db8c7460f650",
+      "english": "<span data-i18n-slot=\"0\">Bullish reversal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">強気の反転</span>"
+    },
+    {
+      "key": "t99a20dff101789c9",
+      "english": "<span data-i18n-slot=\"0\">A large bullish candle covers the prior bearish candle’s body</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">大きな強気のローソク足が前の弱気のローソク足の実体を覆う</span>"
+    },
+    {
+      "key": "t8a87f2c59346a4c7",
+      "english": "<span data-i18n-slot=\"0\">A bullish candle closes above the midpoint of the prior bearish body</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">強気のローソク足は、前の弱気の実体の中間点を上回って終了します。</span>"
+    },
+    {
+      "key": "t46104251f3154553",
+      "english": "<span data-i18n-slot=\"0\">Bearish reversal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">弱気反転</span>"
+    },
+    {
+      "key": "t07b895530505a749",
+      "english": "<span data-i18n-slot=\"0\">A large bearish candle covers the prior bullish candle’s body</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">大きな弱気のローソク足が前の強気のローソク足の実体を覆う</span>"
+    },
+    {
+      "key": "t920de059d444fe4b",
+      "english": "<span data-i18n-slot=\"0\">A bearish candle closes below the midpoint of the prior bullish body</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">弱気のローソク足は、前の強気の実体の中間点を下回って終了します。</span>"
+    },
+    {
+      "key": "tdbb777c67bf523e2",
+      "english": "<span data-i18n-slot=\"0\">Neutral or indecision</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">中立または優柔不断</span>"
+    },
+    {
+      "key": "t7a76e1c773684e85",
+      "english": "<span data-i18n-slot=\"0\">The open and close are nearly equal, showing uncertainty</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">始値と終値はほぼ等しく、不確実性が示されている</span>"
+    },
+    {
+      "key": "t7bd9ec49a215f053",
+      "english": "<span data-i18n-slot=\"0\">This table is a quick reference, not a complete trading system. Traders should not assign a fixed accuracy rate to any formation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">この表はクイックリファレンスであり、完全な取引システムではありません。トレーダーは、いかなるフォーメーションにも固定の的中率を割り当てるべきではありません。</span>"
+    },
+    {
+      "key": "t0457c61f42486a0d",
+      "english": "<span data-i18n-slot=\"0\">How to Confirm a Candlestick Pattern Before Trading It</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引前にローソク足パターンを確認する方法</span>"
+    },
+    {
+      "key": "t33dc7adfc8d76d3f",
+      "english": "<span data-i18n-slot=\"0\">Indicators should support price analysis rather than replace it. UpForex describes</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">its advanced charting tools for spotting candlestick formations</span></span><span data-i18n-slot=\"4\"> as including real-time prices, candlestick charts, drawing tools, and indicators such as RSI, MACD, and Fibonacci retracements.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">インジケーターは、価格分析を置き換えるのではなく、サポートする必要があります。 UpForex では、</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">リアルタイム価格、ローソク足チャート、描画ツール、RSI、MACD、フィボナッチ リトレースメントなどのインジケーターを含む、ローソク足形成を検出するための高度なチャート ツールについて</span></span><span data-i18n-slot=\"4\">説明しています。</span>"
+    },
+    {
+      "key": "t07de07598aaf0963",
+      "english": "<span data-i18n-slot=\"0\">Traders can also study</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">a structured strategy such as the 1-hour forex strategy, which uses candlestick confirmation signals</span></span><span data-i18n-slot=\"4\">. Any strategy should be tested independently and adapted to the trader’s market, timeframe, costs, and risk limits.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは、</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">ローソク足の確認シグナルを使う1時間足の外国為替戦略など、体系的な戦略</span></span><span data-i18n-slot=\"4\">を学ぶこともできます。どの戦略も独立して検証し、取引する市場、時間足、コスト、リスク限度に合わせる必要があります。</span>"
+    },
+    {
+      "key": "td76198ed2e219a35",
+      "english": "<span data-i18n-slot=\"0\">Common Mistakes When Reading Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローソク足パターンを読み取る際のよくある間違い</span>"
+    },
+    {
+      "key": "tb577c8a401410626",
+      "english": "<span data-i18n-slot=\"0\">Trading a pattern in isolation:</span><span data-i18n-slot=\"1\"> A shape without trend or market structure provides limited information.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">パターンを単独で取引する:</span><span data-i18n-slot=\"1\"> トレンドや市場構造のない形状では、限られた情報が提供されます。</span>"
+    },
+    {
+      "key": "t33cbd185986f7a33",
+      "english": "<span data-i18n-slot=\"0\">Entering before the candle closes:</span><span data-i18n-slot=\"1\"> The pattern can change before the timeframe ends.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローソク足が閉じる前にエントリーする:</span><span data-i18n-slot=\"1\"> 時間枠が終了する前にパターンが変わる可能性があります。</span>"
+    },
+    {
+      "key": "t9fe833715d2d29a9",
+      "english": "<span data-i18n-slot=\"0\">Ignoring the broader trend:</span><span data-i18n-slot=\"1\"> A small reversal signal may not overcome strong momentum.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">より広範なトレンドを無視する:</span><span data-i18n-slot=\"1\"> 小さな反転シグナルでは、強い勢いを克服できない可能性があります。</span>"
+    },
+    {
+      "key": "t38df9d8401a3c23c",
+      "english": "<span data-i18n-slot=\"0\">Treating every wick as rejection:</span><span data-i18n-slot=\"1\"> Wicks can result from normal volatility.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">すべての芯を不合格として扱う:</span><span data-i18n-slot=\"1\"> 芯は通常のボラティリティによって生じる可能性があります。</span>"
+    },
+    {
+      "key": "tee59b96904716331",
+      "english": "<span data-i18n-slot=\"0\">Skipping practice:</span><span data-i18n-slot=\"1\"> Traders should</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">practice reading patterns on a demo account before trading live</span></span><span data-i18n-slot=\"5\">, while recognising that demo results cannot reproduce every live-trading challenge.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">練習を省略する:</span><span data-i18n-slot=\"1\">トレーダーは</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">ライブ取引する前にデモ口座でパターンを読む練習をする必要があります</span></span><span data-i18n-slot=\"5\">。ただし、デモの結果ではライブ取引のすべての課題を再現できるわけではないことを認識してください。</span>"
+    },
+    {
+      "key": "tfffe466e4d55843c",
+      "english": "<span data-i18n-slot=\"0\">What is a candlestick pattern?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローソク足パターンとは何ですか?</span>"
+    },
+    {
+      "key": "t11ddd2ab92387daf",
+      "english": "<span data-i18n-slot=\"0\">A candlestick pattern is a formation created by one or more price candles. Each candle shows the open, high, low, and close for a selected period. Traders study the body, wicks, position, and surrounding trend to assess market sentiment and possible continuation, reversal, or indecision.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローソク足パターンは、一 つまたは複数の価格ローソクによって作成されるフォーメーションです。各ローソク足は、選択した期間の始値、高値、安値、終値を示します。トレーダーは、本体、芯、ポジション、周囲のトレンドを研究して、市場センチメントと継続、反転、または優柔不断の可能性を評価します。</span>"
+    },
+    {
+      "key": "t32b6f50edb9ccac2",
+      "english": "<span data-i18n-slot=\"0\">How do you read a candlestick chart?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローソク足チャートはどうやって読むのですか？</span>"
+    },
+    {
+      "key": "te86de32c4bed198e",
+      "english": "<span data-i18n-slot=\"0\">First select the timeframe, then examine each candle’s body and wicks. Compare the candle with earlier price action and identify the broader trend, support, and resistance. Finally, wait for confirmation and define the trade’s invalidation point rather than acting on the candle shape alone.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">まず時間枠を選択し、次に各キャンドルの本体と芯を調べます。ローソク足を以前の価格変動と比較し、より広範なトレンド、サポート、レジスタンスを特定します。最後に、確認を待って、ローソク足の形状だけに基づいて行動するのではなく、取引の無効化ポイントを定義します。</span>"
+    },
+    {
+      "key": "tb937c674c3045b26",
+      "english": "<span data-i18n-slot=\"0\">What are the most reliable candlestick patterns?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最も信頼できるローソク足パターンは何ですか?</span>"
+    },
+    {
+      "key": "ta233cc06135fc5d4",
+      "english": "<span data-i18n-slot=\"0\">No pattern is universally the most reliable. Traders commonly watch the hammer, shooting star, engulfing patterns, morning star, and evening star. Their usefulness depends on where they form, the strength of the prior trend, the next candle, market volatility, and the trader’s risk-management rules.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">普遍的に最も信頼できるパターンはありません。トレーダーは通常、ハンマー、流れ星、飲み込みパターン、明けの明星、宵の明星を観察します。それらの有用性は、それらが形成される場所、前のトレンドの強さ、次のローソク足、市場のボラティリティ、トレーダーのリスク管理ルールによって異なります。</span>"
+    },
+    {
+      "key": "t164481225415e658",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between a bullish and bearish candlestick?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">強気のローソク足と弱気のローソク足の違いは何ですか?</span>"
+    },
+    {
+      "key": "t2c7f1d37750fdec9",
+      "english": "<span data-i18n-slot=\"0\">A bullish candle closes above its opening price and shows that buyers gained ground during the period. A bearish candle closes below its opening price and shows that sellers gained ground. Candle colour varies by platform, so the relationship between the open and close is more important than colour.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">強気のローソク足は始値を上回って終了し、期間中に買い手が地盤を広げたことを示します。弱気のローソク足は始値を下回って終了し、売り手が優勢になったことを示しています。キャンドルの色はプラットフォームによって異なるため、色よりも始値と終値の関係の方が重要です。</span>"
+    },
+    {
+      "key": "te2192a25961abeb7",
+      "english": "<span data-i18n-slot=\"0\">Are candlestick patterns accurate for predicting price moves?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローソク足のパターンは価格変動を予測するのに正確ですか?</span>"
+    },
+    {
+      "key": "td7c1b02f20f5f627",
+      "english": "<span data-i18n-slot=\"0\">What is the best candlestick pattern for beginners to learn first?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初心者が最初に学ぶのに最適なローソク足パターンは何ですか?</span>"
+    },
+    {
+      "key": "tabbcb8313b6aeb4b",
+      "english": "<span data-i18n-slot=\"0\">The doji, hammer, shooting star, and bullish and bearish engulfing patterns are useful starting points. Their structures are relatively easy to recognise, and they teach key concepts such as indecision, price rejection, and shifts in control between buyers and sellers.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">十字線、ハンマー、流れ星、強気と弱気の包み足は、学習の出発点として役立ちます。比較的見分けやすい構造で、迷い、価格の拒否、買い手と売り手の主導権の変化などの重要な概念を学べます。</span>"
+    },
+    {
+      "key": "t8fd4fbd8464d2690",
+      "english": "<span data-i18n-slot=\"0\">Can candlestick patterns be used in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローソク足パターンは外国為替取引で使用できますか?</span>"
+    },
+    {
+      "key": "td6fc96539acbcd01",
+      "english": "<span data-i18n-slot=\"0\">Yes. Forex candlestick patterns can be studied on currency charts across different timeframes. The same pattern principles also apply to many CFD markets. However, forex traders must consider spreads, leverage, economic announcements, liquidity, and rapid volatility before making a trading decision.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">はい。外国為替ローソク足パターンは、さまざまな時間枠にわたる通貨チャートで研究できます。同じパターン原則が多くの CFD 市場にも当てはまります。ただし、外国為替トレーダーは、取引を決定する前に、スプレッド、レバレッジ、経済発表、流動性、および急速なボラティリティを考慮する必要があります。</span>"
+    },
+    {
+      "key": "t35b83bc97cf8c46f",
+      "english": "<span data-i18n-slot=\"0\">Candlestick analysis works best as part of a complete process. A trader should understand the market context, wait for confirmation, define risk, and accept that even a well-formed pattern can fail.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ローソク足分析は、完全なプロセスの一部として最適に機能します。トレーダーは市場の状況を理解し、確認を待ち、リスクを定義し、整ったパターンであっても失敗する可能性があることを受け入れる必要があります。</span>"
+    },
+    {
+      "key": "t94e6ac268717ee24",
+      "english": "<span data-i18n-slot=\"0\">Retail forex and CFD traders also compete against firms with stronger technology, research, and formal risk controls. Retail profitability is not impossible, but discipline matters more than prediction.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">個人の外国為替およびCFDトレーダーも、より強力なテクノロジー、調査、正式なリスク管理を備えた企業と競合します。小売の収益性は不可能ではありませんが、予測よりも規律が重要です。</span>"
+    },
+    {
+      "key": "t7ebb3854165b1392",
+      "english": "<span data-i18n-slot=\"0\">Quick answer:</span><span data-i18n-slot=\"1\"> Most retail traders lose money because they combine high leverage with weak risk controls, inconsistent strategies, emotional decisions, and unrealistic expectations. The problem is rarely one bad trade. It is usually a repeated pattern: risking too much, entering without a tested plan, moving a stop-loss, chasing losses, or trading in unfamiliar conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">簡単な答え:</span><span data-i18n-slot=\"1\"> ほとんどの個人トレーダーは、高いレバレッジと脆弱なリスク管理、一貫性のない戦略、感情的な決定、非現実的な期待を組み合わせることで損失を被ります。問題が 一 つの悪い取引であることはほとんどありません。通常、これは繰り返されるパターンです。リスクを負いすぎる、計画をテストせずにエントリーする、ストップロスを移動する、損失を追う、または不慣れな状況で取引するなどです。</span>"
+    },
+    {
+      "key": "t7e2cbd4cfa4378ba",
+      "english": "<span data-i18n-slot=\"0\">A retail trader is an individual who trades financial markets using personal funds rather than money managed for a bank, hedge fund, pension fund, or other institution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">個人トレーダーは、銀行、ヘッジファンド、年金基金、その他の機関のために管理される資金ではなく、個人の資金を使用して金融市場を取引する個人です。</span>"
+    },
+    {
+      "key": "t43f70403165003a9",
+      "english": "<span data-i18n-slot=\"0\">Retail forex traders use online platforms to trade currencies, commodities, indices, shares, and CFDs. They usually make decisions independently and have less capital, research, and oversight than institutional traders.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">個人の外国為替トレーダーは、オンライン プラットフォームを使用して通貨、商品、指数、株式、CFD を取引します。彼らは通常、独立して意思決定を行い、機関投資家よりも資本、調査、監督が少なくなります。</span>"
+    },
+    {
+      "key": "t9b9744be45f2a0e0",
+      "english": "<span data-i18n-slot=\"0\">How Many Retail Traders Actually Make Money?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">実際に利益を上げている小売トレーダーは何人いるのでしょうか?</span>"
+    },
+    {
+      "key": "t804e86c2cb74b7c0",
+      "english": "<span data-i18n-slot=\"0\">There is no single reliable answer to “What percentage of retail traders make money?” Broker figures cannot represent every market or region. Results vary with leverage, costs, experience, market conditions, product type, and the period measured.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">「小売トレーダーの何パーセントが利益を上げているか?」に対する唯一の信頼できる答えはありません。ブローカーの数字はすべての市場や地域を表すことはできません。結果は、レバレッジ、コスト、経験、市場状況、製品タイプ、測定期間によって異なります。</span>"
+    },
+    {
+      "key": "t94dfc1c95c1afd17",
+      "english": "<span data-i18n-slot=\"0\">Searches for the success rate of retail forex traders, success rate of retail day traders statistics, or statistics on retail day traders losing money often produce different figures because disclosures measure different products, regions, and periods. The question “can retail forex traders make money?” therefore cannot be answered with one universal percentage. Some traders do make profits, but consistent results require a tested edge, disciplined execution, and controlled risk.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">個人FXトレーダーの成功率、個人デイトレーダーの成功率統計、または個人デイトレーダーの損失に関する統計を検索すると、開示内容が異なる製品、地域、期間を測定するため、異なる数値が得られることがよくあります。 「個人FXトレーダーは儲かるのか？」という疑問。したがって、普遍的な 一 つのパーセンテージで答えることはできません。一部のトレーダーは利益を上げていますが、一貫した結果を得るには、テストされたエッジ、規律ある実行、および管理されたリスクが必要です。</span>"
+    },
+    {
+      "key": "tee73d9e15d570eeb",
+      "english": "<span data-i18n-slot=\"0\">Retail Traders vs. Institutional Traders: Why the Odds Differ</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">個人トレーダーと機関投資家: オッズが異なる理由</span>"
+    },
+    {
+      "key": "t47658aff2c91d02b",
+      "english": "<span data-i18n-slot=\"0\">Retail and institutional traders operate in the same markets, but their working environments are very different.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">個人トレーダーと機関投資家は同じ市場で活動していますが、その労働環境は大きく異なります。</span>"
+    },
+    {
+      "key": "t75511f854709e121",
+      "english": "<span data-i18n-slot=\"0\">Retail Traders vs. Institutional Traders: Key Differences</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">個人トレーダーと機関投資家: 主な違い</span>"
+    },
+    {
+      "key": "t6cb95b8cf6614450",
+      "english": "<span data-i18n-slot=\"0\">Factor</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因子</span>"
+    },
+    {
+      "key": "t916a6ce7ad0cf123",
+      "english": "<span data-i18n-slot=\"0\">Institutional Traders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">機関投資家トレーダー</span>"
+    },
+    {
+      "key": "t5e9f12c7eb0a1087",
+      "english": "<span data-i18n-slot=\"0\">Large pooled or managed capital</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">大規模なプールまたは管理資本</span>"
+    },
+    {
+      "key": "t80356797f7198ae9",
+      "english": "<span data-i18n-slot=\"0\">May be informal or inconsistent</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">非公式または矛盾している可能性があります</span>"
+    },
+    {
+      "key": "t52aef77089f2ffbe",
+      "english": "<span data-i18n-slot=\"0\">Frequently overused for faster returns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">短期間で利益を得ようとして使い過ぎることが多い</span>"
+    },
+    {
+      "key": "t92528d377fa66165",
+      "english": "<span data-i18n-slot=\"0\">Typical outcome pattern</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的な結果パターン</span>"
+    },
+    {
+      "key": "t368cbdccfe39162a",
+      "english": "<span data-i18n-slot=\"0\">A larger share experience net losses</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">純損失を被る人の割合がより高い</span>"
+    },
+    {
+      "key": "t24a6cfa028b0dfcc",
+      "english": "<span data-i18n-slot=\"0\">The Real Reasons Retail Traders Lose Money</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">小売トレーダーが損失を被る本当の理由</span>"
+    },
+    {
+      "key": "t9d94a4f348ea752b",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging and Margin Risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">過剰レバレッジとマージンリスク</span>"
+    },
+    {
+      "key": "t29d337aa6c2abb06",
+      "english": "<span data-i18n-slot=\"0\">Leverage lets a trader control a position larger than the deposit. It amplifies gains and losses, so a small market move can sharply change account equity and trigger a margin call or stop-out.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジを利用すると、トレーダーは入金額より大きなポジションを管理できます。利益と損失が増幅されるため、小さな市場変動が口座資本を急激に変化させ、マージンコールやストップアウトを引き起こす可能性があります。</span>"
+    }
+  ]
+}

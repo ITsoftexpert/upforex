@@ -1,0 +1,519 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t3a6f908be322403f",
+      "english": "Start with a clear purpose. Decide:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "从一个明确的目标开始。决定："
+    },
+    {
+      "key": "t137af4c094c969f4",
+      "english": "Which currency pairs you will study",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "您将研究哪些货币对"
+    },
+    {
+      "key": "tf0e43f7ab96a92c4",
+      "english": "The most you will risk on one trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "您在一笔交易中承受的最大风险"
+    },
+    {
+      "key": "tcccad7dc1ffa46a0",
+      "english": "<span data-i18n-slot=\"0\">Moving averages:</span> show price direction over a set period",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">移动平均线：</span>显示一段时间内的价格走向"
+    },
+    {
+      "key": "t6e2c69ef7c5af9a1",
+      "english": "Jobs data",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "就业数据"
+    },
+    {
+      "key": "t6ba10a2d5ce392b3",
+      "english": "<span data-i18n-slot=\"0\">Either way, read each release in context. Don’t treat it as a stand-alone signal.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">无论采取哪种方式，都应结合背景解读每次发布的数据，不要将其视为独立的交易信号。</span>"
+    },
+    {
+      "key": "t466dca3117900d23",
+      "english": "Instead, set clear triggers for a review:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "相反，为审核设置明确的触发器："
+    },
+    {
+      "key": "ta42788af6fdd04c5",
+      "english": "A lasting rise in volatility",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "波动性持续上升"
+    },
+    {
+      "key": "te10480e0e82115f0",
+      "english": "A big shift in the economic outlook",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "经济前景发生重大转变"
+    },
+    {
+      "key": "tc217dc3ad4c2cda8",
+      "english": "Your position size",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "您的头寸规模"
+    },
+    {
+      "key": "t4e48a0fbd154a417",
+      "english": "The most exposure you will accept",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "您能接受的最大市场风险敞口"
+    },
+    {
+      "key": "t35a9a19b87ec03eb",
+      "english": "When you will exit a trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "当您退出交易时"
+    },
+    {
+      "key": "tf46fc8278bd01ec7",
+      "english": "Spreads",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "点差"
+    },
+    {
+      "key": "ta6ac25c0dc2b8a50",
+      "english": "Slippage",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "滑点"
+    },
+    {
+      "key": "te9ff0898bbb55898",
+      "english": "A demo account lets you learn the platform and practice your rules without risking real capital. Demo results can still differ from live trading. Execution, liquidity and emotions all play a part.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "模拟账户让您学习平台并练习交易规则，而无需承担真实资金损失的风险。模拟结果仍可能与实盘交易不同，成交执行、流动性和情绪都会产生影响。"
+    },
+    {
+      "key": "t1829c25770699981",
+      "english": "AccountEquity",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#tag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "账户净值"
+    },
+    {
+      "key": "t811c42f7b95fbda1",
+      "english": "ACCOUNTEQUITY",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#upperTag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "账户权益"
+    },
+    {
+      "key": "t9408ef9a0137d1c0",
+      "english": "ForexTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#tag",
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#tag",
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#tag",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "外汇交易"
+    },
+    {
+      "key": "tf59b305a85397500",
+      "english": "FOREXTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#upperTag",
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#upperTag",
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#upperTag",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "外汇交易"
+    },
+    {
+      "key": "t21e66207ea376c29",
+      "english": "FLOATINGPL",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#upperTag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "浮动PL"
+    },
+    {
+      "key": "tb6acb6ba80437a58",
+      "english": "<span data-i18n-slot=\"0\">Account balance is the settled value of a trading account excluding current open-position profit or loss. Account equity adjusts that balance in real time for floating P/L. Floating P/L is the unrealized result of open trades, which is why Balance and Equity can show different figures at the same moment.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">账户余额是交易账户已结算的价值，不包括当前未平仓头寸的损益。账户净值是在余额基础上实时计入浮动盈亏后的数值。浮动盈亏是未平仓交易尚未实现的结果，因此余额和净值可能在同一时刻显示不同的数字。</span>"
+    },
+    {
+      "key": "t03b769993d56b901",
+      "english": "<span data-i18n-slot=\"0\">Withdrawals</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">提款</span>"
+    },
+    {
+      "key": "t67f67fda5165997a",
+      "english": "<span data-i18n-slot=\"0\">Profit from closed trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">平仓交易的利润</span>"
+    },
+    {
+      "key": "t8d09d97bee69f739",
+      "english": "<span data-i18n-slot=\"0\">Losses from closed trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">平仓交易造成的损失</span>"
+    },
+    {
+      "key": "tb767e7d41eee22ac",
+      "english": "<span data-i18n-slot=\"0\">Balance is therefore useful for understanding settled account value, but it does not provide the complete real-time picture when positions remain open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因此，余额对于了解结算账户价值很有用，但它无法提供未平仓头寸的完整实时情况。</span>"
+    },
+    {
+      "key": "t7330da727b69b6d6",
+      "english": "<span data-i18n-slot=\"0\">What Is Account Equity?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是账户净值？</span>"
+    },
+    {
+      "key": "t9891396dc64d31d5",
+      "english": "<span data-i18n-slot=\"0\">Account equity</span><span data-i18n-slot=\"1\"> is the current value of a trading account after the net floating profit or loss from open positions is included.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">账户净值</span><span data-i18n-slot=\"1\">是指交易账户在计入未平仓净浮动盈亏后的当前价值。</span>"
+    },
+    {
+      "key": "tece23dd497c2fc0c",
+      "english": "<span data-i18n-slot=\"0\">In brokerage-account terminology, this is the practical definition of equity for a forex or CFD trading account: it combines the settled Balance with the current unrealized result of open positions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在经纪账户术语中，这是外汇或差价合约交易账户权益的实际定义：它将结算余额与未平仓头寸的当前未实现结果相结合。</span>"
+    },
+    {
+      "key": "t2b64436cafafa594",
+      "english": "<span data-i18n-slot=\"0\">Equity = Balance + Net Floating P/L</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">净值 = 余额 + 净浮动盈亏</span>"
+    },
+    {
+      "key": "t77deac8fdf69ad31",
+      "english": "<span data-i18n-slot=\"0\">The net floating P/L may be positive or negative.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">净浮动盈亏可能为正或为负。</span>"
+    },
+    {
+      "key": "td185cb4858823f00",
+      "english": "<span data-i18n-slot=\"0\">Net floating P/L = +$300</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">净浮动盈亏 = +300 美元</span>"
+    },
+    {
+      "key": "ta1afb95e18b77b46",
+      "english": "<span data-i18n-slot=\"0\">Net floating P/L = -$300</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">净浮动盈亏 = -$300</span>"
+    },
+    {
+      "key": "tfc969644848d713c",
+      "english": "<span data-i18n-slot=\"0\">What Is Floating Profit and Loss?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是浮动盈亏？</span>"
+    },
+    {
+      "key": "t1dd17a8ad33ba16c",
+      "english": "<span data-i18n-slot=\"0\">Floating P/L</span><span data-i18n-slot=\"1\"> is the unrealized profit or loss associated with positions that are still open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">浮动盈亏</span><span data-i18n-slot=\"1\">是与未平仓头寸相关的未实现利润或损失。</span>"
+    },
+    {
+      "key": "t6141cc3eeb5ff082",
+      "english": "<span data-i18n-slot=\"0\">While the position remains open, the result is unrealized.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">当仓位保持未平仓状态时，结果尚未实现。</span>"
+    },
+    {
+      "key": "t837a8c7d2404da29",
+      "english": "<span data-i18n-slot=\"0\">When the trade closes:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易结束时：</span>"
+    },
+    {
+      "key": "tc3307dfb041aeb79",
+      "english": "<span data-i18n-slot=\"0\">The closed position stops contributing floating P/L to Equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">平仓头寸停止为净值贡献浮动盈亏。</span>"
+    },
+    {
+      "key": "tedf19867c06ddabb",
+      "english": "<span data-i18n-slot=\"0\">This is why Balance can stay exactly the same for some time while Equity moves continuously.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这就是为什么余额可以在一段时间内保持完全相同，而净值却不断变化。</span>"
+    },
+    {
+      "key": "tc2c95a6dd071da21",
+      "english": "<span data-i18n-slot=\"0\">What It Measures</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">衡量什么</span>"
+    },
+    {
+      "key": "t4a96d7c3503674bd",
+      "english": "<span data-i18n-slot=\"0\">Stays Fixed When...</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在...时保持固定</span>"
+    },
+    {
+      "key": "t4d1139b404a76d6c",
+      "english": "<span data-i18n-slot=\"0\">Settled account value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">已结算账户价值</span>"
+    },
+    {
+      "key": "tea0369892db87861",
+      "english": "<span data-i18n-slot=\"0\">A position closes, a deposit or withdrawal posts, or another completed balance adjustment occurs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">头寸平仓、存款或取款过账或其他已完成的余额调整发生</span>"
+    },
+    {
+      "key": "t3c2c4bdc7e9d71ca",
+      "english": "<span data-i18n-slot=\"0\">Open positions simply move in price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">未平仓头寸只是价格变动</span>"
+    },
+    {
+      "key": "t98bb8eb33604ff39",
+      "english": "<span data-i18n-slot=\"0\">Account Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">账户净值</span>"
+    },
+    {
+      "key": "ta02b0e5b7466133d",
+      "english": "<span data-i18n-slot=\"0\">Current account value including open-position results</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">当前账户价值，包括未平仓头寸结果</span>"
+    },
+    {
+      "key": "t6aeb0e382de1c110",
+      "english": "<span data-i18n-slot=\"0\">Floating P/L or Balance changes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">浮动盈亏或余额变化</span>"
+    },
+    {
+      "key": "tf9a07a91c6ee22b7",
+      "english": "<span data-i18n-slot=\"0\">Neither Balance nor floating P/L changes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">余额和浮动盈亏都没有变化</span>"
+    },
+    {
+      "key": "tbbc80d826bdcdade",
+      "english": "<span data-i18n-slot=\"0\">Floating P/L</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">浮动盈亏</span>"
+    },
+    {
+      "key": "t9c452f062f13e150",
+      "english": "<span data-i18n-slot=\"0\">Unrealized result of open positions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">未平仓结果</span>"
+    },
+    {
+      "key": "t9186ddd4e8e7a39c",
+      "english": "<span data-i18n-slot=\"0\">Market prices change while positions remain open</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市场价格发生变化，而持仓仍保持不变</span>"
+    }
+  ]
+}

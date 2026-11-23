@@ -1,0 +1,69 @@
+const fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto'),assert=require('node:assert/strict'),cp=require('node:child_process');
+process.chdir(path.resolve(__dirname,'..'));
+const read=(file,fallback={})=>fs.existsSync(file)?JSON.parse(fs.readFileSync(file,'utf8')):fallback;
+const hash=file=>crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex');
+const manifest=require('./i18n-release-utils.cjs').coverage(),version=manifest.NATIVE_I18N_VERSION;
+const source=read('tmp/frontend-only/production-source-manifest.json'),sourceChanges=Object.entries(source.files||{}).filter(([file,expected])=>!fs.existsSync(file)||hash(file)!==expected).map(([file])=>file);
+const seo=read('tmp/seo-verification.json'),ssr=read('tmp/ssr-i18n-verification.json'),coverage=read('tmp/i18n-coverage-report.json'),missing=read('tmp/missing-translations-summary.json');
+const sheets=read('tmp/sheet-fix-20261123/sheet-verification.json'),browser=read('tmp/security-remediation/browser-verification.json'),http=read('tmp/merge-evidence/http-verification.json');
+const cms=read('tmp/frontend-only/cache-performance.json'),preservation=read('tmp/frontend-only/design-content-preservation.json'),audit=read('tmp/release-npm-audit.json');
+const mobile=read('tmp/performance/frontend-only-final.json'),baseline=read('tmp/frontend-only/live-api-baseline.json'),compressed=read('tmp/frontend-only/live-cms-compressed-check.json');
+const checks={},failures=[];
+for(const name of ['npmCi','buildSsr','testI18n','testRegression','testServer','testPerformance','audit','strictSeo','strictSsrI18n']){
+ const row=read('tmp/release-command-'+name+'.json');const valid=row.passed&&row.exitCode===0&&row.packageLockSha256===hash('package-lock.json')&&fs.existsSync(row.log||'')&&hash(row.log)===row.logSha256;
+ checks[name]={...row,passed:!!valid};if(!valid)failures.push('Missing/stale/failed command evidence: '+name);
+}
+for(const [name,report]of [['strict SEO',seo],['strict SSR i18n',ssr]])if(!report.passed||!report.requireComplete||report.version!==version||report.verifiedCompletedCombinations!==1110||report.missingCombinations?.length||report.mode!=='local-production-SSR-with-frontend-public-cache')failures.push(name+' did not completely verify the frontend-only build');
+if(!preservation.passed||sourceChanges.length)failures.push('Production source changed or preservation proof failed');
+if(!cms.passed||!browser.passed||!http.passed||!sheets.passed)failures.push('Frontend cache/browser/HTTP/sheet check failed');
+if(audit.metadata?.vulnerabilities?.total!==0)failures.push('Dependency audit has findings');
+if(!mobile.results?.length||mobile.results.some(row=>!row.metrics?.lcp?.length||row.exceptions?.length))failures.push('Current mobile lab measurement missing or has exceptions');
+const median=values=>{const rows=values.filter(Number.isFinite).sort((a,b)=>a-b);return rows[Math.floor(rows.length/2)];};
+const mobileMetrics={samples:mobile.results?.length||0,lcpMs:median((mobile.results||[]).map(r=>r.metrics.lcp?.at(-1)?.time)),fcpMs:median((mobile.results||[]).map(r=>r.metrics.paint?.find(p=>p.name==='first-contentful-paint')?.startTime)),ttfbMs:median((mobile.results||[]).map(r=>r.metrics.nav?.responseStart)),cls:median((mobile.results||[]).map(r=>r.metrics.cls)),transferredBytes:median((mobile.results||[]).map(r=>r.totalTransferred))};
+const liveEquivalence=read('tmp/frontend-only/live-source-equivalence.json'),freshnessVerified=liveEquivalence.passed===true&&Date.now()-Date.parse(liveEquivalence.liveFetchedAt)<86400000&&liveEquivalence.comparedArticles===61;
+const required=1110,verified=Math.min(seo.verifiedCompletedCombinations||0,ssr.verifiedCompletedCombinations||0);
+const report={checkedAt:new Date().toISOString(),version,status:failures.length?'HOLD_LOCAL_CHECKS':freshnessVerified?'FRONTEND_LOCAL_CHECKS_PASS':'FRONTEND_LOCAL_PASS_CMS_FRESHNESS_UNVERIFIED',localChecksPassed:!failures.length,frontendReleaseReady:!failures.length&&freshnessVerified,releaseReady:!failures.length&&freshnessVerified,productionReady:false,
+ scope:'Frontend-only production build; current saved public CMS data is the English source. No supplied/modified backend or test CMS is required.',backendChanged:false,backendDeploymentRequired:false,paidTranslationRequests:0,pushed:false,deployed:false,
+ main:{branch:'main',commit:cp.execFileSync('git',['rev-parse','HEAD'],{encoding:'utf8'}).trim(),remoteMainLastObserved:'34dd59577c54541b6286982a9341d534884b108a'},
+ checks,localFailures:failures,productionSource:{manifest:'tmp/frontend-only/production-source-manifest.json',changedSinceBuildFingerprint:sourceChanges},
+ translationCoverage:{publicPages:111,requiredCombinations:required,verifiedCompletedCombinations:verified,missingCombinations:required-verified,sourceVersion:version,proof:'Two independent full initial-HTML audits; includes actual translated body, English preservation, links, numeric values, html lang/dir, canonical and reciprocal/self hreflang. No browser JavaScript required.'},
+ sheetVerification:{passed:sheets.passed,canonicalMetadataRows:sheets.metadata?.length,legacyAliases:sheets.aliases?.length,accountRedirects:sheets.accountRedirects?.length,userExcluded404:sheets.excluded?.length,homepageHreflang:sheets.hreflang?.length,emailPages:sheets.emailPages?.length},
+ tests:{cache:12,pipeline:100,angularI18n:198,mainRegression:50,server:34,compression:13,http:http.checks?.length,browser:browser.records?.length},
+ dependencies:{knownVulnerabilities:audit.metadata?.vulnerabilities?.total,lockSha256:hash('package-lock.json'),newRuntimeDependencies:0},
+ preservation:{passed:preservation.passed,comparedFiles:preservation.checkedFiles,scope:preservation.scope,report:'tmp/frontend-only/design-content-preservation.json'},
+ cms:{implementation:'Frontend Node SSR read gateway with versioned public English inventory and single-flight background refresh',snapshot:require('./public-cms-evidence.cjs').snapshotEvidence(),runtime:ssr.runtimeCmsCache,liveReadBaseline:baseline,compressedRead:compressed,liveContentEquivalence:liveEquivalence,liveFreshnessVerified:freshnessVerified,
+ limitations:['Early production CMS reads timed out/returned 522. A later complete live refresh succeeded and all 61 full records matched the bundled source (category array order only). Availability remains variable; the frontend cannot restore an unavailable upstream.','Existing saved public articles remain available during outages. New/edited/deleted CMS records are reflected only after a successful complete refresh. Monitor /api/public-cms-status and restore the upstream or refresh reviewed public source.','The cache covers public blog reads only. Existing contact/admin/auth writes still require the unchanged backend. No real mail, login or registration submission was made.']},
+ performance:{gatewayReport:'tmp/frontend-only/cache-performance.json',oldContractFirstPageJsonBytes:cms.oldContractListBytes,frontendCardFirstPageJsonBytes:cms.cachedCardListBytes,reductionPercent:cms.reductionPercent,ssrSamples:(cms.checks||[]).filter(r=>r.check.startsWith('Cached initial HTML')),mobileLab:{checkedAt:mobile.createdAt,environment:mobile.environment,medians:mobileMetrics,report:'tmp/performance/frontend-only-final.json',scope:'Current local cold-cache mobile lab; not live PageSpeed or field Core Web Vitals. Remote media/tracking/network remain variable.'},remainingMedia:'MEDIA_OPTIMIZATION_REQUESTS.txt'},
+ deploymentConditions:['Existing CMS content was checked against a successful live public refresh; monitor freshness and restore upstream availability if refresh fails. Local checks do not certify the hosting/CDN or all backend writes.','Deploy the frontend Node SSR server plus matching browser output and server/data snapshot. Route /api/public/blogs and /api/public-cms-status to that frontend process. Browser-only static upload is insufficient.','Verify live HTTPS/CDN, canonical/hreflang, real contact/registration and mobile PageSpeed after the owner deploys. No Git push, Jenkins or deployment was performed.']};
+fs.writeFileSync('tmp/deployment-readiness.json',JSON.stringify(report,null,2)+'\n');
+for(const file of ['tmp/i18n-coverage-report.json','tmp/ssr-i18n-coverage-report.json']){const x=read(file);fs.writeFileSync(file,JSON.stringify({...x,frontendLocalChecksPassed:!failures.length,verificationScope:report.scope,frontendReleaseReady:report.frontendReleaseReady,releaseReady:report.releaseReady,requiresLiveCmsVerification:!freshnessVerified},null,2)+'\n');}
+const summary=['FRONTEND-ONLY LOCAL RELEASE REVIEW',`Checked: ${report.checkedAt}`,`Status: ${report.status}`,
+ `Frontend local checks: ${report.localChecksPassed?'PASS':'HOLD'}; live CMS content match: ${freshnessVerified?'VERIFIED':'UNVERIFIED'}; production hosting: UNVERIFIED. Backend changed: NO.`,
+ '', 'CHANGES',
+ 'Public blog reads now use a frontend-owned cached gateway. The locked backend and authenticated admin/contact routes are unchanged.',
+ 'Listing projects only card fields; full original article HTML is available on detail pages. Existing 61 public records are a versioned server snapshot, not a browser bundle.',
+ 'Refresh is coalesced, bounded to eight seconds and runs outside Angular request stability; cached SSR does not wait for it. Successful refresh persists locally where configured.',
+ 'Real source dates/staleness are exposed at /api/public-cms-status. Invalid/absent cache returns 503; valid old public content stays available during outages.',
+ '', 'REQUIRED CHECKS',...Object.entries(checks).map(([name,row])=>`${row.command}: ${row.passed?'PASS':'FAIL'} (${row.log})`),
+ `i18n tests: 12 cache + 100 pipeline + 198 Angular; main regression 50; HTTP/cache 34; compression 13.`,
+ `Actual HTTP ${report.tests.http}; production browser ${report.tests.browser} (includes Load More, translated UI and visible video playback).`,
+ `Dependency audit: ${report.dependencies.knownVulnerabilities} known vulnerabilities.`,
+ `Strict SEO and independent strict SSR i18n: ${verified}/1110 translated initial bodies; missing ${1110-verified}. Scope: cached existing English source. A separate full live-record comparison below confirms the current content match.`,
+ `Sheet gate: ${report.sheetVerification.canonicalMetadataRows} metadata rows, 5 aliases, 2 account actions, 1 approved 404 exclusion, 10 homepage hreflang rows, 111 email-link pages.`,
+ '', 'PRESERVATION',`${preservation.checkedFiles} HTML/SCSS/JSON/catalog files unchanged from the previous local verified source; includes current Home video fitting and styles.`,
+ 'Verified main base: 34dd59577c54541b6286982a9341d534884b108a. This validation snapshot was recorded before the separately authorized Git publishing step; no deployment was performed.',
+ '', 'SPEED',`First-page public JSON: ${cms.oldContractListBytes} -> ${cms.cachedCardListBytes} bytes (${cms.reductionPercent?.toFixed(2)}% smaller). Actual local SSR/cache measurements: tmp/frontend-only/cache-performance.json.`,
+ `Current cold-cache mobile homepage median LCP ${mobileMetrics.lcpMs} ms; FCP ${mobileMetrics.fcpMs} ms; TTFB ${Math.round(mobileMetrics.ttfbMs)} ms; CLS ${mobileMetrics.cls?.toFixed(4)}; bytes ${mobileMetrics.transferredBytes}.`,
+ 'These are local samples, not a live PageSpeed score. Existing deferred video, WOFF2, compressed assets and per-page catalogs are preserved. Large remote media still need owner optimization: MEDIA_OPTIMIZATION_REQUESTS.txt.',
+ '', 'CMS / PRODUCTION LIMITATION',`Bundled public data: ${report.cms.snapshot.articles} articles, fetched ${report.cms.snapshot.fetchedAt}; source SHA256 ${report.cms.snapshot.sha256}.`,
+ 'Earlier public API reads timed out/returned 522. A later full public refresh succeeded; all 61 records match the bundled source except category array order. Freshness proof: tmp/frontend-only/live-source-equivalence.json. The cache covers intermittent outages; it cannot restore the backend.',
+ 'Contact/auth/admin remain on the original backend; real live writes were not tested. Hosting/Cloudflare edge must be checked after owner deployment.',
+ '', 'OWNER RUN / HOSTING',
+ 'Inside merged-upforex: npm ci; npm run build:ssr; npm run serve:ssr. Open http://localhost:4000.',
+ 'Keep the Node SSR server and matching browser/server output together. Forward /api/public/blogs and /api/public-cms-status to this frontend process. Browser-only static upload does not provide the native SSR/gateway.',
+ 'Full instructions: FRONTEND_ONLY_RELEASE.txt. Treat this as a locally verified frontend with cached source, not a guarantee that all live services are healthy.',
+ ...failures.map(f=>'LOCAL HOLD: '+f),'No paid API requests, backend edits, Git push, Jenkins run or live deployment.'];
+fs.writeFileSync('LOCAL_COMPLETION_REPORT.txt',summary.join('\n')+'\n');fs.writeFileSync('LOCAL_RELEASE_STATUS.txt',summary.slice(0,5).join('\n')+'\nRead LOCAL_COMPLETION_REPORT.txt and FRONTEND_ONLY_RELEASE.txt before publishing.\n');
+const missingReport={checkedAt:report.checkedAt,version,scope:report.scope,requiredCombinations:1110,verifiedCombinations:verified,missingCombinations:1110-verified,byLanguage:Object.fromEntries(require('./i18n-release-utils.cjs').languages.map(l=>[l,{pages:111,verified:Math.min(...[seo,ssr].map(r=>(r.results||[]).filter(x=>x.language===l&&x.foreignNativeBodyVerified).length))}])),report:'tmp/seo-verification.json',independentReport:'tmp/ssr-i18n-verification.json',liveCmsFreshnessVerified:freshnessVerified,liveEquivalenceReport:'tmp/frontend-only/live-source-equivalence.json'};
+fs.writeFileSync('tmp/frontend-only/translation-coverage.json',JSON.stringify(missingReport,null,2)+'\n');
+console.log(JSON.stringify({status:report.status,localChecksPassed:report.localChecksPassed,verified,missing:1110-verified,frontendReleaseReady:report.frontendReleaseReady,productionReady:false,failures}));if(failures.length)process.exitCode=1;

@@ -1,0 +1,695 @@
+{
+  "language": "hi",
+  "method": "assistant-reviewed-English-semantic-equivalence-reusing-prior-validated-target",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t1e194ad8ec9adf5a",
+      "english": "Commission applies to Forex and Metal trades; no commission applies to other instruments.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/account/account-types/account-types.component.html"
+      ],
+      "translation": "फॉरेक्स और मेटल ट्रेड पर कमीशन लागू होता है; अन्य इंस्ट्रूमेंट्स पर कोई कमीशन लागू नहीं होता है।",
+      "previousKey": "td9af81ec33bdc37c",
+      "previousEnglish": "Commission applies to Forex and Metal trades; No Commission apply to other instruments."
+    },
+    {
+      "key": "tffb72c9ce4ed34ee",
+      "english": "In our trading environment, the Margin Call Level is set at 50%, for risk management. The client is responsible for managing this.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/account/account-types/account-types.component.html"
+      ],
+      "translation": "हमारे ट्रेडिंग माहौल में, रिस्क मैनेजमेंट के लिए मार्जिन कॉल लेवल 50% पर सेट है। इसे मैनेज करना क्लाइंट की ज़िम्मेदारी है।",
+      "previousKey": "tdac87aae200f59ae",
+      "previousEnglish": "In our trading environment, the Margin Call Level is set at 50%, for risk management. Client is Responsible to Manage same."
+    },
+    {
+      "key": "t67fc8a150d4b8051",
+      "english": "Trade global markets on MT5 from Abu Dhabi: forex, gold, shares, indices and energy CFDs in one place. Check spreads, margin and product rules before opening a live trade.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/country-pages/abu-dhabi-forex/abu-dhabi-forex.component.html"
+      ],
+      "translation": "वैश्विक बाजारों में व्यापार करें MT5 अबू धाबी फॉरेक्स, गोल्ड, शेयर्स, इंडेक्स और एनर्जी से CFDs एक ही जगह पर। लाइव ट्रेड खोलने से पहले स्प्रेड, मार्जिन और प्रोडक्ट के नियम चेक करें।",
+      "previousKey": "t54a2a813706d3ceb",
+      "previousEnglish": "Trade global markets on MT5 from Abu Dhabi forex, gold, shares, indices and energy CFDs in one place. Check spreads, margin and product rules before opening a live trade."
+    },
+    {
+      "key": "t2d527985364144f7",
+      "english": "UPFOREX publishes forex, metals, shares, indices, and energy CFDs through one MT5 platform. Forex CFDs follow changes in currency-pair prices. These prices can respond to interest-rate decisions, inflation, employment reports, economic growth, and wider market sentiment.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/country-pages/kuala-lumpur-forex/kuala-lumpur-forex.component.html"
+      ],
+      "translation": "UPFOREX फॉरेक्स, मेटल्स, शेयर्स, इंडेक्स और एनर्जी पब्लिश करता है CFDs एक के माध्यम से MT5 प्लेटफ़ॉर्म. फ़ॉरेक्स CFDs करेंसी-पेयर की कीमतों में बदलाव को फ़ॉलो करें। ये कीमतें इंटरेस्ट-रेट के फ़ैसलों, महंगाई, रोज़गार रिपोर्ट, आर्थिक विकास और बड़े मार्केट सेंटिमेंट पर रिस्पॉन्ड कर सकती हैं।",
+      "previousKey": "t68a0b369d8b9b05f",
+      "previousEnglish": "UPFOREX publishes forex, metals, shares, indices, and energy CFDs through one MT5 platform. Forex CFDs follow changes in currency-pair prices. These prices can respond to interest-rate decisions, inflation, employment reports, economic growth,h and wider market sentiment."
+    },
+    {
+      "key": "t7bcf1277fa95bd45",
+      "english": "UPFOREX publishes its accounts in USD. Traders funding an account in Malaysian ringgit can include MYR-to-USD conversion rates and payment-provider charges when calculating their account budget. Available funding methods, processing charges, and withdrawal options can be confirmed through the cashier or support team.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/country-pages/kuala-lumpur-forex/kuala-lumpur-forex.component.html"
+      ],
+      "translation": "UPFOREX अपने खाते प्रकाशित करता है USD व्यापारियों को मलेशियाई रिंगिट से मिलने वाली फंडिंग में निम्नलिखित शामिल हो सकते हैं: MYR -को- USD खाता बजट की गणना करते समय रूपांतरण दरों और भुगतान प्रदाता शुल्कों पर ध्यान दिया जाता है। उपलब्ध निधिकरण विधियों, प्रसंस्करण शुल्कों और निकासी विकल्पों की जानकारी कैशियर या सहायता टीम के माध्यम से प्राप्त की जा सकती है।",
+      "previousKey": "t49f7d5f9ab34eebd",
+      "previousEnglish": "UPFOREX publishes its accounts in USD. Traders' funding from Malaysian ringgit can include MYR-to-USD conversion rates and payment-provider charges when calculating their account budget. Available funding methods, processing charges, and withdrawal options can be confirmed through the cashier or support team."
+    },
+    {
+      "key": "t2ce0ea01d0c3c74f",
+      "english": "'s platform lets you study prices, view charts, monitor open positions and place supported orders through MetaTrader 5. The company runs its operations from Mauritius, with no domestic branch listed for South Africa, so every part of the account experience — opening, funding, trading and support — happens through the online platform.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/country-pages/south-africa-forex-review/south-africa-forex-review.component.html"
+      ],
+      "translation": "के प्लेटफॉर्म से आप कीमतों की स्टडी कर सकते हैं, चार्ट देख सकते हैं, ओपन पोजीशन मॉनिटर कर सकते हैं और सपोर्टेड ऑर्डर दे सकते हैं। MetaTrader 5 कंपनी मॉरिशस से अपना ऑपरेशन चलाती है, साउथ अफ्रीका के लिए इसकी कोई डोमेस्टिक ब्रांच लिस्टेड नहीं है, इसलिए अकाउंट खोलने, फंडिंग, ट्रेडिंग, सपोर्ट का हर हिस्सा ऑनलाइन प्लेटफॉर्म के ज़रिए होता है।",
+      "previousKey": "t7303d9c2eb799508",
+      "previousEnglish": "'s platform lets you study prices, view charts, monitor open positions and place supported orders through MetaTrader 5. The company runs its operations from Mauritius, with no domestic branch listed for South Africa, so every part of the account experience opening, funding, trading, support happens through the online platform."
+    },
+    {
+      "key": "t783c18700cfa3416",
+      "english": "Trade Forex, Stock CFDs, Precious Metals, Index CFDs, Energy CFDs and Cryptocurrency CFDs from your UPFOREX Trading Account",
+      "kind": "text",
+      "sources": [
+        "src/app/components/home/home.component.html",
+        "src/assets/i18n/en.json.HOME.BANNER_SUBTITLE"
+      ],
+      "translation": "अपने UPFOREX ट्रेडिंग अकाउंट से फॉरेक्स, स्टॉक CFDs, कीमती धातु, इंडेक्स, एनर्जी और क्रिप्टो CFDs में ट्रेड करें।",
+      "previousKey": "t328c9609d9564651",
+      "previousEnglish": "Trade Forex, Stock CFDs, Precious Metals, Index CFDs, Energy CFDs and Crypto CFDs from your UPFOREX Trading Account"
+    },
+    {
+      "key": "t37a0580b60a4e3fd",
+      "english": "Discover the Power of Global Trading from a Single Account",
+      "kind": "text",
+      "sources": [
+        "src/app/components/home/home.component.html"
+      ],
+      "translation": "एक ही खाते से वैश्विक व्यापार की शक्ति का अनुभव करें",
+      "previousKey": "t4b19af4ad103d69c",
+      "previousEnglish": "Discover the Power of Global Trading from Single Account"
+    },
+    {
+      "key": "ta050e7ea51633b88",
+      "english": "Our Institutional Services are designed for high-volume traders and financial institutions seeking scalable liquidity and seamless trade execution.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/partnership/institutional-service/institutional-service.component.html"
+      ],
+      "translation": "हमारी संस्थागत सेवाएं उच्च मात्रा में व्यापार करने वाले व्यापारियों और वित्तीय संस्थानों के लिए डिज़ाइन की गई हैं जो स्केलेबल तरलता और निर्बाध व्यापार निष्पादन की तलाश में हैं।",
+      "previousKey": "t5dc0915f7b131869",
+      "previousEnglish": "Our Institutional Servicesre designed for high-volume traders and financial institutions seeking scalable liquidity and seamless trade execution."
+    },
+    {
+      "key": "tce10247a3452a84c",
+      "english": "Welcome to the next generation of trading. The MT5 platform, developed by MetaQuotes, is the industry's leading multi-asset trading platform, offering unparalleled access to a world of financial opportunities. At UPFOREX, we provide our clients with seamless access to this powerful software, empowering you to trade Forex, stocks, indices, commodities, and cryptocurrencies all from a single, integrated account. Experience the perfect blend of sophisticated technology and user-friendly design, crafted for both seasoned professionals and those just beginning their trading journey.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "ट्रेडिंग की अगली पीढ़ी में आपका स्वागत है। MT5 MetaQuotes का बनाया हुआ यह प्लेटफॉर्म, इंडस्ट्री का सबसे आगे रहने वाला मल्टी एसेट ट्रेडिंग प्लेटफॉर्म है, जो फाइनेंशियल मौकों की दुनिया तक बेमिसाल एक्सेस देता है। UPFOREX हम अपने क्लाइंट्स को इस पावरफुल सॉफ्टवेयर का आसान एक्सेस देते हैं, जिससे आप एक ही, इंटीग्रेटेड अकाउंट से फॉरेक्स, स्टॉक्स, इंडेक्स, कमोडिटीज़ और क्रिप्टोकरेंसी में ट्रेड कर सकते हैं। एडवांस्ड टेक्नोलॉजी और यूज़र-फ्रेंडली डिज़ाइन का परफेक्ट मिक्स अनुभव करें, जो अनुभवी प्रोफेशनल्स और उन लोगों के लिए बनाया गया है जो अभी अपनी ट्रेडिंग जर्नी शुरू कर रहे हैं।",
+      "previousKey": "t51d1f2f526999ec1",
+      "previousEnglish": "Welcome to the next generation of trading. The MT5 platform, developed by MetaQuotes, is the industry's leading multi asset trading platform, offering unparalleled access to a world of financial opportunities. At UPFOREX, we provide our clients with seamless access to this powerful software, empowering you to trade Forex, stocks, indices, commodities, and cryptocurrencies all from a single, integrated account. Experience the perfect blend of sophisticated technology and user-friendly design, crafted for both seasoned professionals and those just beginning their trading journey."
+    },
+    {
+      "key": "t78ec7a61ddd2223b",
+      "english": "Why the MT5 Platform is the Ultimate Multi-Asset Trading Platform",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "क्यों MT5 प्लेटफ़ॉर्म अल्टीमेट मल्टी एसेट ट्रेडिंग प्लेटफ़ॉर्म है",
+      "previousKey": "te3462fda989d5ef6",
+      "previousEnglish": "Why the MT5 Platform is the Ultimate Multi Asset Trading Platform"
+    },
+    {
+      "key": "t35ab9fcd617b4e19",
+      "english": "The MT5 platform was engineered to be far more than just a Forex terminal. It is a comprehensive financial ecosystem built for the modern trader. Its core strength lies in its ability to function as a true multi-asset trading platform, breaking down the barriers between different markets. This means you can diversify your portfolio and capitalize on opportunities across the entire financial landscape without needing multiple accounts or software. The platform’s robust infrastructure handles immense volumes of data and trading orders with lightning speed and unwavering stability, ensuring you never miss a beat.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "The MT5 इस प्लेटफॉर्म को सिर्फ़ एक Forex टर्मिनल से कहीं ज़्यादा बनाने के लिए बनाया गया है। यह मॉडर्न ट्रेडर के लिए बनाया गया एक बड़ा फाइनेंशियल इकोसिस्टम है। इसकी सबसे बड़ी ताकत एक असली मल्टी एसेट ट्रेडिंग प्लेटफॉर्म की तरह काम करने की इसकी क्षमता है, जो अलग-अलग मार्केट के बीच की रुकावटों को तोड़ता है। इसका मतलब है कि आप अपने पोर्टफोलियो में विविधता ला सकते हैं और कई अकाउंट या सॉफ्टवेयर की ज़रूरत के बिना पूरे फाइनेंशियल माहौल में मौकों का फ़ायदा उठा सकते हैं। प्लेटफॉर्म का मज़बूत इंफ्रास्ट्रक्चर बहुत ज़्यादा डेटा और ट्रेडिंग ऑर्डर को बिजली की तेज़ी और मज़बूत स्थिरता के साथ हैंडल करता है, जिससे यह पक्का होता है कि आप कभी भी कोई मौका न चूकें।",
+      "previousKey": "td6fbd8499a12bc87",
+      "previousEnglish": "The MT5 platform was engineered to be far more than just a Forex terminal. It is a comprehensive financial ecosystem built for the modern trader. Its core strength lies in its ability to function as a true multi asset trading platform, breaking down the barriers between different markets. This means you can diversify your portfolio and capitalize on opportunities across the entire financial landscape without needing multiple accounts or softwares. The platform’s robust infrastructure handles immense volumes of data and trading orders with lightning speed and unwavering stability, ensuring you never miss a beat."
+    },
+    {
+      "key": "tb7320fa7446301ed",
+      "english": "While renowned for Forex, MT5 stock trading is a feature that sets it apart from its predecessor. Gain exposure to a wide selection of global company stocks, allowing for greater portfolio diversification and the chance to invest in leading corporations directly through your familiar MT5 interface. Ready to experience the power of the world's premier multi-asset trading platform? Unlock the full potential of your trading strategy with UPFOREX and the advanced MT5 platform. Open your account today and gain access to powerful tools, competitive conditions, and a world of markets at your fingertips.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "फॉरेक्स के लिए मशहूर होने के बावजूद, MT5 स्टॉक ट्रेडिंग एक ऐसा फीचर है जो इसे इसके पहले वाले से अलग बनाता है। दुनिया भर की कंपनियों के स्टॉक्स के बड़े कलेक्शन के बारे में जानें, जिससे पोर्टफोलियो में ज़्यादा डाइवर्सिफिकेशन हो सके और अपने जाने-पहचाने तरीकों से सीधे बड़ी कंपनियों में इन्वेस्ट करने का मौका मिले। MT5 इंटरफ़ेस। दुनिया के सबसे अच्छे मल्टी एसेट ट्रेडिंग प्लेटफ़ॉर्म की ताकत का अनुभव करने के लिए तैयार हैं? अपनी ट्रेडिंग स्ट्रेटेजी की पूरी क्षमता को अनलॉक करें UPFOREX और उन्नत MT5 प्लेटफ़ॉर्म। आज ही अपना अकाउंट खोलें और पावरफ़ुल टूल्स, कॉम्पिटिटिव कंडीशंस और मार्केट्स की दुनिया का एक्सेस अपनी उंगलियों पर पाएं।",
+      "previousKey": "tb5eec710faa59420",
+      "previousEnglish": "While renowned for Forex, MT5 stock trading is a feature that sets it apart from its predecessor. Gain exposure to a wide selection of global company stocks, allowing for greater portfolio diversification and the chance to invest in leading corporations directly through your familiar MT5 interface. Ready to experience the power of the world's premier multi asset trading platform? Unlock the full potential of your trading strategy with UPFOREX and the advanced MT5 platform. Open your account today and gain access to powerful tools, competitive conditions, and a world of markets at your fingertips."
+    },
+    {
+      "key": "t2613ab5eb7d7eb3a",
+      "english": "While MT4 was primarily built for Forex trading, MT5 is a true multi-asset",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "जबकि MT4 मुख्य रूप से फॉरेक्स ट्रेडिंग के लिए बनाया गया था, MT5 एक सच्चा बहु संपत्ति है",
+      "previousKey": "td160ff47abea0f17",
+      "previousEnglish": "While MT4 was primarily built for Forex trading, MT5 is a true multi asset"
+    },
+    {
+      "key": "ta0849126e8832c16",
+      "english": "is a key feature. The platform provides direct access to a wide range of global stock exchanges. You need to ensure your broker (like UPFOREX) offers stock CFDs or actual shares through their MT5 multi-asset trading platform.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "यह एक खास फीचर है। यह प्लेटफॉर्म दुनिया भर के स्टॉक एक्सचेंज तक सीधी पहुंच देता है। आपको यह पक्का करना होगा कि आपका ब्रोकर (जैसे UPFOREX ) स्टॉक प्रदान करता है CFDs या उनके माध्यम से वास्तविक शेयर MT5 मल्टी एसेट ट्रेडिंग प्लेटफॉर्म।",
+      "previousKey": "tf51cbd77419bddfb",
+      "previousEnglish": "is a key feature. The platform provides direct access to a wide range of global stock exchanges. You need to ensure your broker (like UPFOREX) offers stock CFDs or actual shares through their MT5 multi asset trading platform."
+    },
+    {
+      "key": "t62bc572ecabfb654",
+      "english": "UPFOREX is regarded as the best broker for MetaTrader 5 because we provide seamless, stable, and fast access to the platform. We offer competitive trading conditions, low latency order execution, and dedicated support to help you maximize all the advanced features MT5 has to offer.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/platforms/mt5/mt5.component.html"
+      ],
+      "translation": "UPFOREX के लिए सबसे अच्छा ब्रोकर माना जाता है MetaTrader 5 क्योंकि हम प्लेटफ़ॉर्म पर आसान, स्टेबल और तेज़ एक्सेस देते हैं। हम कॉम्पिटिटिव ट्रेडिंग कंडीशन, कम लेटेंसी वाला ऑर्डर एग्ज़िक्यूशन और डेडिकेटेड सपोर्ट देते हैं ताकि आप सभी एडवांस्ड फ़ीचर्स का ज़्यादा से ज़्यादा फ़ायदा उठा सकें। MT5 पेश करना है।",
+      "previousKey": "t686046d6b201084c",
+      "previousEnglish": "UPFOREX is regarded as a best broker for MetaTrader 5 because we provide seamless, stable, and fast access to the platform. We offer competitive trading conditions, low latency order execution, and dedicated support to help you maximize all the advanced features MT5 has to offer."
+    },
+    {
+      "key": "tce73f791801369ad",
+      "english": "Choosing the right partner is critical for success in the fast-paced crypto markets. UPFOREX stands out as a leading crypto CFD broker for several compelling reasons:",
+      "kind": "text",
+      "sources": [
+        "src/app/components/products/crypto-cfd/crypto-cfd.component.html"
+      ],
+      "translation": "तेजी से बदलते क्रिप्टो बाजारों में सफलता के लिए सही साझेदार का चयन करना महत्वपूर्ण है। UPFOREX एक अग्रणी क्रिप्टो के रूप में उभरता है cfd कई ठोस कारणों से ब्रोकर:",
+      "previousKey": "ta42f7f3171ecd00d",
+      "previousEnglish": "Choosing the right partner is critical for success in the fast-paced crypto markets. UPFOREX stands out as a leading crypto cfd broker for several compelling reasons:"
+    },
+    {
+      "key": "t752ff0e062e65fe4",
+      "english": "crypto CFD broker",
+      "kind": "text",
+      "sources": [
+        "src/app/components/products/crypto-cfd/crypto-cfd.component.html"
+      ],
+      "translation": "क्रिप्टो cfd दलाल",
+      "previousKey": "tba730100261cb744",
+      "previousEnglish": "crypto cfd broker"
+    },
+    {
+      "key": "t043b865e9768e8d8",
+      "english": "The global energy sector is a dynamic and influential force, driving economies and presenting unparalleled opportunities for astute traders. At UPFOREX, we provide a sophisticated gateway to this volatile yet rewarding market through our comprehensive Energy CFDs offering. Whether you're looking to diversify your portfolio, hedge against market movements, or speculate on price shifts, our platform equips you with the tools and conditions needed to trade with precision and confidence. Dive into the world of forex oil trading and other energy commodities on a platform built for performance.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/products/energy-future/energy-future.component.html"
+      ],
+      "translation": "वैश्विक ऊर्जा क्षेत्र एक गतिशील और प्रभावशाली शक्ति है, जो अर्थव्यवस्थाओं को गति प्रदान करती है और चतुर व्यापारियों के लिए अद्वितीय अवसर प्रस्तुत करती है। UPFOREX हम अपने व्यापक ऊर्जा समाधानों के माध्यम से इस अस्थिर लेकिन लाभकारी बाजार में प्रवेश करने का एक परिष्कृत मार्ग प्रदान करते हैं। CFDs चाहे आप अपने पोर्टफोलियो में विविधता लाना चाहते हों, बाजार के उतार-चढ़ाव से बचाव करना चाहते हों या कीमतों में बदलाव पर अनुमान लगाना चाहते हों, हमारा प्लेटफॉर्म आपको सटीकता और आत्मविश्वास के साथ व्यापार करने के लिए आवश्यक उपकरण और परिस्थितियाँ प्रदान करता है। प्रदर्शन के लिए निर्मित प्लेटफॉर्म पर फॉरेक्स ऑयल ट्रेडिंग और अन्य ऊर्जा कमोडिटीज की दुनिया में उतरें।",
+      "previousKey": "tf9a56566848603b8",
+      "previousEnglish": "The global energy sector is a dynamic and influential force, driving economies and presenting unparalleled opportunities for astute traders. At UPFOREX, we provide a sophisticated gateway to this volatile yet rewarding market through our comprehensive Energy CFDs offering. Whether you're looking to diversify your portfolio, hedge against market movements, or speculate on price shifts, our platform equips you with the tools and conditions needed to trade with precision and confidence. Dive into the world of forex oil trading and other energy commodities on a platform built for performance ."
+    },
+    {
+      "key": "tb987d627ea41dba3",
+      "english": "Welcome to UPFOREX, your premier gateway to the dynamic world of foreign exchange. As one of the leading Online Trading Brokers, we provide a superior environment for forex trading, combining cutting-edge technology with unparalleled market access. Whether you are taking your first steps or are a seasoned professional, our platform is engineered to meet your demands for transparency and reliability.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/products/forex/forex.component.html"
+      ],
+      "translation": "आपका स्वागत है UPFOREX , फॉरेन एक्सचेंज की बदलती दुनिया के लिए आपका सबसे बड़ा गेटवे। जाने-माने ऑनलाइन ट्रेडिंग ब्रोकर्स में से एक के तौर पर, हम फॉरेक्स ट्रेडिंग के लिए एक बेहतर माहौल देते हैं, जिसमें लेटेस्ट टेक्नोलॉजी के साथ बेमिसाल मार्केट एक्सेस शामिल है। चाहे आप अपना पहला कदम उठा रहे हों या एक अनुभवी प्रोफेशनल हों, हमारा प्लेटफॉर्म आपकी ट्रांसपेरेंसी और भरोसे की मांगों को पूरा करने के लिए बनाया गया है।",
+      "previousKey": "tde74e09f622d450f",
+      "previousEnglish": "Welcome to UPFOREX, your premier gateway to the dynamic world of foreign exchange. As one of the leading Online Trading Brokers, we provide a superior environment for forex trading, combining cutting-edge technology with unparalleled market access. Whether you are taking your first steps or are a seasoned professional, our platform is engineered to meet your demands for transparency, and reliability."
+    },
+    {
+      "key": "t264e0f8872a163e0",
+      "english": "In EUR/USD, EUR is the base currency, and USD is the quote.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/trading-rules/trading-rules.component.html"
+      ],
+      "translation": "n EUR / USD , EUR आधार मुद्रा है, और USD कोट है।",
+      "previousKey": "t4198a535093f5089",
+      "previousEnglish": "n EUR/USD, EUR is the base currency, and USD is the quote."
+    },
+    {
+      "key": "t3568556442fe5102",
+      "english": "should seek their own financial or professional advice. Trading of securities, forex, stock market, commodities, may not be suitable for everyone and involves the risk of losing part or all of your money. Trading in the financial markets has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the markets. Don't invest and trade with money which you can't afford to lose. Forex trading is not allowed in some countries. Before investing your money, check whether forex trading is permitted in your country.",
+      "kind": "text",
+      "sources": [
+        "src/app/layouts/disclaimer/disclaimer.component.html"
+      ],
+      "translation": "अपनी फाइनेंशियल या प्रोफेशनल सलाह खुद लेनी चाहिए। सिक्योरिटीज, फॉरेक्स, स्टॉक मार्केट, कमोडिटीज की ट्रेडिंग हर किसी के लिए सही नहीं हो सकती है और इसमें आपके कुछ या पूरे पैसे डूबने का रिस्क होता है। फाइनेंशियल मार्केट में ट्रेडिंग करने से बड़े फायदे होते हैं, लेकिन रिस्क भी बड़ा होता है। आपको रिस्क के बारे में पता होना चाहिए और मार्केट में इन्वेस्ट करने के लिए उन्हें स्वीकार करने के लिए तैयार रहना चाहिए। ऐसे पैसे से इन्वेस्ट और ट्रेड न करें जिसे आप खोने का रिस्क नहीं उठा सकते। कुछ देशों में फॉरेक्स ट्रेडिंग की इजाज़त नहीं है, अपना पैसा इन्वेस्ट करने से पहले, पक्का कर लें कि आपका देश इसकी इजाज़त दे रहा है या नहीं।",
+      "previousKey": "tafeeeb7c28caf06e",
+      "previousEnglish": "should seek their own financial or professional advice. Trading of securities, forex, stock market, commodities, may not be suitable for everyone and involves the risk of losing part or all of your money. Trading in the financial markets has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the markets. Don't invest and trade with money which you can't afford to lose. Forex Trading are not allowed in some countries, before investing your money, make sure whether your country is allowing this or not."
+    },
+    {
+      "key": "t7deea8a56e226295",
+      "english": "Our ultra-modern platform provides powerful analytical tools, live data feeds, and the ability to access it from various devices, ensuring an exceptional trading experience.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/about-us/constant.ts#description"
+      ],
+      "translation": "हमारा अल्ट्रा-मॉडर्न प्लेटफॉर्म पावरफुल एनालिटिकल टूल्स, लाइव डेटा फीड्स और अलग-अलग डिवाइस से एक्सेस करने की सुविधा देता है, जिससे एक शानदार ट्रेडिंग एक्सपीरियंस मिलता है।",
+      "previousKey": "t708e1191170aa031",
+      "previousEnglish": "Our ultra-modern platform provides powerful analytical tools, live data feeds, and ability to access from various devices, ensuring an exceptional trading experience."
+    },
+    {
+      "key": "t375db9738940582f",
+      "english": "User-Friendly Account Options",
+      "kind": "text",
+      "sources": [
+        "src/app/components/about-us/constant.ts#title"
+      ],
+      "translation": "उपयोगकर्ता के अनुकूल खाता विकल्प",
+      "previousKey": "t1b3f13b40af0e562",
+      "previousEnglish": "User Friendly Account Options"
+    },
+    {
+      "key": "t4c08883a25bd9f8e",
+      "english": "Trade on MT5 Platform | Top Multi-Asset Trading Platform",
+      "kind": "text",
+      "sources": [
+        "src/app/components/components-routing.module.ts#title",
+        "src/app/components/platforms/mt5/mt5.component.ts"
+      ],
+      "translation": "व्यापार पर MT5 प्लेटफ़ॉर्म | टॉप मल्टी एसेट ट्रेडिंग प्लेटफ़ॉर्म",
+      "previousKey": "t25c7ba41561b8943",
+      "previousEnglish": "Trade on MT5 Platform | Top Multi Asset Trading Platform"
+    },
+    {
+      "key": "tfb020f6914f2c4f9",
+      "english": "Trade on MT5 Platform with UPFOREX, the trusted Multi-Asset Trading Platform offering powerful tools, secure trading, and affordable costs. Trade Smarter!",
+      "kind": "text",
+      "sources": [
+        "src/app/components/components-routing.module.ts#description",
+        "src/app/components/platforms/mt5/mt5.component.ts"
+      ],
+      "translation": "व्यापार पर MT5 प्लेटफ़ॉर्म के साथ UPFOREX , भरोसेमंद मल्टी एसेट ट्रेडिंग प्लेटफॉर्म जो पावरफुल टूल्स, सुरक्षित ट्रेडिंग और किफायती कीमत देता है। स्मार्ट तरीके से ट्रेड करें!",
+      "previousKey": "t5d35205adc14ceb4",
+      "previousEnglish": "Trade on MT5 Platform with UPFOREX, the trusted Multi Asset Trading Platform offering powerful tools, secure trading, and affordable costs. Trade Smarter!"
+    },
+    {
+      "key": "t210fd40fb29323b9",
+      "english": "mt5 platform, multi-asset trading platform​",
+      "kind": "text",
+      "sources": [
+        "src/app/components/components-routing.module.ts#keywords",
+        "src/app/components/platforms/mt5/mt5.component.ts"
+      ],
+      "translation": "mt5 प्लेटफ़ॉर्म, मल्टी एसेट ट्रेडिंग प्लेटफ़ॉर्म",
+      "previousKey": "t6b5c0ec29ceede54",
+      "previousEnglish": "mt5 platform, multi asset trading platform​"
+    },
+    {
+      "key": "t9fdbf299f05958ad",
+      "english": "At UPFOREX, our multinational growth and extensive client base have allowed us to form successful partnerships worldwide. We understand the value of working closely with local partners to provide tailored country client support.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/partnership/partnership-programs/constant.ts"
+      ],
+      "translation": "पर UPFOREX हमारी मल्टीनेशनल ग्रोथ और बड़े क्लाइंट बेस ने हमें दुनिया भर में सफल पार्टनरशिप बनाने में मदद की है। हम लोकल पार्टनर के साथ मिलकर काम करने की अहमियत समझते हैं ताकि कस्टमाइज़्ड कंट्री क्लाइंट सपोर्ट दिया जा सके।",
+      "previousKey": "tcc7803796711358d",
+      "previousEnglish": "At UPFOREX, our multinational growth and extensive client base have allowed us to form successful partnerships worldwide. We understand the value of working closely with local partners to provide tailored Country client support."
+    },
+    {
+      "key": "t9ed7e534e898ff62",
+      "english": "Amplify your trading positions' potential.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/products/precious-metal/constant.ts#subText"
+      ],
+      "translation": "अपनी ट्रेडिंग पोजीशन की क्षमता को बढ़ाएं।",
+      "previousKey": "t9067b7a5248415c5",
+      "previousEnglish": "Amplify your trading positions potential."
+    },
+    {
+      "key": "tdbb6f17ee3c382f2",
+      "english": "Euro vs British Pound",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "यूरो बनाम ब्रिटिश पाउंड",
+      "previousKey": "tedfd77775c33e141",
+      "previousEnglish": "Euro vs British Pounds"
+    },
+    {
+      "key": "tb998c6979f3f51ed",
+      "english": "British Pound vs Australian Dollar",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "ब्रिटिश पाउंड बनाम ऑस्ट्रेलियाई डॉलर",
+      "previousKey": "t0c106d24b918a03e",
+      "previousEnglish": "British Pounds vs Australian Dollar"
+    },
+    {
+      "key": "t03d63824f39f90e8",
+      "english": "British Pound vs Canadian Dollar",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "ब्रिटिश पाउंड बनाम कैनेडियन डॉलर",
+      "previousKey": "te6251d17774d073b",
+      "previousEnglish": "British Pounds vs Canadian Dollar"
+    },
+    {
+      "key": "t41e2b1be51a8ab2a",
+      "english": "British Pound vs Swiss Franc",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "ब्रिटिश पाउंड बनाम स्विस फ्रैंक",
+      "previousKey": "t3302eef5bae96039",
+      "previousEnglish": "British Pounds vs Swiss Franc"
+    },
+    {
+      "key": "t18b87b206be338ea",
+      "english": "British Pound vs Japanese Yen",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "ब्रिटिश पाउंड बनाम जापानी येन",
+      "previousKey": "ta893244dba624a19",
+      "previousEnglish": "British Pounds vs Japanese Yen"
+    },
+    {
+      "key": "t6dd89bfc16edbf82",
+      "english": "British Pound vs New Zealand Dollar",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "ब्रिटिश पाउंड बनाम न्यूजीलैंड डॉलर",
+      "previousKey": "t71cd68d144f87df1",
+      "previousEnglish": "British Pounds vs New Zealand Dollar"
+    },
+    {
+      "key": "t84df807b650d1cc1",
+      "english": "British Pound vs US Dollar",
+      "kind": "text",
+      "sources": [
+        "src/app/components/resources/contact-specifications/constant.ts#fullName"
+      ],
+      "translation": "ब्रिटिश पाउंड बनाम अमेरिकी डॉलर",
+      "previousKey": "te72af110bc34bfd2",
+      "previousEnglish": "British Pounds vs US Dollar"
+    },
+    {
+      "key": "t4f2d5402c07b74d6",
+      "english": "Complaints Handling Policy",
+      "kind": "text",
+      "sources": [
+        "src/app/legel-document-pge/legel-document-pge.component.ts#name"
+      ],
+      "translation": "शिकायत निवारण नीति",
+      "previousKey": "tf2aa0a6387e23525",
+      "previousEnglish": "Complaint Handling Policy"
+    },
+    {
+      "key": "t510a27289d1c7ce8",
+      "english": "<span data-i18n-slot=\"0\">By providing easy access to overseas markets through advanced trading technology and strong regulation, Dubai has established itself as an important financial hub in the Middle East. Among the platforms offered today, <span data-i18n-slot=\"1\">MT5 Stock Trading in Dubai</span> has attracted a large number of customers looking for a professional, yet simple method to participate in financial markets. MetaTrader 5 (MT5) is a popular choice for stocks, indices, and multi-asset trading because of its powerful features and global market access.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">उन्नत व्यापार प्रौद्योगिकी और मजबूत विनियमन के माध्यम से विदेशी बाजारों तक आसान पहुंच प्रदान करके, दुबई ने खुद को मध्य पूर्व में एक महत्वपूर्ण वित्तीय केंद्र के रूप में स्थापित किया है। आज पेश किए गए प्लेटफार्मों में से, <span data-i18n-slot=\"1\">MT5 दुबई में स्टॉक ट्रेडिंग</span> ने बड़ी संख्या में ग्राहकों को आकर्षित किया है जो वित्तीय बाजारों में भाग लेने के लिए एक पेशेवर, फिर भी सरल विधि की तलाश कर रहे हैं। MetaTrader 5 (MT5) अपनी शक्तिशाली विशेषताओं और वैश्विक बाजार पहुंच के कारण स्टॉक, सूचकांक और मल्टी-एसेट ट्रेडिंग के लिए एक लोकप्रिय विकल्प है।</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span></span></span>",
+      "previousKey": "tfb2fca3034c2e9c8",
+      "previousEnglish": "<span data-i18n-slot=\"0\">By providing easy access to overseas markets through advanced trading technology and strong regulation, Dubai has established itself as an important financial hub in the Middle East. Among the platforms offered today, <span data-i18n-slot=\"1\">MT5 Stock Trading in Dubai</span> has attracted a large number of customers looking for a professional , yet simple method to participate in financial markets. MetaTrader 5 (MT5) is a popular choice for stocks, indices, and multi-asset trading because of its powerful features and global market access.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span></span></span>"
+    },
+    {
+      "key": "tb1121cc1f478f147",
+      "english": "<span data-i18n-slot=\"0\">The <span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">MT5 Platform in Dubai </span></span>is well-known for providing advanced skills with a user-friendly layout. Some of the more noticeable characteristics are:</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">दुबई में <span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">MT5 प्लेटफ़ॉर्म </span></span>उपयोगकर्ता-अनुकूल लेआउट के साथ उन्नत कौशल प्रदान करने के लिए प्रसिद्ध है। कुछ अधिक ध्यान देने योग्य विशेषताएँ हैं:</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span></span>",
+      "previousKey": "tdbc4f14d7bdc3389",
+      "previousEnglish": "<span data-i18n-slot=\"0\">The <span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">MT5 Platform in Dubai </span></span>is well-known for providing advanced skills with an user-friendly layout. Some of the more noticeable characteristics are:</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t970a6199ab2fe681",
+      "english": "<span data-i18n-slot=\"0\">The majority of forex trading in Dubai takes place using online platforms that give users access to global currency markets.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">दुबई में अधिकांश विदेशी मुद्रा व्यापार ऑनलाइन प्लेटफ़ॉर्म का उपयोग करके ऑनलाइन होता है जो उपयोगकर्ताओं को वैश्विक मुद्रा बाजारों तक पहुंच प्रदान करता है।</span>",
+      "previousKey": "teeee768e568d644e",
+      "previousEnglish": "<span data-i18n-slot=\"0\">The majority of forex trading in Dubai takes place online using online platforms that give users access to global currency markets.</span>"
+    },
+    {
+      "key": "t0dcbe649b016feb3",
+      "english": "Learn how to trade gold online with strategies and best practices. Trade gold confidently and explore precious metals markets effectively. Upforex!",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#description",
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#descriptionSnippet"
+      ],
+      "translation": "जानें कि रणनीतियों और सर्वोत्तम प्रथाओं के साथ सोने का ऑनलाइन व्यापार कैसे करें। आत्मविश्वास से सोने का व्यापार करें और कीमती धातु बाजारों का प्रभावी ढंग से पता लगाएं। Upforex!",
+      "previousKey": "t45764ed1db90725f",
+      "previousEnglish": "Learn how to trade gold online with strategies, and best practices. Trade gold confidently and explore precious metals markets effectively. Upforex!"
+    },
+    {
+      "key": "t85877d7bc342b657",
+      "english": "1-Hour Forex Strategy: A Simple Guide for Traders",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#title"
+      ],
+      "translation": "1 घंटे की विदेशी मुद्रा रणनीति: व्यापारियों के लिए एक सरल मार्गदर्शिका",
+      "previousKey": "t8b5b6e02d8f725ba",
+      "previousEnglish": "1 Hour Forex Strategy: A Simple Guide for Traders"
+    },
+    {
+      "key": "t5b4df65a895840ba",
+      "english": "Mastering the 1-Hour Forex Strategy: Step-by-Step Guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#metaTitle"
+      ],
+      "translation": "1 घंटे की विदेशी मुद्रा रणनीति में महारत हासिल करना: चरण-दर-चरण मार्गदर्शिका",
+      "previousKey": "t1f71766ba0e40497",
+      "previousEnglish": "Mastering the 1 Hour Forex Strategy: Step-by-Step Guide"
+    },
+    {
+      "key": "t27339ef0d61c186a",
+      "english": "Learn the 1-hour forex strategy with simple steps. Discover how to trade smarter, manage risks, and find clear entry and exit points effectively.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#description",
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#descriptionSnippet"
+      ],
+      "translation": "सरल चरणों के साथ 1 घंटे की विदेशी मुद्रा रणनीति सीखें। जानें कि कैसे बेहतर तरीके से व्यापार करें, जोखिमों का प्रबंधन करें और प्रभावी ढंग से स्पष्ट प्रवेश और निकास बिंदु खोजें।",
+      "previousKey": "tfea19e25b78baa87",
+      "previousEnglish": "Learn the 1 hour forex strategy with simple steps. Discover how to trade smarter, manage risks, and find clear entry and exit points effectively."
+    },
+    {
+      "key": "tdf079a8dda159d35",
+      "english": "web blog image 1-Hour Forex Strategy",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#imageAltTag"
+      ],
+      "translation": "वेब ब्लॉग छवि 1 घंटे की विदेशी मुद्रा रणनीति",
+      "previousKey": "t9121bbc4ae475898",
+      "previousEnglish": "web blog image 1 Hour Forex Strategy"
+    },
+    {
+      "key": "tf87874f95b5009ef",
+      "english": "<span data-i18n-slot=\"0\">If you are looking for a trading plan that doesn’t require sitting in front of the screen all day, the 1-hour forex strategy could be a great choice. It gives you enough trading opportunities while keeping the process simple and less stressful. Many beginners and even experienced traders prefer this approach because it balances time, analysis, and results.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">यदि आप एक व्यापारिक योजना की तलाश कर रहे हैं, तो हर दिन स्क्रीन के सामने बैठने की आवश्यकता नहीं है, तो 1 घंटे का विदेशी मुद्रा रणनीति एक बहुत अच्छा विकल्प हो सकता है। यह आपको प्रक्रिया को सरल और कम तनावपूर्ण रखने के दौरान पर्याप्त व्यापारिक अवसर देता है। कई शुरुआती और अनुभवी व्यापारी इस दृष्टिकोण को पसंद करते हैं क्योंकि यह समय, विश्लेषण और परिणाम को संतुलित करता है।</span>",
+      "previousKey": "tc5c3f852f6f24622",
+      "previousEnglish": "<span data-i18n-slot=\"0\">If you are looking for a trading plan that doesn’t require sitting in front of the screen all day, the 1 hour forex strategy could be a great choice. It gives you enough trading opportunities while keeping the process simple and less stressful. Many beginners and even experienced traders prefer this approach because it balances time, analysis, and results.</span>"
+    },
+    {
+      "key": "t81155c3ada70e0aa",
+      "english": "<span data-i18n-slot=\"0\">In this blog, we’ll explain what the 1-hour forex strategy is, how it works, and tips to make it more effective.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">इस ब्लॉग में, हम बताएंगे कि 1 घंटे की विदेशी मुद्रा रणनीति क्या है, यह कैसे काम करती है, और इसे और अधिक प्रभावी बनाने के लिए टिप्स।</span>",
+      "previousKey": "t70b4df411199aea7",
+      "previousEnglish": "<span data-i18n-slot=\"0\">In this blog, we’ll explain what the 1 hour forex strategy is, how it works, and tips to make it more effective.</span>"
+    },
+    {
+      "key": "t5fe6078029d7a50a",
+      "english": "<span data-i18n-slot=\"0\">What is the 1-Hour Forex Strategy?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1 घंटे की विदेशी मुद्रा रणनीति क्या है?</span>",
+      "previousKey": "tbd1f6999cc10f5a7",
+      "previousEnglish": "<span data-i18n-slot=\"0\">What is the 1 Hour Forex Strategy?</span>"
+    },
+    {
+      "key": "t3fb157e2bf297fbe",
+      "english": "<span data-i18n-slot=\"0\">The 1-hour strategy is a trading method that uses the 1-hour time frame on forex charts. This means that each candle or bar on the chart represents one hour of market activity. Traders who use this strategy usually check the market every few hours instead of every few minutes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1 घंटे की रणनीति एक ट्रेडिंग पद्धति है जो विदेशी मुद्रा चार्ट पर 1 घंटे की समय सीमा का उपयोग करती है। इसका मतलब यह है कि चार्ट पर प्रत्येक मोमबत्ती या बार एक घंटे की बाजार गतिविधि का प्रतिनिधित्व करता है। जो व्यापारी इस रणनीति का उपयोग करते हैं वे आमतौर पर हर कुछ मिनटों के बजाय हर कुछ घंटों में बाजार की जांच करते हैं।</span>",
+      "previousKey": "tef261591c2ad9e33",
+      "previousEnglish": "<span data-i18n-slot=\"0\">The 1 hour strategy is a trading method that uses the 1-hour time frame on forex charts. This means that each candle or bar on the chart represents one hour of market activity. Traders who use this strategy usually check the market every few hours instead of every few minutes.</span>"
+    },
+    {
+      "key": "t685025914f2fe681",
+      "english": "<span data-i18n-slot=\"0\">Why Choose the 1-Hour Forex Strategy?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1 घंटे की विदेशी मुद्रा रणनीति क्यों चुनें?</span>",
+      "previousKey": "t6146b7a8f4739a6c",
+      "previousEnglish": "<span data-i18n-slot=\"0\">Why Choose the 1 Hour Forex Strategy?</span>"
+    },
+    {
+      "key": "t92a5c799d80e49ad",
+      "english": "<span data-i18n-slot=\"0\">How to Use the 1-Hour Forex Strategy</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1 घंटे की विदेशी मुद्रा रणनीति का उपयोग कैसे करें</span>",
+      "previousKey": "t5766842a8cf9ac20",
+      "previousEnglish": "<span data-i18n-slot=\"0\">How to Use the 1 Hour Forex Strategy</span>"
+    },
+    {
+      "key": "t1176610775871bfb",
+      "english": "<span data-i18n-slot=\"0\">Example of a 1-Hour Forex Strategy Setup</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1 घंटे की विदेशी मुद्रा रणनीति सेटअप का उदाहरण</span>",
+      "previousKey": "t3393c4d0072a0676",
+      "previousEnglish": "<span data-i18n-slot=\"0\">Example of a 1 Hour Forex Strategy Setup</span>"
+    },
+    {
+      "key": "t42cbb1025ca8c244",
+      "english": "<span data-i18n-slot=\"0\">This simple example shows how structured and clear trading can be with the 1-hour strategy.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">यह सरल उदाहरण दिखाता है कि 1 घंटे की रणनीति के साथ व्यापार कितना संरचित और स्पष्ट हो सकता है।</span>",
+      "previousKey": "t957faa6746fa7029",
+      "previousEnglish": "<span data-i18n-slot=\"0\">This simple example shows how structured and clear trading can be with the 1 hour strategy.</span>"
+    },
+    {
+      "key": "te17286e4d97a90d8",
+      "english": "<span data-i18n-slot=\"0\">Is the 1-Hour Forex Strategy Right for You?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">क्या 1 घंटे की विदेशी मुद्रा रणनीति आपके लिए सही है?</span>",
+      "previousKey": "t29fd19a1116fe235",
+      "previousEnglish": "<span data-i18n-slot=\"0\">Is the 1 Hour Forex Strategy Right for You?</span>"
+    },
+    {
+      "key": "t281902d0e966bd7a",
+      "english": "<span data-i18n-slot=\"0\">The 1-hour </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex</span></span><span data-i18n-slot=\"3\"> strategy offers traders a balance of structure, flexibility, and simplicity. By focusing on trend direction, waiting for pullbacks, and following proper risk management, you can increase your chances of consistent results.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1 घंटे की </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">फॉरेक्स</span></span><span data-i18n-slot=\"3\"> रणनीति व्यापारियों को संरचना, लचीलेपन और सरलता का संतुलन प्रदान करती है। रुझान की दिशा पर ध्यान केंद्रित करके, पुलबैक की प्रतीक्षा करके और उचित जोखिम प्रबंधन का पालन करके, आप लगातार परिणामों की संभावना बढ़ा सकते हैं।</span>",
+      "previousKey": "tf1ec459347853777",
+      "previousEnglish": "<span data-i18n-slot=\"0\">The 1 hour </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex</span></span><span data-i18n-slot=\"3\"> strategy offers traders a balance of structure, flexibility, and simplicity. By focusing on trend direction, waiting for pullbacks, and following proper risk management, you can increase your chances of consistent results.</span>"
+    },
+    {
+      "key": "t3637b9cb607fb33b",
+      "english": "5 Crucial Differences Between Forex Demo and Real Accounts",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#metaTitle"
+      ],
+      "translation": "विदेशी मुद्रा डेमो और वास्तविक खाते के बीच 5 महत्वपूर्ण अंतर",
+      "previousKey": "t1cee1d13a004a67b",
+      "previousEnglish": "5 Crucial Difference Between Forex Demo and Real Account"
+    },
+    {
+      "key": "t3ce02c5a4bd0eb4e",
+      "english": "<span data-i18n-slot=\"0\">A forex trading platform updates prices, charts, and market data instantly, allowing traders to execute trades with minimal delays. UpForex's real-time technology provides millisecond execution rates, offering you an edge in rapidly changing markets.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">एक विदेशी मुद्रा व्यापार मंच कीमतों, चार्ट और बाजार डेटा को तुरंत अपडेट करता है, जिससे व्यापारियों को न्यूनतम देरी के साथ व्यापार निष्पादित करने की अनुमति मिलती है। UpForex की वास्तविक समय तकनीक मिलीसेकंड निष्पादन दर प्रदान करती है, जो आपको तेजी से बदलते बाजारों में बढ़त प्रदान करती है..</span>",
+      "previousKey": "ta2829ceed92f3300",
+      "previousEnglish": "<span data-i18n-slot=\"0\">A forex trading platform updates prices, charts, and market data instantly, allowing traders to execute trades with minimal delays. UpForex's real-time technology provides millisecond execution rates, offering you an edge in rapidly changing markets..</span>"
+    },
+    {
+      "key": "t51668621305ca5f5",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">forex trading platform</span></span></span><span data-i18n-slot=\"4\"> is considered legal if it is regulated by a recognized financial authority, complies with anti-money laundering (AML) laws, and protects client funds through secure financial practices. Regulation ensures that the platform respects fair trade regulations and is accountable to the financial authorities.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">एक </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">फॉरेक्स ट्रेडिंग प्लेटफॉर्म</span></span></span><span data-i18n-slot=\"4\"> को कानूनी माना जाता है यदि इसे किसी मान्यता प्राप्त वित्तीय प्राधिकरण द्वारा विनियमित किया जाता है, एंटी-मनी लॉन्ड्रिंग (एएमएल) कानूनों का अनुपालन किया जाता है, और सुरक्षित वित्तीय प्रथाओं के माध्यम से ग्राहक निधि की सुरक्षा की जाती है। विनियमन यह सुनिश्चित करता है कि प्लेटफ़ॉर्म निष्पक्ष व्यापार नियमों का सम्मान करता है और वित्तीय अधिकारियों के प्रति जवाबदेह है..</span>",
+      "previousKey": "ted269f37eb6ee25b",
+      "previousEnglish": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">forex trading platform</span></span></span><span data-i18n-slot=\"4\"> is considered legal if it is regulated by a recognized financial authority, complies with anti-money laundering (AML) laws, and protects client funds through secure financial practices. Regulation ensures that the platform respects fair trade regulations and is accountable to the financial authorities..</span>"
+    },
+    {
+      "key": "tf4cefac6af55e77c",
+      "english": "<span data-i18n-slot=\"0\">UpForex is more than just the best forex trading platform — it’s designed for future-ready traders who need speed, intelligence, and control.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex सिर्फ एक सर्वश्रेष्ठ विदेशी मुद्रा व्यापार मंच से कहीं अधिक है - यह भविष्य के लिए तैयार व्यापारियों के लिए डिज़ाइन किया गया है जिन्हें गति, बुद्धिमत्ता और नियंत्रण की आवश्यकता है।</span>",
+      "previousKey": "t2e73a4261a70b264",
+      "previousEnglish": "<span data-i18n-slot=\"0\">UpForex is more than just a best forex trading platform — it’s designed for future-ready traders who need speed, intelligence, and control.</span>"
+    },
+    {
+      "key": "t73629b05659c2397",
+      "english": "<span data-i18n-slot=\"0\">UpForex offers </span><span data-i18n-slot=\"1\">EUR/USD spreads from 0.1 pips</span><span data-i18n-slot=\"2\"> with </span><span data-i18n-slot=\"3\">zero commissions</span><span data-i18n-slot=\"4\">, meaning the spread you see is the only fee you pay—no hidden markups or overnight financing surprises. This transparent pricing ensures every pip works toward your bottom line, whether you’re trading majors, minors, or exotic pairs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex </span><span data-i18n-slot=\"1\">EUR/USD पर 0.1 पिप्स से शुरू होने वाला स्प्रेड</span><span data-i18n-slot=\"2\"> और </span><span data-i18n-slot=\"3\">शून्य कमीशन</span><span data-i18n-slot=\"4\"> देता है, अर्थात आपको दिखने वाला स्प्रेड ही आपका एकमात्र शुल्क है—कोई छिपा मार्कअप या अप्रत्याशित ओवरनाइट वित्तपोषण लागत नहीं। यह पारदर्शी मूल्य निर्धारण सुनिश्चित करता है कि हर पिप आपके कुल लाभ में योगदान दे, चाहे आप मेजर, माइनर या एक्सॉटिक मुद्रा जोड़ों में ट्रेड करें।</span>",
+      "previousKey": "t6fb41ec7006bdd17",
+      "previousEnglish": "<span data-i18n-slot=\"0\">UpForex offers </span><span data-i18n-slot=\"1\">EUR/USD spreads from 0.1 pips</span><span data-i18n-slot=\"2\"> with </span><span data-i18n-slot=\"3\">zero commissions</span><span data-i18n-slot=\"4\">, meaning the spread you see is the only fee you pay—no hidden markups or overnight financing surprises . This transparent pricing ensures every pip works toward your bottom line, whether you’re trading majors, minors, or exotic pairs.</span>"
+    },
+    {
+      "key": "tf24004adc2320683",
+      "english": "<span data-i18n-slot=\"0\">Ultra-Tight Majors</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> EUR/USD from </span><span data-i18n-slot=\"4\">0.1 pips</span><span data-i18n-slot=\"5\">, matching raw-spread specialists without commissions.</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">मेजर मुद्रा जोड़ों पर बेहद कम स्प्रेड</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> EUR/USD पर </span><span data-i18n-slot=\"4\">0.1 पिप्स</span><span data-i18n-slot=\"5\"> से शुरुआत, बिना कमीशन के रॉ-स्प्रेड विशेषज्ञों के बराबर।</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "previousKey": "t8163ccdb8f7f1043",
+      "previousEnglish": "<span data-i18n-slot=\"0\">Ultra-Tight Majors</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> EUR/USD from </span><span data-i18n-slot=\"4\">0.1 pips</span><span data-i18n-slot=\"5\">, matching raw-spread specialists without commissions .</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>"
+    },
+    {
+      "key": "tfd5ce9cd2f8eefcf",
+      "english": "<span data-i18n-slot=\"0\">Practice using a </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">demo account</span></span><span data-i18n-slot=\"3\">: </span>Before you invest real money, you can paper trade on many of the best forex trading platforms. Now is the moment to make sure you have tested your tactics and mastered all the trading mechanics. Finding your flaws and blunders in practice mode is preferable to doing so while your money is on the line.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">एक </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">डेमो खाते का उपयोग करने का अभ्यास करें</span></span><span data-i18n-slot=\"3\">: </span>वास्तविक धन निवेश करने से पहले, आप कई बेहतरीन विदेशी मुद्रा ट्रेडिंग प्लेटफॉर्म पर पेपर ट्रेड कर सकते हैं। अब यह सुनिश्चित करने का समय है कि आपने अपनी रणनीति का परीक्षण कर लिया है और सभी ट्रेडिंग यांत्रिकी में महारत हासिल कर ली है। जब आपका पैसा दांव पर लगा हो तो अभ्यास मोड में अपनी कमियों और भूलों का पता लगाना बेहतर होता है।",
+      "previousKey": "te670554aebfe6368",
+      "previousEnglish": "<span data-i18n-slot=\"0\">Practice using a </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">demo account</span></span><span data-i18n-slot=\"3\">: </span>Before you invest real money, you can paper trade on a lot of best forex trading platform. Now is the moment to make sure you have tested your tactics and mastered all the trading mechanics. Finding your flaws and blunders in practice mode is preferable to doing so while your money is on the line."
+    }
+  ]
+}

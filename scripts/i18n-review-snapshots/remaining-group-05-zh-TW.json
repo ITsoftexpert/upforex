@@ -1,0 +1,580 @@
+{
+  "language": "zh-TW",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t61767f3c4f76edcc",
+      "english": "<span data-i18n-slot=\"0\">7. Compare Forex Trading Account Types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">7。比較外匯交易賬戶型別</span>"
+    },
+    {
+      "key": "t5a6341cb4f87e091",
+      "english": "<span data-i18n-slot=\"0\">This is an important step that should never be overlooked.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">這是一個不容忽視的重要步驟。</span>"
+    },
+    {
+      "key": "tfd709516af166a58",
+      "english": "<span data-i18n-slot=\"0\">When researching forex trading in Abu Dhabi, take time to understand which company will provide the actual trading service and which regulator is responsible for its activities.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在研究阿布扎比的外匯交易時，請花些時間瞭解哪家公司將提供實際的交易服務以及哪家監管機構負責其活動。</span>"
+    },
+    {
+      "key": "tc021265410db9ffe",
+      "english": "<span data-i18n-slot=\"0\">9. Start with a Demo Account Before Using Real Money</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">9。在使用真實貨幣之前先使用模擬賬戶</span>"
+    },
+    {
+      "key": "ta511e0b248be4ae0",
+      "english": "<span data-i18n-slot=\"0\">If you are new to forex trading, a demo account can help you understand how a trading platform works without immediately risking real money.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果您是外匯交易新手，模擬賬戶可以幫助您瞭解交易平臺的工作原理，而無需立即冒真金白銀的風險。</span>"
+    },
+    {
+      "key": "t5f540cff25771b1b",
+      "english": "<span data-i18n-slot=\"0\">Opening and closing positions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">開倉和平倉</span>"
+    },
+    {
+      "key": "t779e8a33263abbeb",
+      "english": "<span data-i18n-slot=\"0\">Selecting currency pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">選擇貨幣對</span>"
+    },
+    {
+      "key": "t96c88deb750c0aab",
+      "english": "<span data-i18n-slot=\"0\">Setting stop-loss and take-profit orders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">設定止損和止盈訂單</span>"
+    },
+    {
+      "key": "ta3aa52e8c3e89dbc",
+      "english": "<span data-i18n-slot=\"0\">Understanding order types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">瞭解訂單型別</span>"
+    },
+    {
+      "key": "te63cbb33eb72b583",
+      "english": "<span data-i18n-slot=\"0\">Monitoring account balance and margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">監控賬戶餘額和保證金</span>"
+    },
+    {
+      "key": "t48314121f5b98b07",
+      "english": "<span data-i18n-slot=\"0\">11. How to Get Started with Forex Trading in Abu Dhabi Through UPFOREX</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">11。如何透過 UPFOREX 在阿布扎比開始外匯交易</span>"
+    },
+    {
+      "key": "t75543e72e1fb38c2",
+      "english": "<span data-i18n-slot=\"0\">For anyone researching </span><span data-i18n-slot=\"1\">forex trading in Abu Dhabi</span><span data-i18n-slot=\"2\">, the most important thing is to take time to compare platforms and understand their conditions instead of making decisions based only on advertisements or promises of high returns.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">對於研究</span><span data-i18n-slot=\"1\">阿布扎比外匯交易</span><span data-i18n-slot=\"2\">的人來說，最重要的是花時間比較平台並了解其條件，而不是僅憑廣告或高回報承諾做決定。</span>"
+    },
+    {
+      "key": "t4aaca0aa18f94c84",
+      "english": "<span data-i18n-slot=\"0\">Interested in learning more about online forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有興趣瞭解有關線上外匯交易的更多資訊嗎？</span>"
+    },
+    {
+      "key": "te866f33051b9e932",
+      "english": "<span data-i18n-slot=\"0\">1. Is forex trading suitable for beginners in Abu Dhabi?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。外匯交易適合阿布扎比的初學者嗎？</span>"
+    },
+    {
+      "key": "t95098cf29921d490",
+      "english": "<span data-i18n-slot=\"0\">Beginners can learn about forex trading through educational materials and demo accounts. However, leveraged forex and CFD trading involves significant financial risk. Understanding the market, trading costs and risk management is important before considering a live account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初學者可以透過教育材料和模擬賬戶瞭解外匯交易。然而，槓桿外匯和差價合約交易涉及重大財務風險。在考慮真實賬戶之前，瞭解市場、交易成本和風險管理非常重要。</span>"
+    },
+    {
+      "key": "td3636cbc5dcd6b1c",
+      "english": "<span data-i18n-slot=\"0\">Yes. A demo account allows beginners to become familiar with trading platforms, price charts and order placement using virtual funds. However, demo results do not guarantee similar outcomes in live markets.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">是的。模擬賬戶可以讓初學者熟悉交易平臺、價格圖表和使用虛擬資金下單。然而，演示結果並不能保證真實市場中的類似結果。</span>"
+    },
+    {
+      "key": "t634238527c68190a",
+      "english": "<span data-i18n-slot=\"0\">6. How does leverage affect forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">6。槓桿如何影響外匯交易？</span>"
+    },
+    {
+      "key": "t1acad7eeea5b6524",
+      "english": "<span data-i18n-slot=\"0\">7. What should I check before choosing a forex trading provider in Abu Dhabi?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">7。在選擇阿布扎比的外匯交易提供商之前我應該檢查什麼？</span>"
+    },
+    {
+      "key": "t6197a6fafe26fc1a",
+      "english": "<span data-i18n-slot=\"0\">Risk Disclaimer:</span><span data-i18n-slot=\"1\"> Forex and CFD trading involves substantial risk and may not be suitable for everyone. Leverage can magnify losses, and you may lose some or all of your invested capital. This article is for educational and informational purposes only and does not constitute financial or investment advice. Review all applicable terms and seek independent professional advice before making financial decisions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">風險免責宣告：</span><span data-i18n-slot=\"1\">外匯和差價合約交易涉及重大風險，可能並不適合所有人。槓桿會放大損失，您可能會損失部分或全部投資資金。本文僅用於教育和資訊目的，並不構成財務或投資建議。在做出財務決策之前，請檢視所有適用條款並尋求獨立的專業建議。</span>"
+    },
+    {
+      "key": "t1aed713a327462c4",
+      "english": "MetaTrader Demo Account Guide for Forex Beginners",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#metaTitle",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "外匯初學者 MetaTrader 模擬賬戶指南"
+    },
+    {
+      "key": "t7ed54f905d62512e",
+      "english": "MetaTrader Demo Account",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#tag",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "MetaTrader 模擬賬戶"
+    },
+    {
+      "key": "t1982487036bbbece",
+      "english": "METATRADER DEMO ACCOUNT",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#upperTag",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "MetaTrader 模擬賬戶"
+    },
+    {
+      "key": "t59120ba5eef1b483",
+      "english": "Demo Forex Trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#tag",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "模擬外匯交易"
+    },
+    {
+      "key": "td1424c0547b2fca3",
+      "english": "DEMO FOREX TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#upperTag",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "模擬外匯交易"
+    },
+    {
+      "key": "t187f892415cc84cc",
+      "english": "How MetaTrader Demo Accounts Work",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "MetaTrader 模擬賬戶如何運作"
+    },
+    {
+      "key": "t84b7dd3ede25fa90",
+      "english": "A demo account is a practice account. A broker gives it to you. It uses virtual money. You can explore the platform and watch prices. You do not use your own cash.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "模擬帳戶是用於練習的帳戶，由經紀商提供。它使用虛擬資金。您可以探索平台並觀察價格，而無需使用自己的真實資金。"
+    },
+    {
+      "key": "t0f68d06887a04594",
+      "english": "Demo accounts let you learn at your own speed. You can open charts and read bid and ask prices. You can open and close practice trades. This makes forex terms easier to grasp.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "模擬帳戶讓您可以按照自己的速度學習。您可以開啟圖表並閱讀買入價和賣出價。您可以開倉和平倉練習交易。這使得外匯術語更容易掌握。"
+    },
+    {
+      "key": "td06e4e074781b867",
+      "english": "MT4 is known for forex. It has charts, indicators and order types. It also runs auto trading with Expert Advisors. The layout is simple. That suits many beginners who want the basics.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "MT4 以外匯聞名。它有圖表、指標和訂單型別。它還使用 Expert Advisor 執行自動交易。佈局很簡單。這適合許多想要基礎知識的初學者。"
+    },
+    {
+      "key": "tfc720ffdea24fcaf",
+      "english": "<span data-i18n-slot=\"0\">People exploring </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex Singapore</span></span><span data-i18n-slot=\"3\"> educational resources should compare the two versions according to their requirements rather than assuming that one will automatically produce better trading results. Beginners may benefit from learning one platform thoroughly before experimenting with additional tools.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">探索</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">新加坡外匯交易</span></span><span data-i18n-slot=\"3\">教育資源的人應根據自己的需求比較這兩個版本，而不是假設其中一個會自動產生更好的交易結果。初學者在嘗試額外工具之前，先徹底掌握一個平台可能會有所幫助。</span>"
+    },
+    {
+      "key": "t73d2797e38849e40",
+      "english": "Learn how to:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "瞭解如何："
+    },
+    {
+      "key": "t9c7c7b7492fd151e",
+      "english": "Find currency pairs",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "查詢貨幣對"
+    },
+    {
+      "key": "t83d5a688e4bdee34",
+      "english": "Change chart timeframes",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "更改圖表時間範圍"
+    },
+    {
+      "key": "t5dfcc43884c868e6",
+      "english": "You can view past and live price charts. Switch between timeframes. You will see how a pair moves over short and long spans.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "您可以檢視過去和實時的價格圖表。在時間範圍之間切換。您將看到貨幣對如何在短跨度和長跨度內移動。"
+    },
+    {
+      "key": "tae06b5732de9cfff",
+      "english": "<span data-i18n-slot=\"0\">Practicing Order Placement and Risk Management</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">練習下單和風險管理</span>"
+    },
+    {
+      "key": "tc9d21e0a6d1f53d6",
+      "english": "A demo account is a safe place to try orders. You can place market orders. You can try pending orders too. These start when a set price is reached.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "模擬賬戶是嘗試訂單的安全場所。您可以下市價訂單。您也可以嘗試掛單。這些在達到設定價格時開始。"
+    },
+    {
+      "key": "t6aee15e384114cf1",
+      "english": "Practice risk control from day one. Try these steps:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "從第一天起就實行風險控制。嘗試以下步驟："
+    },
+    {
+      "key": "t8d680b5f9cf100c7",
+      "english": "Work out your position size",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "計算出你的頭寸規模"
+    },
+    {
+      "key": "t2371a870f168d48c",
+      "english": "Set your limits before you trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "在交易前設定您的限額"
+    },
+    {
+      "key": "t703a3cfb93537855",
+      "english": "The pair and timeframe",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "貨幣對和時間範圍"
+    },
+    {
+      "key": "tcec0dbcb92ed376d",
+      "english": "Why you took or skipped the trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "您為何進行或跳過交易"
+    },
+    {
+      "key": "t07bae06626ed1cce",
+      "english": "Know the Limits of Demo Trading",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "瞭解模擬交易的侷限性"
+    },
+    {
+      "key": "t281be1ea08f7c838",
+      "english": "Demos are great for learning. But they miss parts of live trading. Practice orders may run in a different way. The account may not show real liquidity or slippage. It may not show the full effect of the market.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "演示非常適合學習。但他們錯過了部分實時交易。練習訂單可能會以不同的方式執行。該賬戶可能不顯示真實的流動性或滑點。它可能無法顯示市場的全部影響。"
+    },
+    {
+      "key": "t5e1527001c1342a2",
+      "english": "<span data-i18n-slot=\"0\">Treat your demo as a classroom. Do not rush to deposit money. Read the terms, fees and account rules first. This is part of smart research.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">將您的演示視為教室。不要急於存錢。首先閱讀條款、費用和賬戶規則。這是智慧研究的一部分。</span>"
+    },
+    {
+      "key": "taee419e795cc763b",
+      "english": "Frequently Asked Questions (FAQs)",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "常見問題 (FAQ)"
+    },
+    {
+      "key": "te2762c02f8e65a0a",
+      "english": "<span data-i18n-slot=\"0\">3. Can beginners learn forex without real money?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。初學者沒有真錢可以學習外匯嗎？</span>"
+    },
+    {
+      "key": "tc94e06e527e9ae03",
+      "english": "Yes. A demo account lets you study charts and place practice trades. You can test indicators and learn risk control. You do not need to deposit. But demo results can differ from live trading. Order speed and feelings play a role.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "是的。模擬賬戶可讓您研究圖表並進行練習交易。您可以測試指標並學習風險控制。您無需存款。但演示結果可能與實時交易不同。訂單速度和感受發揮了作用。"
+    },
+    {
+      "key": "t1c953411728e6443",
+      "english": "Set practice stop-loss and take-profit orders. Work out position sizes. Learn how leverage works. Test your rules in different markets. These steps show you the risks before you go live.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/metatrader-demo-account-forex-trading-guide#content",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide"
+      ],
+      "translation": "設定練習止損和止盈訂單。計算出頭寸大小。瞭解槓桿如何運作。在不同的市場測試您的規則。這些步驟會在上線前向您展示風險。"
+    },
+    {
+      "key": "tbab82a0a8a57cd44",
+      "english": "How to Develop a Forex Trading Strategy Based on Market Conditions",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#title",
+        "SSR:/blogs",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "如何根據市場狀況制定外匯交易策略"
+    },
+    {
+      "key": "t14c39a8d80d78641",
+      "english": "Forex Trading Strategy for Different Market Conditions",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#metaTitle",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "不同市場條件下的外匯交易策略"
+    },
+    {
+      "key": "ta9268371b52aeb1b",
+      "english": "Forex Trading Strategy",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#tag",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "外匯交易策略"
+    },
+    {
+      "key": "tef1cc49169f4a2fb",
+      "english": "FOREX TRADING STRATEGY",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#upperTag",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "外匯交易策略"
+    },
+    {
+      "key": "t1f34a70bbf6df613",
+      "english": "Forex Risk Management",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#tag",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "外匯風險管理"
+    },
+    {
+      "key": "t9a37d4cb09e086d3",
+      "english": "FOREX RISK MANAGEMENT",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#upperTag",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "外匯風險管理"
+    },
+    {
+      "key": "t3b57c0138b80d087",
+      "english": "Forex Market Conditions",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#tag",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "外匯市場狀況"
+    },
+    {
+      "key": "tf14c96134b283487",
+      "english": "FOREX MARKET CONDITIONS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#upperTag",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "外匯市場狀況"
+    },
+    {
+      "key": "te3775e9eae426af4",
+      "english": "Key Takeaways",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "要點"
+    },
+    {
+      "key": "tcf690b5a1bd85fb2",
+      "english": "Range-Bound Markets",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "區間波動市場"
+    }
+  ]
+}

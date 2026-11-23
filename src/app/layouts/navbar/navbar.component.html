@@ -15,10 +15,12 @@
           style="height: 66px; width: 150px; object-fit: contain"
         /> -->
         <img
-          loading="lazy"
-          src="../../../assets/images/updated-logos/logo-1.webp"
+          loading="eager"
+          decoding="async"
+          width="120" height="50"
+          src="assets/images/optimized/logo-1.7dc03e491ef77d53.webp"
           style="height: 50px; width: 120px; object-fit: contain"
-          alt="upforex logo"
+          [attr.alt]="'upforex logo' | localize"
         />
       </a>
       <button
@@ -94,7 +96,7 @@
                       : ''
                   "
                 >
-                  {{ menu.name }}
+                  {{ (menu.name) | localize }}
                 </a>
               </div>
             </div>
@@ -131,7 +133,7 @@
                   "
                   [ngClass]="i === selectedIndex ? 'active-route' : ''"
                 >
-                  {{ menu.name }}
+                  {{ (menu.name) | localize }}
                 </a>
               </div>
             </div>
@@ -194,7 +196,7 @@
                       : ''
                   "
                 >
-                  {{ menu.name }}
+                  {{ (menu.name) | localize }}
                 </a>
               </div>
             </div>
@@ -230,7 +232,7 @@
                       : ''
                   "
                 >
-                  {{ menu.name }}
+                  {{ (menu.name) | localize }}
                 </a>
               </div>
             </div>

@@ -1,0 +1,267 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tc8a27c213a9d0deb",
+      "english": "<span data-i18n-slot=\"0\">1. Standard Accounts</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Contas padrão</span>"
+    },
+    {
+      "key": "tcdf605ef30d2d119",
+      "english": "<span data-i18n-slot=\"0\">Offers access to larger trade sizes and more features.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Oferece acesso a maiores tamanhos comerciais e mais recursos.  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>"
+    },
+    {
+      "key": "tb2eaaa96bd2d32d0",
+      "english": "<span data-i18n-slot=\"0\">Every broker sets their own minimum deposit. Some brokers let you start with just $1, while others may require $500 or more.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cada corretor estabelece seu próprio depósito mínimo. Alguns corretores deixam você começar com apenas 1 dólar, enquanto outros podem precisar de 500 dólares ou mais.</span>"
+    },
+    {
+      "key": "tea08d8aaf29091f2",
+      "english": "<span data-i18n-slot=\"0\">Leverage allows you to control larger positions with a small amount of money. For example, with 1:100 leverage, a $100 deposit lets you control $10,000 worth of currency. While this makes forex accessible, it also increases risk.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A alavancagem permite controlar posições maiores com pouco dinheiro. Por exemplo, com alavancagem de 1:100, um depósito de $100 permite controlar $10,000 em moeda. Embora torne o forex mais acessível, também aumenta o risco.</span>"
+    },
+    {
+      "key": "t9210ae29ea6f0369",
+      "english": "<span data-i18n-slot=\"0\">Trading Style</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Estilo de Negociação</span>"
+    },
+    {
+      "key": "tf264b5f1fed0bb33",
+      "english": "<span data-i18n-slot=\"0\">Swing traders</span><span data-i18n-slot=\"1\"> (medium-term) can start smaller but need enough margin to hold trades for days.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Traders de swing</span><span data-i18n-slot=\"1\"> (médio prazo) podem começar com menos, mas precisam de margem suficiente para manter as posições por dias.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "tb60796abb840f4fd",
+      "english": "<span data-i18n-slot=\"0\">Experts suggest not risking more than </span><span data-i18n-slot=\"1\">1–2% of your capital</span><span data-i18n-slot=\"2\"> on a single trade. So, if you deposit $100, you should risk only $1–$2 per trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Especialistas sugerem não arriscar mais de </span><span data-i18n-slot=\"1\">1–2% do capital</span><span data-i18n-slot=\"2\"> em uma única operação. Portanto, se depositar $100, deve arriscar apenas $1–$2 por operação.</span>"
+    },
+    {
+      "key": "t98ba2638177334ac",
+      "english": "<span data-i18n-slot=\"0\">This range allows you to:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Esta faixa permite que você:</span>"
+    },
+    {
+      "key": "t1e971ab7ef3a5bb7",
+      "english": "<span data-i18n-slot=\"0\">Practice real trades without risking too much.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Praticar negócios reais sem arriscar muito.  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>"
+    },
+    {
+      "key": "t18c897c44fee8694",
+      "english": "<span data-i18n-slot=\"0\">Example: Trading with Different Starting Amounts</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Exemplo: negociação com diferentes valores iniciais</span>"
+    },
+    {
+      "key": "t8def2ea77f32aa67",
+      "english": "<span data-i18n-slot=\"0\">Clearly, having a slightly larger deposit makes trading less stressful and more educational.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Claramente, ter um depósito um pouco maior torna a negociação menos estressante e mais educacional.</span>"
+    },
+    {
+      "key": "t954bf215879a9d3f",
+      "english": "<span data-i18n-slot=\"0\">Investing too much at the start</span><span data-i18n-slot=\"1\"> – Many beginners put in $1,000+ without experience and lose it quickly.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Investir demais no início</span><span data-i18n-slot=\"1\"> – muitos iniciantes colocam $1,000+ sem experiência e perdem esse valor rapidamente.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t368b6a3383362c81",
+      "english": "<span data-i18n-slot=\"0\">Trading without a plan</span><span data-i18n-slot=\"1\"> – Random trades lead to random results.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negociar sem um plano</span><span data-i18n-slot=\"1\"> Trocas aleatórias levam a resultados aleatórios.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "tb6b04b7d7fe4d719",
+      "english": "<span data-i18n-slot=\"0\">2. Can I start forex trading with $10?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. Posso começar a negociar forex com $10?</span>"
+    },
+    {
+      "key": "tc4e9fed2b9c5cc0c",
+      "english": "<span data-i18n-slot=\"0\">5. Why is it important to know the minimum amount required for forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5. Por que é importante saber o valor mínimo necessário para negociar forex?</span>"
+    },
+    {
+      "key": "tc17de4442e5ddcf8",
+      "english": "<span data-i18n-slot=\"0\">1. Sign Up</span> <span data-i18n-slot=\"1\">– </span>Begin your trading journey by <span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\">creating a free account</span></span></span> on the UpForex platform. Our secure, user-friendly registration process takes just a few minutes, so you can get started without unnecessary delays.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Cadastre-se</span> <span data-i18n-slot=\"1\">– </span>comece sua jornada de negociação <span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\">criando uma conta gratuita</span></span></span> na plataforma UpForex. Nosso processo de cadastro seguro e fácil de usar leva apenas alguns minutos, permitindo começar sem atrasos desnecessários."
+    },
+    {
+      "key": "t1bd5d3f9eba841e1",
+      "english": "This honesty and integrity in pricing ensure you can plan trades more effectively without worrying about hidden charges.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "Essa honestidade e integridade nos preços permitem planejar operações de modo mais eficaz, sem se preocupar com cobranças ocultas."
+    },
+    {
+      "key": "te4b17c78d341e09c",
+      "english": "Here’s what sets us apart for seasoned traders:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "Aqui está o que nos separa para comerciantes experientes:"
+    },
+    {
+      "key": "t76c43ba4f7eaba9e",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. What is zero commission forex trading?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. O que é negociação de forex sem comissão?</span></span>"
+    },
+    {
+      "key": "t441439ee99ea794a",
+      "english": "<span data-i18n-slot=\"0\">No commission forex trading means you can buy and sell currency pairs without paying any broker commission fees. At UpForex, we offer true commission-free trading with competitive spreads, so more of your profits stay in your pocket.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negociação de forex sem comissão significa poder comprar e vender pares de moedas sem pagar comissão à corretora. Na UpForex, oferecemos negociação realmente sem comissão com spreads competitivos, para que uma parcela maior dos lucros fique com você.</span>"
+    },
+    {
+      "key": "t0c9e4f2916cba3e5",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. How does a real-time forex trading platform help traders?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Como uma plataforma de forex em tempo real ajuda os traders?</span></span>"
+    },
+    {
+      "key": "ta2829ceed92f3300",
+      "english": "<span data-i18n-slot=\"0\">A forex trading platform updates prices, charts, and market data instantly, allowing traders to execute trades with minimal delays. UpForex's real-time technology provides millisecond execution rates, offering you an edge in rapidly changing markets..</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma plataforma de forex atualiza preços, gráficos e dados de mercado instantaneamente, permitindo executar operações com atrasos mínimos. A tecnologia em tempo real da UpForex oferece execução em milissegundos, proporcionando uma vantagem em mercados que mudam rapidamente.</span>"
+    },
+    {
+      "key": "t50d87547729cf84d",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Is zero commission forex trading really free?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. O comércio de comissão zero é realmente gratuito?</span></span>"
+    },
+    {
+      "key": "tc858b7fcefe24676",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Can I start forex trading with $0?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Posso começar a negociar forex com $0?</span></span>"
+    },
+    {
+      "key": "ted269f37eb6ee25b",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">forex trading platform</span></span></span><span data-i18n-slot=\"4\"> is considered legal if it is regulated by a recognized financial authority, complies with anti-money laundering (AML) laws, and protects client funds through secure financial practices. Regulation ensures that the platform respects fair trade regulations and is accountable to the financial authorities..</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">plataforma de negociação de forex</span></span></span><span data-i18n-slot=\"4\"> é considerada legal se for regulada por uma autoridade financeira reconhecida, cumprir as leis de combate à lavagem de dinheiro (AML) e proteger os fundos dos clientes por meio de práticas financeiras seguras. A regulamentação assegura que a plataforma respeite as regras de negociação justa e preste contas às autoridades financeiras.</span>"
+    },
+    {
+      "key": "td2520c7a7d3f33a2",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Segregated Client Funds</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Fundos Segregados de Clientes</span></span>"
+    }
+  ]
+}

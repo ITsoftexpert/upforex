@@ -1,0 +1,197 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "ta9c894e4e8b1df2c",
+      "english": "<span data-i18n-slot=\"0\">Margin:</span><span data-i18n-slot=\"1\"> How much account equity must be allocated to open that exposure?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Margem:</span><span data-i18n-slot=\"1\"> Quanto patrimônio da conta deve ser alocado para abrir essa exposição?</span>"
+    },
+    {
+      "key": "t4443df57c4b0cd17",
+      "english": "<span data-i18n-slot=\"0\">Elite-ECN:</span><span data-i18n-slot=\"1\"> $5,000 minimum deposit, spreads from 0.1 pips, $0 commission.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Elite-ECN:</span><span data-i18n-slot=\"1\"> depósito mínimo de $5,000, spreads a partir de 0.1 pips, comissão de $0.</span>"
+    },
+    {
+      "key": "t54bc1b976856f66d",
+      "english": "<span data-i18n-slot=\"0\">Lot Name</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Nome do lote</span>"
+    },
+    {
+      "key": "tf60be4badc8587f2",
+      "english": "<span data-i18n-slot=\"0\">Half standard lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Meio lote padrão</span>"
+    },
+    {
+      "key": "ta4153b0d4c5c6ebf",
+      "english": "<span data-i18n-slot=\"0\">Five micro lots</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cinco microlotes</span>"
+    },
+    {
+      "key": "t44f7d4c292161048",
+      "english": "<span data-i18n-slot=\"0\">1.00 lot = 100 troy ounces</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.00 lote = 100 onças troy</span>"
+    },
+    {
+      "key": "t3c9d8ac6c17063c0",
+      "english": "<span data-i18n-slot=\"0\">A $1.00 gold price movement changes the value of a 1.00 lot by $100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma variação de $1.00 no preço do ouro altera o valor de um lote de 1.00 em $100</span>"
+    },
+    {
+      "key": "tcdd71bf398fe83d3",
+      "english": "<span data-i18n-slot=\"0\">Enter the resulting volume in the MT5 order window.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Insira o volume calculado na janela de ordens do MT5.</span>"
+    },
+    {
+      "key": "ta24d8b96ce1fef58",
+      "english": "<span data-i18n-slot=\"0\">Check the order details before placing the trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Confira os detalhes da ordem antes de realizar a operação.</span>"
+    },
+    {
+      "key": "tbcbd25588107c17e",
+      "english": "<span data-i18n-slot=\"0\">What is a micro lot?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que é um microlote?</span>"
+    },
+    {
+      "key": "tb4e37d78b2dc9672",
+      "english": "<span data-i18n-slot=\"0\">Calculate First, Then Choose the Trade Volume</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Calcule primeiro e depois escolha o volume de negociação</span>"
+    },
+    {
+      "key": "t13ac6168300d97d8",
+      "english": "<span data-i18n-slot=\"0\">What Is a Forex Currency Pair?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que é um par de moedas Forex?</span>"
+    },
+    {
+      "key": "t7535da68fa12760e",
+      "english": "<span data-i18n-slot=\"0\">What Are the Base and Quote Currency in a Forex Pair?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Quais são as moedas base e de cotação em um par Forex?</span>"
+    },
+    {
+      "key": "t3db76b5fcf1ad13f",
+      "english": "<span data-i18n-slot=\"0\">USD = quote currency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">USD = moeda de cotação</span>"
+    },
+    {
+      "key": "t9c9b84970170c5c1",
+      "english": "<span data-i18n-slot=\"0\">2. Identify the quote currency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. Identifique a moeda de cotação</span>"
+    },
+    {
+      "key": "t071aa1a2aa47e2fa",
+      "english": "<span data-i18n-slot=\"0\">The pair has moved upward by 0.0050, or </span><span data-i18n-slot=\"1\">50 pips,</span><span data-i18n-slot=\"2\"> under the standard four-decimal convention used for this pair.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O par subiu 0.0050, ou </span><span data-i18n-slot=\"1\">50 pips,</span><span data-i18n-slot=\"2\"> de acordo com a convenção padrão de quatro casas decimais usada para este par.</span>"
+    },
+    {
+      "key": "t943b3f6b086bc7fb",
+      "english": "<span data-i18n-slot=\"0\">What Are Major Currency Pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Quais são os principais pares de moedas?</span>"
+    },
+    {
+      "key": "tb3557197d5079b77",
+      "english": "<span data-i18n-slot=\"0\">What Are Minor Currency Pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que são pares de moedas menores?</span>"
+    },
+    {
+      "key": "t0354150659f9b78c",
+      "english": "<span data-i18n-slot=\"0\">What Are Exotic Currency Pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que são pares de moedas exóticas?</span>"
+    }
+  ]
+}

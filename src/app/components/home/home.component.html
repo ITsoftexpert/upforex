@@ -3,13 +3,16 @@
 >
  <img
   fetchpriority="high"
+  loading="eager"
+  decoding="async"
+  width="1024" height="512"
   class="tw-absolute tw-inset-0 tw-w-full tw-h-[85vh] md:tw-h-[95vh] lg:tw-h-[85vh] tw-object-cover tw-opacity-70"
   [src]="
     currentLanguage.code === 'ar'
-      ? 'assets/images/PNG/Upforex.png'
-      : s3URl + 'assets/images/JPG/home_banner_temp_1.webp'
+      ? 'assets/images/optimized/home-banner-ar.37150fc69f4015a4.webp'
+      : 'assets/images/JPG/home_banner_temp_1.webp'
   "
-  alt="upforex home banner"
+  [attr.alt]="'upforex home banner' | localize"
 />
   <div class="row m-0 p-0 tw-h-[80vh] lg:tw-h-[85vh]">
     <div class="col-12">
@@ -20,14 +23,10 @@
           class="my-2 !tw-font-bold banner-text w-100 tw-font-montserrat tw-px-4 md:tw-pr-20 lg:tw-text-5xl tw-text-4xl"
         >
           <h1>
-            New Revolutionary <span class="banner-span">Smart Trading</span> for
-            a Global Market Edge
-          </h1>
+             {{ 'New Revolutionary' | localize }} <span class="banner-span">{{ 'Smart Trading' | localize }}</span>  {{ 'for a Global Market Edge' | localize }} </h1>
         </div>
         <div class="my-2 tw-px-4 pt-2 banner-subtext tw-font-montserrat">
-          Trade Forex, Stock CFDs, Precious Metals, Index CFDs, Energy CFDs and
-          Cryptocurrency CFDs from your UPFOREX Trading Account
-        </div>
+           {{ 'Trade Forex, Stock CFDs, Precious Metals, Index CFDs, Energy CFDs and Cryptocurrency CFDs from your UPFOREX Trading Account' | localize }} </div>
         <div
           class="my-2 md:tw-pt-4 tw-pl-4 tw-flex tw-justify-start tw-gap-4 banner-button"
         >
@@ -62,7 +61,7 @@
         width="100%"
         class="tw-rounded-2xl"
         style="aspect-ratio: 2; object-fit: cover"
-        alt="tracking forex currency"
+        [attr.alt]="'tracking forex currency' | localize"
       />
     </div>
 
@@ -121,7 +120,7 @@
         </div>
         <div class="card tw-p-4">
           <span class="icon"> <i class="fa-xl fa-solid fa-school"></i></span>
-          <div class="text tw-font-montserrat">Trading Academy</div>
+          <div class="text tw-font-montserrat">{{ 'Trading Academy' | localize }}</div>
         </div>
       </div>
     </div>
@@ -135,45 +134,33 @@
       <h2
         class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-montserrat tw-font-bold md:tw-my-4 !tw-mb-8"
       >
-        Trade with Confidence – Exceptional Market Conditions for Every Trader
-      </h2>
+         {{ 'Trade with Confidence – Exceptional Market Conditions for Every Trader' | localize }} </h2>
       <p
         class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed !tw-mb-8"
       >
-        At UPFOREX, we provide ultra-competitive trading conditions tailored for
-        traders of all levels. Access the best forex trading platform with tight
-        spreads, deep liquidity, and lightning-fast execution to maximize your
-        success.
-      </p>
+         {{ 'At UPFOREX, we provide ultra-competitive trading conditions tailored for traders of all levels. Access the best forex trading platform with tight spreads, deep liquidity, and lightning-fast execution to maximize your success.' | localize }} </p>
       <div class="my-3 d-flex flex-column gap-3">
         <div class="d-flex gap-2 justify-content-center tw-items-start">
           <span class="arrow tw-mt-2"
             ><i class="fa-xl fa-solid fa-circle-right"></i
           ></span>
           <h5 class="tw-text-white tw-font-montserrat tw-ml-2">
-            <b class="bold-text">Best Market Prices & Low Spreads </b> Enjoy
-            institutional-grade pricing for Forex, Stocks, Indices, and Crypto
-            CFDs.
-          </h5>
+            <b class="bold-text">{{ 'Best Market Prices & Low Spreads' | localize }} </b>  {{ 'Enjoy institutional-grade pricing for Forex, Stocks, Indices, and Crypto CFDs.' | localize }} </h5>
         </div>
         <div class="d-flex gap-2 justify-content-center tw-items-start">
           <span class="arrow tw-mt-2"
             ><i class="fa-xl fa-solid fa-circle-right"></i
           ></span>
           <h5 class="tw-text-white tw-font-montserrat tw-ml-2">
-            <b class="bold-text">Negative balance protection: </b>Trade safely
-            and securely knowing you’ll never lose more than your deposit.
-          </h5>
+            <b class="bold-text">{{ 'Negative balance protection:' | localize }} </b>{{ 'Trade safely and securely knowing you’ll never lose more than your deposit.' | localize }} </h5>
         </div>
         <div class="d-flex gap-2 justify-content-center tw-items-start">
           <span class="arrow tw-mt-2"
             ><i class="fa-xl fa-solid fa-circle-right"></i
           ></span>
           <h5 class="tw-text-white tw-font-montserrat tw-ml-2">
-            <b class="bold-text">Instant Deposits & Quick Withdrawals:</b>
-            Experience real-time payouts with multiple payment methods,
-            including Crypto, Bank Transfer, Neteller, and Skrill.
-          </h5>
+            <b class="bold-text">{{ 'Instant Deposits & Quick Withdrawals:' | localize }}</b>
+             {{ 'Experience real-time payouts with multiple payment methods, including Crypto, Bank Transfer, Neteller, and Skrill.' | localize }} </h5>
         </div>
       </div>
     </div>
@@ -186,7 +173,7 @@
         width="100%"
         class="tw-rounded-2xl"
         style="aspect-ratio: 2; object-fit: cover"
-        alt="trading view chart on devices"
+        [attr.alt]="'trading view chart on devices' | localize"
       />
     </div>
   </div>
@@ -199,13 +186,11 @@
     <h2
       class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-montserrat tw-font-bold md:tw-my-4"
     >
-      Trade Smarter Across Global Assets
-    </h2>
+       {{ 'Trade Smarter Across Global Assets' | localize }} </h2>
     <p
       class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      Find your next trade with access to a wide range of markets.
-    </p>
+       {{ 'Find your next trade with access to a wide range of markets.' | localize }} </p>
   </div>
   <div
     class="tw-grid tw-grid-cols-1 sm:tw-grid-cols-2 lg:tw-grid-cols-3 tw-gap-8"
@@ -217,14 +202,14 @@
       <p
         class="!tw-text-start tw-font-montserrat tw-text-lg tw-font-extrabold md:!tw-h-[4rem] lg:!tw-h-[4rem] tw-tracking-wider tw-w-full !tw-mb-2"
       >
-        {{ item.title }}
+        {{ (item.title) | localize }}
       </p>
       <div class="tw-border-b tw-border-white tw-w-full tw-my-3"></div>
 
       <p
         class="tw-text-sm tw-font-semibold md:!tw-h-[15rem] lg:!tw-h-[10rem] tw-text-white tw-font-montserrat tw-text-left tw-leading-relaxed tw-tracking-wider"
       >
-        {{ item.description }}
+        {{ (item.description) | localize }}
       </p>
       <div class="tw-border-b tw-border-white tw-w-full tw-my-3"></div>
       <div class="tw-flex tw-justify-between tw-items-center tw-w-full">
@@ -237,8 +222,7 @@
           [routerLink]="item.routerLink"
           class="tw-font-montserrat tw-font-semibold"
         >
-          Explore Now
-          <i class="fa-solid fa-angles-right"></i>
+           {{ 'Explore Now' | localize }} <i class="fa-solid fa-angles-right"></i>
         </button>
       </div>
     </div>
@@ -248,21 +232,20 @@
 <h2
   class="tw-text-2xl md:tw-text-3xl lg:tw-text-4xl tw-font-montserrat tw-font-bold tw-text-white tw-text-center tw-mt-16 tw-mb-8"
 >
-  Seamless Global Trading with Lightning-Fast ECN Connectivity
-</h2>
+   {{ 'Seamless Global Trading with Lightning-Fast ECN Connectivity' | localize }} </h2>
 <div
   class="tw-w-full container-fluid p-0 tw-overflow-hidden smarter-trade-features-div !tw-h-[280px] md:tw-h-[350px]"
 >
     <video
-    #smartVideo
+    appDeferredVideo
     loop
     playsinline
     preload="none"
     [muted]="true"
-    class="tw-w-full tw-object-contain"
+    class="tw-w-full tw-object-cover"
   >
     <source
-      [src]="s3URl + 'assets/videos/smart_trading.mp4'"
+      [attr.data-src]="s3URl + 'assets/videos/smart_trading.mp4'"
       type="video/mp4"
     />
   </video>
@@ -274,13 +257,11 @@
     <h2
       class="tw-text-2xl md:tw-text-3xl lg:tw-text-4xl tw-font-montserrat tw-font-bold tw-text-white mb-4"
     >
-      Smart Trading Features
-    </h2>
+       {{ 'Smart Trading Features' | localize }} </h2>
     <p
       class="tw-text-sm md:tw-text-xl tw-text-white tw-font-light tw-font-montserrat tw-tracking-wide"
     >
-      Find your next trade with access to a wide range of markets.
-    </p>
+       {{ 'Find your next trade with access to a wide range of markets.' | localize }} </p>
   </div>
 
   <div
@@ -299,7 +280,7 @@
       <div
         class="text tw-text-center tw-text-lg tw-font-semibold tw-font-montserrat tw-my-6"
       >
-        {{ item.title }}
+        {{ (item.title) | localize }}
       </div>
     </div>
   </div>
@@ -314,17 +295,11 @@
       <h2
         class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-montserrat tw-font-bold md:tw-my-4 !tw-mb-8"
       >
-        Trade Anytime, Anywhere with MetaTrader 5 (MT5) – Mobile, Desktop & Web
-      </h2>
+         {{ 'Trade Anytime, Anywhere with MetaTrader 5 (MT5) – Mobile, Desktop & Web' | localize }} </h2>
       <p
         class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed !tw-mb-8"
       >
-        Experience next-generation trading with MetaTrader 5 (MT5) – the
-        ultimate multi-asset trading platform designed for Forex, Stocks,
-        Indices, Commodities, and Cryptos. Whether you're at home, in the
-        office, or on the move, MT5 is available across Mobile, Desktop, and
-        Web, ensuring you never miss a trading opportunity.
-      </p>
+         {{ 'Experience next-generation trading with MetaTrader 5 (MT5) – the ultimate multi-asset trading platform designed for Forex, Stocks, Indices, Commodities, and Cryptos. Whether you\'re at home, in the office, or on the move, MT5 is available across Mobile, Desktop, and Web, ensuring you never miss a trading opportunity.' | localize }} </p>
       <div class="my-3 d-flex flex-column gap-3">
         <div
           class="d-flex gap-2 justify-content-center tw-items-start"
@@ -334,18 +309,15 @@
             ><i class="fa-xl fa-solid fa-circle-right"></i
           ></span>
           <h5 class="tw-text-white tw-font-montserrat tw-ml-2">
-            <b class="bold-text"> {{ item.boldText }} :</b>
-            {{ item.subText }}
+            <b class="bold-text"> {{ (item.boldText) | localize }} :</b>
+            {{ (item.subText) | localize }}
           </h5>
         </div>
       </div>
       <p
         class="tw-text-sm tw-text-white tw-font-montserrat tw-font-semibold tw-tracking-wide tw-leading-relaxed"
       >
-        Whether you're a beginner or a seasoned trader, the MT5 Mobile App
-        ensures you never miss a trading opportunity. Download now and trade
-        smarter, faster, and better!
-      </p>
+         {{ 'Whether you\'re a beginner or a seasoned trader, the MT5 Mobile App ensures you never miss a trading opportunity. Download now and trade smarter, faster, and better!' | localize }} </p>
       <div class="tw-flex tw-items-center">
         <a
           href="https://download.mql5.com/cdn/mobile/mt5/ios?server=UpGlobalMarkets-Trade"
@@ -357,7 +329,7 @@
             height="100"
             width="100"
             class="tw-cursor-pointer"
-            alt="upforex ios app store"
+            [attr.alt]="'upforex ios app store' | localize"
           />
         </a>
         <a
@@ -370,7 +342,7 @@
             height="130"
             width="130"
             class="tw-cursor-pointer"
-            alt="upforex playstore app"
+            [attr.alt]="'upforex playstore app' | localize"
           />
         </a>
 
@@ -380,12 +352,12 @@
       >
           <img
           loading="lazy"
-          src="https://raw.githubusercontent.com/ITsoftexpert/IMG/refs/heads/main/desktopApp1.png"
+          src="assets/images/optimized/desktop-app.53edc2d6523b76bf.webp"
           height="130"
           width="130"
           class="tw-cursor-pointer"
           
-          alt="upforex Desktop app"
+          [attr.alt]="'upforex Desktop app' | localize"
         />
       </a>
         <img
@@ -394,7 +366,7 @@
           height="60"
           width="60"
           class="tw-cursor-pointer"
-          alt="upforex mt5 logo"
+          [attr.alt]="'upforex mt5 logo' | localize"
         />
       </div>
     </div>
@@ -402,6 +374,7 @@
       class="tw-w-full lg:tw-w-1/2 tw-flex tw-justify-center tw-items-center"
     >
       <ngb-carousel
+        [nativeCarouselLabels]="carouselText.title"
         #carousel
         [showNavigationArrows]="false"
         [wrap]="true"
@@ -416,7 +389,7 @@
               (leftSwipe)="carousel.next()"
               (rightSwipe)="carousel.prev()"
               [src]="s3URl + item"
-              [alt]="
+              [alt]="(
                 i === 0
                   ? 'Trade on the Premier MT5 Platform'
                   : i === 1
@@ -430,7 +403,7 @@
                           : i === 6
                             ? 'live trading view chart'
                             : 'upforex trade vision'
-              "
+              ) | localize"
             />
           </div>
         </ng-template>
@@ -451,24 +424,22 @@
     loading="lazy"
     class="background-video"
     [src]="s3URl + 'assets/images/unlock_access.webp'"
-    alt="Join Us"
+    [attr.alt]="'Join Us' | localize"
   />
   <div class="content">
     <p
       class="tw-text-white tw-font-semibold tw-text-lg md:tw-text-2xl tw-font-montserrat"
     >
-      Unlock Access to Global Markets
-    </p>
+       {{ 'Unlock Access to Global Markets' | localize }} </p>
     <p
       class="tw-text-white tw-font-semibold tw-text-sm md:tw-text-base tw-tracking-wider tw-font-montserrat"
     >
-      Discover the Power of Global Trading from a Single Account
-      <a
+       {{ 'Discover the Power of Global Trading from a Single Account' | localize }} <a
         (click)="scrollToTop()"
         class="tw-text-[#3cff19] text-decoration-none tw-cursor-pointer tw-font-extrabold"
         href="https://client.upforex.live/?tab=register"
         target="_blank"
-        >Open Your Account</a
+        >{{ 'Open Your Account' | localize }}</a
       >
     </p>
     <div class="tw-flex tw-items-center tw-justify-center">
@@ -482,7 +453,7 @@
           height="100"
           width="100"
           class="tw-cursor-pointer"
-          alt="upforex ios app store"
+          [attr.alt]="'upforex ios app store' | localize"
         />
       </a>
       <a
@@ -495,7 +466,7 @@
           height="130"
           width="130"
           class="tw-cursor-pointer"
-          alt="upforex playstore app"
+          [attr.alt]="'upforex playstore app' | localize"
         />
         </a>
          <a
@@ -504,11 +475,11 @@
       >
          <img
           loading="lazy"
-          src="https://raw.githubusercontent.com/ITsoftexpert/IMG/refs/heads/main/desktopApp1.png"
+          src="assets/images/optimized/desktop-app.53edc2d6523b76bf.webp"
           height="130"
           width="130"
           class="tw-cursor-pointer"
-          alt="upforex Desktop app"
+          [attr.alt]="'upforex Desktop app' | localize"
         />
       </a>
     </div>

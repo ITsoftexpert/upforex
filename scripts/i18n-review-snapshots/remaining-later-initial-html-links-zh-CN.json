@@ -1,0 +1,27 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tb4317085124931b7",
+      "english": "<span data-i18n-slot=\"0\">Traders who want a broader regional introduction can also read the guide to</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading in the Middle East</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">想要更广泛地了解本地区交易情况的交易者，还可以阅读</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">中东外汇交易</span></span><span data-i18n-slot=\"4\">指南。</span>"
+    },
+    {
+      "key": "tee3ab2089cee1de4",
+      "english": "<span data-i18n-slot=\"0\">A stop-loss may not guarantee the exact exit price in fast markets, but it creates a predefined invalidation point. Traders can use</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">risk-management tools built into MT5</span></span><span data-i18n-slot=\"4\">, including stop-loss and take-profit orders. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在快速波动的市场中，止损可能无法保证准确的退出价格，但它设定了预先确定的交易思路失效点。交易者可以使用</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">MT5 内置的风险管理工具</span></span><span data-i18n-slot=\"4\">，包括止损和止盈订单。</span>"
+    }
+  ]
+}

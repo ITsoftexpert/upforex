@@ -1,0 +1,34 @@
+{
+  "language": "ru",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "ta472835804aefe12",
+      "english": "Document generated on {0}",
+      "kind": "text",
+      "sources": [
+        "src/app/components/terms-display/terms-display.component.html"
+      ],
+      "translation": "Документ создан {0}"
+    },
+    {
+      "key": "t48a66e84236f63ac",
+      "english": "Terms content element not found",
+      "kind": "text",
+      "sources": [
+        "src/app/components/terms-display/terms-display.component.ts"
+      ],
+      "translation": "Элемент содержимого условий не найден"
+    },
+    {
+      "key": "te3b918d5528d985b",
+      "english": "Error generating PDF:",
+      "kind": "text",
+      "sources": [
+        "src/app/components/terms-display/terms-display.component.ts"
+      ],
+      "translation": "Ошибка при создании PDF:"
+    }
+  ]
+}

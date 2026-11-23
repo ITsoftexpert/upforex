@@ -1,0 +1,17 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t68a98c6b5a69808f",
+      "english": "<span data-i18n-slot=\"0\">₹0 real-money risk; learn by doing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">₹0 de riesgo con dinero real; aprender practicando</span>"
+    }
+  ]
+}

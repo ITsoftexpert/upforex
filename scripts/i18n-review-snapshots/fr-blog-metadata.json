@@ -1,0 +1,1572 @@
+[
+  {
+    "key": "t01c62dac087acdf8",
+    "english": "TRADINGMARGIN",
+    "translation": "MARGE DE TRADING",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t0562fb9d5522e35b",
+    "english": "Trade Stock CFDs: Apple, Tesla & Nvidia",
+    "translation": "Négociez des CFD sur actions : Apple, Tesla et Nvidia",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t0715ccb4d24fee94",
+    "english": "TRADING EXECUTION",
+    "translation": "EXÉCUTION DES ORDRES",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t0c4b0e6615a5fd96",
+    "english": "Forex Leverage & Margin Explained",
+    "translation": "L’effet de levier et la marge du Forex expliqués",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t0c52dd6346d44119",
+    "english": "CandlestickPatterns",
+    "translation": "Figures de chandeliers",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t0ca7b87548bdf019",
+    "english": "NVIDIACFD",
+    "translation": "CFD SUR NVIDIA",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t0e31aab3fc693a39",
+    "english": "Candlestick Patterns",
+    "translation": "Figures de chandeliers",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t0e63cae118d86867",
+    "english": "CFDTrading",
+    "translation": "Trading de CFD",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t10c94ee2c36b3550",
+    "english": "AUTOMATEDTRADING",
+    "translation": "TRADING AUTOMATISÉ",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t12947b2436c652ee",
+    "english": "ECNBroker",
+    "translation": "Courtier ECN",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t16ce933451f80002",
+    "english": "bid ask spread",
+    "translation": "Écart acheteur-vendeur",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t181f6e3f82b952b3",
+    "english": "StopOut",
+    "translation": "Liquidation forcée (stop-out)",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t1829c25770699981",
+    "english": "AccountEquity",
+    "translation": "Valeur nette du compte",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t1ddae64313008a33",
+    "english": "POSITIVE AND NEGATIVE SLIPPAGE",
+    "translation": "GLISSEMENT POSITIF ET NÉGATIF",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t1e2e49b2de3e08fa",
+    "english": "IBPROGRAM",
+    "translation": "PROGRAMME IB",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t1f6b435000e4da86",
+    "english": "Learn how to read a forex quote: bid, ask, spread, and pip movement explained, with a worked MT5 example.",
+    "translation": "Apprenez à lire une cotation Forex : cours acheteur, cours vendeur, spread et mouvement en pips expliqués, avec un exemple détaillé sur MT5.",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t211114204c5892bc",
+    "english": "FOREXMISTAKES",
+    "translation": "ERREURS SUR LE FOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t21e66207ea376c29",
+    "english": "FLOATINGPL",
+    "translation": "GAINS ET PERTES LATENTS",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t22c617ede6b5bf59",
+    "english": "CFD INDEX TRADING",
+    "translation": "NÉGOCIATION D'INDICES CFD",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t255b1990d495777c",
+    "english": "forex platform",
+    "translation": "plateforme de change",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t286fe971f0ea9697",
+    "english": "StockCFDs",
+    "translation": "CFD sur actions",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t28ceb8c304fda4d9",
+    "english": "Discover the best regulated forex platform with UpForex, a trusted name among the best forex brokers offering low spreads, fund safety, and instant withdrawals.",
+    "translation": "Découvrez la plateforme de change la mieux réglementée avec UpForex, un nom de confiance parmi les meilleurs courtiers de change offrant de faibles spreads, la sécurité des fonds et des retraits instantanés.",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t29cdf1a8529c8e62",
+    "english": "How to Become an Introducing Broker | UpForex",
+    "translation": "Comment devenir un courtier introducteur | UpForex",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t2b66d713f813605d",
+    "english": "EAInstallation",
+    "translation": "Installation des EA",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t2b82bb1fcb0795d3",
+    "english": "STOPOUT",
+    "translation": "LIQUIDATION FORCÉE (STOP-OUT)",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t2be26b54e6056d64",
+    "english": "Learn what drawdown means in trading, how balance and equity drawdown differ, how to calculate it, and practical ways to manage risk.",
+    "translation": "Découvrez ce que signifie le drawdown en trading, la différence entre baisse du solde et baisse de la valeur nette du compte, comment le calculer et des moyens pratiques de gérer le risque.",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t343b28e22dfc8888",
+    "english": "FOREXIB",
+    "translation": "COURTIER INTRODUCTEUR FOREX (IB)",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t34aa4aa27a33d1d0",
+    "english": "AutomatedTrading",
+    "translation": "Trading automatisé",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t38ae7bd1beb790e5",
+    "english": "TradingRisk",
+    "translation": "Risque de trading",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t390d8ba070ae47f0",
+    "english": "Gold Trading in UAE",
+    "translation": "Commerce de l'or aux Émirats arabes unis",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t3b1f56e62e27844a",
+    "english": "UpForexPartnership",
+    "translation": "Partenariat UpForex",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t3df4fc0dd559c679",
+    "english": "cfd index trading",
+    "translation": "négociation d'indices CFD",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t3e31263a9f46de40",
+    "english": "FOREXRISK",
+    "translation": "RISQUE FOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t41eca4f69bfafe96",
+    "english": "How to Become an Introducing Broker (IB) with UpForex",
+    "translation": "Comment devenir un courtier introducteur (IB) avec UpForex",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t42a8c4843429f1ce",
+    "english": "ECNBROKER",
+    "translation": "COURTIER ECN",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t46467470a5d0b31c",
+    "english": "FOREX PLATFORM",
+    "translation": "PLATEFORME FOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t4657dc94e3f54a4a",
+    "english": "What Is a Forex Currency Pair? Major, Minor & Exotic",
+    "translation": "Qu’est-ce qu’une paire de devises Forex ? Paires majeures, mineures et exotiques",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t46d6b4a22317e57e",
+    "english": "What Is Lot Size in Forex? Standard, Mini and Micro Lots Explained",
+    "translation": "Quelle est la taille du lot sur le Forex ? Explication des lots standard, mini et micro",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t4a04cd95bb427249",
+    "english": "ZERO COMMISSION TRADING",
+    "translation": "NÉGOCIATION À COMMISSION ZÉRO",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t4b7749f77c801335",
+    "english": "BEER",
+    "translation": "BIÈRE",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t4cdb864bd72ee53d",
+    "english": "SOCIALTRADING",
+    "translation": "TRADING SOCIAL",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t4f413ac2f42a7a88",
+    "english": "How to Trade Stock CFDs: Apple, Tesla & Nvidia (Earnings-Season Guide)",
+    "translation": "Comment négocier des CFD sur actions : Apple, Tesla et Nvidia (Guide de la saison des résultats)",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t503fa844f76050c8",
+    "english": "OTC Trading in UAE",
+    "translation": "Trading OTC aux EAU",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t50498d958f649c09",
+    "english": "Zero commission trading",
+    "translation": "Trading sans commission",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t54a3f7a12d9d2205",
+    "english": "otc-trading-in-uae",
+    "translation": "trading de gré à gré aux EAU",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t573a0e3f75244a91",
+    "english": "forex broker UAE",
+    "translation": "courtier forex EAU",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t59205155a54226fd",
+    "english": "GOLD INVESTMENT UAE, HOW TO INVEST IN GOLD, GOLD TRADING DUBAI, GOLD CFDS UAE, INVEST IN GOLD FOR BEGINNERS, DIGITAL GOLD UAE, GOLD INVESTMENT 2026, PRECIOUS METALS UAE, XAU/USD TRADING, GOLD DUBAI",
+    "translation": "INVESTISSEMENT DANS L’OR AUX EAU, COMMENT INVESTIR DANS L’OR, TRADING DE L’OR À DUBAÏ, CFD SUR L’OR AUX EAU, INVESTIR DANS L’OR POUR DÉBUTANTS, OR NUMÉRIQUE AUX EAU, INVESTISSEMENT DANS L’OR 2026, MÉTAUX PRÉCIEUX AUX EAU, TRADING XAU/USD, OR À DUBAÏ",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t599f59cf3b915a75",
+    "english": "SPREAD IN FOREX",
+    "translation": "SPREAD SUR LE FOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t5b3c46863c1d61ea",
+    "english": "UPFOREXPARTNERSHIP",
+    "translation": "PARTENARIAT UPFOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t5ba1e95d6a088047",
+    "english": "Forex Quote: Bid, Ask, Spread & Pips | UPFOREX",
+    "translation": "Cotation Forex : cours acheteur, cours vendeur, spread et pips | UPFOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t5bf8a6383f314250",
+    "english": "How to Trade Stock CFDs: Apple, Tesla & Nvidia",
+    "translation": "Comment négocier des CFD sur actions : Apple, Tesla et Nvidia",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t5e833aaf17e21aef",
+    "english": "otc trading uae",
+    "translation": "trading de gré à gré aux Émirats Arabes Unis",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t626242e07b9da3da",
+    "english": "INTRODUCINGBROKER",
+    "translation": "COURTIER INTRODUCTEUR",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t65e580f2bc06ddc4",
+    "english": "FOREX BROKERS IN ABU DHABI",
+    "translation": "COURTIERS FOREX À ABU DHABI",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t65e5887413b73114",
+    "english": "Trading Execution",
+    "translation": "Exécution des ordres",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t678bfe31fb8fa885",
+    "english": "TRADINGRISK",
+    "translation": "RISQUE DE TRADING",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t69c68f70f2aaf836",
+    "english": "FOREX TRADING FOR BEGINNERS",
+    "translation": "LE TRADING FOREX POUR LES DÉBUTANTS",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t6f6b67242353ea00",
+    "english": "ForexBroker",
+    "translation": "Courtier Forex",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t6f70d58c34faba1c",
+    "english": "CFD STOCKS​",
+    "translation": "CFD SUR ACTIONS​",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t6f7fa94e9858c430",
+    "english": "FOREX DEMO ACCOUNT UAE",
+    "translation": "COMPTE DÉMO FOREX EAU",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t6fdb94e882e43310",
+    "english": "Learn what slippage means in forex and CFD trading, why positive and negative slippage happens, and how traders can manage execution risk on MT5.",
+    "translation": "Découvrez ce que signifie le dérapage dans le trading de Forex et de CFD, pourquoi un dérapage positif et négatif se produit et comment les traders peuvent gérer le risque d'exécution sur MT5.",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t7268954467f82360",
+    "english": "FOREXBROKER",
+    "translation": "COURTIER FOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t732940ce1d2edc50",
+    "english": "Currency Pair Correlation",
+    "translation": "Corrélation des paires de devises",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t750fe4fa25e69096",
+    "english": "FOREX SLIPPAGE",
+    "translation": "GLISSEMENT SUR LE FOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t79d422e27339c134",
+    "english": "CFD Index Trading in UAE | Profitable Investment Guide",
+    "translation": "Trading d'indices CFD aux EAU | Guide d'investissement rentable",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t7b34079fa19fa4b1",
+    "english": "FOREX BROKER UAE",
+    "translation": "COURTIER FOREX EAU",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t7b4703abbe71f579",
+    "english": "MARGINCALL",
+    "translation": "APPEL DE MARGE",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t7b4e729dad956411",
+    "english": "Forex Drawdown",
+    "translation": "Baisse du compte sur le Forex (drawdown)",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t7b7c86ae71adbf42",
+    "english": "REAL-TIME FOREX TRADING",
+    "translation": "TRADING FOREX EN TEMPS RÉEL",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t7f62ab406db48626",
+    "english": "GoldTrading",
+    "translation": "Trading d'or",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t8005b9401799d79c",
+    "english": "ForexMistakes",
+    "translation": "Erreurs sur le Forex",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t80358f343b6623c2",
+    "english": "BID ASK SPREAD",
+    "translation": "ÉCART ACHETEUR-VENDEUR",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t811c42f7b95fbda1",
+    "english": "ACCOUNTEQUITY",
+    "translation": "VALEUR NETTE DU COMPTE",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t81524e041426e628",
+    "english": "TAKEPROFIT",
+    "translation": "PRISE DE BÉNÉFICES",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t82acc95858e130e4",
+    "english": "WHAT IS SPREAD",
+    "translation": "QU’EST-CE QUE LE SPREAD ?",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t873e49e782b683c5",
+    "english": "UPFOREX TRADING",
+    "translation": "Trading avec UPFOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t873f1e40729dfff2",
+    "english": "ChartPatterns",
+    "translation": "Figures graphiques",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t877ddc512aecf35f",
+    "english": "MAXIMUM DRAWDOWN",
+    "translation": "BAISSE MAXIMALE DU COMPTE (DRAWDOWN)",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t88df3b35cf0ee855",
+    "english": "EconomicEvents",
+    "translation": "Événements économiques",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t890677991943d2b9",
+    "english": "forex quote",
+    "translation": "Cotation Forex",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t8958729507d3f13f",
+    "english": "TrailingStop",
+    "translation": "Stop suiveur",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t8ab7a118d6f4b924",
+    "english": "what is spread",
+    "translation": "Qu’est-ce que le spread ?",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t8c3d0f8303a11839",
+    "english": "CANDLESTICKPATTERNS",
+    "translation": "FIGURES DE CHANDELIERS",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t905154bffdfcdea7",
+    "english": "What is a forex quote showing bid ask and spread",
+    "translation": "Qu’est-ce qu’une cotation Forex indiquant le cours acheteur, le cours vendeur et le spread ?",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t90e244fb30884e61",
+    "english": "Crypto currency",
+    "translation": "Cryptomonnaie",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t9408ef9a0137d1c0",
+    "english": "ForexTrading",
+    "translation": "Trading sur le Forex",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t95613323c25a3895",
+    "english": "ow to Become an Introducing Broker",
+    "translation": "Comment devenir un courtier introducteur",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t958d3424837ae16a",
+    "english": "TRADE GOLD AND SILVER ONLINE​ UAE",
+    "translation": "COMMERCE DE L'OR ET DE L'ARGENT EN LIGNE​ EAU",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t964d190f5b180d0f",
+    "english": "OTC TRADING UAE",
+    "translation": "TRADING OTC EAU",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t9749368ec06e4310",
+    "english": "CURRENCY PAIR CORRELATION",
+    "translation": "CORRÉLATION DES PAIRES DE DEVISES",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t9a2253170d8afa0b",
+    "english": "Trump",
+    "translation": "Trump",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t9c5adc31ef778f11",
+    "english": "FOREX TRADING UAE",
+    "translation": "TRADING FOREX EAU",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t9ed256e2fc8ffd06",
+    "english": "What Is Slippage in Forex? Positive vs Negative Slippage",
+    "translation": "Qu’est-ce que le glissement sur le Forex ? Glissement positif ou négatif",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t9eef3211917b96b7",
+    "english": "STOCKCFDS",
+    "translation": "CFD SUR ACTIONS",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t9efdd0a67cd45c86",
+    "english": "Looking to begin CFD Index Trading in UAE? Discover expert advice and top tactics to boost profits. Join UpForex today to start your successful trading journey!",
+    "translation": "Vous souhaitez commencer à négocier des CFD sur indices aux Émirats arabes unis ? Découvrez des conseils d’experts et les meilleures tactiques pour accroître vos profits. Rejoignez UpForex dès aujourd’hui pour commencer votre parcours de trading réussi !",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t9f44f729fb99794d",
+    "english": "LeverageRisk",
+    "translation": "Risque lié à l’effet de levier",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "t9fa384170d7b1b0b",
+    "english": "TRUMP",
+    "translation": "TRUMP",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "ta1335831500433bf",
+    "english": "Maximum Drawdown",
+    "translation": "Baisse maximale du compte (drawdown)",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "ta3363b470d04fd4b",
+    "english": "TESLACFD",
+    "translation": "CFD SUR TESLA",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "ta6be1ecc397c1098",
+    "english": "TradingMargin",
+    "translation": "Marge de trading",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "ta82e9515cc154c79",
+    "english": "NvidiaCFD",
+    "translation": "CFD sur Nvidia",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "ta96c232b2ac31cdd",
+    "english": "SocialTrading",
+    "translation": "Trading social",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "taadabe9cf5d74d4e",
+    "english": "FOREXSESSIONS",
+    "translation": "SÉANCES FOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tae87f6c03a1541fa",
+    "english": "IntroducingBroker",
+    "translation": "Courtier introducteur",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tb10a0fd2f445bb50",
+    "english": "FUNDAMENTALANALYSIS",
+    "translation": "ANALYSE FONDAMENTALE",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tb270843fceac1749",
+    "english": "ONLINE TRADING",
+    "translation": "COMMERCE EN LIGNE",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tb3ca7cb1a94041d1",
+    "english": "forex trading UAE",
+    "translation": "trading forex EAU",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tb937b9d5aaa5e505",
+    "english": "What Is Slippage in Forex Trading? Positive vs Negative Slippage",
+    "translation": "Qu’est-ce que le dérapage dans le trading Forex ? Glissement positif ou négatif",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tb9c47e22766e9148",
+    "english": "ForexIB",
+    "translation": "Courtier introducteur Forex (IB)",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tc1d340b3c94bd47d",
+    "english": "EAINSTALLATION",
+    "translation": "INSTALLATION DES EA",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tc2b72cfb62f2de17",
+    "english": "gold trading uae",
+    "translation": "commerce de l'or aux Émirats arabes unis",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tc2e9a6119575aa55",
+    "english": "TradingHours",
+    "translation": "Horaires de trading",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tc32b2d1dbcefcac1",
+    "english": "regulated forex platform",
+    "translation": "plateforme de change réglementée",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tc3f37967669e4bc5",
+    "english": "upforex trading",
+    "translation": "Trading avec UpForex",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tc40540d5b426a7bf",
+    "english": "BrokerComparison",
+    "translation": "Comparaison des courtiers",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tc69f7ee9fd07f80d",
+    "english": "LEVERAGERISK",
+    "translation": "RISQUE LIÉ À L’EFFET DE LEVIER",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tc8a193feb11f8dec",
+    "english": "MT5 ORDER TYPES",
+    "translation": "Types d’ordres MT5",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tca820b84c784f688",
+    "english": "OTC TRADING IN UAE",
+    "translation": "NÉGOCIATION OTC AUX EAU",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tca995440dd70baae",
+    "english": "What Is Drawdown in Trading? Balance vs Equity Drawdown Explained",
+    "translation": "Qu’est-ce que le drawdown en trading ? Baisse du solde et baisse de la valeur nette du compte expliquées",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tcab7e61d0f16e7bf",
+    "english": "Stop Order MT5",
+    "translation": "Ordre stop sur MT5",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tcb1f22a57c5cb163",
+    "english": "Standard Mini Micro Lots",
+    "translation": "Lots standard, mini et micro",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tcc1ebe3e9bcfd4f4",
+    "english": "Dragon",
+    "translation": "Dragon",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tcc70749943422b39",
+    "english": "FOREX QUOTE",
+    "translation": "COTATION FOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tcc7d93e0f8861106",
+    "english": "GOLDTRADING",
+    "translation": "TRADING DE L'OR",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tcca426fcc6fcd16e",
+    "english": "ForexSessions",
+    "translation": "Séances Forex",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tcecd2b958cd6e9bf",
+    "english": "TRAILINGSTOP",
+    "translation": "STOP SUIVEUR",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tcf5ca7b2dfac4a48",
+    "english": "FOREXLEVERAGE",
+    "translation": "EFFET DE LEVIER SUR LE FOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "td30f6b0e6245b4b0",
+    "english": "forex demo account UAE",
+    "translation": "compte démo forex EAU",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "td3627b6ca845b1fc",
+    "english": "cfd stocks​",
+    "translation": "actions CFD​",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "td5cdbe42c50104d4",
+    "english": "SLIPPAGE IN TRADING",
+    "translation": "GLISSEMENT DANS LE COMMERCE",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "td699d88e98c92422",
+    "english": "Real-time forex trading",
+    "translation": "Trading de devises en temps réel",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "td7bbb6248cd7d180",
+    "english": "FOREX TRADING",
+    "translation": "TRADING SUR LE FOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "td82e64b929bb094d",
+    "english": "Learn how to trade Apple, Tesla and Nvidia CFDs during earnings season while managing leverage, gaps, spreads and volatility.",
+    "translation": "Apprenez à négocier des CFD sur Apple, Tesla et Nvidia pendant la saison des résultats tout en gérant l'effet de levier, les écarts, les spreads et la volatilité.",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "td86a24c47e65da68",
+    "english": "TakeProfit",
+    "translation": "Prise de bénéfices",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tdc0b64fcb6568b60",
+    "english": "MAJOR CURRENCY PAIRS",
+    "translation": "PRINCIPALES PAIRES DE DEVISES",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tdc6208bb3eec5ed7",
+    "english": "GOLD TRADING UAE",
+    "translation": "COMMERCE DE L'OR AUX EAU",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tdc77a82db66f514d",
+    "english": "NASDAQGST",
+    "translation": "NASDAQ GST",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tdc8f1b5acc596220",
+    "english": "ForexRisk",
+    "translation": "Risque Forex",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tddaa6362b70a64b4",
+    "english": "Slippage in Trading",
+    "translation": "Dérapage dans le trading",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "te0e58bbd02528071",
+    "english": "FOREX DRAWDOWN",
+    "translation": "BAISSE DU COMPTE SUR LE FOREX (DRAWDOWN)",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "te10300875f0aa40b",
+    "english": "TeslaCFD",
+    "translation": "CFD sur Tesla",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "te1124908c01fc0c6",
+    "english": "Candlestick Patterns: How to Read Trading Charts",
+    "translation": "Modèles de chandeliers : comment lire les graphiques de trading",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "te2ef4db55075f2d5",
+    "english": "ECONOMICEVENTS",
+    "translation": "ÉVÉNEMENTS ÉCONOMIQUES",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "te3700604bf4ee18a",
+    "english": "trade gold and silver online​ uae",
+    "translation": "échanger de l'or et de l'argent en ligne​ EAU",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "te4872e7a91530684",
+    "english": "TECHNICALANALYSIS",
+    "translation": "ANALYSE TECHNIQUE",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "te50784da329dd436",
+    "english": "Forex Slippage",
+    "translation": "Glissement sur le Forex",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "te85631202f3b2cd2",
+    "english": "CHARTPATTERNS",
+    "translation": "FIGURES GRAPHIQUES",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tea0360d5d116cabf",
+    "english": "BROKERCOMPARISON",
+    "translation": "COMPARAISON DES COURTIERS",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tea318392bfd99d00",
+    "english": "Forex Slippage – Positive and Negative Slippage in Trade Execution",
+    "translation": "Dérapage du Forex – Dérapage positif et négatif dans l’exécution des transactions",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tec0e0861612a8ca7",
+    "english": "CFDTRADING",
+    "translation": "TRADING DE CFD",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tf00c28116d54f695",
+    "english": "TRADINGHOURS",
+    "translation": "HORAIRES DE TRADING",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tf4c54c6ef3e6a832",
+    "english": "Candlestick Patterns 101: How to Read Charts Like a Pro",
+    "translation": "Modèles de chandeliers 101 : Comment lire des graphiques comme un pro",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tf59b305a85397500",
+    "english": "FOREXTRADING",
+    "translation": "TRADING SUR LE FOREX",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tf5c0672bbeb29139",
+    "english": "MarginCall",
+    "translation": "Appel de marge",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tf84375528dc24ee8",
+    "english": "ForexLeverage",
+    "translation": "Effet de levier sur le Forex",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tfe216504cca6e928",
+    "english": "Upforex Trading Platform | Global Markets Access in UAE",
+    "translation": "Upforex Plateforme de trading | Accès aux marchés mondiaux aux Émirats arabes unis",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  },
+  {
+    "key": "tffd2cf7b0c9b9fcf",
+    "english": "Bleed",
+    "translation": "Saigner",
+    "kind": "text",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared full source and target. Financial tag meanings, names and values preserved; source claims are not independently certified."
+  }
+]

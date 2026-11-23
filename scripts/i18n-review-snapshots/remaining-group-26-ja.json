@@ -1,0 +1,587 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t36a51d5252bb07d2",
+      "english": "<span data-i18n-slot=\"0\">Reassess the thesis, monitor spreads, avoid increasing size impulsively and close the trade when the original reason for holding it no longer applies.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">理論を再評価し、スプレッドを監視し、衝動的にサイズを拡大することを避け、元々の保有理由が当てはまらなくなったら取引を終了します。</span>"
+    },
+    {
+      "key": "tb735fad84cc47ae2",
+      "english": "<span data-i18n-slot=\"0\">Common Mistakes During Earnings Season</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">決算シーズンによくある間違い</span>"
+    },
+    {
+      "key": "tb288d6812cd98f81",
+      "english": "<span data-i18n-slot=\"0\">Ignoring spread widening or low liquidity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッドの拡大や流動性の低下を無視する</span>"
+    },
+    {
+      "key": "t4ff85dba4c38c1b2",
+      "english": "<span data-i18n-slot=\"0\">Assuming a stop-loss guarantees its exact price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスが正確な価格を保証すると仮定すると、</span>"
+    },
+    {
+      "key": "t45d4568cd33d3e8e",
+      "english": "<span data-i18n-slot=\"0\">Opening several correlated technology positions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相関のあるテクノロジー銘柄のポジションを複数建てる</span>"
+    },
+    {
+      "key": "tb37d44eef9e65b4a",
+      "english": "<span data-i18n-slot=\"0\">Failing to confirm contract specifications</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">契約内容の確認漏れ</span>"
+    },
+    {
+      "key": "t1736862469f07ffe",
+      "english": "<span data-i18n-slot=\"0\">Confirm the earnings date and release time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">決算日とリリース時期を確認する</span>"
+    },
+    {
+      "key": "t63d7cf04db8d898e",
+      "english": "<span data-i18n-slot=\"0\">Identify the metrics likely to drive the reaction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">反応を促進する可能性のある指標を特定する</span>"
+    },
+    {
+      "key": "tf7ea0d79ebb73ac7",
+      "english": "<span data-i18n-slot=\"0\">Set stop-loss and take-profit levels</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスとテイクプロフィットのレベルを設定する</span>"
+    },
+    {
+      "key": "t34ede92a8f527032",
+      "english": "<span data-i18n-slot=\"0\">Allow for a gap beyond the stop</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップを超えた隙間を考慮してください</span>"
+    },
+    {
+      "key": "t68e951a5ddc8c2a5",
+      "english": "<span data-i18n-slot=\"0\">Review correlated exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相関性のあるエクスポージャーを確認する</span>"
+    },
+    {
+      "key": "t8d0adb6f8ca99b3f",
+      "english": "<span data-i18n-slot=\"0\">Decide whether staying flat is safer</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">フラットな状態を保つことが安全かどうかを判断する</span>"
+    },
+    {
+      "key": "t9fc90db79e2866e5",
+      "english": "<span data-i18n-slot=\"0\">Trading Preference</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引の好み</span>"
+    },
+    {
+      "key": "tf214bc212342a3d1",
+      "english": "<span data-i18n-slot=\"0\">Main earnings focus</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主な収益の焦点</span>"
+    },
+    {
+      "key": "tfac8b432c9bc4fc4",
+      "english": "<span data-i18n-slot=\"0\">Deliveries, margins and outlook</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">納品、マージン、見通し</span>"
+    },
+    {
+      "key": "t86cff2bdc04a30e5",
+      "english": "<span data-i18n-slot=\"0\">Volatility character</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ボラティリティの特徴</span>"
+    },
+    {
+      "key": "tdbc1eca7b6a8d2cb",
+      "english": "<span data-i18n-slot=\"0\">Can move sharply when guidance changes expectations</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">業績見通しが市場予想を変えると、価格が急激に動く場合がある</span>"
+    },
+    {
+      "key": "t844e54e33e804fe7",
+      "english": "<span data-i18n-slot=\"0\">Often highly reactive to sentiment</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">感情に非常に反応しやすい</span>"
+    },
+    {
+      "key": "t7a2bc935adb0f645",
+      "english": "<span data-i18n-slot=\"0\">Can reprice rapidly around guidance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">業績見通しの発表を受け、価格が急速に見直される場合がある</span>"
+    },
+    {
+      "key": "t9269a38c71b350f4",
+      "english": "<span data-i18n-slot=\"0\">Operations, pricing and narrative</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">運営、価格設定、説明</span>"
+    },
+    {
+      "key": "t17985cd42b00e5c8",
+      "english": "<span data-i18n-slot=\"0\">Semiconductor demand, supply and margins</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">半導体の需要、供給、利益率</span>"
+    },
+    {
+      "key": "tb904cacbdb6302c9",
+      "english": "<span data-i18n-slot=\"0\">Key risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主なリスク</span>"
+    },
+    {
+      "key": "td138b19ac799e976",
+      "english": "<span data-i18n-slot=\"0\">Expectations may already be priced in</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">期待はすでに織り込まれている可能性がある</span>"
+    },
+    {
+      "key": "ta49463f5bf35eb97",
+      "english": "<span data-i18n-slot=\"0\">Rapid sentiment shifts</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">感情の急速な変化</span>"
+    },
+    {
+      "key": "tc93c567b386cc25d",
+      "english": "<span data-i18n-slot=\"0\">Yes. Earnings periods can involve larger gaps, faster movement, wider spreads and greater slippage. Smaller positions and defined exposure may reduce risk but cannot remove it.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">はい。収益期間には、より大きなギャップ、より速い動き、より広いスプレッド、より大きなスリッページが含まれる可能性があります。小さなポジションと明確なエクスポージャはリスクを軽減する可能性がありますが、リスクを取り除くことはできません。</span>"
+    },
+    {
+      "key": "t6eaa3472f5c0fb66",
+      "english": "<span data-i18n-slot=\"0\">Do you need more margin during earnings season?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">決算シーズンにはもっと証拠金が必要ですか?</span>"
+    },
+    {
+      "key": "t6c5b0d5ec4b94688",
+      "english": "<span data-i18n-slot=\"0\">Margin depends on the instrument, position size, account and broker rules. Providers may change requirements during unusual volatility, so check the current contract specification.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証拠金は商品、ポジションサイズ、口座、ブローカーのルールによって異なります。プロバイダーは異常な変動時に要件を変更する可能性があるため、現在の契約仕様を確認してください。</span>"
+    },
+    {
+      "key": "t13a73fdcf916c830",
+      "english": "<span data-i18n-slot=\"0\">Eligible UAE traders may access offered instruments subject to platform availability, account terms and jurisdictional requirements. Review the availability note in the introduction before trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">適格な UAE トレーダーは、プラットフォームの可用性、口座条件、管轄要件に従って、提供された商品にアクセスできます。取引前に、はじめににある在庫状況に関する注意事項を確認してください。</span>"
+    },
+    {
+      "key": "t7898f5f0650de714",
+      "english": "<span data-i18n-slot=\"0\">Earnings trading requires more than predicting a beat or miss. Traders must consider guidance, leverage, overnight gaps, spreads and execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">決算発表前後の取引では、業績が予想を上回るか下回るかを予測するだけでは不十分です。トレーダーは業績見通し、レバレッジ、翌営業日への価格ギャップ、スプレッド、約定を考慮する必要があります。</span>"
+    },
+    {
+      "key": "t72aaaf2aafef82ec",
+      "english": "<span data-i18n-slot=\"0\">Used together, </span><span data-i18n-slot=\"1\">stop loss and take profit</span><span data-i18n-slot=\"2\"> levels help define the planned downside and potential objective before a trade is opened.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一緒に使用すると、</span><span data-i18n-slot=\"1\">ストップロスとテイクプロフィット</span><span data-i18n-slot=\"2\">のレベルは、取引を開始する前に計画された下値と潜在的な目標を定義するのに役立ちます。</span>"
+    },
+    {
+      "key": "t6bccc3344e0a5498",
+      "english": "<span data-i18n-slot=\"0\">These orders help traders make exit decisions before entering, but neither guarantees a specific result. During price gaps, fast markets, or low liquidity, a stop-loss may execute beyond the requested level. A take-profit may also remain unfilled if the market does not reach its trigger price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これらの注文は、トレーダーがエントリー前にエグジットを決定するのに役立ちますが、どちらも特定の結果を保証するものではありません。価格ギャップ、速い市場、または流動性の低下時には、ストップロスが要求されたレベルを超えて実行される場合があります。市場がトリガー価格に達しない場合、テイクプロフィットが満たされないままになることもあります。</span>"
+    },
+    {
+      "key": "tf52bc68467d0a552",
+      "english": "<span data-i18n-slot=\"0\">The simplest </span><span data-i18n-slot=\"1\">stop loss meaning</span><span data-i18n-slot=\"2\"> is a planned exit for a trade that moves in the wrong direction. For a long position, the stop-loss is normally placed below the entry price. For a short position, it is normally placed above the entry price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最も単純な</span><span data-i18n-slot=\"1\">ストップロスの意味</span><span data-i18n-slot=\"2\">は、間違った方向に進む取引の計画された終了です。ロングポジションの場合、ストップロスは通常エントリー価格よりも下に設定されます。ショートポジションの場合、通常はエントリー価格よりも高く設定されます。</span>"
+    },
+    {
+      "key": "t7eeb1df7a1a80edd",
+      "english": "<span data-i18n-slot=\"0\">What Is a Take-Profit Order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">利益確定注文とは何ですか?</span>"
+    },
+    {
+      "key": "tfb561c618cfd18e9",
+      "english": "<span data-i18n-slot=\"0\">A take-profit is an instruction to close a position automatically when price reaches a predefined profit-taking level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">利食いとは、価格が事前に定義された利食いレベルに達したときにポジションを自動的に決済する命令です。</span>"
+    },
+    {
+      "key": "tc7903fd5eaac26ad",
+      "english": "<span data-i18n-slot=\"0\">For a long position, the take-profit is normally above the entry price. For a short position, it is normally below the entry price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ロングポジションの場合、テイクプロフィットは通常エントリー価格を上回ります。ショートポジションの場合、通常はエントリー価格を下回ります。</span>"
+    },
+    {
+      "key": "td5dba1968dcfa75a",
+      "english": "<span data-i18n-slot=\"0\">A take-profit helps prevent a trader from repeatedly extending a target because of excitement or greed. It also makes the intended reward measurable before the trade begins.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">テイクプロフィットは、トレーダーが興奮や貪欲さのためにターゲットを繰り返し拡張することを防ぐのに役立ちます。また、取引を開始する前に、意図した報酬を測定できるようになります。</span>"
+    },
+    {
+      "key": "t33ae9e315a5cf783",
+      "english": "<span data-i18n-slot=\"0\">If price reaches the take-profit trigger, the platform submits the position for closing. This example explains order mechanics only and is not a recommendation or expected result.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">価格が利食いトリガーに達すると、プラットフォームは決済用のポジションを送信します。この例は順序の仕組みのみを説明するものであり、推奨または期待される結果ではありません。</span>"
+    },
+    {
+      "key": "t910b796c889aa1c0",
+      "english": "<span data-i18n-slot=\"0\">Stop-Loss vs. Take-Profit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスとテイクプロフィット</span>"
+    },
+    {
+      "key": "t1abcde0da401837d",
+      "english": "<span data-i18n-slot=\"0\">Take-Profit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">テイクプロフィット</span>"
+    },
+    {
+      "key": "tade222d9f7dfd81d",
+      "english": "<span data-i18n-slot=\"0\">Limits the planned loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">計画損失を制限する</span>"
+    },
+    {
+      "key": "ta4a0aa2ff0780a9d",
+      "english": "<span data-i18n-slot=\"0\">Secures the planned gain</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">計画利益を確保</span>"
+    },
+    {
+      "key": "t50768ff93899cf4d",
+      "english": "<span data-i18n-slot=\"0\">Triggers when price moves</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">価格が変動したときにトリガーされます</span>"
+    },
+    {
+      "key": "t5b01597cc79c28ba",
+      "english": "<span data-i18n-slot=\"0\">Against the position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジションに不利な方向</span>"
+    },
+    {
+      "key": "t252922de74aee9ea",
+      "english": "<span data-i18n-slot=\"0\">In favour of the position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジションに有利な方向</span>"
+    },
+    {
+      "key": "ta324d05c26161a0e",
+      "english": "<span data-i18n-slot=\"0\">Below the entry price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">エントリー価格以下</span>"
+    },
+    {
+      "key": "tc99f11202029adc2",
+      "english": "<span data-i18n-slot=\"0\">Above the entry price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">エントリー価格を超える</span>"
+    },
+    {
+      "key": "t36a84431c9a2fc7b",
+      "english": "<span data-i18n-slot=\"0\">Defines where the trade idea is invalid</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引アイデアが無効な場合を定義します</span>"
+    },
+    {
+      "key": "t359e38c0088d9afc",
+      "english": "<span data-i18n-slot=\"0\">Emotional benefit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">精神的な利益</span>"
+    },
+    {
+      "key": "t8ca5e24bf5381527",
+      "english": "<span data-i18n-slot=\"0\">Execution limitation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">約定に関する制約</span>"
+    },
+    {
+      "key": "t0911e024267dd4a8",
+      "english": "<span data-i18n-slot=\"0\">Gaps and slippage may cause a different closing price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ギャップやスリッページにより終値が異なる可能性があります</span>"
+    },
+    {
+      "key": "t06b9bd84455bb8c8",
+      "english": "<span data-i18n-slot=\"0\">Stop-loss and take-profit levels should reflect price structure, volatility, position size, and the trader’s plan. They should not be selected only because a round number looks convenient.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスとテイクプロフィットのレベルは、価格構造、ボラティリティ、ポジションサイズ、トレーダーの計画を反映する必要があります。概数が便利に見えるという理由だけでこれらを選択すべきではありません。</span>"
+    },
+    {
+      "key": "t409ec8e566bce757",
+      "english": "<span data-i18n-slot=\"0\">How Do Stop-Loss and Take-Profit Work Together?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスとテイクプロフィットはどのように連携するのでしょうか?</span>"
+    },
+    {
+      "key": "t44912769a4a85eff",
+      "english": "<span data-i18n-slot=\"0\">How Do You Choose Stop-Loss and Take-Profit Levels?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスとテイクプロフィットのレベルはどのように選択しますか?</span>"
+    },
+    {
+      "key": "t0f5f0aff32442387",
+      "english": "<span data-i18n-slot=\"0\">There is no universal distance that works for every instrument or strategy. Traders commonly assess:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">すべての手段や戦略に有効な普遍的な距離はありません。トレーダーは一般的に次のことを評価します。</span>"
+    },
+    {
+      "key": "tebbe4b6cbd4123cc",
+      "english": "<span data-i18n-slot=\"0\">Swing highs and swing lows</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スイングハイスとスイングロース</span>"
+    },
+    {
+      "key": "te8f2d5211ab0a3b5",
+      "english": "<span data-i18n-slot=\"0\">Current volatility</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">現在のボラティリティ</span>"
+    },
+    {
+      "key": "t54ff8e80054b6e90",
+      "english": "<span data-i18n-slot=\"0\">Average price movement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">平均的な値動き</span>"
+    },
+    {
+      "key": "tb5c981c0cf129824",
+      "english": "<span data-i18n-slot=\"0\">Upcoming economic announcements</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">今後の経済発表</span>"
+    }
+  ]
+}

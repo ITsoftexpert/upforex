@@ -8,29 +8,20 @@
         <h1
           class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-bold md:tw-my-4 !tw-mb-8"
         >
-          UPFOREX Partnership Program – The Ultimate Earning Opportunity for
-          Traders & Businesses
-        </h1>
+           {{ 'UPFOREX Partnership Program – The Ultimate Earning Opportunity for Traders & Businesses' | localize }} </h1>
         <p
           class="tw-text-xl tw-text-white tw-font-bold tw-tracking-wide tw-leading-relaxed !tw-mb-8"
         >
-          Maximize Your Earnings. Expand Your Reach. Get Paid Instantly.
-        </p>
+           {{ 'Maximize Your Earnings. Expand Your Reach. Get Paid Instantly.' | localize }} </p>
         <p
           class="tw-text-sm !tw-mb-2 tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
         >
-          At UPFOREX, we offer a diverse range of partnership opportunities
-          tailored for Introducing Brokers (IBs), Country Partners, Education
-          Partners, Institutional Clients, Finfluencers, and Money Managers. Our
-          state-of-the-art technology, real-time payouts, and dedicated 24/5
-          support make UPFOREX the ideal broker for scaling your business.
-        </p>
+           {{ 'At UPFOREX, we offer a diverse range of partnership opportunities tailored for Introducing Brokers (IBs), Country Partners, Education Partners, Institutional Clients, Finfluencers, and Money Managers. Our state-of-the-art technology, real-time payouts, and dedicated 24/5 support make UPFOREX the ideal broker for scaling your business.' | localize }} </p>
 
         <p
           class="tw-text-xl tw-text-white tw-font-bold tw-tracking-wider tw-leading-relaxed tw-my-6"
         >
-          Common Benefits Across All UPFOREX Partnership Programs
-        </p>
+           {{ 'Common Benefits Across All UPFOREX Partnership Programs' | localize }} </p>
         <div
           class="tw-grid tw-grid-cols-1 sm:tw-grid-cols-2 lg:tw-grid-cols-3 tw-gap-6"
         >
@@ -44,12 +35,12 @@
               ></i>
               <div>
                 <h5 class="tw-text-white tw-text-lg !tw-mb-2">
-                  <b class="tw-text-themePrimary">{{ item.boldText }}</b>
+                  <b class="tw-text-themePrimary">{{ (item.boldText) | localize }}</b>
                   <span
                     *ngIf="item.subText"
                     class="tw-text-white tw-block tw-mt-2 tw-text-sm"
                   >
-                    {{ item.subText }}
+                    {{ (item.subText) | localize }}
                   </span>
                 </h5>
               </div>
@@ -68,8 +59,7 @@
         <p
           class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-bold md:tw-my-4 !tw-mb-8"
         >
-          Why Choose UPFOREX as Your Trusted Partner?
-        </p>
+           {{ 'Why Choose UPFOREX as Your Trusted Partner?' | localize }} </p>
 
         <div class="my-3 d-flex flex-column gap-3 tw-items-start">
           <div
@@ -83,11 +73,11 @@
               class="tw-text-white tw-ml-4 tw-text-base lg:tw-text-xl !tw-mb-0"
             >
               <b class="tw-text-themePrimary tw-text-base lg:tw-text-xl"
-                >{{ item.boldText }}
+                >{{ (item.boldText) | localize }}
                 <span *ngIf="item.subText"> : </span>
               </b>
               <span class="tw-text-sm lg:tw-text-xl">
-                {{ item.subText }}
+                {{ (item.subText) | localize }}
               </span>
             </h5>
           </div>
@@ -109,36 +99,30 @@
       <p
         class="tw-text-2xl tw-text-white tw-font-bold tw-tracking-wider tw-leading-relaxed"
       >
-        Ready to Partner with UPFOREX?
-      </p>
+         {{ 'Ready to Partner with UPFOREX?' | localize }} </p>
       <p
         class="tw-text-base tw-text-white tw-font-bold tw-tracking-wider tw-leading-relaxe"
       >
-        📩 Join Now -
-        <span>
+         {{ '📩 Join Now -' | localize }} <span>
           <button
             class="tw-underline tw-text-themePrimary !tw-font-bold form-btn"
             (click)="openForm()"
           >
-            Fill out the form
-          </button>
+             {{ 'Fill out the form' | localize }} </button>
         </span>
-        or contact
-        <span>
+         {{ 'or contact' | localize }} <span>
           <a
             class="tw-underline tw-text-themePrimary"
             href="mailto:support@upforex.com"
             >support&#64;upforex.com</a
           >
         </span>
-        to get started.
-      </p>
+         {{ 'to get started.' | localize }} </p>
       <button
         class="btn btn-lg !tw-text-black !tw-font-semibold tw-mt-4"
         (click)="openForm()"
       >
-        Apply Now
-      </button>
+         {{ 'Apply Now' | localize }} </button>
     </div>
   </div>
 </div>

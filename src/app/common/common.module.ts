@@ -10,6 +10,9 @@ import { matRemoveRedEyeOutline } from '@ng-icons/material-icons/outline';
 import { ReactiveFormsModule } from '@angular/forms';
 import { SanitizeHtmlPipe } from './pipe/sanitize-html.pipe';
 import { HybridTranslatePipe } from '../core/pipes/hybrid-translate.pipe';
+import { LocalizePipe } from '../core/pipes/localize.pipe';
+import { NativeCarouselLabelsDirective } from './directives/native-carousel-labels.directive';
+import { DeferredVideoDirective } from './directives/deferred-video.directive';
 
 @NgModule({
   declarations: [
@@ -18,6 +21,9 @@ import { HybridTranslatePipe } from '../core/pipes/hybrid-translate.pipe';
     DataTableComponent,
     SanitizeHtmlPipe,
     HybridTranslatePipe,
+    LocalizePipe,
+    NativeCarouselLabelsDirective,
+    DeferredVideoDirective,
   ],
   imports: [
     CommonModule,
@@ -35,6 +41,9 @@ import { HybridTranslatePipe } from '../core/pipes/hybrid-translate.pipe';
     DataTableComponent,
     SanitizeHtmlPipe,
     HybridTranslatePipe,
+    LocalizePipe,
+    NativeCarouselLabelsDirective,
+    DeferredVideoDirective,
   ],
 })
 export class CommonModules {}

@@ -1,0 +1,355 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "ta65477fb6e71a0d9",
+      "english": "<span data-i18n-slot=\"0\">For example, imagine a beginner selecting a broker simply because it advertises very low spreads. After opening an account, the trader discovers additional commissions, overnight financing charges or restrictions that were not properly understood.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">たとえば、非常に狭いスプレッドを宣伝しているという理由だけでブローカーを選ぶ初心者を想像してください。口座開設後、追加の手数料、ポジションの翌日持ち越しに伴う資金調達費用、十分に理解していなかった制限に気付くことがあります。</span>"
+    },
+    {
+      "key": "t09c1819910ffb85b",
+      "english": "<span data-i18n-slot=\"0\">This is why comparing forex brokers in Abu Dhabi requires more than looking at promotional offers. Traders should understand exactly what services a company provides, which legal entity handles their account and what protections apply.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">だからこそ、アブダビの外国為替ブローカーを比較する際は、キャンペーンの内容を見るだけでは不十分です。会社がどのようなサービスを提供し、どの法人が口座を担当し、どのような保護が適用されるのかを、トレーダーは正確に理解する必要があります。</span>"
+    },
+    {
+      "key": "tfc1c4197bb7c6d4f",
+      "english": "<span data-i18n-slot=\"0\">7 Important Factors to Check Before Choosing Forex Brokers in Abu Dhabi</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">7 アブダビの外国為替ブローカーを選ぶ前にチェックする重要な要因</span>"
+    },
+    {
+      "key": "tcd58b7f355b7da75",
+      "english": "<span data-i18n-slot=\"0\">1. Check the Broker's Regulatory Status and Legal Entity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. ブローカーの規制状況と法人を確認する</span>"
+    },
+    {
+      "key": "t7c3d772a9b973b8e",
+      "english": "<span data-i18n-slot=\"0\">Trust should always come before attractive trading offers. One of the first steps when researching <span data-i18n-slot=\"1\">forex brokers</span> in Abu Dhabi is checking whether the company is properly authorised to provide the financial services it advertises.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">魅力的な取引の提案よりも、常に信頼を優先すべきです。アブダビの<span data-i18n-slot=\"1\">外国為替ブローカー</span>を調べる際の最初の手順の一つは、その会社が宣伝する金融サービスを提供するための適切な認可を受けているか確認することです。</span>"
+    },
+    {
+      "key": "t539731da044bb368",
+      "english": "<span data-i18n-slot=\"0\">However, there is an important detail that many traders overlook: a company's registration or financial licence does not automatically mean it is authorised to execute forex trades or hold client funds.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ただし、多くのトレーダーが見落としている重要な点があります。企業の登録または金融ライセンスは、自動的に外国為替取引の実行や顧客の資金の保有を許可されることを意味するものではありません。</span>"
+    },
+    {
+      "key": "t79ccb3205e041d8e",
+      "english": "<span data-i18n-slot=\"0\">Before opening an account, check:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座を開設する前に、次のことを確認してください。</span>"
+    },
+    {
+      "key": "tf29ccdf4ac3e5d54",
+      "english": "<span data-i18n-slot=\"0\">The company's complete legal name.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">会社の完全な正式名称。</span>"
+    },
+    {
+      "key": "t229b212d30212c95",
+      "english": "<span data-i18n-slot=\"0\">A spread is the difference between the buying and selling price of a currency pair. Some trading accounts offer spread-based pricing, while others provide tighter spreads and charge a separate commission.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッドとは、通貨ペアの買値と売値の差です。一部の取引アカウントはスプレッドベースの価格設定を提供していますが、他のアカウントはより狭いスプレッドを提供し、別途手数料を請求します。</span>"
+    },
+    {
+      "key": "ta5787ba7fa11b90d",
+      "english": "<span data-i18n-slot=\"0\">Overnight swap or financing charges.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オーバーナイトスワップまたはファイナンシング手数料。</span>"
+    },
+    {
+      "key": "t1981006ce3590780",
+      "english": "<span data-i18n-slot=\"0\">Inactivity fees, where applicable.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">該当する場合、非アクティブ料金。</span>"
+    },
+    {
+      "key": "tf1235e797124b7b3",
+      "english": "<span data-i18n-slot=\"0\">Additional commissions on specific instruments.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">特定の商品に対する追加手数料。</span>"
+    },
+    {
+      "key": "t168438072d7e63ab",
+      "english": "<span data-i18n-slot=\"0\">When comparing forex brokers in Abu Dhabi, ask for a complete explanation of trading costs instead of making a decision based on one attractive pricing feature.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アブダビの外国為替ブローカーを比較するときは、魅力的な価格設定の 一 つの特徴に基づいて決定するのではなく、取引コストの完全な説明を求めてください。</span>"
+    },
+    {
+      "key": "t81ff97d2613d528a",
+      "english": "<span data-i18n-slot=\"0\">Before selecting a forex trading platform, consider:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替取引プラットフォームを選択する前に、次の点を考慮してください。</span>"
+    },
+    {
+      "key": "t75d99940be235b70",
+      "english": "<span data-i18n-slot=\"0\">Does it provide technical indicators?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">テクニカル指標は提供されますか?</span>"
+    },
+    {
+      "key": "t10c58e44f5c679fa",
+      "english": "<span data-i18n-slot=\"0\">Is order placement and management straightforward?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">発注と管理は簡単ですか?</span>"
+    },
+    {
+      "key": "t854a319cbf5cbee0",
+      "english": "<span data-i18n-slot=\"0\">Not every trader has the same experience, financial goals or trading requirements. This is why account flexibility is another important consideration.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">すべてのトレーダーが同じ経験、財務目標、取引要件を持っているわけではありません。このため、アカウントの柔軟性も重要な考慮事項となります。</span>"
+    },
+    {
+      "key": "tc9b22b9d709e96a3",
+      "english": "<span data-i18n-slot=\"0\">Published minimum deposit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">公表されている最低入金額</span>"
+    },
+    {
+      "key": "td485013eac1b4970",
+      "english": "<span data-i18n-slot=\"0\">Commission</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手数料</span>"
+    },
+    {
+      "key": "tf64708e06475da4c",
+      "english": "<span data-i18n-slot=\"0\">Leverage is one of the most misunderstood aspects of forex trading. It allows traders to control a larger market position with a smaller amount of deposited capital.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジは外国為替取引で最も誤解されている側面の 一 つです。これにより、トレーダーは少ない入金資金でより大きな市場ポジションをコントロールすることができます。</span>"
+    },
+    {
+      "key": "t63ac3db4be5f81ec",
+      "english": "<span data-i18n-slot=\"0\">What happens when account equity falls.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座資本が減少すると何が起こるか。</span>"
+    },
+    {
+      "key": "t1561a75728d67ee1",
+      "english": "<span data-i18n-slot=\"0\">How margin calls and stop-out levels operate.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">マージンコールとストップアウトレベルの仕組み。</span>"
+    },
+    {
+      "key": "t9cfab8976699ce27",
+      "english": "<span data-i18n-slot=\"0\">How stop-loss orders can help manage exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロス注文がエクスポージャーの管理にどのように役立つか。</span>"
+    },
+    {
+      "key": "tff4b2720ac54f10c",
+      "english": "<span data-i18n-slot=\"0\">6. Review Deposit, Withdrawal and Customer Support Conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">6. 入金、出金、およびカスタマーサポートの条件を確認する</span>"
+    },
+    {
+      "key": "t16b80b62083a6f0e",
+      "english": "<span data-i18n-slot=\"0\">Funding an account is only one part of the trading process. Traders should also understand how withdrawals work and what procedures are required to access their funds.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アカウントへの資金調達は、取引プロセスの一部にすぎません。トレーダーはまた、出金がどのように機能するのか、資金にアクセスするにはどのような手順が必要なのかを理解する必要があります。</span>"
+    },
+    {
+      "key": "tefb6fa72caa0335e",
+      "english": "<span data-i18n-slot=\"0\">What is the minimum withdrawal amount?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最低出金額はいくらですか?</span>"
+    },
+    {
+      "key": "tf634743980c4f7ff",
+      "english": "<span data-i18n-slot=\"0\">How long do withdrawals usually take?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">出金には通常どのくらい時間がかかりますか?</span>"
+    },
+    {
+      "key": "t0477b6907d405e0e",
+      "english": "<span data-i18n-slot=\"0\">Are identity verification documents required?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">本人確認書類は必要ですか？</span>"
+    },
+    {
+      "key": "te0a2c9223d38947e",
+      "english": "<span data-i18n-slot=\"0\">Fundamental and technical analysis.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ファンダメンタルズ分析とテクニカル分析。</span>"
+    },
+    {
+      "key": "tcc57dc99f5fa02e5",
+      "english": "<span data-i18n-slot=\"0\">When evaluating forex brokers in Abu Dhabi, consider whether the provider makes relevant information and learning resources accessible. A transparent learning environment can help users understand the market before making decisions involving real money.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アブダビの外国為替ブローカーを評価するときは、そのプロバイダーが関連情報や学習リソースにアクセスできるようにしているかどうかを考慮してください。透明性の高い学習環境は、ユーザーが実際のお金に関わる意思決定をする前に市場を理解するのに役立ちます。</span>"
+    },
+    {
+      "key": "t4bcada4db7dc4607",
+      "english": "<span data-i18n-slot=\"0\">Why Do Abu Dhabi Traders Need to Compare Forex Brokers Carefully?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アブダビのトレーダーはなぜ外国為替ブローカーを慎重に比較する必要があるのでしょうか?</span>"
+    },
+    {
+      "key": "t94fe7f7eb7aca9da",
+      "english": "<span data-i18n-slot=\"0\">Abu Dhabi has a diverse population of professionals, business owners and individuals interested in international financial markets. Online <span data-i18n-slot=\"1\">trading platforms</span> have made it easier to explore currency markets without visiting a physical brokerage office.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アブダビには、国際金融市場に興味を持つ専門家、経営者、個人が多様に集まっています。オンライン<span data-i18n-slot=\"1\">取引プラットフォーム</span>により、実際の証券会社に行かなくても為替市場を探索することが容易になりました。</span>"
+    },
+    {
+      "key": "t3d31e4d18f2c4f49",
+      "english": "<span data-i18n-slot=\"0\">Traders should understand that a company's local presence, international partnership or regulatory licence may represent different business activities. The entity responsible for account opening and trade execution can be based in another jurisdiction.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは、企業の現地での存在感、国際的なパートナーシップ、または規制上のライセンスが異なる事業活動を表す可能性があることを理解する必要があります。口座開設と取引執行を担当する組織は、別の管轄区域に拠点を置くことができます。</span>"
+    },
+    {
+      "key": "td86ef8e5206b375d",
+      "english": "<span data-i18n-slot=\"0\">This is particularly important when comparing forex brokers in Abu Dhabi because the applicable regulatory protections, complaint procedures and contractual terms may depend on the entity serving the client.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これは、アブダビの外国為替ブローカーを比較する場合に特に重要です。適用される規制保護、苦情手続き、および契約条件は、クライアントにサービスを提供する企業によって異なる場合があるためです。</span>"
+    }
+  ]
+}

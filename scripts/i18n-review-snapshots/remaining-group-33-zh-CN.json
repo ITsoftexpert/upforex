@@ -1,0 +1,469 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "te5f7985271eebdda",
+      "english": "<span data-i18n-slot=\"0\">Gold CFD Trading for Beginners in the UAE: 5 Things to Know First</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">阿联酋黄金差价合约交易新手：首先要了解的 5 件事</span>"
+    },
+    {
+      "key": "t7c02c213809c7583",
+      "english": "<span data-i18n-slot=\"0\">1. Start With a Demo Account</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。从模拟账户开始</span>"
+    },
+    {
+      "key": "t0da69c96298092aa",
+      "english": "<span data-i18n-slot=\"0\">2. Understand Leverage Before You Use It</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。使用杠杆之前先了解它</span>"
+    },
+    {
+      "key": "t484f1b35e555d35f",
+      "english": "<span data-i18n-slot=\"0\">Leverage is not free money; it multiplies both your gains and your losses. Start with the lowest leverage available and only increase it once you have a clear risk management strategy in place. Most experienced traders use far less than the maximum available leverage even when they have access to higher ratios.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆不是免费的钱；它会成倍增加你的收益和损失。从可用的最低杠杆开始，只有在制定了明确的风险管理策略后才增加杠杆。大多数经验丰富的交易者使用的杠杆率远低于最大可用杠杆，即使他们可以获得更高的比率。</span>"
+    },
+    {
+      "key": "t65dbe5f54a1d0c03",
+      "english": "<span data-i18n-slot=\"0\">3. Keep Position Sizes Small While You Learn</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。在学习时保持较小的头寸规模</span>"
+    },
+    {
+      "key": "te51c15562d48a490",
+      "english": "<span data-i18n-slot=\"0\">This one is simple but critical. Unregulated brokers expose your capital to counterparty risk with no legal recourse if something goes wrong. Always verify that your broker holds a valid SCA, DFSA, or FSRA license before depositing a single dirham.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这个很简单但很关键。不受监管的经纪商会让您的资金面临交易对手风险，如果出现问题，您将无法获得法律追索权。在存入单个迪拉姆之前，请务必验证您的经纪商是否持有有效的 SCA、DFSA 或 FSRA 许可证。</span>"
+    },
+    {
+      "key": "tebe064dbd54fe57d",
+      "english": "<span data-i18n-slot=\"0\">Is gold CFD trading halal in the UAE?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">黄金差价合约交易在阿联酋是否清真？</span>"
+    },
+    {
+      "key": "teb0ff5bba0fdc7a3",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">CFD Index Trading in UAE: Unlock Earning Opportunities</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">阿联酋差价合约指数交易：释放盈利机会</span></span>"
+    },
+    {
+      "key": "t12b60a9eec720f92",
+      "english": "<span data-i18n-slot=\"0\">Dubai is one of the world’s most active gold trading centers, and that gives UAE residents advantages that investors elsewhere simply do not have. Investment-grade gold bars and coins are zero-rated for VAT in the UAE. There is no capital gains tax on individual gold profits. The Dubai Multi Commodities Centre (DMCC) provides a regulated, transparent infrastructure for physical gold storage, refining, and trading. And the Dubai Gold &amp; Commodities Exchange (DGCX), which surpassed 2 million traded contracts by February 2026 with daily volumes up 30% year-on-year, gives you access to a liquid, local market.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">迪拜是全球最活跃的黄金交易中心之一，这为阿联酋居民带来了其他地区投资者不具备的优势。在阿联酋，投资级金条和金币适用零税率增值税，个人黄金投资利润不征收资本利得税。迪拜多种商品中心（DMCC）为实物黄金存储、精炼和交易提供受监管且透明的基础设施。迪拜黄金与商品交易所（DGCX）截至2026年二月的成交合约超过2百万份，日交易量同比增长30%，让您能够进入流动性充足的本地市场。</span>"
+    },
+    {
+      "key": "taa9d7e7633dfd6f0",
+      "english": "Physical Gold",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "实物黄金"
+    },
+    {
+      "key": "t5a4cd0c1daaf54e5",
+      "english": "Gold Stocks (CFDs)",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "黄金股票（差价合约）"
+    },
+    {
+      "key": "t03ae517d2f4b2edf",
+      "english": "Low–Medium",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "低-中"
+    },
+    {
+      "key": "t3f92aa8ab654e89e",
+      "english": "Hands-off, diversified investors",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "不干涉、多元化的投资者"
+    },
+    {
+      "key": "tc1114d5264975bfe",
+      "english": "Instant",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "即时"
+    },
+    {
+      "key": "t440e538d7ca6d6b3",
+      "english": "Beginners &amp; active UAE traders",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "初学者和活跃的阿联酋交易者"
+    },
+    {
+      "key": "teb1d893a0c34654a",
+      "english": "<span data-i18n-slot=\"0\">For investment purposes, focus on DMCC- or LBMA-recognized bullion rather than jewelry. Large bars (1 oz and above) trade at just 1–2% above spot price, making them the most cost-efficient entry. Smaller bars and coins carry higher premiums of 4–6%, but they offer more flexibility when it comes to selling in portions. Always retain original packaging and certificates; this protects your resale value.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">出于投资目的，请重点关注 DMCC 或 LBMA 认可的金条而不是珠宝。大型金条（1 盎司及以上）的交易价格仅比现货价格高 1–2%，使其成为最具成本效益的入场产品。较小的金条和金币的溢价较高，为 4–6%，但在分份销售时它们提供了更大的灵活性。始终保留原包装和证书；这可以保护您的转售价值。</span>"
+    },
+    {
+      "key": "tc3748b17981d3ce9",
+      "english": "<span data-i18n-slot=\"0\">As of mid-2026, 24K gold in Dubai is trading in the AED 560–620 per gram range depending on global spot prices. Investment-grade gold is zero-rated for VAT, but jewelry and making charges attract standard VAT. There is no capital gains tax for individual investors in the UAE.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">截至 2026 年中期，迪拜 24K 黄金的交易价格为每克 560–620 迪拉姆，具体取决于全球现货价格。投资级黄金的增值税为零，但珠宝和制作费用则需缴纳标准增值税。阿联酋对个人投资者不征收资本利得税。</span>"
+    },
+    {
+      "key": "tb7c5dfaef01d99a0",
+      "english": "<span data-i18n-slot=\"0\">ETFs charge an annual expense ratio (typically 0.15–0.40% for major gold ETFs), which is deducted from the fund’s returns. There are no storage costs since you do not hold physical gold. ETFs are highly liquid and can be bought and sold during market hours, making them a practical option for investors who want clean gold exposure without the premium of buying physical.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ETF 收取年度费用率（主要黄金 ETF 通常为 0.15–0.40%），该费用从基金回报中扣除。由于您不持有实物黄金，因此没有存储成本。 ETF 具有很高的流动性，可以在市场交易时间内买卖，这对于那些想要直接的黄金价格敞口而又不想购买实物溢价的投资者来说是一个实用的选择。</span>"
+    },
+    {
+      "key": "t836cbbb4da54dbf2",
+      "english": "<span data-i18n-slot=\"0\">Gold mutual funds suit investors with a longer time horizon (3–5+ years) who want diversified exposure to the gold sector without managing positions themselves. If you are an active trader or want to react quickly to market movements, CFDs or ETFs give you far more flexibility.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">黄金共同基金适合投资期限较长（3–5+年）、希望分散投资黄金行业而无需自行管理头寸的投资者。如果您是活跃的交易者或希望对市场走势快速做出反应，差价合约或 ETF 可为您提供更大的灵活性。</span>"
+    },
+    {
+      "key": "t8f29ff1f6f1c7fad",
+      "english": "<span data-i18n-slot=\"0\">Gold CFDs on UpForex</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex 上的黄金差价合约</span>"
+    },
+    {
+      "key": "t324a87cf2e97c76f",
+      "english": "<span data-i18n-slot=\"0\">Fractional physical gold</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">部分实物黄金</span>"
+    },
+    {
+      "key": "te979458be506db2d",
+      "english": "<span data-i18n-slot=\"0\">Min. Entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最低入场要求</span>"
+    },
+    {
+      "key": "t7e3e155979425751",
+      "english": "<span data-i18n-slot=\"0\">Low entry point</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">入门点低</span>"
+    },
+    {
+      "key": "tef35dcaad89d44fa",
+      "english": "<span data-i18n-slot=\"0\">Yes, amplified exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">是，放大风险敞口</span>"
+    },
+    {
+      "key": "t447447e568c7ba59",
+      "english": "<span data-i18n-slot=\"0\">Tight Spreads on XAU/USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">XAU/USD 价差较小</span>"
+    },
+    {
+      "key": "t2d96bc3631c4927c",
+      "english": "<span data-i18n-slot=\"0\">Go Long or Short: Profit in Both Directions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">做多或做空：双向获利</span>"
+    },
+    {
+      "key": "t64af7f5b262aae65",
+      "english": "<span data-i18n-slot=\"0\">Unlike physical gold or tokenized platforms, UpForex gold CFDs let you profit whether prices rise or fall. If you expect a short-term correction after the January 2026 highs, you can short XAU/USD. If you believe the J.P. Morgan $6,000 target is in play by Q4, you go long. The market works both ways, and so does UpForex.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">与实物黄金或代币化平台不同，UpForex黄金差价合约让您在价格上涨或下跌时都能获利。如果您预计2026年一月高点后将短暂回调，可以做空XAU/USD。如果您认为摩根大通的$6,000目标会在第4季度前实现，就做多。市场可双向交易，UpForex也是如此。</span>"
+    },
+    {
+      "key": "tb38f0a2326aacf73",
+      "english": "<span data-i18n-slot=\"0\">Rule 4: Practise on a Demo Account Before Going Live</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">规则 4：上线前先练习模拟账户</span>"
+    },
+    {
+      "key": "tdb5799b93a472e05",
+      "english": "<span data-i18n-slot=\"0\">Gold works best as a portfolio stabilizer, not your entire portfolio. Most professional portfolio managers allocate 5–15% of a portfolio to gold. Alongside gold, you might consider</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">index CFDs</span></span><span data-i18n-slot=\"4\">,</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">energy CFDs</span></span><span data-i18n-slot=\"8\">, or</span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">forex trading</span></span><span data-i18n-slot=\"12\"> to build a balanced, multi-asset approach.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">黄金最适合作为投资组合的稳定剂，而不是整个投资组合。大多数专业投资组合经理将投资组合的 5–15% 配置为黄金。除了黄金之外，您还可以考虑</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">指数差价合约</span></span><span data-i18n-slot=\"4\">、</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">能源差价合约</span></span><span data-i18n-slot=\"8\">或</span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">外汇交易</span></span><span data-i18n-slot=\"12\">来构建平衡的多资产方法。</span>"
+    },
+    {
+      "key": "tfe612f321b82ede6",
+      "english": "<span data-i18n-slot=\"0\">The DGCX, the Middle East’s largest commodities exchange, surpassed 2 million traded contracts in February 2026 with daily volumes up 30% year-on-year. This growth reflects both institutional and retail appetite for gold exposure in the UAE. For traders, the DGCX’s activity also contributes to the depth and liquidity of the broader UAE gold market.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">中东最大的商品交易所DGCX在2026年二月的成交合约超过2百万份，日交易量同比增长30%。这种增长反映出阿联酋机构和零售投资者对黄金风险敞口的需求。对交易者而言，DGCX的活动也为更广泛的阿联酋黄金市场贡献深度与流动性。</span>"
+    },
+    {
+      "key": "tf092911ad89aa444",
+      "english": "<span data-i18n-slot=\"0\">It depends on the method. Tokenized gold platforms typically allow very low entry points, making them accessible for new investors building a position gradually. Gold CFDs on UpForex also have a low minimum deposit. Physical gold bars start at AED 600–800 for small denominations, while larger investment bars require significantly more capital.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这取决于方法。代币化黄金平台通常允许非常低的进入点，使新投资者可以逐渐建立头寸。 UpForex 上的黄金差价合约的最低存款额也较低。小面额的实物金条起价为 600–800 迪拉姆，而较大的投资金条则需要更多的资金。</span>"
+    },
+    {
+      "key": "t43f928efd0f9e14b",
+      "english": "<span data-i18n-slot=\"0\">Is investing in gold halal in the UAE?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在阿联酋投资黄金是否符合清真标准？</span>"
+    },
+    {
+      "key": "tf753952e159b971a",
+      "english": "<span data-i18n-slot=\"0\">Physical gold and tokenized gold backed by allocated physical metal are generally considered halal. Gold CFDs involve swap fees for positions held overnight, which may not be Sharia-compliant. UpForex offers Islamic (swap-free) account options for traders who require Sharia-compliant conditions; consult an Islamic finance scholar for specific guidance on your situation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实物黄金和由分配的实物金属支持的代币化黄金通常被认为是清真的。黄金差价合约涉及隔夜持有头寸的掉期费用，这可能不符合伊斯兰教法。 UpForex 为需要符合伊斯兰教法的交易者提供伊斯兰（无隔夜利息）账户选项；请咨询伊斯兰金融学者，获取针对您情况的具体指导。</span>"
+    },
+    {
+      "key": "t25ca11897e756767",
+      "english": "<span data-i18n-slot=\"0\">For traders in Dubai and across the UAE, OTC trading can be a useful way to access forex, commodities, indices, and other financial instruments through a regulated provider. The most important part is making sure you trade with a licensed firm that operates under the correct regulatory framework.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于迪拜和整个阿联酋的交易者来说，场外交易是通过受监管的提供商获取外汇、商品、指数和其他金融工具的有用方式。最重要的部分是确保您与在正确的监管框架下运营的持牌公司进行交易。</span>"
+    },
+    {
+      "key": "tc95ef812d98022d8",
+      "english": "<span data-i18n-slot=\"0\">What OTC Trading Means</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易意味着什么</span>"
+    },
+    {
+      "key": "tb3df0d2584ddec55",
+      "english": "<span data-i18n-slot=\"0\">OTC markets are common in forex, CFDs, commodities, and certain institutional products. Because of this, OTC trading often appeals to traders who want more flexibility, extended trading hours, and access to instruments that may not be listed on UAE exchanges.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易市场常见于外汇、差价合约、大宗商品和某些机构产品。因此，场外交易通常会吸引那些想要更大灵活性、延长交易时间以及获得可能未在阿联酋交易所上市的工具的交易者。</span>"
+    },
+    {
+      "key": "t09485d37c5502105",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">OTC trading</span></span><span data-i18n-slot=\"2\"> is a market structure, not just one product. Depending on the provider, it can include a broad range of tradable assets and execution models.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">场外交易</span></span><span data-i18n-slot=\"2\">是一种市场结构，而不仅仅是一种产品。根据提供商的不同，它可以包括广泛的可交易资产和执行模型。</span>"
+    },
+    {
+      "key": "t235637f0a4f5bc9c",
+      "english": "<span data-i18n-slot=\"0\">If you are based in the UAE, OTC trading can offer several advantages. You may be able to trade global markets from a single account, react to market movements outside local exchange hours, and access products that are not available on the Dubai Financial Market or Abu Dhabi Securities Exchange.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果您位于阿联酋，场外交易可以提供多种优势。您可以通过单一账户进行全球市场交易，对当地交易时间以外的市场走势做出反应，并访问迪拜金融市场或阿布扎比证券交易所未提供的产品。</span>"
+    },
+    {
+      "key": "t829885ad4be203db",
+      "english": "<span data-i18n-slot=\"0\">OTC Trading vs Exchange Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易与交易所交易</span>"
+    },
+    {
+      "key": "t8bc7adc099a5a9ec",
+      "english": "<span data-i18n-slot=\"0\">OTC and exchange trading serve different purposes. Exchange trading is centralized and standardized, while OTC trading is more direct and flexible.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">场外交易和交易所交易有不同的目的。场内交易集中化、标准化，场外交易更直接、灵活。</span>"
+    },
+    {
+      "key": "tc8d078bce1cf02f0",
+      "english": "<span data-i18n-slot=\"0\">Venue</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">地点</span>"
+    },
+    {
+      "key": "t47a694d3564f84cf",
+      "english": "<span data-i18n-slot=\"0\">Direct through a broker or dealer</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">直接通过经纪人或经销商</span>"
+    },
+    {
+      "key": "t316dbbad52db1c97",
+      "english": "<span data-i18n-slot=\"0\">Centralized exchange</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">集中式交易所</span>"
+    },
+    {
+      "key": "t4ab7a90455ffefde",
+      "english": "<span data-i18n-slot=\"0\">Trade Size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易规模</span>"
+    },
+    {
+      "key": "te053414bd637801f",
+      "english": "<span data-i18n-slot=\"0\">Listed stocks, futures, ETFs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">上市股票、期货、ETF</span>"
+    },
+    {
+      "key": "tafe8fe8022682bce",
+      "english": "<span data-i18n-slot=\"0\">Hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">时间</span>"
+    }
+  ]
+}

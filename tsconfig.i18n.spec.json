@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig.spec.json",
+  "include": [
+    "src/app/app.component.spec.ts",
+    "src/app/core/services/language.service.spec.ts",
+    "src/app/core/services/hybrid-translation.service.spec.ts",
+    "src/app/core/services/server-language.initializer.spec.ts",
+    "src/app/core/services/page-language.service.spec.ts",
+    "src/app/core/services/native-translation.service.spec.ts",
+    "src/app/core/services/web-blog.service.spec.ts",
+    "src/app/components/partnership/ib-program/ib-program.component.spec.ts",
+    "src/app/components/list.blogs/list.blogs.component.spec.ts",
+    "src/app/components/terms-display/pdf-export.spec.ts",
+    "src/**/*.d.ts"
+  ]
+}

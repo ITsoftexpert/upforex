@@ -23,6 +23,7 @@ interface Action {
 }
 
 @Component({
+  standalone: false,
   selector: 'app-data-table',
   templateUrl: './data-table.component.html',
   styleUrls: ['./data-table.component.scss'],

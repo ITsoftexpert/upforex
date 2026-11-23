@@ -1,0 +1,489 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tf424fba1d89eab7d",
+      "english": "<span data-i18n-slot=\"0\">A swap-free label may address overnight interest but not every Sharia question. Review the legal and fee structure, check current</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">account types</span></span><span data-i18n-slot=\"4\">, and consult a qualified Islamic-finance scholar familiar with the product.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A designação swap-free pode resolver a questão dos juros de um dia para o outro, mas não todas as questões da Sharia. Analise a estrutura jurídica e de taxas, confira os atuais </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">tipos de conta</span></span><span data-i18n-slot=\"4\"> e consulte um estudioso qualificado em finanças islâmicas que conheça o produto.</span>"
+    },
+    {
+      "key": "t9d84ae124b48be26",
+      "english": "<span data-i18n-slot=\"0\">Notional value ÷ Required margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Valor nocional ÷ margem exigida</span>"
+    },
+    {
+      "key": "tf26f08c73c4b6ecd",
+      "english": "<span data-i18n-slot=\"0\">$100,000 ÷ $1,000 = 100, or 1:100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">$100,000 ÷ $1,000 = 100, ou 1:100</span>"
+    },
+    {
+      "key": "te3700639d9147e1b",
+      "english": "<span data-i18n-slot=\"0\">Notional value ÷ Leverage ratio</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Valor nocional ÷ proporção de alavancagem</span>"
+    },
+    {
+      "key": "t43aebaadf5410a93",
+      "english": "<span data-i18n-slot=\"0\">Equity − Used margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimônio líquido − margem utilizada</span>"
+    },
+    {
+      "key": "t422731520a703132",
+      "english": "<span data-i18n-slot=\"0\">Broker-defined warning or threshold</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Aviso ou limiar definido pelo corretor</span>"
+    },
+    {
+      "key": "tfa51a876a199ad26",
+      "english": "<span data-i18n-slot=\"0\">Stop-Out</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Liquidação automática</span>"
+    },
+    {
+      "key": "tf222a9097f47e469",
+      "english": "<span data-i18n-slot=\"0\">Broker-defined automatic liquidation threshold</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Limiar de liquidação automática definido pelo corretor</span>"
+    },
+    {
+      "key": "ta02bd09b0056838f",
+      "english": "<span data-i18n-slot=\"0\">Leverage is the ratio between a position’s notional value and the margin required to support it. Margin is the account equity reserved for that position. Higher leverage reduces required margin for the same position, but the market exposure and monetary effect of a price move remain unchanged.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A alavancagem é a relação entre o valor nocional de uma posição e a margem necessária para sustentá-la. Margem é o patrimônio líquido da conta reservado para essa posição. Uma alavancagem maior reduz a margem exigida para a mesma posição, mas a exposição ao mercado e o efeito monetário de um movimento de preço permanecem inalterados.</span>"
+    },
+    {
+      "key": "t554d2871809d49e5",
+      "english": "<span data-i18n-slot=\"0\">What happens when you get a margin call?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que acontece quando você recebe uma chamada de margem?</span>"
+    },
+    {
+      "key": "t8b838e98cd177b66",
+      "english": "<span data-i18n-slot=\"0\">Is higher leverage always riskier?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma alavancagem maior é sempre mais arriscada?</span>"
+    },
+    {
+      "key": "t2acfcde0595d8498",
+      "english": "<span data-i18n-slot=\"0\">Is leverage trading halal?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A alavancagem é Halal?</span>"
+    },
+    {
+      "key": "t8308f393ef16456d",
+      "english": "<span data-i18n-slot=\"0\">Its permissibility depends on the complete contract and how the trade is structured. Interest, swaps, loan conditions, ownership, derivatives, uncertainty, and speculation may all affect the assessment. A swap-free feature alone may not settle every issue, so consult a qualified Islamic-finance scholar.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sua permissibilidade depende do contrato completo e de como o comércio é estruturado. Juros, swaps, condições de empréstimo, propriedade, derivados, incerteza e especulação podem afetar a avaliação. Um recurso livre de troca pode não resolver todos os problemas, então consulte um acadêmico qualificado de finanças islâmicas.</span>"
+    },
+    {
+      "key": "t307ba3b8a7bf5be6",
+      "english": "<span data-i18n-slot=\"0\">How do I calculate the margin required for a trade?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como posso calcular a margem necessária para uma troca?</span>"
+    },
+    {
+      "key": "t32d9d9f609961e1c",
+      "english": "<span data-i18n-slot=\"0\">Divide the position’s notional value by the leverage ratio. A $100,000 position at 1:100 leverage requires approximately $1,000 in margin before broker-specific calculations and trading costs. Some instruments use different contract sizes or margin methods, so confirm the platform specification.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Divida o valor nocional da posição pela proporção de alavancagem. Uma posição de $100,000 com alavancagem de 1:100 exige aproximadamente $1,000 de margem, antes de cálculos específicos da corretora e dos custos de negociação. Alguns instrumentos usam tamanhos de contrato ou métodos de margem diferentes, portanto confirme a especificação da plataforma.</span>"
+    },
+    {
+      "key": "tbbd9cb71f8f6dd9f",
+      "english": "<span data-i18n-slot=\"0\">Leverage and margin are tools for controlling market exposure, not shortcuts to profitability. Understanding the formulas helps traders see the real size of a position, how much account capacity it uses, and how quickly losses can affect margin level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alavancagem e margem são ferramentas para controlar a exposição ao mercado, não atalhos para a rentabilidade. Entender as fórmulas ajuda os traders a identificar o tamanho real de uma posição, quanto ela utiliza da capacidade da conta e com que rapidez as perdas podem afetar o nível de margem.</span>"
+    },
+    {
+      "key": "t2398eb07c05ceb51",
+      "english": "<span data-i18n-slot=\"0\">Prepared by the UpForex Trading Education and Research Team.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Preparado pela equipe de Educação e Pesquisa da UpForex.</span>"
+    },
+    {
+      "key": "tbdf0fdcde49f7607",
+      "english": "<span data-i18n-slot=\"0\">Trading without a written plan</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negociar sem um plano escrito</span>"
+    },
+    {
+      "key": "t165acf2432741f14",
+      "english": "<span data-i18n-slot=\"0\">Skipping demo practice</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pular o treino de demonstração.</span>"
+    },
+    {
+      "key": "t23d7016f0e63bd0b",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging without understanding margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alavancagem excessiva sem compreender a margem</span>"
+    },
+    {
+      "key": "tfd26f4ab578bcbdb",
+      "english": "<span data-i18n-slot=\"0\">Entering trades without a stop-loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Entrar em operações sem stop-loss</span>"
+    },
+    {
+      "key": "t131143e8f011f3da",
+      "english": "<span data-i18n-slot=\"0\">Ignoring spreads, commissions, and swap costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ignorar spreads, comissões e custos de swap</span>"
+    },
+    {
+      "key": "t9c41744f30873f43",
+      "english": "<span data-i18n-slot=\"0\">Trading money needed for essential expenses</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negociar com dinheiro necessário para despesas essenciais</span>"
+    },
+    {
+      "key": "t9b66efcd122f50ed",
+      "english": "<span data-i18n-slot=\"0\">Failing to keep and review a trading journal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Falhando em manter e revisar um diário comercial</span>"
+    },
+    {
+      "key": "tffd64fe716550f63",
+      "english": "<span data-i18n-slot=\"0\">Mistake #1: Trading Without a Written Plan</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Erro #1: negociação sem um plano escrito</span>"
+    },
+    {
+      "key": "t119f82946e459876",
+      "english": "<span data-i18n-slot=\"0\">Define trading hours and maximum exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Defina horas de troca e exposição máxima.</span>"
+    },
+    {
+      "key": "t42191db961381e03",
+      "english": "<span data-i18n-slot=\"0\">Skip trades that do not meet the plan.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pule operações que não atendam ao plano.</span>"
+    },
+    {
+      "key": "tdbdec970f4f88046",
+      "english": "<span data-i18n-slot=\"0\">Use a short pre-trade checklist so every entry is reviewed against the same conditions before an order is placed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Use uma lista de verificação pré-comercialização para que cada entrada seja revisada contra as mesmas condições antes de uma ordem ser feita.</span>"
+    },
+    {
+      "key": "tb6c3308d649dd2f1",
+      "english": "<span data-i18n-slot=\"0\">Leverage lets a trader control a position larger than the cash deposited, magnifying gains and losses. A normal price movement can therefore create a large change in account equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A alavancagem permite que um trader controle uma posição maior que o dinheiro depositado, ampliando ganhos e perdas. Um movimento normal de preço pode, portanto, gerar uma grande mudança no patrimônio líquido da conta.</span>"
+    },
+    {
+      "key": "t74b047d2e1991844",
+      "english": "<span data-i18n-slot=\"0\">Mistake #4: Trading Without a Stop-Loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Erro #4: negociar sem stop-loss</span>"
+    },
+    {
+      "key": "td7acaff6409db1b0",
+      "english": "<span data-i18n-slot=\"0\">Some beginners avoid stop-losses because they expect the market to reverse. Others move the stop farther away, turning a planned loss into an uncontrolled one.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alguns iniciantes evitam o stop-loss porque esperam que o mercado reverta. Outros movem o stop para mais longe, transformando uma perda planejada em uma perda sem controle.</span>"
+    },
+    {
+      "key": "t6a747aafaf733f69",
+      "english": "<span data-i18n-slot=\"0\">Review the loss before trading again.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reveja a perda antes de negociar novamente.</span>"
+    },
+    {
+      "key": "tc278ee2b74a18b9d",
+      "english": "<span data-i18n-slot=\"0\">Review net results after fees.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reveja resultados líquidos após taxas.</span>"
+    },
+    {
+      "key": "t7e73a4c19f94faad",
+      "english": "<span data-i18n-slot=\"0\">Mistake #8: Choosing the Wrong Account or Broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Erro #8: escolher a conta errada ou corretor</span>"
+    },
+    {
+      "key": "t696cd1e3c6d61475",
+      "english": "<span data-i18n-slot=\"0\">Mistake #9: Letting Emotion Override the Strategy</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Erro #9: deixar a emoção prevalecer sobre a estratégia</span>"
+    },
+    {
+      "key": "tf3729a5dd0d19701",
+      "english": "<span data-i18n-slot=\"0\">Step away when urgency affects judgement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Afaste-se quando a urgência afeta o julgamento.</span>"
+    },
+    {
+      "key": "t64bdf8102bdbc304",
+      "english": "<span data-i18n-slot=\"0\">Follows a written setup and review process</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Segue uma configuração escrita e processo de revisão.</span>"
+    },
+    {
+      "key": "tc93933e8ff7f3420",
+      "english": "<span data-i18n-slot=\"0\">Enters first and considers the stop later</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Entra primeiro e considera a parada mais tarde.</span>"
+    },
+    {
+      "key": "tf2ff2dbd11cdefe7",
+      "english": "<span data-i18n-slot=\"0\">Defines the stop before entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Define a parada antes da entrada.</span>"
+    },
+    {
+      "key": "tc336cd09b9de75f3",
+      "english": "<span data-i18n-slot=\"0\">Trades to relieve fear or frustration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Trocas para aliviar o medo ou frustração</span>"
+    },
+    {
+      "key": "t1017a302155a8c58",
+      "english": "<span data-i18n-slot=\"0\">Pauses when emotions affect judgement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pausa quando as emoções afetam o julgamento</span>"
+    },
+    {
+      "key": "tba584a1f35bad4bb",
+      "english": "<span data-i18n-slot=\"0\">Remembers trades selectively</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Lembra-se das operações de forma seletiva</span>"
+    },
+    {
+      "key": "t8fd426a218552964",
+      "english": "<span data-i18n-slot=\"0\">Mistake #10: Not Keeping a Trading Journal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Erro #10: não manter um diário comercial</span>"
+    },
+    {
+      "key": "t1ea2cf62681882c2",
+      "english": "<span data-i18n-slot=\"0\">Record every trade in the same format.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Grave todas as transações no mesmo formato.</span>"
+    },
+    {
+      "key": "tcbb276f5cc06842d",
+      "english": "<span data-i18n-slot=\"0\">Review groups of trades, not one result.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Analise grupos de operações, não apenas um resultado.</span>"
+    },
+    {
+      "key": "t7bd040ffebc860df",
+      "english": "<span data-i18n-slot=\"0\">Separate strategy performance from rule-breaking.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Desempenho estratégico separado de quebra de regras.</span>"
+    },
+    {
+      "key": "teb947fadb8afc891",
+      "english": "<span data-i18n-slot=\"0\">Mistake</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Erro</span>"
+    },
+    {
+      "key": "t280acd850595a333",
+      "english": "<span data-i18n-slot=\"0\">The trader rushes into live trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O comerciante corre para o comércio ao vivo.</span>"
+    }
+  ]
+}

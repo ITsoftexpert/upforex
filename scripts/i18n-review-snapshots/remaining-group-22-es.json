@@ -1,0 +1,547 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tfda9c4e202a896f8",
+      "english": "<span data-i18n-slot=\"0\">Typical Spread Characteristics</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Características típicas del diferencial</span>"
+    },
+    {
+      "key": "te12b44ce05b3fdf0",
+      "english": "<span data-i18n-slot=\"0\">Can be wider than the most liquid majors</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Puede ser más amplio que los principales con mayor liquidez</span>"
+    },
+    {
+      "key": "t0de5ee63c2407827",
+      "english": "<span data-i18n-slot=\"0\">Can vary more than heavily traded majors</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Puede variar más que en los pares principales con mayor volumen de negociación</span>"
+    },
+    {
+      "key": "t8516492b547a84b7",
+      "english": "<span data-i18n-slot=\"0\">Often wider than major pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A menudo más ancho que los pares principales</span>"
+    },
+    {
+      "key": "tf74a0e0274fa2b70",
+      "english": "<span data-i18n-slot=\"0\">Which Currency Pairs Are Most Traded?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué pares de divisas se negocian más?</span>"
+    },
+    {
+      "key": "tf841255f000a8c13",
+      "english": "<span data-i18n-slot=\"0\">The most actively traded forex pairs are heavily concentrated around the U.S. dollar, with major pairs accounting for much of global FX activity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los pares de divisas que se negocian más activamente se concentran en gran medida en torno al dólar estadounidense, y los principales pares representan gran parte de la actividad cambiaria mundial.</span>"
+    },
+    {
+      "key": "tc93bfd60310924bc",
+      "english": "<span data-i18n-slot=\"0\">However, </span><span data-i18n-slot=\"1\">most traded does not automatically mean most profitable</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sin embargo, </span><span data-i18n-slot=\"1\">más negociado no significa automáticamente más rentable</span><span data-i18n-slot=\"2\">.</span>"
+    },
+    {
+      "key": "tf18f0c270ab55c45",
+      "english": "<span data-i18n-slot=\"0\">Trading strategy</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Estrategia comercial</span>"
+    },
+    {
+      "key": "te282c70b6b4a2e6d",
+      "english": "<span data-i18n-slot=\"0\">Trading hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Horario de negociación</span>"
+    },
+    {
+      "key": "t542f5c33c4c87efb",
+      "english": "<span data-i18n-slot=\"0\">Spread and other costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferencial y otros costos</span>"
+    },
+    {
+      "key": "t31d62c2c5ee0d1e4",
+      "english": "<span data-i18n-slot=\"0\">Position sizing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tamaño de posición</span>"
+    },
+    {
+      "key": "t6d05c94f9fdaa431",
+      "english": "<span data-i18n-slot=\"0\">The most common currency-pair mistakes come from misunderstanding how the quotation works rather than from the pair names themselves.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los errores más comunes en los pares de divisas se deben a una mala comprensión de cómo funciona la cotización y no a los nombres de los pares en sí.</span>"
+    },
+    {
+      "key": "tde5f5d76ca14fffa",
+      "english": "<span data-i18n-slot=\"0\">1. Confusing the Base and Quote Currency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Confundir la divisa base y la divisa de cotización</span>"
+    },
+    {
+      "key": "taf21955c1fac5368",
+      "english": "<span data-i18n-slot=\"0\">2. Reading a Rising Pair Backwards</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. Leer un par ascendente al revés</span>"
+    },
+    {
+      "key": "ta83575de748193c4",
+      "english": "<span data-i18n-slot=\"0\">5. Choosing a Pair Only Because It Is Moving Quickly</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5. Elegir un par sólo porque se mueve rápidamente</span>"
+    },
+    {
+      "key": "t6cb4c1d9d5cd3325",
+      "english": "<span data-i18n-slot=\"0\">How Do You Start Trading Currency Pairs on UPFOREX?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo se empieza a operar con pares de divisas en UPFOREX?</span>"
+    },
+    {
+      "key": "t967feabecafaa65c",
+      "english": "<span data-i18n-slot=\"0\">What is a currency pair in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es un par de divisas en el comercio de divisas?</span>"
+    },
+    {
+      "key": "t556f63b8135ebdbc",
+      "english": "<span data-i18n-slot=\"0\">What is the quote currency in a forex pair?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cuál es la moneda cotizada en un par de divisas?</span>"
+    },
+    {
+      "key": "ta08787179b0c2db3",
+      "english": "<span data-i18n-slot=\"0\">The quote currency is the second currency. It tells you how much of that currency is needed to equal one unit of the base currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La moneda de cotización es la segunda moneda. Le indica cuánto de esa moneda se necesita para igualar una unidad de la moneda base.</span>"
+    },
+    {
+      "key": "tc7d918040f731758",
+      "english": "<span data-i18n-slot=\"0\">There is no universally best forex pair. Suitability depends on liquidity, trading costs, volatility, trading hours, strategy and the trader's objectives. A dedicated guide comparing the best currency pairs can examine these factors in more detail.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No existe un par de divisas universalmente mejor. La idoneidad depende de la liquidez, los costos comerciales, la volatilidad, el horario comercial, la estrategia y los objetivos del comerciante. Una guía dedicada que compara los mejores pares de divisas puede examinar estos factores con más detalle.</span>"
+    },
+    {
+      "key": "tee1b1df050906af4",
+      "english": "<span data-i18n-slot=\"0\">Understand the Pair Before You Place the Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comprenda el par antes de realizar la operación</span>"
+    },
+    {
+      "key": "tdaf37279da3574b7",
+      "english": "<span data-i18n-slot=\"0\">Economic events in</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading</span></span><span data-i18n-slot=\"4\"> are scheduled releases, policy decisions, or unexpected developments that can affect currencies, commodities, and indices. An economic event in trading is any announcement or development that can change expectations about economic growth, inflation, employment, interest rates, or financial stability.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "Los <span data-i18n-slot=\"0\">eventos económicos en</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">el comercio de divisas</span></span><span data-i18n-slot=\"4\"> son publicaciones programadas, decisiones políticas o desarrollos inesperados que pueden afectar a las divisas, las materias primas y los índices. Un evento económico en el comercio es cualquier anuncio o desarrollo que pueda cambiar las expectativas sobre el crecimiento económico, la inflación, el empleo, las tasas de interés o la estabilidad financiera.</span>"
+    },
+    {
+      "key": "tc8be9f086362585c",
+      "english": "<span data-i18n-slot=\"0\">What Is an Economic Event in Forex Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es un evento económico en el comercio de divisas?</span>"
+    },
+    {
+      "key": "tf31140ea572d3336",
+      "english": "<span data-i18n-slot=\"0\">Scheduled events</span><span data-i18n-slot=\"1\"> have known release windows. Examples include:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los eventos programados</span><span data-i18n-slot=\"1\"> tienen ventanas de publicación conocidas. Algunos ejemplos son:</span>"
+    },
+    {
+      "key": "teaa81abd0404609f",
+      "english": "<span data-i18n-slot=\"0\">Gross domestic product reports</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Informes sobre el producto interior bruto</span>"
+    },
+    {
+      "key": "t93b6493363bcc05d",
+      "english": "<span data-i18n-slot=\"0\">Checking the calendar before entering a trade helps a trader identify when spreads and volatility may change. An economic calendar can help organize upcoming releases and their expected impact.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Consultar el calendario antes de iniciar una operación ayuda al operador a identificar cuándo pueden cambiar los diferenciales y la volatilidad. Un calendario económico puede ayudar a organizar los próximos lanzamientos y su impacto esperado.</span>"
+    },
+    {
+      "key": "tab2085c0c3c2e12e",
+      "english": "<span data-i18n-slot=\"0\">NFP vs. CPI vs. FOMC at a Glance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">NFP vs. IPC vs. FOMC de un vistazo</span>"
+    },
+    {
+      "key": "t17f5ae28d44c9e10",
+      "english": "<span data-i18n-slot=\"0\">Release Frequency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Frecuencia de lanzamiento</span>"
+    },
+    {
+      "key": "t91612e25fef9b58b",
+      "english": "<span data-i18n-slot=\"0\">Released By</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Publicado por</span>"
+    },
+    {
+      "key": "ta85bae82790acb30",
+      "english": "<span data-i18n-slot=\"0\">Typical Volatility Level</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Nivel de volatilidad típico</span>"
+    },
+    {
+      "key": "t87e0b0f295b0edbc",
+      "english": "<span data-i18n-slot=\"0\">NFP / Employment Situation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">NFP / Situación del empleo</span>"
+    },
+    {
+      "key": "t342e8920f850f880",
+      "english": "<span data-i18n-slot=\"0\">Non-Farm Payrolls: What NFP Is and How It Moves Markets</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Nóminas no agrícolas: qué es el NFP y cómo mueve los mercados</span>"
+    },
+    {
+      "key": "t729d827b735d67af",
+      "english": "<span data-i18n-slot=\"0\">Non-Farm Payrolls refers to the monthly change in US payroll employment covered by the Employment Situation report, alongside unemployment and earnings data. The NFP data release is closely watched because labor-market conditions can influence expectations for economic growth and Federal Reserve policy.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Nóminas no agrícolas se refiere al cambio mensual en el empleo en nómina de EE. UU. cubierto por el informe sobre la situación laboral, junto con los datos de desempleo e ingresos. La publicación de los datos del NFP se sigue de cerca porque las condiciones del mercado laboral pueden influir en las expectativas de crecimiento económico y la política de la Reserva Federal.</span>"
+    },
+    {
+      "key": "t51de2b5d027bea4f",
+      "english": "<span data-i18n-slot=\"0\">NFP Outcome</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Resultado del NFP</span>"
+    },
+    {
+      "key": "tdc93319d087737f7",
+      "english": "<span data-i18n-slot=\"0\">Typical US Indices Reaction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reacción típica de los índices estadounidenses</span>"
+    },
+    {
+      "key": "t9e659d31e8d35bff",
+      "english": "<span data-i18n-slot=\"0\">Much higher than forecast</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Mucho más alto de lo previsto</span>"
+    },
+    {
+      "key": "tc80b9ae2a9884a5a",
+      "english": "<span data-i18n-slot=\"0\">May weaken as the USD and yields rise</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Puede debilitarse a medida que el USD y los rendimientos aumentan</span>"
+    },
+    {
+      "key": "t70a3017340734479",
+      "english": "<span data-i18n-slot=\"0\">Often range-bound unless another detail surprises</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A menudo tienen un rango limitado a menos que otro detalle sorprenda</span>"
+    },
+    {
+      "key": "tf04a950501836ba5",
+      "english": "<span data-i18n-slot=\"0\">Much lower than forecast</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Mucho más bajo de lo previsto</span>"
+    },
+    {
+      "key": "t9bbbb073e50319cd",
+      "english": "<span data-i18n-slot=\"0\">May strengthen as the USD and yields fall</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Puede fortalecerse a medida que el USD y los rendimientos caen</span>"
+    },
+    {
+      "key": "t02cb5021e347306d",
+      "english": "<span data-i18n-slot=\"0\">Traders normally compare headline CPI, core CPI, monthly change, and annual change with forecasts. Core CPI excludes food and energy categories that can be especially volatile.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los comerciantes normalmente comparan el IPC general, el IPC básico, el cambio mensual y el cambio anual con los pronósticos. El IPC básico excluye categorías de alimentos y energía que pueden ser especialmente volátiles.</span>"
+    },
+    {
+      "key": "t7548fe66ad58f752",
+      "english": "<span data-i18n-slot=\"0\">CPI Surprise vs. Typical Market Reaction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sorpresa del IPC frente a la reacción típica del mercado</span>"
+    },
+    {
+      "key": "t019c01b7d01b368d",
+      "english": "<span data-i18n-slot=\"0\">CPI Outcome</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Resultado del IPC</span>"
+    },
+    {
+      "key": "tf9d70134df1cb6cc",
+      "english": "<span data-i18n-slot=\"0\">Higher than forecast</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Superior a lo previsto</span>"
+    },
+    {
+      "key": "t4be9c7ce045cf508",
+      "english": "<span data-i18n-slot=\"0\">May react to core components or revisions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Puede reaccionar a componentes principales o revisiones</span>"
+    },
+    {
+      "key": "tb5324190f4816454",
+      "english": "<span data-i18n-slot=\"0\">May remain range-bound</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Puede permanecer dentro del rango</span>"
+    },
+    {
+      "key": "tcc26af6ae803b136",
+      "english": "<span data-i18n-slot=\"0\">Lower than forecast</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Inferior a lo previsto</span>"
+    },
+    {
+      "key": "t1f8f9942a3486f96",
+      "english": "<span data-i18n-slot=\"0\">May strengthen as yields decline</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Puede fortalecerse a medida que los rendimientos disminuyen</span>"
+    },
+    {
+      "key": "t888ca1237924bbbb",
+      "english": "<span data-i18n-slot=\"0\">“Forward guidance” means communication about the likely future direction of policy. Traders unfamiliar with terms such as basis points, hawkish, or dovish should confirm their meanings before trading around a policy announcement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La orientación futura comunica la probable dirección de la política. Los operadores que no conocen términos como puntos básicos, postura restrictiva o postura expansiva deben confirmar su significado antes de operar en torno a un anuncio de política.</span>"
+    },
+    {
+      "key": "t8a318648f1e7c572",
+      "english": "<span data-i18n-slot=\"0\">1. Compare Actual With Forecast</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. Comparar real con pronóstico</span>"
+    },
+    {
+      "key": "t061a56ad7f3c8fdd",
+      "english": "<span data-i18n-slot=\"0\">4. Check Spreads and Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4. Verificar diferenciales y deslizamiento</span>"
+    },
+    {
+      "key": "t9e73bf33f1e37efb",
+      "english": "<span data-i18n-slot=\"0\">During high-impact releases, the bid-ask spread can widen and available liquidity can change. A stop-loss limits risk intent but does not guarantee execution at the requested price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Durante las publicaciones de alto impacto, el diferencial entre oferta y demanda puede ampliarse y la liquidez disponible puede cambiar. Un stop-loss limita la intención de riesgo pero no garantiza la ejecución al precio solicitado.</span>"
+    },
+    {
+      "key": "t52b572d60026e210",
+      "english": "<span data-i18n-slot=\"0\">A trader can be directionally correct and still lose because the position is too large. Define the maximum acceptable account loss before choosing volume.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un operador puede tener una dirección correcta y aun así perder porque la posición es demasiado grande. Defina la pérdida de cuenta máxima aceptable antes de elegir el volumen.</span>"
+    },
+    {
+      "key": "t2825c9d1774c19fd",
+      "english": "<span data-i18n-slot=\"0\">Trading without checking the calendar:</span><span data-i18n-slot=\"1\"> A normal technical setup can behave differently when major data is seconds away.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Operar sin consultar el calendario:</span><span data-i18n-slot=\"1\"> una configuración técnica normal puede comportarse de otra manera cuando faltan segundos para un dato importante.</span>"
+    }
+  ]
+}

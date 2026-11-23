@@ -2,16 +2,13 @@
   <div class="disclaimer-cards-grid">
     <div class="disclaimer-card">
       <div class="disclaimer-card-flag-corner">
-        <img src="assets/images/flags/marutius.webp" alt="Mauritius Flag" />
+        <img src="assets/images/flags/marutius.webp" [attr.alt]="'Mauritius Flag' | localize" />
       </div>
       <div class="disclaimer-card-content">
-        <strong>Mauritius</strong>
-        UP Global Markets Ltd – Licensed by the Financial Services Commission
-        (FSC) Mauritius as an Investment Dealer (Full Service Dealer, Excluding
-        Underwriting) under License No. GB25204570. <br />
+        <strong>{{ 'Mauritius' | localize }}</strong>
+         {{ 'UP Global Markets Ltd – Licensed by the Financial Services Commission (FSC) Mauritius as an Investment Dealer (Full Service Dealer, Excluding Underwriting) under License No. GB25204570.' | localize }} <br />
 
-        Address : 4th Floor, Docks 4, The Docks, Caudan, Port Louis, Mauritius
-      </div>
+         {{ 'Address : 4th Floor, Docks 4, The Docks, Caudan, Port Louis, Mauritius' | localize }} </div>
     </div>
 
 
@@ -19,11 +16,11 @@
   <div class="disclaimer-cards-grid">
     <div class="disclaimer-card">
       <div class="disclaimer-card-flag-corner">
-        <img src="assets/images/flags/Untitle.png" style="height: 82px !important;" alt="United Arab Emirates Flag" />
+        <img src="assets/images/flags/Untitle.png" style="height: 82px !important;" [attr.alt]="'United Arab Emirates Flag' | localize" />
       </div>
       <div class="disclaimer-card-content">
-        <strong>United Arab Emirates (Affiliated Partner)</strong>
-       UPFOREX Financial Services LLC is licensed and regulated by the UAE Capital Market Authority (CMA) under Category 5 – Arrangement & Advice, holding License No. 20200000350.<br />
+        <strong>{{ 'United Arab Emirates (Affiliated Partner)' | localize }}</strong>
+        {{ 'UPFOREX Financial Services LLC is licensed and regulated by the UAE Capital Market Authority (CMA) under Category 5 – Arrangement & Advice, holding License No. 20200000350.' | localize }}<br />
       </div>
     </div>
 
@@ -48,46 +45,21 @@
 <div class="container text-white">
   <div class="row disclaimer tw-p-4 gap-1 !tw-pt-0">
     <div class="col-12 my-1">
-      <h6 class="disclaimer-heading">Disclaimer:</h6>
+      <h6 class="disclaimer-heading">{{ 'Disclaimer:' | localize }}</h6>
       <div class="disclaimer-text tw-text-white-400">
-        <b>Risk statement:</b> An investment in derivatives may mean investors
-        may lose an amount even greater than their original investment. Anyone
-        wishing to invest in any of the products mentioned in
-        <a class="disclaimer-link" href="https://www.upforex.com/"
+        <b>{{ 'Risk statement:' | localize }}</b>  {{ 'An investment in derivatives may mean investors may lose an amount even greater than their original investment. Anyone wishing to invest in any of the products mentioned in' | localize }} <a class="disclaimer-link" href="https://www.upforex.com/"
           >www.upforex.com</a
         >
-        should seek their own financial or professional advice. Trading of
-        securities, forex, stock market, commodities, may
-        not be suitable for everyone and involves the risk of losing part or all
-        of your money. Trading in the financial markets has large potential
-        rewards, but also large potential risk. You must be aware of the risks
-        and be willing to accept them in order to invest in the markets. Don't
-        invest and trade with money which you can't afford to lose. Forex
-        trading is not allowed in some countries. Before investing your money,
-        check whether forex trading is permitted in your country.
-      </div>
+         {{ 'should seek their own financial or professional advice. Trading of securities, forex, stock market, commodities, may not be suitable for everyone and involves the risk of losing part or all of your money. Trading in the financial markets has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the markets. Don\'t invest and trade with money which you can\'t afford to lose. Forex trading is not allowed in some countries. Before investing your money, check whether forex trading is permitted in your country.' | localize }} </div>
     </div>
     <div class="col-12 my-1 tw-text-white-400">
-      You are strongly advised to obtain independent financial, legal and tax
-      advice before proceeding with any currency or spot metals trade. Nothing
-      in this site should be read or construed as constituting advice on the
-      part of UP Global Markets Ltd or any of its affiliates, directors, officers or
-      employees.
-    </div>
+       {{ 'You are strongly advised to obtain independent financial, legal and tax advice before proceeding with any currency or spot metals trade. Nothing in this site should be read or construed as constituting advice on the part of UP Global Markets Ltd or any of its affiliates, directors, officers or employees.' | localize }} </div>
     <div class="col-12 my-1 tw-text-white-400">
-      <b>Restricted Regions:</b> UP Global Markets Ltd  does not
-      provide services for citizens/residents of the United States, India, Cuba, Iraq,
-      Myanmar, North Korea, Sudan, Russia, Iran. The services of UP Global Markets Ltd
-      are not intended for distribution to, or use by, any person in any country
-      or jurisdiction where such distribution or use would be contrary to local
-      law or regulation.
-    </div>
-    <div class="col-12 my-1 tw-text-white-400">OR</div>
+      <b>{{ 'Restricted Regions:' | localize }}</b>  {{ 'UP Global Markets Ltd does not provide services for citizens/residents of the United States, India, Cuba, Iraq, Myanmar, North Korea, Sudan, Russia, Iran. The services of UP Global Markets Ltd are not intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.' | localize }} </div>
+    <div class="col-12 my-1 tw-text-white-400">{{ 'OR' | localize }}</div>
     <div class="col-12 my-1 mb-2 tw-text-white-400">
       <i
-        >Information on this site is not directed at residents in any country or
-        jurisdiction where such distribution or use would be contrary to local
-        law or regulation.</i
+        >{{ 'Information on this site is not directed at residents in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.' | localize }}</i
       >
     </div>
   </div>

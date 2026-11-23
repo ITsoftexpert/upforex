@@ -1,0 +1,407 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t811ba5fb68c0f507",
+      "english": "👉 Start safe, trade smart — only with <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">UpForex</span>.</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "👉 Comece com segurança, negocie com inteligência — somente com <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">UpForex</span>.</span></span>"
+    },
+    {
+      "key": "t2ee8f20f6e1390b7",
+      "english": "<span data-i18n-slot=\"0\">A:</span><span data-i18n-slot=\"1\"> Yes, UpForex is a regulated forex broker, with official licenses granted by authorities in Saint Lucia and Mauritius. Specifically, UpForex Ltd is incorporated in Saint Lucia under registration number 2024‑00700, and its affiliated company in Mauritius—UP Global Markets Ltd—is licensed by the Financial Services Commission (FSC) Mauritius as an Investment Dealer (License No. GB23204579).</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">R:</span><span data-i18n-slot=\"1\"> Sim, UpForex é um corretor de forex regulamentado, com licenças oficiais concedidas pelas autoridades em Santa Lúcia e Maurício. Especificamente, a UpForex Ltd é incorporada em Saint Lucia sob o número de registro 2024‑00700, e sua empresa afiliada em Maurício - UP Global Markets Ltd - é licenciada pela Comissão de Serviços Financeiros (FSC) Maurícia como negociadora de investimentos (License No. GB23204579).</span>"
+    },
+    {
+      "key": "t6363cc014d7155ff",
+      "english": "Blazing-fast order execution with low latency",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "Execução rápida com baixa latência."
+    },
+    {
+      "key": "t9bbc70c4fcc9c1d4",
+      "english": "This system ensures that even if something goes wrong with the broker, your money is untouched and safely retrievable.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "Esse sistema garante que, mesmo se houver algum problema com a corretora, seu dinheiro permaneça intacto e possa ser recuperado com segurança."
+    },
+    {
+      "key": "t089a364c989660f4",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Lightning-Fast Order Execution on MT5</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Execução de ordem rápida no MT5</span></span>"
+    },
+    {
+      "key": "te1fe1964f630b1ac",
+      "english": "Scalping strategies (where milliseconds matter)",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "Estratégias de scalping (onde milissegundos importam)"
+    },
+    {
+      "key": "t044b5b24d76720ca",
+      "english": "Swing trades (where price precision affects entry accuracy)",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "Operações de swing (em que a precisão do preço afeta a precisão da entrada)"
+    },
+    {
+      "key": "t3f1ce8a5a913e655",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Smart Money Features &amp; Institutional-Level Chart Tools</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Características de Dinheiro Inteligente e Ferramentas de Gráfico de Nível Institucional</span></span>"
+    },
+    {
+      "key": "tcc51b834280606f0",
+      "english": "To assist you in selecting the one that best suits your trading objectives, let's evaluate them side by side.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "Para ajudá-lo a selecionar o que melhor se adequa aos seus objetivos comerciais, vamos avaliá-los lado a lado."
+    },
+    {
+      "key": "tb050d7bdb2e19fdd",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">MetaTrader 4 (MT4): What Is It?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">MetaTrader 4 (MT4): o que é?</span></span>"
+    },
+    {
+      "key": "t61defd4b69e359db",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Market Access</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Acesso aos mercados</span></span>"
+    },
+    {
+      "key": "t38c999ae230aa2cc",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Speed and Performance</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Velocidade e desempenho</span></span>"
+    },
+    {
+      "key": "tc5183ca01d57b74e",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Timeframes and Chart Tools</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Prazos e ferramentas de gráficos</span></span>"
+    },
+    {
+      "key": "tcb1dfbcc633cbc7c",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Automated Trading (EAs)</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Negociação automatizada (EA)</span></span>"
+    },
+    {
+      "key": "t926de9bb12a811e3",
+      "english": "Trade multiple assets from one account",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "Troque vários ativos de uma conta."
+    },
+    {
+      "key": "t41d7b1360ad408d2",
+      "english": "Use advanced charting and SMC <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">tools</span></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "Use gráficos avançados e SMC <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Ferramentas.</span></span></span>"
+    },
+    {
+      "key": "t6b1bd1df940c2f6f",
+      "english": "<span data-i18n-slot=\"0\">Trade Smarter with MT5 — Join Now UpForex and Take Control</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negocie de forma mais inteligente com o MT5 — entre agora na UpForex e assuma o controle</span>"
+    },
+    {
+      "key": "t276979c52ba6647b",
+      "english": "Join now UpForex and experience the future of trading — simple, powerful, and trusted.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ],
+      "translation": "Junte-se agora à UpForex e experimente o futuro da negociação: simples, poderosa e confiável."
+    },
+    {
+      "key": "ta80b9ea561ab7f07",
+      "english": "<span data-i18n-slot=\"0\">Trading Features That Support Long-Term Growth</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Características comerciais que apoiam o crescimento a longo prazo</span>"
+    },
+    {
+      "key": "t4be392af298ef7a5",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Smart Charting Tools</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Ferramentas gráficas inteligentes</span></span>"
+    },
+    {
+      "key": "t141f5e89430dfeab",
+      "english": "Multiple chart types (line, bar, candlestick)",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "Vários tipos de gráficos (linha, barras e velas)"
+    },
+    {
+      "key": "ta630f0982033b0bc",
+      "english": "Drawing tools for trendlines, zones, and patterns",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "Ferramentas de desenho para tendências, zonas e padrões"
+    },
+    {
+      "key": "t0ec315b271aa3ea6",
+      "english": "Whether you’re a beginner or an advanced technical analyst, our smart charts keep your strategies sharp.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "Seja você um novato ou um analista técnico avançado, nossos gráficos inteligentes mantêm suas estratégias afiadas."
+    },
+    {
+      "key": "tb7d686ee772c8bde",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. MT5 &amp; WebTrader Support</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Suporte ao MT5 e ao WebTrader</span></span>"
+    },
+    {
+      "key": "tdf8235358a403fdb",
+      "english": "Trailing Stops to ride winning trades while protecting downside",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "Stops móveis para acompanhar operações vencedoras protegendo contra perdas"
+    },
+    {
+      "key": "t505ae53b1981586f",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Free Learning Hub &amp; Trading Signals</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Central de aprendizagem gratuita e sinais de negociação</span></span>"
+    },
+    {
+      "key": "tf4b098a74b005ae1",
+      "english": "<span data-i18n-slot=\"0\">Forex Trading with UpForex = Trading with Confidence</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Forex Negociando com UpForex = Negociando com Confiança</span>"
+    },
+    {
+      "key": "t0677da012573be47",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. A Forex Broker with Fund Protection</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Uma corretora de forex com proteção de fundos</span></span>"
+    },
+    {
+      "key": "t12387b25b9c6e279",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Forex Trading with Instant Withdrawals</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Negociação de forex com saques instantâneos</span></span>"
+    },
+    {
+      "key": "t02f488692e6a75e7",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Advanced Trading Tools and Tight Spreads</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Ferramentas avançadas de negociação e espalhamentos apertados</span></span>"
+    },
+    {
+      "key": "tf9276d14fbdc7f10",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">UpForex Is Where Secure Trading Begins</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">UpForex é onde a negociação segura começa</span></span>"
+    },
+    {
+      "key": "t162f7cec08f6a416",
+      "english": "<span data-i18n-slot=\"0\">🚀 Join the most secure forex trading community today.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Junte-se à comunidade comercial mais segura hoje.</span>"
+    },
+    {
+      "key": "t28e432941e012fb0",
+      "english": "<span data-i18n-slot=\"0\">FAQs - Forex Trading </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Perguntas frequentes – negociação de forex</span>"
+    },
+    {
+      "key": "t298bb01dac361909",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Economic Diversification:</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Diversificação econômica:</span></span>"
+    },
+    {
+      "key": "t7ce3622e108ff9c0",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Youth Participation and Financial Inclusion: </span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Participação dos jovens e inclusão financeira:</span></span>"
+    },
+    {
+      "key": "t73b03eb54504c9ad",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Islamic Finance-Friendly Models:</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Modelos compatíveis com as finanças islâmicas:</span></span>"
+    },
+    {
+      "key": "t18e62363851da9c9",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">FAQs - Forex Trading</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Perguntas frequentes – negociação de forex</span></span>"
+    },
+    {
+      "key": "t7634542c7f944ea2",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Q: Can Indians do forex trading in Dubai?</span></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">P: Indianos podem negociar forex em Dubai?</span></span></span>"
+    },
+    {
+      "key": "tbd321ad3709edae3",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q: Does Saudi Arabia allow forex trading?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">P: A Arábia Saudita permite negociar forex?</span></span>"
+    },
+    {
+      "key": "t8bb53cbcdeb49e36",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">A: </span>The best Forex trading hours in Saudi Arabia are during the London and New York market sessions, which overlap between 3 PM and 8 PM KSA time (GMT+3). This is when liquidity and volatility are at their peak, especially for major currency pairs like <span data-i18n-slot=\"2\">EUR/USD</span>, <span data-i18n-slot=\"3\">GBP/USD</span>, and <span data-i18n-slot=\"4\">USD/JPY</span>. Many traders in the region also monitor oil-related news, as it directly affects local economies and currency performance.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">R: </span>Os melhores horários para negociar forex na Arábia Saudita são as sessões de Londres e Nova York, que se sobrepõem entre as 3 da tarde e as 8 da noite no horário saudita (GMT+3). Nesse período, a liquidez e a volatilidade atingem o pico, especialmente em pares principais como <span data-i18n-slot=\"2\">EUR/USD</span>, <span data-i18n-slot=\"3\">GBP/USD</span> e <span data-i18n-slot=\"4\">USD/JPY</span>. Muitos traders da região também acompanham notícias sobre petróleo, pois elas afetam diretamente as economias locais e o desempenho das moedas.</span>"
+    }
+  ]
+}

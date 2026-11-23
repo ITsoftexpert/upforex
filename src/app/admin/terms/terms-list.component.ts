@@ -3,6 +3,7 @@ import { TermsService, TermsData } from '../../core/services/terms.service';
 import { Router } from '@angular/router';
 
 @Component({
+  standalone: false,
   selector: 'app-terms-list',
   templateUrl: './terms-list.component.html',
   styleUrls: ['./terms-list.component.scss']

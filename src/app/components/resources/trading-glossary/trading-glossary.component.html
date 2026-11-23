@@ -2,20 +2,19 @@
   <h1
     class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-bold md:tw-my-4 !tw-mb-8"
   >
-    Trading Glossary
-</h1>
+     {{ 'Trading Glossary' | localize }} </h1>
   <div class="table-responsive">
     <table class="table table-dark table-hover">
       <thead>
         <tr>
-          <th class="tw-text-themePrimary">Term</th>
-          <th class="tw-text-themePrimary">Definition</th>
+          <th class="tw-text-themePrimary">{{ 'Term' | localize }}</th>
+          <th class="tw-text-themePrimary">{{ 'Definition' | localize }}</th>
         </tr>
       </thead>
       <tbody>
         <tr *ngFor="let item of forexTerms">
-          <td>{{ item.term }}</td>
-          <td>{{ item.description }}</td>
+          <td>{{ (item.term) | localize }}</td>
+          <td>{{ (item.description) | localize }}</td>
         </tr>
       </tbody>
     </table>

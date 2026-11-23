@@ -3,6 +3,7 @@ import { trustedChoiceCardData } from './constant';
 import * as AOS from 'aos';
 import { Store } from 'src/app/Store/store';
 @Component({
+  standalone: false,
   selector: 'app-about-us',
   templateUrl: './about-us.component.html',
   styleUrls: ['./about-us.component.scss'],

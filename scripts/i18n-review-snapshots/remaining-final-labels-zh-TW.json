@@ -1,0 +1,36 @@
+{
+  "language": "zh-TW",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t9865b5090aebc065",
+      "english": "title",
+      "kind": "text",
+      "sources": [
+        "src/app/components/blogs/blogs.component.ts#name"
+      ],
+      "translation": "標題"
+    },
+    {
+      "key": "t103594319510dd0b",
+      "english": "Level up your trading with the UPFOREX blog. Get expert market analysis, forex strategies, MT5 guides, and insights on indices, commodities, and crypto.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/components-routing.module.ts#description",
+        "SSR:/blogs"
+      ],
+      "translation": "透過 UPFOREX 部落格提升您的交易水準。取得專家的市場分析、外匯策略、MT5 指南，以及指數、大宗商品與加密貨幣的深入解析。"
+    },
+    {
+      "key": "t5feaf830b4cbafae",
+      "english": "forex blog, trading tips, market analysis",
+      "kind": "text",
+      "sources": [
+        "src/app/components/components-routing.module.ts#keywords",
+        "SSR:/blogs"
+      ],
+      "translation": "外匯部落格, 交易技巧, 市場分析"
+    }
+  ]
+}

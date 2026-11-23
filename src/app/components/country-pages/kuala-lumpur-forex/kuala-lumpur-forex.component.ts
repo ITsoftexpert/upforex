@@ -1,8 +1,10 @@
+import { NativeTranslationService } from 'src/app/core/services/native-translation.service';
 import { Component, OnInit } from '@angular/core';
 import { Meta, Title } from '@angular/platform-browser';
 import { Store } from 'src/app/Store/store';
 
 @Component({
+  standalone: false,
   selector: 'app-kuala-lumpur-forex',
   templateUrl: './kuala-lumpur-forex.component.html',
   styleUrls: ['./kuala-lumpur-forex.component.scss'],
@@ -166,6 +168,7 @@ export class KualaLumpurForexComponent implements OnInit {
   ];
 
   constructor(
+    private native: NativeTranslationService,
     private store: Store,
     private titleService: Title,
     private metaService: Meta
@@ -174,18 +177,18 @@ export class KualaLumpurForexComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.titleService.setTitle('Forex Trading in Kuala Lumpur | UPFOREX MT5');
+    this.titleService.setTitle(this.native.translate('Forex Trading in Kuala Lumpur | UPFOREX MT5'));
 
     this.metaService.updateTag({
       name: 'description',
       content:
-        'Review online forex and CFD trading in Kuala Lumpur through MT5. Compare UPFOREX accounts, markets, deposits, spreads, commissions, and platform tools.',
+        this.native.translate('Review online forex and CFD trading in Kuala Lumpur through MT5. Compare UPFOREX accounts, markets, deposits, spreads, commissions, and platform tools.'),
     });
 
     this.metaService.updateTag({
       name: 'keywords',
       content:
-        'forex trading Kuala Lumpur, forex trading Malaysia, MetaTrader 5 Kuala Lumpur, UPFOREX Malaysia, forex account types Malaysia',
+        this.native.translate('forex trading Kuala Lumpur, forex trading Malaysia, MetaTrader 5 Kuala Lumpur, UPFOREX Malaysia, forex account types Malaysia'),
     });
   }
 }

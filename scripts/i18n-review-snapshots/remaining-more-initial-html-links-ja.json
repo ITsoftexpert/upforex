@@ -1,0 +1,57 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "ta572b45226f91796",
+      "english": "<span data-i18n-slot=\"0\">Traders interested in</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">gold and precious metals trading</span></span><span data-i18n-slot=\"4\"> should check the current XAUUSD symbol specification and live price in MT5 before calculating the exact exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">金および貴金属の取引</span></span><span data-i18n-slot=\"4\">に関心のあるトレーダーは、正確なエクスポージャを計算する前に、MT5 で現在の XAUUSD 銘柄仕様とリアルタイム価格を確認する必要があります。</span>"
+    },
+    {
+      "key": "ta077c02a628a2a38",
+      "english": "<span data-i18n-slot=\"0\">Traders monitoring currencies alongside</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">energy CFDs like oil</span></span><span data-i18n-slot=\"4\"> should distinguish a historical economic relationship from a guaranteed short-term price response.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">原油などのエネルギー CFD</span></span><span data-i18n-slot=\"4\">と並行して通貨を監視するトレーダーは、歴史的な経済関係と、保証された短期的な価格反応を区別する必要があります。</span>"
+    },
+    {
+      "key": "t7825e234e26b53cc",
+      "english": "<span data-i18n-slot=\"0\">You can apply the same process when reviewing</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Forex CFD trading on UPFOREX</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UPFOREX での外国為替 CFD 取引</span></span><span data-i18n-slot=\"4\">を検討する際にも、同じ手順を適用できます。</span>"
+    },
+    {
+      "key": "t928454acb45bd32a",
+      "english": "<span data-i18n-slot=\"0\">For readers researching</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading in the UAE</span></span><span data-i18n-slot=\"4\">, UPFOREX also provides clear entity and regulatory information. </span><span data-i18n-slot=\"5\">UP Global Markets Ltd</span><span data-i18n-slot=\"6\"> is licensed by the Mauritius Financial Services Commission as an Investment Dealer (Full Service Dealer, Excluding Underwriting), Licence No. </span><span data-i18n-slot=\"7\">GB25204570</span><span data-i18n-slot=\"8\">. </span><span data-i18n-slot=\"9\">UPFOREX Financial Consultation LLC</span><span data-i18n-slot=\"10\"> is licensed and regulated by the UAE Securities and Commodities Authority under Category 5 – Arrangement &amp; Advice, Licence No. </span><span data-i18n-slot=\"11\">20200000350</span><span data-i18n-slot=\"12\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UAE での外国為替取引</span></span><span data-i18n-slot=\"4\">を調べている読者に向けて、UPFOREX は法人と規制に関する明確な情報も提供しています。</span><span data-i18n-slot=\"5\">UP Global Markets Ltd</span><span data-i18n-slot=\"6\"> は、モーリシャス金融サービス委員会から投資ディーラー（引受業務を除くフルサービスディーラー）としてライセンスを取得しています。ライセンス番号は </span><span data-i18n-slot=\"7\">GB25204570</span><span data-i18n-slot=\"8\"> です。</span><span data-i18n-slot=\"9\">UPFOREX Financial Consultation LLC</span><span data-i18n-slot=\"10\"> は、UAE 証券商品庁によりカテゴリー 5 – アレンジメントおよびアドバイスの下で認可・規制されています。ライセンス番号は </span><span data-i18n-slot=\"11\">20200000350</span><span data-i18n-slot=\"12\"> です。</span>"
+    },
+    {
+      "key": "t499f0627cb5850c9",
+      "english": "<span data-i18n-slot=\"0\">UpForex publishes</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex and CFD trading</span></span><span data-i18n-slot=\"4\"> information across its confirmed product range: Forex, Stock CFDs, Precious Metals, Index CFDs, Energy CFDs, and Crypto CFDs, all through MT5. Availability and terms can change, so IBs should verify current information before presenting it.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex は、</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">外国為替および CFD 取引</span></span><span data-i18n-slot=\"4\">に関する情報を、確認済みの商品群である外国為替、株式 CFD、貴金属、指数 CFD、エネルギー CFD、暗号資産 CFD にわたって公開しており、すべて MT5 を通じて取引されます。利用可能な商品と条件は変更される場合があるため、IB は情報を提示する前に最新の内容を確認する必要があります。</span>"
+    }
+  ]
+}

@@ -3,6 +3,7 @@ import { whoCanJoin, whyJoin } from './constant';
 import { Store } from 'src/app/Store/store';
 import { Router } from '@angular/router';
 @Component({
+  standalone: false,
   selector: 'app-institutional-service',
   templateUrl: './institutional-service.component.html',
   styleUrls: ['./institutional-service.component.scss'],

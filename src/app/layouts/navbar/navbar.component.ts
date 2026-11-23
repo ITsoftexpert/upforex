@@ -8,6 +8,7 @@ import {
 import { HybridTranslationService } from 'src/app/core/services/hybrid-translation.service';
 
 @Component({
+  standalone: false,
   selector: 'app-navbar',
   templateUrl: './navbar.component.html',
   styleUrls: ['./navbar.component.scss'],
@@ -231,7 +232,7 @@ export class NavbarComponent implements OnInit {
 
       if (langCode === 'en') {
         // Reset to English: reload without new cookie
-        location.reload();
+        location.assign(this.languageService.getLanguageUrl(langCode));
         return;
       }
 
@@ -242,7 +243,7 @@ export class NavbarComponent implements OnInit {
 
       // Hide page briefly to prevent content flash while GT runs, then reload
       document.documentElement.style.visibility = 'hidden';
-      location.reload();
+      location.assign(this.languageService.getLanguageUrl(langCode));
     } catch (e) {
       // If any error (SSR or strict CSP), just ignore and proceed with Angular-only change
       console.warn(

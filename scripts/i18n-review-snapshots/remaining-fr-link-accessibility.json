@@ -1,0 +1,17 @@
+{
+  "language": "fr",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t3c2f9a8bdaa54a15",
+      "english": "<span data-i18n-slot=\"0\">The forex market is evolving. Traders demand instant access, lightning-fast execution, and fair pricing models. UpForex is built to meet and exceed these demands. By combining zero commission forex trading with a Best </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">forex trading</span></span></span><span data-i18n-slot=\"4\"> platform, we’ve created an ecosystem where traders can thrive without the limitations of outdated broker models.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Le marché des changes évolue. Les traders exigent un accès instantané, une exécution ultra-rapide et des modèles de tarification équitables. UpForex est conçu pour répondre à ces exigences et les dépasser. En combinant le trading forex sans commission avec la meilleure plateforme de </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">trading forex</span></span></span><span data-i18n-slot=\"4\">, nous avons créé un écosystème où les traders peuvent prospérer sans les limites des modèles de courtiers obsolètes.</span>"
+    }
+  ]
+}

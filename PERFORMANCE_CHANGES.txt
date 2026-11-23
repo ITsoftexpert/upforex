@@ -1,0 +1,47 @@
+LOCAL SPEED OPTIMIZATION - merged-upforex
+Updated: 2026-11-21T12:24:05.350Z
+
+RESULT (LOCAL LAB, NOT A NEW LIVE PAGESPEED SCORE)
+3 cold-cache samples each; Chrome 390x844, 4x CPU slowdown, 150 ms latency, 1.6 Mbps download, same machine.
+Median homepage LCP: 3.86s -> 2.88s.
+Median bytes received during the 25-second sample: 3.88 MB -> 1.87 MB.
+Median CLS: 0.08939782245964739 -> 0.08939782245964739.
+The live Cloudflare HTML already used Brotli. These local origin results do not predict the exact live score.
+
+CHANGES
+- Use existing equivalent WOFF2 font with TTF fallback
+- Use locally optimized original logo, Arabic hero and app badge
+- Discover the English hero from the same origin with high priority
+- Consolidate explicit gtag.js loaders, retaining both Analytics IDs and GTM
+- Load chat after initial rendering or interaction, with 5-second fallback
+- Load decorative MP4/WebM only near viewport; pause offscreen; clean up on navigation
+- Remove unsupported MP4-as-CSS-image requests
+- Precompress static assets at build time; Brotli/Gzip anonymous public HTML; preserve cache/security/private/range behavior
+- Suppress redundant Google Translate on ready native English/source pages so a saved language cannot translate the English URL again; failed or incomplete pages are not marked ready
+
+MEDIA ALREADY APPLIED
+- assets/images/optimized/logo-1.7dc03e491ef77d53.webp: 68100 -> 21276 bytes.
+- assets/images/optimized/home-banner-ar.37150fc69f4015a4.webp: 513683 -> 56440 bytes.
+- assets/images/optimized/desktop-app.53edc2d6523b76bf.webp: 481904 -> 8896 bytes.
+Montserrat: 688600-byte TTF -> existing 205432-byte WOFF2. Browser-measured text widths are identical.
+Arabic image retains the original artwork; high-quality WebP PSNR 41.41 dB. Original source file retained.
+
+PRESERVATION
+All changed templates retain exact visible English text/interpolation bindings; public page routes, CTAs and metadata remain unchanged.
+1221 native catalog files are unchanged. Both strict initial-HTML gates must pass before release; see LOCAL_RELEASE_STATUS.txt.
+62/68 main stylesheets are byte-identical. Five remove only MP4 background-image declarations; one changes only font source preference.
+Before/after screenshots: tmp/performance/before-2.png and tmp/performance/after-final-2.png.
+
+COMMANDS
+npm.cmd run build:ssr                 Builds Angular browser/server, sitemap, and .br/.gz static sidecars.
+npm.cmd run test:performance          Checks decoded bytes, MIME, encodings, cache, security, ranges, HEAD, ETag and private HTML.
+npm.cmd run test:i18n                 Checks translations, routes, SEO and release-pipeline regressions.
+npm.cmd run verify:seo -- --require-complete
+npm.cmd run verify:ssr-i18n -- --require-complete
+npm.cmd run serve:ssr                 Starts the already built Node SSR app (normally port 4000).
+No new runtime dependency, paid API, card, push, live deployment or remote S3/CDN/GTM write.
+
+STILL NEEDED FROM OWNER
+Read MEDIA_OPTIMIZATION_REQUESTS.txt and tmp/performance/media-inventory.csv.
+The two video binaries and 43 large external images are not replaced by this local frontend change.
+After deployment, retest mobile PageSpeed and real-user Core Web Vitals with the production host/CDN.

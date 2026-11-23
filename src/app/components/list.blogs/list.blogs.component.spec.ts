@@ -3,6 +3,7 @@ import { ListBlogsComponent } from './list.blogs.component';
 import { WebBlogService } from 'src/app/core/services/web-blog.service';
 import { Store } from 'src/app/Store/store';
 import { of } from 'rxjs';
+import { PUBLIC_BLOG_GUIDES } from 'src/app/core/config/public-blog-guides';
 
 describe('ListBlogsComponent', () => {
   let component: ListBlogsComponent;
@@ -53,6 +54,11 @@ describe('ListBlogsComponent', () => {
       )
     ).toBeTrue();
   });
+  it('exposes every published build-time article without an additional API request', () => {
+    const slugs = new Set(component.featuredGuides.map(guide=>guide.slug));
+    for (const guide of PUBLIC_BLOG_GUIDES) expect(slugs.has(guide.slug)).toBeTrue();
+    expect(blogService.getAllBlogs).toHaveBeenCalledTimes(1);
+  });
 
   it('should load more using the API page count and stop at the last page', () => {
     blogService.getAllBlogs.calls.reset();
@@ -84,5 +90,19 @@ describe('ListBlogsComponent', () => {
 
     component.loadMore();
     expect(blogService.getAllBlogs).toHaveBeenCalledTimes(1);
+  });
+});
+
+describe('Blog listing upstream failure', () => {
+  it('stops the spinner, preserves loaded cards and sends an SSR 503 on upstream errors', () => {
+    const response = { status: jasmine.createSpy('status') };
+    const service = { getAllBlogs: () => ({ subscribe: (observer: any) => observer.error({status: 503}) }) };
+    const store = { s3BaseUrl: () => '' };
+    const component = new ListBlogsComponent(service as any, store as any, response);
+    component.articles = [{title: 'Already loaded article'}];
+    component.getAllBlogs();
+    expect(component.isLoading).toBeFalse();
+    expect(component.articles.length).toBe(1);
+    expect(response.status).toHaveBeenCalledWith(503);
   });
 });

@@ -1,0 +1,9 @@
+{
+  "ar": {
+    "t0ac271ac38de7078": {
+      "english": ": Standard, Pro-ECN and Elite-ECN. Each is listed in USD with floating spreads, a minimum trade size of 0.01 lots and maximum leverage up to 1:300.",
+      "translation": ": Standard وPro-ECN وElite-ECN. يُعرض كل حساب بعملة USD مع فروق أسعار متغيرة، وحد أدنى لحجم التداول قدره 0.01 lots، ورافعة مالية قصوى تصل إلى 1:300.",
+      "reason": "Preserve exact account names, 0.01 lot minimum and 1:300 maximum; reject provider output that introduced an extra number."
+    }
+  }
+}

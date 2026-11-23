@@ -4,6 +4,7 @@ import { Store } from 'src/app/Store/store';
 import { Router } from '@angular/router';
 
 @Component({
+  standalone: false,
   selector: 'app-money-managers',
   templateUrl: './money-managers.component.html',
   styleUrls: ['./money-managers.component.scss'],

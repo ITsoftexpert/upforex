@@ -1,0 +1,617 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "ta20a322b29b6c4c7",
+      "english": "<span data-i18n-slot=\"0\">Size is chosen without margin awareness</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在不了解保证金的情况下选择持仓规模</span>"
+    },
+    {
+      "key": "t0fcea632b1e98300",
+      "english": "<span data-i18n-slot=\"0\">Calculate loss and total exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">计算损失和总风险</span>"
+    },
+    {
+      "key": "t58a4ccc09b34d92a",
+      "english": "<span data-i18n-slot=\"0\">No stop-loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">无止损</span>"
+    },
+    {
+      "key": "t980c3520a0ff7c9e",
+      "english": "<span data-i18n-slot=\"0\">Set invalidation before entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">进入前设置失效</span>"
+    },
+    {
+      "key": "t0b2c9ca044625902",
+      "english": "<span data-i18n-slot=\"0\">Losses are chased immediately</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">亏损后立即急于回本</span>"
+    },
+    {
+      "key": "t85ece72a1eeb4108",
+      "english": "<span data-i18n-slot=\"0\">Attention stays on price movement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">关注价格变动</span>"
+    },
+    {
+      "key": "t252fe911dbd66c55",
+      "english": "<span data-i18n-slot=\"0\">Using essential money</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">使用必要的资金</span>"
+    },
+    {
+      "key": "te2091fd61d61cec2",
+      "english": "<span data-i18n-slot=\"0\">Promotions replace proper comparison</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">促销取代适当的比较</span>"
+    },
+    {
+      "key": "t64f9a737bc7e4247",
+      "english": "<span data-i18n-slot=\"0\">Use checklists and predefined decisions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">使用清单和预定义的决策</span>"
+    },
+    {
+      "key": "tf879de45b84b3e3d",
+      "english": "<span data-i18n-slot=\"0\">No journal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">没有日记</span>"
+    },
+    {
+      "key": "t2973ebb8570fd6f6",
+      "english": "<span data-i18n-slot=\"0\">Mistakes are remembered inaccurately</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">错误记忆不准确</span>"
+    },
+    {
+      "key": "td900590c39f58648",
+      "english": "<span data-i18n-slot=\"0\">Record and review each trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">记录并审核每笔交易</span>"
+    },
+    {
+      "key": "tc73ea82409ede3ac",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">FAQs</span><span data-i18n-slot=\"2\"> </span></span><span data-i18n-slot=\"3\">What is the biggest mistake new forex traders make?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">常见问题解答</span><span data-i18n-slot=\"2\"> </span></span><span data-i18n-slot=\"3\">外汇交易新手犯的最大错误是什么？</span>"
+    },
+    {
+      "key": "teef59d6b69b3f577",
+      "english": "<span data-i18n-slot=\"0\">Is it normal to lose money as a beginner forex trader?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">作为外汇交易新手，亏损正常吗？</span>"
+    },
+    {
+      "key": "t532929ef5e1556d5",
+      "english": "<span data-i18n-slot=\"0\">How much should a beginner risk per trade?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初学者每笔交易应承担多少风险？</span>"
+    },
+    {
+      "key": "t9988c4ff00ddbcdb",
+      "english": "<span data-i18n-slot=\"0\">Yes. A demo helps beginners learn the platform, test orders, and practise a strategy without risking real funds. It cannot fully reproduce live emotions, slippage, or every cost, so demo experience is preparation rather than proof of future performance.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">是的。演示可以帮助初学者学习平台、测试订单并练习策略，而无需冒真实资金的风险。它无法完全再现现场情绪、滑点或每项成本，因此演示体验只是准备，而不是未来表现的证明。</span>"
+    },
+    {
+      "key": "t6da98b59e1215ffb",
+      "english": "<span data-i18n-slot=\"0\">Can choosing the wrong broker cause losses?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">选择错误的经纪商会造成损失吗？</span>"
+    },
+    {
+      "key": "t7ae5835017245de8",
+      "english": "<span data-i18n-slot=\"0\">An Expert Advisor runs inside the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">MT5 platform</span></span><span data-i18n-slot=\"4\">. It may identify sedes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">EA 交易在</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">MT5 平台</span></span><span data-i18n-slot=\"4\">内运行。它可以识别 sedes。</span>"
+    },
+    {
+      "key": "t48acb7271d0466c7",
+      "english": "<span data-i18n-slot=\"0\">Pending order types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">挂单类型</span>"
+    },
+    {
+      "key": "t2f04592296a2010e",
+      "english": "<span data-i18n-slot=\"0\">Backtesting engine</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">回测引擎</span>"
+    },
+    {
+      "key": "t5d96f7d680d346b6",
+      "english": "<span data-i18n-slot=\"0\">Primarily single-symbol and single-threaded</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要是单符号和单线程</span>"
+    },
+    {
+      "key": "t1634cc960b53d8aa",
+      "english": "<span data-i18n-slot=\"0\">Multi-currency, multi-threaded, and real-tick testing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多币种、多线程及真实逐笔报价测试</span>"
+    },
+    {
+      "key": "t933977c1d272b03f",
+      "english": "<span data-i18n-slot=\"0\">Local single-thread testing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">本地单线程测试</span>"
+    },
+    {
+      "key": "t5e1832aa31f8a5e6",
+      "english": "<span data-i18n-slot=\"0\">Suitable for many traditional forex EAs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">适用于许多传统外汇 EA</span>"
+    },
+    {
+      "key": "t01a811e8a682f63e",
+      "english": "<span data-i18n-slot=\"0\">Live execution speed</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实时执行速度</span>"
+    },
+    {
+      "key": "t635dea229a390a94",
+      "english": "<span data-i18n-slot=\"0\">How to Install an Expert Advisor on MT5 Step by Step</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何在 MT5 上逐步安装 EA 交易</span>"
+    },
+    {
+      "key": "t1e3bec33025f2cbd",
+      "english": "<span data-i18n-slot=\"0\">Review:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">检查：</span>"
+    },
+    {
+      "key": "t45c3381d3f20497f",
+      "english": "<span data-i18n-slot=\"0\">Fixed lot size or percentage risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">固定手数或风险百分比</span>"
+    },
+    {
+      "key": "t555e33af87d736bd",
+      "english": "<span data-i18n-slot=\"0\">Stop-loss and take-profit rules</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损和止盈规则</span>"
+    },
+    {
+      "key": "ted19250ff1d116ff",
+      "english": "<span data-i18n-slot=\"0\">Maximum spread and trading hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最大点差和交易时间</span>"
+    },
+    {
+      "key": "tda55a36cb7d52366",
+      "english": "<span data-i18n-slot=\"0\">Maximum simultaneous positions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最大同时持仓</span>"
+    },
+    {
+      "key": "t017fe18524225ca9",
+      "english": "<span data-i18n-slot=\"0\">Next,</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">open a demo account</span></span><span data-i18n-slot=\"4\"> and observe the EA under live price movement. Demo execution may still differ from live conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">接下来，</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">开设模拟账户</span></span><span data-i18n-slot=\"4\">并观察 EA 的实时价格走势。演示执行可能仍与实际情况有所不同。</span>"
+    },
+    {
+      "key": "tda0bb1282aac2fe4",
+      "english": "<span data-i18n-slot=\"0\">Manual vs Automated Trading Workflow</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手动与自动交易工作流程</span>"
+    },
+    {
+      "key": "t98cf3881cdf8d7c3",
+      "english": "<span data-i18n-slot=\"0\">Trader watches the chart</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易者观察图表</span>"
+    },
+    {
+      "key": "t7b02023a8e08799e",
+      "english": "<span data-i18n-slot=\"0\">EA monitors programmed conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">EA 监控编程条件</span>"
+    },
+    {
+      "key": "t48eb2e417a2a7fe5",
+      "english": "<span data-i18n-slot=\"0\">Trader enters and exits manually</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易者手动进入和退出</span>"
+    },
+    {
+      "key": "ta2c15155970f8bd3",
+      "english": "<span data-i18n-slot=\"0\">Trader applies SL and TP by hand</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易者手动应用止损和止盈</span>"
+    },
+    {
+      "key": "t14b4be5eddf4be38",
+      "english": "<span data-i18n-slot=\"0\">EA can place predefined SL and TP</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">EA可以设置预定义的止损和止盈</span>"
+    },
+    {
+      "key": "td2e81902b04861d6",
+      "english": "<span data-i18n-slot=\"0\">Starting on a live account:</span><span data-i18n-slot=\"1\"> Complete historical and demo testing first.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">从真实账户开始：</span><span data-i18n-slot=\"1\">首先完成历史和演示测试。</span>"
+    },
+    {
+      "key": "t8c625d84b472d31e",
+      "english": "<span data-i18n-slot=\"0\">Using excessive lot sizes:</span><span data-i18n-slot=\"1\"> Keep risk within a defined limit.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">使用过多的手数：</span><span data-i18n-slot=\"1\">将风险控制在规定的限度内。</span>"
+    },
+    {
+      "key": "t5303d3d0ad079bc2",
+      "english": "<span data-i18n-slot=\"0\">Spreads, commissions, and trade-size limits</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差、佣金和交易规模限制</span>"
+    },
+    {
+      "key": "tf1351257c33638ff",
+      "english": "<span data-i18n-slot=\"0\">Stop-out and margin requirements</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">强制平仓和保证金要求</span>"
+    },
+    {
+      "key": "t8608a8c671348c08",
+      "english": "<span data-i18n-slot=\"0\">A scalping EA may behave differently when spreads widen. Compare its requirements with published terms instead of choosing only by the MT5 logo.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">当点差扩大时，剥头皮 EA 的行为可能会有所不同。将其要求与已发布的条款进行比较，而不是仅通过 MT5 徽标进行选择。</span>"
+    },
+    {
+      "key": "te103c5d35430493b",
+      "english": "<span data-i18n-slot=\"0\">UpForex’s forex and CFD page states that its platform supports Expert Advisors for automated strategies. Readers can review</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">brokers that support Expert Advisors for automated trading</span></span><span data-i18n-slot=\"4\"> and use the</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">best forex broker for MetaTrader 5</span></span><span data-i18n-slot=\"8\"> guide as a broker-selection checklist.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex 的外汇和差价合约页面指出，其平台支持自动化策略的 EA 交易。读者可以查看</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">支持智能交易自动交易的经纪商</span></span><span data-i18n-slot=\"4\">，并使用</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">最佳外汇经纪商MetaTrader 5</span></span><span data-i18n-slot=\"8\">指南作为经纪商选择清单。</span>"
+    },
+    {
+      "key": "tc9c8a2f8aae55fec",
+      "english": "<span data-i18n-slot=\"0\">What is an Expert Advisor in MT5?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">MT5 中的 EA 交易是什么？</span>"
+    },
+    {
+      "key": "t0cfc0e39d7493535",
+      "english": "<span data-i18n-slot=\"0\">An Expert Advisor is an MQL5 application that runs inside MetaTrader 5. It can analyse market conditions, generate alerts, manage positions, or execute trades according to programmed rules. An EA follows its code; it does not understand events or make human judgements beyond those instructions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">EA 交易是一个在 MetaTrader 5 内运行的 MQL5 应用程序。它可以分析市场状况、生成警报、管理头寸或根据编程规则执行交易。 EA 遵循其代码；它无法理解事件或做出超出这些指令的人类判断。</span>"
+    },
+    {
+      "key": "t86a9f08ae7ec9a16",
+      "english": "<span data-i18n-slot=\"0\">Is it safe to use EAs as a beginner?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初学者使用 EA 安全吗？</span>"
+    },
+    {
+      "key": "t97778a7c6db71858",
+      "english": "<span data-i18n-slot=\"0\">Beginners can first review</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">a complete beginner’s guide to forex trading</span></span><span data-i18n-slot=\"4\"> before applying technical-analysis signals to live markets.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初学者可以先查看</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">完整的外汇交易初学者指南</span></span><span data-i18n-slot=\"4\">，然后再将技术分析信号应用于实时市场。</span>"
+    },
+    {
+      "key": "t77db7d8eefe19c1c",
+      "english": "<span data-i18n-slot=\"0\">What Is a Candlestick Pattern?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是烛台形态？</span>"
+    },
+    {
+      "key": "t96dd7b10d011625e",
+      "english": "<span data-i18n-slot=\"0\">Open:</span><span data-i18n-slot=\"1\"> The starting price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">开盘价：</span><span data-i18n-slot=\"1\">起始价</span>"
+    },
+    {
+      "key": "t271be859e2fa53d3",
+      "english": "<span data-i18n-slot=\"0\">Close:</span><span data-i18n-slot=\"1\"> The ending price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">收盘价：</span><span data-i18n-slot=\"1\">结束价格</span>"
+    },
+    {
+      "key": "tc123e4e6daa4dcfa",
+      "english": "<span data-i18n-slot=\"0\">The thick section is the </span><span data-i18n-slot=\"1\">body</span><span data-i18n-slot=\"2\">. The thin lines above and below it are </span><span data-i18n-slot=\"3\">wicks</span><span data-i18n-slot=\"4\"> or </span><span data-i18n-slot=\"5\">shadows</span><span data-i18n-slot=\"6\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">粗的部分称为</span><span data-i18n-slot=\"1\">实体</span><span data-i18n-slot=\"2\">。其上方和下方的细线是</span><span data-i18n-slot=\"3\">烛芯</span><span data-i18n-slot=\"4\">，也称为</span><span data-i18n-slot=\"5\">影线</span><span data-i18n-slot=\"6\">。</span>"
+    },
+    {
+      "key": "t91d06e7747efa23f",
+      "english": "<span data-i18n-slot=\"0\">A bullish candle closes above its opening price and is commonly green or white. A bearish candle closes below its opening price and is commonly red or black. Colours vary by platform, so the relationship between the open, close, body, and wicks matters more than colour.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">阳线的收盘价高于开盘价，通常为绿色或白色。阴线的收盘价低于开盘价，通常为红色或黑色。颜色因平台而异，因此开盘价、收盘价、实体及影线之间的关系比颜色更重要。</span>"
+    },
+    {
+      "key": "t99c5a06ef503fe22",
+      "english": "<span data-i18n-slot=\"0\">How Do You Read a Candlestick Chart?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何解读蜡烛图？</span>"
+    },
+    {
+      "key": "tddfee0f04987af06",
+      "english": "<span data-i18n-slot=\"0\">Next, read the body and wicks. A long bullish body suggests stronger buying pressure, while a long bearish body suggests stronger selling pressure. A small body can indicate hesitation. A long upper wick shows rejection of higher prices, while a long lower wick shows rejection of lower prices.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">接下来，观察实体和影线。较长的阳线实体表明买方压力较强，较长的阴线实体表明卖方压力较强。较小的实体可能表示犹豫。较长的上影线表明高价遭到拒绝，较长的下影线表明低价遭到拒绝。</span>"
+    },
+    {
+      "key": "t33831b53dc42ea2b",
+      "english": "<span data-i18n-slot=\"0\">Is the market trending or ranging?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市场是趋势型还是区间型？</span>"
+    },
+    {
+      "key": "tbdd80312c41f3da0",
+      "english": "<span data-i18n-slot=\"0\">Is the pattern near support or resistance?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">该形态是否接近支撑位或阻力位？</span>"
+    },
+    {
+      "key": "t4325bee3ae77b29b",
+      "english": "<span data-i18n-slot=\"0\">Single Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">单烛台模式</span>"
+    },
+    {
+      "key": "t8c524ec5ed0febb5",
+      "english": "<span data-i18n-slot=\"0\">Doji</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">十字星</span>"
+    },
+    {
+      "key": "t06dcfba470867da8",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">doji</span><span data-i18n-slot=\"2\"> forms when the opening and closing prices are equal or very close, creating a tiny body with possible upper and lower wicks. It represents indecision because neither buyers nor sellers maintained control by the close.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">十字星</span><span data-i18n-slot=\"2\">在开盘价与收盘价相同或非常接近时形成，实体很小，并可能带有上下影线。它表示市场犹豫，因为买方和卖方在收盘时均未能保持主导。</span>"
+    },
+    {
+      "key": "td8cb4c72df7552ba",
+      "english": "<span data-i18n-slot=\"0\">After a strong trend, a doji may signal slowing momentum, but it does not confirm a reversal. Traders usually wait for the next candle or a break of market structure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在强劲趋势之后，十字星可能预示着势头放缓，但它并不确认逆转。交易者通常会等待下一根蜡烛或市场结构的突破。</span>"
+    }
+  ]
+}

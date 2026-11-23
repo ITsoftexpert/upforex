@@ -1,0 +1,667 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "ta4adaf9bf6789a85",
+      "english": "<span data-i18n-slot=\"0\">Activates above current market</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在当前市价上方触发</span>"
+    },
+    {
+      "key": "td7bea7a48e50b67c",
+      "english": "<span data-i18n-slot=\"0\">Upside breakout-style entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">上行突破式入场</span>"
+    },
+    {
+      "key": "t29e78022c772cdb0",
+      "english": "<span data-i18n-slot=\"0\">Slippage can occur after trigger</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">触发后可能会出现滑点</span>"
+    },
+    {
+      "key": "tb5b47879d1d104d3",
+      "english": "<span data-i18n-slot=\"0\">Sell Stop</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破卖出</span>"
+    },
+    {
+      "key": "t6736d9a5effb84ab",
+      "english": "<span data-i18n-slot=\"0\">Downside breakout-style entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">下行突破式入场</span>"
+    },
+    {
+      "key": "t815e9afb82fd7e7d",
+      "english": "<span data-i18n-slot=\"0\">Stop-Limit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破回踩</span>"
+    },
+    {
+      "key": "t3c3344e851a88eb8",
+      "english": "<span data-i18n-slot=\"0\">Limit price or better after the stop trigger, if filled</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破触发后的限价或更好价格（如果已成交）</span>"
+    },
+    {
+      "key": "td8da0c5dc34f8e63",
+      "english": "<span data-i18n-slot=\"0\">Triggered limit order may remain unfilled</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">已触发的限价单可能仍未成交</span>"
+    },
+    {
+      "key": "tabd301cf1478c757",
+      "english": "<span data-i18n-slot=\"0\">A standard Buy Stop or Sell Stop therefore does not provide price certainty after activation. Once its stop condition is reached, the corresponding market operation is activated.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因此，标准突破买入或突破卖出在激活后不提供价格确定性。一旦达到其突破条件，就会激活相应的市场操作。</span>"
+    },
+    {
+      "key": "td73dc1907edb44f8",
+      "english": "<span data-i18n-slot=\"0\">Market Order vs Limit Order: Which Should You Use?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市价单与限价单：您应该使用哪个？</span>"
+    },
+    {
+      "key": "t80e9900f18b335cf",
+      "english": "<span data-i18n-slot=\"0\">Planned Pullback</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">计划回调</span>"
+    },
+    {
+      "key": "t818e902a73da0d1a",
+      "english": "<span data-i18n-slot=\"0\">Limit Order vs Stop Order: What's the Real Difference?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">限价订单与突破订单：真正的区别是什么？</span>"
+    },
+    {
+      "key": "t8933832e7c0435d4",
+      "english": "<span data-i18n-slot=\"0\">A limit order normally waits for a more favorable entry price, while a stop order waits for price to cross a trigger before activating.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">限价单通常等待更有利的入场价格，而突破单则等待价格穿过触发点后再激活。</span>"
+    },
+    {
+      "key": "t4f656727d9ec220f",
+      "english": "<span data-i18n-slot=\"0\">For buy orders:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于买单：</span>"
+    },
+    {
+      "key": "te75b38100e1840c6",
+      "english": "<span data-i18n-slot=\"0\">Buy Stop: normally above current market price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破买入：通常高于当前市场价格。</span>"
+    },
+    {
+      "key": "t3ee8a789ac6e7697",
+      "english": "<span data-i18n-slot=\"0\">For sell orders:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于卖单：</span>"
+    },
+    {
+      "key": "t487fd870a1cfe8f2",
+      "english": "<span data-i18n-slot=\"0\">Sell Stop: normally below current market price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破卖出：通常低于当前市场价格。</span>"
+    },
+    {
+      "key": "t972f1a566421f130",
+      "english": "<span data-i18n-slot=\"0\">A trader expecting a pullback before continuation might use a limit order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">预期原有走势继续之前先出现回调的交易者，可能会使用限价单。</span>"
+    },
+    {
+      "key": "tb256147eb81fc8e2",
+      "english": "<span data-i18n-slot=\"0\">A trader who only wants to enter after price crosses a breakout level might use a stop order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">只想在价格突破突破水平后入场的交易者可能会使用突破单。</span>"
+    },
+    {
+      "key": "t8ade3a16967f9d84",
+      "english": "<span data-i18n-slot=\"0\">That placement logic is the key distinction when comparing a stop order vs limit order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在比较突破单与限价单时，放置逻辑是关键区别。</span>"
+    },
+    {
+      "key": "tb6d22b1d71cb654d",
+      "english": "<span data-i18n-slot=\"0\">Limit Order vs Stop-Limit Order</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">限价订单与突破回踩订单</span>"
+    },
+    {
+      "key": "t9f193f6d1fb739fd",
+      "english": "<span data-i18n-slot=\"0\">So in a limit order vs stop limit order comparison, the additional trigger determines when the limit instruction is created.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因此，在限价订单与突破回踩订单的比较中，附加触发器决定何时创建限价指令。</span>"
+    },
+    {
+      "key": "t2c028695ca1c71b1",
+      "english": "<span data-i18n-slot=\"0\">Entry Trigger</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">进入触发器</span>"
+    },
+    {
+      "key": "t5324c73c358eb5de",
+      "english": "<span data-i18n-slot=\"0\">Approx. Result</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">大致结果</span>"
+    },
+    {
+      "key": "t2d5690b8d4903bc2",
+      "english": "<span data-i18n-slot=\"0\">Wait for a pullback</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">等待回调</span>"
+    },
+    {
+      "key": "t88ed5dd351aab20d",
+      "english": "<span data-i18n-slot=\"0\">Buy Limit at 1.1000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在1.1000限价买入（Buy Limit）</span>"
+    },
+    {
+      "key": "t0849f3862c0f26ac",
+      "english": "<span data-i18n-slot=\"0\">Price must fall to the limit condition</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">价格必须下跌至限价条件所设的水平</span>"
+    },
+    {
+      "key": "t72b40e77ce0fcb3b",
+      "english": "<span data-i18n-slot=\"0\">No position if the required price is never reached</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果从未达到所需价格，则没有仓位</span>"
+    },
+    {
+      "key": "tab55a8745b5d2460",
+      "english": "<span data-i18n-slot=\"0\">Enter after upside confirmation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">上行确认后入场</span>"
+    },
+    {
+      "key": "t55e0da3302de0c21",
+      "english": "<span data-i18n-slot=\"0\">Buy Stop at 1.1100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在 1.1100 突破买入</span>"
+    },
+    {
+      "key": "te3c8b853ee1805a3",
+      "english": "<span data-i18n-slot=\"0\">Market operation activates after the trigger</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">触发后激活市场操作</span>"
+    },
+    {
+      "key": "t0db84a7bd1478a1f",
+      "english": "<span data-i18n-slot=\"0\">The market-order trader has already submitted an entry.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">使用市价单的交易者已经提交入场订单。</span>"
+    },
+    {
+      "key": "tccde12ee89122740",
+      "english": "<span data-i18n-slot=\"0\">The Buy Stop waits until the 1.1100 trigger condition is reached before activating.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破买入会等到达到 1.1100 触发条件后才激活。</span>"
+    },
+    {
+      "key": "tb57febfcfb1e79cc",
+      "english": "<span data-i18n-slot=\"0\">To place a market order:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">下市价单：</span>"
+    },
+    {
+      "key": "tc7ad4abaa3c7c548",
+      "english": "<span data-i18n-slot=\"0\">Review Stop Loss and Take Profit fields if they are part of the plan.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">查看止损和止盈字段（如果它们是计划的一部分）。</span>"
+    },
+    {
+      "key": "t0ea5cbb86cb973f6",
+      "english": "<span data-i18n-slot=\"0\">Review the resulting position after execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">成交后查看形成的持仓。</span>"
+    },
+    {
+      "key": "t4b8b5964ac33b5e6",
+      "english": "<span data-i18n-slot=\"0\">Limit Order</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">限价订单</span>"
+    },
+    {
+      "key": "t36848174c3f8ad5c",
+      "english": "<span data-i18n-slot=\"0\">For a limit entry:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">限价入场：</span>"
+    },
+    {
+      "key": "t66e843fdc411333d",
+      "english": "<span data-i18n-slot=\"0\">Select the pending-order option.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">选择挂单选项。</span>"
+    },
+    {
+      "key": "te710f54f4757009d",
+      "english": "<span data-i18n-slot=\"0\">Set the intended volume.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">设置计划的交易量。</span>"
+    },
+    {
+      "key": "tc6e8487e8b88ee2e",
+      "english": "<span data-i18n-slot=\"0\">Add Stop Loss and Take Profit levels if needed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果需要，添加止损和止盈水平。</span>"
+    },
+    {
+      "key": "te757770fe308788d",
+      "english": "<span data-i18n-slot=\"0\">Review the expiration setting.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">查看过期设置。</span>"
+    },
+    {
+      "key": "t72cc5beda521f9ab",
+      "english": "<span data-i18n-slot=\"0\">Stop Order</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破订单</span>"
+    },
+    {
+      "key": "t8a0b4c371f0737b1",
+      "english": "<span data-i18n-slot=\"0\">For a stop entry:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">突破入场：</span>"
+    },
+    {
+      "key": "t577e01ef8365d10b",
+      "english": "<span data-i18n-slot=\"0\">Choose Buy Stop or Sell Stop.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">选择突破买入或突破卖出。</span>"
+    },
+    {
+      "key": "tdc00c63f01486c99",
+      "english": "<span data-i18n-slot=\"0\">Set the position volume.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">设置持仓量。</span>"
+    },
+    {
+      "key": "tf324e6c32ddff293",
+      "english": "<span data-i18n-slot=\"0\">Review the expiration and submit the order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">查看到期时间并提交订单。</span>"
+    },
+    {
+      "key": "tc8f361c056fa6622",
+      "english": "<span data-i18n-slot=\"0\">[SCREENSHOT: MT5 order ticket set to Buy Stop with trigger price highlighted]</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">[截图：MT5订单窗口设置为Buy Stop，并突出显示触发价格]</span>"
+    },
+    {
+      "key": "tf56619550c7f81bd",
+      "english": "<span data-i18n-slot=\"0\">The screenshot should emphasize the Buy Stop selection and the trigger-price field that determines when the pending order activates.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">屏幕截图应强调“突破买入”选择和确定挂单何时激活的触发价格字段。</span>"
+    },
+    {
+      "key": "t9bf4a5a5d93cc3d1",
+      "english": "<span data-i18n-slot=\"0\">Using a market order when the plan requires a pullback.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">当计划需要回调时使用市价单。</span>"
+    },
+    {
+      "key": "tb653462dca5633e7",
+      "english": "<span data-i18n-slot=\"0\">Confusing Buy Stop entries with Stop Loss instructions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">混淆突破买入的入场订单与止损指令。</span>"
+    },
+    {
+      "key": "t72f951aacd21d8e0",
+      "english": "<span data-i18n-slot=\"0\">Assuming a Stop-Limit guarantees execution after activation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">假设突破回踩保证激活后执行。</span>"
+    },
+    {
+      "key": "t86a1c0edaeea1859",
+      "english": "<span data-i18n-slot=\"0\">Forgetting to review pending-order expiration settings.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">忘记查看挂单到期设置。</span>"
+    },
+    {
+      "key": "ta0106ac7ee7ef1c7",
+      "english": "<span data-i18n-slot=\"0\">Focusing on entry type while overlooking trade size and leverage.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">专注于入场类型，而忽略交易规模和杠杆。</span>"
+    },
+    {
+      "key": "t698710084fcfc546",
+      "english": "<span data-i18n-slot=\"0\">FAQs About Market, Limit and Stop Orders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有关市价单、限价单和突破单的常见问题解答</span>"
+    },
+    {
+      "key": "tf9b0daf42a383cd2",
+      "english": "<span data-i18n-slot=\"0\">Q: What is a market order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">问：什么是市价单？</span>"
+    },
+    {
+      "key": "tb3146b47b6819763",
+      "english": "<span data-i18n-slot=\"0\">Q: What is a limit order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">问：什么是限价单？</span>"
+    },
+    {
+      "key": "tdbd15bdc590f028e",
+      "english": "<span data-i18n-slot=\"0\">Q: What is a stop order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">问：什么是突破单？</span>"
+    },
+    {
+      "key": "t923bb2a8986c69a0",
+      "english": "<span data-i18n-slot=\"0\">Q: What is a buy stop order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">问：什么是突破买单？</span>"
+    },
+    {
+      "key": "tbf99df46b7949876",
+      "english": "<span data-i18n-slot=\"0\">Q: What is a stop-limit order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">问：什么是突破回踩单？</span>"
+    },
+    {
+      "key": "t0fe1a71e7f614a46",
+      "english": "<span data-i18n-slot=\"0\">Q: What is the difference between a limit order and market order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">问：限价单和市价单有什么区别？</span>"
+    },
+    {
+      "key": "t672763a208ef67f4",
+      "english": "<span data-i18n-slot=\"0\">Q: What is the difference between a stop and limit order?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">问：突破单与限价单有什么区别？</span>"
+    },
+    {
+      "key": "tf140b4597912e745",
+      "english": "<span data-i18n-slot=\"0\">A: A limit order normally waits for a more favorable price than the current market, while a stop order waits for the price to reach a trigger level before activating. Their placement relative to the current market and their activation mechanics are therefore different.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">答：限价单通常等待比当前市场更有利的价格，而突破单则等待价格达到触发水平才激活。因此，它们相对于当前市场的定位及其激活机制是不同的。</span>"
+    },
+    {
+      "key": "te081b62c6693c4a2",
+      "english": "<span data-i18n-slot=\"0\">Forex and CFD trading involves leverage and significant risk of loss. Order types control how trading instructions are submitted and activated, but they do not guarantee execution at a particular price or a profitable outcome.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#content",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇和差价合约交易涉及杠杆和重大损失风险。订单类型控制交易指令的提交和激活方式，但它们不保证以特定价格执行或产生盈利结果。</span>"
+    },
+    {
+      "key": "t85b245de9da0db8c",
+      "english": "<span data-i18n-slot=\"0\">What Is Forex Correlation?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是外汇相关性？</span>"
+    },
+    {
+      "key": "t7870a80629f9d130",
+      "english": "<span data-i18n-slot=\"0\">A positive correlation means two pairs tend to move in the same direction.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">正相关意味着两对货币倾向于朝同一方向移动。</span>"
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t9ab126c6f946953a",
+      "english": "<span data-i18n-slot=\"0\">There are no open positions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No hay posiciones abiertas</span>"
+    },
+    {
+      "key": "t4781fbb4c348f008",
+      "english": "<span data-i18n-slot=\"0\">Equity: $4,600</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio: $4,600</span>"
+    },
+    {
+      "key": "t95adb07aacdeb5b6",
+      "english": "<span data-i18n-slot=\"0\">How Floating P/L Changes Equity Worked Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ejemplo práctico de cómo las pérdidas y ganancias flotantes modifican el patrimonio</span>"
+    },
+    {
+      "key": "tbd31d5b60a96c3e0",
+      "english": "<span data-i18n-slot=\"0\">The figures below are hypothetical and are included only to demonstrate the relationship between Balance, floating P/L and Equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Las cifras siguientes son hipotéticas y se incluyen únicamente para demostrar la relación entre el saldo, las pérdidas y ganancias flotantes y el capital.</span>"
+    },
+    {
+      "key": "t453e3ef770c9bc39",
+      "english": "<span data-i18n-slot=\"0\">Stage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Etapa</span>"
+    },
+    {
+      "key": "tbfdec96c193d01d8",
+      "english": "<span data-i18n-slot=\"0\">Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio</span>"
+    },
+    {
+      "key": "t251414547d6af568",
+      "english": "<span data-i18n-slot=\"0\">Equity = $5,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio = $5,000</span>"
+    },
+    {
+      "key": "t433ca5fe932b1c8e",
+      "english": "<span data-i18n-slot=\"0\">Balance remains:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El saldo permanece en:</span>"
+    },
+    {
+      "key": "te4143d823292ff32",
+      "english": "<span data-i18n-slot=\"0\">Equity becomes:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El patrimonio se convierte en:</span>"
+    },
+    {
+      "key": "t3b166ccebb88dbd8",
+      "english": "<span data-i18n-slot=\"0\">$5,000 - $350 = $4,650 Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">$5,000 - $350 = $4,650 de capital</span>"
+    },
+    {
+      "key": "t3e3c6073c9d8f081",
+      "english": "<span data-i18n-slot=\"0\">Net floating P/L is:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Las pérdidas y ganancias netas flotantes son:</span>"
+    },
+    {
+      "key": "t7639d406c69dc194",
+      "english": "<span data-i18n-slot=\"0\">$5,000 - $150 = $4,850 Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">$5,000 - $150 = $4,850 de capital</span>"
+    },
+    {
+      "key": "te10a871ad0701df6",
+      "english": "<span data-i18n-slot=\"0\">When positions are open, traders may see:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cuando las posiciones están abiertas, los operadores pueden ver:</span>"
+    },
+    {
+      "key": "tceb3193912420e43",
+      "english": "<span data-i18n-slot=\"0\">Equity:</span><span data-i18n-slot=\"1\"> current value including floating P/L</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio:</span><span data-i18n-slot=\"1\"> valor actual, incluidas las pérdidas y ganancias flotantes</span>"
+    },
+    {
+      "key": "t8cd353f702373a61",
+      "english": "<span data-i18n-slot=\"0\">Free Margin:</span><span data-i18n-slot=\"1\"> remaining account capacity not currently allocated as Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Margen libre:</span><span data-i18n-slot=\"1\"> capacidad restante de la cuenta no asignada actualmente como margen</span>"
+    },
+    {
+      "key": "t656fc8f0c3088076",
+      "english": "<span data-i18n-slot=\"0\">Margin Level:</span><span data-i18n-slot=\"1\"> the relationship between Equity and used Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Nivel de margen:</span><span data-i18n-slot=\"1\"> la relación entre el capital y el margen utilizado</span>"
+    },
+    {
+      "key": "t677cbabd5e574caf",
+      "english": "<span data-i18n-slot=\"0\">If a position moves further into floating profit, Equity may rise. If open positions move into greater floating loss, Equity may fall.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Si una posición avanza hacia ganancias flotantes, el capital puede aumentar. Si las posiciones abiertas generan mayores pérdidas flotantes, el capital puede caer.</span>"
+    },
+    {
+      "key": "t02d1a2b90ddc0bfb",
+      "english": "<span data-i18n-slot=\"0\">Equity also feeds into the account's margin calculations. The full Free Margin, Margin Level, margin-call and stop-out mechanics are covered separately in the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Forex Leverage &amp; Margin Explained guide</span></span><span data-i18n-slot=\"4\">, so they do not need to be re-derived here.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El capital también influye en los cálculos del margen de la cuenta. Los mecanismos completos de margen libre, nivel de margen, llamada de margen y stop-out se tratan por separado en la</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Guía explicativa sobre apalancamiento y margen de Forex</span></span><span data-i18n-slot=\"4\">, por lo que no es necesario volver a derivarlos aquí.</span>"
+    },
+    {
+      "key": "t8aecfd9997e48bc7",
+      "english": "<span data-i18n-slot=\"0\">Why Does Equity Matter?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Por qué es importante el patrimonio de la cuenta?</span>"
+    },
+    {
+      "key": "t7b3e08a9a1fbbbd3",
+      "english": "<span data-i18n-slot=\"0\">Equity matters because it provides a more current picture of an account than Balance alone when positions are open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El capital es importante porque proporciona una imagen más actual de una cuenta que el saldo por sí solo cuando hay posiciones abiertas.</span>"
+    },
+    {
+      "key": "t1132905da2ad104b",
+      "english": "<span data-i18n-slot=\"0\">If Trader A has +$800 in net floating P/L:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Si el operador A tiene +$800 en pérdidas y ganancias netas flotantes:</span>"
+    },
+    {
+      "key": "t00b9d7ba1a7f82f4",
+      "english": "<span data-i18n-slot=\"0\">Equity = $10,800</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio = $10,800</span>"
+    },
+    {
+      "key": "tdcf8bb88ae5152d8",
+      "english": "<span data-i18n-slot=\"0\">If Trader B has -$2,000 in net floating P/L:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Si el operador B tiene -$2,000 en pérdidas y ganancias netas flotantes:</span>"
+    },
+    {
+      "key": "tb73e7cc9ef198dc5",
+      "english": "<span data-i18n-slot=\"0\">Equity = $8,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio = $8,000</span>"
+    },
+    {
+      "key": "t940f8b4392702e41",
+      "english": "<span data-i18n-slot=\"0\">Equity also matters because margin calculations respond to current Equity rather than waiting for open losses to become realized.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El patrimonio también es importante porque los cálculos de margen responden al patrimonio actual en lugar de esperar a que se materialicen las pérdidas abiertas.</span>"
+    },
+    {
+      "key": "t9d76f6808d9a9c5e",
+      "english": "<span data-i18n-slot=\"0\">Some traders may informally compare an </span><span data-i18n-slot=\"1\">account equity percentage</span><span data-i18n-slot=\"2\"> with Balance to see how far current Equity has moved from the settled account value. That can provide a simple visual comparison, but it should not be confused with the formal Margin Level percentage calculated from Equity and used Margin.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Algunos operadores pueden comparar informalmente un </span><span data-i18n-slot=\"1\">porcentaje de capital de la cuenta</span><span data-i18n-slot=\"2\"> con el Saldo para ver qué tan lejos se ha movido el capital actual del valor liquidado de la cuenta. Esto puede proporcionar una comparación visual simple, pero no debe confundirse con el porcentaje formal del nivel de margen calculado a partir del capital y el margen utilizado.</span>"
+    },
+    {
+      "key": "tbff95725046015d3",
+      "english": "<span data-i18n-slot=\"0\">Check Equity before opening or adding another position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Verifique el capital antes de abrir o agregar otra posición.</span>"
+    },
+    {
+      "key": "tb765564c6db009ce",
+      "english": "<span data-i18n-slot=\"0\">Compare Equity with Balance to understand the net effect of current trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Compare el capital con el saldo para comprender el efecto neto de las operaciones actuales.</span>"
+    },
+    {
+      "key": "tcbb13baeb966dc48",
+      "english": "<span data-i18n-slot=\"0\">Remember that unrealized losses affect current Equity before they affect Balance.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Recuerde que las pérdidas no realizadas afectan el Patrimonio actual antes de afectar el Saldo.</span>"
+    },
+    {
+      "key": "t4b15e57501092049",
+      "english": "<span data-i18n-slot=\"0\">Equity = $4,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio = $4,000</span>"
+    },
+    {
+      "key": "td82b0cde241eabf0",
+      "english": "<span data-i18n-slot=\"0\">They are different concepts. Account Equity is the account's value at a particular moment. An </span><span data-i18n-slot=\"1\">equity curve</span><span data-i18n-slot=\"2\"> is a chart showing how Equity has changed over a period of time. One is a live account figure; the other is a historical performance view.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Son conceptos diferentes. El patrimonio de la cuenta es el valor de la cuenta en un momento concreto. Una </span><span data-i18n-slot=\"1\">curva de patrimonio</span><span data-i18n-slot=\"2\"> es un gráfico que muestra cómo ha cambiado el patrimonio a lo largo de un período. El primero es un valor actual de la cuenta; el segundo es una vista del rendimiento histórico.</span>"
+    },
+    {
+      "key": "te0b8ba2e47eca486",
+      "english": "<span data-i18n-slot=\"0\">Equity matters whenever positions are open because it reflects their current combined effect on the account. It can also be useful before adding further exposure. A trader who looks only at Balance may overlook a substantial floating loss already affecting current Equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El capital es importante siempre que hay posiciones abiertas porque refleja su efecto combinado actual en la cuenta. También puede resultar útil antes de añadir más exposición. Un operador que solo mira el saldo puede pasar por alto una pérdida flotante sustancial que ya afecta el capital actual.</span>"
+    },
+    {
+      "key": "t5ea399380a7860f2",
+      "english": "<span data-i18n-slot=\"0\">What is account equity in trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es el capital de la cuenta en el comercio?</span>"
+    },
+    {
+      "key": "t1376f60dfaf1876b",
+      "english": "<span data-i18n-slot=\"0\">Account equity is the current value of a trading account after the floating profit or loss from open positions is included. If there are no open positions or other equity adjustments, Balance and Equity will normally be the same. When open trades move in profit or loss, Equity changes while Balance can remain fixed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El capital de la cuenta es el valor actual de una cuenta comercial después de incluir las ganancias o pérdidas flotantes de las posiciones abiertas. Si no hay posiciones abiertas u otros ajustes de capital, el saldo y el capital normalmente serán los mismos. Cuando las operaciones abiertas se mueven en ganancias o pérdidas, el patrimonio cambia mientras que el Saldo puede permanecer fijo.</span>"
+    },
+    {
+      "key": "teaba2b1b28f8896d",
+      "english": "<span data-i18n-slot=\"0\">Why is my equity lower than my balance?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Por qué mi capital es menor que mi saldo?</span>"
+    },
+    {
+      "key": "td7782080ac098880",
+      "english": "<span data-i18n-slot=\"0\">Equity is usually lower than Balance when open positions have a net floating loss or when other applicable account adjustments reduce current equity. For example, a $5,000 Balance with a $400 floating loss produces approximately $4,600 in Equity in a simplified account calculation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El capital suele ser inferior al saldo cuando las posiciones abiertas tienen una pérdida flotante neta o cuando otros ajustes de cuenta aplicables reducen el capital actual. Por ejemplo, un saldo de $5,000 con una pérdida flotante de $400 produce aproximadamente $4,600 en capital en un cálculo de cuenta simplificado.</span>"
+    },
+    {
+      "key": "t779fa3bd4fca1c73",
+      "english": "<span data-i18n-slot=\"0\">Yes. Equity can be higher than Balance when open positions have a net floating profit. A $5,000 Balance with a $300 floating profit would produce approximately $5,300 in Equity in a simplified example. If the position moves again before closing, that Equity figure can change.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sí. El capital puede ser mayor que el saldo cuando las posiciones abiertas tienen una ganancia flotante neta. Un saldo de $5,000 con una ganancia flotante de $300 produciría aproximadamente $5,300 en capital en un ejemplo simplificado. Si la posición se mueve nuevamente antes del cierre, esa cifra de patrimonio puede cambiar.</span>"
+    },
+    {
+      "key": "t1e134e01448a29f7",
+      "english": "<span data-i18n-slot=\"0\">What happens to floating P/L when a trade closes?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué sucede con las pérdidas y ganancias flotantes cuando se cierra una operación?</span>"
+    },
+    {
+      "key": "t075582d59a405731",
+      "english": "<span data-i18n-slot=\"0\">Market movement in an open trade does not normally change the Balance figure itself. Instead, the trade's unrealized result appears as floating P/L and changes Equity. Balance changes when trading results are realized or when transactions such as deposits, withdrawals or applicable account adjustments are posted.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El movimiento del mercado en una operación abierta normalmente no cambia la cifra del Saldo en sí. En cambio, el resultado no realizado de la operación aparece como P/L flotante y cambia el patrimonio. El saldo cambia cuando se obtienen resultados comerciales o cuando se publican transacciones como depósitos, retiros o ajustes de cuenta aplicables.</span>"
+    },
+    {
+      "key": "t490e54f7567488c1",
+      "english": "<span data-i18n-slot=\"0\">How is equity connected to margin level?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo se relaciona el capital con el nivel de margen?</span>"
+    },
+    {
+      "key": "t4cfa263abe03caf8",
+      "english": "<span data-i18n-slot=\"0\">Equity is the account-value figure used within margin-level calculations. When floating losses reduce Equity, Margin Level can also fall if used Margin remains in place. The full calculation and margin-call mechanics are covered separately in UPFOREX's leverage and margin guide.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El capital es la cifra del valor de la cuenta que se utiliza en los cálculos a nivel de margen. Cuando las pérdidas flotantes reducen el patrimonio, el nivel de margen también puede caer si el margen utilizado permanece en su lugar. El cálculo completo y la mecánica de llamada de margen se tratan por separado en la guía de apalancamiento y margen de UPFOREX.</span>"
+    },
+    {
+      "key": "tdcb0627c03d1de10",
+      "english": "<span data-i18n-slot=\"0\">Is account equity the same as an equity curve?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Es el capital de la cuenta lo mismo que una curva de capital?</span>"
+    },
+    {
+      "key": "tccd0954c46fd73e2",
+      "english": "<span data-i18n-slot=\"0\">No. Account Equity is the account's current value after open-position results are included. An equity curve is a chart that tracks changes in equity over time. The first is a live account figure, while the second is a historical performance view.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No. El patrimonio de la cuenta es su valor actual tras incluir los resultados de las posiciones abiertas. Una curva de patrimonio es un gráfico que sigue los cambios del patrimonio a lo largo del tiempo. El primero es un valor actual de la cuenta; el segundo es una vista del rendimiento histórico.</span>"
+    },
+    {
+      "key": "tc7a585bd4729dd51",
+      "english": "<span data-i18n-slot=\"0\">Understand What the Account Is Showing You</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comprenda lo que le muestra la cuenta</span>"
+    },
+    {
+      "key": "t5d728780d34fb76e",
+      "english": "Forex lot size explained with standard",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#imageAltTag",
+        "SSR:/blogs",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "Tamaño de lote de Forex explicado con estándar"
+    },
+    {
+      "key": "t740d852715e37891",
+      "english": "Forex Lot Size",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#tag",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "Tamaño del lote de Forex"
+    },
+    {
+      "key": "tce19e04701b3df71",
+      "english": "FOREX LOT SIZE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#upperTag",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "TAMAÑO DEL LOTE FOREX"
+    }
+  ]
+}

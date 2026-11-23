@@ -1,0 +1,58 @@
+{
+  "language": "ru",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "note": "Keep the exact source round-lot pricing term; do not infer a round-trip charging condition.",
+  "rows": [
+    {
+      "key": "t8c860b28ab2d8ec2",
+      "english": "<span data-i18n-slot=\"0\">$7 per round lot on eligible forex and metals trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">$7 за лот («round lot») по соответствующим сделкам на форекс и с металлами</span>"
+    },
+    {
+      "key": "tcdbed9630f976acb",
+      "english": "<span data-i18n-slot=\"0\">Pro-ECN:</span><span data-i18n-slot=\"1\"> $1,000 minimum deposit, spreads from 0 pips, $7 per round lot commission on forex and metals.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pro-ECN:</span><span data-i18n-slot=\"1\"> минимальный депозит $1,000, спреды от 0 пипсов, комиссия $7 за лот («round lot») по валютам и металлам.</span>"
+    },
+    {
+      "key": "tf144dce149b97d65",
+      "english": "<span data-i18n-slot=\"0\">Pro-ECN:</span><span data-i18n-slot=\"1\"> minimum deposit $1,000, spreads from 0 pips, $7 commission per round lot on forex and metals</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Pro-ECN:</span><span data-i18n-slot=\"1\"> минимальный депозит $1,000, спреды от 0 пипсов, комиссия $7 за лот («round lot») по валютам и металлам</span>"
+    },
+    {
+      "key": "te517e0ee1c0b74dc",
+      "english": "<span data-i18n-slot=\"0\">$7 per round lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">$7 за лот («round lot»)</span>"
+    },
+    {
+      "key": "tf1d9e01ed56759ae",
+      "english": "<span data-i18n-slot=\"0\">Illustrative round-lot commission</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Комиссия за лот («round lot») в примере</span>"
+    }
+  ]
+}

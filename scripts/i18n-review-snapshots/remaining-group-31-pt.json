@@ -1,0 +1,327 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "taf9515029614cf58",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">shooting star</span><span data-i18n-slot=\"2\"> has a small body near the bottom of its range, a long upper wick, and little or no lower wick. Traders commonly watch for it after an upward move.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">Estrela cadente</span><span data-i18n-slot=\"2\"> tem um pequeno corpo próximo ao fundo de seu alcance, um longo pavio superior, e pouco ou nenhum pavio inferior. Os comerciantes geralmente observam depois de um movimento para cima.</span>"
+    },
+    {
+      "key": "tb23bc05808325944",
+      "english": "<span data-i18n-slot=\"0\">Bullish Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Padrões de velas de alta</span>"
+    },
+    {
+      "key": "tdfe0354e962999e8",
+      "english": "<span data-i18n-slot=\"0\">Bearish Engulfing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Engolfo de baixa</span>"
+    },
+    {
+      "key": "t947dedd1e2ca668b",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">bearish engulfing pattern</span><span data-i18n-slot=\"2\"> uses a bullish candle followed by a larger bearish candle whose body covers the previous body.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Um </span><span data-i18n-slot=\"1\">padrão de engolfo de baixa</span><span data-i18n-slot=\"2\"> é formado por uma vela de alta seguida de uma vela de baixa maior, cujo corpo cobre o corpo anterior.</span>"
+    },
+    {
+      "key": "t8f3a5d67288b36e7",
+      "english": "<span data-i18n-slot=\"0\">Reversal Candlestick Patterns: What They Signal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Padrões de reversão de velas: o que sinalizam</span>"
+    },
+    {
+      "key": "t8be61c0d4c75e329",
+      "english": "<span data-i18n-slot=\"0\">Quick-Reference Table: Bullish vs. Bearish Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tabela de referência rápida: padrões de alta e de baixa</span>"
+    },
+    {
+      "key": "tb71174060796f5f0",
+      "english": "<span data-i18n-slot=\"0\">Quick-Reference: Bullish vs. Bearish Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Referência rápida: padrões de velas de alta e de baixa</span>"
+    },
+    {
+      "key": "tf8542953ad36e5b5",
+      "english": "<span data-i18n-slot=\"0\">Pattern</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Padrão</span>"
+    },
+    {
+      "key": "t6892db8c7460f650",
+      "english": "<span data-i18n-slot=\"0\">Bullish reversal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reversão de alta</span>"
+    },
+    {
+      "key": "t46104251f3154553",
+      "english": "<span data-i18n-slot=\"0\">Bearish reversal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reversão de baixa</span>"
+    },
+    {
+      "key": "t07b895530505a749",
+      "english": "<span data-i18n-slot=\"0\">A large bearish candle covers the prior bullish candle’s body</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma grande vela de baixa cobre o corpo da vela de alta anterior</span>"
+    },
+    {
+      "key": "t8370763e45cf686a",
+      "english": "<span data-i18n-slot=\"0\">An uptrend pauses before sellers begin taking control</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma tendência de alta faz uma pausa antes de os vendedores assumirem o controle</span>"
+    },
+    {
+      "key": "t920de059d444fe4b",
+      "english": "<span data-i18n-slot=\"0\">A bearish candle closes below the midpoint of the prior bullish body</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma vela de baixa fecha abaixo do ponto médio do corpo da vela de alta anterior</span>"
+    },
+    {
+      "key": "t7bd9ec49a215f053",
+      "english": "<span data-i18n-slot=\"0\">This table is a quick reference, not a complete trading system. Traders should not assign a fixed accuracy rate to any formation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Esta tabela é uma referência rápida, não um sistema comercial completo. Os comerciantes não devem atribuir uma taxa de precisão fixa a qualquer formação.</span>"
+    },
+    {
+      "key": "t0457c61f42486a0d",
+      "english": "<span data-i18n-slot=\"0\">How to Confirm a Candlestick Pattern Before Trading It</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como confirmar um padrão de vela antes de trocar</span>"
+    },
+    {
+      "key": "t6d91d925e0257caf",
+      "english": "<span data-i18n-slot=\"0\">Before entering, define the invalidation point, stop-loss, position size, potential reward, and any scheduled news that may change conditions. Confirmation improves decision quality but never removes uncertainty.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Antes de entrar, defina o ponto de invalidação, o stop-loss, o tamanho da posição, o retorno potencial e quaisquer notícias programadas que possam alterar as condições. A confirmação melhora a qualidade da decisão, mas nunca elimina a incerteza.</span>"
+    },
+    {
+      "key": "tb577c8a401410626",
+      "english": "<span data-i18n-slot=\"0\">Trading a pattern in isolation:</span><span data-i18n-slot=\"1\"> A shape without trend or market structure provides limited information.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Trocando um padrão em isolamento:</span><span data-i18n-slot=\"1\"> Uma forma sem tendência ou estrutura de mercado fornece informações limitadas.</span>"
+    },
+    {
+      "key": "t3518f90977a4f1bf",
+      "english": "<span data-i18n-slot=\"0\">Using the wrong timeframe:</span><span data-i18n-slot=\"1\"> Very short charts may contain more noise.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Usando o tempo errado:</span><span data-i18n-slot=\"1\"> Gráficos muito curtos podem conter mais barulho.</span>"
+    },
+    {
+      "key": "t7f66a071db46ead9",
+      "english": "<span data-i18n-slot=\"0\">Assuming a guaranteed reversal:</span><span data-i18n-slot=\"1\"> Patterns only suggest a possible shift in sentiment.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Assumindo uma inversão garantida:</span><span data-i18n-slot=\"1\"> Padrões só sugerem uma possível mudança de sentimento.</span>"
+    },
+    {
+      "key": "t32b6f50edb9ccac2",
+      "english": "<span data-i18n-slot=\"0\">How do you read a candlestick chart?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como se lê um mapa de velas?</span>"
+    },
+    {
+      "key": "te86de32c4bed198e",
+      "english": "<span data-i18n-slot=\"0\">First select the timeframe, then examine each candle’s body and wicks. Compare the candle with earlier price action and identify the broader trend, support, and resistance. Finally, wait for confirmation and define the trade’s invalidation point rather than acting on the candle shape alone.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Primeiro selecione o período gráfico e examine o corpo e os pavios de cada vela. Compare a vela com os movimentos anteriores de preço e identifique a tendência mais ampla, o suporte e a resistência. Por fim, espere pela confirmação e defina o ponto de invalidação da operação, em vez de agir apenas com base no formato da vela.</span>"
+    },
+    {
+      "key": "t164481225415e658",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between a bullish and bearish candlestick?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Qual é a diferença entre uma vela de alta e uma de baixa?</span>"
+    },
+    {
+      "key": "tabbcb8313b6aeb4b",
+      "english": "<span data-i18n-slot=\"0\">The doji, hammer, shooting star, and bullish and bearish engulfing patterns are useful starting points. Their structures are relatively easy to recognise, and they teach key concepts such as indecision, price rejection, and shifts in control between buyers and sellers.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O doji, o martelo, a estrela cadente e os engolfos de alta e de baixa são pontos de partida úteis. Suas estruturas são relativamente fáceis de reconhecer e ensinam conceitos importantes, como indecisão, rejeição de preços e mudanças de controle entre compradores e vendedores.</span>"
+    },
+    {
+      "key": "t35b83bc97cf8c46f",
+      "english": "<span data-i18n-slot=\"0\">Candlestick analysis works best as part of a complete process. A trader should understand the market context, wait for confirmation, define risk, and accept that even a well-formed pattern can fail.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A análise de velas funciona melhor como parte de um processo completo. O trader deve entender o contexto do mercado, esperar a confirmação, definir o risco e aceitar que até um padrão bem formado pode falhar.</span>"
+    },
+    {
+      "key": "ta4f0479de07af7cf",
+      "english": "<span data-i18n-slot=\"0\">UpForex’s website identifies UP Global Markets Ltd as licensed by the Financial Services Commission of Mauritius. It also identifies UPFOREX Financial Consultation LLC as a UAE-affiliated partner regulated by the Securities and Commodities Authority under a Category 5 Arrangement and Advice licence. More company information is available on the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">About UpForex</span></span><span data-i18n-slot=\"4\"> page.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O site da UpForex identifica a UP Global Markets Ltd como licenciada pela Comissão de Serviços Financeiros de Maurício. Também identifica a UPFOREX Financial Consultation LLC como um parceiro afiliado nos EAU, regulado pela Autoridade de Valores Mobiliários e Commodities sob uma licença de Categoria 5, de intermediação e aconselhamento. Mais informações sobre a empresa estão disponíveis na página </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Sobre a UpForex</span></span><span data-i18n-slot=\"4\">.</span>"
+    },
+    {
+      "key": "tf01720aefbdca380",
+      "english": "<span data-i18n-slot=\"0\">What Is a Retail Trader?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que é um trader de varejo?</span>"
+    },
+    {
+      "key": "t7e2cbd4cfa4378ba",
+      "english": "<span data-i18n-slot=\"0\">A retail trader is an individual who trades financial markets using personal funds rather than money managed for a bank, hedge fund, pension fund, or other institution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Um comerciante de varejo é um indivíduo que negocia mercados financeiros usando fundos pessoais em vez de dinheiro gerenciado para um banco, hedge fund, fundo de pensão, ou outra instituição.</span>"
+    },
+    {
+      "key": "tf298235f178f24fd",
+      "english": "<span data-i18n-slot=\"0\">Retail Traders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Traders de varejo</span>"
+    },
+    {
+      "key": "t92528d377fa66165",
+      "english": "<span data-i18n-slot=\"0\">Typical outcome pattern</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Padrão típico de resultados.</span>"
+    },
+    {
+      "key": "t368cbdccfe39162a",
+      "english": "<span data-i18n-slot=\"0\">A larger share experience net losses</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma proporção maior apresenta perdas líquidas</span>"
+    },
+    {
+      "key": "t9d94a4f348ea752b",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging and Margin Risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alavancagem excessiva e risco de margem</span>"
+    },
+    {
+      "key": "tbb37a507928cde1f",
+      "english": "<span data-i18n-slot=\"0\">The maximum leverage for CFDs available to retail traders in the UAE can vary by provider, instrument, account classification, and applicable regulations. UpForex lists leverage of </span><span data-i18n-slot=\"1\">up to 1:300</span><span data-i18n-slot=\"2\">, subject to possible adjustments based on market and liquidity conditions. Its account page also lists a </span><span data-i18n-slot=\"3\">50% margin-call level</span><span data-i18n-slot=\"4\"> and a </span><span data-i18n-slot=\"5\">30% stop-out level</span><span data-i18n-slot=\"6\">. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A alavancagem máxima dos CFDs disponíveis para traders de varejo nos EAU pode variar de acordo com o provedor, o instrumento, a classificação da conta e os regulamentos aplicáveis. A UpForex informa alavancagem de </span><span data-i18n-slot=\"1\">até 1:300</span><span data-i18n-slot=\"2\">, sujeita a possíveis ajustes conforme as condições de mercado e liquidez. Sua página de contas também informa um </span><span data-i18n-slot=\"3\">nível de chamada de margem de 50%</span><span data-i18n-slot=\"4\"> e um </span><span data-i18n-slot=\"5\">nível de stop-out de 30%</span><span data-i18n-slot=\"6\">.</span>"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t41ba628a1b62eeb2",
+      "english": "<span data-i18n-slot=\"0\">Forex </span><span data-i18n-slot=\"1\">lot size</span><span data-i18n-slot=\"2\"> is the standardized unit used to measure trade volume. A standard lot represents 100,000 units of the base currency, a mini lot 10,000 units, a micro lot 1,000 units, and a nano lot 100 units. Nano-sized trading is not available through every broker or instrument.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Forex </span><span data-i18n-slot=\"1\">tamaño de lote</span><span data-i18n-slot=\"2\"> es la unidad estandarizada utilizada para medir el volumen comercial. Un lote estándar representa 100,000 unidades de la moneda base, un mini lote de 10,000 unidades, un micro lote de 1,000 unidades y un nano lote de 100 unidades. El comercio de tamaño nanométrico no está disponible a través de todos los corredores o instrumentos.</span>"
+    },
+    {
+      "key": "t21132d6ab47e28f2",
+      "english": "<span data-i18n-slot=\"0\">Lot Type</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tipo de lote</span>"
+    },
+    {
+      "key": "t7fa33dde675dd1f8",
+      "english": "<span data-i18n-slot=\"0\">Typical Trader Profile</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Perfil de comerciante típico</span>"
+    },
+    {
+      "key": "tef5ebb8e80d6b1e6",
+      "english": "<span data-i18n-slot=\"0\">Larger position size where the trader's calculated risk parameters support the exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tamaño de posición más grande donde los parámetros de riesgo calculados por el operador respaldan la exposición</span>"
+    },
+    {
+      "key": "t1abde346ff7a5f26",
+      "english": "<span data-i18n-slot=\"0\">Fine-grained sizing for smaller calculated exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tamaño detallado para una exposición calculada más pequeña</span>"
+    },
+    {
+      "key": "tf062f06df94a61e3",
+      "english": "<span data-i18n-slot=\"0\">Very small position increments where the broker and instrument support them</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Incrementos de posición muy pequeños donde el corredor y el instrumento los respaldan</span>"
+    },
+    {
+      "key": "t7bab6abdae39b72d",
+      "english": "<span data-i18n-slot=\"0\">0.10 lot = 1 mini lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.10 lote = 1 mini lote</span>"
+    },
+    {
+      "key": "t0220a0e9dc7e1e59",
+      "english": "<span data-i18n-slot=\"0\">This gives one-tenth of the exposure of a standard forex lot in the same currency pair.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Esto proporciona una décima parte de la exposición de un lote de divisas estándar en el mismo par de divisas.</span>"
+    },
+    {
+      "key": "td08343dea43fe714",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot = 1 micro lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01 lote = 1 microlote</span>"
+    },
+    {
+      "key": "ta3523c994751f86b",
+      "english": "<span data-i18n-slot=\"0\">A micro lot is a trade-volume measurement. It should not be confused with a separate “micro account” product; UPFOREX's published account tiers are Standard, Pro-ECN and Elite-ECN.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un microlote es una medida del volumen comercial. No debe confundirse con un producto de “microcuenta” independiente; Los niveles de cuenta publicados de UPFOREX son Estándar, Pro-ECN y Elite-ECN.</span>"
+    },
+    {
+      "key": "t6fc6e298f6849a24",
+      "english": "<span data-i18n-slot=\"0\">Some brokers or trading arrangements may support this size, but it is not universal. Traders should always check the allowed volume increments for the specific symbol they intend to trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Algunos corredores o acuerdos comerciales pueden admitir este tamaño, pero no es universal. Los operadores siempre deben verificar los incrementos de volumen permitidos para el símbolo específico con el que pretenden operar.</span>"
+    },
+    {
+      "key": "tb096395b9c7e6fe7",
+      "english": "<span data-i18n-slot=\"0\">Define the stop-loss distance in pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Defina la distancia del stop-loss en pips.</span>"
+    },
+    {
+      "key": "t9973999ab8fa2024",
+      "english": "<span data-i18n-slot=\"0\">Lot Size = Risk Amount ÷ (Stop-Loss Distance × Pip Value per 1.00 Lot)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tamaño del lote = Monto de riesgo ÷ (Distancia de stop-loss × Valor de pip por 1.00 lote)</span>"
+    },
+    {
+      "key": "t3c794ef24a18e7ee",
+      "english": "<span data-i18n-slot=\"0\">This example is hypothetical and educational, not a recommendation for how much any trader should risk.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Este ejemplo es hipotético y educativo, no es una recomendación sobre cuánto debería arriesgar cualquier operador.</span>"
+    },
+    {
+      "key": "t1a2930d51ffc9dbb",
+      "english": "<span data-i18n-slot=\"0\">Assume:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Supongamos:</span>"
+    },
+    {
+      "key": "t757a33f8ff82a74a",
+      "english": "<span data-i18n-slot=\"0\">What's the Difference Between Lot Size and Leverage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cuál es la diferencia entre tamaño de lote y apalancamiento?</span>"
+    },
+    {
+      "key": "t5271f5cae83a2c42",
+      "english": "<span data-i18n-slot=\"0\">Suppose two traders both open the same 0.10-lot forex position. The trade volume is identical even if their accounts use different leverage settings.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Supongamos que dos operadores abren la misma posición de divisas de 0.10 lotes. El volumen comercial es idéntico incluso si sus cuentas utilizan diferentes configuraciones de apalancamiento.</span>"
+    },
+    {
+      "key": "t7b08e29c8f0ca8fe",
+      "english": "<span data-i18n-slot=\"0\">What It Controls</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Qué controla</span>"
+    },
+    {
+      "key": "t9af2614163624f2f",
+      "english": "<span data-i18n-slot=\"0\">Lot Size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tamaño del lote</span>"
+    },
+    {
+      "key": "ta1a4f02b8cda511f",
+      "english": "<span data-i18n-slot=\"0\">This is the key distinction in the lot size vs leverage question.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ésta es la distinción clave en la cuestión del tamaño del lote frente al apalancamiento.</span>"
+    },
+    {
+      "key": "td8ccc3ee191a4e8c",
+      "english": "<span data-i18n-slot=\"0\">Higher leverage does not transform a micro lot into a mini or standard lot. Likewise, reducing lot size does not change the leverage ratio itself.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un mayor apalancamiento no transforma un micro lote en un lote mini o estándar. Del mismo modo, reducir el tamaño del lote no cambia el índice de apalancamiento en sí.</span>"
+    },
+    {
+      "key": "te6d60e283309c9e8",
+      "english": "<span data-i18n-slot=\"0\">The distinction becomes more important outside forex.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La distinción se vuelve más importante fuera del mercado de divisas.</span>"
+    },
+    {
+      "key": "t3c7478ddd2733837",
+      "english": "<span data-i18n-slot=\"0\">Base-Currency Units</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Unidades monetarias base</span>"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t1e79136748555305",
+      "english": "<span data-i18n-slot=\"0\">For traders researching</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading in the UAE</span></span><span data-i18n-slot=\"4\">, position sizing is a useful next step after learning how currency pairs, pips and order sizes work.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UAE での外国為替取引</span></span><span data-i18n-slot=\"4\">を調べているトレーダーにとって、ポジションサイズの設定は、通貨ペア、ピップ、注文サイズの仕組みを学んだ後の有益な次のステップです。</span>"
+    }
+  ]
+}

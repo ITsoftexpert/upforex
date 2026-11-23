@@ -1,0 +1,3 @@
+const fs=require('node:fs'),crypto=require('node:crypto');
+function snapshotEvidence(){const file='server/data/public-blog-snapshot.json';const x=JSON.parse(fs.readFileSync(file,'utf8'));const ageMs=Date.now()-Date.parse(x.fetchedAt);return {file,source:x.source,fetchedAt:x.fetchedAt,reviewAfter:new Date(Date.parse(x.fetchedAt)+7*86400000).toISOString(),sha256:x.sha256,fileSha256:crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex'),articles:x.articles.length,ageMs,usable:ageMs>=0,needsCmsAttention:ageMs>=7*86400000,liveCmsFreshnessVerified:false};}
+module.exports={snapshotEvidence};

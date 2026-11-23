@@ -1,0 +1,1717 @@
+{
+  "language": "de",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t1a64a20effaea752",
+      "english": "<span data-i18n-slot=\"0\">Copy Trading vs. Social Trading vs. Mirror Trading: What’s the Difference?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Copy Trading, Social Trading und Mirror Trading im Vergleich: Was ist der Unterschied?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t312c736504761441",
+      "english": "<span data-i18n-slot=\"0\">Control over trades</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kontrolle über Geschäfte</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t8e719d4085180b00",
+      "english": "<span data-i18n-slot=\"0\">No exposure unless the user trades</span>",
+      "translation": "<span data-i18n-slot=\"0\">Keine Exposition, es sei denn, der Benutzer handelt</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t10a54c08f9259c9a",
+      "english": "<span data-i18n-slot=\"0\">Real funds are exposed when enabled</span>",
+      "translation": "<span data-i18n-slot=\"0\">Nach der Aktivierung ist echtes Kapital einem Risiko ausgesetzt</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t29703843e144be05",
+      "english": "<span data-i18n-slot=\"0\">Skill required</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kenntnisse erforderlich</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t7a4a93abc3fbaa15",
+      "english": "<span data-i18n-slot=\"0\">Blind reliance on another trader</span>",
+      "translation": "<span data-i18n-slot=\"0\">Blindes Vertrauen in einen anderen Händler</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t5675b6aeb20a016c",
+      "english": "<span data-i18n-slot=\"0\">Over-reliance may prevent independent learning</span>",
+      "translation": "<span data-i18n-slot=\"0\">Übermäßiges Vertrauen kann unabhängiges Lernen verhindern</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t73d2e36fb746d04f",
+      "english": "<span data-i18n-slot=\"0\">Regulation:</span><span data-i18n-slot=\"1\"> Verify the licensed legal entity and permitted activities.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Vorschrift:</span><span data-i18n-slot=\"1\"> Überprüfen Sie die lizenzierte juristische Person und die zulässigen Aktivitäten.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t7f7a39b52871ba9b",
+      "english": "<span data-i18n-slot=\"0\">Provider opens</span>",
+      "translation": "<span data-i18n-slot=\"0\">Anbieter eröffnet</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t250cb9cbe488e713",
+      "english": "<span data-i18n-slot=\"0\">Subscriber position also closes, subject to execution</span>",
+      "translation": "<span data-i18n-slot=\"0\">Die Abonnentenposition wird ebenfalls geschlossen, vorbehaltlich der Ausführung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t6212b029ab4f2e0d",
+      "english": "<span data-i18n-slot=\"0\">Experienced Trader Seeking Another Decision Source</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erfahrener Händler sucht eine andere Entscheidungsquelle</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t5db01143a781282b",
+      "english": "<span data-i18n-slot=\"0\">Review provider statistics, especially drawdown and account age.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Prüfen Sie die Statistiken des Anbieters, insbesondere Drawdown und Kontoalter.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "tf2e6a24e7f93ed1c",
+      "english": "<span data-i18n-slot=\"0\">Leaving copying active without review</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kopieren ohne Überprüfung aktiv lassen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t7a567b2f7a9410b9",
+      "english": "<span data-i18n-slot=\"0\">Can I stop copying a trader at any time?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kann ich das Kopieren eines Händlers jederzeit beenden?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "t2fa05e466a2a7b6a",
+      "english": "<span data-i18n-slot=\"0\">Market Maker Broker</span>",
+      "translation": "<span data-i18n-slot=\"0\">Market-Maker-Broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "td7b2668edf0bd030",
+      "english": "<span data-i18n-slot=\"0\">Broker-provided bid and ask quotes</span>",
+      "translation": "<span data-i18n-slot=\"0\">Vom Broker bereitgestellte Geld- und Briefkurse</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "tdfd0e2e9b92b47b5",
+      "english": "<span data-i18n-slot=\"0\">Often spread-only; fixed or variable</span>",
+      "translation": "<span data-i18n-slot=\"0\">Häufig nur über den Spread; fest oder variabel</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "td261995815964888",
+      "english": "<span data-i18n-slot=\"0\">Potentially higher when flow is internalized</span>",
+      "translation": "<span data-i18n-slot=\"0\">Möglicherweise höher, wenn der Orderfluss intern abgewickelt wird</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "tcbda12164b78b3f4",
+      "english": "<span data-i18n-slot=\"0\">Dealing-desk conflict may be reduced, but execution risks remain</span>",
+      "translation": "<span data-i18n-slot=\"0\">Interessenkonflikte des Dealing Desks können verringert werden, Ausführungsrisiken bleiben jedoch bestehen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t71875be7df9e780f",
+      "english": "<span data-i18n-slot=\"0\">Execution</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ausführung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t5d37d83719c8ca6b",
+      "english": "<span data-i18n-slot=\"0\">Broker controls quoting and internal execution</span>",
+      "translation": "<span data-i18n-slot=\"0\">Der Broker kontrolliert die Angebotserstellung und die interne Ausführung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t04d1eed537d31953",
+      "english": "<span data-i18n-slot=\"0\">Fills depend on connectivity, liquidity and available prices</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ausführungen hängen von Verbindung, Liquidität und verfügbaren Kursen ab</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t2574a02d3a089d2b",
+      "english": "<span data-i18n-slot=\"0\">0 pips, floating</span>",
+      "translation": "<span data-i18n-slot=\"0\">0 Pips, gleitend</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t3513a204804ffada",
+      "english": "<span data-i18n-slot=\"0\">Spread and commission:</span><span data-i18n-slot=\"1\"> Raw pricing plus commission can indicate ECN-style pricing but does not prove routing.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Spanne und Provision:</span><span data-i18n-slot=\"1\"> Rohpreise plus Provision können auf eine Preisgestaltung im ECN-Stil hinweisen, sind aber kein Beweis für die Weiterleitung.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t5d9f5942a6ef929e",
+      "english": "<span data-i18n-slot=\"0\">ECN-Style Spread</span>",
+      "translation": "<span data-i18n-slot=\"0\">Spread im ECN-Stil</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t33bbc52e649b04ea",
+      "english": "<span data-i18n-slot=\"0\">Illustrative spread</span>",
+      "translation": "<span data-i18n-slot=\"0\">Beispielhafter Spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t0ede3621fc2f8f9b",
+      "english": "<span data-i18n-slot=\"0\">1.0 pip</span>",
+      "translation": "<span data-i18n-slot=\"0\">1.0 Pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t480bf00ea3894538",
+      "english": "<span data-i18n-slot=\"0\">0.2 pip</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.2 Pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "teb70240898dc6e2a",
+      "english": "<span data-i18n-slot=\"0\">Tighter spread plus commission</span>",
+      "translation": "<span data-i18n-slot=\"0\">Engerer Spread plus Provision</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t69ee3d240e947ea4",
+      "english": "<span data-i18n-slot=\"0\">Wants a lower entry deposit</span>",
+      "translation": "<span data-i18n-slot=\"0\">Wünscht eine niedrigere Ersteinzahlung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t629f27a647956c1e",
+      "english": "<span data-i18n-slot=\"0\">Trades less frequently</span>",
+      "translation": "<span data-i18n-slot=\"0\">Handelt seltener</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "td0aa56d148ebe037",
+      "english": "<span data-i18n-slot=\"0\">Trades frequently</span>",
+      "translation": "<span data-i18n-slot=\"0\">Handelt häufig</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "te53962f9eb4de9b9",
+      "english": "<span data-i18n-slot=\"0\">Review the current conditions and</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">contact our support team</span></span><span data-i18n-slot=\"4\"> for clarification about pricing or execution.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Lesen Sie die aktuellen Bedingungen und</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">kontaktieren Sie unser Support-Team</span></span><span data-i18n-slot=\"4\"> für weitere Informationen zu Preisen oder Ausführung.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ]
+    },
+    {
+      "key": "t841aab038cda5cad",
+      "english": "<span data-i18n-slot=\"0\">Use margin instead of paying the full share value</span>",
+      "translation": "<span data-i18n-slot=\"0\">Verwenden Sie eine Marge, anstatt den vollen Aktienwert zu zahlen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t6f6747d0eaa1bd3e",
+      "english": "<span data-i18n-slot=\"0\">Use stop-loss and take-profit orders</span>",
+      "translation": "<span data-i18n-slot=\"0\">Verwenden Sie Stop-Loss- und Take-Profit-Orders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tba122e16b65fb8bc",
+      "english": "<span data-i18n-slot=\"0\">Stock CFD</span>",
+      "translation": "<span data-i18n-slot=\"0\">Aktien-CFD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t0db035dbc12185a9",
+      "english": "<span data-i18n-slot=\"0\">Buying the Share Outright</span>",
+      "translation": "<span data-i18n-slot=\"0\">Direkter Kauf der Aktie</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "te623b412afbe0b3e",
+      "english": "<span data-i18n-slot=\"0\">Ownership</span>",
+      "translation": "<span data-i18n-slot=\"0\">Eigentum</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ]
+    },
+    {
+      "key": "t609fc9063a0add7e",
+      "english": "<span data-i18n-slot=\"0\">Ability to go short</span>",
+      "translation": "<span data-i18n-slot=\"0\">Fähigkeit, Short-Positionen einzugehen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t310c4e1b40a7dd5d",
+      "english": "<span data-i18n-slot=\"0\">May require borrowing arrangements</span>",
+      "translation": "<span data-i18n-slot=\"0\">Möglicherweise sind Kreditvereinbarungen erforderlich</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t4640f4c7c5dec599",
+      "english": "<span data-i18n-slot=\"0\">Cash adjustments may apply</span>",
+      "translation": "<span data-i18n-slot=\"0\">Bargeldanpassungen können anfallen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t811bda4a75cf40e6",
+      "english": "<span data-i18n-slot=\"0\">Share-price decline and concentration</span>",
+      "translation": "<span data-i18n-slot=\"0\">Aktienkursrückgang und Konzentration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t0ecfe510ae34b07a",
+      "english": "<span data-i18n-slot=\"0\">Why Earnings Season Moves Apple, Tesla and Nvidia Differently</span>",
+      "translation": "<span data-i18n-slot=\"0\">Warum die Gewinnsaison Apple, Tesla und Nvidia unterschiedlich bewegt</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t4d646460dfdac82c",
+      "english": "<span data-i18n-slot=\"0\">Earnings-Season Profile Comparison</span>",
+      "translation": "<span data-i18n-slot=\"0\">Gewinn-Saisonprofil-Vergleich</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t09523b0fffbb83bd",
+      "english": "<span data-i18n-slot=\"0\">Stock</span>",
+      "translation": "<span data-i18n-slot=\"0\">Aktie</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t752bedd89c48bcb8",
+      "english": "<span data-i18n-slot=\"0\">Typical Volatility Driver</span>",
+      "translation": "<span data-i18n-slot=\"0\">Typischer Volatilitätstreiber</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "ta97dca43e18c401f",
+      "english": "<span data-i18n-slot=\"0\">Historical Earnings-Day Move Range*</span>",
+      "translation": "<span data-i18n-slot=\"0\">Historische Bandbreite der Kursbewegung am Tag der Ergebnisveröffentlichung*</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t93ea393b4f42705b",
+      "english": "<span data-i18n-slot=\"0\">Timing Consideration</span>",
+      "translation": "<span data-i18n-slot=\"0\">Zeitliche Überlegung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t5f27c7078a60caa5",
+      "english": "<span data-i18n-slot=\"0\">Variable; may be larger when guidance surprises</span>",
+      "translation": "<span data-i18n-slot=\"0\">Variabel; kann größer sein, wenn der Geschäftsausblick überrascht</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t9b0d32f1d146b14f",
+      "english": "<span data-i18n-slot=\"0\">AI demand, data-centre revenue and guidance</span>",
+      "translation": "<span data-i18n-slot=\"0\">KI-Nachfrage, Rechenzentrumsumsatz und Prognose</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "ta0a50c40f173eb80",
+      "english": "<span data-i18n-slot=\"0\">Can reprice sharply when guidance changes expectations</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kann sich stark neu bewerten, wenn der Geschäftsausblick die Erwartungen verändert</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t07c35a06043200c2",
+      "english": "<span data-i18n-slot=\"0\">Post-market releases may create gaps</span>",
+      "translation": "<span data-i18n-slot=\"0\">Veröffentlichungen nach Börsenschluss können Kurslücken verursachen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t80ae30d6e5eb40a8",
+      "english": "<span data-i18n-slot=\"0\">1. Confirm the Earnings Date and Time</span>",
+      "translation": "<span data-i18n-slot=\"0\">1. Bestätigen Sie Datum und Uhrzeit der Ergebnisveröffentlichung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t892b53df9e614483",
+      "english": "<span data-i18n-slot=\"0\">A company may beat current-quarter estimates but fall because guidance disappoints.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ein Unternehmen kann die Schätzungen für das laufende Quartal übertreffen, aber fallen, weil die Prognose enttäuschend ist.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tda7d49497b5070ab",
+      "english": "<span data-i18n-slot=\"0\">3. Check the Volatility Environment</span>",
+      "translation": "<span data-i18n-slot=\"0\">3. Überprüfen Sie die Volatilitätsumgebung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t0b6eb0acf75e6caa",
+      "english": "<span data-i18n-slot=\"0\">4. Calculate Position Size and Margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">4. Berechnen Sie Positionsgröße und Marge</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tb735fad84cc47ae2",
+      "english": "<span data-i18n-slot=\"0\">Common Mistakes During Earnings Season</span>",
+      "translation": "<span data-i18n-slot=\"0\">Häufige Fehler während der Gewinnsaison</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t45d4568cd33d3e8e",
+      "english": "<span data-i18n-slot=\"0\">Opening several correlated technology positions</span>",
+      "translation": "<span data-i18n-slot=\"0\">Eröffnung mehrerer korrelierender Technologiepositionen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t78759000d5305d0a",
+      "english": "<span data-i18n-slot=\"0\">Chasing the first post-release move</span>",
+      "translation": "<span data-i18n-slot=\"0\">Der ersten Kursbewegung nach der Veröffentlichung hinterherzulaufen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tb37d44eef9e65b4a",
+      "english": "<span data-i18n-slot=\"0\">Failing to confirm contract specifications</span>",
+      "translation": "<span data-i18n-slot=\"0\">Vertragsspezifikationen nicht zu prüfen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t1736862469f07ffe",
+      "english": "<span data-i18n-slot=\"0\">Confirm the earnings date and release time</span>",
+      "translation": "<span data-i18n-slot=\"0\">Bestätigen Sie das Ertragsdatum und die Veröffentlichungszeit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tf7ea0d79ebb73ac7",
+      "english": "<span data-i18n-slot=\"0\">Set stop-loss and take-profit levels</span>",
+      "translation": "<span data-i18n-slot=\"0\">Legen Sie Stop-Loss- und Take-Profit-Werte fest</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t34ede92a8f527032",
+      "english": "<span data-i18n-slot=\"0\">Allow for a gap beyond the stop</span>",
+      "translation": "<span data-i18n-slot=\"0\">Berücksichtigen Sie eine mögliche Kurslücke über den Stop hinaus</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t68e951a5ddc8c2a5",
+      "english": "<span data-i18n-slot=\"0\">Review correlated exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Überprüfen Sie die korrelierte Exposition</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t9fc90db79e2866e5",
+      "english": "<span data-i18n-slot=\"0\">Trading Preference</span>",
+      "translation": "<span data-i18n-slot=\"0\">Handelspräferenz</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tf3bb4be426a07214",
+      "english": "<span data-i18n-slot=\"0\">Apple CFD</span>",
+      "translation": "<span data-i18n-slot=\"0\">Apple-CFD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "te9fbf56db090a6d3",
+      "english": "<span data-i18n-slot=\"0\">Tesla CFD</span>",
+      "translation": "<span data-i18n-slot=\"0\">Tesla-CFD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "teb5b6c898b6e3c41",
+      "english": "<span data-i18n-slot=\"0\">Nvidia CFD</span>",
+      "translation": "<span data-i18n-slot=\"0\">Nvidia-CFD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tf214bc212342a3d1",
+      "english": "<span data-i18n-slot=\"0\">Main earnings focus</span>",
+      "translation": "<span data-i18n-slot=\"0\">Hauptgewinnschwerpunkt</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t86cff2bdc04a30e5",
+      "english": "<span data-i18n-slot=\"0\">Volatility character</span>",
+      "translation": "<span data-i18n-slot=\"0\">Volatilitätscharakter</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tdbc1eca7b6a8d2cb",
+      "english": "<span data-i18n-slot=\"0\">Can move sharply when guidance changes expectations</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kann sich stark bewegen, wenn der Geschäftsausblick die Erwartungen verändert</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t844e54e33e804fe7",
+      "english": "<span data-i18n-slot=\"0\">Often highly reactive to sentiment</span>",
+      "translation": "<span data-i18n-slot=\"0\">Reagiert oft sehr stark auf Stimmungen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t7a2bc935adb0f645",
+      "english": "<span data-i18n-slot=\"0\">Can reprice rapidly around guidance</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kann sich rund um die Veröffentlichung des Geschäftsausblicks schnell neu bewerten</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "tb904cacbdb6302c9",
+      "english": "<span data-i18n-slot=\"0\">Key risk</span>",
+      "translation": "<span data-i18n-slot=\"0\">Hauptrisiko</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "ta49463f5bf35eb97",
+      "english": "<span data-i18n-slot=\"0\">Rapid sentiment shifts</span>",
+      "translation": "<span data-i18n-slot=\"0\">Rasche Stimmungsschwankungen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t6eaa3472f5c0fb66",
+      "english": "<span data-i18n-slot=\"0\">Do you need more margin during earnings season?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Benötigen Sie während der Berichtssaison mehr Marge?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t3d0e496c37a89bc0",
+      "english": "<span data-i18n-slot=\"0\">Can you short a stock CFD if you expect bad earnings?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Können Sie einen Aktien-CFD verkaufen, wenn Sie schlechte Gewinne erwarten?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ]
+    },
+    {
+      "key": "t910b796c889aa1c0",
+      "english": "<span data-i18n-slot=\"0\">Stop-Loss vs. Take-Profit</span>",
+      "translation": "<span data-i18n-slot=\"0\">Stop-Loss und Take-Profit im Vergleich</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t1abcde0da401837d",
+      "english": "<span data-i18n-slot=\"0\">Take-Profit</span>",
+      "translation": "<span data-i18n-slot=\"0\">Gewinnübernahme</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t50768ff93899cf4d",
+      "english": "<span data-i18n-slot=\"0\">Triggers when price moves</span>",
+      "translation": "<span data-i18n-slot=\"0\">Wird ausgelöst, wenn sich der Preis bewegt</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t252922de74aee9ea",
+      "english": "<span data-i18n-slot=\"0\">In favour of the position</span>",
+      "translation": "<span data-i18n-slot=\"0\">Für die Position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t36a84431c9a2fc7b",
+      "english": "<span data-i18n-slot=\"0\">Defines where the trade idea is invalid</span>",
+      "translation": "<span data-i18n-slot=\"0\">Definiert, wo die Handelsidee ungültig ist</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t409ec8e566bce757",
+      "english": "<span data-i18n-slot=\"0\">How Do Stop-Loss and Take-Profit Work Together?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Wie wirken Stop-Loss und Take-Profit zusammen?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t4ae3f51925b4387b",
+      "english": "<span data-i18n-slot=\"0\">Risk-reward ratio = Planned risk ÷ Planned reward</span>",
+      "translation": "<span data-i18n-slot=\"0\">Risiko-Ertrags-Verhältnis = Geplantes Risiko ÷ Geplanter Ertrag</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "tf9f6d3daad5fecc2",
+      "english": "<span data-i18n-slot=\"0\">Market-session liquidity</span>",
+      "translation": "<span data-i18n-slot=\"0\">Marktsitzungsliquidität</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t2d06582c15b84750",
+      "english": "<span data-i18n-slot=\"0\">Submit the order only after checking the planned exposure.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Übermitteln Sie die Order erst, nachdem Sie das geplante Risikoengagement geprüft haben.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t40140d52191c10a6",
+      "english": "<span data-i18n-slot=\"0\">Confirm the modification.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Bestätigen Sie die Änderung.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "ta60bc9ec08618060",
+      "english": "<span data-i18n-slot=\"0\">Placing the Stop Too Close</span>",
+      "translation": "<span data-i18n-slot=\"0\">Den Stop zu nah setzen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t8f6fcc821bbd6418",
+      "english": "<span data-i18n-slot=\"0\">Moving the Stop Farther Away</span>",
+      "translation": "<span data-i18n-slot=\"0\">Den Stop weiter entfernen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "tb2b4172f70e860cb",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between stop-loss and take-profit?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Was ist der Unterschied zwischen Stop-Loss und Take-Profit?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ]
+    },
+    {
+      "key": "t33e7c97051276218",
+      "english": "<span data-i18n-slot=\"0\">Risk Disclosure and Regulatory Notice</span>",
+      "translation": "<span data-i18n-slot=\"0\">Risikooffenlegung und behördliche Hinweise</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tccea82c8fc8dc80a",
+      "english": "<span data-i18n-slot=\"0\">Quick Answer:</span><span data-i18n-slot=\"1\"> For traders in the UAE and wider Gulf, the most active window is usually the London–New York overlap: approximately 4:00–8:00 p.m. GST during daylight-saving months and 5:00–9:00 p.m. GST during standard time. This period often brings stronger liquidity in major forex pairs, gold and US index markets.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kurze Antwort:</span><span data-i18n-slot=\"1\"> Für Trader in den Vereinigten Arabischen Emiraten und der weiteren Golfregion ist das aktivste Zeitfenster meist die Überschneidung zwischen London und New York: ungefähr 4:00–8:00 p.m. GST in den Sommerzeitmonaten und 5:00–9:00 p.m. GST während der Normalzeit. In diesem Zeitraum ist die Liquidität bei Hauptwährungspaaren, Gold und US-Indexmärkten häufig höher.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t10f1f8197e76c123",
+      "english": "<span data-i18n-slot=\"0\">Session</span>",
+      "translation": "<span data-i18n-slot=\"0\">Sitzung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tb89578adfb9c2ce1",
+      "english": "<span data-i18n-slot=\"0\">Sydney</span>",
+      "translation": "<span data-i18n-slot=\"0\">Sydney</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t5274a18950de12db",
+      "english": "<span data-i18n-slot=\"0\">8:00 a.m.–5:00 p.m. Sydney time</span>",
+      "translation": "<span data-i18n-slot=\"0\">8:00 a.m.–5:00 p.m., Ortszeit Sydney</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tb00fd5e977674c91",
+      "english": "<span data-i18n-slot=\"0\">9:00 a.m.–6:00 p.m. Japan time</span>",
+      "translation": "<span data-i18n-slot=\"0\">9:00 a.m.–6:00 p.m., japanische Zeit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t23a1878f789ac455",
+      "english": "<span data-i18n-slot=\"0\">London</span>",
+      "translation": "<span data-i18n-slot=\"0\">London</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t16d5089f571394af",
+      "english": "<span data-i18n-slot=\"0\">8:00 a.m.–5:00 p.m. London time</span>",
+      "translation": "<span data-i18n-slot=\"0\">8:00 a.m.–5:00 p.m., Ortszeit London</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t41045ba0f5dbfd8a",
+      "english": "<span data-i18n-slot=\"0\">11:00 a.m.–8:00 p.m. during BST; noon–9:00 p.m. during GMT</span>",
+      "translation": "<span data-i18n-slot=\"0\">11:00 a.m.–8:00 p.m. während BST; mittags–9:00 p.m. während GMT</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t5748fdb63b1202ae",
+      "english": "<span data-i18n-slot=\"0\">New York</span>",
+      "translation": "<span data-i18n-slot=\"0\">New York</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tb80c9d585a9d5a74",
+      "english": "<span data-i18n-slot=\"0\">8:00 a.m.–5:00 p.m. New York time</span>",
+      "translation": "<span data-i18n-slot=\"0\">8:00 a.m.–5:00 p.m., Ortszeit New York</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t630beccf656c9113",
+      "english": "<span data-i18n-slot=\"0\">4:00 p.m.–1:00 a.m. during EDT; 5:00 p.m.–2:00 a.m. during EST</span>",
+      "translation": "<span data-i18n-slot=\"0\">4:00 p.m.–1:00 a.m. während EDT; 5:00 p.m.–2:00 a.m. während EST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t7c7dac56ba9333d0",
+      "english": "<span data-i18n-slot=\"0\">Tokyo–London:</span><span data-i18n-slot=\"1\"> About </span><span data-i18n-slot=\"2\">11:00 a.m.–1:00 p.m. GST during BST</span><span data-i18n-slot=\"3\"> or </span><span data-i18n-slot=\"4\">noon–1:00 p.m. during GMT</span><span data-i18n-slot=\"5\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Tokio–London:</span><span data-i18n-slot=\"1\"> Ungefähr </span><span data-i18n-slot=\"2\">11:00 a.m.–1:00 p.m. GST während BST</span><span data-i18n-slot=\"3\"> oder </span><span data-i18n-slot=\"4\">mittags–1:00 p.m. während GMT</span><span data-i18n-slot=\"5\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tf04f9734d9194cda",
+      "english": "<span data-i18n-slot=\"0\">The London–New York overlap is generally the most active four-hour period in the forex day.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Die Überschneidung zwischen London und New York ist im Allgemeinen der aktivste Vier-Stunden-Zeitraum am Devisentag.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t926e6b4f9ff34173",
+      "english": "<span data-i18n-slot=\"0\">For UAE traders, it normally occurs at:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Für Händler aus den Vereinigten Arabischen Emiraten findet es normalerweise statt:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t75b544e4922d4508",
+      "english": "<span data-i18n-slot=\"0\">UK and US daylight saving</span>",
+      "translation": "<span data-i18n-slot=\"0\">Sommerzeit in Großbritannien und den USA</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t89255b7a88f2ce90",
+      "english": "<span data-i18n-slot=\"0\">Noon–9:00 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Mittags–9:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t0ce299f7605a6c33",
+      "english": "<span data-i18n-slot=\"0\">The official Nasdaq cash market trades from </span><span data-i18n-slot=\"1\">9:30 a.m. to 4:00 p.m. Eastern Time</span><span data-i18n-slot=\"2\">, Monday through Friday.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Der offizielle Nasdaq-Kassamarkt handelt von </span><span data-i18n-slot=\"1\">9:30 a.m. bis 4:00 p.m. Eastern Time</span><span data-i18n-slot=\"2\">, Montag bis Freitag.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t4ca3bdfd7a7cb463",
+      "english": "<span data-i18n-slot=\"0\">During US daylight saving:</span><span data-i18n-slot=\"1\"> 5:30 p.m.–midnight GST</span>",
+      "translation": "<span data-i18n-slot=\"0\">Während der US-Sommerzeit:</span><span data-i18n-slot=\"1\"> 5:30 p.m.–Mitternacht GST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "taede9e21e34278bb",
+      "english": "<span data-i18n-slot=\"0\">Nasdaq also lists pre-market trading from 4:00–9:30 a.m. ET and after-hours trading from 4:00–8:00 p.m. ET. In GST, that means:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Nasdaq nennt außerdem vorbörslichen Handel von 4:00–9:30 a.m. ET und nachbörslichen Handel von 4:00–8:00 p.m. ET. In GST bedeutet das:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t2241080da04ca32b",
+      "english": "<span data-i18n-slot=\"0\">Nasdaq Session</span>",
+      "translation": "<span data-i18n-slot=\"0\">Nasdaq-Sitzung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tfbae3f11b796c35b",
+      "english": "<span data-i18n-slot=\"0\">During US DST</span>",
+      "translation": "<span data-i18n-slot=\"0\">Während der US-Sommerzeit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t5dd34091af43dcd3",
+      "english": "<span data-i18n-slot=\"0\">Pre-market</span>",
+      "translation": "<span data-i18n-slot=\"0\">Vorbörslicher Handel</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t30703637d1dfe623",
+      "english": "<span data-i18n-slot=\"0\">5:30 p.m.–midnight</span>",
+      "translation": "<span data-i18n-slot=\"0\">5:30 p.m.–Mitternacht</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t1c74a3e9cb7f4567",
+      "english": "<span data-i18n-slot=\"0\">After-hours</span>",
+      "translation": "<span data-i18n-slot=\"0\">Nach Geschäftsschluss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t03a9fff279ed75c4",
+      "english": "<span data-i18n-slot=\"0\">Approximately 4:00–8:00 p.m. GST during daylight-saving periods</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ungefähr 4:00–8:00 p.m. GST während der Sommerzeit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "td77c5d38b74ffcfa",
+      "english": "<span data-i18n-slot=\"0\">ADX’s official exchange-timings information currently lists its trading week as </span><span data-i18n-slot=\"1\">Monday through Friday</span><span data-i18n-slot=\"2\">. Its official auction information confirms the pre-opening session from </span><span data-i18n-slot=\"3\">9:30–10:00 a.m. GST</span><span data-i18n-slot=\"4\"> and shows that the pre-close auction begins at </span><span data-i18n-slot=\"5\">2:45 p.m. GST</span><span data-i18n-slot=\"6\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Die offiziellen Angaben der ADX zu den Börsenzeiten nennen derzeit </span><span data-i18n-slot=\"1\">Montag bis Freitag</span><span data-i18n-slot=\"2\"> als Handelswoche. Die offiziellen Auktionsangaben bestätigen die Voreröffnungsphase von </span><span data-i18n-slot=\"3\">9:30–10:00 a.m. GST</span><span data-i18n-slot=\"4\"> und zeigen, dass die Schlussauktion um </span><span data-i18n-slot=\"5\">2:45 p.m. GST</span><span data-i18n-slot=\"6\"> beginnt.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t4d08980ac2d070ba",
+      "english": "<span data-i18n-slot=\"0\">ADX Session Stage</span>",
+      "translation": "<span data-i18n-slot=\"0\">ADX-Sitzungsphase</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t7c2bb0537c71826f",
+      "english": "<span data-i18n-slot=\"0\">Which Trading Overlap Suits Which Instrument?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Welche Handelsüberschneidung passt zu welchem Instrument?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t757af9fe103672b6",
+      "english": "<span data-i18n-slot=\"0\">11:00 a.m.–1:00 p.m. or noon–1:00 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">11:00 a.m.–1:00 p.m. oder mittags–1:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t3f0fe48aa62bae40",
+      "english": "<span data-i18n-slot=\"0\">4:00–8:00 p.m. or 5:00–9:00 p.m.</span>",
+      "translation": "<span data-i18n-slot=\"0\">4:00–8:00 p.m. oder 5:00–9:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "td323b12ac021f5c2",
+      "english": "<span data-i18n-slot=\"0\">5:30 p.m. or 6:30 p.m. onward</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ab 5:30 p.m. oder 6:30 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "te6314041f36bc37f",
+      "english": "<span data-i18n-slot=\"0\">The London–New York overlap is usually the most active forex window. It generally runs from 4:00–8:00 p.m. GST during UK and US daylight-saving periods and 5:00–9:00 p.m. during standard time. The best window for an individual trader still depends on the currency pair, strategy and risk tolerance.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Die Überschneidung zwischen London und New York ist normalerweise das aktivste Forex-Zeitfenster. Sie liegt im Allgemeinen während der britischen und US-amerikanischen Sommerzeit zwischen 4:00–8:00 p.m. GST und während der Normalzeit zwischen 5:00–9:00 p.m. Das beste Zeitfenster für einen einzelnen Trader hängt weiterhin von Währungspaar, Strategie und Risikotoleranz ab.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t6b5ddda065b29efc",
+      "english": "<span data-i18n-slot=\"0\">The Nasdaq regular market opens at 5:30 p.m. GST while the United States observes daylight saving and at 6:30 p.m. GST during US standard time. Nasdaq’s official regular session runs from 9:30 a.m. to 4:00 p.m. Eastern Time.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Der reguläre Nasdaq-Markt öffnet während der US-Sommerzeit um 5:30 p.m. GST und während der US-Normalzeit um 6:30 p.m. GST. Die offizielle reguläre Nasdaq-Sitzung dauert von 9:30 a.m. bis 4:00 p.m. Eastern Time.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "t0ad674d4eba88ce8",
+      "english": "<span data-i18n-slot=\"0\">ADX’s official website currently lists its trading week as </span><span data-i18n-slot=\"1\">Monday through Friday</span><span data-i18n-slot=\"2\">. The pre-opening session runs from </span><span data-i18n-slot=\"3\">9:30–10:00 a.m. GST</span><span data-i18n-slot=\"4\">, followed by continuous trading from </span><span data-i18n-slot=\"5\">10:00 a.m.–2:45 p.m. GST</span><span data-i18n-slot=\"6\">. Holiday and special-session schedules should be confirmed directly with ADX.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Auf ihrer offiziellen Website nennt die ADX derzeit </span><span data-i18n-slot=\"1\">Montag bis Freitag</span><span data-i18n-slot=\"2\"> als Handelswoche. Die Voreröffnungsphase läuft von </span><span data-i18n-slot=\"3\">9:30–10:00 a.m. GST</span><span data-i18n-slot=\"4\">, gefolgt vom fortlaufenden Handel von </span><span data-i18n-slot=\"5\">10:00 a.m.–2:45 p.m. GST</span><span data-i18n-slot=\"6\">. Feiertagszeiten und besondere Handelssitzungen sollten direkt bei der ADX bestätigt werden.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "te7c5ed0d56f83fab",
+      "english": "<span data-i18n-slot=\"0\">Does Gulf Standard Time change with daylight saving?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ändert sich die Golf-Standardzeit mit der Sommerzeit?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ]
+    },
+    {
+      "key": "tfb263a0403b5c248",
+      "english": "<span data-i18n-slot=\"0\">How Leverage and Margin Work Together Worked Example</span>",
+      "translation": "<span data-i18n-slot=\"0\">Rechenbeispiel: So wirken Hebel und Margin zusammen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t71607dda5224e008",
+      "english": "<span data-i18n-slot=\"0\">A trader has:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ein Händler hat:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tcd9d397c8dc130f0",
+      "english": "<span data-i18n-slot=\"0\">Account balance:</span><span data-i18n-slot=\"1\"> $1,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kontostand:</span><span data-i18n-slot=\"1\"> 1,000 $</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tf7d6b3e1210473d5",
+      "english": "<span data-i18n-slot=\"0\">Account equity before the trade:</span><span data-i18n-slot=\"1\"> $1,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kontokapital vor dem Handel:</span><span data-i18n-slot=\"1\"> 1,000 $</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tf274f4b86b29901c",
+      "english": "<span data-i18n-slot=\"0\">Approximate notional value:</span><span data-i18n-slot=\"1\"> $100,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ungefährer Nominalwert:</span><span data-i18n-slot=\"1\"> 100,000 $</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t7724f10df3f3c7d7",
+      "english": "<span data-i18n-slot=\"0\">Step 1: Calculate Required Margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Schritt 1: Erforderliche Marge berechnen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tfe4a708012f28cec",
+      "english": "<span data-i18n-slot=\"0\">Required margin = $100,000 ÷ 100 = $1,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erforderliche Marge = 100,000 $ ÷ 100 = 1,000 $</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tb19cd3a45e280a08",
+      "english": "<span data-i18n-slot=\"0\">Step 2: Calculate Free Margin at Entry</span>",
+      "translation": "<span data-i18n-slot=\"0\">Schritt 2: Berechnen Sie die freie Marge beim Eintritt</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t1a624c7d399d5491",
+      "english": "<span data-i18n-slot=\"0\">Step 3: Apply a 50-Pip Adverse Move</span>",
+      "translation": "<span data-i18n-slot=\"0\">Schritt 3: Wenden Sie eine 50-Pip-Gegenbewegung an</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t5da21ab5c6ad558f",
+      "english": "<span data-i18n-slot=\"0\">50 pips × $10 = $500 floating loss</span>",
+      "translation": "<span data-i18n-slot=\"0\">50 Pips × $10 = $500 nicht realisierter Verlust</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t97f7d34d985b2e11",
+      "english": "<span data-i18n-slot=\"0\">Balance:</span><span data-i18n-slot=\"1\"> $1,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Guthaben:</span><span data-i18n-slot=\"1\"> 1,000 $</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t065c9a72ad1efa6e",
+      "english": "<span data-i18n-slot=\"0\">Used margin:</span><span data-i18n-slot=\"1\"> $1,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Genutzte Marge:</span><span data-i18n-slot=\"1\"> 1,000&nbsp;$</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t1fc0b8b4b238af5a",
+      "english": "<span data-i18n-slot=\"0\">The account has reached a 50% margin level, showing why available margin alone does not make a position manageable.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Das Konto hat ein Margin-Level von 50% erreicht. Dies zeigt, warum verfügbare Margin allein eine Position nicht beherrschbar macht.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tdb826257770fa6c7",
+      "english": "<span data-i18n-slot=\"0\">The table below compares the margin needed for the same $100,000 notional position. These are illustrative ratios and do not state which ratios are available on a specific account.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Die folgende Tabelle vergleicht die erforderliche Margin für dieselbe Position mit einem Nominalwert von $100,000. Die Hebelverhältnisse dienen der Veranschaulichung und sagen nicht aus, welche Verhältnisse auf einem bestimmten Konto verfügbar sind.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t6bbfe3fa70f80e4a",
+      "english": "<span data-i18n-slot=\"0\">Required Margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Erforderliche Marge</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "td328509a667ac44a",
+      "english": "<span data-i18n-slot=\"0\">Market Exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Marktexponierung</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "td7102d73dd8f91eb",
+      "english": "<span data-i18n-slot=\"0\">The </span><span data-i18n-slot=\"1\">margin call meaning</span><span data-i18n-slot=\"2\"> is a warning or account condition reached when equity falls to a set percentage of used margin. The account then has limited capacity to support open trades.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ein </span><span data-i18n-slot=\"1\">Margin Call</span><span data-i18n-slot=\"2\"> bezeichnet eine Warnung oder einen Kontozustand, der erreicht wird, wenn das Eigenkapital auf einen festgelegten Prozentsatz der verwendeten Margin fällt. Das Konto kann offene Trades dann nur noch begrenzt unterstützen.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t16505bf263f4fa8a",
+      "english": "<span data-i18n-slot=\"0\">What Is Margin Level, and How Is It Calculated?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Was ist das Margenniveau und wie wird es berechnet?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t11014367d02ed627",
+      "english": "<span data-i18n-slot=\"0\">Margin level is calculated as:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Die Margenhöhe wird wie folgt berechnet:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tcb8c616a8edb6176",
+      "english": "<span data-i18n-slot=\"0\">Used margin:</span><span data-i18n-slot=\"1\"> $500</span>",
+      "translation": "<span data-i18n-slot=\"0\">Genutzte Marge:</span><span data-i18n-slot=\"1\"> 500 $</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tbc66eedf971ad7b3",
+      "english": "<span data-i18n-slot=\"0\">Review margin level before adding positions.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Überprüfen Sie die Margenhöhe, bevor Sie Positionen hinzufügen.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t83591ea4e85cecd2",
+      "english": "<span data-i18n-slot=\"0\">There is no single ruling for every arrangement. Islamic scholars may assess the full contract rather than the leverage ratio alone.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Es gibt keine einheitliche Regelung für jede Vereinbarung. Islamwissenschaftler bewerten möglicherweise den gesamten Vertrag und nicht nur die Verschuldungsquote.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t90a0826b0fc4adad",
+      "english": "<span data-i18n-slot=\"0\">Quick Reference Table</span>",
+      "translation": "<span data-i18n-slot=\"0\">Kurzreferenztabelle</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t9d84ae124b48be26",
+      "english": "<span data-i18n-slot=\"0\">Notional value ÷ Required margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Nominalwert ÷ Erforderliche Marge</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tf57d4841a94a2857",
+      "english": "<span data-i18n-slot=\"0\">Free Margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Freie Marge</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t43aebaadf5410a93",
+      "english": "<span data-i18n-slot=\"0\">Equity − Used margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Eigenkapital − verwendete Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t9c08d4e7ef8f6641",
+      "english": "<span data-i18n-slot=\"0\">Margin Call</span>",
+      "translation": "<span data-i18n-slot=\"0\">Margin-Call</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "tfa51a876a199ad26",
+      "english": "<span data-i18n-slot=\"0\">Stop-Out</span>",
+      "translation": "<span data-i18n-slot=\"0\">Stop-Out (Zwangsschließung)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ]
+    },
+    {
+      "key": "t165acf2432741f14",
+      "english": "<span data-i18n-slot=\"0\">Skipping demo practice</span>",
+      "translation": "<span data-i18n-slot=\"0\">Demoübung überspringen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t23d7016f0e63bd0b",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging without understanding margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Überverschuldung ohne Verständnis der Marge</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tfd26f4ab578bcbdb",
+      "english": "<span data-i18n-slot=\"0\">Entering trades without a stop-loss</span>",
+      "translation": "<span data-i18n-slot=\"0\">Eingabe von Geschäften ohne Stop-Loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t9c41744f30873f43",
+      "english": "<span data-i18n-slot=\"0\">Trading money needed for essential expenses</span>",
+      "translation": "<span data-i18n-slot=\"0\">Mit Geld handeln, das für notwendige Ausgaben gebraucht wird</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ]
+    },
+    {
+      "key": "tffd64fe716550f63",
+      "english": "<span data-i18n-slot=\"0\">Mistake #1: Trading Without a Written Plan</span>",
+      "translation": "<span data-i18n-slot=\"0\">Fehler Nr. 1: Handeln ohne schriftlichen Plan</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t119f82946e459876",
+      "english": "<span data-i18n-slot=\"0\">Define trading hours and maximum exposure.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Definieren Sie Handelszeiten und maximales Engagement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t7b3faba573b3e4b3",
+      "english": "<span data-i18n-slot=\"0\">Mistake #2: Skipping Demo Practice</span>",
+      "translation": "<span data-i18n-slot=\"0\">Fehler Nr. 2: Demo-Übungen auslassen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t33aecf3374bc8b21",
+      "english": "<span data-i18n-slot=\"0\">Practise order placement and stop-loss use.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Üben Sie die Platzierung von Aufträgen und die Verwendung von Stop-Loss.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t4a9157b98edfcb21",
+      "english": "<span data-i18n-slot=\"0\">Move forward only after the process is consistent.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Fortfahren Sie erst, wenn der Prozess konsistent ist.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t4bed96fb30363a6d",
+      "english": "<span data-i18n-slot=\"0\">Mistake #3: Overleveraging Without Understanding Margin</span>",
+      "translation": "<span data-i18n-slot=\"0\">Fehler Nr. 3: Übermäßige Verschuldung, ohne die Marge zu verstehen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t74b047d2e1991844",
+      "english": "<span data-i18n-slot=\"0\">Mistake #4: Trading Without a Stop-Loss</span>",
+      "translation": "<span data-i18n-slot=\"0\">Fehler Nr. 4: Handeln ohne Stop-Loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t6a747aafaf733f69",
+      "english": "<span data-i18n-slot=\"0\">Review the loss before trading again.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Überprüfen Sie den Verlust, bevor Sie erneut handeln.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t658133f719f1cc81",
+      "english": "<span data-i18n-slot=\"0\">Mistake #7: Trading Money Needed for Essential Expenses</span>",
+      "translation": "<span data-i18n-slot=\"0\">Fehler Nr. 7: Mit Geld handeln, das für notwendige Ausgaben gebraucht wird</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tf3729a5dd0d19701",
+      "english": "<span data-i18n-slot=\"0\">Step away when urgency affects judgement.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Treten Sie zurück, wenn Dringlichkeit das Urteilsvermögen beeinträchtigt.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "t5beba7f2ead26992",
+      "english": "<span data-i18n-slot=\"0\">Reactive Trader</span>",
+      "translation": "<span data-i18n-slot=\"0\">Reaktiver Händler</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    },
+    {
+      "key": "tc336cd09b9de75f3",
+      "english": "<span data-i18n-slot=\"0\">Trades to relieve fear or frustration</span>",
+      "translation": "<span data-i18n-slot=\"0\">Handel, um Angst oder Frustration abzubauen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ]
+    }
+  ]
+}

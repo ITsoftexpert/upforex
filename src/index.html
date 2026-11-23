@@ -5,6 +5,7 @@
     <title>Globally Trusted & Regulated Forex Trading Platform</title>
     <base href="/" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://upforex-assets.s3.eu-north-1.amazonaws.com" />
 
     <!-- ✅ Meta Description -->
     <meta
@@ -76,6 +77,7 @@
       gtag("js", new Date());
 
       gtag("config", "G-B5C306C5Z8");
+      gtag("config", "G-464B5CB56E");
     </script>
     <!--  end Google tag (gtag.js) -->
 
@@ -97,20 +99,6 @@
     </script>
     <!-- End Google Tag Manager -->
 
-    <!-- Google tag (gtag.js) -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-464B5CB56E"
-    ></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-
-      gtag("config", "G-464B5CB56E");
-    </script>
   </head>
 
   <body>
@@ -165,11 +153,48 @@
         });
       }
 
+      function getUrlLanguage() {
+        var languages = {
+          hi: "hi", ar: "ar", fr: "fr", es: "es", de: "de",
+          "zh-cn": "zh-CN", "zh-tw": "zh-TW", ja: "ja", pt: "pt", ru: "ru",
+        };
+        var prefix = location.pathname.split("/")[1];
+        return Object.prototype.hasOwnProperty.call(languages, prefix)
+          ? languages[prefix]
+          : null;
+      }
+
+      function hasNativeTranslation() {
+        return document.documentElement.getAttribute('data-native-i18n') === 'complete' ||
+          document.documentElement.getAttribute('data-native-page-ready') === 'true';
+      }
+
+      function setGoogleTranslateLanguageCookie(langCode) {
+        clearGoogleTranslateCookies();
+        if (langCode !== "en") {
+          var value = "/en/" + langCode;
+          document.cookie = "googtrans=" + value + "; path=/;";
+          if (/(^|\.)upforex\.com$/.test(location.hostname)) {
+            document.cookie = "googtrans=" + value + "; path=/; domain=.upforex.com;";
+          }
+        }
+      }
+
       /* ─────────────────────────────────────────────
          STEP 0 – If a non-English language is saved,
          hide the body IMMEDIATELY so no English flash
       ───────────────────────────────────────────── */
       (function () {
+        // Resolve the URL before Angular starts and before deciding whether
+        // to load the body translator. A locale URL overrides saved preferences.
+        if (hasNativeTranslation()) { clearGoogleTranslateCookies(); return; }
+        var routeLanguage = getUrlLanguage();
+        if (routeLanguage) {
+          localStorage.setItem("uf_lang", routeLanguage);
+          localStorage.setItem("upforex_language", routeLanguage);
+          localStorage.setItem("upforex_lang_manual", "true");
+          localStorage.setItem("uf_lang_manual", "true");
+        }
         var saved = localStorage.getItem("uf_lang");
         var manual = localStorage.getItem("upforex_lang_manual") === "true";
 
@@ -183,6 +208,9 @@
         }
 
         if (manual && saved && saved !== "en") {
+          // The widget reads this during initialization, before its select's
+          // change handler is ready. Set it on the very first visit as well.
+          setGoogleTranslateLanguageCookie(saved);
           document.documentElement.style.visibility = "hidden";
           /* Safety net: always show after 4s even if GT fails */
           setTimeout(function () {
@@ -364,12 +392,14 @@
 
       /* ── Google Translate init callback ── */
       function googleTranslateElementInit() {
+        if (hasNativeTranslation()) { revealPage(); return; }
         setTimeout(function () {
           new google.translate.TranslateElement(
             {
               pageLanguage: "en",
               includedLanguages: "en,hi,ar,fr,es,de,zh-CN,zh-TW,ja,pt,ru",
-              layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+              // The programmatic translator below needs the native select.
+              layout: google.translate.TranslateElement.InlineLayout.VERTICAL,
               autoDisplay: false,
               multilanguagePage: true,
             },
@@ -396,16 +426,20 @@
 
       /* ── Wait for GT <select> then translate ── */
       function waitForSelectThenTranslate(langCode, maxTries) {
+        if (hasNativeTranslation()) { revealPage(); return; }
         var tries = 0;
         var iv = setInterval(function () {
+          if (hasNativeTranslation()) { clearInterval(iv); revealPage(); return; }
           var sel = document.querySelector(
             "#google_translate_element select.goog-te-combo",
           );
-          if (sel) {
+          if (sel && Array.prototype.some.call(sel.options, function (option) {
+            return option.value === langCode;
+          })) {
             clearInterval(iv);
             /* Watch DOM → reveal AFTER GT finishes translating */
             watchForTranslationComplete(revealPage);
-            doTranslate(sel, langCode);
+            if (sel.value !== langCode) doTranslate(sel, langCode);
           } else if (++tries >= maxTries) {
             clearInterval(iv);
             revealPage(); /* GT failed to load → show page anyway */
@@ -415,6 +449,7 @@
 
       /* ── Fire translation ── */
       function doTranslate(sel, langCode) {
+        if (hasNativeTranslation()) { revealPage(); return; }
         /* Always clear old cookie first */
        clearGoogleTranslateCookies();
 
@@ -433,16 +468,10 @@
         document.cookie = "googtrans=" + cv + "; path=/;";
         document.cookie = "googtrans=" + cv + "; path=/; domain=.upforex.com;";
 
-        /* Reset select to English first, then dispatch the new lang.
-           This forces Google Translate to re-trigger even if it was
-           already on a translated state. */
-        sel.value = "en";
+        // Select the requested language directly. Dispatching an English
+        // reset first races the widget's asynchronous translation request.
+        sel.value = langCode;
         sel.dispatchEvent(new Event("change", { bubbles: true }));
-
-        setTimeout(function () {
-          sel.value = langCode;
-          sel.dispatchEvent(new Event("change", { bubbles: true }));
-        }, 50);
       }
 
       function updateBtnLabel(langCode) {
@@ -580,13 +609,35 @@
 
     <script>
       (function () {
-        var manual = localStorage.getItem("upforex_lang_manual") === "true";
-        var saved = localStorage.getItem("uf_lang");
-        if (manual && saved && saved !== "en") {
+        var requestedLanguage = null;
+        var loading = false;
+        function syncBodyLanguage() {
+          if (hasNativeTranslation()) { clearGoogleTranslateCookies(); revealPage(); return; }
+          var manual = localStorage.getItem("upforex_lang_manual") === "true";
+          var saved = localStorage.getItem("uf_lang");
+          if (!manual || !saved || saved === "en" || requestedLanguage === saved) return;
+          requestedLanguage = saved;
+          setGoogleTranslateLanguageCookie(saved);
+          if (window.google && google.translate && google.translate.TranslateElement) {
+            waitForSelectThenTranslate(saved, 60);
+            return;
+          }
+          if (loading) return;
+          loading = true;
           var s = document.createElement("script");
+          s.async = true;
           s.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+          s.onerror = function () {
+            loading = false;
+            requestedLanguage = null;
+            revealPage();
+          };
           document.body.appendChild(s);
         }
+        // Also handle entering a locale URL through Angular navigation from
+        // an English page, where no translator script was initially needed.
+        window.addEventListener("upforex:language-change", syncBodyLanguage);
+        syncBodyLanguage();
       })();
     </script>
 

@@ -1,0 +1,327 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t9c05db9f7f5a479d",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alavancagem excessiva</span>"
+    },
+    {
+      "key": "ta20a322b29b6c4c7",
+      "english": "<span data-i18n-slot=\"0\">Size is chosen without margin awareness</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O tamanho é escolhido sem conhecimento de margem.</span>"
+    },
+    {
+      "key": "t3e5129140d119dce",
+      "english": "<span data-i18n-slot=\"0\">The trader avoids accepting a losing idea</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O comerciante evita aceitar uma ideia perdida.</span>"
+    },
+    {
+      "key": "t5dbc2cdc69536dd6",
+      "english": "<span data-i18n-slot=\"0\">Revenge trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Negociação por vingança</span>"
+    },
+    {
+      "key": "t85ece72a1eeb4108",
+      "english": "<span data-i18n-slot=\"0\">Attention stays on price movement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Atenção, fica em movimento de preços.</span>"
+    },
+    {
+      "key": "tffcd114d2e05b0c1",
+      "english": "<span data-i18n-slot=\"0\">Wrong broker or account</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Corretor errado ou conta.</span>"
+    },
+    {
+      "key": "td900590c39f58648",
+      "english": "<span data-i18n-slot=\"0\">Record and review each trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Registre e revise cada troca.</span>"
+    },
+    {
+      "key": "tc73ea82409ede3ac",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">FAQs</span><span data-i18n-slot=\"2\"> </span></span><span data-i18n-slot=\"3\">What is the biggest mistake new forex traders make?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Perguntas frequentes: </span><span data-i18n-slot=\"2\"> </span></span><span data-i18n-slot=\"3\">qual é o maior erro dos iniciantes no forex?</span>"
+    },
+    {
+      "key": "teef59d6b69b3f577",
+      "english": "<span data-i18n-slot=\"0\">Is it normal to lose money as a beginner forex trader?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">É normal perder dinheiro como trader iniciante de forex?</span>"
+    },
+    {
+      "key": "t50fd8e61e66e0417",
+      "english": "<span data-i18n-slot=\"0\">Losing trades are normal, including for experienced participants. However, repeated losses caused by excessive leverage, missing stop-losses, or impulsive decisions should not be treated as an unavoidable learning fee. Beginners should practise and review mistakes before increasing exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Perder negócios é normal, inclusive para participantes experientes. No entanto, perdas repetidas causadas por alavancagem excessiva, paradas perdidas, ou decisões impulsivas não devem ser tratadas como uma taxa de aprendizado inevitável. Iniciantes devem praticar e rever erros antes de aumentar a exposição.</span>"
+    },
+    {
+      "key": "t532929ef5e1556d5",
+      "english": "<span data-i18n-slot=\"0\">How much should a beginner risk per trade?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Quanto deve um novato arriscar por troca?</span>"
+    },
+    {
+      "key": "t0399efca222233ce",
+      "english": "<span data-i18n-slot=\"0\">What Is an MT5 Expert Advisor (EA)?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que é um Expert Advisor (EA) no MT5?</span>"
+    },
+    {
+      "key": "t7ae5835017245de8",
+      "english": "<span data-i18n-slot=\"0\">An Expert Advisor runs inside the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">MT5 platform</span></span><span data-i18n-slot=\"4\">. It may identify sedes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Um conselheiro especialista corre dentro do</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">MT5 plataforma</span></span><span data-i18n-slot=\"4\">. Pode identificar sedes.</span>"
+    },
+    {
+      "key": "t48acb7271d0466c7",
+      "english": "<span data-i18n-slot=\"0\">Pending order types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tipos de pedidos pendentes</span>"
+    },
+    {
+      "key": "t2f04592296a2010e",
+      "english": "<span data-i18n-slot=\"0\">Backtesting engine</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Motor de retroteste.</span>"
+    },
+    {
+      "key": "t5d96f7d680d346b6",
+      "english": "<span data-i18n-slot=\"0\">Primarily single-symbol and single-threaded</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Principalmente de um único ativo e uma única thread</span>"
+    },
+    {
+      "key": "t933977c1d272b03f",
+      "english": "<span data-i18n-slot=\"0\">Local single-thread testing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Teste local com uma única thread</span>"
+    },
+    {
+      "key": "t5e1832aa31f8a5e6",
+      "english": "<span data-i18n-slot=\"0\">Suitable for many traditional forex EAs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Adequado para muitos EAs tradicionais de forex</span>"
+    },
+    {
+      "key": "t8ace8873b6e6ef17",
+      "english": "<span data-i18n-slot=\"0\">Copy the EA file</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Paste the </span><span data-i18n-slot=\"4\">.ex5</span><span data-i18n-slot=\"5\"> or </span><span data-i18n-slot=\"6\">.mq5</span><span data-i18n-slot=\"7\"> file into the Experts folder. You may use subfolders to organise EAs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Copie o arquivo EA.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Colar o </span><span data-i18n-slot=\"4\">.ex5</span><span data-i18n-slot=\"5\"> ou </span><span data-i18n-slot=\"6\">.mq5</span><span data-i18n-slot=\"7\"> Arquivar na pasta de especialistas. Você pode usar subpastas para organizar EAs.</span>"
+    },
+    {
+      "key": "t6b2349ce8c6e61a2",
+      "english": "<span data-i18n-slot=\"0\">Drag the EA from Navigator onto the chart, or double-click it, to open its Properties window.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Arraste a EA do Navegador para o gráfico, ou clique duas vezes, para abrir sua janela Propriedades.</span>"
+    },
+    {
+      "key": "t45c3381d3f20497f",
+      "english": "<span data-i18n-slot=\"0\">Fixed lot size or percentage risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tamanho fixo do lote ou risco percentual</span>"
+    },
+    {
+      "key": "t555e33af87d736bd",
+      "english": "<span data-i18n-slot=\"0\">Stop-loss and take-profit rules</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Regras de stop-loss e realização de lucro</span>"
+    },
+    {
+      "key": "ted19250ff1d116ff",
+      "english": "<span data-i18n-slot=\"0\">Maximum spread and trading hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Spread máximo e horários de negociação</span>"
+    },
+    {
+      "key": "tfae50000a50d61c6",
+      "english": "<span data-i18n-slot=\"0\">Allowed trade direction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Permitida direção comercial.</span>"
+    },
+    {
+      "key": "tee218f8f98878229",
+      "english": "<span data-i18n-slot=\"0\">Review drawdown, trade count, costs, consecutive losses, and whether results depend on a few unusual trades. Data quality, spreads, slippage, modelling choices, and over-optimisation can distort a backtest.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Analise o drawdown, o número de operações, os custos, as perdas consecutivas e se os resultados dependem de poucas operações incomuns. A qualidade dos dados, os spreads, a derrapagem, as escolhas de modelagem e a otimização excessiva podem distorcer um backtest.</span>"
+    },
+    {
+      "key": "tda0bb1282aac2fe4",
+      "english": "<span data-i18n-slot=\"0\">Manual vs Automated Trading Workflow</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Manual contra fluxo de trabalho automatizado</span>"
+    },
+    {
+      "key": "t7b02023a8e08799e",
+      "english": "<span data-i18n-slot=\"0\">EA monitors programmed conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">EA monitora as condições programadas.</span>"
+    },
+    {
+      "key": "t9f70bb7eeac5fba2",
+      "english": "<span data-i18n-slot=\"0\">Trader calculates position size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O comerciante calcula o tamanho da posição.</span>"
+    },
+    {
+      "key": "t48eb2e417a2a7fe5",
+      "english": "<span data-i18n-slot=\"0\">Trader enters and exits manually</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O comerciante entra e sai manualmente.</span>"
+    },
+    {
+      "key": "t5303d3d0ad079bc2",
+      "english": "<span data-i18n-slot=\"0\">Spreads, commissions, and trade-size limits</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Spreads, comissões e limites de tamanho das operações</span>"
+    },
+    {
+      "key": "t99c5a06ef503fe22",
+      "english": "<span data-i18n-slot=\"0\">How Do You Read a Candlestick Chart?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como se lê um mapa de velas?</span>"
+    },
+    {
+      "key": "t8c524ec5ed0febb5",
+      "english": "<span data-i18n-slot=\"0\">Doji</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Vela doji</span>"
+    }
+  ]
+}

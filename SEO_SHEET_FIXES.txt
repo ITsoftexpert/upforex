@@ -1,0 +1,68 @@
+CURRENT FRONTEND-ONLY UPDATE (23 Nov 2026)
+Use FRONTEND_ONLY_RELEASE.txt and the fresh LOCAL_COMPLETION_REPORT.txt. Older backend-first integration instructions below are historical. No backend deployment is required for the frontend public cache.
+
+SEO SHEET FIXES - 23 NOVEMBER 2026 - LOCAL ONLY
+
+Scope: the three supplied metadata, hreflang and broken-email-link sheets.
+Current release decision and exact test logs: LOCAL_COMPLETION_REPORT.txt and
+ tmp/deployment-readiness.json. A sheet-specific PASS is not full release approval.
+
+METADATA: ALL 317 ROWS RECONCILED
+- 309 exact canonical matches retain the approved spreadsheet metadata.
+- Three legacy article URLs permanently redirect to the matching existing CMS
+  article. The approved English title/description is applied to that article and
+  accurately translated head fields are reused through all ten page catalogs.
+- Two product aliases permanently redirect to the current Forex/Stock CFDs page.
+  The separately approved canonical-page metadata takes precedence over conflicting
+  alias-row metadata. Existing canonical URLs and CMS identities are unchanged.
+- /demo and /live temporarily redirect to the same existing registration portal
+  already used by the homepage's Try Free Demo and Open Account buttons.
+- /blogs/real-time-forex-trading-platform is excluded as obsolete at the user's
+  explicit request. Its existing 404 is preserved; no substitute article exists.
+312 applied canonical metadata rows; five 301 aliases; two 302 account actions;
+one excluded 404. Exact destinations: tmp/sheet-fix-20261123/url-dispositions.csv.
+
+HREFLANG AND SSR
+- Self-canonical and reciprocal self-referencing alternates remain limited to
+  completed native translations. Existing locale and public canonical routes stay.
+- The complete audits check every declared public page/language's initial HTML,
+  actual translated body, structure, links, numbers, language and canonical head.
+- New aliases normalize in Node before rendering; queries and locale are retained.
+- All 1,221 catalogs' COPY bodies and required source-key lists are unchanged.
+  Only 33 article metadata heads changed (three articles x eleven languages).
+  Body-preservation proof: tmp/sheet-fix-20261123/body-preservation.json.
+
+BROKEN EMAIL LINK
+The sheet's 111 source pages all point to the same Cloudflare-generated placeholder.
+The origin templates already use real mailto links. The server now inserts the
+Cloudflare-supported <!--email_off--> and <!--/email_off--> directives outside the
+Angular app root after successful native-ready SSR, preventing that email rewrite.
+The hydrated root's markup, design, email address, styles and functionality remain.
+No Cloudflare setting, security filter or cache/compression policy was changed.
+Documentation: https://developers.cloudflare.com/waf/tools/scrape-shield/email-address-obfuscation/
+
+DEPLOYMENT AND SPEED
+Use Node 24.18.0/npm 11.16.0. Build/start the Node SSR application with matching
+browser assets; a static-only deployment cannot serve translated initial HTML.
+Frontend adds no runtime dependency or translation API. Backend dependency changes are documented in its own report; no paid translation call was made.
+The supplied backend is now reviewed/fixed in ../merged-upforex-backend. Its
+opt-in card response, efficient public queries, bounded DB failures and compression
+address the oversized listing/query work. Frontend listings request view=cards.
+Both complete strict audits pass with the supplied backend and the recorded existing
+61-article corpus in isolated real MongoDB. No fixture response/cache is shipped
+in website runtime. Test reports explicitly identify their local CMS/data source.
+Production API/database/provider configuration is still an owner check: configure
+and deploy the backend first, rerun the frontend checks against the real API, then
+deploy the frontend. See BACKEND_DEPLOYMENT_GUIDE.txt. Earlier 20/90-second timeout
+reports remain historical evidence from before the backend source was supplied.
+Only the active catalog version ships. Earlier speed measurements retain their original timestamps;
+they are local samples, not a new live PageSpeed score or a speed guarantee.
+Read MEDIA_OPTIMIZATION_REQUESTS.txt for the previously identified remote media.
+After owner deployment, refresh stale cached marketing HTML using the existing
+approved process, then verify live Contact mailto links, all seven redirects, the
+intentional 404, translated page-source heads and sitemap. Old cached Cloudflare
+HTML may still contain the broken href until refreshed. Do not purge every domain.
+Actual live Cloudflare behavior cannot be certified from a local origin response.
+
+Nothing was pushed, deployed, written to the CMS or uploaded to S3.
+No Jenkins operation or paid translation request was made.

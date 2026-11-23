@@ -3,6 +3,7 @@ import { benefits, trade } from './constant';
 import { Store } from 'src/app/Store/store';
 
 @Component({
+  standalone: false,
   selector: 'app-precious-metal',
   templateUrl: './precious-metal.component.html',
   styleUrls: ['./precious-metal.component.scss'],

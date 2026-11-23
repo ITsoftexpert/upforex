@@ -1,0 +1,267 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tbce2af69a1edb517",
+      "english": "<span data-i18n-slot=\"0\">This calculation is more useful than selecting 0.20 lots first and then checking what the trade could cost afterwards. The position is built around the account and stop distance rather than the other way around.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Este cálculo es más útil que seleccionar 0.20 lotes primero y luego comprobar cuánto podría costar la operación después. La posición se construye en torno a la cuenta y la distancia de parada y no al revés.</span>"
+    },
+    {
+      "key": "tc0acf0b2348f0f2e",
+      "english": "<span data-i18n-slot=\"0\">Leverage</span><span data-i18n-slot=\"1\"> changes the margin required to control a position, but it does not replace risk-based position sizing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "El <span data-i18n-slot=\"0\">Apalancamiento</span><span data-i18n-slot=\"1\"> cambia el margen requerido para controlar una posición, pero no reemplaza el tamaño de la posición basado en el riesgo.</span>"
+    },
+    {
+      "key": "ta5460356d3c762e4",
+      "english": "<span data-i18n-slot=\"0\">Leverage allows a trader to control a larger market exposure using a smaller amount of deposited </span><span data-i18n-slot=\"1\">margin</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El apalancamiento permite a un operador controlar una mayor exposición al mercado utilizando una cantidad menor de </span><span data-i18n-slot=\"1\">margen</span><span data-i18n-slot=\"2\"> depositado.</span>"
+    },
+    {
+      "key": "t04852dd2ff288bbc",
+      "english": "<span data-i18n-slot=\"0\">All three accounts publish a 50% margin call level and 30% stop-out level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Las tres cuentas publican un nivel de aviso de margen del 50% y un nivel de cierre forzoso (stop-out) del 30%.</span>"
+    },
+    {
+      "key": "t358af7dfd6a1b7e7",
+      "english": "<span data-i18n-slot=\"0\">These sizes make it easier to translate a calculated position into the volume field shown on a trading platform.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Estos tamaños facilitan la traducción de una posición calculada al campo de volumen que se muestra en una plataforma comercial.</span>"
+    },
+    {
+      "key": "tf7a44fd1216023f3",
+      "english": "<span data-i18n-slot=\"0\">Trade Volume</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Volumen comercial</span>"
+    },
+    {
+      "key": "t54bc1b976856f66d",
+      "english": "<span data-i18n-slot=\"0\">Lot Name</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Nombre del lote</span>"
+    },
+    {
+      "key": "tf60be4badc8587f2",
+      "english": "<span data-i18n-slot=\"0\">Half standard lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Medio lote estándar</span>"
+    },
+    {
+      "key": "tf784c991a8334453",
+      "english": "<span data-i18n-slot=\"0\">How Does Position Sizing Work Beyond Forex Pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo funciona el tamaño de la posición más allá de los pares de Forex?</span>"
+    },
+    {
+      "key": "t902c56d666cc0c08",
+      "english": "<span data-i18n-slot=\"0\">3. Confusing leverage with risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. Confundir apalancamiento con riesgo</span>"
+    },
+    {
+      "key": "tcb9b17fd89cdb007",
+      "english": "<span data-i18n-slot=\"0\">Available leverage determines buying power and margin requirements; it does not tell you how much should be risked on one trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El apalancamiento disponible determina el poder adquisitivo y los requisitos de margen; no le dice cuánto se debe arriesgar en una operación.</span>"
+    },
+    {
+      "key": "ta24d8b96ce1fef58",
+      "english": "<span data-i18n-slot=\"0\">Check the order details before placing the trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Compruebe los detalles de la orden antes de realizar la operación.</span>"
+    },
+    {
+      "key": "t1e79136748555305",
+      "english": "<span data-i18n-slot=\"0\">For traders researching</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading in the UAE</span></span><span data-i18n-slot=\"4\">, position sizing is a useful next step after learning how currency pairs, pips and order sizes work.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Para los operadores que investigan</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">el comercio de divisas en los Emiratos Árabes Unidos</span></span><span data-i18n-slot=\"4\">, el tamaño de las posiciones es un siguiente paso útil después de aprender cómo funcionan los pares de divisas, los pips y los tamaños de las órdenes.</span>"
+    },
+    {
+      "key": "t12f248365bcfb5ac",
+      "english": "<span data-i18n-slot=\"0\">What does position size mean in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué significa el tamaño de la posición en el comercio de divisas?</span>"
+    },
+    {
+      "key": "tbcbd25588107c17e",
+      "english": "<span data-i18n-slot=\"0\">What is a micro lot?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es un microlote?</span>"
+    },
+    {
+      "key": "t8f4a8a45e3448f2b",
+      "english": "<span data-i18n-slot=\"0\">How does leverage affect position size?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo afecta el apalancamiento al tamaño de la posición?</span>"
+    },
+    {
+      "key": "tb4e37d78b2dc9672",
+      "english": "<span data-i18n-slot=\"0\">Calculate First, Then Choose the Trade Volume</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Calcule primero y luego elija el volumen comercial</span>"
+    },
+    {
+      "key": "t74bb4076d625ed4e",
+      "english": "<span data-i18n-slot=\"0\">Position sizing turns account balance, planned risk, and stop-loss distance into a measurable trade volume instead of leaving lot size to guesswork.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El tamaño de la posición convierte el saldo de la cuenta, el riesgo planificado y la distancia del límite de pérdidas en un volumen comercial mensurable en lugar de dejar el tamaño del lote en manos de conjeturas.</span>"
+    },
+    {
+      "key": "td8211620e5e55264",
+      "english": "<span data-i18n-slot=\"0\">If you are still building your foundation, continue with</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">How to Start Forex Trading for Beginners</span></span><span data-i18n-slot=\"4\">. You can also read the guide to the</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Minimum Amount Required for Forex Trading</span></span><span data-i18n-slot=\"8\"> to understand how account balance connects with position sizing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Si todavía estás construyendo tus bases, continúa con</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Cómo comenzar a operar en Forex para principiantes</span></span><span data-i18n-slot=\"4\">. También puede leer la guía sobre</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Cantidad mínima requerida para operar en Forex</span></span><span data-i18n-slot=\"8\"> para comprender cómo se relaciona el saldo de la cuenta con el tamaño de la posición.</span>"
+    },
+    {
+      "key": "t13ac6168300d97d8",
+      "english": "<span data-i18n-slot=\"0\">What Is a Forex Currency Pair?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es un par de divisas Forex?</span>"
+    },
+    {
+      "key": "tc90e8f7a8dbb7bba",
+      "english": "<span data-i18n-slot=\"0\">GBP/USD</span><span data-i18n-slot=\"1\"> British pound against U.S. dollar</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">GBP/USD</span><span data-i18n-slot=\"1\"> Libra esterlina frente al dólar estadounidense</span>"
+    },
+    {
+      "key": "t7535da68fa12760e",
+      "english": "<span data-i18n-slot=\"0\">What Are the Base and Quote Currency in a Forex Pair?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cuáles son la moneda base y de cotización en un par de Forex?</span>"
+    },
+    {
+      "key": "t3db76b5fcf1ad13f",
+      "english": "<span data-i18n-slot=\"0\">USD = quote currency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">USD = moneda cotizada</span>"
+    },
+    {
+      "key": "t11c701717f520d13",
+      "english": "<span data-i18n-slot=\"0\">The pair's quoted price tells you how many units of the quote currency are needed for one unit of the base currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El precio cotizado del par le indica cuántas unidades de la moneda cotizada se necesitan para una unidad de la moneda base.</span>"
+    },
+    {
+      "key": "t9c9b84970170c5c1",
+      "english": "<span data-i18n-slot=\"0\">2. Identify the quote currency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. Identificar la moneda de cotización</span>"
+    },
+    {
+      "key": "t3c491f448779fbbe",
+      "english": "<span data-i18n-slot=\"0\">They are useful for traders who want exposure to the relative movement of two currencies without making the U.S. dollar one side of the trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Son útiles para los operadores que desean exponerse al movimiento relativo de dos monedas sin que el dólar estadounidense sea un lado de la operación.</span>"
+    }
+  ]
+}

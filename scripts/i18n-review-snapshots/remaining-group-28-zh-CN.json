@@ -1,0 +1,637 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t06b78a56e6fbffb6",
+      "english": "<span data-i18n-slot=\"0\">Why Does Liquidity Matter When Choosing Trading Hours?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">为什么选择交易时间时流动性很重要？</span>"
+    },
+    {
+      "key": "t4ad6d463cb47a24b",
+      "english": "<span data-i18n-slot=\"0\">Tighter spreads in heavily traded instruments</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易频繁的工具的利差收窄</span>"
+    },
+    {
+      "key": "tfe51e82d2d38afbf",
+      "english": "<span data-i18n-slot=\"0\">Greater short-term volatility</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">短期波动更大</span>"
+    },
+    {
+      "key": "t608ef32635669f42",
+      "english": "<span data-i18n-slot=\"0\">What time does the Nasdaq open in GST?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">按海湾标准时间（GST），纳斯达克几点开盘？</span>"
+    },
+    {
+      "key": "t57b8307ba65eb887",
+      "english": "<span data-i18n-slot=\"0\">Are gold CFDs tradable 24 hours a day?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">黄金差价合约可以24小时交易吗？</span>"
+    },
+    {
+      "key": "te7c5ed0d56f83fab",
+      "english": "<span data-i18n-slot=\"0\">Does Gulf Standard Time change with daylight saving?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">海湾标准时间会随着夏令时而变化吗？</span>"
+    },
+    {
+      "key": "t79da79776d43e4c7",
+      "english": "<span data-i18n-slot=\"0\">Why does liquidity matter for trade timing?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">为什么流动性对交易时机很重要？</span>"
+    },
+    {
+      "key": "t3b91606482ed9994",
+      "english": "<span data-i18n-slot=\"0\">Knowing the main GST sessions helps Middle East traders plan when to monitor particular instruments instead of watching markets continuously. The most useful schedule is one that matches the instrument, strategy and personal availability.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">了解主要的海湾标准时间（GST）交易时段，有助于中东交易者规划何时关注特定品种，而不是持续盯盘。最有用的时间安排，应与交易品种、策略和个人可用时间相符。</span>"
+    },
+    {
+      "key": "tdde04509bf7596bd",
+      "english": "<span data-i18n-slot=\"0\">Leverage and margin are connected but different. The simplest </span><span data-i18n-slot=\"1\">leverage meaning</span><span data-i18n-slot=\"2\"> is controlling a position larger than the capital set aside for it. Margin is the account equity reserved to open and maintain that position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆和保证金既有联系又有区别。最简单的</span><span data-i18n-slot=\"1\">杠杆含义</span><span data-i18n-slot=\"2\">是控制大于为其预留资金的头寸。保证金是为开立和维持该仓位而保留的账户净值。</span>"
+    },
+    {
+      "key": "t255558e32dd9a0bd",
+      "english": "<span data-i18n-slot=\"0\">What Is Leverage in Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是交易杠杆？</span>"
+    },
+    {
+      "key": "t5ae0c42180948bdd",
+      "english": "<span data-i18n-slot=\"0\">Leverage in trading is the relationship between a position’s total notional value and the capital required to support it. At 1:100 leverage, every $1 of required margin can support up to $100 of market exposure, subject to the broker’s terms, instrument, and current conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易中的杠杆是头寸总名义价值与支持该头寸所需资本之间的关系。在 1:100 杠杆下，每 1 美元的所需保证金可支持高达 100 美元的市场敞口，具体取决于经纪商的条款、工具和当前条件。</span>"
+    },
+    {
+      "key": "t81459223065609c9",
+      "english": "<span data-i18n-slot=\"0\">Leverage = Notional position value ÷ Required margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆=名义持仓价值 ÷ 所需保证金</span>"
+    },
+    {
+      "key": "t0f00574a3f22ceb0",
+      "english": "<span data-i18n-slot=\"0\">If a position is worth $100,000 and requires $1,000 in margin:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果仓位价值 100,000 美元并需要 1,000 美元保证金：</span>"
+    },
+    {
+      "key": "t8bcb08502b7d0128",
+      "english": "<span data-i18n-slot=\"0\">What Is Margin in Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是交易保证金？</span>"
+    },
+    {
+      "key": "t86835c6be30a1baf",
+      "english": "<span data-i18n-slot=\"0\">In everyday business language, “margin” can refer to profit. In trading, margin has a different meaning: it is the portion of account equity reserved by the broker while a leveraged position is open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在日常商业用语中，“margin”可以指利润。在交易中，保证金有不同的含义：它是杠杆持仓未平仓期间，由经纪商预留的账户净值的一部分。</span>"
+    },
+    {
+      "key": "ta16b0a25a477c547",
+      "english": "<span data-i18n-slot=\"0\">The common formula is:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">常用公式为：</span>"
+    },
+    {
+      "key": "t9003c7d814fe2748",
+      "english": "<span data-i18n-slot=\"0\">Required margin = Notional position value ÷ Leverage ratio</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">所需保证金 = 名义持仓价值 ÷ 杠杆率</span>"
+    },
+    {
+      "key": "t8029d0368210a9fa",
+      "english": "<span data-i18n-slot=\"0\">Margin is collateral, not normally a fee or maximum loss. The amount left after it is reserved is </span><span data-i18n-slot=\"1\">free margin</span><span data-i18n-slot=\"2\">:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保证金是抵押品，通常不是费用或最大损失。预留后剩余金额为</span><span data-i18n-slot=\"1\">可用保证金</span><span data-i18n-slot=\"2\">：</span>"
+    },
+    {
+      "key": "te7e3face85741904",
+      "english": "<span data-i18n-slot=\"0\">Free margin = Equity − Used margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可用保证金 = 净值 - 已用保证金</span>"
+    },
+    {
+      "key": "tda7cce7def8d6f1f",
+      "english": "<span data-i18n-slot=\"0\">Equity changes as open positions gain or lose value. Free margin therefore also changes while trades remain open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">净值随着未平仓头寸价值的增加或减少而变化。因此，当交易保持开放时，可用保证金也会发生变化。</span>"
+    },
+    {
+      "key": "t3b9401486b5b3502",
+      "english": "<span data-i18n-slot=\"0\">Margin trading meaning:</span><span data-i18n-slot=\"1\"> Using part of a position’s value as collateral to open and maintain a leveraged trade. Forex margin requirements can vary by currency pair, account type, leverage, and market conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保证金交易含义：</span><span data-i18n-slot=\"1\">使用头寸的部分价值作为抵押品来开设和维持杠杆交易。外汇保证金要求可能因货币对、账户类型、杠杆率和市场条件而异。</span>"
+    },
+    {
+      "key": "tfb263a0403b5c248",
+      "english": "<span data-i18n-slot=\"0\">How Leverage and Margin Work Together Worked Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆和保证金如何协同工作的示例</span>"
+    },
+    {
+      "key": "t40ffb89f9e10171f",
+      "english": "<span data-i18n-slot=\"0\">This simplified example explains mechanics and is not a trading recommendation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这个简化的示例解释了机制，并非交易建议。</span>"
+    },
+    {
+      "key": "tf7d6b3e1210473d5",
+      "english": "<span data-i18n-slot=\"0\">Account equity before the trade:</span><span data-i18n-slot=\"1\"> $1,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易前账户净值：</span><span data-i18n-slot=\"1\"> $1,000</span>"
+    },
+    {
+      "key": "td034f4020799fea2",
+      "english": "<span data-i18n-slot=\"0\">Position:</span><span data-i18n-slot=\"1\"> 1.0 standard lot of EUR/USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">持仓：</span><span data-i18n-slot=\"1\">1.0标准手欧元/美元</span>"
+    },
+    {
+      "key": "tf274f4b86b29901c",
+      "english": "<span data-i18n-slot=\"0\">Approximate notional value:</span><span data-i18n-slot=\"1\"> $100,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">大约名义价值：</span><span data-i18n-slot=\"1\"> 100,000 美元</span>"
+    },
+    {
+      "key": "t6d2067696657b2d1",
+      "english": "<span data-i18n-slot=\"0\">Illustrative pip value:</span><span data-i18n-slot=\"1\"> $10 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">示例性点值：</span><span data-i18n-slot=\"1\">每点 10 美元</span>"
+    },
+    {
+      "key": "t7724f10df3f3c7d7",
+      "english": "<span data-i18n-slot=\"0\">Step 1: Calculate Required Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 1 步：计算所需保证金</span>"
+    },
+    {
+      "key": "tfe4a708012f28cec",
+      "english": "<span data-i18n-slot=\"0\">Required margin = $100,000 ÷ 100 = $1,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">所需保证金 = $100,000 ÷ 100 = $1,000</span>"
+    },
+    {
+      "key": "te778001698f36fa4",
+      "english": "<span data-i18n-slot=\"0\">The trade uses the entire $1,000 equity as margin.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易使用全部 1,000 美元的净值作为保证金。</span>"
+    },
+    {
+      "key": "tb19cd3a45e280a08",
+      "english": "<span data-i18n-slot=\"0\">Step 2: Calculate Free Margin at Entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 2 步：计算入场时的可用保证金</span>"
+    },
+    {
+      "key": "td2858b66fccfe82a",
+      "english": "<span data-i18n-slot=\"0\">Free margin = $1,000 equity − $1,000 margin = $0</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可用保证金 = $1,000净值 − $1,000保证金 = $0</span>"
+    },
+    {
+      "key": "t1a624c7d399d5491",
+      "english": "<span data-i18n-slot=\"0\">Step 3: Apply a 50-Pip Adverse Move</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 3 步：应用 50 点反向移动</span>"
+    },
+    {
+      "key": "t3b1f8d42343f9690",
+      "english": "<span data-i18n-slot=\"0\">At an illustrative $10 per pip:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每点 10 美元：</span>"
+    },
+    {
+      "key": "t5da21ab5c6ad558f",
+      "english": "<span data-i18n-slot=\"0\">50 pips × $10 = $500 floating loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">50 点 × 10 美元 = 500 美元浮动损失</span>"
+    },
+    {
+      "key": "t065c9a72ad1efa6e",
+      "english": "<span data-i18n-slot=\"0\">Used margin:</span><span data-i18n-slot=\"1\"> $1,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">已用保证金：</span><span data-i18n-slot=\"1\"> 1,000 美元</span>"
+    },
+    {
+      "key": "te8b6e3b5f34682f7",
+      "english": "<span data-i18n-slot=\"0\">Free margin:</span><span data-i18n-slot=\"1\"> −$500</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可用保证金：</span><span data-i18n-slot=\"1\"> −$500</span>"
+    },
+    {
+      "key": "tf9fa4fdd41dd8f0d",
+      "english": "<span data-i18n-slot=\"0\">Step 4: Calculate Margin Level</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">第 4 步：计算保证金水平</span>"
+    },
+    {
+      "key": "t63f20bf5cb1815a5",
+      "english": "<span data-i18n-slot=\"0\">Margin level = Equity ÷ Used margin × 100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保证金水平 = 净值 ÷ 已用保证金 × 100</span>"
+    },
+    {
+      "key": "t1fc0b8b4b238af5a",
+      "english": "<span data-i18n-slot=\"0\">The account has reached a 50% margin level, showing why available margin alone does not make a position manageable.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">账户已达到 50% 的保证金水平，这表明为什么仅凭可用保证金无法使头寸变得易于管理。</span>"
+    },
+    {
+      "key": "tf15cf29e5ecf4e70",
+      "english": "<span data-i18n-slot=\"0\">Leverage Ratio Comparison Table</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆率对照表</span>"
+    },
+    {
+      "key": "tdb826257770fa6c7",
+      "english": "<span data-i18n-slot=\"0\">The table below compares the margin needed for the same $100,000 notional position. These are illustrative ratios and do not state which ratios are available on a specific account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">下表比较了相同 100,000 美元名义头寸所需的保证金。这些只是说明性比率，并未说明特定帐户可用的比率。</span>"
+    },
+    {
+      "key": "td5b0d261b0cb24f7",
+      "english": "<span data-i18n-slot=\"0\">Leverage Ratio</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆率</span>"
+    },
+    {
+      "key": "t6bbfe3fa70f80e4a",
+      "english": "<span data-i18n-slot=\"0\">Required Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">所需保证金</span>"
+    },
+    {
+      "key": "t203e91fcb9bdf7fe",
+      "english": "<span data-i18n-slot=\"0\">Loss From a 1% Adverse Move</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1% 不利走势带来的损失</span>"
+    },
+    {
+      "key": "t07a9c291560bd92f",
+      "english": "<span data-i18n-slot=\"0\">What Is a Margin Call?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是追加保证金通知？</span>"
+    },
+    {
+      "key": "td7102d73dd8f91eb",
+      "english": "<span data-i18n-slot=\"0\">The </span><span data-i18n-slot=\"1\">margin call meaning</span><span data-i18n-slot=\"2\"> is a warning or account condition reached when equity falls to a set percentage of used margin. The account then has limited capacity to support open trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">追加保证金通知的含义</span><span data-i18n-slot=\"2\">是，当净值降至已用保证金的规定百分比时，出现的一项警告或账户状态。此时账户支持未平仓交易的能力受到限制。</span>"
+    },
+    {
+      "key": "teba8a07a03ebfd70",
+      "english": "<span data-i18n-slot=\"0\">In the worked example, equity of $500 against $1,000 of used margin creates a 50% margin level. If equity fell to $300 while used margin remained $1,000, the margin level would be 30%, ignoring changes caused by partial liquidation, costs, or broker calculations.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在工作示例中，500 美元的净值与 1,000 美元的已用保证金形成 50% 的保证金水平。如果净值跌至 300 美元，而已用保证金仍为 1,000 美元，则保证金水平将为 30%，忽略部分清算、成本或经纪商计算引起的变化。</span>"
+    },
+    {
+      "key": "t16505bf263f4fa8a",
+      "english": "<span data-i18n-slot=\"0\">What Is Margin Level, and How Is It Calculated?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是保证金水平以及如何计算？</span>"
+    },
+    {
+      "key": "t4761a1e27c9101f4",
+      "english": "<span data-i18n-slot=\"0\">Margin level meaning:</span><span data-i18n-slot=\"1\"> The percentage relationship between current account equity and the margin being used by open positions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保证金水平的含义：</span><span data-i18n-slot=\"1\">账户当前净值与未平仓头寸已用保证金之间的百分比关系。</span>"
+    },
+    {
+      "key": "t11014367d02ed627",
+      "english": "<span data-i18n-slot=\"0\">Margin level is calculated as:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保证金水平计算如下：</span>"
+    },
+    {
+      "key": "tcb8c616a8edb6176",
+      "english": "<span data-i18n-slot=\"0\">Used margin:</span><span data-i18n-slot=\"1\"> $500</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">已用保证金：</span><span data-i18n-slot=\"1\"> 500 美元</span>"
+    },
+    {
+      "key": "t7c2f90c631832bfe",
+      "english": "<span data-i18n-slot=\"0\">If open losses reduce equity to $1,000:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果未平仓亏损将净值减少至 1,000 美元：</span>"
+    },
+    {
+      "key": "tbe2c97a519484e2f",
+      "english": "<span data-i18n-slot=\"0\">Margin level:</span><span data-i18n-slot=\"1\"> $1,000 ÷ $500 × 100 = </span><span data-i18n-slot=\"2\">200%</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保证金水平：</span><span data-i18n-slot=\"1\"> 1,000 美元 ÷ 500 美元 × 100 = </span><span data-i18n-slot=\"2\">200%</span>"
+    },
+    {
+      "key": "td5ab4f333e789e27",
+      "english": "<span data-i18n-slot=\"0\">The platform tracks balance, equity, used margin, free margin, margin level, margin-call level, and stop-out level as separate account properties.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">平台将余额、净值、已用保证金、可用保证金、保证金水平、追加保证金水平和强制平仓水平作为单独的账户属性进行跟踪。</span>"
+    },
+    {
+      "key": "t801ca8e3191422b1",
+      "english": "<span data-i18n-slot=\"0\">How to Manage Leverage and Margin Responsibly</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何负责任地管理杠杆和保证金</span>"
+    },
+    {
+      "key": "t1e28b3f77b51430f",
+      "english": "<span data-i18n-slot=\"0\">Leverage management begins with position size, not with choosing the highest ratio available.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆管理从头寸规模开始，而不是选择可用的最高比率。</span>"
+    },
+    {
+      "key": "t89572c453126ca9f",
+      "english": "<span data-i18n-slot=\"0\">Size the position from the risk limit and stop distance.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">根据风险限额和止损距离确定仓位大小。</span>"
+    },
+    {
+      "key": "tec8515293ff22917",
+      "english": "<span data-i18n-slot=\"0\">Monitor exposure across correlated trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">监控相关交易的风险敞口。</span>"
+    },
+    {
+      "key": "ted9a5db124eb1a4b",
+      "english": "<span data-i18n-slot=\"0\">Keep free margin for volatility and costs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保留可用保证金以应对波动性和成本。</span>"
+    },
+    {
+      "key": "tbc66eedf971ad7b3",
+      "english": "<span data-i18n-slot=\"0\">Review margin level before adding positions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在添加头寸之前查看保证金水平。</span>"
+    },
+    {
+      "key": "tbac333805266f578",
+      "english": "<span data-i18n-slot=\"0\">Is Leverage Trading Halal?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆交易清真吗？</span>"
+    },
+    {
+      "key": "t63fe2d472ce201ef",
+      "english": "<span data-i18n-slot=\"0\">Whether the instrument is a CFD or another derivative</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">该工具是差价合约还是其他衍生品</span>"
+    }
+  ]
+}

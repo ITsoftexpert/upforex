@@ -3,16 +3,11 @@
     <h1
       class="text-white tw-text-2xl md:tw-text-2xl tw-font-bold md:tw-my-4 !tw-mb-8"
     >
-      Trading Calculators
-    </h1>
+       {{ 'Trading Calculators' | localize }} </h1>
     <p
       class="tw-text-lg tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      Trading calculators are essential for improving forex traders' analytical
-      skills and boosting their overall trading success, whether they are used
-      for calculating margins, evaluating risk-reward ratios, or deciding
-      position sizes.
-    </p>
+       {{ 'Trading calculators are essential for improving forex traders\' analytical skills and boosting their overall trading success, whether they are used for calculating margins, evaluating risk-reward ratios, or deciding position sizes.' | localize }} </p>
   </div>
   <div class="tw-w-full tw-p-0 md:tw-p-4">
     <div class="tw-grid tw-grid-cols-1 sm:tw-grid-cols-2 lg:tw-grid-cols-3">
@@ -20,236 +15,200 @@
         <p
           class="card-header tw-mt-2 tw-font-montserrat tw-text-lg tw-font-extrabold tw-tracking-wider tw-text-center"
         >
-          Economic Calendar
-        </p>
+           {{ 'Economic Calendar' | localize }} </p>
         <div class="card-body">
           <img
             loading="lazy"
             class="tools-img img-fluid"
             src="../../../../../assets/images/tools/economic_calendar.webp"
-            alt="economic calendar tool"
+            [attr.alt]="'economic calendar tool' | localize"
           />
           <p
             class="card-header tw-mt-4 tw-font-montserrat tw-text-sm tw-tracking-wider tw-text-center"
           >
-            An Economic Calendar tracks key financial events like interest
-            rates, GDP, and employment data, helping traders anticipate market
-            movements.
-          </p>
+             {{ 'An Economic Calendar tracks key financial events like interest rates, GDP, and employment data, helping traders anticipate market movements.' | localize }} </p>
         </div>
         <div class="d-flex justify-content-center card-footer">
-          <button
+          <a
             routerLink="/resources/tools/economic-calendar"
             class="btn px-4 py-2 use-button"
           >
-            Use This Tool
-          </button>
+             {{ 'Use This Tool' | localize }} </a>
         </div>
       </div>
       <div class="text-white card tw-py-3">
         <p
           class="card-header tw-mt-2 tw-font-montserrat tw-text-lg tw-font-extrabold tw-tracking-wider tw-text-center"
         >
-          Pip Calculator
-        </p>
+           {{ 'Pip Calculator' | localize }} </p>
         <div class="card-body">
           <img
             loading="lazy"
             class="tools-img img-fluid"
             src="../../../../../assets/images/tools/pip-calculator.webp"
-            alt="pip calculator tool"
+            [attr.alt]="'pip calculator tool' | localize"
           />
           <p
             class="card-header tw-mt-4 tw-font-montserrat tw-text-sm tw-tracking-wider tw-text-center"
           >
-            The Pip Calculator estimates the value of a pip for a currency pair
-            based on your trade size and account currency, helping you assess
-            potential profit or loss from price movements.
-          </p>
+             {{ 'The Pip Calculator estimates the value of a pip for a currency pair based on your trade size and account currency, helping you assess potential profit or loss from price movements.' | localize }} </p>
         </div>
         <div class="d-flex justify-content-center card-footer">
-          <button
+          <a
             class="btn px-4 py-2 tw-mb-2 use-button"
             routerLink="/resources/tools/pip-calculator"
           >
-            Use This Tool
-          </button>
+             {{ 'Use This Tool' | localize }} </a>
         </div>
       </div>
       <div class="text-white card tw-py-3">
         <p
           class="card-header tw-mt-2 tw-font-montserrat tw-text-lg tw-font-extrabold tw-tracking-wider tw-text-center"
         >
-          Currency Converter
-        </p>
+           {{ 'Currency Converter' | localize }} </p>
         <div class="card-body">
           <img
             loading="lazy"
             class="tools-img img-fluid"
             src="../../../../../assets/images/tools/currency-exchange.webp"
-            alt="currency exchange tool"
+            [attr.alt]="'currency exchange tool' | localize"
           />
           <p
             class="card-header tw-mt-4 tw-font-montserrat tw-text-sm tw-tracking-wider tw-text-center"
           >
-            A Currency Converter calculates exchange rates between currencies,
-            assisting traders and travelers with real-time currency conversions.
-          </p>
+             {{ 'A Currency Converter calculates exchange rates between currencies, assisting traders and travelers with real-time currency conversions.' | localize }} </p>
         </div>
         <div class="d-flex justify-content-center card-footer">
-          <button
+          <a
             routerLink="/resources/tools/currency-converter"
             class="btn px-4 tw-mb-2 py-2 use-button"
           >
-            Use This Tool
-          </button>
+             {{ 'Use This Tool' | localize }} </a>
         </div>
       </div>
       <div class="text-white card tw-py-3">
         <p
           class="card-header tw-mt-2 tw-font-montserrat tw-text-lg tw-font-extrabold tw-tracking-wider tw-text-center"
         >
-          Fibonacci Calculator
-        </p>
+           {{ 'Fibonacci Calculator' | localize }} </p>
         <div class="card-body">
           <img
             loading="lazy"
             class="tools-img img-fluid"
             src="../../../../../assets/images/tools/fibonacci-spiral.webp"
-            alt="fibonacci spiral tool"
+            [attr.alt]="'fibonacci spiral tool' | localize"
           />
           <p
             class="card-header tw-mt-4 tw-font-montserrat tw-text-sm tw-tracking-wider tw-text-center"
           >
-            A Fibonacci Calculator computes key retracement and extension
-            levels, aiding traders in identifying potential support and
-            resistance areas.
-          </p>
+             {{ 'A Fibonacci Calculator computes key retracement and extension levels, aiding traders in identifying potential support and resistance areas.' | localize }} </p>
         </div>
         <div class="d-flex justify-content-center card-footer">
-          <button
+          <a
             class="btn px-4 py-2 tw-mb-2 use-button"
             routerLink="/resources/tools/fibonacci-calculator"
           >
-            Use This Tool
-          </button>
+             {{ 'Use This Tool' | localize }} </a>
         </div>
       </div>
       <div class="text-white card tw-py-3">
         <p
           class="card-header tw-mt-2 tw-font-montserrat tw-text-lg tw-font-extrabold tw-tracking-wider tw-text-center"
         >
-          Currency Correlation
-        </p>
+           {{ 'Currency Correlation' | localize }} </p>
         <div class="card-body">
           <img
             loading="lazy"
             class="tools-img img-fluid"
             src="../../../../../assets/images/tools/exchange-rate.webp"
-            alt="currency exchange rate tool"
+            [attr.alt]="'currency exchange rate tool' | localize"
           />
           <p
             class="card-header tw-mt-4 tw-font-montserrat tw-text-sm tw-tracking-wider tw-text-center"
           >
-            Currency Correlation measures the relationship between currency
-            pairs, helping traders assess diversification and manage risk
-            effectively.
-          </p>
+             {{ 'Currency Correlation measures the relationship between currency pairs, helping traders assess diversification and manage risk effectively.' | localize }} </p>
         </div>
         <div class="d-flex justify-content-center card-footer">
-          <button
+          <a
             class="btn px-4 py-2 tw-mb-2 use-button"
             routerLink="/resources/tools/currency-correlation"
           >
-            Use This Tool
-          </button>
+             {{ 'Use This Tool' | localize }} </a>
         </div>
       </div>
       <div class="text-white card tw-py-3">
         <p
           class="card-header tw-mt-2 tw-font-montserrat tw-text-lg tw-font-extrabold tw-tracking-wider tw-text-center"
         >
-          Pivot Point Calculator
-        </p>
+           {{ 'Pivot Point Calculator' | localize }} </p>
         <div class="card-body">
           <img
             loading="lazy"
             class="tools-img img-fluid"
             src="../../../../../assets/images/tools/arrow.webp"
-            alt="arrow webp tool"
+            [attr.alt]="'arrow webp tool' | localize"
           />
           <p
             class="card-header tw-mt-4 tw-font-montserrat tw-text-sm tw-tracking-wider tw-text-center"
           >
-            A Pivot Point Calculator determines key support and resistance
-            levels, helping traders identify potential market turning points.
-          </p>
+             {{ 'A Pivot Point Calculator determines key support and resistance levels, helping traders identify potential market turning points.' | localize }} </p>
         </div>
         <div class="d-flex justify-content-center card-footer">
-          <button
+          <a
             class="btn px-4 py-2 tw-mb-2 use-button"
             routerLink="/resources/tools/pivot-point-calculator"
           >
-            Use This Tool
-          </button>
+             {{ 'Use This Tool' | localize }} </a>
         </div>
       </div>
       <div class="text-white card tw-py-3">
         <p
           class="card-header tw-mt-2 tw-font-montserrat tw-text-lg tw-font-extrabold tw-tracking-wider tw-text-center"
         >
-          Margin Calculator
-        </p>
+           {{ 'Margin Calculator' | localize }} </p>
         <div class="card-body">
           <img
             loading="lazy"
             class="tools-img img-fluid"
             src="../../../../../assets/images/tools/marginal.webp"
-            alt="marginal tool"
+            [attr.alt]="'marginal tool' | localize"
           />
           <p
             class="card-header tw-mt-4 tw-font-montserrat tw-text-sm tw-tracking-wider tw-text-center"
           >
-            A Margin Calculator helps traders determine the margin required to
-            open and maintain a trading position.
-          </p>
+             {{ 'A Margin Calculator helps traders determine the margin required to open and maintain a trading position.' | localize }} </p>
         </div>
         <div class="d-flex justify-content-center card-footer">
-          <button
+          <a
             class="btn px-4 py-2 tw-mb-2 use-button"
             routerLink="/resources/tools/margin-calculator"
           >
-            Use This Tool
-          </button>
+             {{ 'Use This Tool' | localize }} </a>
         </div>
       </div>
       <div class="text-white card tw-py-3">
         <p
           class="card-header tw-mt-2 tw-font-montserrat tw-text-lg tw-font-extrabold tw-tracking-wider tw-text-center"
         >
-          Profit Calculator
-        </p>
+           {{ 'Profit Calculator' | localize }} </p>
         <div class="card-body">
           <img
             loading="lazy"
             class="tools-img img-fluid"
             src="../../../../../assets/images/tools/profit-calculator.webp"
-            alt="profit calculator tool"
+            [attr.alt]="'profit calculator tool' | localize"
           />
           <p
             class="card-header tw-mt-4 tw-font-montserrat tw-text-sm tw-tracking-wider tw-text-center"
           >
-            A Profit Calculator estimates potential profits or losses from
-            trades, helping traders plan and evaluate strategies.
-          </p>
+             {{ 'A Profit Calculator estimates potential profits or losses from trades, helping traders plan and evaluate strategies.' | localize }} </p>
         </div>
         <div class="d-flex justify-content-center card-footer">
-          <button
+          <a
             class="btn px-4 tw-mb-2 py-2 use-button"
             routerLink="/resources/tools/profit-calculator"
           >
-            Use This Tool
-          </button>
+             {{ 'Use This Tool' | localize }} </a>
         </div>
       </div>
       <!-- <div class="text-white card tw-py-3">
@@ -284,30 +243,25 @@
         <p
           class="card-header tw-mt-2 tw-font-montserrat tw-text-lg tw-font-extrabold tw-tracking-wider tw-text-center"
         >
-          Currency Heat Map
-        </p>
+           {{ 'Currency Heat Map' | localize }} </p>
         <div class="card-body">
           <img
             loading="lazy"
             class="tools-img img-fluid"
             src="../../../../../assets/images/tools/bar-chart.webp"
-            alt="currency bar chart tool"
+            [attr.alt]="'currency bar chart tool' | localize"
           />
           <p
             class="card-header tw-mt-4 tw-font-montserrat tw-text-sm tw-tracking-wider tw-text-center"
           >
-            A Currency Heat Map visually represents the strength of various
-            currencies, helping traders quickly identify market trends and
-            opportunities.
-          </p>
+             {{ 'A Currency Heat Map visually represents the strength of various currencies, helping traders quickly identify market trends and opportunities.' | localize }} </p>
         </div>
         <div class="d-flex justify-content-center card-footer">
-          <button
+          <a
             class="btn px-4 tw-mb-2 py-2 use-button"
             routerLink="/resources/tools/currency-heat-map"
           >
-            Use This Tool
-          </button>
+             {{ 'Use This Tool' | localize }} </a>
         </div>
       </div>
     </div>

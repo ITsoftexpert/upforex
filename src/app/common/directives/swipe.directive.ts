@@ -1,6 +1,7 @@
 import { Directive, EventEmitter, HostListener, Output } from '@angular/core';
 
 @Directive({
+  standalone: false,
   selector: '[appSwipe]',
 })
 export class SwipeDirective {

@@ -10,11 +10,40 @@
     "blogs": "Blogs"
   },
   "HOME": {
+    "BANNER_TITLE": "Nueva estrategia revolucionaria de trading inteligente para obtener una ventaja en el mercado global.",
+    "BANNER_SUBTITLE": "Comercio de divisas, acciones CFDs , Metales Preciosos, Índice CFDs , Energía CFDs y criptografía CFDs de tu UPFOREX Cuenta de trading",
     "TRY_FREE_DEMO": "Prueba la demo gratuita",
     "OPEN_ACCOUNT": "Abrir una cuenta",
     "WELCOME_TITLE": "Bienvenido a UPFOREX - Tu principal socio de trading de Forex",
     "TRADE_TAGLINE": "Negocia de forma inteligente. Gana más rápido. Crece globalmente.",
     "DESCRIPTION": "En UPFOREX proporcionamos soluciones de trading de Forex de próxima generación diseñadas para traders minoristas, inversores profesionales y brókers introducción.",
+    "CONFIDENCE_TITLE": "Opere con confianza: condiciones de mercado excepcionales para todos los operadores.",
+    "CONFIDENCE_DESC": "En UPFOREX Ofrecemos las mejores condiciones de trading para operadores de todos los niveles. Con spreads ajustados, mayor liquidez y ejecución rápida, puede operar con total confianza.",
+    "BEST_PRICES_TITLE": "Los mejores precios del mercado y márgenes bajos.",
+    "BEST_PRICES_DESC": "Disfrute de mejores precios en Forex, acciones, índices y criptomonedas. CFDs .",
+    "NEGATIVE_BALANCE": "Protección contra saldo negativo",
+    "INSTANT_DEPOSITS_TITLE": "Depósitos instantáneos y retiros rápidos",
+    "INSTANT_DEPOSITS_DESC": "Disfruta de pagos rápidos con múltiples opciones de pago como criptomonedas, transferencia bancaria, Neteller y Skrill.",
+    "SMARTER_TRADE_TITLE": "Opere de forma más inteligente con activos globales.",
+    "SMARTER_TRADE_DESC": "Encuentra tu próxima oportunidad de inversión con fácil acceso a una amplia gama de mercados.",
+    "GLOBAL_TRADING": "Comercio global sin interrupciones con una velocidad increíble. ECN Conectividad",
+    "SMART_FEATURES": "Funciones de negociación inteligente",
+    "CARD_1": "Diseñado para los operadores modernos",
+    "CARD_2": "Comprometidos con la transparencia y la seguridad.",
+    "CARD_3": "Infraestructura de negociación de próxima generación",
+    "CARD_4": "Estamos aquí cuando nos necesites.",
+    "MT5_TITLE": "Opere en cualquier momento y en cualquier lugar con MetaTrader 5 ( MT5 ) – Móvil, ordenador de escritorio y web",
+    "MT5_DESC": "Experimente operaciones comerciales avanzadas con MetaTrader 5 ( MT5 ). Una potente plataforma para Forex, acciones, índices, materias primas y criptomonedas. Ya sea en casa, en la oficina o de viaje, MT5 Está disponible en dispositivos móviles, ordenadores de escritorio y web, para que nunca te pierdas una oportunidad de inversión.",
+    "ADVANCED_CHARTS": "Herramientas avanzadas de gráficos: Visualice gráficos en tiempo real con múltiples marcos temporales e indicadores integrados.",
+    "MULTI_ASSET": "Negociación multiactivos: Opere con divisas, acciones, índices, materias primas y criptomonedas desde una sola plataforma.",
+    "FULL_ACCOUNT_CONTROL": "Control total de la cuenta",
+    "FULL_ACCOUNT_CONTROL_DESC": "Gestiona tus operaciones, realiza pedidos y controla tu cartera fácilmente.",
+    "REAL_TIME_DATA": "Datos de mercado en tiempo real: Manténgase al día con los precios y las noticias en directo.",
+    "SECURE_EASY": "Seguro y fácil de usar",
+    "SECURE_EASY_DESC": "Optimizado para dispositivos móviles, ofrece una experiencia de compraventa rápida y segura.",
+    "MT5_FINAL": "Ya sea usted un operador nuevo o experimentado, MT5 Te ayuda a aprovechar cada oportunidad. Descárgala ahora y opera mejor.",
+    "UNLOCK_MARKETS": "Desbloquea el acceso a los mercados globales",
+    "UNLOCK_DESC": "Experimente el poder del comercio global desde una sola cuenta.",
     "TRADING_CALCULATORS": "Calculadoras de Trading",
     "MARKET_ANALYSIS": "Análisis de Mercado",
     "MARKET_REVIEWS": "Reseñas de Mercado"
@@ -47,5 +76,102 @@
   "accounts": {
     "accounts": "Cuentas",
     "mt5Platform": "Plataforma MetaTrader 5 (MT5)"
-  }
+  },
+  "IB": {
+    "TITLE": "UPFOREX Programa de Agentes Introductores (IB)",
+    "TAGLINE": "Maximiza tus ganancias. Amplía tu red de contactos. Asóciate con un corredor de confianza.",
+    "INTRO": "En UPFOREX Nuestro programa IB está diseñado para brindar beneficios inigualables, un alto potencial de comisiones y soporte exclusivo para socios. Ya sea que tenga experiencia como IB o esté comenzando, ofrecemos soluciones personalizadas que le ayudarán a construir una red de corretaje exitosa.",
+    "BENEFITS_TITLE": "¿Por qué unirse a la? UPFOREX ¿Programa IB?",
+    "BENEFITS": [
+      {
+        "boldText": "Estructura de la Alta Comisión",
+        "subText": "Obtén comisiones multinivel altamente competitivas, con pagos rápidos que garantizan una generosa recompensa por tus esfuerzos y éxito en la captación de clientes."
+      },
+      {
+        "boldText": "Participación en los ingresos de por vida",
+        "subText": "Sigue obteniendo ingresos a largo plazo de los clientes activos que recomiendes, asegurándote así unos ingresos pasivos continuos con cada operación que realicen."
+      },
+      {
+        "boldText": "Panel de control de IB en tiempo real",
+        "subText": "Realiza un seguimiento de tus referencias y comisiones en tiempo real con nuestra avanzada MT5 Manager Suite, que le brinda control total de su negocio."
+      },
+      {
+        "boldText": "Estructura multinivel del IB",
+        "subText": "Expande tu negocio reclutando sub-IB y afiliados, obteniendo recompensas adicionales por su actividad y, al mismo tiempo, ampliando tu red de contactos."
+      },
+      {
+        "boldText": "Pagos flexibles",
+        "subText": "Puedes elegir entre pagos de comisiones semanales o mensuales, lo que te garantizará un flujo de caja constante y una estabilidad financiera continua sin demoras."
+      },
+      {
+        "boldText": "Soporte de marketing y marca",
+        "subText": "Acceda a materiales de marketing personalizados, banners y herramientas promocionales exclusivas para atraer y fidelizar clientes de forma eficaz."
+      },
+      {
+        "boldText": "Acceso a herramientas de trading premium",
+        "subText": "Ofrezca a sus clientes una gran liquidez, una ejecución rápida y condiciones de negociación avanzadas, mejorando así su experiencia de trading."
+      },
+      {
+        "boldText": "Incorporación de clientes sin complicaciones",
+        "subText": "Apertura de cuenta simplificada y KYC procesos para garantizar un registro de clientes sencillo y sin complicaciones, con el mínimo esfuerzo."
+      },
+      {
+        "boldText": "Soporte especializado para IB",
+        "subText": "Benefíciese de un gestor de cuenta personal dedicado que estará disponible para guiarle y apoyarle en cada paso de su proceso."
+      },
+      {
+        "boldText": "Oportunidad de expansión global",
+        "subText": "Crea tu propia red de IB a escala global, conectando con traders de todo el mundo y ampliando tu alcance."
+      }
+    ],
+    "STEPS_TITLE": "Cómo funciona",
+    "STEPS": [
+      {
+        "boldText": "Inscribirse",
+        "subText": "Regístrese como agente introductor con UPFOREX"
+      },
+      {
+        "boldText": "Recomiende clientes",
+        "subText": "Presente a los operadores a través de su enlace de referencia único o contactos directos."
+      },
+      {
+        "boldText": "Los clientes invierten, usted gana.",
+        "subText": "Gana comisiones por cada operación que realicen tus clientes referidos."
+      },
+      {
+        "boldText": "Haz crecer tu red",
+        "subText": "Reclute sub-IBs para aumentar sus ganancias con comisiones multinivel."
+      }
+    ],
+    "REASONS_TITLE": "¿Por qué Up Forex?",
+    "REASONS": [
+      {
+        "boldText": "Soluciones personalizadas de banca de inversión",
+        "subText": "Ofrecemos modelos de comisiones personalizados y soluciones de marca blanca adaptadas a los grandes intermediarios (IB, por sus siglas en inglés), lo que les permite crear modelos de negocio a medida y maximizar su potencial de ingresos con oportunidades de colaboración flexibles."
+      },
+      {
+        "boldText": "Proveedores de liquidez de primer nivel",
+        "subText": "Benefíciese de spreads competitivos y una ejecución de nivel institucional al asociarse con proveedores de liquidez de primer nivel, lo que garantiza que sus operaciones se ejecuten en las mejores condiciones de mercado disponibles para un rendimiento óptimo."
+      },
+      {
+        "boldText": "Corredor regulado y de confianza",
+        "subText": "Asóciate con una correduría de divisas transparente y de buena reputación que cumpla con estrictas normas regulatorias, garantizando así la seguridad y confiabilidad de tu experiencia de trading y ofreciendo tranquilidad a clientes de todo el mundo."
+      },
+      {
+        "boldText": "Amplia gama de instrumentos",
+        "subText": "Ofrecemos a nuestros clientes una amplia selección de instrumentos de negociación, incluyendo divisas, índices, materias primas y criptomonedas, brindando diversas oportunidades para satisfacer diferentes estrategias y preferencias de negociación."
+      },
+      {
+        "boldText": "Tecnología de vanguardia",
+        "subText": "Avanzado MT5 Las plataformas de negociación ofrecen funciones de última generación, lo que garantiza una ejecución ultrarrápida y una experiencia de negociación fluida, permitiendo a los clientes mantenerse a la vanguardia en el dinámico mercado de divisas."
+      }
+    ],
+    "CTA_TITLE": "¡Empieza a ganar dinero como IB hoy mismo!",
+    "JOIN_NOW": "📩 Únete ahora -",
+    "FILL_FORM": "Rellena el formulario",
+    "OR_CONTACT": "o contactar",
+    "GET_STARTED": "para empezar.",
+    "APPLY_NOW": "Solicita ahora"
+  },
+  "__nativeI18nVersion": "af81a4657e7a422981c5"
 }

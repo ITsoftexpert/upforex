@@ -1,0 +1,805 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tcb1f22a57c5cb163",
+      "english": "Standard Mini Micro Lots",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#tag",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "标准迷你微型手"
+    },
+    {
+      "key": "tbb17e0855e75f283",
+      "english": "STANDARD MINI MICRO LOTS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#upperTag",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "标准手、迷你手和微型手"
+    },
+    {
+      "key": "t86f2a336120b92ba",
+      "english": "Forex Position Sizing",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#tag",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "外汇头寸规模"
+    },
+    {
+      "key": "t3e9caa367e70503a",
+      "english": "FOREX POSITION SIZING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#upperTag",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "外汇头寸规模"
+    },
+    {
+      "key": "tc1aad10c7299b3c6",
+      "english": "<span data-i18n-slot=\"0\">What Is Lot Size in Forex? Standard, Mini and Micro Lots Explained</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是外汇交易手数？标准手、迷你手和微型手详解</span>"
+    },
+    {
+      "key": "t41ba628a1b62eeb2",
+      "english": "<span data-i18n-slot=\"0\">Forex </span><span data-i18n-slot=\"1\">lot size</span><span data-i18n-slot=\"2\"> is the standardized unit used to measure trade volume. A standard lot represents 100,000 units of the base currency, a mini lot 10,000 units, a micro lot 1,000 units, and a nano lot 100 units. Nano-sized trading is not available through every broker or instrument.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇</span><span data-i18n-slot=\"1\">手数</span><span data-i18n-slot=\"2\">是用于衡量交易量的标准化单位。标准手代表 100,000 单位的基础货币，迷你手代表 10,000 单位，微型手代表 1,000 单位，纳米手代表 100 单位。并非所有经纪商或工具都可以进行纳米级交易。</span>"
+    },
+    {
+      "key": "tab5944424c191b1a",
+      "english": "<span data-i18n-slot=\"0\">Lot size is one of the first trading mechanics worth understanding because it determines the amount of currency represented by a position and directly affects how much its value changes when the market moves.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手数是最值得理解的交易机制之一，因为它决定了仓位所代表的货币数量，并直接影响其价值在市场变动时的变化程度。</span>"
+    },
+    {
+      "key": "tf44cbb1d2379b161",
+      "english": "<span data-i18n-slot=\"0\">What Is Lot Size in Forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是外汇交易手数？</span>"
+    },
+    {
+      "key": "t76df17249a9eb6ce",
+      "english": "<span data-i18n-slot=\"0\">Lot size in forex is the standardized measure of transaction volume used when opening a forex position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇中的手数是开立外汇头寸时使用的交易量的标准化衡量标准。</span>"
+    },
+    {
+      "key": "t1de7ae7c1697833e",
+      "english": "<span data-i18n-slot=\"0\">For forex pairs, the number of lots determines how many units of the base currency the trade represents.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于外汇货币对，手数决定了交易代表多少单位的基础货币。</span>"
+    },
+    {
+      "key": "t0eb4a95834535748",
+      "english": "<span data-i18n-slot=\"0\">Under the standard forex convention:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">根据标准外汇惯例：</span>"
+    },
+    {
+      "key": "t9a8f2a3179b9f25f",
+      "english": "<span data-i18n-slot=\"0\">0.10 lot = 10,000 base-currency units</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.10 手 = 10,000 基础货币单位</span>"
+    },
+    {
+      "key": "t81cb9c37cb68614f",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot = 1,000 base-currency units</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01 手 = 1,000 基础货币单位</span>"
+    },
+    {
+      "key": "tf79731ddfbacbbc1",
+      "english": "<span data-i18n-slot=\"0\">0.001 lot = 100 base-currency units, where nano-lot trading is supported</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.001手 = 100基础货币单位（在支持纳米手交易的情况下）</span>"
+    },
+    {
+      "key": "t8254c2ac10c38f48",
+      "english": "<span data-i18n-slot=\"0\">This is the practical meaning behind terms such as lot size forex, forex lot size and trade volume. The lot does not tell you whether a position will gain or lose. It tells you how much market exposure the position represents.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这是外汇手数、外汇交易手数和交易量等术语的实际含义。手数不会告诉您一个头寸会盈利还是亏损，而是告诉您该头寸代表多大的市场风险敞口。</span>"
+    },
+    {
+      "key": "t21132d6ab47e28f2",
+      "english": "<span data-i18n-slot=\"0\">Lot Type</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手数类型</span>"
+    },
+    {
+      "key": "t7fa33dde675dd1f8",
+      "english": "<span data-i18n-slot=\"0\">Typical Trader Profile</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的交易者资料</span>"
+    },
+    {
+      "key": "te89e169beec55971",
+      "english": "<span data-i18n-slot=\"0\">Standard Lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">标准手</span>"
+    },
+    {
+      "key": "t24dd358d812fa609",
+      "english": "<span data-i18n-slot=\"0\">Mini Lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">迷你手</span>"
+    },
+    {
+      "key": "t9176ca6e17f6dff2",
+      "english": "<span data-i18n-slot=\"0\">Smaller position sizing than a standard lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">比标准手数更小的头寸规模</span>"
+    },
+    {
+      "key": "t816fa5c4c5aa79d0",
+      "english": "<span data-i18n-slot=\"0\">Micro Lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">微型手</span>"
+    },
+    {
+      "key": "t1abde346ff7a5f26",
+      "english": "<span data-i18n-slot=\"0\">Fine-grained sizing for smaller calculated exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">针对较小计算风险敞口的精细头寸规模调整</span>"
+    },
+    {
+      "key": "t38e532860fca7744",
+      "english": "<span data-i18n-slot=\"0\">Nano Lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">纳米手</span>"
+    },
+    {
+      "key": "tf062f06df94a61e3",
+      "english": "<span data-i18n-slot=\"0\">Very small position increments where the broker and instrument support them</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">经纪商和工具支持的头寸增量非常小</span>"
+    },
+    {
+      "key": "t081640484c4610c6",
+      "english": "<span data-i18n-slot=\"0\">1 lot EUR/USD = 100,000 EUR</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1 手欧元/美元 = 100,000 欧元</span>"
+    },
+    {
+      "key": "t462d23fc2f154e46",
+      "english": "<span data-i18n-slot=\"0\">1 lot GBP/USD = 100,000 GBP</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1 手英镑/美元 = 100,000 英镑</span>"
+    },
+    {
+      "key": "t70f5d9930448cf87",
+      "english": "<span data-i18n-slot=\"0\">1 lot USD/JPY = 100,000 USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1 手美元/日元 = 100,000 美元</span>"
+    },
+    {
+      "key": "tc6ef1f7bd8a97e05",
+      "english": "<span data-i18n-slot=\"0\">The monetary value of a pip is therefore larger on a standard lot than on smaller lot sizes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因此，标准手数的点值货币价值大于小手数的货币价值。</span>"
+    },
+    {
+      "key": "td621b3c32554493d",
+      "english": "<span data-i18n-slot=\"0\">In MT5-style decimal volume notation:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">使用MT5式的小数交易量表示法：</span>"
+    },
+    {
+      "key": "t7bab6abdae39b72d",
+      "english": "<span data-i18n-slot=\"0\">0.10 lot = 1 mini lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.10 手 = 1 迷你手</span>"
+    },
+    {
+      "key": "t0220a0e9dc7e1e59",
+      "english": "<span data-i18n-slot=\"0\">This gives one-tenth of the exposure of a standard forex lot in the same currency pair.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这相当于同一货币对中标准外汇手数的十分之一。</span>"
+    },
+    {
+      "key": "t455f283987a95dc3",
+      "english": "<span data-i18n-slot=\"0\">In decimal notation:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">十进制表示法：</span>"
+    },
+    {
+      "key": "td08343dea43fe714",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot = 1 micro lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01 手 = 1 微手</span>"
+    },
+    {
+      "key": "t3b49cfd38f0f96ed",
+      "english": "<span data-i18n-slot=\"0\">How Do You Calculate Lot Size in Forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何计算外汇交易手数？</span>"
+    },
+    {
+      "key": "t7375742be6427ea3",
+      "english": "<span data-i18n-slot=\"0\">Forex lot size can be calculated by combining the amount a trader is prepared to risk with the stop-loss distance and the pip value of the position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇手数可以通过将交易者准备承担风险的金额与止损距离和头寸的点值相结合来计算。</span>"
+    },
+    {
+      "key": "t390ca30562af90cf",
+      "english": "<span data-i18n-slot=\"0\">A simplified position-sizing process is:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">简化的头寸调整流程是：</span>"
+    },
+    {
+      "key": "tb096395b9c7e6fe7",
+      "english": "<span data-i18n-slot=\"0\">Define the stop-loss distance in pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">定义止损距离（以点为单位）。</span>"
+    },
+    {
+      "key": "t7d576094054afc16",
+      "english": "<span data-i18n-slot=\"0\">Determine the pip value for 1.00 lot.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">确定 1.00 手的点值。</span>"
+    },
+    {
+      "key": "t1a890bd5c4500c25",
+      "english": "<span data-i18n-slot=\"0\">Calculate the lot size that connects those values.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">计算连接这些值的手数。</span>"
+    },
+    {
+      "key": "t9973999ab8fa2024",
+      "english": "<span data-i18n-slot=\"0\">Lot Size = Risk Amount ÷ (Stop-Loss Distance × Pip Value per 1.00 Lot)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手数 = 风险金额 ÷（止损距离 × 每 1.00 手的点值）</span>"
+    },
+    {
+      "key": "t446e27ade1d157d9",
+      "english": "<span data-i18n-slot=\"0\">Simplified Worked Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">简化的计算示例</span>"
+    },
+    {
+      "key": "t0abf67335284976d",
+      "english": "<span data-i18n-slot=\"0\">Stop-loss distance: 50 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损距离：50点</span>"
+    },
+    {
+      "key": "t06e646371766af3d",
+      "english": "<span data-i18n-slot=\"0\">Instrument: EUR/USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">工具：欧元/美元</span>"
+    },
+    {
+      "key": "tc35cf19be53e9f63",
+      "english": "<span data-i18n-slot=\"0\">Approximate pip value at 1.00 lot: $10 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.00 手的近似点值：每点 10 美元</span>"
+    },
+    {
+      "key": "t274cfb36adb2d78c",
+      "english": "<span data-i18n-slot=\"0\">$100 ÷ (50 × $10) = 0.20 lots</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">100 美元 ÷ (50 × 10 美元) = 0.20 手</span>"
+    },
+    {
+      "key": "t961ed732193717ae",
+      "english": "<span data-i18n-slot=\"0\">Under those assumptions, 0.20 lots would make a 50-pip movement worth approximately $100.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">根据这些假设，0.20 手将使 50 点的变动价值约 100 美元。</span>"
+    },
+    {
+      "key": "t757a33f8ff82a74a",
+      "english": "<span data-i18n-slot=\"0\">What's the Difference Between Lot Size and Leverage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手数和杠杆有什么区别？</span>"
+    },
+    {
+      "key": "tc37caa7496d7cf28",
+      "english": "<span data-i18n-slot=\"0\">Lot size measures the volume of the position, while </span><span data-i18n-slot=\"1\">leverage</span><span data-i18n-slot=\"2\"> determines how much margin is required relative to that market exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手数衡量头寸的交易量，而</span><span data-i18n-slot=\"1\">杠杆</span><span data-i18n-slot=\"2\">决定相对于该市场风险敞口所需的保证金。</span>"
+    },
+    {
+      "key": "tbc49720ebaadf48c",
+      "english": "<span data-i18n-slot=\"0\">What changes with leverage is the amount of account equity generally required as </span><span data-i18n-slot=\"1\">margin</span><span data-i18n-slot=\"2\"> to support that exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">随杠杆变化的是通常需要的账户净值金额，作为支持该风险的</span><span data-i18n-slot=\"1\">保证金</span><span data-i18n-slot=\"2\">。</span>"
+    },
+    {
+      "key": "t9af2614163624f2f",
+      "english": "<span data-i18n-slot=\"0\">Lot Size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手数</span>"
+    },
+    {
+      "key": "tbb5bead8d4e78f54",
+      "english": "<span data-i18n-slot=\"0\">Position volume and exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">头寸规模与市场风险敞口</span>"
+    },
+    {
+      "key": "tff967c48c4cd26fc",
+      "english": "<span data-i18n-slot=\"0\">Relationship between exposure and required margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">风险敞口与所需保证金之间的关系</span>"
+    },
+    {
+      "key": "t2048da6d3c4bae1f",
+      "english": "<span data-i18n-slot=\"0\">Pip Value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点值</span>"
+    },
+    {
+      "key": "t9aae7b2eaa427228",
+      "english": "<span data-i18n-slot=\"0\">Monetary effect of a pip movement for the selected position size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点变动对所选头寸规模的货币影响</span>"
+    },
+    {
+      "key": "ta1a4f02b8cda511f",
+      "english": "<span data-i18n-slot=\"0\">This is the key distinction in the lot size vs leverage question.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这是手数与杠杆问题的关键区别。</span>"
+    },
+    {
+      "key": "td8ccc3ee191a4e8c",
+      "english": "<span data-i18n-slot=\"0\">Higher leverage does not transform a micro lot into a mini or standard lot. Likewise, reducing lot size does not change the leverage ratio itself.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">较高的杠杆率不会将微型手数转变为迷你手数或标准手数。同样，减少手数也不会改变杠杆率本身。</span>"
+    },
+    {
+      "key": "t5972fb36d28380ce",
+      "english": "<span data-i18n-slot=\"0\">Lot size describes how many lots are being traded, while </span><span data-i18n-slot=\"1\">contract size</span><span data-i18n-slot=\"2\"> defines how many underlying units one full lot represents for that particular instrument.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手数描述了正在交易的手数，而</span><span data-i18n-slot=\"1\">合约大小</span><span data-i18n-slot=\"2\">定义了一整手代表该特定工具的基础单位数量。</span>"
+    },
+    {
+      "key": "td8cbdbbe04ec80e2",
+      "english": "<span data-i18n-slot=\"0\">Position Units = Number of Lots × Contract Size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">持仓单位=手数×合约规模</span>"
+    },
+    {
+      "key": "tf4e0fedf0529a573",
+      "english": "<span data-i18n-slot=\"0\">For EUR/USD:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">欧元/美元：</span>"
+    },
+    {
+      "key": "te6d60e283309c9e8",
+      "english": "<span data-i18n-slot=\"0\">The distinction becomes more important outside forex.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在外汇交易之外，这种区别变得更加重要。</span>"
+    },
+    {
+      "key": "t1f36d1c47c0adfac",
+      "english": "<span data-i18n-slot=\"0\">How Does Lot Size Affect Pip Value?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手数大小如何影响点值？</span>"
+    },
+    {
+      "key": "t1b99ac030fae6fdb",
+      "english": "<span data-i18n-slot=\"0\">Pip value</span><span data-i18n-slot=\"1\"> increases or decreases directly with forex lot size, so larger positions experience a larger monetary change for the same pip movement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点值</span><span data-i18n-slot=\"1\">随着外汇手数大小直接增加或减少，因此对于相同点的变动，较大的头寸会经历更大的货币变化。</span>"
+    },
+    {
+      "key": "t8671db7bd8dac733",
+      "english": "<span data-i18n-slot=\"0\">For a major currency pair quoted in USD, such as EUR/USD, the approximate pip values are straightforward:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于以美元报价的主要货币对（例如欧元/美元），近似点值非常简单：</span>"
+    },
+    {
+      "key": "t3c7478ddd2733837",
+      "english": "<span data-i18n-slot=\"0\">Base-Currency Units</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">基础货币单位</span>"
+    },
+    {
+      "key": "t95a05907bb68a20f",
+      "english": "<span data-i18n-slot=\"0\">Approximate Pip Value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">近似点值</span>"
+    },
+    {
+      "key": "t803056b00fb32cee",
+      "english": "<span data-i18n-slot=\"0\">1.00 Standard Lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.00 标准手</span>"
+    },
+    {
+      "key": "ta78fc0005860f4f6",
+      "english": "<span data-i18n-slot=\"0\">$10 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每点 10 美元</span>"
+    },
+    {
+      "key": "t745b9066d9ce3a56",
+      "english": "<span data-i18n-slot=\"0\">0.10 Mini Lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.10 迷你手</span>"
+    },
+    {
+      "key": "tc46048626feb79e6",
+      "english": "<span data-i18n-slot=\"0\">$1 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每点 1 美元</span>"
+    },
+    {
+      "key": "t5c3952929f87ec28",
+      "english": "<span data-i18n-slot=\"0\">$0.10 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每点 0.10 美元</span>"
+    },
+    {
+      "key": "t2af62924546df088",
+      "english": "<span data-i18n-slot=\"0\">$0.01 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每点 0.01 美元</span>"
+    },
+    {
+      "key": "t6c1ee22eb900bfbe",
+      "english": "<span data-i18n-slot=\"0\">For example, a 20-pip movement on EUR/USD would have a different monetary effect depending on volume:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">例如，欧元/美元 20 点的波动会根据交易量产生不同的货币影响：</span>"
+    },
+    {
+      "key": "td67c95bc1493883c",
+      "english": "<span data-i18n-slot=\"0\">1.00 lot: approximately $200</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.00 手：约 200 美元</span>"
+    },
+    {
+      "key": "t51958572a969b02c",
+      "english": "<span data-i18n-slot=\"0\">0.10 lot: approximately $20</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.10 手：约 20 美元</span>"
+    },
+    {
+      "key": "t606eeb6a35dfd91c",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot: approximately $2</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01 手：约 2 美元</span>"
+    },
+    {
+      "key": "t649f534b0bfdf545",
+      "english": "<span data-i18n-slot=\"0\">Pip value is not always exactly the same in the account currency for every pair. Currency conversion can be required when the quote currency differs from the account currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每对账户货币的点值并不总是完全相同。当报价货币与账户货币不同时，可能需要进行货币转换。</span>"
+    },
+    {
+      "key": "t91aa5a8d21447561",
+      "english": "<span data-i18n-slot=\"0\">That is why a lot size and pip calculator normally uses the pair, account currency and position size together.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这就是为什么手数和点值计算器通常同时使用货币对、账户货币和头寸规模的原因。</span>"
+    },
+    {
+      "key": "t2a531adf667e7589",
+      "english": "<span data-i18n-slot=\"0\">A lot size is not automatically a fixed dollar amount.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手数并不自动是固定的美元金额。</span>"
+    },
+    {
+      "key": "tfc4c4243a8b43767",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot = 1,000 EUR</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01 手 = 1,000 欧元</span>"
+    }
+  ]
+}

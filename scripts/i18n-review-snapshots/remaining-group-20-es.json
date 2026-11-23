@@ -1,0 +1,577 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tf6dea62b1fca7853",
+      "english": "<span data-i18n-slot=\"0\">Open trade moves against position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La operación abierta se mueve en contra de la posición</span>"
+    },
+    {
+      "key": "t41ef90d9ad1d6db7",
+      "english": "<span data-i18n-slot=\"0\">8% equity drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">8&nbsp;% de reducción de capital</span>"
+    },
+    {
+      "key": "t8e356a7b21dbc64d",
+      "english": "<span data-i18n-slot=\"0\">Account equity, however, has fallen to $9,200.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sin embargo, el capital de la cuenta ha caído a $9,200.</span>"
+    },
+    {
+      "key": "t7149ccf61b5133c4",
+      "english": "<span data-i18n-slot=\"0\">Balance drawdown = 5%</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reducción del saldo = 5%</span>"
+    },
+    {
+      "key": "t528c18bc723fa76a",
+      "english": "<span data-i18n-slot=\"0\">Equity drawdown = 8%</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reducción del capital = 8%</span>"
+    },
+    {
+      "key": "tfff083d1e37447a9",
+      "english": "<span data-i18n-slot=\"0\">If the open position later recovers before being closed, the equity drawdown can decrease. If the unrealized loss becomes larger, equity drawdown can deepen even though the account balance remains unchanged.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Si la posición abierta se recupera más tarde antes de cerrarse, la reducción del capital puede disminuir. Si la pérdida no realizada aumenta, la reducción del capital puede profundizarse incluso si el saldo de la cuenta permanece sin cambios.</span>"
+    },
+    {
+      "key": "t29ac8202825404a8",
+      "english": "<span data-i18n-slot=\"0\">How Do You Calculate Drawdown in Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo se calcula la reducción en el trading?</span>"
+    },
+    {
+      "key": "tef717169c768ef17",
+      "english": "<span data-i18n-slot=\"0\">Drawdown % = (Peak Value − Current Value) ÷ Peak Value × 100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">% de reducción = (valor máximo - valor actual) ÷ valor máximo × 100</span>"
+    },
+    {
+      "key": "t14afa7d659055b86",
+      "english": "<span data-i18n-slot=\"0\">Peak account equity: $20,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio máximo de la cuenta: $20,000</span>"
+    },
+    {
+      "key": "tc66c06b2d4bedad4",
+      "english": "<span data-i18n-slot=\"0\">Current account equity: $17,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrimonio actual de la cuenta: $17,000</span>"
+    },
+    {
+      "key": "tfa0c2b1efbc52380",
+      "english": "<span data-i18n-slot=\"0\">Decline: $3,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Descenso: $3,000</span>"
+    },
+    {
+      "key": "t7d6a033a04c9f676",
+      "english": "<span data-i18n-slot=\"0\">The equity drawdown is therefore 15%.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por tanto, el drawdown del patrimonio es del 15%.</span>"
+    },
+    {
+      "key": "t2df5b1a69bba1b68",
+      "english": "<span data-i18n-slot=\"0\">When learning how to calculate drawdown in trading, identifying the correct peak is important. Comparing the current account value only with the original deposit may produce a different percentage and does not necessarily measure peak-to-current drawdown correctly.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Al aprender a calcular la reducción en el comercio, es importante identificar el pico correcto. Comparar el valor de la cuenta corriente solo con el depósito original puede producir un porcentaje diferente y no necesariamente mide correctamente la reducción del pico al corriente.</span>"
+    },
+    {
+      "key": "tda1f13e2ec49a152",
+      "english": "<span data-i18n-slot=\"0\">What Is Maximum Drawdown, and Why Does It Matter?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es la reducción máxima y por qué es importante?</span>"
+    },
+    {
+      "key": "t71771ea245d31c64",
+      "english": "<span data-i18n-slot=\"0\">Maximum drawdown is the largest peak-to-trough percentage decline recorded during a chosen period.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La reducción máxima es la mayor disminución porcentual entre el pico y el mínimo registrada durante un período elegido.</span>"
+    },
+    {
+      "key": "t2d83ba19bf636b3b",
+      "english": "<span data-i18n-slot=\"0\">This explains the max drawdown meaning in trading. It is not simply the largest individual losing trade. It measures the greatest decline between a peak and a later trough during the period being assessed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Esto explica el significado de drawdown máximo en la negociación. No es simplemente la mayor pérdida en una sola operación. Mide el mayor descenso entre un máximo y un mínimo posterior durante el período evaluado.</span>"
+    },
+    {
+      "key": "t1ec059f47027718c",
+      "english": "<span data-i18n-slot=\"0\">When considering what maximum drawdown in trading is, traders can use the figure to understand how much historical downside an account or strategy experienced while producing its past results.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Al considerar cuál es la reducción máxima en el comercio, los operadores pueden usar la cifra para comprender cuántas desventajas históricas experimentó una cuenta o estrategia al producir sus resultados anteriores.</span>"
+    },
+    {
+      "key": "t24dfd19045fce9e8",
+      "english": "<span data-i18n-slot=\"0\">Maximum drawdown is still backward-looking. A strategy that historically experienced a 15% maximum drawdown could experience a larger decline in different market conditions or with different leverage, position sizing or execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La reducción máxima todavía es retrospectiva. Una estrategia que históricamente experimentó una reducción máxima del 15% podría experimentar una caída mayor en diferentes condiciones del mercado o con diferente apalancamiento, tamaño de posición o ejecución.</span>"
+    },
+    {
+      "key": "td7540098f8942aaa",
+      "english": "<span data-i18n-slot=\"0\">Other Types of Drawdown You Might Encounter</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Otros tipos de reducción que podría encontrar</span>"
+    },
+    {
+      "key": "t3cab3fc3543819fb",
+      "english": "<span data-i18n-slot=\"0\">Daily drawdown, trailing drawdown and end-of-day drawdown describe different ways of measuring or updating a loss threshold.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El drawdown diario, el drawdown dinámico y el drawdown al final del día describen distintas formas de medir o actualizar un umbral de pérdidas.</span>"
+    },
+    {
+      "key": "t1794c48989c40693",
+      "english": "<span data-i18n-slot=\"0\">You may encounter these terms in trading education or funded trading programs:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Puede encontrar estos términos en la educación comercial o en programas comerciales financiados:</span>"
+    },
+    {
+      "key": "t759b8dcb319c36df",
+      "english": "<span data-i18n-slot=\"0\">Daily drawdown: Measures losses during a specified trading day. The reference value may be balance, equity or another rule-defined figure depending on how the limit is structured.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reducción diaria: mide las pérdidas durante un día de negociación específico. El valor de referencia puede ser saldo, patrimonio u otra cifra definida por reglas dependiendo de cómo esté estructurado el límite.</span>"
+    },
+    {
+      "key": "t7c9af8e32c3eb079",
+      "english": "<span data-i18n-slot=\"0\">Trailing drawdown: A drawdown threshold that can move upward as an account reaches new highs. The allowed lower boundary may therefore change as the account grows.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Drawdown dinámico: un umbral de drawdown que puede subir cuando una cuenta alcanza nuevos máximos. Por tanto, el límite inferior permitido puede cambiar a medida que la cuenta crece.</span>"
+    },
+    {
+      "key": "tca3de48648a32bbc",
+      "english": "<span data-i18n-slot=\"0\">EOD drawdown: End-of-day drawdown is measured or updated using an account value at the end of the trading day rather than continuously following every intraday movement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reducción del EOD: la reducción al final del día se mide o actualiza utilizando un valor de cuenta al final del día de negociación en lugar de seguir continuamente cada movimiento intradiario.</span>"
+    },
+    {
+      "key": "t334991e48f343fd2",
+      "english": "<span data-i18n-slot=\"0\">Daily and trailing drawdown rules are particularly common in funded or prop-firm trading challenges. Definitions can vary between providers, so traders should check the exact rules of a particular program rather than assuming all drawdown limits work the same way.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Las reglas de drawdown diario y dinámico son especialmente comunes en los retos de negociación financiada o de empresas de trading propietario. Las definiciones pueden variar entre proveedores, por lo que conviene comprobar las reglas exactas del programa en lugar de asumir que todos los límites de drawdown funcionan igual.</span>"
+    },
+    {
+      "key": "te19ea8531335e43b",
+      "english": "<span data-i18n-slot=\"0\">Why Does Drawdown Matter for Risk Management?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Por qué es importante la reducción para la gestión de riesgos?</span>"
+    },
+    {
+      "key": "tad7e6a5d09b8a61f",
+      "english": "<span data-i18n-slot=\"0\">Drawdown matters because the deeper an account declines, the larger the percentage gain needed to return to its previous peak.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La reducción es importante porque cuanto más cae una cuenta, mayor es el porcentaje de ganancia necesario para volver a su pico anterior.</span>"
+    },
+    {
+      "key": "t102ff5db4fed026f",
+      "english": "<span data-i18n-slot=\"0\">Drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reducción</span>"
+    },
+    {
+      "key": "t50bea367a03318d1",
+      "english": "<span data-i18n-slot=\"0\">Gain Required to Return to Previous Peak</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ganancia necesaria para volver al pico anterior</span>"
+    },
+    {
+      "key": "t3cb71528ef410c40",
+      "english": "<span data-i18n-slot=\"0\">This recovery asymmetry is one reason traders monitor drawdown alongside individual wins and losses.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Esta asimetría en la recuperación es una de las razones por las que los operadores monitorean la reducción junto con las ganancias y pérdidas individuales.</span>"
+    },
+    {
+      "key": "t9942780d0e1bd6a3",
+      "english": "<span data-i18n-slot=\"0\">Account margin controls are separate from drawdown.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UpForex's account structure</span></span><span data-i18n-slot=\"4\"> publishes a Margin Call Level of 50% and a Stop-Out Level of 30%.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los controles de margen de la cuenta son independientes del drawdown. </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">La estructura de cuentas de UpForex</span></span><span data-i18n-slot=\"4\"> publica un nivel de aviso de margen del 50% y un nivel de cierre forzoso (stop-out) del 30%.</span>"
+    },
+    {
+      "key": "td9e62a6ee8ea96ea",
+      "english": "<span data-i18n-slot=\"0\">These figures are margin-based thresholds. They should not be interpreted as acceptable drawdown levels or as maximum drawdown limits.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Estas cifras son umbrales basados en márgenes. No deben interpretarse como niveles de reducción aceptables ni como límites máximos de reducción.</span>"
+    },
+    {
+      "key": "ta16ce8e1e7683db3",
+      "english": "<span data-i18n-slot=\"0\">Drawdown cannot be removed completely from trading, but structured risk-management practices can help control how much exposure an account takes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La reducción no se puede eliminar por completo de las operaciones, pero las prácticas estructuradas de gestión de riesgos pueden ayudar a controlar cuánta exposición asume una cuenta.</span>"
+    },
+    {
+      "key": "t06475abaad4a849a",
+      "english": "<span data-i18n-slot=\"0\">Use defined exit levels. Stop-loss orders can provide a planned exit point, although execution can differ during market gaps, periods of limited liquidity or fast-moving conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Usar niveles de salida definidos. Las órdenes de limitación de pérdidas pueden proporcionar un punto de salida planificado, aunque la ejecución puede diferir durante las brechas del mercado, períodos de liquidez limitada o condiciones de rápido movimiento.</span>"
+    },
+    {
+      "key": "tf3f9672dfef992e3",
+      "english": "<span data-i18n-slot=\"0\">FAQs About Drawdown in Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Preguntas frecuentes sobre la reducción en el comercio</span>"
+    },
+    {
+      "key": "tc8151ac3acccea67",
+      "english": "<span data-i18n-slot=\"0\">What is an acceptable drawdown in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es una reducción aceptable en el comercio de divisas?</span>"
+    },
+    {
+      "key": "t6f4a1a7dfb1bd1e9",
+      "english": "<span data-i18n-slot=\"0\">There is no single drawdown percentage that is appropriate for every trader. An acceptable level depends on factors such as account size, strategy, leverage, position sizing, financial circumstances and personal risk tolerance. A trader may define a maximum threshold in advance and reassess the strategy or exposure if that level is reached.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No existe un porcentaje de reducción único que sea apropiado para cada operador. Un nivel aceptable depende de factores como el tamaño de la cuenta, la estrategia, el apalancamiento, el tamaño de la posición, las circunstancias financieras y la tolerancia al riesgo personal. Un operador puede definir un umbral máximo por adelantado y reevaluar la estrategia o exposición si se alcanza ese nivel.</span>"
+    },
+    {
+      "key": "t97ac15b007ecad36",
+      "english": "<span data-i18n-slot=\"0\">What's the difference between drawdown and a losing trade?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cuál es la diferencia entre una reducción y una operación perdedora?</span>"
+    },
+    {
+      "key": "tc494ef6583b191c3",
+      "english": "<span data-i18n-slot=\"0\">A losing trade refers to the result of one individual position, while drawdown measures the decline from an account or strategy's previous peak. Several relatively small losing trades can combine to create a larger drawdown, while one unusually large loss can also create a significant drawdown.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Una operación perdedora se refiere al resultado de una posición individual, mientras que la reducción mide la disminución desde el pico anterior de una cuenta o estrategia. Varias operaciones perdedoras relativamente pequeñas pueden combinarse para crear una reducción mayor, mientras que una pérdida inusualmente grande también puede crear una reducción significativa.</span>"
+    },
+    {
+      "key": "tc6caf23bb5012ae9",
+      "english": "<span data-i18n-slot=\"0\">In copy trading, drawdown measures how far the value of a copied strategy or resulting account performance falls from a previous peak. Historical drawdown can help show how much downside a strategy previously experienced, but it does not establish the largest loss that could occur in the future.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">En el copy trading, la reducción mide hasta qué punto el valor de una estrategia copiada o el rendimiento de la cuenta resultante cae desde un pico anterior. La reducción histórica puede ayudar a mostrar cuántas desventajas experimentó una estrategia anteriormente, pero no establece la mayor pérdida que podría ocurrir en el futuro.</span>"
+    },
+    {
+      "key": "t8d9eae3583ec7ed5",
+      "english": "<span data-i18n-slot=\"0\">Does a large drawdown mean a strategy has failed?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Una gran reducción significa que una estrategia ha fracasado?</span>"
+    },
+    {
+      "key": "t1364213a03dcc108",
+      "english": "<span data-i18n-slot=\"0\">Not necessarily. Drawdown shows how far value has declined from a previous peak, but it does not by itself explain why the decline occurred or whether the strategy remains valid. Traders can consider the size, duration and cause of a drawdown alongside market conditions and the strategy's original rules.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No necesariamente. La reducción muestra hasta qué punto ha disminuido el valor desde un máximo anterior, pero no explica por sí sola por qué se produjo la caída o si la estrategia sigue siendo válida. Los operadores pueden considerar el tamaño, la duración y la causa de una reducción junto con las condiciones del mercado y las reglas originales de la estrategia.</span>"
+    },
+    {
+      "key": "td8cc63427a09cab2",
+      "english": "<span data-i18n-slot=\"0\">How is drawdown different from a margin call or stop-out?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿En qué se diferencia el drawdown de un aviso de margen o un stop-out?</span>"
+    },
+    {
+      "key": "t44359a358f4433ff",
+      "english": "<span data-i18n-slot=\"0\">Drawdown measures a decline from a previous account or strategy peak. Margin call and stop-out are margin mechanisms triggered when account margin levels reach specified thresholds. UpForex currently publishes</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Margin Call and Stop-Out levels</span></span><span data-i18n-slot=\"4\"> of 50% and 30%, respectively. Those percentages are not drawdown percentages.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El drawdown mide el descenso desde un máximo anterior de una cuenta o estrategia. El aviso de margen y el stop-out son mecanismos de margen que se activan cuando el nivel de margen de la cuenta alcanza umbrales específicos. UpForex publica actualmente los </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">niveles de aviso de margen y stop-out</span></span><span data-i18n-slot=\"4\"> del 50% y 30%, respectivamente. Esos porcentajes no son porcentajes de drawdown.</span>"
+    },
+    {
+      "key": "t689b4d0a125066d0",
+      "english": "<span data-i18n-slot=\"0\">What does max drawdown mean in trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué significa la reducción máxima en el trading?</span>"
+    },
+    {
+      "key": "tb4535127e42150ed",
+      "english": "<span data-i18n-slot=\"0\">Maximum drawdown is the largest recorded decline from a peak to a subsequent trough during a measured period. It is useful for understanding historical downside, but previous maximum drawdown does not establish a limit on how large a future decline could become.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La caída máxima es la mayor caída registrada desde un pico hasta un mínimo posterior durante un período medido. Es útil para comprender las desventajas históricas, pero la reducción máxima anterior no establece un límite sobre cuán grande podría llegar a ser una caída futura.</span>"
+    },
+    {
+      "key": "tf37daf04028b47c0",
+      "english": "<span data-i18n-slot=\"0\">Understand Drawdown Before Increasing Exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comprenda la reducción antes de aumentar la exposición</span>"
+    },
+    {
+      "key": "t87269cec90cc763c",
+      "english": "<span data-i18n-slot=\"0\">Understanding drawdown gives traders a clearer way to measure how an account behaves below its previous peak rather than looking only at whether the latest position produced a profit or loss.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comprender la reducción ofrece a los operadores una forma más clara de medir cómo se comporta una cuenta por debajo de su pico anterior en lugar de mirar únicamente si la última posición produjo una ganancia o una pérdida.</span>"
+    },
+    {
+      "key": "tc98b11eefe1872d6",
+      "english": "<span data-i18n-slot=\"0\">The core calculation is:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El cálculo principal es:</span>"
+    },
+    {
+      "key": "t03c0ab14f7a9498c",
+      "english": "<span data-i18n-slot=\"0\">What Is Position Size in Forex Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es el tamaño de la posición en el comercio de divisas?</span>"
+    },
+    {
+      "key": "tc81c4a3b06514c51",
+      "english": "<span data-i18n-slot=\"0\">Standard lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Lote estándar</span>"
+    },
+    {
+      "key": "t229ab12f75f69177",
+      "english": "<span data-i18n-slot=\"0\">Risk percentage</span><span data-i18n-slot=\"1\">: the percentage selected for that trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Porcentaje de riesgo</span><span data-i18n-slot=\"1\">: el porcentaje seleccionado para esa operación.</span>"
+    },
+    {
+      "key": "tbf559f7be076bc9f",
+      "english": "<span data-i18n-slot=\"0\">A practical workflow looks like this:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un flujo de trabajo práctico se ve así:</span>"
+    },
+    {
+      "key": "t8fd48bbc57ca1622",
+      "english": "<span data-i18n-slot=\"0\">Suppose your planned trade uses a:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Supongamos que su operación planificada utiliza un:</span>"
+    },
+    {
+      "key": "ta6bba09e74128ce2",
+      "english": "<span data-i18n-slot=\"0\">Using the inputs above:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Usando las entradas anteriores:</span>"
+    },
+    {
+      "key": "t484b68aa85a76a42",
+      "english": "<span data-i18n-slot=\"0\">50 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">50 pips</span>"
+    },
+    {
+      "key": "t28e830413e49d983",
+      "english": "<span data-i18n-slot=\"0\">Final lot size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tamaño del lote final</span>"
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t2fbf35a80c345f3c",
+      "english": "<span data-i18n-slot=\"0\">What is an economic event in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es un evento económico en el comercio de divisas?</span>"
+    },
+    {
+      "key": "teb6b32bf8dab491b",
+      "english": "<span data-i18n-slot=\"0\">NFP can affect the dollar by changing expectations about US growth and Federal Reserve policy. A result above forecast may support the dollar, while a weak result may pressure it, but wages, unemployment, revisions, and existing positioning can alter the reaction.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El NFP puede afectar al dólar al cambiar las expectativas sobre el crecimiento de Estados Unidos y la política de la Reserva Federal. Un resultado superior al previsto puede respaldar al dólar, mientras que uno débil puede presionarlo, pero los salarios, el desempleo, las revisiones y el posicionamiento existente pueden alterar la reacción.</span>"
+    },
+    {
+      "key": "tbc2856540398c6ac",
+      "english": "<span data-i18n-slot=\"0\">Why does CPI move gold prices?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Por qué el IPC influye en los precios del oro?</span>"
+    },
+    {
+      "key": "tfa37ff05e53b49a3",
+      "english": "<span data-i18n-slot=\"0\">Can beginners trade during NFP or CPI releases?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Pueden los principiantes operar durante las publicaciones de NFP o IPC?</span>"
+    },
+    {
+      "key": "t39437f30e0e9cf78",
+      "english": "<span data-i18n-slot=\"0\">Beginners can access the market during these releases, but the conditions may be difficult because spreads, speed, and slippage can change quickly. Demo practice and observation may be more appropriate until the trader understands position sizing and execution risk.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los principiantes pueden acceder al mercado durante estos lanzamientos, pero las condiciones pueden ser difíciles porque los diferenciales, la velocidad y el deslizamiento pueden cambiar rápidamente. La práctica de demostración y la observación pueden ser más apropiadas hasta que el operador comprenda el tamaño de la posición y el riesgo de ejecución.</span>"
+    },
+    {
+      "key": "tcf2d4798e25940f8",
+      "english": "<span data-i18n-slot=\"0\">Review</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UPFOREX trading accounts</span></span><span data-i18n-slot=\"4\">, then use the</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Try Free Demo</span></span><span data-i18n-slot=\"8\"> option to practice reading event reactions before considering live exposure, or review more educational material in the</span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">UPFOREX blog</span></span><span data-i18n-slot=\"12\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Revise las </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">cuentas de trading de UPFOREX</span></span><span data-i18n-slot=\"4\">, después utilice la opción </span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Probar demo gratuita</span></span><span data-i18n-slot=\"8\"> para practicar la interpretación de las reacciones a los eventos antes de considerar una exposición real, o consulte más material educativo en el </span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">blog de UPFOREX</span></span><span data-i18n-slot=\"12\">.</span>"
+    },
+    {
+      "key": "t4d15e991ccaa7fcb",
+      "english": "<span data-i18n-slot=\"0\">Becoming an IB therefore involves more than sharing a link. A sustainable Introducing Broker partnership depends on regulatory transparency, accurate product knowledge, compliant marketing, reliable tracking, clear commission terms, and suitable client support.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por lo tanto, convertirse en IB implica más que compartir un vínculo. Una asociación sostenible con un corredor de presentación depende de la transparencia regulatoria, el conocimiento preciso del producto, el cumplimiento de la comercialización, el seguimiento confiable, los términos de comisión claros y la atención al cliente adecuada.</span>"
+    },
+    {
+      "key": "t909c36561da8b83e",
+      "english": "<span data-i18n-slot=\"0\">Quick Answer:</span><span data-i18n-slot=\"1\">Introducing Broker income is commission-based and depends on the trading activity of referred clients; it is not a fixed salary or guaranteed return. CFDs are leveraged products and carry a high level of risk; clients you refer should understand this risk before trading. UpForex operates through UP Global Markets Ltd (Mauritius FSC) and UPFOREX Financial Consultation LLC (UAE SCA). Always confirm current regulatory and program details directly with UpForex before entering into any partnership agreement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Respuesta rápida:</span><span data-i18n-slot=\"1\">Los ingresos del corredor de presentación se basan en comisiones y dependen de la actividad comercial de los clientes recomendados; No es un salario fijo ni un retorno garantizado. Los CFD son productos apalancados y conllevan un alto nivel de riesgo; Los clientes que usted refiera deben entender este riesgo antes de operar. UpForex opera a través de UP Global Markets Ltd (Mauricio FSC) y UPFOREX Financial Consultation LLC (UAE SCA). Confirme siempre los detalles regulatorios y del programa actuales directamente con UpForex antes de celebrar cualquier acuerdo de asociación.</span>"
+    },
+    {
+      "key": "t5efdb6e47cb9ddc8",
+      "english": "<span data-i18n-slot=\"0\">What Is an Introducing Broker (IB)?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es un corredor introductorio (IB)?</span>"
+    },
+    {
+      "key": "tabb6b39c2b6c23a2",
+      "english": "<span data-i18n-slot=\"0\">An Introducing Broker is an independent person or business that introduces potential clients to a broker and may receive commission from eligible client trading activity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un corredor introductorio es una persona o empresa independiente que presenta a clientes potenciales a un corredor y puede recibir una comisión por la actividad comercial de los clientes elegibles.</span>"
+    },
+    {
+      "key": "t032cee30c204f792",
+      "english": "<span data-i18n-slot=\"0\">Referred client:</span><span data-i18n-slot=\"1\"> Decides whether to register, fund, and trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cliente recomendado:</span><span data-i18n-slot=\"1\"> Decide si registrarse, financiar y operar.</span>"
+    },
+    {
+      "key": "t3b9d8a2a959b20e0",
+      "english": "<span data-i18n-slot=\"0\">How Do Introducing Brokers Earn Commission?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo ganan comisiones los corredores presentadores?</span>"
+    },
+    {
+      "key": "t7318abb2e568815e",
+      "english": "<span data-i18n-slot=\"0\">Introducing Broker commission is generally connected to actual referred-client trading. Depending on the agreement, it may be calculated from eligible volume, spread contribution, account type, instrument, or another activity measure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La comisión del bróker introductor suele estar vinculada a las operaciones reales de los clientes referidos. Según el acuerdo, puede calcularse a partir del volumen elegible, la contribución del spread, el tipo de cuenta, el instrumento u otra medida de actividad.</span>"
+    },
+    {
+      "key": "t450395d9db7d2273",
+      "english": "<span data-i18n-slot=\"0\">A registration alone may not generate commission. Before joining, confirm:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Es posible que un registro por sí solo no genere comisión. Antes de incorporarse, confirme:</span>"
+    },
+    {
+      "key": "t5317cf950be435d9",
+      "english": "<span data-i18n-slot=\"0\">Payment schedule and minimum payout</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Calendario de pago y pago mínimo</span>"
+    },
+    {
+      "key": "tcea4cb95e6536ba5",
+      "english": "<span data-i18n-slot=\"0\">Client-attribution rules</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reglas de atribución de clientes</span>"
+    },
+    {
+      "key": "t3431cc64c350930e",
+      "english": "<span data-i18n-slot=\"0\">Introducing Broker vs. Affiliate vs. Clearing Broker: What’s the Difference?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Agente de presentación, afiliado y agente de compensación: ¿cuál es la diferencia?</span>"
+    },
+    {
+      "key": "t96f92567342a9b29",
+      "english": "<span data-i18n-slot=\"0\">Feature</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "CMS:blogs/how-to-use-mt5-expert-advisors-guide#content",
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Característica</span>"
+    },
+    {
+      "key": "t3c73c670a6c088c2",
+      "english": "<span data-i18n-slot=\"0\">Introducing Broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Agente de presentación</span>"
+    },
+    {
+      "key": "tf3a4c5d50efcacc7",
+      "english": "<span data-i18n-slot=\"0\">Clearing Broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Agente de compensación</span>"
+    },
+    {
+      "key": "ta4a0539456586f42",
+      "english": "<span data-i18n-slot=\"0\">Main role</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Función principal</span>"
+    },
+    {
+      "key": "t6e6209bd0e201fe9",
+      "english": "<span data-i18n-slot=\"0\">Refers clients and may provide ongoing support</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Refiere clientes y puede brindar soporte continuo</span>"
+    },
+    {
+      "key": "t6a828beeaae9d42c",
+      "english": "<span data-i18n-slot=\"0\">Generates leads or conversions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Genera clientes potenciales o conversiones</span>"
+    },
+    {
+      "key": "tc074087f5a78c575",
+      "english": "<span data-i18n-slot=\"0\">Clears and records transactions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Compensa y registra las transacciones</span>"
+    },
+    {
+      "key": "t1ee83facbdeacba8",
+      "english": "<span data-i18n-slot=\"0\">Institutional clearing fees</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tarifas de compensación institucional</span>"
+    },
+    {
+      "key": "t76f6275c0dd350b8",
+      "english": "<span data-i18n-slot=\"0\">Operational clearing relationship</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Relación de compensación operativa</span>"
+    },
+    {
+      "key": "t9fbe163ee4d0ab80",
+      "english": "<span data-i18n-slot=\"0\">Publisher, marketer, or media buyer</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Editor, comercializador o comprador de medios</span>"
+    },
+    {
+      "key": "tecbf5f7fc2476c9d",
+      "english": "<span data-i18n-slot=\"0\">Handles clearing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se encarga de la compensación</span>"
+    },
+    {
+      "key": "td07808a54899378d",
+      "english": "<span data-i18n-slot=\"0\">Apply to the broker</span><span data-i18n-slot=\"1\"> and provide identity, business, audience, and jurisdiction information.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Solicite al corredor</span><span data-i18n-slot=\"1\"> y proporcione información de identidad, negocio, audiencia y jurisdicción.</span>"
+    },
+    {
+      "key": "t93a701bd293387d3",
+      "english": "<span data-i18n-slot=\"0\">Receive approved referral tools</span><span data-i18n-slot=\"1\">, such as links, codes, or brand materials confirmed during onboarding.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reciba herramientas de referencia aprobadas</span><span data-i18n-slot=\"1\">, como enlaces, códigos o materiales de marca confirmados durante la incorporación.</span>"
+    },
+    {
+      "key": "tf4cbb3d016695e76",
+      "english": "<span data-i18n-slot=\"0\">Refer potential clients</span><span data-i18n-slot=\"1\">, who complete the broker’s own account-opening process.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Recomienda clientes potenciales</span><span data-i18n-slot=\"1\">, quienes completan el proceso de apertura de cuenta del propio corredor.</span>"
+    },
+    {
+      "key": "t3b812a5f3092557f",
+      "english": "<span data-i18n-slot=\"0\">Earn commission from eligible activity</span><span data-i18n-slot=\"1\"> under the signed terms.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Gana comisiones por actividades elegibles</span><span data-i18n-slot=\"1\"> según los términos firmados.</span>"
+    },
+    {
+      "key": "t88d412910f4f8499",
+      "english": "<span data-i18n-slot=\"0\">Review tracking and payment reports</span><span data-i18n-slot=\"1\"> through the process supplied by the broker.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Revisar los informes de seguimiento y pago</span><span data-i18n-slot=\"1\"> mediante el proceso proporcionado por el corredor.</span>"
+    },
+    {
+      "key": "tac34a3ce84ffa9a0",
+      "english": "<span data-i18n-slot=\"0\">What Makes a Strong Introducing Broker Program?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué hace que un programa de corredor de presentación sea sólido?</span>"
+    },
+    {
+      "key": "t50e0c3b41e40473a",
+      "english": "<span data-i18n-slot=\"0\">Relevant product range</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Gama de productos relevantes</span>"
+    },
+    {
+      "key": "t6391ff4a304b398e",
+      "english": "<span data-i18n-slot=\"0\">Clear tracking and reporting</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Seguimiento e informes claros</span>"
+    },
+    {
+      "key": "tf56d865f8e9258d7",
+      "english": "<span data-i18n-slot=\"0\">Responsive client support</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Atención al cliente receptiva</span>"
+    },
+    {
+      "key": "tb5ef1d48d423cc7a",
+      "english": "<span data-i18n-slot=\"0\">Prominent risk disclosures</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Divulgaciones de riesgos destacados</span>"
+    },
+    {
+      "key": "t5e4c80746a55a166",
+      "english": "<span data-i18n-slot=\"0\">Who Should Consider Becoming an Introducing Broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Quién debería considerar convertirse en corredor de presentación?</span>"
+    },
+    {
+      "key": "tfc5641110be34305",
+      "english": "<span data-i18n-slot=\"0\">Trading Educators and Mentors</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Educadores y mentores de trading</span>"
+    },
+    {
+      "key": "tb1c335ebeaed9899",
+      "english": "<span data-i18n-slot=\"0\">2. Learn MT5</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. Aprenda a usar MT5</span>"
+    },
+    {
+      "key": "t3319788c46477366",
+      "english": "<span data-i18n-slot=\"0\">3. Test the Client Journey</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. Pruebe el recorrido del cliente</span>"
+    },
+    {
+      "key": "t67cc7dea9f032cc0",
+      "english": "<span data-i18n-slot=\"0\">Use the option to</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">start with a demo account</span></span><span data-i18n-slot=\"4\"> before referring live clients. Demo conditions do not reproduce every live-market factor, but they help you understand the platform process.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Utilice la opción para</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">comenzar con una cuenta de demostración</span></span><span data-i18n-slot=\"4\"> antes de recomendar clientes reales. Las condiciones de la demostración no reproducen todos los factores del mercado en vivo, pero le ayudan a comprender el proceso de la plataforma.</span>"
+    },
+    {
+      "key": "tfb257981e76051ef",
+      "english": "<span data-i18n-slot=\"0\">6. Complete Onboarding and Begin Referring</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">6. Complete la incorporación y comience a recomendar</span>"
+    },
+    {
+      "key": "tff16b50f4229b1f5",
+      "english": "<span data-i18n-slot=\"0\">Ignoring the broker’s current legal and regulatory documents</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ignorar los documentos legales y reglamentarios actuales del corredor</span>"
+    },
+    {
+      "key": "tbf7a8d25592e8ccd",
+      "english": "<span data-i18n-slot=\"0\">Failing to disclose the commercial relationship</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No revelar la relación comercial</span>"
+    },
+    {
+      "key": "t3f116c8b754f11c5",
+      "english": "<span data-i18n-slot=\"0\">Neglecting referred clients after registration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Descuidar a los clientes recomendados después del registro</span>"
+    },
+    {
+      "key": "t02970222ab1d0542",
+      "english": "<span data-i18n-slot=\"0\">What is an Introducing Broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es un corredor de presentación?</span>"
+    },
+    {
+      "key": "t9e3b98a1998e29e7",
+      "english": "<span data-i18n-slot=\"0\">An Introducing Broker is a person or business that refers prospective clients to a broker and may earn commission from eligible trading activity. The broker provides the accounts, platform, execution, and compliance framework, while the IB focuses on referrals, education, and relationship support.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un corredor introductorio es una persona o empresa que refiere clientes potenciales a un corredor y puede ganar una comisión por la actividad comercial elegible. El corredor proporciona las cuentas, la plataforma, la ejecución y el marco de cumplimiento, mientras que el IB se centra en las referencias, la educación y el apoyo a las relaciones.</span>"
+    },
+    {
+      "key": "tf7f6c40d008eca1f",
+      "english": "<span data-i18n-slot=\"0\">How do Introducing Brokers get paid?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo se les paga a los corredores de introducción?</span>"
+    },
+    {
+      "key": "tdb6a603a61ab15ce",
+      "english": "<span data-i18n-slot=\"0\">Introducing Brokers are paid according to their agreement, often using eligible client volume, spread contribution, or another activity-based calculation. Registration alone may not qualify. Rates, exclusions, payment timing, and reporting should be confirmed before signing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A los corredores de presentación se les paga de acuerdo con su acuerdo, a menudo utilizando el volumen de clientes elegibles, la contribución del diferencial u otro cálculo basado en la actividad. Es posible que el registro por sí solo no califique. Las tarifas, las exclusiones, los plazos de pago y los informes deben confirmarse antes de firmar.</span>"
+    },
+    {
+      "key": "tf4fa55cdd6f9b6a5",
+      "english": "<span data-i18n-slot=\"0\">How much can an Introducing Broker earn?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cuánto puede ganar un bróker introductorio?</span>"
+    },
+    {
+      "key": "tb991a6d98e3551d5",
+      "english": "<span data-i18n-slot=\"0\">There is no fixed Introducing Broker salary or universal income figure. Earnings vary with the agreement, accepted referrals, eligible trading activity, instruments, and rates. Some periods may generate little or no commission.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No existe un salario fijo para el corredor de presentación ni una cifra de ingreso universal. Las ganancias varían según el acuerdo, las referencias aceptadas, la actividad comercial elegible, los instrumentos y las tasas. Algunos períodos pueden generar poca o ninguna comisión.</span>"
+    },
+    {
+      "key": "t837fbd2c53ff2154",
+      "english": "<span data-i18n-slot=\"0\">Is there a cost to become an Introducing Broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Tiene algún costo convertirse en un bróker introductorio?</span>"
+    },
+    {
+      "key": "tc65397ae05fe948c",
+      "english": "<span data-i18n-slot=\"0\">Any application, setup, technology, or partnership costs should be confirmed directly with UpForex during onboarding. Prospective IBs should also consider their own expenses, such as website management, advertising, events, content production, or staffing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cualquier costo de aplicación, configuración, tecnología o asociación debe confirmarse directamente con UpForex durante la incorporación. Los futuros IB también deben considerar sus propios gastos, como administración del sitio web, publicidad, eventos, producción de contenido o dotación de personal.</span>"
+    },
+    {
+      "key": "t5289c14ed135d8e4",
+      "english": "<span data-i18n-slot=\"0\">What is an Introducing Broker agreement?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es un acuerdo de corredor de presentación?</span>"
+    },
+    {
+      "key": "t6da283917c305467",
+      "english": "<span data-i18n-slot=\"0\">Build a Compliant, Long-Term IB Partnership</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Construir una asociación con el IB a largo plazo y que cumpla con las normas</span>"
+    },
+    {
+      "key": "t6adbc095326db0f9",
+      "english": "<span data-i18n-slot=\"0\">Becoming an Introducing Broker may suit educators, creators, and professionals who already serve a trading-interested audience and can maintain an ongoing relationship. The opportunity depends on client activity, accurate communication, and written terms rather than a promised income.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Convertirse en un corredor de introducción puede ser adecuado para educadores, creadores y profesionales que ya atienden a una audiencia interesada en el comercio y pueden mantener una relación continua. La oportunidad depende de la actividad del cliente, la comunicación precisa y los términos escritos en lugar de un ingreso prometido.</span>"
+    },
+    {
+      "key": "te7225a34683fbb32",
+      "english": "<span data-i18n-slot=\"0\">Introducing Broker income is variable and commission-based. Trading CFDs carries a high risk of loss, and referred clients should understand the risks before opening an account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los ingresos del corredor de presentación son variables y se basan en comisiones. Operar con CFD conlleva un alto riesgo de pérdida y los clientes recomendados deben comprender los riesgos antes de abrir una cuenta.</span>"
+    }
+  ]
+}

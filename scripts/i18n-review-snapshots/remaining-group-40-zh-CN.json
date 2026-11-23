@@ -1,0 +1,317 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t4dc6e8c68d4c1b06",
+      "english": "<span data-i18n-slot=\"0\">Q- 4. Can I make the same profits in demo trading as in a real account?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Not always. While demo profits may look impressive, real trading includes costs, execution delays, and psychological pressure that affect results.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">问- 4. 我可以在模拟交易中获得与真实账户相同的利润吗？</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">并不总是如此。虽然演示利润可能看起来令人印象深刻，但实际交易包括成本、执行延迟和影响结果的心理压力。</span>"
+    },
+    {
+      "key": "t5ce8ee8b35745ef7",
+      "english": "<span data-i18n-slot=\"0\">What is Forex Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是外汇交易？</span>"
+    },
+    {
+      "key": "t319ff32af44ef346",
+      "english": "<span data-i18n-slot=\"0\">Forex, also known as foreign exchange, is the global marketplace where currencies are bought and sold. Traders make money by predicting whether one currency will go up or down against another. For example, buying EUR/USD means you believe the Euro will strengthen compared to the US Dollar.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇，也称为外汇，是买卖货币的全球市场。交易者通过预测一种货币相对于另一种货币的升值或贬值来赚钱。例如，购买欧元/美元意味着您相信欧元相对于美元将会走强。</span>"
+    },
+    {
+      "key": "t350f94b9c91cf353",
+      "english": "<span data-i18n-slot=\"0\">Why Knowing the Minimum Amount to Start Forex Trading Matters</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">为什么了解开始外汇交易的最低金额很重要</span>"
+    },
+    {
+      "key": "t84783f3660c8a324",
+      "english": "<span data-i18n-slot=\"0\">Scalpers</span><span data-i18n-slot=\"1\"> (short-term traders) often need larger capital because they open many trades.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">剥头皮交易者</span><span data-i18n-slot=\"1\">（短线交易者）往往需要较多资金，因为他们进行很多笔交易。</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "tf264b5f1fed0bb33",
+      "english": "<span data-i18n-slot=\"0\">Swing traders</span><span data-i18n-slot=\"1\"> (medium-term) can start smaller but need enough margin to hold trades for days.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">波段交易者</span><span data-i18n-slot=\"1\">（中期）可以从小规模开始，但需要足够的保证金来维持交易数天。</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "tb60796abb840f4fd",
+      "english": "<span data-i18n-slot=\"0\">Experts suggest not risking more than </span><span data-i18n-slot=\"1\">1–2% of your capital</span><span data-i18n-slot=\"2\"> on a single trade. So, if you deposit $100, you should risk only $1–$2 per trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">专家建议单笔交易的风险不超过</span><span data-i18n-slot=\"1\">资金的1–2%</span><span data-i18n-slot=\"2\">。因此，若存入$100，每笔交易应只承担$1–$2的风险。</span>"
+    },
+    {
+      "key": "t63fe53d0185df200",
+      "english": "<span data-i18n-slot=\"0\">Understand how leverage and margin work.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">了解杠杆和保证金如何运作。  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>"
+    },
+    {
+      "key": "t037098ef4d61631f",
+      "english": "<span data-i18n-slot=\"0\">Tips to Start Forex Trading with Small Amounts</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">开始小额外汇交易的技巧</span>"
+    },
+    {
+      "key": "t01b42805b989cd19",
+      "english": "<span data-i18n-slot=\"0\">1. What is the minimum amount required for forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。外汇交易所需的最低金额是多少？</span>"
+    },
+    {
+      "key": "tb6b04b7d7fe4d719",
+      "english": "<span data-i18n-slot=\"0\">2. Can I start forex trading with $10?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。我可以用 10 美元开始外汇交易吗？</span>"
+    },
+    {
+      "key": "t720abca1ddd28f17",
+      "english": "<span data-i18n-slot=\"0\">4. Is $100 enough for forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4。 100 美元足够进行外汇交易吗？</span>"
+    },
+    {
+      "key": "ta620af698a1fbc21",
+      "english": "<span data-i18n-slot=\"0\">What is zero spread?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是零点差？</span>"
+    },
+    {
+      "key": "te3b6c37699e51cfc",
+      "english": "In forex trading, a zero spread means that the bid price (the price at which you may sell) and the ask price (the price at which you can buy) for a currency pair are identical. In other words, you can enter or exit a transaction at the exact same price without paying the standard spread cost. This can be highly beneficial for traders, especially scalpers or high-frequency traders, as it reduces trading costs and allows more precise entries and exits. However, zero spread accounts often come with other charges, such as a fixed commission per trade, to compensate the broker.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "在外汇交易中，零点差意味着货币对的买入价（您可以卖出的价格）和卖出价（您可以买入的价格）相同。换句话说，您可以以完全相同的价格进入或退出交易，而无需支付标准点差成本。这对于交易者，尤其是黄牛或高频交易者来说非常有利，因为它降低了交易成本并允许更精确的进场和出场。然而，零利差账户通常会收取其他费用，例如每笔交易的固定佣金，以补偿经纪商。"
+    },
+    {
+      "key": "t6ddcaa52149291c6",
+      "english": "<span data-i18n-slot=\"0\">3. Fund Your Account –</span> Add funds to your account using your preferred method, including bank transfers, credit/debit cards, or trusted e-wallets. Deposits are processed quickly, so you can move from planning to trading without waiting.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。为您的账户充值 –</span> 使用您喜欢的方式为您的账户充值，包括银行转账、信用卡/借记卡或值得信赖的电子钱包。存款处理速度很快，因此您无需等待即可从计划转向交易。"
+    },
+    {
+      "key": "t51c9fc4ee1d5dee2",
+      "english": "<span data-i18n-slot=\"0\">For decades, excessive commissions have been one of the most significant hurdles to forex trading. Traditional brokers often charge a percentage-based commission per trade, cutting into profits — especially for active traders making multiple trades daily.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">几十年来，过高的佣金一直是外汇交易的最大障碍之一。传统经纪商通常对每笔交易收取百分比佣金，从而削减利润——尤其是对于每天进行多次交易的活跃交易者而言。</span>"
+    },
+    {
+      "key": "tf9b9ae92807a573e",
+      "english": "<span data-i18n-slot=\"0\">More Profits Stay with You – </span>No commission means every winning trade delivers its full potential profit.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">更多利润伴随您 - </span>无佣金意味着每笔获胜交易都能带来全部潜在利润。"
+    },
+    {
+      "key": "te300aef464cacfa6",
+      "english": "<span data-i18n-slot=\"0\">Accessible to All -</span> New traders can start small without fear of excessive transaction costs depleting their funds.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">所有人都可以使用 -</span>新交易者可以从小规模开始，而不必担心过高的交易成本会耗尽他们的资金。"
+    },
+    {
+      "key": "tc0c8f3b9e549eb61",
+      "english": "UpForex eliminates commission fees, allowing you to keep more of your hard-earned money and compound your trading profits more quickly.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "UpForex 消除佣金，让您保留更多血汗钱并更快地增加您的交易利润。"
+    },
+    {
+      "key": "te4b17c78d341e09c",
+      "english": "Here’s what sets us apart for seasoned traders:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "以下是我们与经验丰富的交易者的区别："
+    },
+    {
+      "key": "ta7b55fdf43d07f0f",
+      "english": "<span data-i18n-slot=\"0\">Ultra-Tight Spreads –</span> Trade with spreads starting from as low as 0.0 pips on major currency pairs, maximizing profit potential even in high-frequency strategies.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">超窄点差 –</span>主要货币对的点差低至 0.0 点，即使在高频策略中也能最大限度地提高利润潜力。"
+    },
+    {
+      "key": "t997007ab5f3added",
+      "english": "<span data-i18n-slot=\"0\">The Future of Forex Trading is Here</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇交易的未来就在这里</span>"
+    },
+    {
+      "key": "te751fa02b3788634",
+      "english": "<span data-i18n-slot=\"0\">FAQs – Forex Trading &amp; Real-Time Forex Platform</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">常见问题解答 – 外汇交易和实时外汇平台</span>"
+    },
+    {
+      "key": "tc858b7fcefe24676",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Can I start forex trading with $0?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5。我可以用 0 美元开始外汇交易吗？</span></span>"
+    },
+    {
+      "key": "t10b14d4ef124f972",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">6. Which forex broker offers the lowest commission?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">6。哪家外汇经纪商提供的佣金最低？</span></span>"
+    },
+    {
+      "key": "te25e62dc83979972",
+      "english": "<span data-i18n-slot=\"0\">Swap-Free Islamic Accounts –</span> For Shariah-compliant trading",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">无隔夜利息伊斯兰账户 - </span>适用于符合伊斯兰教法的交易"
+    },
+    {
+      "key": "teaac7f19f241e623",
+      "english": "Client funds are held in segregated bank accounts",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "客户资金存放在独立的银行账户中"
+    },
+    {
+      "key": "t39e20863a85a96cd",
+      "english": "<span data-i18n-slot=\"0\">Top 5 Signs of a Trusted and best regulated forex broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">值得信赖且监管最佳的外汇经纪商的 5 大标志</span>"
+    },
+    {
+      "key": "td2520c7a7d3f33a2",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Segregated Client Funds</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">独立的客户资金</span></span>"
+    },
+    {
+      "key": "t702305b6a972c890",
+      "english": "Ethical trading practices",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "道德贸易实践"
+    },
+    {
+      "key": "tabc8da8239a1985a",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Segregated Client Accounts</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">独立的客户帐户</span></span>"
+    }
+  ]
+}

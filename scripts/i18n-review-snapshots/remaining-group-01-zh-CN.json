@@ -1,0 +1,246 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tcc46dc8b689d1191",
+      "english": "<span data-i18n-slot=\"0\">Traders following gold trading online should pay attention to:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在线黄金交易的交易者应注意：</span>"
+    },
+    {
+      "key": "t68eda797376159cb",
+      "english": "<span data-i18n-slot=\"0\">3. Strength of the US Dollar</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. 美元强弱</span>"
+    },
+    {
+      "key": "ta50661330cf3fe5f",
+      "english": "<span data-i18n-slot=\"0\">Investment demand for bars, coins and exchange-traded products.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金属条块、钱币及交易所交易产品的投资需求。</span>"
+    },
+    {
+      "key": "tdfd142d76a985abd",
+      "english": "<span data-i18n-slot=\"0\">Jewellery and silverware.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">珠宝和银器。</span>"
+    },
+    {
+      "key": "tff9be69dbf51f819",
+      "english": "<span data-i18n-slot=\"0\">Making charges and retail premiums.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">加工费和零售溢价。</span>"
+    },
+    {
+      "key": "t7c690b894676c105",
+      "english": "<span data-i18n-slot=\"0\">Dealer margins.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">经销商的利润空间。</span>"
+    },
+    {
+      "key": "t16637db5f8639afb",
+      "english": "<span data-i18n-slot=\"0\">With CFD trading, participants speculate on price movements without taking physical ownership of the underlying metal.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通过差价合约交易，参与者可在不实际持有标的金属的情况下，针对价格变动进行投机交易。</span>"
+    },
+    {
+      "key": "t97f435e56f71315d",
+      "english": "<span data-i18n-slot=\"0\">Moving averages to study market trends.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">移动平均线来研究市场趋势。</span>"
+    },
+    {
+      "key": "t1bf8605dd2b64483",
+      "english": "<span data-i18n-slot=\"0\">Frequently Asked Questions (FAQs)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "CMS:blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter#content",
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">常见问题解答 (FAQ)</span>"
+    },
+    {
+      "key": "tbf97678544cc57d5",
+      "english": "<span data-i18n-slot=\"0\">2. Why do gold prices increase during economic uncertainty?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。为什么在经济不确定的情况下金价会上涨？</span>"
+    },
+    {
+      "key": "t1b25910375855f79",
+      "english": "<span data-i18n-slot=\"0\">Physical gold trading involves purchasing and owning actual gold bars, coins or jewellery. Gold CFD trading involves speculating on gold price movements without owning the physical metal. CFDs may involve leverage and carry significant financial risks.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market#content",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实物黄金交易涉及购买和拥有实际的金条、金币或珠宝。黄金差价合约交易涉及在不拥有实物金属的情况下对黄金价格走势进行投机。差价合约可能涉及杠杆并带来重大财务风险。</span>"
+    },
+    {
+      "key": "t2978480b73d02dd3",
+      "english": "Not Sure Which Forex Broker to Trust? Important Factors Abu Dhabi Traders Should Check First",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#title",
+        "SSR:/blogs",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "不确定哪个外汇经纪商值得信赖？阿布扎比贸易商应首先检查的重要因素"
+    },
+    {
+      "key": "t3f303d0bf1750f13",
+      "english": "Forex Brokers in Abu Dhabi | How to Choose the Right One",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#metaTitle",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "阿布扎比的外汇经纪商|如何选择合适的"
+    },
+    {
+      "key": "t1c0981d97e899547",
+      "english": "Searching for forex brokers in Abu Dhabi? Learn how to compare regulation, trading fees, platforms, account types and risk factors before choosing.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#description",
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#descriptionSnippet",
+        "SSR:/blogs",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "正在寻找阿布扎比的外汇经纪商？在选择之前了解如何比较监管、交易费用、平台、账户类型和风险因素。"
+    },
+    {
+      "key": "t7e8e0c72c49c9084",
+      "english": "Forex Brokers in Abu Dhabi",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#imageAltTag",
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#tag",
+        "SSR:/blogs",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "阿布扎比的外汇经纪商"
+    },
+    {
+      "key": "t65e580f2bc06ddc4",
+      "english": "FOREX BROKERS IN ABU DHABI",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#upperTag",
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#upperTag",
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#upperTag",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "阿布扎比的外汇经纪商"
+    },
+    {
+      "key": "td30f6b0e6245b4b0",
+      "english": "forex demo account UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#tag",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "外汇模拟账户 阿联酋"
+    },
+    {
+      "key": "t6f7fa94e9858c430",
+      "english": "FOREX DEMO ACCOUNT UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#upperTag",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "阿联酋外汇模拟账户"
+    },
+    {
+      "key": "tb733227403ac4b36",
+      "english": "best forex broker in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#tag",
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#tag",
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#tag",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "阿联酋最佳外汇经纪商"
+    },
+    {
+      "key": "tcd002914aeb61b16",
+      "english": "BEST FOREX BROKER IN UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#upperTag",
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#upperTag",
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#upperTag",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "阿联酋最佳外汇经纪商"
+    },
+    {
+      "key": "t1f28d73f168de295",
+      "english": "<span data-i18n-slot=\"0\">Many people searching for </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex brokers in Abu Dhabi</span></span><span data-i18n-slot=\"3\"> focus mainly on low spreads, attractive promotions or high leverage. However, these features should never be the only reasons for choosing a trading provider. A broker's regulatory status, legal entity, trading costs, platform reliability and withdrawal conditions deserve equal attention.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">许多寻找</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">阿布扎比外汇经纪商</span></span><span data-i18n-slot=\"3\">的人主要关注低点差、诱人的优惠活动或高杠杆。然而，这些特点绝不应成为选择交易服务提供商的唯一理由。经纪商的监管状况、法律实体、交易成本、平台可靠性和出金条件同样值得关注。</span>"
+    }
+  ]
+}

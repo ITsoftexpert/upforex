@@ -1,0 +1,557 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tfda9c4e202a896f8",
+      "english": "<span data-i18n-slot=\"0\">Typical Spread Characteristics</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的なスプレッド特性</span>"
+    },
+    {
+      "key": "tbb111d53b17da7ed",
+      "english": "<span data-i18n-slot=\"0\">Example Base/Quote Countries or Regions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">基準通貨・建値通貨の国や地域の例</span>"
+    },
+    {
+      "key": "teb8dbbb7d4767ccd",
+      "english": "<span data-i18n-slot=\"0\">Generally tighter than less-liquid pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一般に、流動性の低いペアよりもタイトです</span>"
+    },
+    {
+      "key": "t436dc5d124c0a1ab",
+      "english": "<span data-i18n-slot=\"0\">Euro area / United States</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ユーロ圏 / 米国</span>"
+    },
+    {
+      "key": "t01a778b4e2bf1f1c",
+      "english": "<span data-i18n-slot=\"0\">Moderate to high depending on pair</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ペアに応じて中程度から高程度</span>"
+    },
+    {
+      "key": "te12b44ce05b3fdf0",
+      "english": "<span data-i18n-slot=\"0\">Can be wider than the most liquid majors</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最も流動的なメジャーよりも幅広い可能性がある</span>"
+    },
+    {
+      "key": "t0de5ee63c2407827",
+      "english": "<span data-i18n-slot=\"0\">Can vary more than heavily traded majors</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引量の多いメジャーよりも変動する可能性がある</span>"
+    },
+    {
+      "key": "ta5d769f653ed49be",
+      "english": "<span data-i18n-slot=\"0\">Often wider and more variable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多くの場合、範囲が広く、より変化しやすい</span>"
+    },
+    {
+      "key": "ta404064b0e96a4b5",
+      "english": "<span data-i18n-slot=\"0\">United States / Türkiye</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アメリカ / トルキエ</span>"
+    },
+    {
+      "key": "t5f5275bbe2de360b",
+      "english": "<span data-i18n-slot=\"0\">There is no single answer to questions such as “which currency pair is most profitable in forex?” or “which is the best currency pair for forex trading?” Results depend on factors such as:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">「どの通貨ペアが外国為替で最も収益性が高いですか?」などの質問に対する唯一の答えはありません。または「外国為替取引に最適な通貨ペアはどれですか?」結果は次のような要因によって異なります。</span>"
+    },
+    {
+      "key": "t31d62c2c5ee0d1e4",
+      "english": "<span data-i18n-slot=\"0\">Position sizing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジションサイジング</span>"
+    },
+    {
+      "key": "t35207abd10dbe721",
+      "english": "<span data-i18n-slot=\"0\">Entry and exit decisions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">参入と退出の決定</span>"
+    },
+    {
+      "key": "t6d05c94f9fdaa431",
+      "english": "<span data-i18n-slot=\"0\">The most common currency-pair mistakes come from misunderstanding how the quotation works rather than from the pair names themselves.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最も一般的な通貨ペアの間違いは、通貨ペアの名前そのものではなく、相場の仕組みを誤解していることに起因します。</span>"
+    },
+    {
+      "key": "tde5f5d76ca14fffa",
+      "english": "<span data-i18n-slot=\"0\">1. Confusing the Base and Quote Currency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. 基本通貨と相場通貨の混同</span>"
+    },
+    {
+      "key": "t9fdcfa7d22067bef",
+      "english": "<span data-i18n-slot=\"0\">Major, minor and exotic pairs can differ significantly in liquidity and spread behaviour.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">メジャー、マイナー、エキゾチックのペアは、流動性とスプレッドの動作が大きく異なる場合があります。</span>"
+    },
+    {
+      "key": "t6eda16f1ebe55f7d",
+      "english": "<span data-i18n-slot=\"0\">A large price movement alone does not make a pair suitable for a particular trader or strategy. Understanding what is driving the pair is more useful than choosing it only because the chart looks active.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">大きな値動きだけでは、ペアが特定のトレーダーや戦略に適しているとは限りません。チャートがアクティブに見えるという理由だけでペアを選択するよりも、何がペアを動かしているのかを理解する方が有益です。</span>"
+    },
+    {
+      "key": "te6db17727f5a7cb8",
+      "english": "<span data-i18n-slot=\"0\">If you are completely new to the market, start with the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">How to Start Forex Trading for Beginners</span></span><span data-i18n-slot=\"4\"> guide before moving from pair terminology into order types, trading sessions and platform use.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市場にまったく慣れていない場合は、ペアの用語から注文タイプ、取引セッション、プラットフォームの使用方法に進む前に、</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">初心者のための外国為替取引の開始方法</span></span><span data-i18n-slot=\"4\">ガイドから始めてください。</span>"
+    },
+    {
+      "key": "t1a6d6f55b187da53",
+      "english": "<span data-i18n-slot=\"0\">What is the base currency in a forex pair?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替ペアの基本通貨は何ですか?</span>"
+    },
+    {
+      "key": "t556f63b8135ebdbc",
+      "english": "<span data-i18n-slot=\"0\">What is the quote currency in a forex pair?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替ペアの相場通貨は何ですか?</span>"
+    },
+    {
+      "key": "tc7d918040f731758",
+      "english": "<span data-i18n-slot=\"0\">There is no universally best forex pair. Suitability depends on liquidity, trading costs, volatility, trading hours, strategy and the trader's objectives. A dedicated guide comparing the best currency pairs can examine these factors in more detail.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">普遍的に最適な外国為替ペアはありません。適合性は、流動性、取引コスト、ボラティリティ、取引時間、戦略、トレーダーの目的によって異なります。最適な通貨ペアを比較する専用ガイドでは、これらの要素をより詳細に調べることができます。</span>"
+    },
+    {
+      "key": "tf7d0c6c709ec014b",
+      "english": "<span data-i18n-slot=\"0\">No currency pair is inherently the most profitable. Profit or loss depends on the trader's strategy, timing, position management, market conditions and trading costs rather than the pair name alone.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">本質的に最も収益性の高い通貨ペアはありません。損益はペア名だけではなく、トレーダーの戦略、タイミング、ポジション管理、市況、取引コストによって決まります。</span>"
+    },
+    {
+      "key": "tee1b1df050906af4",
+      "english": "<span data-i18n-slot=\"0\">Understand the Pair Before You Place the Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引を行う前にペアを理解する</span>"
+    },
+    {
+      "key": "tf31140ea572d3336",
+      "english": "<span data-i18n-slot=\"0\">Scheduled events</span><span data-i18n-slot=\"1\"> have known release windows. Examples include:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スケジュールされたイベント</span><span data-i18n-slot=\"1\"> には既知のリリース期間があります。例は次のとおりです。</span>"
+    },
+    {
+      "key": "teaa81abd0404609f",
+      "english": "<span data-i18n-slot=\"0\">Gross domestic product reports</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">国内総生産レポート</span>"
+    },
+    {
+      "key": "t91612e25fef9b58b",
+      "english": "<span data-i18n-slot=\"0\">Released By</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">発表機関</span>"
+    },
+    {
+      "key": "ta85bae82790acb30",
+      "english": "<span data-i18n-slot=\"0\">Typical Volatility Level</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的なボラティリティレベル</span>"
+    },
+    {
+      "key": "t87e0b0f295b0edbc",
+      "english": "<span data-i18n-slot=\"0\">NFP / Employment Situation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">NFP・雇用情勢</span>"
+    },
+    {
+      "key": "t729d827b735d67af",
+      "english": "<span data-i18n-slot=\"0\">Non-Farm Payrolls refers to the monthly change in US payroll employment covered by the Employment Situation report, alongside unemployment and earnings data. The NFP data release is closely watched because labor-market conditions can influence expectations for economic growth and Federal Reserve policy.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">非農業部門雇用者数は、失業率と収入のデータとともに、雇用情勢報告書の対象となる米国の雇用者数の月次変化を指します。労働市場の状況が経済成長期待や連邦準備制度理事会の政策に影響を与える可能性があるため、NFP統計の発表には注目が集まっている。</span>"
+    },
+    {
+      "key": "t7e86321f7eb652f5",
+      "english": "<span data-i18n-slot=\"0\">The Employment Situation is usually released at 8:30 a.m. Eastern Time and often appears on the first Friday of the month, although holidays or exceptional scheduling changes can move the date. Traders should use the official release calendar rather than assuming the date.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">雇用統計は通常、米東部時間の午前8:30に発表され、月の第一金曜日に行われることが多いものの、祝日や例外的な日程変更により日付が変わる場合があります。トレーダーは日付を決めつけず、公式の発表カレンダーで確認する必要があります。</span>"
+    },
+    {
+      "key": "tdc93319d087737f7",
+      "english": "<span data-i18n-slot=\"0\">Typical US Indices Reaction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的な米国の指数の反応</span>"
+    },
+    {
+      "key": "t9e659d31e8d35bff",
+      "english": "<span data-i18n-slot=\"0\">Much higher than forecast</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">予想を大幅に上回った</span>"
+    },
+    {
+      "key": "t26de6ce956942867",
+      "english": "<span data-i18n-slot=\"0\">Often strengthens if rate expectations rise</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金利見通しが上昇すると強まる傾向</span>"
+    },
+    {
+      "key": "tc80b9ae2a9884a5a",
+      "english": "<span data-i18n-slot=\"0\">May weaken as the USD and yields rise</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">米ドルと利回りが上昇すると下落する可能性がある</span>"
+    },
+    {
+      "key": "tf16d18b8e6b8a69e",
+      "english": "<span data-i18n-slot=\"0\">Near forecast</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">予想に近い</span>"
+    },
+    {
+      "key": "t70a3017340734479",
+      "english": "<span data-i18n-slot=\"0\">Often range-bound unless another detail surprises</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">別の詳細に驚かない限り、範囲内に収まることが多い</span>"
+    },
+    {
+      "key": "tf04a950501836ba5",
+      "english": "<span data-i18n-slot=\"0\">Much lower than forecast</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">予想を大幅に下回る</span>"
+    },
+    {
+      "key": "t9bbbb073e50319cd",
+      "english": "<span data-i18n-slot=\"0\">May strengthen as the USD and yields fall</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">米ドルと利回りが低下すると上昇する可能性がある</span>"
+    },
+    {
+      "key": "t02cb5021e347306d",
+      "english": "<span data-i18n-slot=\"0\">Traders normally compare headline CPI, core CPI, monthly change, and annual change with forecasts. Core CPI excludes food and energy categories that can be especially volatile.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは通常、ヘッドライン CPI、コア CPI、月次変化、および年間変化を予測と比較します。コア CPI には、特に変動が大きい食品とエネルギーのカテゴリーは含まれていません。</span>"
+    },
+    {
+      "key": "tf9d70134df1cb6cc",
+      "english": "<span data-i18n-slot=\"0\">Higher than forecast</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">予想よりも高い</span>"
+    },
+    {
+      "key": "t1dfeed7edc526322",
+      "english": "<span data-i18n-slot=\"0\">Often strengthens if traders price tighter policy</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーが金融引き締めを織り込むと強まることが多い</span>"
+    },
+    {
+      "key": "t8c688252a539484c",
+      "english": "<span data-i18n-slot=\"0\">Often weakens when yields and the USD rise</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">利回りと米ドルが上昇すると下落することが多い</span>"
+    },
+    {
+      "key": "t63813ca6869868aa",
+      "english": "<span data-i18n-slot=\"0\">May fall as expected borrowing costs increase</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">予想される借入コストの増加により低下する可能性がある</span>"
+    },
+    {
+      "key": "tb5324190f4816454",
+      "english": "<span data-i18n-slot=\"0\">May remain range-bound</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">依然としてレンジ内にとどまる可能性がある</span>"
+    },
+    {
+      "key": "tcc26af6ae803b136",
+      "english": "<span data-i18n-slot=\"0\">Lower than forecast</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">予想を下回る</span>"
+    },
+    {
+      "key": "t1f8f9942a3486f96",
+      "english": "<span data-i18n-slot=\"0\">May strengthen as yields decline</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">利回りが低下すると強まる可能性がある</span>"
+    },
+    {
+      "key": "te63b96ace197ea30",
+      "english": "<span data-i18n-slot=\"0\">For Dubai and UAE traders, holding gold and USD-pair positions together may create more correlated exposure than expected.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ドバイとアラブ首長国連邦のトレーダーにとって、金と米ドルのペアのポジションを一緒に保有すると、予想よりも多くの相関エクスポージャーが生じる可能性があります。</span>"
+    },
+    {
+      "key": "t888ca1237924bbbb",
+      "english": "<span data-i18n-slot=\"0\">“Forward guidance” means communication about the likely future direction of policy. Traders unfamiliar with terms such as basis points, hawkish, or dovish should confirm their meanings before trading around a policy announcement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">「フォワードガイダンス」とは、おそらく将来の政策の方向性についてのコミュニケーションを意味します。ベーシスポイント、タカ派、ハト派などの用語に馴染みのないトレーダーは、政策発表を前後して取引する前にその意味を確認する必要があります。</span>"
+    },
+    {
+      "key": "t8a318648f1e7c572",
+      "english": "<span data-i18n-slot=\"0\">1. Compare Actual With Forecast</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. 実績と予測を比較する</span>"
+    },
+    {
+      "key": "tf5aa59f8bf0c2f6c",
+      "english": "<span data-i18n-slot=\"0\">Markets trade expectations. A rate hike may not strengthen the dollar if it was fully expected and the Fed signals that no more hikes are likely.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市場は期待を取引します。利上げが完全に予想されており、FRBが追加利上げの可能性が低いと示唆した場合、利上げはドルを上昇させない可能性がある。</span>"
+    },
+    {
+      "key": "t368582c9a1745c93",
+      "english": "<span data-i18n-slot=\"0\">3. Watch the First and Second Moves</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. 最初とその後の値動きを確認する</span>"
+    },
+    {
+      "key": "t061a56ad7f3c8fdd",
+      "english": "<span data-i18n-slot=\"0\">4. Check Spreads and Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4. スプレッドとスリッページの確認</span>"
+    },
+    {
+      "key": "t52b572d60026e210",
+      "english": "<span data-i18n-slot=\"0\">A trader can be directionally correct and still lose because the position is too large. Define the maximum acceptable account loss before choosing volume.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは方向性が正しくても、ポジションが大きすぎるために負ける可能性があります。ボリュームを選択する前に、最大許容アカウント損失を定義します。</span>"
+    },
+    {
+      "key": "tbde081ba281e050c",
+      "english": "<span data-i18n-slot=\"0\">Ignoring spread widening:</span><span data-i18n-slot=\"1\"> The visible chart move is not the only cost during volatility.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッド拡大の無視:</span><span data-i18n-slot=\"1\"> ボラティリティ時のコストは、目に見えるチャートの動きだけではありません。</span>"
+    },
+    {
+      "key": "t55b019780ec9b4d0",
+      "english": "<span data-i18n-slot=\"0\">Chasing the first candle:</span><span data-i18n-slot=\"1\"> Entering after the initial spike can mean buying near a temporary high or selling near a temporary low.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最初のローソク足を追う:</span><span data-i18n-slot=\"1\"> 最初のスパイクの後にエントリーするということは、一時的な高値付近で買うか、一時的な安値付近で売ることを意味する場合があります。</span>"
+    },
+    {
+      "key": "t3089b0394d3f1407",
+      "english": "<span data-i18n-slot=\"0\">Holding correlated exposure:</span><span data-i18n-slot=\"1\"> Long USD, short gold, and short EUR/USD positions may express the same underlying view.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相関エクスポージャーの保有:</span><span data-i18n-slot=\"1\"> 米ドルのロング、金のショート、ユーロ/米ドルのショートのポジションは、同じ基本的な見方を表す可能性があります。</span>"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t09c1819910ffb85b",
+      "english": "<span data-i18n-slot=\"0\">This is why comparing forex brokers in Abu Dhabi requires more than looking at promotional offers. Traders should understand exactly what services a company provides, which legal entity handles their account and what protections apply.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这就是为什么比较阿布扎比的外汇经纪商需要的不仅仅是查看促销优惠。交易者应准确了解公司提供哪些服务、哪个法人实体处理其账户以及适用哪些保护措施。</span>"
+    },
+    {
+      "key": "tfc1c4197bb7c6d4f",
+      "english": "<span data-i18n-slot=\"0\">7 Important Factors to Check Before Choosing Forex Brokers in Abu Dhabi</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在阿布扎比选择外汇经纪商之前要检查的 7 个重要因素</span>"
+    },
+    {
+      "key": "tcd58b7f355b7da75",
+      "english": "<span data-i18n-slot=\"0\">1. Check the Broker's Regulatory Status and Legal Entity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1。检查经纪商的监管状况和法律实体</span>"
+    },
+    {
+      "key": "t79ccb3205e041d8e",
+      "english": "<span data-i18n-slot=\"0\">Before opening an account, check:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">开户前，请检查：</span>"
+    },
+    {
+      "key": "tcc05f845dec88701",
+      "english": "<span data-i18n-slot=\"0\">2. Understand Spreads, Commissions and Other Trading Costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。了解点差、佣金和其他交易成本</span>"
+    },
+    {
+      "key": "t229b212d30212c95",
+      "english": "<span data-i18n-slot=\"0\">A spread is the difference between the buying and selling price of a currency pair. Some trading accounts offer spread-based pricing, while others provide tighter spreads and charge a separate commission.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差是货币对的买入价和卖出价之间的差额。一些交易账户提供基于点差的定价，而另一些则提供更窄的点差并收取单独的佣金。</span>"
+    },
+    {
+      "key": "tb341c87d81d78199",
+      "english": "<span data-i18n-slot=\"0\">Currency conversion fees.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">货币兑换费。</span>"
+    },
+    {
+      "key": "t1981006ce3590780",
+      "english": "<span data-i18n-slot=\"0\">Inactivity fees, where applicable.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">闲置费用（如适用）。</span>"
+    },
+    {
+      "key": "tf1235e797124b7b3",
+      "english": "<span data-i18n-slot=\"0\">Additional commissions on specific instruments.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">特定金融工具的额外佣金。</span>"
+    },
+    {
+      "key": "td888e0df20b4b48b",
+      "english": "<span data-i18n-slot=\"0\">Can you monitor open positions and account balances easily?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">您可以轻松监控未平仓头寸和账户余额吗？</span>"
+    },
+    {
+      "key": "tc9b22b9d709e96a3",
+      "english": "<span data-i18n-slot=\"0\">Published minimum deposit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">公布的最低存款</span>"
+    },
+    {
+      "key": "t8c860b28ab2d8ec2",
+      "english": "<span data-i18n-slot=\"0\">$7 per round lot on eligible forex and metals trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每手（round lot）$7，适用于符合条件的外汇和金属交易</span>"
+    },
+    {
+      "key": "taecf726a3a566490",
+      "english": "<span data-i18n-slot=\"0\">How margin requirements work.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保证金要求如何运作。</span>"
+    },
+    {
+      "key": "t1561a75728d67ee1",
+      "english": "<span data-i18n-slot=\"0\">How margin calls and stop-out levels operate.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">追加保证金和强制平仓水平如何运作。</span>"
+    },
+    {
+      "key": "t9cfab8976699ce27",
+      "english": "<span data-i18n-slot=\"0\">How stop-loss orders can help manage exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">止损单如何帮助管理风险。</span>"
+    },
+    {
+      "key": "tbecf903c17946a44",
+      "english": "<span data-i18n-slot=\"0\">Why position sizing matters.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">为什么头寸规模很重要。</span>"
+    },
+    {
+      "key": "tff4b2720ac54f10c",
+      "english": "<span data-i18n-slot=\"0\">6. Review Deposit, Withdrawal and Customer Support Conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">6。查看存款、取款和客户支持条件</span>"
+    },
+    {
+      "key": "t35d3f756adb37f24",
+      "english": "<span data-i18n-slot=\"0\">Are there processing fees?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有手续费吗？</span>"
+    },
+    {
+      "key": "tc6154b10bfffc916",
+      "english": "<span data-i18n-slot=\"0\">A demo account can help beginners become familiar with order types, chart analysis and trading platform functions without putting actual capital at risk.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">模拟账户可以帮助初学者熟悉订单类型、图表分析和交易平台功能，而不会让实际资金面临风险。</span>"
+    },
+    {
+      "key": "t2fe004a0e2976d4c",
+      "english": "<span data-i18n-slot=\"0\">Currency pairs and exchange rates.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">货币对和汇率。</span>"
+    },
+    {
+      "key": "t7069a025cde74ff1",
+      "english": "<span data-i18n-slot=\"0\">Support and resistance levels.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">支撑位和阻力位。</span>"
+    },
+    {
+      "key": "t94fe7f7eb7aca9da",
+      "english": "<span data-i18n-slot=\"0\">Abu Dhabi has a diverse population of professionals, business owners and individuals interested in international financial markets. Online <span data-i18n-slot=\"1\">trading platforms</span> have made it easier to explore currency markets without visiting a physical brokerage office.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">阿布扎比拥有众多对国际金融市场感兴趣的专业人士、企业主和个人。在线<span data-i18n-slot=\"1\">交易平台</span>让探索货币市场变得更加容易，而无需访问实体经纪办事处。</span>"
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tf424fba1d89eab7d",
+      "english": "<span data-i18n-slot=\"0\">A swap-free label may address overnight interest but not every Sharia question. Review the legal and fee structure, check current</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">account types</span></span><span data-i18n-slot=\"4\">, and consult a qualified Islamic-finance scholar familiar with the product.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スワップフリーのラベルは、翌日の金利に対応する可能性がありますが、すべてのシャリア問題に対応できるわけではありません。法律と料金体系を確認し、現在の</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">アカウント タイプ</span></span><span data-i18n-slot=\"4\">を確認し、商品に詳しいイスラム金融の資格のある学者に相談してください。</span>"
+    },
+    {
+      "key": "t90a0826b0fc4adad",
+      "english": "<span data-i18n-slot=\"0\">Quick Reference Table</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">早見表</span>"
+    },
+    {
+      "key": "t4aad5f79087dccdb",
+      "english": "<span data-i18n-slot=\"0\">Formula or Definition</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">式または定義</span>"
+    },
+    {
+      "key": "t9d84ae124b48be26",
+      "english": "<span data-i18n-slot=\"0\">Notional value ÷ Required margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">想定元本 ÷ 必要証拠金</span>"
+    },
+    {
+      "key": "te3700639d9147e1b",
+      "english": "<span data-i18n-slot=\"0\">Notional value ÷ Leverage ratio</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">想定元本 ÷ レバレッジ比率</span>"
+    },
+    {
+      "key": "tf57d4841a94a2857",
+      "english": "<span data-i18n-slot=\"0\">Free Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">余剰証拠金</span>"
+    },
+    {
+      "key": "t43aebaadf5410a93",
+      "english": "<span data-i18n-slot=\"0\">Equity − Used margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金 − 使用証拠金</span>"
+    },
+    {
+      "key": "t582e40ada687d215",
+      "english": "<span data-i18n-slot=\"0\">Margin Level</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証拠金レベル</span>"
+    },
+    {
+      "key": "t32331f421fa85af0",
+      "english": "<span data-i18n-slot=\"0\">Equity ÷ Used margin × 100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金 ÷ 使用証拠金 × 100</span>"
+    },
+    {
+      "key": "tfa51a876a199ad26",
+      "english": "<span data-i18n-slot=\"0\">Stop-Out</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップアウト</span>"
+    },
+    {
+      "key": "ta02bd09b0056838f",
+      "english": "<span data-i18n-slot=\"0\">Leverage is the ratio between a position’s notional value and the margin required to support it. Margin is the account equity reserved for that position. Higher leverage reduces required margin for the same position, but the market exposure and monetary effect of a price move remain unchanged.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジとは、ポジションの想定元本とそれをサポートするために必要な証拠金との比率です。証拠金は、そのポジションに対して確保される口座資本です。レバレッジが高くなると、同じポジションに必要な証拠金が減りますが、市場エクスポージャーと価格変動の金銭的影響は変わりません。</span>"
+    },
+    {
+      "key": "tc9dec5a21e8079c0",
+      "english": "<span data-i18n-slot=\"0\">A margin call means equity has fallen to the broker’s defined margin threshold. The account has limited capacity to support open positions. Depending on the broker and platform, the trader may need to reduce exposure or add funds. If equity falls further, automatic stop-out liquidation may begin.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">マージンコールは、資本がブローカーが定義したマージンしきい値まで低下したことを意味します。口座にはオープンポジションをサポートする能力が限られています。ブローカーやプラットフォームによっては、トレーダーはエクスポージャーを減らすか資金を追加する必要がある場合があります。資本がさらに下落した場合、自動ストップアウト清算が開始される可能性があります。</span>"
+    },
+    {
+      "key": "t8b838e98cd177b66",
+      "english": "<span data-i18n-slot=\"0\">Is higher leverage always riskier?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジが高いと常にリスクが高くなりますか?</span>"
+    },
+    {
+      "key": "tc3e7819ac00698e6",
+      "english": "<span data-i18n-slot=\"0\">Higher available leverage is not automatically a loss, but using it to open larger positions increases account sensitivity to price movement. For the same notional position, changing the leverage ratio changes required margin—not the monetary gain or loss created by the market move.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">利用可能なレバレッジが高くても自動的に損失になるわけではありませんが、より大きなポジションをオープンするためにレバレッジを使用すると、価格変動に対するアカウントの感度が高まります。同じ想定上のポジションの場合、レバレッジ比率を変更すると、市場の動きによって生じる金銭的な損益ではなく、必要な証拠金が変わります。</span>"
+    },
+    {
+      "key": "t2acfcde0595d8498",
+      "english": "<span data-i18n-slot=\"0\">Is leverage trading halal?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジ取引はハラールですか？</span>"
+    },
+    {
+      "key": "t8308f393ef16456d",
+      "english": "<span data-i18n-slot=\"0\">Its permissibility depends on the complete contract and how the trade is structured. Interest, swaps, loan conditions, ownership, derivatives, uncertainty, and speculation may all affect the assessment. A swap-free feature alone may not settle every issue, so consult a qualified Islamic-finance scholar.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">それが許容されるかどうかは、完全な契約と取引の構造によって異なります。金利、スワップ、ローン条件、所有権、デリバティブ、不確実性、投機はすべて評価に影響を与える可能性があります。スワップフリー機能だけですべての問題が解決されるわけではないため、資格のあるイスラム金融学者に相談してください。</span>"
+    },
+    {
+      "key": "t32d9d9f609961e1c",
+      "english": "<span data-i18n-slot=\"0\">Divide the position’s notional value by the leverage ratio. A $100,000 position at 1:100 leverage requires approximately $1,000 in margin before broker-specific calculations and trading costs. Some instruments use different contract sizes or margin methods, so confirm the platform specification.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジションの想定元本をレバレッジ比率で割ります。レバレッジ 1:100 で 100,000 ドルのポジションには、ブローカー固有の計算と取引コストの前に、約 1,000 ドルの証拠金が必要です。一部の商品では異なる契約サイズや証拠金方法が使用されるため、プラットフォームの仕様を確認してください。</span>"
+    },
+    {
+      "key": "tbbd9cb71f8f6dd9f",
+      "english": "<span data-i18n-slot=\"0\">Leverage and margin are tools for controlling market exposure, not shortcuts to profitability. Understanding the formulas helps traders see the real size of a position, how much account capacity it uses, and how quickly losses can affect margin level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-leverage-and-margin-explained#content",
+        "SSR:/blogs/forex-leverage-and-margin-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジとマージンは、市場エクスポージャーを制御するためのツールであり、収益性への近道ではありません。公式を理解することは、トレーダーがポジションの実際の規模、ポジションが使用する口座容量、損失が証拠金レベルにどの程度の速さで影響するかを把握するのに役立ちます。</span>"
+    },
+    {
+      "key": "t694e98292eec7ec1",
+      "english": "<span data-i18n-slot=\"0\">Many new forex and CFD traders lose control of their process before they lose control of the market. They begin without written rules, use leverage they do not understand, react emotionally to losses, or ignore trading costs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">新しい外国為替トレーダーやCFDトレーダーの多くは、市場のコントロールを失う前に、プロセスのコントロールを失います。彼らは書面によるルールなしで始めたり、理解できないレバレッジを使用したり、損失に対して感情的に反応したり、取引コストを無視したりします。</span>"
+    },
+    {
+      "key": "tceddbe8679f202fa",
+      "english": "<span data-i18n-slot=\"0\">These mistakes affect beginners everywhere, including forex traders in Dubai and across the UAE. Avoiding them cannot guarantee profit, but it can reduce preventable risk. Readers who are</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">new to forex trading</span></span><span data-i18n-slot=\"4\"> should first understand orders, leverage, margin, and stop-losses.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これらの間違いは、ドバイやアラブ首長国連邦全土の外国為替トレーダーを含むあらゆる場所の初心者に影響を与えます。それらを回避しても利益は保証できませんが、回避可能なリスクは軽減できます。 </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">外国為替取引に慣れていない読者</span></span><span data-i18n-slot=\"4\">は、まず注文、レバレッジ、マージン、ストップロスについて理解する必要があります。</span>"
+    },
+    {
+      "key": "tbdf0fdcde49f7607",
+      "english": "<span data-i18n-slot=\"0\">Trading without a written plan</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">書面による計画なしでの取引</span>"
+    },
+    {
+      "key": "t23d7016f0e63bd0b",
+      "english": "<span data-i18n-slot=\"0\">Overleveraging without understanding margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">マージンを理解せずにオーバーレバレッジを行う</span>"
+    },
+    {
+      "key": "tfd26f4ab578bcbdb",
+      "english": "<span data-i18n-slot=\"0\">Entering trades without a stop-loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスなしで取引を開始する</span>"
+    },
+    {
+      "key": "ta8b24923fc9b0a41",
+      "english": "<span data-i18n-slot=\"0\">Chasing losses through revenge trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">復讐取引で損失を追う</span>"
+    },
+    {
+      "key": "t131143e8f011f3da",
+      "english": "<span data-i18n-slot=\"0\">Ignoring spreads, commissions, and swap costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッド、手数料、スワップコストを無視する</span>"
+    },
+    {
+      "key": "t76e2654ecad0d500",
+      "english": "<span data-i18n-slot=\"0\">Letting emotion override strategy</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">感情を戦略に優先させる</span>"
+    },
+    {
+      "key": "t9b66efcd122f50ed",
+      "english": "<span data-i18n-slot=\"0\">Failing to keep and review a trading journal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引日誌の作成と確認を怠っている</span>"
+    },
+    {
+      "key": "tffd64fe716550f63",
+      "english": "<span data-i18n-slot=\"0\">Mistake #1: Trading Without a Written Plan</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">間違い #1: 書面による計画なしで取引する</span>"
+    },
+    {
+      "key": "t119f82946e459876",
+      "english": "<span data-i18n-slot=\"0\">Define trading hours and maximum exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引時間と最大エクスポージャーを定義します。</span>"
+    },
+    {
+      "key": "t42191db961381e03",
+      "english": "<span data-i18n-slot=\"0\">Skip trades that do not meet the plan.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">計画に達しない取引はスキップします。</span>"
+    },
+    {
+      "key": "t7b3faba573b3e4b3",
+      "english": "<span data-i18n-slot=\"0\">Mistake #2: Skipping Demo Practice</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">間違い #2: デモの練習をさぼる</span>"
+    },
+    {
+      "key": "t2bef9aca028fa878",
+      "english": "<span data-i18n-slot=\"0\">A demo cannot reproduce every live-trading emotion, but it builds basic competence. New traders should</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">practice on a demo account</span></span><span data-i18n-slot=\"4\"> before risking real funds. UpForex’s guide notes that live accounts introduce stronger emotional pressure, actual costs, and possible slippage. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">デモはライブトレードの感情をすべて再現することはできませんが、基本的な能力を構築します。新しいトレーダーは、実際の資金を危険にさらす前に</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">デモ口座で練習する必要があります。</span></span><span data-i18n-slot=\"4\"> UpForex のガイドでは、ライブアカウントではより強い感情的プレッシャー、実際のコスト、スリッページの可能性が生じると述べています。 </span>"
+    },
+    {
+      "key": "t33aecf3374bc8b21",
+      "english": "<span data-i18n-slot=\"0\">Practise order placement and stop-loss use.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">注文の発注とストップロスの使用を練習します。</span>"
+    },
+    {
+      "key": "t4bed96fb30363a6d",
+      "english": "<span data-i18n-slot=\"0\">Mistake #3: Overleveraging Without Understanding Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">間違い #3: マージンを理解せずに過剰なレバレッジを行う</span>"
+    },
+    {
+      "key": "tb6c3308d649dd2f1",
+      "english": "<span data-i18n-slot=\"0\">Leverage lets a trader control a position larger than the cash deposited, magnifying gains and losses. A normal price movement can therefore create a large change in account equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジを利用すると、トレーダーは預けた現金より大きなポジションを管理でき、利益と損失が拡大します。したがって、通常の価格変動により、口座資本に大きな変化が生じる可能性があります。</span>"
+    },
+    {
+      "key": "t633ce628baa591e0",
+      "english": "<span data-i18n-slot=\"0\">The main error is choosing position size without understanding used margin, free margin, or total exposure across several trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主な誤りは、使用証拠金、余剰証拠金、複数の取引全体のリスク量を理解せずにポジションサイズを選ぶことです。</span>"
+    },
+    {
+      "key": "t74b047d2e1991844",
+      "english": "<span data-i18n-slot=\"0\">Mistake #4: Trading Without a Stop-Loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">間違い #4: ストップロスなしで取引する</span>"
+    },
+    {
+      "key": "tf7ea30159ad9f65f",
+      "english": "<span data-i18n-slot=\"0\">Set the invalidation level before entry.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">入力前に無効化レベルを設定します。</span>"
+    },
+    {
+      "key": "t96ae6c753899bf7b",
+      "english": "<span data-i18n-slot=\"0\">Revenge trading begins when the goal changes from following a strategy to recovering money quickly. The trader may double size, take a weak setup, or enter repeatedly without confirmation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">戦略に従うことから、損失を早く取り戻すことへ目標が変わると、リベンジ取引が始まります。トレーダーはポジションを二倍にしたり、根拠の弱い取引に入ったり、確認なしに繰り返しエントリーしたりする場合があります。</span>"
+    },
+    {
+      "key": "t6a747aafaf733f69",
+      "english": "<span data-i18n-slot=\"0\">Review the loss before trading again.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">再度取引する前に損失を確認してください。</span>"
+    },
+    {
+      "key": "tb1031eab595167d9",
+      "english": "<span data-i18n-slot=\"0\">Mistake #6: Ignoring Spreads, Commissions, and Swap Costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">間違い #6: スプレッド、手数料、スワップコストを無視する</span>"
+    },
+    {
+      "key": "tc278ee2b74a18b9d",
+      "english": "<span data-i18n-slot=\"0\">Review net results after fees.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手数料後の最終結果を確認します。</span>"
+    },
+    {
+      "key": "t658133f719f1cc81",
+      "english": "<span data-i18n-slot=\"0\">Mistake #7: Trading Money Needed for Essential Expenses</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">間違い #7: 必要な出費に必要な資金を取引する</span>"
+    },
+    {
+      "key": "t88aa3682c5fddf0e",
+      "english": "<span data-i18n-slot=\"0\">Trading capital should be money the trader can afford to expose without harming essential commitments.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引資金には、必要不可欠な支払いに支障を来すことなくリスクにさらせるお金を使う必要があります。</span>"
+    },
+    {
+      "key": "t673e5b1c8b9dec9e",
+      "english": "<span data-i18n-slot=\"0\">A broker or account may be unsuitable because of regulation, platform reliability, costs, leverage conditions, or support. Choosing only because of a promotion can create risks unrelated to market analysis.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ブローカーまたは口座は、規制、プラットフォームの信頼性、コスト、レバレッジ条件、またはサポートの理由により、不適切な場合があります。プロモーションだけを理由に選択すると、市場分析とは関係のないリスクが生じる可能性があります。</span>"
+    },
+    {
+      "key": "t8715ef53807fa937",
+      "english": "<span data-i18n-slot=\"0\">Searches for the </span><span data-i18n-slot=\"1\">best forex traders in Dubai</span><span data-i18n-slot=\"2\"> often reflect a wider need for a trustworthy trading environment. Dubai forex traders should review the broker’s legal entity, disclosures,</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">account types</span></span><span data-i18n-slot=\"6\">, and whether it is</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"> </span><span data-i18n-slot=\"9\">a broker with proper fund protection</span></span><span data-i18n-slot=\"10\">. The linked guide explains factors traders can review when assessing broker safeguards. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ドバイの</span><span data-i18n-slot=\"1\">最高の外国為替トレーダーの検索</span><span data-i18n-slot=\"2\">は、信頼できる取引環境に対する幅広いニーズを反映していることがよくあります。ドバイの外国為替トレーダーは、ブローカーの法人、開示情報、</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">口座タイプ</span></span><span data-i18n-slot=\"6\">、および</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"> </span><span data-i18n-slot=\"9\">適切な資金保護を備えたブローカーであるかどうか</span></span><span data-i18n-slot=\"10\">を確認する必要があります。リンクされたガイドでは、トレーダーがブローカーの安全対策を評価する際に検討できる要素について説明しています。 </span>"
+    },
+    {
+      "key": "t90cc7f5411600634",
+      "english": "<span data-i18n-slot=\"0\">Read account terms before depositing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">入金する前にアカウント規約をお読みください。</span>"
+    },
+    {
+      "key": "tf3729a5dd0d19701",
+      "english": "<span data-i18n-slot=\"0\">Step away when urgency affects judgement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">緊急性が判断に影響を与える場合は、その場から離れてください。</span>"
+    },
+    {
+      "key": "t94efb007050e9cc7",
+      "english": "<span data-i18n-slot=\"0\">Disciplined Trader</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">規律あるトレーダー</span>"
+    },
+    {
+      "key": "t9a710a4fdc6f7b63",
+      "english": "<span data-i18n-slot=\"0\">Watches every candle and changes decisions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">すべてのキャンドルを監視し、決定を変更します</span>"
+    },
+    {
+      "key": "t0f12ecd34ecbb7e9",
+      "english": "<span data-i18n-slot=\"0\">Increases size after a loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">負けるとサイズが大きくなる</span>"
+    },
+    {
+      "key": "tf2ff2dbd11cdefe7",
+      "english": "<span data-i18n-slot=\"0\">Defines the stop before entry</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">エントリ前のストップを定義します</span>"
+    },
+    {
+      "key": "t1017a302155a8c58",
+      "english": "<span data-i18n-slot=\"0\">Pauses when emotions affect judgement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">感情が判断に影響を与える場合は一時停止する</span>"
+    },
+    {
+      "key": "tba584a1f35bad4bb",
+      "english": "<span data-i18n-slot=\"0\">Remembers trades selectively</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引を選択的に記憶します</span>"
+    },
+    {
+      "key": "t1f4c2e16769311a8",
+      "english": "<span data-i18n-slot=\"0\">Records and reviews each trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">各取引の記録とレビュー</span>"
+    },
+    {
+      "key": "t8fd426a218552964",
+      "english": "<span data-i18n-slot=\"0\">Mistake #10: Not Keeping a Trading Journal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">間違い #10: 取引日誌をつけていない</span>"
+    },
+    {
+      "key": "t1ea2cf62681882c2",
+      "english": "<span data-i18n-slot=\"0\">Record every trade in the same format.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">すべての取引を同じ形式で記録します。</span>"
+    },
+    {
+      "key": "t1264756ce58809ec",
+      "english": "<span data-i18n-slot=\"0\">Decisions are impulsive</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">決断は衝動的である</span>"
+    },
+    {
+      "key": "te09a84d514c8351f",
+      "english": "<span data-i18n-slot=\"0\">Define entry, exit, risk, and no-trade rules</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">エントリー、決済、リスク、取引しない条件についてのルールを定める</span>"
+    },
+    {
+      "key": "t280acd850595a333",
+      "english": "<span data-i18n-slot=\"0\">The trader rushes into live trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/top-10-mistakes-new-forex-traders-make#content",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーはライブ取引に突入する</span>"
+    }
+  ]
+}

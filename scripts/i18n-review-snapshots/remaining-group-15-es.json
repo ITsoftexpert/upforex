@@ -1,0 +1,509 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t95a43e0a723369f4",
+      "english": "<span data-i18n-slot=\"0\">Often wider than top USD majors</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A menudo más amplio que en los principales pares con USD</span>"
+    },
+    {
+      "key": "ta677096259b90cca",
+      "english": "<span data-i18n-slot=\"0\">Usually wider than major pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Generalmente más ancho que los pares principales</span>"
+    },
+    {
+      "key": "t7715a5ef6392d707",
+      "english": "<span data-i18n-slot=\"0\">Typically wider and more variable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Normalmente más ancho y más variable</span>"
+    },
+    {
+      "key": "t7fb9b3d49d405138",
+      "english": "<span data-i18n-slot=\"0\">These are general characteristics, not live UPFOREX quotes or guarantees of execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Estas son características generales; no son cotizaciones en tiempo real de UPFOREX ni garantías de ejecución.</span>"
+    },
+    {
+      "key": "t5bec6c69aa5423c7",
+      "english": "<span data-i18n-slot=\"0\">The London and New York sessions overlap for part of the trading day.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Las sesiones de Londres y Nueva York se superponen durante parte del día de negociación.</span>"
+    },
+    {
+      "key": "tee71464306b18301",
+      "english": "<span data-i18n-slot=\"0\">More activity can support deeper pricing and relatively tighter spreads under normal conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Una mayor actividad puede favorecer una mayor profundidad en las cotizaciones y diferenciales relativamente más ajustados en condiciones normales.</span>"
+    },
+    {
+      "key": "t32ec8f8b8122f151",
+      "english": "<span data-i18n-slot=\"0\">For UAE traders, thinking in terms of session overlap rather than fixed local clock times is useful because daylight-saving changes can shift international session timing during the year.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Para los operadores de los Emiratos Árabes Unidos, es útil pensar en términos de superposición de sesiones en lugar de horarios locales fijos porque los cambios de horario de verano pueden cambiar el horario de las sesiones internacionales durante el año.</span>"
+    },
+    {
+      "key": "t278e94a91e527861",
+      "english": "<span data-i18n-slot=\"0\">Lower-Activity Windows</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ventanas de menor actividad</span>"
+    },
+    {
+      "key": "tcd71ccf826b18542",
+      "english": "<span data-i18n-slot=\"0\">Liquidity can become thinner:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">La liquidez puede disminuir:</span>"
+    },
+    {
+      "key": "t147eaf406d9ae7f8",
+      "english": "<span data-i18n-slot=\"0\">Late in a trading day</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Al final de un día de negociación</span>"
+    },
+    {
+      "key": "tcbbe69f00098f712",
+      "english": "<span data-i18n-slot=\"0\">Wider spreads</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferenciales más amplios</span>"
+    },
+    {
+      "key": "t5fbb9e842b13f062",
+      "english": "<span data-i18n-slot=\"0\">Fast repricing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Revisión de precios rápida</span>"
+    },
+    {
+      "key": "t4a6bd45e547c4de8",
+      "english": "<span data-i18n-slot=\"0\">Increased slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Mayor deslizamiento</span>"
+    },
+    {
+      "key": "t892309a7570a84e3",
+      "english": "<span data-i18n-slot=\"0\">High activity and high usable liquidity are therefore not always exactly the same thing during a news shock.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por tanto, una actividad elevada y una liquidez utilizable elevada no siempre son exactamente lo mismo durante un impacto de noticias.</span>"
+    },
+    {
+      "key": "tfd87452199d4236d",
+      "english": "<span data-i18n-slot=\"0\">Trading Condition</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Condición comercial</span>"
+    },
+    {
+      "key": "t3e557a0d1441d069",
+      "english": "<span data-i18n-slot=\"0\">Higher-Liquidity Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Ejemplo de mayor liquidez</span>"
+    },
+    {
+      "key": "tdaf4492135defef7",
+      "english": "<span data-i18n-slot=\"0\">Thinly traded exotic pair</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Par exótico poco comercializado</span>"
+    },
+    {
+      "key": "t6ae7dc0808150960",
+      "english": "<span data-i18n-slot=\"0\">Spread behavior</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-forex-liquidity",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comportamiento del diferencial</span>"
+    },
+    {
+      "key": "tfe32cc2d2cffc4ab",
+      "english": "<span data-i18n-slot=\"0\">Slippage risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Riesgo de deslizamiento</span>"
+    },
+    {
+      "key": "t70c2676e7d332fee",
+      "english": "<span data-i18n-slot=\"0\">Large-order sensitivity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sensibilidad de orden grande</span>"
+    },
+    {
+      "key": "tc0bf2a155e09330f",
+      "english": "<span data-i18n-slot=\"0\">Deeper available pricing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Mayor profundidad en las cotizaciones disponibles</span>"
+    },
+    {
+      "key": "t2390ad42814bc5ee",
+      "english": "<span data-i18n-slot=\"0\">Thinner available pricing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Menor profundidad en las cotizaciones disponibles</span>"
+    },
+    {
+      "key": "tbc0360f0e5347fb8",
+      "english": "<span data-i18n-slot=\"0\">Spreads often tighter</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los diferenciales suelen ser más ajustados</span>"
+    },
+    {
+      "key": "tff13ea24c3888c64",
+      "english": "<span data-i18n-slot=\"0\">Spreads often wider</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los diferenciales suelen ser más amplios</span>"
+    },
+    {
+      "key": "t0a8a9f6ca2bae6dc",
+      "english": "<span data-i18n-slot=\"0\">Lower relative slippage risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Menor riesgo relativo de deslizamiento</span>"
+    },
+    {
+      "key": "t6b943126f0d877e6",
+      "english": "<span data-i18n-slot=\"0\">Higher relative slippage risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Mayor riesgo relativo de deslizamiento</span>"
+    },
+    {
+      "key": "tfb68ee60043c77a6",
+      "english": "<span data-i18n-slot=\"0\">It does not.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No es así.</span>"
+    },
+    {
+      "key": "t6b92fb9bcf709227",
+      "english": "<span data-i18n-slot=\"0\">This is one reason session timing can matter when evaluating spreads and execution conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Esta es una de las razones por las que el tiempo de la sesión puede ser importante al evaluar los diferenciales y las condiciones de ejecución.</span>"
+    },
+    {
+      "key": "t789913e8786d5e52",
+      "english": "<span data-i18n-slot=\"0\">A tight spread can be associated with strong liquidity, but spread is only one indicator.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un diferencial ajustado puede estar asociado con una liquidez fuerte, pero el diferencial es sólo un indicador.</span>"
+    },
+    {
+      "key": "ta64417ccbce559b4",
+      "english": "<span data-i18n-slot=\"0\">Account pricing, volatility, execution arrangements and market conditions also affect the spread a trader sees.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El precio de la cuenta, la volatilidad, los acuerdos de ejecución y las condiciones del mercado también afectan el diferencial que ve un operador.</span>"
+    },
+    {
+      "key": "tf58ec93281736094",
+      "english": "<span data-i18n-slot=\"0\">Published Spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferencial publicado</span>"
+    },
+    {
+      "key": "t8bc167545356b75a",
+      "english": "<span data-i18n-slot=\"0\">Minimum trade size of 0.01 lots</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tamaño mínimo de operación de 0.01 lotes</span>"
+    },
+    {
+      "key": "t185d01aaf9ac2ff0",
+      "english": "<span data-i18n-slot=\"0\">Leverage up to 1:300</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Apalancamiento de hasta 1:300</span>"
+    },
+    {
+      "key": "tce2771c187ead2f5",
+      "english": "<span data-i18n-slot=\"0\">The quoted spreads are starting levels rather than a promise that the minimum spread will be available on every order.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los diferenciales cotizados son niveles iniciales en lugar de una promesa de que el diferencial mínimo estará disponible en cada orden.</span>"
+    },
+    {
+      "key": "td055319f05eef6b1",
+      "english": "<span data-i18n-slot=\"0\">What are the most liquid forex pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cuáles son los pares de divisas más líquidos?</span>"
+    },
+    {
+      "key": "ta15dd384139e2b90",
+      "english": "<span data-i18n-slot=\"0\">How does liquidity affect forex spreads?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo afecta la liquidez a los diferenciales de divisas?</span>"
+    },
+    {
+      "key": "ta7c0418b6a208461",
+      "english": "<span data-i18n-slot=\"0\">How does liquidity affect slippage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo afecta la liquidez al deslizamiento?</span>"
+    },
+    {
+      "key": "tfeb889f5bcd37c25",
+      "english": "<span data-i18n-slot=\"0\">When is forex liquidity usually highest?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cuándo suele ser más alta la liquidez de divisas?</span>"
+    },
+    {
+      "key": "tf7821ba9d6ccf8c3",
+      "english": "<span data-i18n-slot=\"0\">Build a Clearer View of Trading Conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Construya una visión más clara de las condiciones comerciales</span>"
+    },
+    {
+      "key": "t0dc63c1f6106fc35",
+      "english": "<span data-i18n-slot=\"0\">A UPFOREX demo account can be used to become familiar with MT5 and observe how spreads and execution conditions change across different sessions before moving to live trading. Readers still building their market fundamentals can also review the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading for beginners guide</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#content",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Se puede utilizar una cuenta de demostración UPFOREX para familiarizarse con MT5 y observar cómo cambian los diferenciales y las condiciones de ejecución en diferentes sesiones antes de pasar al comercio real. Los lectores que aún estén desarrollando sus fundamentos del mercado también pueden revisar la</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">guía de operaciones de cambio para principiantes</span></span><span data-i18n-slot=\"4\">.</span>"
+    },
+    {
+      "key": "t2ea3a0b41a0dee46",
+      "english": "<span data-i18n-slot=\"0\">Understanding </span><span data-i18n-slot=\"1\">what is slippage in forex trading</span><span data-i18n-slot=\"2\"> becomes especially important during fast-moving markets, economic announcements, periods of lower liquidity, and situations where available prices change quickly. Traders using MetaTrader 5 (MT5), including those accessing</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">forex trading in Abu Dhabi</span></span><span data-i18n-slot=\"6\">, can encounter the same underlying execution effect.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comprender </span><span data-i18n-slot=\"1\">qué es un deslizamiento en el comercio de divisas</span><span data-i18n-slot=\"2\"> se vuelve especialmente importante durante mercados en rápido movimiento, anuncios económicos, períodos de menor liquidez y situaciones en las que los precios disponibles cambian rápidamente. Los operadores que utilizan MetaTrader 5 (MT5), incluidos aquellos que acceden</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">operaciones de divisas en Abu Dabi</span></span><span data-i18n-slot=\"6\">, pueden encontrar el mismo efecto de ejecución subyacente.</span>"
+    },
+    {
+      "key": "t90eb558ea7c18292",
+      "english": "<span data-i18n-slot=\"0\">Slippage is the difference between the price expected when an order is submitted and the price at which the trade actually executes. It commonly occurs when prices change quickly, or liquidity is limited. A better execution price creates positive slippage, while a less favorable execution price creates negative slippage.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El deslizamiento es la diferencia entre el precio esperado cuando se envía una orden y el precio al que realmente se ejecuta la operación. Suele ocurrir cuando los precios cambian rápidamente o la liquidez es limitada. Un mejor precio de ejecución crea un deslizamiento positivo, mientras que un precio de ejecución menos favorable crea un deslizamiento negativo.</span>"
+    },
+    {
+      "key": "t92fc48dd0ad6ac23",
+      "english": "<span data-i18n-slot=\"0\">What Is Slippage in Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es el deslizamiento en el comercio?</span>"
+    },
+    {
+      "key": "tec0ed2ec554b8ec0",
+      "english": "<span data-i18n-slot=\"0\">Slippage in trading is the difference between the price a trader expects to receive and the price at which an order actually executes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El deslizamiento en las operaciones es la diferencia entre el precio que un operador espera recibir y el precio al que realmente se ejecuta una orden.</span>"
+    },
+    {
+      "key": "tc7e03f17520fbdff",
+      "english": "<span data-i18n-slot=\"0\">If the same buy order instead executes at 1.1047, the fill is 3 pips lower than expected. That would represent </span><span data-i18n-slot=\"1\">positive slippage</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Si la misma orden de compra se ejecuta en cambio a 1.1047, el precio de ejecución es 3 pips inferior al esperado. Eso representaría un </span><span data-i18n-slot=\"1\">deslizamiento positivo</span><span data-i18n-slot=\"2\">.</span>"
+    },
+    {
+      "key": "tce09c6259db4a5ed",
+      "english": "<span data-i18n-slot=\"0\">Is Slippage the Same as Spread?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Es lo mismo el deslizamiento que el diferencial?</span>"
+    },
+    {
+      "key": "t6a422700790d0774",
+      "english": "<span data-i18n-slot=\"0\">No. Spread and slippage describe different parts of trading costs and execution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No. El diferencial y el deslizamiento describen diferentes partes de los costos y la ejecución de las operaciones.</span>"
+    },
+    {
+      "key": "t19b959c9891b30a7",
+      "english": "<span data-i18n-slot=\"0\">Price slippage</span><span data-i18n-slot=\"1\"> is the difference between the expected or requested execution price and the actual price received.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Deslizamiento de precios</span><span data-i18n-slot=\"1\"> es la diferencia entre el precio de ejecución esperado o solicitado y el precio real recibido.</span>"
+    },
+    {
+      "key": "td4b66008b527ff40",
+      "english": "<span data-i18n-slot=\"0\">Difference between the current bid and ask price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferencia entre el precio de oferta y demanda actual</span>"
+    },
+    {
+      "key": "t3dc7573a618162a4",
+      "english": "<span data-i18n-slot=\"0\">Difference between expected and actual execution price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferencia entre el precio de ejecución esperado y real</span>"
+    }
+  ]
+}

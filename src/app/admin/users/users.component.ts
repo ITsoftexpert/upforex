@@ -4,6 +4,7 @@ import { ToastrService } from 'ngx-toastr';
 import { UserService, UserData, CountryData } from '../../core/services/user.service';
 
 @Component({
+  standalone: false,
   selector: 'app-users',
   templateUrl: './users.component.html',
   styleUrls: ['./users.component.scss'],

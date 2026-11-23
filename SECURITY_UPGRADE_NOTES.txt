@@ -1,0 +1,17 @@
+MERGED LOCAL SECURITY STATUS: LOCAL_INTEGRATION_PASS_PRODUCTION_UNVERIFIED
+Checked: 2026-11-23T07:22:41.353Z
+npm audit: 0 known vulnerabilities (including development dependencies).
+Current evidence: tmp/release-npm-audit.json; full merge status: LOCAL_COMPLETION_REPORT.txt.
+
+The earlier local Angular 16 security migration is retained:
+Angular 21.2.26; CLI/SSR 21.2.30; TypeScript 5.9.3; Express 4.22.3; jsPDF 4.2.1.
+The package lock is unchanged from that verified security upgrade. Main adds no new dependency.
+CommonEngine keeps request-scoped language/status providers and a fixed public origin.
+PDF libraries load only for download. Native page/locale catalogs load on demand.
+Main HTTP security headers, anonymous edge-cache policy and versioned static caching are preserved and tested against the actual merged server.
+No npm audit fix --force, advisory suppression, paid translation request, Git push or deployment.
+
+Use tested Node 24.18.0 and npm 11.16.0. The production host must support the upgraded runtime.
+Existing Sass @import, Zone.js dynamic-require bundler warnings and legacy Angular/Karma deprecations do not make the current build fail.
+Zero advisory findings at this audit time do not certify absence of all security defects.
+Authenticated production admin writes and live hosting/CDN checks require the owner environment.

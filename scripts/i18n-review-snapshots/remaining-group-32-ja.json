@@ -1,0 +1,499 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tc2cb0f203af22a9e",
+      "english": "<span data-i18n-slot=\"0\">No Defined Risk Management Plan</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">明確なリスク管理計画がない</span>"
+    },
+    {
+      "key": "t884fdce4f4e6f06c",
+      "english": "<span data-i18n-slot=\"0\">Many traders focus on entries but never define how much they may lose. Without a fixed limit, position size may change with confidence, excitement, or the urge to recover a loss.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多くのトレーダーはエントリーに重点を置いていますが、損失額を決して定義しません。固定制限がないと、自信、興奮、または損失を取り戻したいという衝動によってポジションサイズが変化する可能性があります。</span>"
+    },
+    {
+      "key": "tde1c051c63a975fa",
+      "english": "<span data-i18n-slot=\"0\">A demo account can test platform features and strategy rules, but real-money emotions are different. Understanding</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">the key differences between a forex demo and a real account</span></span><span data-i18n-slot=\"4\"> can help traders prepare for this psychological gap.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">デモ口座ではプラットフォームの機能や戦略ルールをテストできますが、リアルマネーの感情は異なります。 </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">外国為替デモと実際の口座の主な違い</span></span><span data-i18n-slot=\"4\">を理解することは、トレーダーがこの心理的なギャップに備えるのに役立ちます。</span>"
+    },
+    {
+      "key": "teb3e9745b8bdb6dd",
+      "english": "<span data-i18n-slot=\"0\">Revenge trading begins when the goal changes from following a strategy to recovering losses quickly. The trader may increase position size, take weak setups, or ignore entry rules.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">リベンジトレードは、目標が戦略に従うことから損失を迅速に回収することに変わったときに始まります。トレーダーはポジションサイズを増やしたり、弱いセットアップを採用したり、エントリールールを無視したりする可能性があります。</span>"
+    },
+    {
+      "key": "t896aaf6a448d843a",
+      "english": "<span data-i18n-slot=\"0\">Hypothetical example for illustration only:</span><span data-i18n-slot=\"1\"> A trader deposits </span><span data-i18n-slot=\"2\">$1,000</span><span data-i18n-slot=\"3\">. The account provides leverage of up to </span><span data-i18n-slot=\"4\">1:300</span><span data-i18n-slot=\"5\">, but the trader opens a </span><span data-i18n-slot=\"6\">$50,000 position</span><span data-i18n-slot=\"7\">, creating effective leverage of 50:1. At 1:300, the required margin for this position would be approximately </span><span data-i18n-slot=\"8\">$166.67</span><span data-i18n-slot=\"9\">, excluding costs and any platform-specific adjustments.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">説明のみを目的とした仮想的な例:</span><span data-i18n-slot=\"1\"> トレーダーが </span><span data-i18n-slot=\"2\">$1,000</span><span data-i18n-slot=\"3\"> を入金します。このアカウントは最大 </span><span data-i18n-slot=\"4\">1:300</span><span data-i18n-slot=\"5\"> のレバレッジを提供しますが、トレーダーは </span><span data-i18n-slot=\"6\">$50,000 のポジション</span><span data-i18n-slot=\"7\">をオープンし、実質的なレバレッジは 50:1 になります。 1:300 の場合、このポジションに必要な証拠金は、コストとプラットフォーム固有の調整を除くと、約 </span><span data-i18n-slot=\"8\">$166.67</span><span data-i18n-slot=\"9\"> になります。</span>"
+    },
+    {
+      "key": "t73c6d3c17a58f68d",
+      "english": "<span data-i18n-slot=\"0\">These thresholds use the standard margin-level formula—equity divided by used margin—and may vary slightly with a broker’s exact real-time calculation method.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これらのしきい値は、標準的な証拠金レベルの計算式（資本を使用済み証拠金で割ったもの）を使用しており、ブローカーの正確なリアルタイム計算方法によって若干異なる場合があります。</span>"
+    },
+    {
+      "key": "t678daf42fed23c1a",
+      "english": "<span data-i18n-slot=\"0\">In practice, the position could therefore be liquidated before the adverse movement reaches the full 2%.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">したがって、実際には、逆方向の動きが 2% に達する前にポジションが清算される可能性があります。</span>"
+    },
+    {
+      "key": "t0ee0e5a9cbcae6c5",
+      "english": "<span data-i18n-slot=\"0\">How Retail Traders Can Improve Their Odds</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">小売トレーダーがオッズを向上させる方法</span>"
+    },
+    {
+      "key": "t3fbbbf2000b028ca",
+      "english": "<span data-i18n-slot=\"0\">Limit Risk Per Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引ごとのリスクを制限する</span>"
+    },
+    {
+      "key": "t7c97db88250e60ee",
+      "english": "<span data-i18n-slot=\"0\">Demo trading helps traders test rules and execution without risking capital. It cannot reproduce live pressure, so the move to a real account should begin with smaller positions and realistic expectations.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">デモ取引は、トレーダーが資本を危険にさらすことなくルールと実行をテストするのに役立ちます。ライブプレッシャーを再現することはできないため、リアルアカウントへの移行は、より小さなポジションと現実的な期待から始める必要があります。</span>"
+    },
+    {
+      "key": "taa01a82b542a0baf",
+      "english": "<span data-i18n-slot=\"0\">Why do most retail traders lose money?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ほとんどの小売トレーダーが損失を被るのはなぜでしょうか?</span>"
+    },
+    {
+      "key": "t2ac86f94062d3bf6",
+      "english": "<span data-i18n-slot=\"0\">Most retail traders lose money because they use excessive leverage, risk too much per position, trade without tested rules, and make emotional decisions. Trading costs, volatility, poor preparation, and unrealistic return targets can make the problem worse. Losses usually result from repeated process failures rather than one isolated trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ほとんどの個人トレーダーは、過剰なレバレッジを使用し、ポジションごとのリスクが大きすぎ、テスト済みのルールなしで取引し、感情的な決定を下すため、損失を被ります。取引コスト、ボラティリティ、不十分な準備、非現実的なリターン目標などが問題を悪化させる可能性があります。通常、損失は 一 回の個別の取引ではなく、プロセスの失敗が繰り返されることで発生します。</span>"
+    },
+    {
+      "key": "tc31f102d9a3156b9",
+      "english": "<span data-i18n-slot=\"0\">Do retail traders make money in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">個人トレーダーは外国為替取引で利益を上げていますか?</span>"
+    },
+    {
+      "key": "t119ec63d4d460479",
+      "english": "<span data-i18n-slot=\"0\">A retail trader generally uses personal funds and makes decisions independently. Institutional traders manage pooled or company capital and may have advanced data, research teams, formal limits, and risk oversight. Institutions still experience losses, but their systems may reduce impulsive decisions and uncontrolled exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">個人のトレーダーは通常、個人資金を使用し、独立して意思決定を行います。機関投資家トレーダーは、プール資本または会社資本を管理し、高度なデータ、調査チーム、正式な制限、およびリスク監視を備えている場合があります。金融機関は依然として損失を被っているが、そのシステムにより衝動的な意思決定や制御されないリスクが軽減される可能性がある。</span>"
+    },
+    {
+      "key": "t2150f4d57eeb90e3",
+      "english": "<span data-i18n-slot=\"0\">What is the biggest reason retail traders lose money?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">個人トレーダーが損失を被る最大の理由は何ですか?</span>"
+    },
+    {
+      "key": "te578d314de39cac4",
+      "english": "<span data-i18n-slot=\"0\">Can retail traders make money with proper risk management?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">個人トレーダーは適切なリスク管理をすれば利益を上げることができるでしょうか?</span>"
+    },
+    {
+      "key": "t23350164367f5c7c",
+      "english": "<span data-i18n-slot=\"0\">Trading success is not created by discovering a risk-free strategy. It requires controlling exposure, accepting uncertainty, and following a repeatable process.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーディングの成功は、リスクのない戦略を発見することによってもたらされません。暴露を制御し、不確実性を受け入れ、反復可能なプロセスに従う必要があります。</span>"
+    },
+    {
+      "key": "tc69f5919c8fc05ef",
+      "english": "<span data-i18n-slot=\"0\">Risk Disclaimer:</span><span data-i18n-slot=\"1\"> Forex and CFD trading involves leveraged financial products and carries a high risk of losing money. Losses may occur rapidly and may exceed expectations during volatile or illiquid conditions. This article is provided for educational purposes only and does not constitute financial, investment, legal, or tax advice.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">リスク免責条項:</span><span data-i18n-slot=\"1\"> 外国為替および CFD 取引にはレバレッジを利用した金融商品が含まれており、損失の高いリスクが伴います。変動性または非流動性の状況では、損失が急速に発生し、予想を超える可能性があります。この記事は教育のみを目的として提供されており、財務、投資、法律、税金に関するアドバイスを構成するものではありません。</span>"
+    },
+    {
+      "key": "t06dba30accea28aa",
+      "english": "<span data-i18n-slot=\"0\">If you have been watching the gold market in 2026, you already know things are moving fast. Gold hit an all-time high of $5,595 per ounce in January 2026, and major financial institutions are forecasting further gains toward the $6,000 mark by year-end. For UAE traders, this kind of price movement creates real opportunity, and gold CFDs are one of the most practical ways to get involved.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2026年の金市場を見てきた方なら、相場が速く動いていることをご存じでしょう。金は2026年一月にオンス当たり$5,595の史上最高値を付け、大手金融機関は年末までに$6,000の水準に向けたさらなる上昇を予想しています。UAEのトレーダーにとって、このような値動きは実際の機会となり、金CFDは参加するための最も実用的な方法の一つです。</span>"
+    },
+    {
+      "key": "tffdd0f2cbae1dd10",
+      "english": "<span data-i18n-slot=\"0\">Why UAE Traders Are Choosing Gold CFDs in 2026</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UAEのトレーダーが2026年に金CFDを選択する理由</span>"
+    },
+    {
+      "key": "tf958978f35bc33e1",
+      "english": "<span data-i18n-slot=\"0\">How Gold CFDs Are Different From Buying Physical Gold</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金CFDは現物の金の購入とどう違うのか</span>"
+    },
+    {
+      "key": "tc351e52f32ba5ac1",
+      "english": "<span data-i18n-slot=\"0\">Not required</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">不要</span>"
+    },
+    {
+      "key": "tbaf8ebbe329b3db8",
+      "english": "<span data-i18n-slot=\"0\">Go Short?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ショートしますか？</span>"
+    },
+    {
+      "key": "ta15d2bfeb27fa162",
+      "english": "<span data-i18n-slot=\"0\">Entry Cost</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">参加費</span>"
+    },
+    {
+      "key": "t646aae841b3f9bb4",
+      "english": "<span data-i18n-slot=\"0\">Instant execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">即時実行</span>"
+    },
+    {
+      "key": "tfcda4acb65b7f657",
+      "english": "<span data-i18n-slot=\"0\">What Are Spreads and Swap Fees?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッドとスワップ手数料とは何ですか?</span>"
+    },
+    {
+      "key": "t30ab5593d8358eab",
+      "english": "<span data-i18n-slot=\"0\">What to Check Before You Trade Gold CFDs in the UAE</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UAEで金CFDを取引する前に確認すべきこと</span>"
+    },
+    {
+      "key": "te09c24cec186964a",
+      "english": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">Confirm the broker is authorised to offer commodity CFDs specifically</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">ブローカーが特に商品 CFD を提供する権限を持っていることを確認します</span>"
+    },
+    {
+      "key": "tc53fee1afefb8af2",
+      "english": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">Look for negative balance protection on retail accounts</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">個人口座のマイナス残高保護を探す</span>"
+    },
+    {
+      "key": "te43fd22af516db2c",
+      "english": "<span data-i18n-slot=\"0\">Physical gold only makes you money when prices go up. Gold CFDs work in both directions. If you think gold is going to pull back after the January 2026 highs, you can short XAU/USD and profit from the decline. This flexibility is particularly valuable in a volatile year where gold has shown 20%+ swings in both directions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">現物の金で利益が得られるのは、価格が上昇するときだけです。金CFDは両方向で取引できます。2026年一月の高値後に金が反落すると考える場合、XAU/USDを売り、その下落から利益を得ることができます。金が上下両方向に20%超の値動きを見せた変動の大きい年には、この柔軟性が特に重要です。</span>"
+    },
+    {
+      "key": "t2a082b52e3605776",
+      "english": "<span data-i18n-slot=\"0\">You do not need large sums of capital to get started with gold CFDs. Because of leverage, even a modest initial deposit gives you meaningful market exposure. This makes gold CFDs accessible to a much wider range of UAE investors compared to buying physical gold bars or coins.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金CFDを始めるのに多額の資本は必要ありません。レバレッジのおかげで、少額の初回入金でも、有意義な市場エクスポージャーが得られます。これにより、現物の金の延べ棒やコインを購入する場合と比較して、はるかに幅広いUAEの投資家が金CFDにアクセスできるようになります。</span>"
+    },
+    {
+      "key": "t3a05a79f9bd67acd",
+      "english": "<span data-i18n-slot=\"0\">Use Leverage to Manage Your Exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジを活用して露出を管理する</span>"
+    },
+    {
+      "key": "td7fff469498fa79d",
+      "english": "<span data-i18n-slot=\"0\">Leverage gives you the ability to size positions relative to your risk appetite rather than your total account balance. Used responsibly with proper stop-losses, leverage lets you participate meaningfully in gold’s price movements without tying up large amounts of capital in a single trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジを利用すると、口座残高の合計ではなく、リスク選好度に応じてポジションを調整できます。レバレッジを適切なストップロスとともに責任を持って使用すると、一回の取引で多額の資金を使うことなく、金の価格変動に有意義に参加できます。</span>"
+    },
+    {
+      "key": "te46cdf165359ae00",
+      "english": "<span data-i18n-slot=\"0\">Gold and the US dollar have a well-established inverse relationship. When the dollar strengthens, gold typically falls because it becomes more expensive for holders of other currencies. When the dollar weakens, gold tends to rise. In 2026, dollar weakness driven by Fed rate cut expectations has been one of the primary tailwinds for gold’s strong performance.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金と米ドルには逆相関関係が確立されています。ドルが上昇すると、他の通貨の保有者にとって金の価格が高くなるため、通常、金は下落します。ドルが安くなると、金は上昇する傾向があります。 2026 年には、FRB の利下げ期待によるドル安が金の好調なパフォーマンスに対する主な追い風の 一 つとなっています。</span>"
+    },
+    {
+      "key": "ta1427ce818695196",
+      "english": "<span data-i18n-slot=\"0\">Central Bank Gold Buying</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">中央銀行の金購入</span>"
+    },
+    {
+      "key": "tbd3d95cc625076e0",
+      "english": "<span data-i18n-slot=\"0\">Central banks globally purchased a record 1,237 tonnes of gold in 2025, the third consecutive year above 1,000 tonnes. In Q1 2026 alone, central banks and official institutions recorded estimated net purchases of 244 tonnes, up 17% quarter on quarter. Goldman Sachs expects central bank buying to average 60 tonnes per month through the second half of 2026. Saudi Arabia and the UAE are reportedly exploring significant gold reserve allocations for the first time. This structural demand is one of the strongest long-term supports for gold prices.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">世界の中央銀行は2025年に過去最高の1,237トンの金を購入し、三年連続で1,000トンを超えました。2026年第1四半期だけで、中央銀行と公的機関の推定純購入量は244トンとなり、前四半期比17%増加しました。ゴールドマン・サックスは、2026年下半期まで中央銀行の購入量が月平均60トンになると予想しています。サウジアラビアとUAEは初めて大規模な金準備の配分を検討していると報じられています。この構造的需要は、金価格にとって最も強力な長期の支援要因の一つです。</span>"
+    },
+    {
+      "key": "t52f165fda9443a6f",
+      "english": "<span data-i18n-slot=\"0\">The Fed’s interest rate decisions are among the most closely watched events for gold traders. When rates fall, the opportunity cost of holding gold decreases, making it more attractive relative to yield-bearing assets like bonds. Goldman Sachs estimates that every 50 basis points of Fed easing adds approximately $120 per ounce of upside pressure to gold. With markets currently pricing in further cuts in H2 2026, this remains a key driver to monitor.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">FRBの金利決定は、金のトレーダーが最も注目するイベントの一つです。金利が下がると金の保有に伴う機会費用が低下し、債券などの利息を生む資産に対する金の魅力が高まります。ゴールドマン・サックスは、FRBの50ベーシスポイントの緩和ごとに、金にオンス当たり約$120の上昇圧力が加わると推計しています。市場は現在2026年下半期（H2）の追加利下げを織り込んでおり、引き続き注目すべき重要な要因です。</span>"
+    },
+    {
+      "key": "t42c4916476d6b002",
+      "english": "<span data-i18n-slot=\"0\">Geopolitical Events and Safe-Haven Demand</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">地政学的な出来事と安全な避難所の需要</span>"
+    },
+    {
+      "key": "tcee4a5a7d6bc4f6b",
+      "english": "<span data-i18n-slot=\"0\">Gold is a global safe-haven asset. When geopolitical tensions rise, causing conflicts, trade wars, sanctions, or political instability, investors move capital into gold as a store of value. This safe-haven premium has been a consistent feature of the gold market since 2022 and remains active in 2026 given ongoing global uncertainties.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金は世界的な安全資産です。地政学的緊張が高まり、紛争、貿易戦争、制裁、政情不安が生じると、投資家は価値の保存手段として資本を金に移します。この安全な避難先プレミアムは、2022 年以来金市場の一貫した特徴であり、世界的な不確実性が継続していることを考慮すると、2026 年も引き続き活発です。</span>"
+    },
+    {
+      "key": "tb3aea6534a2d1813",
+      "english": "<span data-i18n-slot=\"0\">Gold has historically been used as an inflation hedge. When CPI or PCE data comes in higher than expected, gold often rallies as investors seek protection against the erosion of purchasing power. US inflation data releases are major market-moving events for XAU/USD, and UAE traders should have these scheduled on their economic calendars.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金は歴史的にインフレヘッジとして使用されてきました。 CPIやPCEデータが予想を上回ると、投資家が購買力の浸食に対する保護を求めるため、金は上昇することがよくあります。米国のインフレデータの発表は、XAU/USD にとって市場を動かす主要なイベントであり、UAE のトレーダーは経済カレンダーにこれらのデータをスケジュールしておく必要があります。</span>"
+    },
+    {
+      "key": "t604c69b842acdeec",
+      "english": "<span data-i18n-slot=\"0\">Leverage amplifies both your profits and your losses. A 1% adverse move on a 100:1 leveraged gold position wipes out your entire margin. This is why position sizing and stop losses are not optional; they are the foundation of responsible CFD trading. Never risk more on a single trade than you can afford to lose.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジは利益と損失の両方を増幅させます。 100:1 のレバレッジをかけた金のポジションで 1% の不利な動きをすると、証拠金全体が消えてしまいます。これが、ポジションサイジングとストップロスがオプションではない理由です。これらは責任あるCFD取引の基礎です。 一 回の取引で損失の許容範囲を超えるリスクを負わないようにしてください。</span>"
+    },
+    {
+      "key": "tbf8352f76ddb73b5",
+      "english": "<span data-i18n-slot=\"0\">Gold’s 2026 performance has been extraordinary but volatile. The metal hit $5,595 in January, then corrected 20% following hawkish Fed Chair nomination news before rebounding above $5,200 by late February. If your stop-loss is not in place during moves like these, a single trade can cause disproportionate damage to your account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2026年の金の値動きは並外れていますが、変動も大きいものです。一月に$5,595に達した後、タカ派のFRB議長候補の指名に関するニュースを受けて20%調整し、二月下旬には$5,200を超える水準まで反発しました。このような動きの際にストップロスを設定していないと、一回の取引で口座に不釣り合いな損害が生じる可能性があります。</span>"
+    },
+    {
+      "key": "t513894461d23bac8",
+      "english": "<span data-i18n-slot=\"0\">There is no single strategy that works for every trader. The right approach depends on your time availability, risk tolerance, and how you prefer to analyze the market. Here are four approaches suited to different styles:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">すべてのトレーダーに有効な単一の戦略はありません。適切なアプローチは、時間の空き時間、リスク許容度、市場をどのように分析したいかによって異なります。さまざまなスタイルに適した 四 つのアプローチを次に示します。</span>"
+    },
+    {
+      "key": "tbeaccf42b878053c",
+      "english": "<span data-i18n-slot=\"0\">Gold has been in a structural bull market since 2022. Trend following means identifying the direction of the dominant trend and trading in line with it. On higher timeframes (daily, weekly), the trend remains broadly upward. Trend followers use tools like moving averages, trendlines, and higher highs/higher lows to identify entry points on pullbacks within the broader trend.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金は 2022 年以来、構造的な強気市場にあります。トレンドフォローとは、支配的なトレンドの方向を特定し、それに沿って取引することを意味します。より長い時間枠 (日次、週次) では、トレンドは引き続き全体的に上昇傾向にあります。トレンドフォロワーは、移動平均、トレンドライン、高値切り上げ/安値切り上げなどのツールを使用して、より広範なトレンド内での戻りのエントリーポイントを特定します。</span>"
+    },
+    {
+      "key": "tc054b63b7f216405",
+      "english": "<span data-i18n-slot=\"0\">In periods of consolidation, like gold’s sideways movement in the $4,800–$5,200 zone during Q1 2026, range trading can be effective. You identify key support levels where price has bounced historically and key resistance levels where it has stalled, then trade between them. Range trades tend to have tighter profit targets and require discipline to exit if the range breaks.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2026 年第 1 四半期に金が 4,800 ドルから 5,200 ドルのゾーンで横ばいに推移したような、値固めの時期には、レンジ取引が効果的となる可能性があります。価格が歴史的に反発した主要なサポートレベルと失速した主要なレジスタンスレベルを特定し、それらの間で取引します。レンジ取引では利益目標が厳しくなる傾向があり、レンジを割った場合に手仕舞いする規律が必要です。</span>"
+    },
+    {
+      "key": "t3a85b04a7982e740",
+      "english": "<span data-i18n-slot=\"0\">Gold reacts sharply to high-impact news events: US CPI data, Fed rate decisions, non-farm payrolls, and geopolitical developments. News traders position themselves ahead of or immediately after these releases to capitalize on the resulting volatility. This is a high-risk, high-reward strategy that requires fast execution and tight risk controls.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金は、米国のCPIデータ、FRBの金利決定、非農業部門の雇用者数、地政学的展開など、影響の大きいニュースイベントに鋭く反応します。ニューストレーダーは、結果として生じるボラティリティを利用するために、これらのリリースの前または直後に自分自身を配置します。これはハイリスク、ハイリターンの戦略であり、迅速な実行と厳格なリスク管理が必要です。</span>"
+    },
+    {
+      "key": "t11aae1c582483fad",
+      "english": "<span data-i18n-slot=\"0\">Step 6: Set Your Stop-Loss and Take-Profit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ステップ 6: ストップロスとテイクプロフィットを設定する</span>"
+    },
+    {
+      "key": "tae009b0a066a79a4",
+      "english": "<span data-i18n-slot=\"0\">Never open a gold CFD trade without a stop-loss. Decide in advance how much you are willing to lose on the trade, set your stop at that level, and do not move it in the wrong direction once the trade is live. Your take-profit level should reflect a realistic target based on your analysis, not wishful thinking.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスなしで金CFD取引を開かないでください。取引でどれくらいの損失を許容できるかを事前に決め、そのレベルにストップを設定し、取引が始まったら間違った方向に動かさないようにしてください。テイクプロフィットレベルは、希望的観測ではなく、分析に基づいた現実的な目標を反映する必要があります。</span>"
+    },
+    {
+      "key": "t7fedb3bb07d343e7",
+      "english": "<span data-i18n-slot=\"0\">UpForex Financial Consultation LLC is licensed and regulated by the UAE Securities and Commodities Authority (SCA) under license No. 20200000350. UP Global Markets Ltd. is additionally regulated by the Financial Services Commission (FSC) of Mauritius under license No. GB25204570. Trading with a regulated broker means your funds are held in segregated accounts, and your trades operate within a legally accountable framework.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex Financial Consultation LLCは、ライセンス番号20200000350に基づきUAE証券商品庁（SCA）の認可と規制を受けています。UP Global Markets Ltd.も、ライセンス番号GB25204570に基づきモーリシャス金融サービス委員会（FSC）の規制を受けています。規制対象ブローカーとの取引では、資金が分別口座で保管され、法的責任のある枠組みの中で取引が行われます。</span>"
+    }
+  ]
+}

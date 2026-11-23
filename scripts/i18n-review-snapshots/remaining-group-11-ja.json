@@ -1,0 +1,294 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t54a3f7a12d9d2205",
+      "english": "otc-trading-in-uae",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#imageAltTag",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "アラブ首長国連邦のOTC取引"
+    },
+    {
+      "key": "t5027af2a98a6e89e",
+      "english": "OTC Trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#tag",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "店頭取引"
+    },
+    {
+      "key": "tcc0074eadc296b1e",
+      "english": "OTC TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#upperTag",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "店頭取引"
+    },
+    {
+      "key": "t8bd3ea69443a5baf",
+      "english": "CFD Index Trading in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#imageAltTag",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "UAEでのCFDインデックス取引"
+    },
+    {
+      "key": "t03c26a210c60b519",
+      "english": "New to forex trading in Dubai? Learn the legal rules, trading process, and beginner basics in simple terms with expert guidance from Upforex. Contact us today.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#description",
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#descriptionSnippet",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "ドバイでの外国為替取引は初めてですか? Upforex からの専門家の指導を受けて、法的ルール、取引プロセス、初心者の基本を簡単に学びます。今すぐご連絡ください。"
+    },
+    {
+      "key": "tfa32fe9c659be666",
+      "english": "trusted forex brokers",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#tag",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "信頼できる外国為替ブローカー"
+    },
+    {
+      "key": "tfe95c0fc4fdcf606",
+      "english": "TRUSTED FOREX BROKERS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#upperTag",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "信頼できる外国為替ブローカー"
+    },
+    {
+      "key": "tc2b72cfb62f2de17",
+      "english": "gold trading uae",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#tag",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "金取引アラブ首長国連邦"
+    },
+    {
+      "key": "tdc6208bb3eec5ed7",
+      "english": "GOLD TRADING UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#upperTag",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "金取引アラブ首長国連邦"
+    },
+    {
+      "key": "t255dc2d6c03c44d0",
+      "english": "Trusted Forex Brokers in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#imageAltTag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "UAEの信頼できる外国為替ブローカー"
+    },
+    {
+      "key": "t7b919807a5fcf775",
+      "english": "trusted forex broker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#tag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "信頼できる外国為替ブローカー"
+    },
+    {
+      "key": "tb17ec8c7483cffb5",
+      "english": "TRUSTED FOREX BROKER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#upperTag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "信頼できる外国為替ブローカー"
+    },
+    {
+      "key": "t6dafd4ce33d00628",
+      "english": "regulated brokers",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#tag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "規制されたブローカー"
+    },
+    {
+      "key": "t934f664e979bf7a8",
+      "english": "REGULATED BROKERS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#upperTag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "規制されたブローカー"
+    },
+    {
+      "key": "t9aed486d58a0e39f",
+      "english": "regulated forex brokers uae",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#tag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "規制された外国為替ブローカー アラブ首長国連邦"
+    },
+    {
+      "key": "t92ff3cadc85a901f",
+      "english": "REGULATED FOREX BROKERS UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#upperTag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "アラブ首長国連邦の規制された外国為替ブローカー"
+    },
+    {
+      "key": "tebd631b31205d7d5",
+      "english": "otc trading​",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#tag",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "店頭取引"
+    },
+    {
+      "key": "t05859e336156eed5",
+      "english": "OTC TRADING​",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#upperTag",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "店頭取引"
+    },
+    {
+      "key": "t4d34718d6fa1e03d",
+      "english": "Learn how to trade oil online with tips, strategies, and best practices. Explore crude oil trade, market analysis, and smart risk management. Upforex!",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices#description",
+        "CMS:blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices#descriptionSnippet",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices"
+      ],
+      "translation": "ヒント、戦略、ベストプラクティスを通じて、オンラインで石油を取引する方法を学びましょう。原油取引、市場分析、賢明なリスク管理を探ってください。Upforex！"
+    },
+    {
+      "key": "t45764ed1db90725f",
+      "english": "Learn how to trade gold online with strategies, and best practices. Trade gold confidently and explore precious metals markets effectively. Upforex!",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#description",
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#descriptionSnippet",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights"
+      ],
+      "translation": "戦略とベストプラクティスを通じて、オンラインで金を取引する方法を学びましょう。自信を持って金を取引し、貴金属市場を効果的に探ってください。Upforex！"
+    },
+    {
+      "key": "t5b4374ec834bfed4",
+      "english": "What is Spread in Forex? Everything You Need to Know",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#title",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "FXにおけるスプレッドとは何ですか?知っておくべきことすべて"
+    },
+    {
+      "key": "t62c42957c119ffd5",
+      "english": "What is Spread in Forex? A Beginner-Friendly Guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#metaTitle",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "FXにおけるスプレッドとは何ですか?初心者向けガイド"
+    },
+    {
+      "key": "t599f59cf3b915a75",
+      "english": "SPREAD IN FOREX",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#upperTag",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "外国為替でのスプレッド"
+    },
+    {
+      "key": "t8b5b6e02d8f725ba",
+      "english": "1 Hour Forex Strategy: A Simple Guide for Traders",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#title",
+        "SSR:/blogs",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "1時間の外国為替戦略: トレーダーのためのシンプルなガイド"
+    },
+    {
+      "key": "t1f71766ba0e40497",
+      "english": "Mastering the 1 Hour Forex Strategy: Step-by-Step Guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#metaTitle",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "1時間の外国為替戦略をマスターする: ステップバイステップガイド"
+    },
+    {
+      "key": "tfea19e25b78baa87",
+      "english": "Learn the 1 hour forex strategy with simple steps. Discover how to trade smarter, manage risks, and find clear entry and exit points effectively.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#description",
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#descriptionSnippet",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "簡単な手順で 1 時間の外国為替戦略を学びましょう。より賢く取引し、リスクを管理し、明確なエントリーポイントとエグジットポイントを効果的に見つける方法を発見します。"
+    },
+    {
+      "key": "t67f5d1bc1da0ffbc",
+      "english": "5 Key Differences Between Forex Demo and Real Account",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#title",
+        "SSR:/blogs",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "外国為替デモ口座とリアル口座の 5 つの主な違い"
+    },
+    {
+      "key": "tf66af64aea7fc53e",
+      "english": "Discover the differences between forex demo and real account. Learn how emotions, costs, and risks change when moving from practice to live trading.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#description",
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#descriptionSnippet",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "外国為替デモ口座と実際の口座の違いを発見してください。練習からライブ取引に移行する際に、感情、コスト、リスクがどのように変化するかを学びましょう。"
+    }
+  ]
+}

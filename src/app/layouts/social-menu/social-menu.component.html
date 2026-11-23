@@ -9,24 +9,24 @@
     <div class="footer-col footer-logo-col">
       <img
         loading="lazy"
-        src="../../../assets/images/updated-logos/logo-1.webp"
+        src="assets/images/optimized/logo-1.7dc03e491ef77d53.webp"
         width="150"
-        alt="upforex logo"
+        [attr.alt]="'upforex logo' | localize"
       />
     <div class="icon-bar d-flex flex-row gap-3 tw-mt-4">
-        <a href="https://www.facebook.com/UpforexGlobal" target="_blank" rel="noopener noreferrer" class="social-badge sb-facebook" aria-label="Facebook">
+        <a href="https://www.facebook.com/UpforexGlobal" target="_blank" rel="noopener noreferrer" class="social-badge sb-facebook" [attr.aria-label]="'Facebook' | localize">
             <i class="fa-brands fa-facebook-f"></i>
         </a>
     
-        <a href="https://www.instagram.com/upforexglobal/" target="_blank" rel="noopener noreferrer" class="social-badge sb-instagram" aria-label="Instagram">
+        <a href="https://www.instagram.com/upforexglobal/" target="_blank" rel="noopener noreferrer" class="social-badge sb-instagram" [attr.aria-label]="'Instagram' | localize">
             <i class="fa-brands fa-instagram"></i>
         </a>
     
-        <a href="https://www.linkedin.com/company/upforex-ltd/" target="_blank" rel="noopener noreferrer" class="social-badge sb-linkedin" aria-label="LinkedIn">
+        <a href="https://www.linkedin.com/company/upforex-ltd/" target="_blank" rel="noopener noreferrer" class="social-badge sb-linkedin" [attr.aria-label]="'LinkedIn' | localize">
             <i class="fa-brands fa-linkedin-in"></i>
         </a>
     
-        <a href="https://www.tiktok.com/@upforex.global" target="_blank" rel="noopener noreferrer" class="social-badge sb-tiktok" aria-label="TikTok">
+        <a href="https://www.tiktok.com/@upforex.global" target="_blank" rel="noopener noreferrer" class="social-badge sb-tiktok" [attr.aria-label]="'TikTok' | localize">
             <i class="fa-brands fa-tiktok"></i>
         </a>
     </div>
@@ -37,7 +37,7 @@
       <h4 class="tw-font-montserrat text-white link-title fs-18">{{ "FOOTER.HOME" | translate }}</h4>
       <div class="py-2 d-flex align-items-center" *ngFor="let items of homeLinks">
         <i class="fa-xl fa-solid fa-angle-right icon"></i>
-        <a [routerLink]="[items.link]" class="text-white text-decoration-none tw-font-montserrat fs-14">{{ items.title | translate }}</a>
+        <a [routerLink]="[items.link]" class="text-white text-decoration-none tw-font-montserrat fs-14">{{ (items.title | translate) | localize }}</a>
       </div>
     </div>
 
@@ -46,50 +46,50 @@
       <h4 class="tw-font-montserrat text-white link-title fs-18">{{ "FOOTER.USEFUL_LINKS" | translate }}</h4>
       <div class="py-2 d-flex align-items-center" *ngFor="let items of usefullLinks">
         <i class="fa-xl fa-solid fa-angle-right icon"></i>
-        <a [routerLink]="[items.link]" class="text-white text-decoration-none tw-font-montserrat fs-14">{{ items.title | translate }}</a>
+        <a [routerLink]="[items.link]" class="text-white text-decoration-none tw-font-montserrat fs-14">{{ (items.title | translate) | localize }}</a>
       </div>
     </div>
 
     <!-- Locations -->
     <div class="footer-col">
-      <h4 class="tw-font-montserrat text-white link-title fs-18">Locations</h4>
+      <h4 class="tw-font-montserrat text-white link-title fs-18">{{ 'Locations' | localize }}</h4>
       <div class="py-2 d-flex align-items-center">
         <i class="fa-xl fa-solid fa-angle-right icon"></i>
-        <a routerLink="/forex-trading-abu-dhabi" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">UAE</a>
+        <a routerLink="/forex-trading-abu-dhabi" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">{{ 'UAE' | localize }}</a>
       </div>
       <div class="py-2 d-flex align-items-center">
         <i class="fa-xl fa-solid fa-angle-right icon"></i>
-        <a routerLink="/forex-trading-south-africa" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">South Africa</a>
+        <a routerLink="/forex-trading-south-africa" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">{{ 'South Africa' | localize }}</a>
       </div>
       <div class="py-2 d-flex align-items-center">
         <i class="fa-xl fa-solid fa-angle-right icon"></i>
-        <a routerLink="/forex-trading-johannesburg" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">Johannesburg</a>
+        <a routerLink="/forex-trading-johannesburg" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">{{ 'Johannesburg' | localize }}</a>
       </div>
       <div class="py-2 d-flex align-items-center">
         <i class="fa-xl fa-solid fa-angle-right icon"></i>
-        <a routerLink="/forex-trading-cape-town" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">Cape Town</a>
+        <a routerLink="/forex-trading-cape-town" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">{{ 'Cape Town' | localize }}</a>
       </div>
       <div class="py-2 d-flex align-items-center">
         <i class="fa-xl fa-solid fa-angle-right icon"></i>
-        <a routerLink="/forex-trading-nairobi" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">Nairobi</a>
+        <a routerLink="/forex-trading-nairobi" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">{{ 'Nairobi' | localize }}</a>
       </div>
       
     </div>
 
     <!-- Locations -->
     <div class="footer-col">
-      <h4 class="tw-font-montserrat text-white link-title fs-18">Locations</h4>
+      <h4 class="tw-font-montserrat text-white link-title fs-18">{{ 'Locations' | localize }}</h4>
       <div class="py-2 d-flex align-items-center">
         <i class="fa-xl fa-solid fa-angle-right icon"></i>
-        <a routerLink="/forex-trading-kuala-lumpur" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">Kuala Lumpur</a>
+        <a routerLink="/forex-trading-kuala-lumpur" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">{{ 'Kuala Lumpur' | localize }}</a>
       </div>
       <div class="py-2 d-flex align-items-center">
         <i class="fa-xl fa-solid fa-angle-right icon"></i>
-        <a routerLink="/forex-trading-manila" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">Manila</a>
+        <a routerLink="/forex-trading-manila" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">{{ 'Manila' | localize }}</a>
       </div>
       <div class="py-2 d-flex align-items-center">
         <i class="fa-xl fa-solid fa-angle-right icon"></i>
-        <a routerLink="/forex-trading-singapore" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">Singapore</a>
+        <a routerLink="/forex-trading-singapore" class="text-white text-decoration-none tw-font-montserrat fs-14 tw-ml-1">{{ 'Singapore' | localize }}</a>
       </div>
     </div>
 
@@ -110,11 +110,11 @@
           <i class="fa-solid fa-star"></i>
           <i class="fa-solid fa-star"></i>
         </div>
-        <span class="review-date">Aug 10, 2026</span>
+        <span class="review-date">{{ 'Aug 10, 2026' | localize }}</span>
       </div>
-      <p class="review-title">Very fantastic services even customer…</p>
-      <p class="review-text">Very fantastic services even customer help get on Sunday.</p>
-      <p class="review-author">Yuvraj singh Kachhawa</p>
+      <p class="review-title">{{ 'Very fantastic services even customer…' | localize }}</p>
+      <p class="review-text">{{ 'Very fantastic services even customer help get on Sunday.' | localize }}</p>
+      <p class="review-author">{{ 'Yuvraj singh Kachhawa' | localize }}</p>
     </div>
     <!-- Review 2 -->
     <div class="review-card">
@@ -126,11 +126,11 @@
           <i class="fa-solid fa-star"></i>
           <i class="fa-solid fa-star"></i>
         </div>
-        <span class="review-date">Aug 10, 2026</span>
+        <span class="review-date">{{ 'Aug 10, 2026' | localize }}</span>
       </div>
-      <p class="review-title">Best Broker used till Date</p>
-      <p class="review-text">This is by far the best broker that I have used for trading… 3 cheers to the Support team.</p>
-      <p class="review-author">Raviraj Singh Tomar</p>
+      <p class="review-title">{{ 'Best Broker used till Date' | localize }}</p>
+      <p class="review-text">{{ 'This is by far the best broker that I have used for trading… 3 cheers to the Support team.' | localize }}</p>
+      <p class="review-author">{{ 'Raviraj Singh Tomar' | localize }}</p>
     </div>
     <!-- Review 3 -->
     <div class="review-card">
@@ -142,19 +142,19 @@
           <i class="fa-solid fa-star"></i>
           <i class="fa-solid fa-star"></i>
         </div>
-        <span class="review-date">Jun 22, 2026</span>
+        <span class="review-date">{{ 'Jun 22, 2026' | localize }}</span>
       </div>
-      <p class="review-title">Very Good and reliable service</p>
-      <p class="review-text">Very Good and reliable service. I get support for my query on Sunday also. Very Fast.</p>
-      <p class="review-author">Umang Suthar</p>
+      <p class="review-title">{{ 'Very Good and reliable service' | localize }}</p>
+      <p class="review-text">{{ 'Very Good and reliable service. I get support for my query on Sunday also. Very Fast.' | localize }}</p>
+      <p class="review-author">{{ 'Umang Suthar' | localize }}</p>
     </div>
   </div>
 
   <!-- Rated line -->
   <div class="trustpilot-rated">
-    <span>Rated <strong>4.7</strong> out of 5 based on</span>
-    <a href="https://www.trustpilot.com/review/upforex.com" target="_blank" rel="noopener">31 reviews</a>
-    <span>on</span>
-    <img src="https://cdn.trustpilot.net/brand-assets/4.3.0/logo-white.svg" alt="Trustpilot" />
+    <span>{{ 'Rated' | localize }} <strong>4.7</strong>  {{ 'out of 5 based on' | localize }}</span>
+    <a href="https://www.trustpilot.com/review/upforex.com" target="_blank" rel="noopener">{{ '31 reviews' | localize }}</a>
+    <span>{{ 'on' | localize }}</span>
+    <img src="https://cdn.trustpilot.net/brand-assets/4.3.0/logo-white.svg" [attr.alt]="'Trustpilot' | localize" />
   </div>
 </div>

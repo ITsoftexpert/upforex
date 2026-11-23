@@ -1,0 +1,34 @@
+{
+  "language": "de",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tc477a7c93ca45213",
+      "english": "Version: {0}",
+      "kind": "text",
+      "sources": [
+        "src/app/components/terms-display/terms-display.component.html"
+      ],
+      "translation": "Fassung: {0}"
+    },
+    {
+      "key": "tc05f1132196737e4",
+      "english": "Effective: {0}",
+      "kind": "text",
+      "sources": [
+        "src/app/components/terms-display/terms-display.component.html"
+      ],
+      "translation": "Gültig ab: {0}"
+    },
+    {
+      "key": "t6ff6dc552e17130f",
+      "english": "© {0} Upforex. All rights reserved.",
+      "kind": "text",
+      "sources": [
+        "src/app/components/terms-display/terms-display.component.html"
+      ],
+      "translation": "© {0} Upforex. Alle Rechte vorbehalten."
+    }
+  ]
+}

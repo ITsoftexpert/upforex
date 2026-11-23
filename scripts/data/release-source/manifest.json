@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "af81a4657e7a422981c5",
+  "recordedAt": "2026-11-23T08:42:39.580568+00:00",
+  "scope": "Public English audit inputs for reproducible clean-checkout verification. No credentials, results, production DB or paid API.",
+  "files": {
+    "native-content-inventory.json": "b8f2006f86e62738dffe02bc89e007260773de074cdaf9e2f05a8963a7567742",
+    "native-page-coverage.json": "b0ffcf07615f06d33fbac2d57327e0af6b9f6e93e9195b8448d9a84b71650538",
+    "english-blog-api.json": "a3b22b769c8ed4c216cf20390c27ea17bb104c69714770e3a8c4e55a6d1f0543",
+    "i18n-coverage-report.json": "149c32ca341fda884edf752b6cf9e1a5aa898326d990ab9b116c9f6a5d6f1fbf"
+  }
+}

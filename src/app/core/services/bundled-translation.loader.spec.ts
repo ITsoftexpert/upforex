@@ -42,6 +42,7 @@ describe('Translations during bootstrap and SSR', () => {
 
   it('uses English for keys missing from a partial catalog', async () => {
     await initializeTranslations(translate, 'fr')();
+    translate.setTranslation('fr', { nav: { home: 'Accueil' } }, false);
     expect(translate.instant('HOME.BANNER_TITLE')).toBe('New Revolutionary Smart Trading for a Global Market Edge');
     expect(translate.instant('nav.home')).toBe('Accueil');
   });

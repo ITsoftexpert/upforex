@@ -4,6 +4,7 @@ import { Store } from 'src/app/Store/store';
 import { Router } from '@angular/router';
 
 @Component({
+  standalone: false,
   selector: 'app-education-partners',
   templateUrl: './education-partners.component.html',
   styleUrls: ['./education-partners.component.scss'],

@@ -1,0 +1,872 @@
+[
+  {
+    "key": "t017fe18524225ca9",
+    "english": "<span data-i18n-slot=\"0\">Next,</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">open a demo account</span></span><span data-i18n-slot=\"4\"> and observe the EA under live price movement. Demo execution may still differ from live conditions.</span>",
+    "translation": "<span data-i18n-slot=\"0\">بعد ذلك،</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">افتح حسابًا تجريبيًا</span></span><span data-i18n-slot=\"4\"> وراقب EA في ظل حركة الأسعار الفعلية. قد يختلف التنفيذ التجريبي عن ظروف التداول الحقيقي.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t06faa73c0b97772a",
+    "english": "<span data-i18n-slot=\"0\">Beginners should understand order types, position sizing, stop-losses, and leverage first. Readers who are</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">new to forex trading</span></span><span data-i18n-slot=\"4\"> should learn those basics before allowing software to place trades.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يجب على المبتدئين فهم أنواع الأوامر، وحجم المراكز، ووقف الخسائر، والرافعة المالية أولاً. يجب على القراء</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">المبتدئين في تداول العملات الأجنبية</span></span><span data-i18n-slot=\"4\"> أن يتعلموا هذه الأساسيات قبل السماح للبرنامج بإجراء عمليات التداول.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t64053258f9d94d94",
+    "english": "<span data-i18n-slot=\"0\">You should also review the broker’s available</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">account types</span></span><span data-i18n-slot=\"4\">. Spreads, commissions, lot limits, leverage, and available instruments can affect an automated strategy.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يجب عليك أيضًا مراجعة ما يتيحه الوسيط من</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">أنواع الحسابات</span></span><span data-i18n-slot=\"4\">. يمكن أن تؤثر فروق الأسعار والعمولات وحدود اللوت والرافعة المالية والأدوات المتاحة على الإستراتيجية الآلية.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t674a5abd89e03f81",
+    "english": "<span data-i18n-slot=\"0\">Do EAs work on MT4 the same way as MT5?</span>",
+    "translation": "<span data-i18n-slot=\"0\">هل تعمل المستشارون الخبراء (EAs) على MT4 بنفس طريقة MT5؟</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tb66feea3db9e4b17",
+    "english": "<span data-i18n-slot=\"0\">MT4 vs MT5 for Automated Trading</span>",
+    "translation": "<span data-i18n-slot=\"0\">MT4 مقابل MT5 للتداول الآلي</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tda1ab686ac879c40",
+    "english": "<span data-i18n-slot=\"0\">Enable </span><span data-i18n-slot=\"1\">Allow Auto Trading</span><span data-i18n-slot=\"2\"> for the EA, then switch on the platform-wide </span><span data-i18n-slot=\"3\">AutoTrading</span><span data-i18n-slot=\"4\"> button. Both permissions must allow trading before the EA can submit orders.</span>",
+    "translation": "<span data-i18n-slot=\"0\">قم بتمكين </span><span data-i18n-slot=\"1\">السماح بالتداول التلقائي</span><span data-i18n-slot=\"2\"> للمستشار الخبير (EA)، ثم قم بتشغيل زر </span><span data-i18n-slot=\"3\">التداول التلقائي</span><span data-i18n-slot=\"4\"> على مستوى المنصة. يجب أن يسمح كلا الإذنين بالتداول قبل أن يتمكن المستشار الخبير من إرسال الأوامر.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t30e355f48c71fa78",
+    "english": "<span data-i18n-slot=\"0\">Practical Guidance for New Traders</span>",
+    "translation": "<span data-i18n-slot=\"0\">إرشادات عملية للمتداولين الجدد</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t70828793999e670f",
+    "english": "<span data-i18n-slot=\"0\">- Stop-Loss Orders: Automatically exit a position at a set loss limit.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">- Position Sizing: Begin small and scale up as you gain market experience.</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span></span><span data-i18n-slot=\"6\">- Diversification: Balance your portfolio by investing in various instruments, not just gold.</span>",
+    "translation": "<span data-i18n-slot=\"0\">- أوامر إيقاف الخسارة: الخروج تلقائيًا من المركز عند حد خسارة محدد.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">- تحديد حجم المركز: ابدأ صغيرًا وتوسع مع اكتسابك خبرة في السوق.</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span></span><span data-i18n-slot=\"6\">- التنويع: موازنة محفظتك الاستثمارية من خلال الاستثمار في أدوات مختلفة، وليس الذهب فقط.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t739362fac20be930",
+    "english": "<span data-i18n-slot=\"0\">What to Look For</span>",
+    "translation": "<span data-i18n-slot=\"0\">ما الذي تبحث عنه</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t794c90fc4fe4728a",
+    "english": "<span data-i18n-slot=\"0\">Two Core Approaches</span>",
+    "translation": "<span data-i18n-slot=\"0\">منهجان أساسيان</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t8693c26dd4aa2c1f",
+    "english": "<span data-i18n-slot=\"0\">Learning Market Analysis</span>",
+    "translation": "<span data-i18n-slot=\"0\">تعلم تحليل السوق</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tf3e2fa9c9ddc021e",
+    "english": "<span data-i18n-slot=\"0\">Staying Updated with Global Developments</span>",
+    "translation": "<span data-i18n-slot=\"0\">البقاء على اطلاع دائم بالتطورات العالمية</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t44359a358f4433ff",
+    "english": "<span data-i18n-slot=\"0\">Drawdown measures a decline from a previous account or strategy peak. Margin call and stop-out are margin mechanisms triggered when account margin levels reach specified thresholds. UpForex currently publishes</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Margin Call and Stop-Out levels</span></span><span data-i18n-slot=\"4\"> of 50% and 30%, respectively. Those percentages are not drawdown percentages.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يقيس التراجع الانخفاض عن ذروة سابقة للحساب أو الإستراتيجية. نداء الهامش والإغلاق الإجباري هما آليات هامش يتم تشغيلها عندما تصل مستويات هامش الحساب إلى حدود محددة. تنشر UpForex حاليًا</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">مستويات نداء الهامش والإغلاق الإجباري</span></span><span data-i18n-slot=\"4\"> بنسبة 50% و30% على التوالي. هذه النسب ليست نسب التراجع.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t7feeca65606e5587",
+    "english": "<span data-i18n-slot=\"0\">Relative to the earlier $10,000 peak, this represents an 8% equity drawdown.</span>",
+    "translation": "<span data-i18n-slot=\"0\">بالنسبة إلى الذروة السابقة البالغة 10,000 دولار أمريكي، يمثل هذا تراجعًا في صافي قيمة الحساب بنسبة 8%.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tb86ff3e673279db8",
+    "english": "<span data-i18n-slot=\"0\">If the same account has a $9,500 balance and an open position currently showing a $300 loss, account equity would be approximately $9,200 before considering any other applicable account adjustments.</span>",
+    "translation": "<span data-i18n-slot=\"0\">إذا كان رصيد الحساب نفسه 9,500 دولار أمريكي وكان لديه مركز مفتوح يُظهر حاليًا خسارة قدرها 300 دولار أمريكي، فإن صافي قيمة الحساب سيكون نحو 9,200 دولار أمريكي قبل احتساب أي تعديلات أخرى واجبة التطبيق على الحساب.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tbf3e58a852023980",
+    "english": "<span data-i18n-slot=\"0\">Suppose a hypothetical strategy grows from $10,000 to $12,000, later falls to $10,200 and then recovers.</span>",
+    "translation": "<span data-i18n-slot=\"0\">لنفترض أن الإستراتيجية الافتراضية زادت من 10,000 دولار إلى 12,000 دولار، ثم انخفضت لاحقًا إلى 10,200 دولار ثم استعادت عافيتها.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tc66c06b2d4bedad4",
+    "english": "<span data-i18n-slot=\"0\">Current account equity: $17,000</span>",
+    "translation": "<span data-i18n-slot=\"0\">صافي قيمة الحساب الحالية: 17,000 دولار</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tf273f79fb99d4cbf",
+    "english": "<span data-i18n-slot=\"0\">Drawdown From $10,000 Peak</span>",
+    "translation": "<span data-i18n-slot=\"0\">التراجع عن الذروة البالغة 10,000 دولار</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tfa0c2b1efbc52380",
+    "english": "<span data-i18n-slot=\"0\">Decline: $3,000</span>",
+    "translation": "<span data-i18n-slot=\"0\">الانخفاض: 3,000 دولار</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t1c41898c898cb3f2",
+    "english": "<span data-i18n-slot=\"0\">If you are still building your forex knowledge, continue with the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">beginner's guide to forex trading</span></span><span data-i18n-slot=\"4\"> or read</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">how much money is required to start forex trading</span></span><span data-i18n-slot=\"8\"> before moving further.</span>",
+    "translation": "<span data-i18n-slot=\"0\">إذا كنت لا تزال تعمل على بناء معرفتك بالفوركس، فتابع مع</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">دليل المبتدئين لتداول العملات الأجنبية</span></span><span data-i18n-slot=\"4\"> أو اقرأ</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">كم من المال المطلوب لبدء تداول العملات الأجنبية</span></span><span data-i18n-slot=\"8\"> قبل المضي قدمًا.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t2401d4f6c8bf1a80",
+    "english": "<span data-i18n-slot=\"0\">Its published</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UPFOREX account types</span></span><span data-i18n-slot=\"4\"> include:</span>",
+    "translation": "<span data-i18n-slot=\"0\">تشمل</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">أنواع حسابات UPFOREX المنشورة</span></span><span data-i18n-slot=\"4\"> ما يلي:</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t9755cc6e65326a8e",
+    "english": "<span data-i18n-slot=\"0\">Standard:</span><span data-i18n-slot=\"1\"> minimum deposit $100, spreads from 0.1 pips, $0 commission</span>",
+    "translation": "<span data-i18n-slot=\"0\">القياسي:</span><span data-i18n-slot=\"1\"> الحد الأدنى للإيداع 100 دولار أمريكي، فروق الأسعار تبدأ من 0.1 نقطة، وعمولة قدرها 0 دولار أمريكي</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "ta47528352ba89f79",
+    "english": "<span data-i18n-slot=\"0\">Elite-ECN:</span><span data-i18n-slot=\"1\"> minimum deposit $5,000, spreads from 0.1 pips, $0 commission</span>",
+    "translation": "<span data-i18n-slot=\"0\">Elite-ECN:</span><span data-i18n-slot=\"1\"> الحد الأدنى للإيداع 5,000 دولار، فروق الأسعار تبدأ من 0.1 نقطة، وعمولة 0 دولار</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "ta6e23d819a0ebf39",
+    "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">pip</span><span data-i18n-slot=\"2\"> is a standard unit used to describe relatively small changes in a forex price. For many currency pairs, one pip corresponds to the fourth decimal place. The main exception is pairs involving the Japanese yen, such as USD/JPY, where one pip is typically the second decimal place rather than the fourth.</span>",
+    "translation": "<span data-i18n-slot=\"0\">تُعد </span><span data-i18n-slot=\"1\">النقطة</span><span data-i18n-slot=\"2\"> هي وحدة قياسية تستخدم لوصف التغيرات الصغيرة نسبيًا في سعر الفوركس. بالنسبة للعديد من أزواج العملات، تتوافق النقطة الواحدة مع المنزلة العشرية الرابعة. الاستثناء الرئيسي هو الأزواج التي تتضمن الين الياباني، مثل USD/JPY، حيث تكون النقطة الواحدة عادةً هي المنزلة العشرية الثانية بدلاً من الرابعة.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "te6db17727f5a7cb8",
+    "english": "<span data-i18n-slot=\"0\">If you are completely new to the market, start with the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">How to Start Forex Trading for Beginners</span></span><span data-i18n-slot=\"4\"> guide before moving from pair terminology into order types, trading sessions and platform use.</span>",
+    "translation": "<span data-i18n-slot=\"0\">إذا كنت جديدًا تمامًا في السوق، فابدأ بدليل</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">كيفية بدء تداول الفوركس للمبتدئين</span></span><span data-i18n-slot=\"4\"> قبل الانتقال من مصطلحات الأزواج إلى أنواع الأوامر، جلسات التداول واستخدام المنصة.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tf144dce149b97d65",
+    "english": "<span data-i18n-slot=\"0\">Pro-ECN:</span><span data-i18n-slot=\"1\"> minimum deposit $1,000, spreads from 0 pips, $7 commission per round lot on forex and metals</span>",
+    "translation": "<span data-i18n-slot=\"0\">Pro-ECN:</span><span data-i18n-slot=\"1\"> الحد الأدنى للإيداع 1,000 دولار أمريكي، فروق الأسعار تبدأ من 0 نقطة، وعمولة 7 دولارات أمريكية لكل لوت ذهابًا وإيابًا في الفوركس والمعادن</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t18e62363851da9c9",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">FAQs - Forex Trading</span></span>",
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">الأسئلة الشائعة - تداول الفوركس</span></span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t2dc25c4c3fc92f9e",
+    "english": "What makes the Middle East unique in the world of Forex is its blend of global access and local characteristics. Major cities like Dubai, Riyadh, and Doha are already established financial centers with robust infrastructure and regulatory advancements. Yet cultural values and religious principles still shape the way people trade. In order to adhere to Sharia law, several brokers now provide Islamic trading accounts, sometimes referred to as swap-free accounts, which enable Muslim traders to engage in the markets without compromising their moral convictions.",
+    "translation": "ما يجعل منطقة الشرق الأوسط فريدة من نوعها في عالم الفوركس هو مزيجها من الوصول العالمي والخصائص المحلية. إن المدن الكبرى مثل دبي والرياض والدوحة هي بالفعل مراكز مالية راسخة تتمتع ببنية تحتية قوية وتطورات تنظيمية. ومع ذلك، لا تزال القيم الثقافية والمبادئ الدينية تشكل الطريقة التي يتداول بها الناس. ومن أجل الالتزام بأحكام الشريعة الإسلامية، يقدم العديد من الوسطاء الآن حسابات تداول إسلامية، يشار إليها أحيانًا باسم الحسابات الخالية من فوائد المبادلة، والتي تمكن المتداولين المسلمين من الانخراط في الأسواق دون المساس بقناعاتهم الأخلاقية.",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t316914cd749fc3ef",
+    "english": "<span data-i18n-slot=\"0\">The Forex landscape in the UAE has been buzzing with activity. In 2024, the SCA introduced updated licensing frameworks to better regulate fintech platforms offering leveraged products like </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">CFDs</span></span><span data-i18n-slot=\"3\"> and Forex. This move is part of the UAE’s wider mission to build a secure, transparent, and competitive financial sector aligned with global standards.</span>",
+    "translation": "<span data-i18n-slot=\"0\">كان مشهد الفوركس في دولة الإمارات العربية المتحدة مليئًا بالنشاط. في عام 2024، قدمت هيئة الأوراق المالية والسلع (SCA) أطر ترخيص محدثة لتحسين تنظيم منصات التكنولوجيا المالية التي تقدم منتجات ذات رافعة مالية مثل </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">العقود مقابل الفروقات</span></span><span data-i18n-slot=\"3\"> والفوركس. وتعد هذه الخطوة جزءًا من مهمة دولة الإمارات العربية المتحدة الأوسع لبناء قطاع مالي آمن وشفاف وتنافسي يتماشى مع المعايير العالمية.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t92097ab81b3e3d26",
+    "english": "<span data-i18n-slot=\"0\">The rise of Islamic or Swap-Free accounts has made it easier for Muslim traders to participate in Forex markets without compromising religious beliefs. These accounts remove interest (riba) from overnight positions, making trading more culturally acceptable and ethically aligned.</span>",
+    "translation": "<span data-i18n-slot=\"0\">لقد سهّل ظهور الحسابات الإسلامية أو الحسابات الخالية من فوائد المبادلة على المتداولين المسلمين المشاركة في أسواق الفوركس دون المساس بمعتقداتهم الدينية. تعمل هذه الحسابات على إزالة الفائدة (الربا) من الصفقات الليلية، مما يجعل التداول أكثر قبولًا ثقافيًا ومتوافقًا أخلاقيًا.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t967da4d9ce281e71",
+    "english": "<span data-i18n-slot=\"0\">Is forex trading Legal in the UAE?</span>",
+    "translation": "<span data-i18n-slot=\"0\">هل تداول العملات الأجنبية قانوني في دولة الإمارات العربية المتحدة؟</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t9d35531a03295254",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">A Perfect Storm of Growth Drivers</span></span>",
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">تضافر قوي لمحركات النمو</span></span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t9e1073b2a43d06fc",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q: When is the best time to trade Forex in Saudi Arabia?</span></span>",
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">س: ما هو أفضل وقت لتداول الفوركس في المملكة العربية السعودية؟</span></span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t03dce32974be9e99",
+    "english": "<span data-i18n-slot=\"0\">Spread = 2 pips</span>",
+    "translation": "<span data-i18n-slot=\"0\">السبريد = 2 نقطة</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t29dbfbff6e3c3097",
+    "english": "<span data-i18n-slot=\"0\">The spread is the difference between the ask and bid prices. If EUR/USD is illustratively quoted at 1.0848 / 1.0850, the difference is 0.0002, which equals 2 pips for that pair. Spreads can change as liquidity, volatility and market conditions change.</span>",
+    "translation": "<span data-i18n-slot=\"0\">فرق السعر هو الفرق بين سعرَي الطلب والعرض. إذا كان عرض EUR/USD، على سبيل المثال التوضيحي، عند 1.0848 / 1.0850، فإن الفرق يبلغ 0.0002، أي ما يعادل 2 نقطة لهذا الزوج. ويمكن أن تتغير فروق الأسعار مع تغير السيولة والتقلب وظروف السوق.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t575f4852b214aab0",
+    "english": "<span data-i18n-slot=\"0\">A forex </span><span data-i18n-slot=\"1\">quote</span><span data-i18n-slot=\"2\"> shows the current two-sided price for a currency pair. The </span><span data-i18n-slot=\"3\">bid</span><span data-i18n-slot=\"4\"> is the price at which a trader can generally sell the pair, while the </span><span data-i18n-slot=\"5\">ask</span><span data-i18n-slot=\"6\"> is the price at which a trader can generally buy it. The difference between those two prices is the </span><span data-i18n-slot=\"7\">spread</span><span data-i18n-slot=\"8\">.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يُظهر </span><span data-i18n-slot=\"1\">عرض أسعار الفوركس</span><span data-i18n-slot=\"2\"> السعر الحالي بجانبيه لزوج العملات. </span><span data-i18n-slot=\"3\">سعر العرض</span><span data-i18n-slot=\"4\"> هو السعر الذي يمكن للمتداول أن يبيع به الزوج بشكل عام، في حين أن </span><span data-i18n-slot=\"5\">سعر الطلب</span><span data-i18n-slot=\"6\"> هو السعر الذي يمكن للمتداول شراء الزوج به بشكل عام. الفرق بين هذين السعرين هو </span><span data-i18n-slot=\"7\">السبريد</span><span data-i18n-slot=\"8\">.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t8cfcaea27caaa1d6",
+    "english": "<span data-i18n-slot=\"0\">For example, an illustrative EUR/USD quote of </span><span data-i18n-slot=\"1\">1.0848 / 1.0850</span><span data-i18n-slot=\"2\"> shows a bid of 1.0848 and an ask of 1.0850. The difference is 0.0002, or 2 </span><span data-i18n-slot=\"3\">pips</span><span data-i18n-slot=\"4\"> for a pair quoted to four decimal places.</span>",
+    "translation": "<span data-i18n-slot=\"0\">على سبيل المثال، يعرض عرض أسعار توضيحي لزوج EUR/USD بقيمة </span><span data-i18n-slot=\"1\">1.0848 / 1.0850</span><span data-i18n-slot=\"2\"> سعر عرض بقيمة 1.0848 وسعر طلب بقيمة 1.0850. الفرق هو 0.0002، أو 2 </span><span data-i18n-slot=\"3\">نقطة</span><span data-i18n-slot=\"4\"> لزوج يُعرض سعره بأربع منازل عشرية.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t9525bda9b833c235",
+    "english": "<span data-i18n-slot=\"0\">For EUR/USD, that equals 2 pips.</span>",
+    "translation": "<span data-i18n-slot=\"0\">بالنسبة لزوج EUR/USD، فإن ذلك يساوي 2 نقطة.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tadc3e0a95d0f08d5",
+    "english": "<span data-i18n-slot=\"0\">2 pips</span>",
+    "translation": "<span data-i18n-slot=\"0\">2 نقطة</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tf9c462ce5fffc132",
+    "english": "<span data-i18n-slot=\"0\">The pair has moved upward while the spread has remained 2 pips.</span>",
+    "translation": "<span data-i18n-slot=\"0\">تحرك الزوج صعودًا بينما ظل فرق السعر 2 نقطة.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tff8d5e2f2e8c1647",
+    "english": "<span data-i18n-slot=\"0\">that side of the quote has moved by 1 pip.</span>",
+    "translation": "<span data-i18n-slot=\"0\">لقد تحرك هذا الجانب من عرض الأسعار بمقدار 1 نقطة.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t1c043daa8d9aabd8",
+    "english": "<span data-i18n-slot=\"0\">The </span><span data-i18n-slot=\"1\">spread</span><span data-i18n-slot=\"2\"> is the difference between an instrument's bid and ask prices at a particular moment.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يمثل </span><span data-i18n-slot=\"1\">السبريد</span><span data-i18n-slot=\"2\"> الفرق بين سعرَي العرض والطلب للأداة في لحظة معينة.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t2ea3a0b41a0dee46",
+    "english": "<span data-i18n-slot=\"0\">Understanding </span><span data-i18n-slot=\"1\">what is slippage in forex trading</span><span data-i18n-slot=\"2\"> becomes especially important during fast-moving markets, economic announcements, periods of lower liquidity, and situations where available prices change quickly. Traders using MetaTrader 5 (MT5), including those accessing</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">forex trading in Abu Dhabi</span></span><span data-i18n-slot=\"6\">, can encounter the same underlying execution effect.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يصبح فهم </span><span data-i18n-slot=\"1\">ما هو الانزلاق في تداول العملات الأجنبية</span><span data-i18n-slot=\"2\"> مهمًا بشكل خاص خلال الأسواق سريعة الحركة، والإعلانات الاقتصادية، وفترات انخفاض السيولة، والمواقف التي تتغير فيها الأسعار المتاحة بسرعة. يمكن للمتداولين الذين يستخدمون MetaTrader 5 (MT5)، بما في ذلك أولئك الذين يصلون إلى</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">تداول الفوركس في أبوظبي</span></span><span data-i18n-slot=\"6\">، أن يواجهوا نفس تأثير التنفيذ الأساسي.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t4f65195571488869",
+    "english": "<span data-i18n-slot=\"0\">Outcome 2: Negative Slippage</span>",
+    "translation": "<span data-i18n-slot=\"0\">النتيجة 2: الانزلاق السلبي</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t88e65f6bbbed8363",
+    "english": "<span data-i18n-slot=\"0\">The buyer receives a price 4 pips worse than expected, creating negative slippage.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يحصل المشتري على سعر أسوأ بمقدار 4 نقاط من المتوقع، مما يؤدي إلى انزلاق سلبي.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t96ff8894b54b5c6e",
+    "english": "<span data-i18n-slot=\"0\">The trader therefore receives a price 3 pips better than expected.</span>",
+    "translation": "<span data-i18n-slot=\"0\">وبالتالي يحصل المتداول على سعر أفضل بمقدار 3 نقاط من المتوقع.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tc7e03f17520fbdff",
+    "english": "<span data-i18n-slot=\"0\">If the same buy order instead executes at 1.1047, the fill is 3 pips lower than expected. That would represent </span><span data-i18n-slot=\"1\">positive slippage</span><span data-i18n-slot=\"2\">.</span>",
+    "translation": "<span data-i18n-slot=\"0\">إذا تم تنفيذ نفس أمر الشراء بدلاً من ذلك عند 1.1047، فإن التنفيذ يكون أقل بمقدار 3 نقاط من المتوقع. يمثل ذلك </span><span data-i18n-slot=\"1\">انزلاقًا إيجابيًا</span><span data-i18n-slot=\"2\">.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "td47a5dfb2783c9b1",
+    "english": "<span data-i18n-slot=\"0\">The UPFOREX guide to</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex leverage and margin</span></span><span data-i18n-slot=\"4\"> explains how leverage affects exposure and margin requirements.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يشرح دليل UPFOREX حول</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">الرافعة المالية والهامش في الفوركس</span></span><span data-i18n-slot=\"4\"> كيف تؤثر الرافعة المالية على التعرض ومتطلبات الهامش.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "td6df1acebf89114a",
+    "english": "<span data-i18n-slot=\"0\">4 pips higher</span>",
+    "translation": "<span data-i18n-slot=\"0\">أعلى بمقدار 4 نقاط</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t34ff0dc763236fa1",
+    "english": "<span data-i18n-slot=\"0\">Option 1: Buying Physical Gold in the UAE</span>",
+    "translation": "<span data-i18n-slot=\"0\">الخيار 1: شراء الذهب المادي في الإمارات العربية المتحدة</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t59178dbc1872f76e",
+    "english": "<span data-i18n-slot=\"0\">Option 4: Gold Mutual Funds</span>",
+    "translation": "<span data-i18n-slot=\"0\">الخيار 4: صناديق الاستثمار المشترك في الذهب</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t64af7f5b262aae65",
+    "english": "<span data-i18n-slot=\"0\">Unlike physical gold or tokenized platforms, UpForex gold CFDs let you profit whether prices rise or fall. If you expect a short-term correction after the January 2026 highs, you can short XAU/USD. If you believe the J.P. Morgan $6,000 target is in play by Q4, you go long. The market works both ways, and so does UpForex.</span>",
+    "translation": "<span data-i18n-slot=\"0\">على عكس الذهب الفعلي أو منصات الترميز، تتيح لك عقود الفروقات على الذهب لدى UpForex تحقيق الربح سواء ارتفعت الأسعار أو انخفضت. إذا كنت تتوقع تصحيحًا على المدى القصير بعد أعلى مستويات يناير 2026، فيمكنك بيع زوج XAU/USD. إذا كنت تعتقد أن هدف جي بي مورغان البالغ 6,000 دولار قد يتحقق بحلول الربع Q4، فعليك بالشراء. يعمل السوق في كلا الاتجاهين، وكذلك الأمر بالنسبة لـ UpForex.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tab9908c868a75462",
+    "english": "<span data-i18n-slot=\"0\">Are you trying to preserve wealth over a 5–10 year horizon, hedge your existing portfolio, or actively trade price swings? Your goal determines which method makes sense. Long-term preservation points toward physical gold or tokenized platforms. Active trading points toward CFDs. Passive diversification points toward ETFs or mutual funds.</span>",
+    "translation": "<span data-i18n-slot=\"0\">هل تحاول الحفاظ على ثروتك على مدى 5–10 سنوات، أم التحوط لمحفظتك الحالية، أم التداول النشط على تقلبات الأسعار؟ يحدد هدفك الطريقة المناسبة. يشير الحفاظ على الثروة طويل الأجل إلى الذهب المادي أو منصات الترميز. ويشير التداول النشط إلى عقود الفروقات. أما التنويع السلبي فيشير إلى صناديق المؤشرات المتداولة أو صناديق الاستثمار المشترك.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tb38f0a2326aacf73",
+    "english": "<span data-i18n-slot=\"0\">Rule 4: Practise on a Demo Account Before Going Live</span>",
+    "translation": "<span data-i18n-slot=\"0\">القاعدة 4: التدريب على الحساب التجريبي قبل التداول الحقيقي</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "td25a4e24d4e07074",
+    "english": "<span data-i18n-slot=\"0\">Major institutions have significantly upgraded their 2026 price targets. J.P. Morgan forecasts gold to average $6,000 per ounce by Q4 2026, while Goldman Sachs and Deutsche Bank both cite a $5,400–$6,000 range. For UAE investors, that structural demand story makes a compelling case for getting exposure to gold now.</span>",
+    "translation": "<span data-i18n-slot=\"0\">قامت المؤسسات الكبرى برفع أسعارها المستهدفة لعام 2026 بشكل كبير. ويتوقع بنك جيه بي مورجان أن يصل متوسط ​​سعر الذهب إلى 6,000 دولار للأونصة بحلول الربع Q4 من عام 2026، في حين يشير كل من جولدمان ساكس ودويتشه بنك إلى نطاق يتراوح بين 5,400–6,000 دولار. بالنسبة للمستثمرين في دولة الإمارات العربية المتحدة، تشكل قصة الطلب الهيكلي هذه حجة مقنعة للتعرض للذهب الآن.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tdb5799b93a472e05",
+    "english": "<span data-i18n-slot=\"0\">Gold works best as a portfolio stabilizer, not your entire portfolio. Most professional portfolio managers allocate 5–15% of a portfolio to gold. Alongside gold, you might consider</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">index CFDs</span></span><span data-i18n-slot=\"4\">,</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">energy CFDs</span></span><span data-i18n-slot=\"8\">, or</span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">forex trading</span></span><span data-i18n-slot=\"12\"> to build a balanced, multi-asset approach.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يعمل الذهب بشكل أفضل كمثبت للمحفظة، وليس محفظتك بالكامل. يخصص معظم مديري المحافظ المحترفين 5–15% من محفظتهم للذهب. إلى جانب الذهب، قد تفكر في</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">عقود الفروقات على المؤشرات</span></span><span data-i18n-slot=\"4\">،</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">عقود الفروقات الخاصة بالطاقة</span></span><span data-i18n-slot=\"8\">، أو</span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">تداول الفوركس</span></span><span data-i18n-slot=\"12\"> لبناء نهج متوازن ومتعدد الأصول.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "teb1d893a0c34654a",
+    "english": "<span data-i18n-slot=\"0\">For investment purposes, focus on DMCC- or LBMA-recognized bullion rather than jewelry. Large bars (1 oz and above) trade at just 1–2% above spot price, making them the most cost-efficient entry. Smaller bars and coins carry higher premiums of 4–6%, but they offer more flexibility when it comes to selling in portions. Always retain original packaging and certificates; this protects your resale value.</span>",
+    "translation": "<span data-i18n-slot=\"0\">لأغراض الاستثمار، ركّز على السبائك المعترف بها من DMCC أو LBMA بدلاً من المجوهرات. تُتداول السبائك الكبيرة (1 oz فأكثر) بعلاوة لا تتجاوز 1–2% فوق السعر الفوري، مما يجعلها وسيلة الدخول الأكثر كفاءة من حيث التكلفة. وتحمل السبائك الأصغر والعملات المعدنية علاوات أعلى تبلغ 4–6%، لكنها توفر مرونة أكبر عند البيع على أجزاء. احتفظ دائمًا بالتغليف الأصلي والشهادات؛ فهذا يحمي قيمة إعادة البيع.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t09c56f284a4a19da",
+    "english": "<span data-i18n-slot=\"0\">A mini lot contains 10,000 units of the base currency and is normally represented as 0.10 lots on platforms such as MT5. It has one-tenth the position volume of a standard lot. On EUR/USD in a USD-denominated account, its approximate pip value is $1 per pip.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يحتوي اللوت المصغر على 10,000 وحدة من العملة الأساسية ويتم تمثيله عادةً بـ 0.10 لوت على منصات مثل MT5. إنه يحتوي على عُشر حجم المركز للعقد القياسي. بالنسبة لزوج EUR/USD في حساب مقوم بالدولار الأمريكي، تبلغ قيمة النقطة التقريبية 1 دولار لكل نقطة.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t10341f17e3384da7",
+    "english": "<span data-i18n-slot=\"0\">0.01 lot = 1,000 USD</span>",
+    "translation": "<span data-i18n-slot=\"0\">0.01 لوت = 1,000 دولار أمريكي</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t191e3ef1fd7c9c39",
+    "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">micro lot</span><span data-i18n-slot=\"2\"> equals 1,000 units of the base currency.</span>",
+    "translation": "<span data-i18n-slot=\"0\">اللوت </span><span data-i18n-slot=\"1\">الميكرو</span><span data-i18n-slot=\"2\"> يساوي 1,000 وحدة من العملة الأساسية.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t41ba628a1b62eeb2",
+    "english": "<span data-i18n-slot=\"0\">Forex </span><span data-i18n-slot=\"1\">lot size</span><span data-i18n-slot=\"2\"> is the standardized unit used to measure trade volume. A standard lot represents 100,000 units of the base currency, a mini lot 10,000 units, a micro lot 1,000 units, and a nano lot 100 units. Nano-sized trading is not available through every broker or instrument.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يُعد </span><span data-i18n-slot=\"1\">حجم اللوت في الفوركس</span><span data-i18n-slot=\"2\"> هو الوحدة القياسية المستخدمة لقياس حجم التداول. يمثل العقد القياسي 100,000 وحدة من العملة الأساسية، ولوت الميني 10,000 وحدة، ولوت الميكرو 1,000 وحدة، والعقد النانوي 100 وحدة. لا يتوفر التداول بحجم النانو من خلال كل وسيط أو أداة.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t588fb8f85e4680e8",
+    "english": "<span data-i18n-slot=\"0\">A micro lot equals 0.01 standard lots, or 1,000 base-currency units in forex. Smaller nano lots of 100 units exist in some trading environments, but they are not universally available. UPFOREX currently publishes 0.01 as the minimum lot size for its account tiers, so permitted volume should be checked before placing an order.</span>",
+    "translation": "<span data-i18n-slot=\"0\">لوت الميكرو يساوي 0.01 عقد قياسي، أو 1,000 وحدة عملة أساسية في الفوركس. توجد لوتات نانو أصغر حجمًا تتكون من 100 وحدة في بعض بيئات التداول، ولكنها ليست متاحة عالميًا. تنشر UPFOREX حاليًا 0.01 كحد أدنى لحجم اللوت لمستويات حسابها، لذا يجب التحقق من الحجم المسموح به قبل تقديم الطلب.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t81cb9c37cb68614f",
+    "english": "<span data-i18n-slot=\"0\">0.01 lot = 1,000 base-currency units</span>",
+    "translation": "<span data-i18n-slot=\"0\">0.01 لوت = 1,000 وحدة عملة أساسية</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t98aba6a0fdba5938",
+    "english": "<span data-i18n-slot=\"0\">The main forex lot sizes are Standard, Mini and Micro lots, representing 100,000, 10,000 and 1,000 base-currency units respectively.</span>",
+    "translation": "<span data-i18n-slot=\"0\">أحجام عقود الفوركس الرئيسية هي عقود قياسية وميني وميكرو، تمثل 100,000 و10,000 و1,000 وحدة من العملة الأساسية على التوالي.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t9973999ab8fa2024",
+    "english": "<span data-i18n-slot=\"0\">Lot Size = Risk Amount ÷ (Stop-Loss Distance × Pip Value per 1.00 Lot)</span>",
+    "translation": "<span data-i18n-slot=\"0\">حجم اللوت = مبلغ المخاطرة ÷ (مسافة إيقاف الخسارة × قيمة النقطة لكل 1.00 لوت)</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tc46048626feb79e6",
+    "english": "<span data-i18n-slot=\"0\">$1 per pip</span>",
+    "translation": "<span data-i18n-slot=\"0\">1 دولار لكل نقطة</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tfc4c4243a8b43767",
+    "english": "<span data-i18n-slot=\"0\">0.01 lot = 1,000 EUR</span>",
+    "translation": "<span data-i18n-slot=\"0\">0.01 لوت = 1,000 يورو</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t11aae1c582483fad",
+    "english": "<span data-i18n-slot=\"0\">Step 6: Set Your Stop-Loss and Take-Profit</span>",
+    "translation": "<span data-i18n-slot=\"0\">الخطوة 6: قم بتعيين إيقاف الخسارة وجني الأرباح</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t32b539e90d1ec233",
+    "english": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">Check that client funds are held in segregated accounts</span>",
+    "translation": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">تأكد من الاحتفاظ بأموال العميل في حسابات منفصلة</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t52f165fda9443a6f",
+    "english": "<span data-i18n-slot=\"0\">The Fed’s interest rate decisions are among the most closely watched events for gold traders. When rates fall, the opportunity cost of holding gold decreases, making it more attractive relative to yield-bearing assets like bonds. Goldman Sachs estimates that every 50 basis points of Fed easing adds approximately $120 per ounce of upside pressure to gold. With markets currently pricing in further cuts in H2 2026, this remains a key driver to monitor.</span>",
+    "translation": "<span data-i18n-slot=\"0\">تعد قرارات سعر الفائدة التي يتخذها بنك الاحتياطي الفيدرالي من بين الأحداث الأكثر متابعة عن كثب لمتداولي الذهب. وعندما تنخفض أسعار الفائدة، تنخفض تكلفة الفرصة البديلة لحيازة الذهب، مما يجعله أكثر جاذبية مقارنة بالأصول ذات العائد مثل السندات. وتشير تقديرات جولدمان ساكس إلى أن كل 50 نقطة أساس من التيسير الفيدرالي تضيف ما يقرب من 120 دولارًا للأوقية من الضغط الصعودي على الذهب. ومع تسعير الأسواق حاليًا لمزيد من التخفيضات في النصف H2 من عام 2026، يظل هذا محركًا رئيسيًا يجب مراقبته.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t65ccba0343586f5b",
+    "english": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">Verify the broker holds a valid SCA, DFSA, or FSRA license</span>",
+    "translation": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">تحقق من أن الوسيط يحمل ترخيصًا صالحًا من SCA أو DFSA أو FSRA</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t7648ba5dbd75eeed",
+    "english": "<span data-i18n-slot=\"0\">Gold CFD markets run 24 hours a day, five days a week. That means you can trade gold during the London session, the New York session, and the Asian session, all from the UAE. For UAE-based traders, this is particularly useful as the local time zone overlaps well with both the European and early Asian sessions.</span>",
+    "translation": "<span data-i18n-slot=\"0\">تعمل أسواق عقود الفروقات على الذهب على مدار 24 ساعة يوميًا، خمسة أيام في الأسبوع. وهذا يعني أنه يمكنك تداول الذهب خلال جلسة لندن، وجلسة نيويورك، والجلسة الآسيوية، وكلها من الإمارات العربية المتحدة. بالنسبة للمتداولين المقيمين في الإمارات العربية المتحدة، يعد هذا مفيدًا بشكل خاص نظرًا لأن المنطقة الزمنية المحلية تتداخل بشكل جيد مع كل من الجلسات الأوروبية والبداية المبكرة للجلسات الآسيوية.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tb430070730a91c3b",
+    "english": "<span data-i18n-slot=\"0\">24/5 Market Access Across Global Trading Sessions</span>",
+    "translation": "<span data-i18n-slot=\"0\">إمكانية الوصول إلى الأسواق على مدار 24/5 عبر جلسات التداول العالمية</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tbd3d95cc625076e0",
+    "english": "<span data-i18n-slot=\"0\">Central banks globally purchased a record 1,237 tonnes of gold in 2025, the third consecutive year above 1,000 tonnes. In Q1 2026 alone, central banks and official institutions recorded estimated net purchases of 244 tonnes, up 17% quarter on quarter. Goldman Sachs expects central bank buying to average 60 tonnes per month through the second half of 2026. Saudi Arabia and the UAE are reportedly exploring significant gold reserve allocations for the first time. This structural demand is one of the strongest long-term supports for gold prices.</span>",
+    "translation": "<span data-i18n-slot=\"0\">اشترت البنوك المركزية عالميًا رقمًا قياسيًا بلغ 1,237 طنًا من الذهب في عام 2025، وهو العام الثالث على التوالي الذي يتجاوز 1,000 طن. وفي الربع Q1 من عام 2026 وحده، سجلت البنوك المركزية والمؤسسات الرسمية صافي مشتريات تقدر بـ 244 طنًا، بزيادة 17% على أساس ربع سنوي. ويتوقع بنك جولدمان ساكس أن يبلغ متوسط ​​مشتريات البنوك المركزية 60 طنًا شهريًا حتى النصف الثاني من عام 2026. وبحسب ما ورد تستكشف المملكة العربية السعودية والإمارات العربية المتحدة مخصصات كبيرة من احتياطي الذهب لأول مرة. ويعد هذا الطلب الهيكلي أحد أقوى عوامل الدعم طويلة المدى لأسعار الذهب.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tc054b63b7f216405",
+    "english": "<span data-i18n-slot=\"0\">In periods of consolidation, like gold’s sideways movement in the $4,800–$5,200 zone during Q1 2026, range trading can be effective. You identify key support levels where price has bounced historically and key resistance levels where it has stalled, then trade between them. Range trades tend to have tighter profit targets and require discipline to exit if the range breaks.</span>",
+    "translation": "<span data-i18n-slot=\"0\">في فترات التماسك، مثل حركة الذهب الجانبية في منطقة 4,800–5,200 دولار خلال الربع Q1 من عام 2026، يمكن أن يكون التداول في النطاق فعالاً. يمكنك تحديد مستويات الدعم الرئيسية حيث ارتد السعر تاريخيا ومستويات المقاومة الرئيسية حيث توقف، ثم التداول بينهما. تميل صفقات النطاق إلى تحقيق أهداف ربح أقرب وتتطلب الانضباط للخروج في حالة كسر النطاق.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tc505aaa8aa580b08",
+    "english": "<span data-i18n-slot=\"0\">In gold CFD trading, one standard lot typically represents 100 troy ounces of gold. With gold trading above $4,700 per ounce in mid-2026, one lot carries significant notional value, which is where leverage comes in. Most retail traders use mini lots (10 oz) or micro lots (1 oz) to keep position sizes manageable.</span>",
+    "translation": "<span data-i18n-slot=\"0\">في تداول العقود مقابل الفروقات على الذهب، يمثل اللوت القياسي الواحد عادةً 100 أونصة تروي من الذهب. مع تداول الذهب فوق 4,700 دولار للأونصة في منتصف عام 2026، فإن اللوت الواحد يحمل قيمة اسمية كبيرة، وهنا يأتي دور الرافعة المالية. يستخدم معظم المتداولين الأفراد لوتات ميني (10 أونصة) أو لوتات ميكرو (1 أونصة) لإبقاء أحجام المراكز ضمن حدود يمكن التحكم فيها.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "te09c24cec186964a",
+    "english": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">Confirm the broker is authorised to offer commodity CFDs specifically</span>",
+    "translation": "<span data-i18n-slot=\"0\">•</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\">تأكد من أن الوسيط مخول بتقديم عقود الفروقات على السلع على وجه التحديد</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t305074edecc1f383",
+    "english": "Earnings news, mergers and sector updates can move a share price. CFD prices change almost at once through live data.",
+    "translation": "يمكن لأخبار الأرباح وعمليات الدمج وتحديثات القطاع أن تحرك سعر السهم. تتغير أسعار عقود الفروقات بشكل شبه فوري من خلال البيانات المباشرة.",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t38d9bd1aa7d07b14",
+    "english": "<span data-i18n-slot=\"0\">Risk Disclosure:</span> Trading CFDs and leveraged products involves significant risk. Make sure you fully understand the risks before trading. visit <span data-i18n-slot=\"1\">about us</span>",
+    "translation": "<span data-i18n-slot=\"0\">الإفصاح عن المخاطر:</span> ينطوي تداول العقود مقابل الفروقات والمنتجات ذات الرافعة المالية على مخاطر كبيرة. تأكد من فهمك الكامل للمخاطر قبل التداول. قم بزيارة <span data-i18n-slot=\"1\">معلومات عنا</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "t69c0e0dbdad6f0b3",
+    "english": "Stock markets are a core part of the world economy. They are driven by new ideas, business growth and global investment. CFD stock trading in the UAE gives you an online way to follow them. Good platforms are fast, clear and open about pricing.",
+    "translation": "أسواق الأوراق المالية هي جزء أساسي من الاقتصاد العالمي. وهي مدفوعة بالأفكار الجديدة ونمو الأعمال والاستثمار العالمي. يمنحك تداول عقود الفروقات على الأسهم في الإمارات العربية المتحدة طريقة عبر الإنترنت لمتابعتها. المنصات الجيدة سريعة وواضحة وشفافة بشأن التسعير.",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "ta8bcca94a90a7ee0",
+    "english": "<span data-i18n-slot=\"0\">Q3. How do company events affect prices?</span>",
+    "translation": "<span data-i18n-slot=\"0\">السؤال Q3. كيف تؤثر أحداث الشركة على الأسعار؟</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tb20e6825fb9a7e27",
+    "english": "<span data-i18n-slot=\"0\">Q2. Why does liquidity matter?</span>",
+    "translation": "<span data-i18n-slot=\"0\">السؤال Q2. لماذا تعتبر السيولة مهمة؟</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tb5faaea2c285f73a",
+    "english": "Yes. Stock CFDs often sit next to indices, forex and commodities. This lets you see stocks in the context of the wider market.",
+    "translation": "نعم. غالبًا ما توجد عقود الفروقات على الأسهم بجوار المؤشرات والعملات الأجنبية والسلع. يتيح لك هذا رؤية الأسهم في سياق السوق الأوسع.",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tb77d8daca2a6a3de",
+    "english": "New to stock CFDs? Try a free UpForex demo account first. You can practice before you trade with real money.",
+    "translation": "هل أنت جديد في تداول عقود الفروقات على الأسهم؟ جرب حسابًا تجريبيًا مجانيًا على UpForex أولاً. يمكنك التدرب قبل التداول بأموال حقيقية.",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tbb81ec1d482a8c1b",
+    "english": "Platforms show live buy and sell prices and contract details. Prices update all the time. This keeps CFD prices in line with the real market.",
+    "translation": "تعرض المنصات أسعار البيع والشراء المباشرة وتفاصيل العقد. يتم تحديث الأسعار في كل وقت. وهذا يبقي أسعار العقود مقابل الفروقات متوافقة مع السوق الحقيقية.",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tef5d75c9af498763",
+    "english": "Most platforms offer shares from major exchanges in the US, Europe and Asia. The exact list depends on the platform. Check its list of instruments.",
+    "translation": "تقدم معظم المنصات أسهمًا من البورصات الكبرى في الولايات المتحدة وأوروبا وآسيا. تعتمد القائمة الدقيقة على المنصة. تحقق من قائمة الأدوات الخاصة به.",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  },
+  {
+    "key": "tfb53a328384d49a8",
+    "english": "<span data-i18n-slot=\"0\">Q1. Which stock markets can I reach through CFD stock trading in the UAE?</span>",
+    "translation": "<span data-i18n-slot=\"0\">السؤال Q1. ما هي أسواق الأسهم التي يمكنني الوصول إليها من خلال تداول عقود الفروقات على الأسهم في دولة الإمارات العربية المتحدة؟</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Compared complete source and target; preserved source conditions, values and HTML slots. Source marketing and regulatory assertions are not independently certified."
+  }
+]

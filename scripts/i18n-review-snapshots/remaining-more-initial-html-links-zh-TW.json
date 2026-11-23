@@ -1,0 +1,17 @@
+{
+  "language": "zh-TW",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t2ea3a0b41a0dee46",
+      "english": "<span data-i18n-slot=\"0\">Understanding </span><span data-i18n-slot=\"1\">what is slippage in forex trading</span><span data-i18n-slot=\"2\"> becomes especially important during fast-moving markets, economic announcements, periods of lower liquidity, and situations where available prices change quickly. Traders using MetaTrader 5 (MT5), including those accessing</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">forex trading in Abu Dhabi</span></span><span data-i18n-slot=\"6\">, can encounter the same underlying execution effect.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">瞭解</span><span data-i18n-slot=\"1\">什麼是外匯交易中的滑點</span><span data-i18n-slot=\"2\">在快速變化的市場、經濟公告、流動性較低的時期以及可用價格快速變化的情況下尤為重要。使用 MetaTrader 5 (MT5) 的交易者，包括參與</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">阿布扎比外匯交易</span></span><span data-i18n-slot=\"6\">的交易者，都可能遇到同樣的成交執行現象。</span>"
+    }
+  ]
+}

@@ -7,32 +7,29 @@
       id="partnership-links-heading"
       class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-bold md:tw-my-4"
     >
-      UPFOREX Partnership Programs
-    </h1>
+       {{ 'UPFOREX Partnership Programs' | localize }} </h1>
     <p class="tw-text-sm tw-text-gray-200 tw-leading-relaxed">
-      Explore partnership options and learn more about the programs available
-      at UPFOREX.
-    </p>
+       {{ 'Explore partnership options and learn more about the programs available at UPFOREX.' | localize }} </p>
     <ul class="tw-flex tw-flex-wrap tw-gap-4 tw-list-none tw-p-0">
       <li>
         <a
           routerLink="/partnerships/ib-programs"
           class="text-white tw-underline"
-          >Introducing Broker Program</a
+          >{{ 'Introducing Broker Program' | localize }}</a
         >
       </li>
       <li>
         <a
           routerLink="/partnerships/education-partners"
           class="text-white tw-underline"
-          >Education Partners Program</a
+          >{{ 'Education Partners Program' | localize }}</a
         >
       </li>
       <li>
         <a
           routerLink="/partnerships/social-trading"
           class="text-white tw-underline"
-          >Social Trading Program</a
+          >{{ 'Social Trading Program' | localize }}</a
         >
       </li>
     </ul>
@@ -45,25 +42,25 @@
         <p
           class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-bold md:tw-my-4"
         >
-          {{ item.heading }}
+          {{ (item.heading) | localize }}
         </p>
         <p
           class="tw-text-sm !tw-mb-2 tw-text-gray-300 tw-tracking-wide tw-leading-relaxed"
           *ngFor="let headindPrimary of item.headingPrimary"
         >
-          {{ headindPrimary }}
+          {{ (headindPrimary) | localize }}
         </p>
 
         <div *ngFor="let headingSecondary of item.headingSecondary">
           <p
             class="tw-text-base tw-text-gray-300 tw-font-bold !tw-mb-0 tw-tracking-wider tw-leading-relaxed"
           >
-            {{ headingSecondary.heading }}
+            {{ (headingSecondary.heading) | localize }}
           </p>
           <p
             class="tw-text-sm tw-text-gray-200 tw-tracking-wider tw-leading-relaxed"
           >
-            {{ headingSecondary.text }}
+            {{ (headingSecondary.text) | localize }}
           </p>
 
           <div
@@ -79,9 +76,9 @@
               ></i>
               <h5 class="tw-text-gray-200 tw-ml-2 tw-text-base !tw-mb-0">
                 <span class="text-white"
-                  ><b>{{ content.boldText }} </b></span
+                  ><b>{{ (content.boldText) | localize }} </b></span
                 >
-                {{ content.text }}
+                {{ (content.text) | localize }}
               </h5>
             </div>
           </div>
@@ -91,7 +88,7 @@
               routerLink="/contact-us"
               fragment="contact-us"
             >
-              {{ headingSecondary.buttonText }}
+              {{ (headingSecondary.buttonText) | localize }}
             </button>
           </div>
         </div>

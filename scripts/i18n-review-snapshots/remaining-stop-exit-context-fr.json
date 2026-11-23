@@ -1,0 +1,28 @@
+{
+  "language": "fr",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "note": "The unchanged English CMS splits take-profit across two paragraphs. Translate both adjacent fragments together, preserving both original paragraph slots and the complete meaning.",
+  "rows": [
+    {
+      "key": "t01fab2f0f1dde1d4",
+      "english": "<span data-i18n-slot=\"0\">A stop-loss and take-profit are price-based exit instructions attached to an open position or pending order. A stop-loss is placed where the trade idea should be considered invalid. A take-pro</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un stop-loss et un take-profit sont des instructions de sortie fondées sur le prix et rattachées à une position ouverte ou à un ordre en attente. Un stop-loss est placé au niveau auquel l’idée de trading doit être considérée comme invalidée. Un take-profit</span>"
+    },
+    {
+      "key": "tfab800f6ddfc6944",
+      "english": "<span data-i18n-slot=\"0\">fit is placed where the trader plans to close a successful position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">est placé là où le trader prévoit de clôturer une position gagnante.</span>"
+    }
+  ]
+}

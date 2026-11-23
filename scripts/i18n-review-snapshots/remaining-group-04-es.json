@@ -1,0 +1,507 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tb5933b20c1f5f03c",
+      "english": "<span data-i18n-slot=\"0\">Leveraged trading may involve several costs depending on the provider and account type.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El comercio apalancado puede implicar varios costos según el proveedor y el tipo de cuenta.</span>"
+    },
+    {
+      "key": "t03d93d544370292e",
+      "english": "<span data-i18n-slot=\"0\">Trading commissions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comisiones de negociación.</span>"
+    },
+    {
+      "key": "t2158546725d9808d",
+      "english": "<span data-i18n-slot=\"0\">Overnight financing or swap charges.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cargos por financiación o swap a un día.</span>"
+    },
+    {
+      "key": "tf1b60b8760918f01",
+      "english": "<span data-i18n-slot=\"0\">How Can Traders Manage Leverage-Related Risks?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo pueden los operadores gestionar los riesgos relacionados con el apalancamiento?</span>"
+    },
+    {
+      "key": "t6db0e3afe0d0752b",
+      "english": "<span data-i18n-slot=\"0\">Leverage cannot remove market uncertainty, but traders can take practical steps to manage their exposure. Risk management should be part of the trading plan before any position is opened.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El apalancamiento no puede eliminar la incertidumbre del mercado, pero los operadores pueden tomar medidas prácticas para gestionar su exposición. La gestión de riesgos debe ser parte del plan comercial antes de abrir cualquier posición.</span>"
+    },
+    {
+      "key": "t78ed3cd11e6b65ed",
+      "english": "<span data-i18n-slot=\"0\">For example, a trader with a $1,000 account may decide to risk no more than $10 on a particular trade. The appropriate position size can then be calculated using the stop-loss distance and the instrument's value per price movement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por ejemplo, un operador con una cuenta de $1,000 puede decidir arriesgar no más de $10 en una operación en particular. Luego se puede calcular el tamaño de posición apropiado utilizando la distancia de stop-loss y el valor del instrumento por movimiento de precio.</span>"
+    },
+    {
+      "key": "tbbd5b4d79eb2ad07",
+      "english": "<span data-i18n-slot=\"0\">Therefore, traders should understand how their provider handles stop orders and whether guaranteed stop-loss options are available.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por lo tanto, los operadores deben comprender cómo su proveedor maneja las órdenes stop y si hay opciones de stop loss garantizadas disponibles.</span>"
+    },
+    {
+      "key": "tf7006c03c39740d5",
+      "english": "<span data-i18n-slot=\"0\">Just because a <span data-i18n-slot=\"1\">trading platform</span> offers a particular leverage ratio does not mean traders should use its full capacity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El hecho de que una <span data-i18n-slot=\"1\">plataforma comercial</span> ofrezca un índice de apalancamiento particular no significa que los operadores deban utilizar toda su capacidad.</span>"
+    },
+    {
+      "key": "t9e590079649f3cef",
+      "english": "<span data-i18n-slot=\"0\">Practise before trading live:</span><span data-i18n-slot=\"1\"> A demo account can help beginners understand order placement, platform functions, and how leveraged positions behave without risking real money.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Practique antes de operar en vivo:</span><span data-i18n-slot=\"1\"> Una cuenta de demostración puede ayudar a los principiantes a comprender la colocación de órdenes, las funciones de la plataforma y cómo se comportan las posiciones apalancadas sin arriesgar dinero real.</span>"
+    },
+    {
+      "key": "t81bd6edbd94b688d",
+      "english": "<span data-i18n-slot=\"0\">Users can manage trading positions and use supported order types to organise their trading activities.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los usuarios pueden gestionar posiciones comerciales y utilizar tipos de órdenes admitidos para organizar sus actividades comerciales.</span>"
+    },
+    {
+      "key": "ta3be1cf1ad6bab47",
+      "english": "<span data-i18n-slot=\"0\">Before choosing an account, traders should review the relevant product specifications, spreads, commissions, margin requirements, and other applicable conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Antes de elegir una cuenta, los operadores deben revisar las especificaciones del producto, los diferenciales, las comisiones, los requisitos de margen y otras condiciones aplicables.</span>"
+    },
+    {
+      "key": "taad6e6c0be99540c",
+      "english": "<span data-i18n-slot=\"0\">Why Is Understanding Leverage Important for Long-Term Trading Education?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Por qué es importante comprender el apalancamiento para la educación comercial a largo plazo?</span>"
+    },
+    {
+      "key": "t23a27b907674dc80",
+      "english": "<span data-i18n-slot=\"0\">A trader who understands leverage can better evaluate position sizes, calculate margin requirements, and recognise when market exposure becomes excessive.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un operador que comprende el apalancamiento puede evaluar mejor el tamaño de las posiciones, calcular los requisitos de margen y reconocer cuándo la exposición al mercado se vuelve excesiva.</span>"
+    },
+    {
+      "key": "t6e92275360fe0b93",
+      "english": "<span data-i18n-slot=\"0\">For example, two traders may have the same account balance but use very different position sizes. The trader taking a smaller position may have more room to manage unfavourable market movements, while the trader using excessive leverage may face much greater pressure from even minor price changes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por ejemplo, dos operadores pueden tener el mismo saldo de cuenta pero utilizar tamaños de posición muy diferentes. El operador que toma una posición más pequeña puede tener más espacio para gestionar los movimientos desfavorables del mercado, mientras que el operador que utiliza un apalancamiento excesivo puede enfrentar una presión mucho mayor incluso por cambios de precios menores.</span>"
+    },
+    {
+      "key": "tc4dbbeae67610cf4",
+      "english": "<span data-i18n-slot=\"0\">Developing a consistent trading routine, reviewing past decisions, and understanding financial market behaviour are useful parts of trading education.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Desarrollar una rutina comercial consistente, revisar decisiones pasadas y comprender el comportamiento del mercado financiero son partes útiles de la educación comercial.</span>"
+    },
+    {
+      "key": "te195c75979654703",
+      "english": "<span data-i18n-slot=\"0\">Frequently Asked Questions About Leverage in Forex Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Preguntas frecuentes sobre el apalancamiento en las operaciones de cambio</span>"
+    },
+    {
+      "key": "tc7a849245249a17e",
+      "english": "<span data-i18n-slot=\"0\">1. What does 1:100 leverage mean in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. ¿Qué significa un apalancamiento de 1:100 en el comercio de divisas?</span>"
+    },
+    {
+      "key": "t089553458848fdf9",
+      "english": "<span data-i18n-slot=\"0\">A leverage ratio of 1:100 means that a trader can control a position worth $100 for every $1 of required margin. For example, a $10,000 position would require $100 in margin, assuming the full position is subject to that ratio.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un índice de apalancamiento de 1:100 significa que un operador puede controlar una posición por valor de $100 por cada $1 de margen requerido. Por ejemplo, una posición de $10,000 requeriría $100 de margen, suponiendo que la posición completa esté sujeta a esa proporción.</span>"
+    },
+    {
+      "key": "tbd6bae59f958e12f",
+      "english": "<span data-i18n-slot=\"0\">2. Is high leverage better for forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. ¿Es mejor un alto apalancamiento para el comercio de divisas?</span>"
+    },
+    {
+      "key": "t71791437e80056c9",
+      "english": "<span data-i18n-slot=\"0\">Not necessarily. Higher leverage allows traders to access larger positions with less initial margin, but it also increases potential losses relative to their deposited capital. The appropriate level depends on financial circumstances, experience, and risk tolerance.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No necesariamente. Un mayor apalancamiento permite a los operadores acceder a posiciones más grandes con un margen inicial menor, pero también aumenta las pérdidas potenciales en relación con su capital depositado. El nivel apropiado depende de las circunstancias financieras, la experiencia y la tolerancia al riesgo.</span>"
+    },
+    {
+      "key": "te37c37c0caaa1b74",
+      "english": "<span data-i18n-slot=\"0\">3. Can beginners use leverage in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. ¿Pueden los principiantes utilizar el apalancamiento en el comercio de divisas?</span>"
+    },
+    {
+      "key": "t598efccf06a2d2c1",
+      "english": "<span data-i18n-slot=\"0\">Beginners can access leveraged trading where permitted and subject to account eligibility. However, they should first understand margin, position sizing, and potential losses. Practising with a demo account can help build familiarity before considering live trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los principiantes pueden acceder al comercio apalancado cuando esté permitido y sujeto a la elegibilidad de la cuenta. Sin embargo, primero deben comprender el margen, el tamaño de la posición y las pérdidas potenciales. Practicar con una cuenta de demostración puede ayudarle a familiarizarse antes de considerar el comercio real.</span>"
+    },
+    {
+      "key": "t453fec687a8ddea0",
+      "english": "<span data-i18n-slot=\"0\">4. What happens when a forex trade reaches a margin call?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4. ¿Qué sucede cuando una operación de divisas alcanza un aviso de margen?</span>"
+    },
+    {
+      "key": "t0115e94c64783edc",
+      "english": "<span data-i18n-slot=\"0\">Leverage is an important concept in currency trading because it allows traders to access larger market positions with a smaller amount of initial margin. However, it also increases financial exposure and can lead to significant losses when market movements go against an open position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El apalancamiento es un concepto importante en el comercio de divisas porque permite a los operadores acceder a posiciones de mercado más grandes con una cantidad menor de margen inicial. Sin embargo, también aumenta la exposición financiera y puede provocar pérdidas significativas cuando los movimientos del mercado van en contra de una posición abierta.</span>"
+    },
+    {
+      "key": "t1bdac4144545b8be",
+      "english": "<span data-i18n-slot=\"0\">If you are exploring forex trading UAE, taking the time to understand leverage and its associated risks is an important step towards becoming a more informed market participant.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Si está explorando el comercio de divisas en los EAU, tomarse el tiempo para comprender el apalancamiento y sus riesgos asociados es un paso importante para convertirse en un participante más informado en el mercado.</span>"
+    },
+    {
+      "key": "t573a0e3f75244a91",
+      "english": "forex broker UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#tag",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "corredor de divisas EAU"
+    },
+    {
+      "key": "t7b34079fa19fa4b1",
+      "english": "FOREX BROKER UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#upperTag",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "CORREDOR DE FOREX EAU"
+    },
+    {
+      "key": "td71ac20ab8923e8e",
+      "english": "<span data-i18n-slot=\"0\">The foreign exchange market is one of the largest financial markets in the world. Every day, currencies are bought and sold as businesses, financial institutions and individual market participants respond to changes in the global economy. With online trading platforms becoming more accessible, people in Abu Dhabi can now learn about currency markets and explore trading services without visiting a physical trading office.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El mercado de divisas es uno de los mercados financieros más grandes del mundo. Todos los días se compran y venden divisas a medida que las empresas, las instituciones financieras y los participantes individuales del mercado responden a los cambios en la economía global. Ahora que las plataformas de negociación en línea son cada vez más accesibles, los habitantes de Abu Dabi ahora pueden aprender sobre los mercados de divisas y explorar los servicios de negociación sin visitar una oficina comercial física.</span>"
+    },
+    {
+      "key": "t089daaaa04f93b9c",
+      "english": "<span data-i18n-slot=\"0\">For anyone researching </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex trading in Abu Dhabi</span></span><span data-i18n-slot=\"3\">, having this basic knowledge can make the learning process easier. It also helps when comparing trading platforms, understanding account conditions and deciding whether this type of financial activity is suitable for your circumstances.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Para cualquiera que esté investigando </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">comercio de divisas en Abu Dabi</span></span><span data-i18n-slot=\"3\">, tener este conocimiento básico puede facilitar el proceso de aprendizaje. También ayuda a comparar plataformas comerciales, comprender las condiciones de la cuenta y decidir si este tipo de actividad financiera es adecuada para sus circunstancias.</span>"
+    },
+    {
+      "key": "t076a05182eba2b74",
+      "english": "<span data-i18n-slot=\"0\">Before taking your first step, here are some important things worth understanding about the forex market.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Antes de dar el primer paso, he aquí algunos aspectos importantes que vale la pena comprender sobre el mercado de divisas.</span>"
+    },
+    {
+      "key": "t7359dff63b50700c",
+      "english": "<span data-i18n-slot=\"0\">Unlike buying shares in a company, <span data-i18n-slot=\"1\">forex trading</span> involves comparing the value of one currency against another. Currencies are traded in pairs, and their prices change according to economic conditions, market demand and international developments.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A diferencia de comprar acciones de una empresa, <span data-i18n-slot=\"1\">la negociación de divisas</span> implica comparar el valor de una moneda con otra. Las divisas se negocian en pares y sus precios cambian según las condiciones económicas, la demanda del mercado y los acontecimientos internacionales.</span>"
+    },
+    {
+      "key": "t04f897f64e4a040c",
+      "english": "<span data-i18n-slot=\"0\">Before placing a trade, you should understand the different categories of currency pairs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Antes de realizar una operación, debe comprender las diferentes categorías de pares de divisas.</span>"
+    },
+    {
+      "key": "t01a0ab19450aeaa7",
+      "english": "<span data-i18n-slot=\"0\">4. Understand Spreads, Pips and Trading Costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4. Comprender los diferenciales, los pips y los costos comerciales</span>"
+    },
+    {
+      "key": "tec2d055df14484fb",
+      "english": "<span data-i18n-slot=\"0\">Trading costs are an important part of forex trading, but beginners sometimes overlook them when comparing platforms.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los costos de operación son una parte importante del comercio de divisas, pero los principiantes a veces los pasan por alto al comparar plataformas.</span>"
+    },
+    {
+      "key": "t437f87b211db3622",
+      "english": "<span data-i18n-slot=\"0\">What Is a Spread?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es un diferencial?</span>"
+    },
+    {
+      "key": "t8e3b08c6fcd2fe10",
+      "english": "<span data-i18n-slot=\"0\">The spread is the difference between the buying price and the selling price quoted by a trading provider.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El diferencial es la diferencia entre el precio de compra y el precio de venta cotizado por un proveedor comercial.</span>"
+    },
+    {
+      "key": "t4c17faebd8f6fc69",
+      "english": "<span data-i18n-slot=\"0\">Are There Additional Trading Charges?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Existen cargos comerciales adicionales?</span>"
+    },
+    {
+      "key": "t697e642306d5909f",
+      "english": "<span data-i18n-slot=\"0\">Depending on the account and instrument, traders may encounter:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Dependiendo de la cuenta y el instrumento, los operadores pueden encontrar:</span>"
+    },
+    {
+      "key": "t259578980cc4c4e0",
+      "english": "<span data-i18n-slot=\"0\">Trading commissions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comisiones de negociación</span>"
+    },
+    {
+      "key": "t6c8e2d71beb9d5e3",
+      "english": "<span data-i18n-slot=\"0\">Overnight financing or swap charges</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cargos por financiación o swap a un día</span>"
+    },
+    {
+      "key": "tefbf7901ca4edee7",
+      "english": "<span data-i18n-slot=\"0\">Before opening an account, review the complete fee structure rather than comparing spreads alone.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Antes de abrir una cuenta, revise la estructura completa de tarifas en lugar de comparar los diferenciales únicamente.</span>"
+    },
+    {
+      "key": "ta967030c7381c216",
+      "english": "<span data-i18n-slot=\"0\">5. Understand Leverage and Margin Before Opening a Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5. Comprenda el apalancamiento y el margen antes de abrir una operación</span>"
+    },
+    {
+      "key": "t00f13d4127c0cfcb",
+      "english": "<span data-i18n-slot=\"0\">Leverage is one of the most important concepts to understand before starting <span data-i18n-slot=\"1\">forex trading in Abu Dhabi</span>.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El apalancamiento es uno de los conceptos más importantes que se deben comprender antes de comenzar a <span data-i18n-slot=\"1\">operar en Forex en Abu Dabi</span>.</span>"
+    },
+    {
+      "key": "t8aa5fe5dec6eed1b",
+      "english": "<span data-i18n-slot=\"0\">Margin is the amount required to maintain an open trading position. If the available account equity falls below certain levels, the trading provider may issue a margin call or automatically close positions according to its terms.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El margen es la cantidad necesaria para mantener una posición comercial abierta. Si el capital disponible de la cuenta cae por debajo de ciertos niveles, el proveedor comercial puede emitir una llamada de margen o cerrar posiciones automáticamente de acuerdo con sus términos.</span>"
+    },
+    {
+      "key": "t9d270266197a8dae",
+      "english": "<span data-i18n-slot=\"0\">This is why understanding leverage, margin requirements and stop-out levels is essential before considering a live trading account.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Por eso es esencial comprender el apalancamiento, los requisitos de margen y los niveles de cierre forzoso (stop-out) antes de considerar una cuenta de negociación real.</span>"
+    },
+    {
+      "key": "td78d78995c642e79",
+      "english": "<span data-i18n-slot=\"0\">6. Choose a Trading Platform That Fits Your Requirements</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">6. Elija una plataforma comercial que se ajuste a sus necesidades</span>"
+    },
+    {
+      "key": "te3f89c73d901ba31",
+      "english": "<span data-i18n-slot=\"0\">A trading platform is the software used to monitor prices, analyse charts and manage trading positions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Una plataforma comercial es el software que se utiliza para monitorear precios, analizar gráficos y administrar posiciones comerciales.</span>"
+    },
+    {
+      "key": "t6db1c2104d41ac9a",
+      "english": "<span data-i18n-slot=\"0\">Multiple chart timeframes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Múltiples períodos de tiempo de gráficos</span>"
+    },
+    {
+      "key": "t6c551441ca68f91d",
+      "english": "<span data-i18n-slot=\"0\">Different order types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferentes tipos de órdenes</span>"
+    },
+    {
+      "key": "t320b85cfbef58f7f",
+      "english": "<span data-i18n-slot=\"0\">Trade history and account monitoring</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Historial de operaciones y seguimiento de la cuenta</span>"
+    }
+  ]
+}

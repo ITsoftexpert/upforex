@@ -1,0 +1,3 @@
+CURRENT RELEASE: FRONTEND ONLY
+The backend is locked and is not changed or required to be redeployed.
+Follow FRONTEND_ONLY_RELEASE.txt. Historical supplied-backend tests and the sibling folder are separate evidence only; they do not prove the production API is fixed.

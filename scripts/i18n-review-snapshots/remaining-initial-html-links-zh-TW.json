@@ -1,0 +1,17 @@
+{
+  "language": "zh-TW",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t089daaaa04f93b9c",
+      "english": "<span data-i18n-slot=\"0\">For anyone researching </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex trading in Abu Dhabi</span></span><span data-i18n-slot=\"3\">, having this basic knowledge can make the learning process easier. It also helps when comparing trading platforms, understanding account conditions and deciding whether this type of financial activity is suitable for your circumstances.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">對於研究</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">阿布扎比外匯交易</span></span><span data-i18n-slot=\"3\">的人來說，掌握這些基本知識可以使學習過程更容易，也有助於比較交易平臺、瞭解賬戶條件，並決定此類金融活動是否適合自身情況。</span>"
+    }
+  ]
+}

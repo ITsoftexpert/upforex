@@ -5,6 +5,7 @@ import { TermsService, TermsData } from '../../core/services/terms.service';
 import { AngularEditorConfig } from '@kolkov/angular-editor';
 
 @Component({
+  standalone: false,
   selector: 'app-terms-form',
   templateUrl: './terms-form.component.html',
   styleUrls: ['./terms-form.component.scss']

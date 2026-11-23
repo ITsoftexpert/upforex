@@ -1,0 +1,764 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t82a74cde67ec5a12",
+      "english": "In a range-bound market, prices bounce between support and resistance. Support is an area where buyers have stepped in before. Resistance is an area where sellers have stepped in before.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "レンジ相場では、価格はサポートとレジスタンスの間で跳ね返ります。サポートは、購入者がこれまで介入してきた分野です。レジスタンスは、売り手がこれまで介入してきた分野です。"
+    },
+    {
+      "key": "t67c409f4c3dc4398",
+      "english": "Traders watch how price reacts near these edges. But a range can break without warning. Knowing the edges doesn’t guarantee that price will stay inside them.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "トレーダーは、これらのエッジ付近で価格がどのように反応するかを観察しています。しかし、警告なしにレンジを破る可能性があります。エッジを知っていても、価格がエッジ内に留まるとは限りません。"
+    },
+    {
+      "key": "t3a6f908be322403f",
+      "english": "Start with a clear purpose. Decide:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "明確な目的から始めましょう。次のことを決めてください。"
+    },
+    {
+      "key": "td534088141d7101d",
+      "english": "Which timeframes you will use",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "使用する時間枠"
+    },
+    {
+      "key": "t63c16a2cbb764d10",
+      "english": "Longer-term traders may use daily or weekly charts with economic data. Shorter-term traders may use hourly charts. Neither is better by default. What works depends on your experience, your time and how well you manage risk.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "長期のトレーダーは経済データと日足や週足チャートを使うことがあります。短期のトレーダーは時間足チャートを使うことがあります。どちらかが必ず優れているわけではありません。何が適しているかは、経験、使える時間、リスク管理の程度によって異なります。"
+    },
+    {
+      "key": "t6c73617e799bdae4",
+      "english": "What must happen before you consider a trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "取引を検討する前に満たされるべき条件"
+    },
+    {
+      "key": "tf0e43f7ab96a92c4",
+      "english": "The most you will risk on one trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "一回の取引で許容する最大のリスク"
+    },
+    {
+      "key": "tcccad7dc1ffa46a0",
+      "english": "<span data-i18n-slot=\"0\">Moving averages:</span> show price direction over a set period",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">移動平均:</span> 設定期間における価格の方向性を示します。"
+    },
+    {
+      "key": "t14cca1a17494f073",
+      "english": "<span data-i18n-slot=\"0\">Relative Strength Index (RSI):</span> shows how fast and how far price has moved recently",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相対力指数 (RSI):</span> 価格が最近どのくらい速く、どのくらい動いたかを示します。"
+    },
+    {
+      "key": "t2aea40c578387ac1",
+      "english": "<span data-i18n-slot=\"0\">Don’t stack many indicators with no clear purpose. Pick a few tools that answer specific questions. One can show direction. Another can show volatility. Clear rules for reading them beat extra complexity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">明確な目的もなく多くのインジケーターを重ねないでください。特定の問いに答える少数のツールを選びましょう。一つは方向性を、もう一つはボラティリティを示すことができます。余計に複雑にするより、読み取るための明確なルールが役立ちます。</span>"
+    },
+    {
+      "key": "t6ba10a2d5ce392b3",
+      "english": "<span data-i18n-slot=\"0\">Either way, read each release in context. Don’t treat it as a stand-alone signal.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">いずれにせよ、各リリースを文脈に沿って読んでください。これをスタンドアロン信号として扱わないでください。</span>"
+    },
+    {
+      "key": "t466dca3117900d23",
+      "english": "Instead, set clear triggers for a review:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "代わりに、レビューの明確なトリガーを設定します。"
+    },
+    {
+      "key": "t31ad097900f21419",
+      "english": "A change in trend structure",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "トレンド構造の変化"
+    },
+    {
+      "key": "ta42788af6fdd04c5",
+      "english": "A lasting rise in volatility",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "ボラティリティの持続的な上昇"
+    },
+    {
+      "key": "t3688d04fa6afa3f1",
+      "english": "Your written plan should set:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "書面による計画では次のことを設定する必要があります。"
+    },
+    {
+      "key": "t4e48a0fbd154a417",
+      "english": "The most exposure you will accept",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "許容する最大の市場エクスポージャー"
+    },
+    {
+      "key": "t35a9a19b87ec03eb",
+      "english": "When you will exit a trade",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "取引を終了するとき"
+    },
+    {
+      "key": "tb1a5dd675e7e6393",
+      "english": "Also think about:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "次のことも考えてください。"
+    },
+    {
+      "key": "ta6ac25c0dc2b8a50",
+      "english": "Slippage",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "スリッページ"
+    },
+    {
+      "key": "tb4f165ca4aae97aa",
+      "english": "<span data-i18n-slot=\"0\">Never risk money you need for essential expenses. Don’t treat forex trading as a steady source of income.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">必要不可欠な出費に必要なお金を決して危険にさらさないでください。外国為替取引を安定した収入源として扱わないでください。</span>"
+    },
+    {
+      "key": "te9ff0898bbb55898",
+      "english": "A demo account lets you learn the platform and practice your rules without risking real capital. Demo results can still differ from live trading. Execution, liquidity and emotions all play a part.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "デモ口座を使用すると、実際の資本を危険にさらさずにプラットフォームを学習し、ルールを実践できます。デモの結果はライブ取引とは異なる場合があります。実行、流動性、感情がすべて影響します。"
+    },
+    {
+      "key": "t05cd1fe6638527e4",
+      "english": "A trading journal helps you check your consistency. For each trade, note:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "取引日誌は一貫性をチェックするのに役立ちます。取引ごとに次の点に注意してください。"
+    },
+    {
+      "key": "t9b79987e522c0b58",
+      "english": "The market conditions",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "市況"
+    },
+    {
+      "key": "ta116da2cca98d8d8",
+      "english": "A good forex strategy needs more than chart patterns or economic news. You need to recognize trends and ranges, understand the fundamentals, set clear rules and manage risk at every step.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "優れた外国為替戦略には、チャートのパターンや経済ニュース以上のものが必要です。傾向と範囲を認識し、基本を理解し、明確なルールを設定し、あらゆる段階でリスクを管理する必要があります。"
+    },
+    {
+      "key": "t19fb2a3e91788d44",
+      "english": "When you explore forex learning resources, including UpForex’s, look for clear explanations, credible information and a realistic view of uncertainty. Test your ideas. Review your results. Change your plan only when the evidence supports it.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-strategy-market-conditions#content",
+        "SSR:/blogs/forex-trading-strategy-market-conditions"
+      ],
+      "translation": "UpForex などの外国為替学習リソースを調べるときは、明確な説明、信頼できる情報、不確実性に対する現実的な見方を探してください。あなたのアイデアをテストしてください。結果を確認します。証拠が裏付けられる場合にのみ計画を変更してください。"
+    },
+    {
+      "key": "t9fa392a57b1db549",
+      "english": "What Is Account Equity in Trading? Balance & Floating P/L",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#title",
+        "CMS:blogs/what-is-account-equity-in-trading#metaTitle",
+        "SSR:/blogs",
+        "SSR:/blogs/metatrader-demo-account-forex-trading-guide",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-to-use-mt5-expert-advisors-guide",
+        "SSR:/blogs/forex-trading",
+        "SSR:/blogs/trump-tarrif"
+      ],
+      "translation": "トレーディングにおける口座の有効証拠金とは何ですか?残高と変動損益"
+    },
+    {
+      "key": "t20218a7f979af345",
+      "english": "Account equity in trading showing balance and floating profit and loss",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#imageAltTag",
+        "SSR:/blogs",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "残高と変動損益を示す取引における口座の有効証拠金"
+    },
+    {
+      "key": "t1829c25770699981",
+      "english": "AccountEquity",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#tag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "口座の有効証拠金"
+    },
+    {
+      "key": "t811c42f7b95fbda1",
+      "english": "ACCOUNTEQUITY",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#upperTag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "有効証拠金"
+    },
+    {
+      "key": "t9408ef9a0137d1c0",
+      "english": "ForexTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#tag",
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#tag",
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#tag",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "外国為替取引"
+    },
+    {
+      "key": "tf59b305a85397500",
+      "english": "FOREXTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#upperTag",
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#upperTag",
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#upperTag",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "外国為替取引"
+    },
+    {
+      "key": "t112b0127b9ad6f89",
+      "english": "FloatingPL",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#tag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "フローティングPL"
+    },
+    {
+      "key": "t21e66207ea376c29",
+      "english": "FLOATINGPL",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#upperTag",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "フローティングPL"
+    },
+    {
+      "key": "t70f233926f0ecc26",
+      "english": "<span data-i18n-slot=\"0\">For traders exploring</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading in the UAE</span></span><span data-i18n-slot=\"4\">, understanding Balance, Equity, and floating P/L provides an important foundation before moving into margin and leverage mechanics.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーが検討している</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UAEでの外国為替取引</span></span><span data-i18n-slot=\"4\">では、残高、有効証拠金、含み損益を理解することが、証拠金とレバレッジの仕組みに進む前の重要な基礎となります。</span>"
+    },
+    {
+      "key": "tb24eaaf4e3c27194",
+      "english": "<span data-i18n-slot=\"0\">There is also an important terminology distinction. An “equity trading account” commonly means a brokerage account used to trade company shares. </span><span data-i18n-slot=\"1\">Equity in a trading account</span><span data-i18n-slot=\"2\"> means the live account value after the unrealized results of open forex or CFD positions are included.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">重要な用語の違いもあります。 「株式取引口座」とは、通常、会社の株式を取引するために使用される証券口座を意味します。 </span><span data-i18n-slot=\"1\">取引口座の有効証拠金</span><span data-i18n-slot=\"2\">とは、オープン外国為替またはCFDポジションの未実現結果が含まれた後の実際の口座価値を意味します。</span>"
+    },
+    {
+      "key": "tb6acb6ba80437a58",
+      "english": "<span data-i18n-slot=\"0\">Account balance is the settled value of a trading account excluding current open-position profit or loss. Account equity adjusts that balance in real time for floating P/L. Floating P/L is the unrealized result of open trades, which is why Balance and Equity can show different figures at the same moment.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座残高は、現在の保有ポジションの損益を除いた取引口座の確定済みの価値です。有効証拠金は、その残高に含み損益をリアルタイムで反映したものです。含み損益は未決済取引の未実現の結果であり、そのため残高と有効証拠金が同じ時点で異なる数値を示すことがあります。</span>"
+    },
+    {
+      "key": "t34e41bbbc01e2fb5",
+      "english": "<span data-i18n-slot=\"0\">What Is Account Balance?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アカウント残高とは何ですか?</span>"
+    },
+    {
+      "key": "tef54ee189dcb1bbe",
+      "english": "<span data-i18n-slot=\"0\">Deposits</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">預金</span>"
+    },
+    {
+      "key": "t03b769993d56b901",
+      "english": "<span data-i18n-slot=\"0\">Withdrawals</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">引き出し</span>"
+    },
+    {
+      "key": "t8d09d97bee69f739",
+      "english": "<span data-i18n-slot=\"0\">Losses from closed trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">クローズした取引による損失</span>"
+    },
+    {
+      "key": "td7bd51a851ef5734",
+      "english": "<span data-i18n-slot=\"0\">Suppose an account has a $5,000 Balance and the trader opens a new position. Market movement in that position does not normally cause the Balance field itself to rise and fall with every price change.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座に 5,000 ドルの残高があり、トレーダーが新しいポジションをオープンしたとします。通常、そのポジションでの市場の動きによって、価格が変化するたびに残高フィールド自体が上下することはありません。</span>"
+    },
+    {
+      "key": "t7b416e2a22763ff0",
+      "english": "<span data-i18n-slot=\"0\">Instead, the open trade generates floating profit or floating loss, which affects Equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">その代わりに、オープントレードは変動利益または変動損失を生成し、それが有効証拠金に影響を与えます。</span>"
+    },
+    {
+      "key": "t7330da727b69b6d6",
+      "english": "<span data-i18n-slot=\"0\">What Is Account Equity?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座の有効証拠金とは何ですか?</span>"
+    },
+    {
+      "key": "t9891396dc64d31d5",
+      "english": "<span data-i18n-slot=\"0\">Account equity</span><span data-i18n-slot=\"1\"> is the current value of a trading account after the net floating profit or loss from open positions is included.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座の有効証拠金</span><span data-i18n-slot=\"1\">は、オープンポジションからの変動純損益を含めた後のトレーディング口座の現在価値です。</span>"
+    },
+    {
+      "key": "t2b64436cafafa594",
+      "english": "<span data-i18n-slot=\"0\">Equity = Balance + Net Floating P/L</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金 = 残高 + 純変動損益</span>"
+    },
+    {
+      "key": "t77deac8fdf69ad31",
+      "english": "<span data-i18n-slot=\"0\">The net floating P/L may be positive or negative.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">純浮動損益はプラスになることもマイナスになることもあります。</span>"
+    },
+    {
+      "key": "tbd78e139aa4b1167",
+      "english": "<span data-i18n-slot=\"0\">For example, suppose:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">たとえば、次のように仮定します。</span>"
+    },
+    {
+      "key": "td185cb4858823f00",
+      "english": "<span data-i18n-slot=\"0\">Net floating P/L = +$300</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">純浮動損益 = +300 ドル</span>"
+    },
+    {
+      "key": "t292c50288fb2c770",
+      "english": "<span data-i18n-slot=\"0\">Then:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次に:</span>"
+    },
+    {
+      "key": "t1f6608ae28e19eba",
+      "english": "<span data-i18n-slot=\"0\">$5,000 + $300 = $5,300 Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5,000 ドル + 300 ドル = 5,300 ドルの有効証拠金</span>"
+    },
+    {
+      "key": "t99c06958ed89b890",
+      "english": "<span data-i18n-slot=\"0\">If the same account instead has:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">同じアカウントに次のような場合があります。</span>"
+    },
+    {
+      "key": "ta1afb95e18b77b46",
+      "english": "<span data-i18n-slot=\"0\">Net floating P/L = -$300</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">純浮動損益 = -300 ドル</span>"
+    },
+    {
+      "key": "t43af7a730fd25039",
+      "english": "<span data-i18n-slot=\"0\">$5,000 - $300 = $4,700 Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5,000 ドル - 300 ドル = 4,700 ドルの有効証拠金</span>"
+    },
+    {
+      "key": "tcc9ea569cdaba1fd",
+      "english": "<span data-i18n-slot=\"0\">This is why the </span><span data-i18n-slot=\"1\">total account equity value</span><span data-i18n-slot=\"2\"> can change constantly even though Balance stays unchanged.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これが、残高が変わらなくても、</span><span data-i18n-slot=\"1\">アカウントの合計有効証拠金価値</span><span data-i18n-slot=\"2\">が常に変化する可能性がある理由です。</span>"
+    },
+    {
+      "key": "tfc969644848d713c",
+      "english": "<span data-i18n-slot=\"0\">What Is Floating Profit and Loss?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変動損益とは何ですか?</span>"
+    },
+    {
+      "key": "t1dd17a8ad33ba16c",
+      "english": "<span data-i18n-slot=\"0\">Floating P/L</span><span data-i18n-slot=\"1\"> is the unrealized profit or loss associated with positions that are still open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変動損益</span><span data-i18n-slot=\"1\">は、まだオープンしているポジションに関連する未実現損益です。</span>"
+    },
+    {
+      "key": "tbc192a4c4cb0200a",
+      "english": "<span data-i18n-slot=\"0\">It is described as floating because its value can continue changing with market prices.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">その価値は市場価格に応じて変化し続ける可能性があるため、変動していると表現されます。</span>"
+    },
+    {
+      "key": "t837a8c7d2404da29",
+      "english": "<span data-i18n-slot=\"0\">When the trade closes:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引が終了すると:</span>"
+    },
+    {
+      "key": "t4f73a1150eebd45b",
+      "english": "<span data-i18n-slot=\"0\">Floating profit becomes realized profit.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変動利益は実現利益となります。</span>"
+    },
+    {
+      "key": "tff099535baf90d5b",
+      "english": "<span data-i18n-slot=\"0\">Floating loss becomes realized loss.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変動損失は実現損失となります。</span>"
+    },
+    {
+      "key": "tc3307dfb041aeb79",
+      "english": "<span data-i18n-slot=\"0\">The closed position stops contributing floating P/L to Equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">クローズされたポジションは、変動損益の有効証拠金への寄与を停止します。</span>"
+    },
+    {
+      "key": "tedf19867c06ddabb",
+      "english": "<span data-i18n-slot=\"0\">This is why Balance can stay exactly the same for some time while Equity moves continuously.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これが、有効証拠金が継続的に変動する一方で、残高がしばらくの間まったく同じ状態を維持できる理由です。</span>"
+    },
+    {
+      "key": "tbc4ca385bda5ecb9",
+      "english": "<span data-i18n-slot=\"0\">Account Balance shows settled account value, while Account Equity shows the account's current value after floating P/L is included.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座残高は決済された口座価値を示し、口座の有効証拠金は変動損益を含めた後の口座の現在価値を示します。</span>"
+    },
+    {
+      "key": "tc2c95a6dd071da21",
+      "english": "<span data-i18n-slot=\"0\">What It Measures</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">測定内容</span>"
+    },
+    {
+      "key": "t8d5eb1cc93d77a72",
+      "english": "<span data-i18n-slot=\"0\">Changes When...</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変更時期...</span>"
+    },
+    {
+      "key": "t4a96d7c3503674bd",
+      "english": "<span data-i18n-slot=\"0\">Stays Fixed When...</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次の場合は固定されたままになります...</span>"
+    },
+    {
+      "key": "t4d1139b404a76d6c",
+      "english": "<span data-i18n-slot=\"0\">Settled account value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">決済されたアカウントの値</span>"
+    },
+    {
+      "key": "tea0369892db87861",
+      "english": "<span data-i18n-slot=\"0\">A position closes, a deposit or withdrawal posts, or another completed balance adjustment occurs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジションがクローズされる、入金または出金がポストされる、または別の完了した残高調整が発生する</span>"
+    },
+    {
+      "key": "t3c2c4bdc7e9d71ca",
+      "english": "<span data-i18n-slot=\"0\">Open positions simply move in price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オープンポジションは単に価格が変動するだけです</span>"
+    },
+    {
+      "key": "ta02b0e5b7466133d",
+      "english": "<span data-i18n-slot=\"0\">Current account value including open-position results</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オープンポジション結果を含む当座口座価値</span>"
+    },
+    {
+      "key": "t6aeb0e382de1c110",
+      "english": "<span data-i18n-slot=\"0\">Floating P/L or Balance changes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変動損益または残高の変更</span>"
+    },
+    {
+      "key": "tf9a07a91c6ee22b7",
+      "english": "<span data-i18n-slot=\"0\">Neither Balance nor floating P/L changes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">残高も変動損益も変化しない</span>"
+    },
+    {
+      "key": "tbbc80d826bdcdade",
+      "english": "<span data-i18n-slot=\"0\">Floating P/L</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変動損益</span>"
+    },
+    {
+      "key": "t9186ddd4e8e7a39c",
+      "english": "<span data-i18n-slot=\"0\">Market prices change while positions remain open</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジションが残っている間に市場価格が変化する</span>"
+    }
+  ]
+}

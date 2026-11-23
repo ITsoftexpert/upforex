@@ -7,6 +7,7 @@ import {
   Inject,
 } from '@angular/core';
 @Component({
+  standalone: false,
   selector: 'app-pivot-point-calculator',
   templateUrl: './pivot-point-calculator.component.html',
   styleUrls: ['./pivot-point-calculator.component.scss'],

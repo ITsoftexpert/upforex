@@ -1,0 +1,507 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tf08610a29531781e",
+      "english": "<span data-i18n-slot=\"0\">Positive vs. Negative Correlation in Forex Pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替ペアの正の相関と負の相関</span>"
+    },
+    {
+      "key": "tb62455cb5aa0046d",
+      "english": "<span data-i18n-slot=\"0\">Typical Tendency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的な傾向</span>"
+    },
+    {
+      "key": "tfe288d66a2b64f00",
+      "english": "<span data-i18n-slot=\"0\">Often shows an inverse relationship</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">逆の関係を示すことが多い</span>"
+    },
+    {
+      "key": "t4456bbcdac37b887",
+      "english": "<span data-i18n-slot=\"0\">Can show an inverse tendency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">逆の傾向を示す可能性がある</span>"
+    },
+    {
+      "key": "t64fec1dd2b300d7d",
+      "english": "<span data-i18n-slot=\"0\">Broad USD movement can affect the pairs in opposite quoted directions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">USDの広範囲な動きは、ペアに反対の相場方向に影響を与える可能性があります</span>"
+    },
+    {
+      "key": "tcc825445dcbdf261",
+      "english": "<span data-i18n-slot=\"0\">Positive correlation forex pairs can temporarily diverge, while negative correlation forex pairs can sometimes move in the same direction. Changes in monetary policy, economic releases or country-specific events can outweigh the shared structural influence.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">正の相関がある通貨ペアが一時的に異なる動きをすることも、負の相関がある通貨ペアが同じ方向に動くこともあります。金融政策の変更、経済指標の発表、あるいは国固有の出来事が、共通する構造的な影響を上回る場合があります。</span>"
+    },
+    {
+      "key": "t7972f0bb3fdc3aaf",
+      "english": "<span data-i18n-slot=\"0\">That is why a trader should not assume that a relationship described in an educational article represents the current correlation coefficient.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">そのため、トレーダーは教育記事に記載されている関係が現在の相関係数を表していると想定すべきではありません。</span>"
+    },
+    {
+      "key": "t5db3f7a0012e4606",
+      "english": "<span data-i18n-slot=\"0\">Some tools show the coefficient numerically. Others use a forex correlation heatmap where stronger positive and negative relationships are represented visually.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">係数を数値で示すツールもあれば、より強い正と負の関係を視覚的に表す外国為替相関ヒートマップを使うツールもあります。</span>"
+    },
+    {
+      "key": "tf74e6b10a8377308",
+      "english": "<span data-i18n-slot=\"0\">Often negative</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ネガティブなことが多い</span>"
+    },
+    {
+      "key": "te0a57c3025d0ae20",
+      "english": "<span data-i18n-slot=\"0\">This table is deliberately qualitative rather than numeric because a static article cannot provide reliable current correlation coefficients.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">静的な記事では信頼できる現在の相関係数を提供できないため、この表は意図的に数値ではなく定性的なものになっています。</span>"
+    },
+    {
+      "key": "te213e02f1d2d7543",
+      "english": "<span data-i18n-slot=\"0\">The phrase </span><span data-i18n-slot=\"1\">coefficient correlation forex</span><span data-i18n-slot=\"2\"> is sometimes used by traders searching for the numerical relationship between two forex pairs. In practical terms, it refers to the same correlation coefficient scale described above.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">フレーズ</span><span data-i18n-slot=\"1\">外国為替係数相関</span><span data-i18n-slot=\"2\">は、二 つの外国為替ペア間の数値的関係を検索するトレーダーによって使用されることがあります。実際には、上記と同じ相関係数スケールを指します。</span>"
+    },
+    {
+      "key": "t4110ace2195bfc64",
+      "english": "<span data-i18n-slot=\"0\">Why Does Forex Correlation Matter for Risk?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">なぜ外国為替の相関関係がリスクにとって重要なのでしょうか?</span>"
+    },
+    {
+      "key": "t247d355cdf8c08ca",
+      "english": "<span data-i18n-slot=\"0\">Suppose a trader opens:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーが次のように取引を開始したとします。</span>"
+    },
+    {
+      "key": "tb5aaa68caa37c48a",
+      "english": "<span data-i18n-slot=\"0\">The trader may initially view these as two separate trades because one involves the euro and the other involves the British pound.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは、当初は二つの別々の取引としてこれらの表示することができます。なぜなら、一つはユーロを含み、もう一方はイギリスポンドを含むからです。</span>"
+    },
+    {
+      "key": "t8154037440462d54",
+      "english": "<span data-i18n-slot=\"0\">Employment figures</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">雇用者数</span>"
+    },
+    {
+      "key": "tb8a9b90c483e5ff0",
+      "english": "<span data-i18n-slot=\"0\">A short-term trader may be interested in recent intraday or multi-day co-movement, while a longer-term trader may examine a broader historical period. Neither measurement automatically provides the correct answer for every strategy.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">短期トレーダーは最近の日中または複数日の同時変動に興味があるかもしれませんが、長期トレーダーはより広い歴史的期間を調べるかもしれません。どちらの測定も、すべての戦略に対する正しい答えを自動的に提供するわけではありません。</span>"
+    },
+    {
+      "key": "t5b7328d4a79c0136",
+      "english": "<span data-i18n-slot=\"0\">Gold is priced internationally in U.S. dollars, which means major shifts in USD strength can influence both gold and USD-based currency pairs. However, interest-rate expectations, inflation concerns, geopolitical risk and demand for defensive assets can all alter the relationship.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金の国際価格は米ドルで表示されるため、米ドルの強さが大きく変わると、金と米ドルを含む通貨ペアの両方に影響することがあります。ただし、金利見通し、インフレ懸念、地政学的リスク、防御的な資産への需要も、この関係を変える可能性があります。</span>"
+    },
+    {
+      "key": "tfa59e4e0dcb33a3c",
+      "english": "<span data-i18n-slot=\"0\">How Do Traders Use Correlation in Strategy and Hedging?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは戦略とヘッジで相関関係をどのように利用しますか?</span>"
+    },
+    {
+      "key": "t749a27f91ecd18db",
+      "english": "<span data-i18n-slot=\"0\">Two common applications are exposure management and partial hedging.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一般的な 二 つのアプリケーションは、エクスポージャ管理と部分ヘッジです。</span>"
+    },
+    {
+      "key": "tfef981ebde020c95",
+      "english": "<span data-i18n-slot=\"0\">1. Avoiding Unintentional Over-Exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. 意図せずエクスポージャーを増やしすぎることを避ける</span>"
+    },
+    {
+      "key": "t775f2fcf47a6e7ff",
+      "english": "<span data-i18n-slot=\"0\">Suppose a trader has already taken a position based largely on expected USD weakness.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーが、予想される米ドル安に主に基づいてすでにポジションを取っていると仮定します。</span>"
+    },
+    {
+      "key": "t68a52249fbe440bd",
+      "english": "<span data-i18n-slot=\"0\">If both trades depend heavily on the same USD outcome, the second position may increase the first idea's exposure instead of adding meaningful diversification.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">両方の取引が同じ米ドルの結果に大きく依存している場合、二 番目のポジションは有意義な分散を追加する代わりに、最初のアイデアのエクスポージャーを増やす可能性があります。</span>"
+    },
+    {
+      "key": "t5a9c19c0767ea616",
+      "english": "<span data-i18n-slot=\"0\">A forex correlation strategy used this way is primarily an exposure-checking process.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">この方法で使用される外国為替相関戦略は、主にエクスポージャーチェックプロセスです。</span>"
+    },
+    {
+      "key": "tbbe6a00eb9c8b79e",
+      "english": "<span data-i18n-slot=\"0\">However, a forex correlation hedging strategy does not automatically produce a balanced hedge.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ただし、外国為替相関ヘッジ戦略では、自動的にバランスの取れたヘッジが生成されるわけではありません。</span>"
+    },
+    {
+      "key": "tba2a9c131aaf587d",
+      "english": "<span data-i18n-slot=\"0\">Different base and quote currencies</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">異なる基準通貨と建値通貨</span>"
+    },
+    {
+      "key": "tc5f9f3bad772d4e6",
+      "english": "<span data-i18n-slot=\"0\">What does a correlation coefficient of 0 mean in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">FXにおける相関係数0は何を意味しますか?</span>"
+    },
+    {
+      "key": "t4ed2b8f508267453",
+      "english": "<span data-i18n-slot=\"0\">Is there a simple forex correlation cheat sheet?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">簡単な外国為替相関チートシートはありますか?</span>"
+    },
+    {
+      "key": "td711bcbc5f58b0f8",
+      "english": "<span data-i18n-slot=\"0\">A useful correlation cheat sheet can identify pairs that are commonly worth comparing, such as EUR/USD with GBP/USD or EUR/USD with USD/CHF. However, it should use directional tendencies rather than permanent coefficient values. The correlation tables in this article provide a quick reference, while current decisions should rely on recent market data.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">便利な相関チートシートを使用すると、EUR/USD と GBP/USD、または EUR/USD と USD/CHF など、一般に比較する価値のあるペアを特定できます。ただし、永続的な係数値ではなく、方向性の傾向を使用する必要があります。この記事の相関表は簡単な参照を提供しますが、現在の決定は最新の市場データに依存する必要があります。</span>"
+    },
+    {
+      "key": "t8723a65499cb3acc",
+      "english": "<span data-i18n-slot=\"0\">Yes. Forex correlation can be calculated by comparing historical return data for two currency pairs over the same set of time intervals and applying a statistical correlation calculation. The selected lookback period and timeframe affect the result, so the same two pairs can produce different readings when measured over different periods.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">はい。外国為替相関は、同じ一連の時間間隔にわたる 二 つの通貨ペアの過去のリターン データを比較し、統計的相関計算を適用することで計算できます。選択したルックバック期間とタイムフレームは結果に影響を与えるため、同じ 二 つのペアが異なる期間にわたって測定されると、異なる読み取り値が生成される可能性があります。</span>"
+    },
+    {
+      "key": "tb784cd974816e2a5",
+      "english": "<span data-i18n-slot=\"0\">A forex correlation matrix is a table that compares several currency pairs at once. Each pair appears on both axes, and their intersection shows the measured relationship between them. A matrix makes it easier to spot groups of positions that may be exposed to similar market drivers before opening several trades simultaneously.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#content",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替相関マトリックスは、複数の通貨ペアを一度に比較する表です。各ペアは両方の軸に表示され、それらの交点はそれらの間の測定された関係を示します。マトリックスを使用すると、複数の取引を同時に開始する前に、同様の市場要因にさらされる可能性のあるポジションのグループを簡単に特定できます。</span>"
+    },
+    {
+      "key": "t1f01ccbb05f7a1cb",
+      "english": "<span data-i18n-slot=\"0\">The concept sounds simple, but account balance and account equity are often confused. A balance can remain unchanged while open positions are carrying unrealized losses, meaning the account's real-time equity drawdown may be deeper than the balance alone suggests.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">概念は単純に聞こえますが、口座残高と口座有効証拠金は混同されることがよくあります。オープンポジションに含み損がある間、残高は変更されない可能性があります。つまり、口座のリアルタイムの有効証拠金ドローダウンは、残高だけが示すよりも深い可能性があります。</span>"
+    },
+    {
+      "key": "tdf6041475e313769",
+      "english": "<span data-i18n-slot=\"0\">Understanding that difference helps traders evaluate current exposure, review trading performance and see how much recovery would be required after a losing period. This becomes especially important when trading leveraged forex and CFDs, where changes in market prices can affect account equity quickly.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">その違いを理解することは、トレーダーが現在のエクスポージャーを評価し、取引パフォーマンスを確認し、損失期間後にどの程度の回復が必要かを確認するのに役立ちます。これは、市場価格の変化が口座有効証拠金に急速に影響を与える可能性があるレバレッジ外国為替や CFD を取引する場合に特に重要になります。</span>"
+    },
+    {
+      "key": "t69e62f71b32f4a75",
+      "english": "<span data-i18n-slot=\"0\">That is the basic drawdown meaning in trading: it measures decline relative to a previous high rather than simply counting individual losing trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これがトレーディングにおける基本的なドローダウンの意味です。単に個々の損失トレードをカウントするのではなく、以前の高値と比較した下落を測定します。</span>"
+    },
+    {
+      "key": "t1edd20d3152e389b",
+      "english": "<span data-i18n-slot=\"0\">If someone asks what drawdown means in trading, a simple way to think about it is the distance between an account's high-water mark and the lower value reached afterwards.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーディングにおけるドローダウンの意味を尋ねられた場合、それを考える簡単な方法は、口座の最高水準点とその後に到達する下限値との間の距離です。</span>"
+    },
+    {
+      "key": "tac5a8ac853401c48",
+      "english": "<span data-i18n-slot=\"0\">The same idea applies when asking what drawdown in forex trading is. It measures how far a forex trading account has declined from a previous peak, whether that decline is being measured from balance, equity or another defined account value.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替取引におけるドローダウンとは何かを尋ねるときにも同じ考えが当てはまります。これは、外国為替取引口座が以前のピークからどの程度下落したかを測定します。その下落が残高、有効証拠金、またはその他の定義された口座価値から測定されているかどうかを測定します。</span>"
+    },
+    {
+      "key": "tffc1ae53d8fb4e19",
+      "english": "<span data-i18n-slot=\"0\">Account equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座有効証拠金</span>"
+    },
+    {
+      "key": "t76ba1b98acf85ae0",
+      "english": "<span data-i18n-slot=\"0\">Balance Drawdown vs. Equity Drawdown: What's the Difference?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">残高ドローダウンと有効証拠金ドローダウン: 違いは何ですか?</span>"
+    },
+    {
+      "key": "ted4f4077e8914c21",
+      "english": "<span data-i18n-slot=\"0\">Balance drawdown is based on closed-trade results, while equity drawdown also reflects unrealized profit or loss from positions that remain open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">残高ドローダウンはクローズされた取引の結果に基づいていますが、有効証拠金ドローダウンはオープンのままのポジションからの未実現損益も反映しています。</span>"
+    },
+    {
+      "key": "ta9cbe092be1a04f2",
+      "english": "<span data-i18n-slot=\"0\">Balance drawdown is calculated from changes in the account balance after trades have been closed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">残高ドローダウンは、取引終了後の口座残高の変化から計算されます。</span>"
+    },
+    {
+      "key": "t10e8d9842e2d196a",
+      "english": "<span data-i18n-slot=\"0\">Equity Drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金ドローダウン</span>"
+    },
+    {
+      "key": "t7feeca65606e5587",
+      "english": "<span data-i18n-slot=\"0\">Relative to the earlier $10,000 peak, this represents an 8% equity drawdown.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">以前のピークの 10,000 ドルと比較すると、これは 8% の有効証拠金ドローダウンに相当します。</span>"
+    },
+    {
+      "key": "t573b8163ecb44743",
+      "english": "<span data-i18n-slot=\"0\">Equity drawdown can therefore provide a more immediate view of current exposure because it shows the effect of open trades rather than waiting until those trades are closed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">したがって、有効証拠金ドローダウンは、取引が終了するまで待つのではなく、オープンな取引の影響を示すため、現在のエクスポージャをより迅速に把握できます。</span>"
+    },
+    {
+      "key": "tcb6b9e7574b471a5",
+      "english": "<span data-i18n-slot=\"0\">What It Includes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">含まれるもの</span>"
+    },
+    {
+      "key": "taed4da5e82805c96",
+      "english": "<span data-i18n-slot=\"0\">Results from closed trades</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">終了した取引の結果</span>"
+    },
+    {
+      "key": "t6074e39c1d0df694",
+      "english": "<span data-i18n-slot=\"0\">When trades close and affect balance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引が終了して残高に影響を与える場合</span>"
+    },
+    {
+      "key": "t2c4b21ba57cd79e2",
+      "english": "<span data-i18n-slot=\"0\">What It's Best Used For</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最適な用途</span>"
+    },
+    {
+      "key": "td1b95b1d5bcf7545",
+      "english": "<span data-i18n-slot=\"0\">Monitoring current account exposure and live drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座の現在のエクスポージャーとリアルタイムのドローダウンの監視</span>"
+    },
+    {
+      "key": "tc281ceb07cdde902",
+      "english": "<span data-i18n-slot=\"0\">Neither figure should be viewed completely in isolation. Balance shows realized results, while equity gives a more current picture of the account while positions remain open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">どちらの数値も、完全に切り離して判断すべきではありません。残高は実現した結果を示し、有効証拠金はポジション保有中の口座状況をより最新の形で示します。</span>"
+    },
+    {
+      "key": "t518644d754d04fc9",
+      "english": "<span data-i18n-slot=\"0\">A Simple Example of Balance vs. Equity Drawdown</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">残高と有効証拠金ドローダウンの簡単な例</span>"
+    },
+    {
+      "key": "t2b351814602e67ba",
+      "english": "<span data-i18n-slot=\"0\">Open P/L</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">含み損益</span>"
+    }
+  ]
+}

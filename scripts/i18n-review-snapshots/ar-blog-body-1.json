@@ -1,0 +1,602 @@
+[
+  {
+    "key": "t59d47ee75e34c917",
+    "english": "<span data-i18n-slot=\"0\">Risk Disclaimer:</span><span data-i18n-slot=\"1\"> <span data-i18n-slot=\"2\">Forex and CFD trading</span> involve a high level of risk and may not be suitable for every investor. Leverage can magnify both gains and losses. Review all relevant legal documents, account terms and risk disclosures before proceeding. Consider obtaining independent financial, legal and tax advice. Never trade with money you cannot afford to lose.</span>",
+    "translation": "<span data-i18n-slot=\"0\">إخلاء المسؤولية عن المخاطر:</span><span data-i18n-slot=\"1\"> <span data-i18n-slot=\"2\">ينطوي تداول الفوركس وعقود الفروقات</span> على مستوى عالٍ من المخاطر وقد لا يكون مناسبًا لكل مستثمر. الرافعة المالية يمكن أن تضخم كل من المكاسب والخسائر. قم بمراجعة جميع المستندات القانونية ذات الصلة وشروط الحساب والإفصاح عن المخاطر قبل المتابعة. فكر في الحصول على مشورة مالية وقانونية وضريبية مستقلة. لا تتداول أبدًا بأموال لا يمكنك تحمل خسارتها.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "td625810b57cd17d1",
+    "english": "<span data-i18n-slot=\"0\">Suppose a trader wants to open a forex position worth $10,000. Without leverage, the trader would generally need the full $10,000 to establish that exposure.</span>",
+    "translation": "<span data-i18n-slot=\"0\">لنفترض أن أحد المتداولين يريد فتح مركز فوركس بقيمة 10,000 دولار. وبدون الرافعة المالية، سيحتاج المتداول عمومًا إلى مبلغ 10,000 دولار أمريكي بالكامل لتحقيق هذا التعرض.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tab8fd13cb7047dc6",
+    "english": "<span data-i18n-slot=\"0\">This means the trader needs $100 in margin to open a position with a notional value of $10,000.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يعني هذا أن المتداول يحتاج إلى هامش بقيمة 100 دولار لفتح مركز بقيمة اسمية تبلغ 10,000 دولار.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tff85039d5d5858e5",
+    "english": "<span data-i18n-slot=\"0\">For example, a $20,000 position at 1:100 leverage requires $200 in initial margin.</span>",
+    "translation": "<span data-i18n-slot=\"0\">على سبيل المثال، يتطلب مركز بقيمة 20,000 دولار أمريكي برافعة مالية 1:100 هامشًا أوليًا قدره 200 دولار أمريكي.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t089553458848fdf9",
+    "english": "<span data-i18n-slot=\"0\">A leverage ratio of 1:100 means that a trader can control a position worth $100 for every $1 of required margin. For example, a $10,000 position would require $100 in margin, assuming the full position is subject to that ratio.</span>",
+    "translation": "<span data-i18n-slot=\"0\">تعني نسبة الرافعة المالية البالغة 1:100 أنه يمكن للمتداول التحكم في مركز بقيمة 100 دولار لكل 1 دولار من الهامش المطلوب. على سبيل المثال، سيتطلب مركز بقيمة 10,000 دولار هامشًا بقيمة 100 دولار، على افتراض أن المركز الكامل يخضع لهذه النسبة.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t28872e4c3d0d036c",
+    "english": "<span data-i18n-slot=\"0\">For example, with leverage of 1:100, a position worth $10,000 would require $100 in margin, assuming that leverage is available and applicable to the instrument.</span>",
+    "translation": "<span data-i18n-slot=\"0\">على سبيل المثال، مع رافعة مالية تبلغ 1:100، سيتطلب مركز بقيمة 10,000 دولار هامشًا بقيمة 100 دولار، على افتراض أن الرافعة المالية متاحة وقابلة للتطبيق على الأداة.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "te5d8ec7c2118c95e",
+    "english": "<span data-i18n-slot=\"0\">Forex </span><span data-i18n-slot=\"1\">liquidity</span><span data-i18n-slot=\"2\"> describes how easily a currency pair can be bought or sold at available market prices without a relatively small order causing a material price movement. A highly liquid pair normally has many active buyers and sellers around the current price, while a less-liquid market has fewer orders available across nearby price levels.</span>",
+    "translation": "تصف <span data-i18n-slot=\"0\">الفوركس </span><span data-i18n-slot=\"1\">السيولة</span><span data-i18n-slot=\"2\"> مدى سهولة شراء أو بيع زوج من العملات بأسعار السوق المتاحة دون أن يتسبب أمر صغير نسبيًا في حركة سعر جوهرية. عادة ما يشتمل الزوج ذو السيولة العالية على العديد من المشترين والبائعين النشطين حول السعر الحالي، في حين أن السوق الأقل سيولة لديه عدد أقل من الطلبات المتاحة عبر مستويات الأسعار القريبة.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t34a15e49ceeabefd",
+    "english": "<span data-i18n-slot=\"0\">Liquidity is not constant. It changes by currency pair, trading session, economic events and overall market activity. For UAE traders using</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Forex CFD trading on UPFOREX</span></span><span data-i18n-slot=\"4\">, understanding these changes can provide a clearer view of why the same currency pair may trade differently at different points in the day.</span>",
+    "translation": "<span data-i18n-slot=\"0\">السيولة ليست ثابتة. وتتغير بحسب زوج العملات وجلسة التداول والأحداث الاقتصادية ونشاط السوق بشكل عام. بالنسبة للمتداولين في دولة الإمارات العربية المتحدة الذين يستخدمون</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">تداول عقود الفروقات على الفوركس على UPFOREX</span></span><span data-i18n-slot=\"4\">، فإن فهم هذه التغييرات يمكن أن يوفر رؤية أوضح لسبب تداول زوج العملات نفسه بشكل مختلف في أوقات مختلفة من اليوم.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tf4bafe70b81bd992",
+    "english": "<span data-i18n-slot=\"0\">The Bank for International Settlements reported average global FX turnover of about </span><span data-i18n-slot=\"1\">$9.6 trillion per day in April 2025</span><span data-i18n-slot=\"2\">, with the US dollar on one side of </span><span data-i18n-slot=\"3\">89% of all FX trades</span><span data-i18n-slot=\"4\">.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">BIS press release, 30 September 2025</span></span>",
+    "translation": "<span data-i18n-slot=\"0\">أعلن بنك التسويات الدولية عن متوسط حجم تداول العملات الأجنبية على مستوى العالم بحوالي </span><span data-i18n-slot=\"1\">9.6 تريليون دولار يوميًا في أبريل 2025</span><span data-i18n-slot=\"2\">، مع وجود الدولار الأمريكي على جانب واحد من </span><span data-i18n-slot=\"3\">89% من إجمالي صفقات العملات الأجنبية</span><span data-i18n-slot=\"4\">.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">بيان صحفي لبنك التسويات الدولية، 30 سبتمبر 2025</span></span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t814e5936af400ffe",
+    "english": "<span data-i18n-slot=\"0\">Trade size and account exposure still need to be considered separately. The</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Leverage &amp; Margin Explained</span></span><span data-i18n-slot=\"4\"> guide covers those mechanics.</span>",
+    "translation": "<span data-i18n-slot=\"0\">لا يزال من الضروري النظر في حجم الصفقة وتعرض الحساب بشكل منفصل. يغطي دليل</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">الرافعة المالية والهامش</span></span><span data-i18n-slot=\"4\"> هذه الآليات.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t676edefbc4348045",
+    "english": "<span data-i18n-slot=\"0\">Pair 2</span>",
+    "translation": "<span data-i18n-slot=\"0\">الزوج 2</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t6eaa119e51ae331a",
+    "english": "<span data-i18n-slot=\"0\">For an actual trading decision, traders should use recent price data or a live correlation analysis tool rather than relying on a coefficient printed permanently in an article. Prices available through</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">the MT5 platform</span></span><span data-i18n-slot=\"4\"> can provide current market data for analysis, although traders should not assume that a specific correlation-matrix tool is built into MT5 unless they have confirmed the tool they are using.</span>",
+    "translation": "<span data-i18n-slot=\"0\">لاتخاذ قرار تداول فعلي، يجب على المتداولين استخدام بيانات الأسعار الحديثة أو أداة تحليل الارتباط المباشر بدلاً من الاعتماد على معامل مطبوع بشكل دائم في المقالة. الأسعار المتاحة من خلال</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">منصة MT5</span></span><span data-i18n-slot=\"4\"> يمكن أن توفر بيانات السوق الحالية للتحليل، على الرغم من أنه لا ينبغي للمتداولين افتراض وجود أداة مصفوفة ارتباط محددة مدمجة في MT5 ما لم يؤكدوا الأداة التي يستخدمونها.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t2a193d8190135f0f",
+    "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">rate hike</span><span data-i18n-slot=\"2\"> raises the target range. It may support the dollar when the move or guidance is more restrictive than expected.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يؤدي </span><span data-i18n-slot=\"1\">رفع سعر الفائدة</span><span data-i18n-slot=\"2\"> إلى رفع النطاق المستهدف. وقد يدعم الدولار عندما يكون التحرك أو التوجيه أكثر تقييدًا من المتوقع.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t499f0627cb5850c9",
+    "english": "<span data-i18n-slot=\"0\">UpForex publishes</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex and CFD trading</span></span><span data-i18n-slot=\"4\"> information across its confirmed product range: Forex, Stock CFDs, Precious Metals, Index CFDs, Energy CFDs, and Crypto CFDs, all through MT5. Availability and terms can change, so IBs should verify current information before presenting it.</span>",
+    "translation": "<span data-i18n-slot=\"0\">تنشر UpForex معلومات عن</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">تداول العملات الأجنبية وعقود الفروقات</span></span><span data-i18n-slot=\"4\"> عبر مجموعة منتجاتها المؤكدة: الفوركس، وعقود الفروقات على الأسهم، والمعادن الثمينة، وعقود الفروقات على المؤشرات، وعقود الفروقات على الطاقة، وعقود الفروقات على العملات المشفرة، كل ذلك من خلال MT5. يمكن أن يتغير التوفر والشروط، لذلك يجب على الوسطاء المعرفين التحقق من المعلومات الحالية قبل تقديمها.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t67cc7dea9f032cc0",
+    "english": "<span data-i18n-slot=\"0\">Use the option to</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">start with a demo account</span></span><span data-i18n-slot=\"4\"> before referring live clients. Demo conditions do not reproduce every live-market factor, but they help you understand the platform process.</span>",
+    "translation": "<span data-i18n-slot=\"0\">استفد من خيار</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">البدء بحساب تجريبي</span></span><span data-i18n-slot=\"4\"> قبل إحالة عملاء الحسابات الحقيقية. لا تعيد الشروط التجريبية إنتاج كل عوامل السوق الحية، ولكنها تساعدك على فهم آلية عمل المنصة.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tbc7bf0e745e21b75",
+    "english": "<span data-i18n-slot=\"0\">Prospective IBs should</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">read UpForex’s legal and regulatory documents</span></span><span data-i18n-slot=\"4\"> and confirm the applicable Introducing Broker agreement directly with UpForex before promoting the program.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يجب على الوسطاء المعرفين المحتملين</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">قراءة المستندات القانونية والتنظيمية الخاصة بـ UpForex</span></span><span data-i18n-slot=\"4\"> وتأكيد اتفاقية الوسيط المعرّف المعمول بها مباشرة مع UpForex قبل الترويج للبرنامج.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t0c70dfacc2917b74",
+    "english": "<span data-i18n-slot=\"0\">Trading costs can materially affect copied results. A “zero commission” label does not automatically mean zero total cost, so compare the spread and other charges discussed in this guide to</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">zero-commission trading</span></span><span data-i18n-slot=\"4\">.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يمكن أن تؤثر تكاليف التداول بشكل جوهري على النتائج المنسوخة. لا تعني علامة \"العمولة صفر\" تلقائيًا صفر تكلفة إجمالية، لذا قارن فروق الأسعار والرسوم الأخرى التي يناقشها هذا الدليل حول</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">التداول بدون عمولة</span></span><span data-i18n-slot=\"4\">.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t2574a02d3a089d2b",
+    "english": "<span data-i18n-slot=\"0\">0 pips, floating</span>",
+    "translation": "<span data-i18n-slot=\"0\">0 نقطة، متغيرة</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tf1241b0754123ca9",
+    "english": "<span data-i18n-slot=\"0\">For broader checks, read</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">How to Choose the Best Forex Broker in Middle East</span></span><span data-i18n-slot=\"4\">.</span>",
+    "translation": "<span data-i18n-slot=\"0\">لإجراء تحققات أشمل، اقرأ</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">كيفية اختيار أفضل وسيط فوركس في الشرق الأوسط</span></span><span data-i18n-slot=\"4\">.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t0a0535016c1bae11",
+    "english": "<span data-i18n-slot=\"0\">Risk Disclaimer:</span><span data-i18n-slot=\"1\"> Forex and CFD trading is leveraged, involves significant risk and may not be suitable for everyone. Losses may exceed the initial deposit. Past performance does not guarantee future results. Trade only with funds you can afford to lose and review the full</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">risk disclosure</span></span><span data-i18n-slot=\"5\">.</span>",
+    "translation": "<span data-i18n-slot=\"0\">إخلاء المسؤولية عن المخاطر:</span><span data-i18n-slot=\"1\"> يتم تداول الفوركس وعقود الفروقات باستخدام الرافعة المالية، وينطوي على مخاطر كبيرة وقد لا يكون مناسبًا للجميع. قد تتجاوز الخسائر الإيداع الأولي. الأداء السابق لا يضمن النتائج المستقبلية. تداول فقط بالأموال التي يمكنك تحمل خسارتها وراجع</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">الإفصاح الكامل عن المخاطر</span></span><span data-i18n-slot=\"5\">.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t931b39b9a1756e79",
+    "english": "<span data-i18n-slot=\"0\">Tesla (TSLA)</span>",
+    "translation": "<span data-i18n-slot=\"0\">تسلا (TSLA)</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "te9fbf56db090a6d3",
+    "english": "<span data-i18n-slot=\"0\">Tesla CFD</span>",
+    "translation": "<span data-i18n-slot=\"0\">عقود الفروقات على Tesla</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tf7b01bb61caeb3c4",
+    "english": "<span data-i18n-slot=\"0\">Review [link to UpForex's live Stock CFDs product page confirm exact URL before publishing] and practise the process in a demo environment before considering live exposure. For contract or market-hour questions,</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">contact our support team</span></span><span data-i18n-slot=\"4\">.</span>",
+    "translation": "<span data-i18n-slot=\"0\">راجع [رابط إلى صفحة منتج العقود مقابل الفروقات للأسهم المباشرة في UpForex، وتأكد من عنوان URL الدقيق قبل النشر] ومارس العملية في بيئة تجريبية قبل التفكير في التعرض المباشر. بالنسبة للأسئلة المتعلقة بالعقود أو ساعات السوق،</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">اتصل بفريق الدعم لدينا</span></span><span data-i18n-slot=\"4\">.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tb1512115fbbab43f",
+    "english": "<span data-i18n-slot=\"0\">Risk Disclaimer:</span><span data-i18n-slot=\"1\"> Trading CFDs involves significant risk and may not be suitable for everyone. Leverage magnifies gains and losses, and gaps may produce losses exceeding the amount planned or initially deposited. Past performance does not guarantee future results. Trade only with money you can afford to lose and review the full</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">risk disclosure</span></span><span data-i18n-slot=\"5\">.</span>",
+    "translation": "<span data-i18n-slot=\"0\">إخلاء المسؤولية عن المخاطر:</span><span data-i18n-slot=\"1\"> ينطوي تداول عقود الفروقات على مخاطر كبيرة وقد لا يكون مناسبًا للجميع. تعمل الرافعة المالية على تضخيم المكاسب والخسائر، وقد تؤدي الفجوات إلى خسائر تتجاوز المبلغ المخطط له أو المودع في البداية. الأداء السابق لا يضمن النتائج المستقبلية. تداول فقط بالأموال التي يمكنك تحمل خسارتها وراجع</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">الإفصاح الكامل عن المخاطر</span></span><span data-i18n-slot=\"5\">.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t496314d97547a403",
+    "english": "<span data-i18n-slot=\"0\">Readers who need a broader introduction can first review</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">How To Start Forex Trading for Beginners</span></span><span data-i18n-slot=\"4\">.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يمكن للقراء الذين يحتاجون إلى مقدمة أوسع أن يراجعوا أولاً</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">كيفية بدء تداول الفوركس للمبتدئين</span></span><span data-i18n-slot=\"4\">.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "te5878b67d6ae888b",
+    "english": "<span data-i18n-slot=\"0\">Beginners may benefit from</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">starting with a demo account</span></span><span data-i18n-slot=\"4\"> before applying these controls with real funds.</span>",
+    "translation": "<span data-i18n-slot=\"0\">قد يستفيد المبتدئون من</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">البدء بحساب تجريبي</span></span><span data-i18n-slot=\"4\"> قبل تطبيق عناصر التحكم هذه بأموال حقيقية.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tb4317085124931b7",
+    "english": "<span data-i18n-slot=\"0\">Traders who want a broader regional introduction can also read the guide to</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading in the Middle East</span></span><span data-i18n-slot=\"4\">.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يمكن أيضًا للمتداولين الذين يرغبون في الحصول على مقدمة إقليمية أوسع قراءة دليل</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">تداول العملات الأجنبية في الشرق الأوسط</span></span><span data-i18n-slot=\"4\">.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t41045ba0f5dbfd8a",
+    "english": "<span data-i18n-slot=\"0\">11:00 a.m.–8:00 p.m. during BST; noon–9:00 p.m. during GMT</span>",
+    "translation": "<span data-i18n-slot=\"0\">11:00 صباحًا - 8:00 مساءً أثناء التوقيت الصيفي البريطاني؛ الظهر - 9:00 مساءً بتوقيت جرينتش</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tc2f29dff88347f13",
+    "english": "<span data-i18n-slot=\"0\">Traders should confirm instrument-specific access through the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Index CFDs</span></span><span data-i18n-slot=\"4\"> and</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Stock CFDs</span></span><span data-i18n-slot=\"8\"> pages rather than assuming that all Nasdaq-related instruments use identical hours. UpForex confirms Nasdaq 100 exposure through its index-CFD offering and access to more than 200 company-share CFDs.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يجب على المتداولين التحقق من إتاحة كل أداة عبر صفحتي</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">عقود فروقات المؤشرات</span></span><span data-i18n-slot=\"4\"> و</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">العقود مقابل الفروقات للأسهم</span></span><span data-i18n-slot=\"8\"> بدلاً من افتراض أن جميع الأدوات المتعلقة ببورصة ناسداك تستخدم ساعات متطابقة. تؤكد UpForex إتاحة التعرض لمؤشر Nasdaq 100 من خلال عقود الفروقات على المؤشرات التي تقدمها، وإتاحة الوصول إلى أكثر من 200 عقد فروقات على أسهم الشركات.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t5162b326b7039fea",
+    "english": "<span data-i18n-slot=\"0\">Exact XAU/USD CFD hours and maintenance breaks are platform-specific. Traders should check the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Precious Metals trading</span></span><span data-i18n-slot=\"4\"> page or confirm the current contract schedule before trading. UpForex lists CFDs on gold, silver, platinum and palladium.</span>",
+    "translation": "<span data-i18n-slot=\"0\">إن ساعات العمل الفعلية لعقود الفروقات لـ XAU/USD وفواصل الصيانة خاصة بالمنصة. يجب على المتداولين التحقق من صفحة</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">تداول المعادن الثمينة</span></span><span data-i18n-slot=\"4\"> أو التأكد من جدول العقود الحالي قبل التداول. تدرج UpForex عقود الفروقات على الذهب والفضة والبلاتين والبلاديوم.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "te07a37f7aa9cfb81",
+    "english": "<span data-i18n-slot=\"0\">Platform conditions also matter. Traders comparing providers can review the guide to choosing the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">best forex broker in the Middle East</span></span><span data-i18n-slot=\"4\">.</span>",
+    "translation": "<span data-i18n-slot=\"0\">شروط المنصة مهمة أيضًا. يمكن للمتداولين الذين يقارنون بين مقدمي الخدمات مراجعة الدليل لاختيار</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">أفضل وسيط فوركس في الشرق الأوسط</span></span><span data-i18n-slot=\"4\">.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tceddbe8679f202fa",
+    "english": "<span data-i18n-slot=\"0\">These mistakes affect beginners everywhere, including forex traders in Dubai and across the UAE. Avoiding them cannot guarantee profit, but it can reduce preventable risk. Readers who are</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">new to forex trading</span></span><span data-i18n-slot=\"4\"> should first understand orders, leverage, margin, and stop-losses.</span>",
+    "translation": "<span data-i18n-slot=\"0\">تؤثر هذه الأخطاء على المبتدئين في كل مكان، بما في ذلك متداولي الفوركس في دبي ومختلف أنحاء الإمارات العربية المتحدة. إن تجنبها لا يضمن الربح، ولكنه يمكن أن يقلل من المخاطر التي يمكن الوقاية منها. يجب على القراء</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">المستجدين في تداول العملات الأجنبية</span></span><span data-i18n-slot=\"4\"> أن يفهموا أولاً الأوامر والرافعة المالية والهامش وإيقاف الخسائر.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t7b3faba573b3e4b3",
+    "english": "<span data-i18n-slot=\"0\">Mistake #2: Skipping Demo Practice</span>",
+    "translation": "<span data-i18n-slot=\"0\">الخطأ رقم 2: تخطي التدريب التجريبي</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t2bef9aca028fa878",
+    "english": "<span data-i18n-slot=\"0\">A demo cannot reproduce every live-trading emotion, but it builds basic competence. New traders should</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">practice on a demo account</span></span><span data-i18n-slot=\"4\"> before risking real funds. UpForex’s guide notes that live accounts introduce stronger emotional pressure, actual costs, and possible slippage. </span>",
+    "translation": "<span data-i18n-slot=\"0\">لا يمكن للحساب التجريبي أن يعيد إنتاج كل مشاعر التداول المباشر، ولكنه يبني الكفاءة الأساسية. يجب على المتداولين الجدد</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">التدرب على حساب تجريبي</span></span><span data-i18n-slot=\"4\"> قبل المخاطرة بأموال حقيقية. يشير دليل UpForex إلى أن الحسابات الحقيقية تسبب ضغطًا عاطفيًا أقوى وتكاليف فعلية وانزلاقًا محتملاً. </span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t4bed96fb30363a6d",
+    "english": "<span data-i18n-slot=\"0\">Mistake #3: Overleveraging Without Understanding Margin</span>",
+    "translation": "<span data-i18n-slot=\"0\">الخطأ رقم 3: المبالغة في الرافعة المالية دون فهم الهامش</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t8715ef53807fa937",
+    "english": "<span data-i18n-slot=\"0\">Searches for the </span><span data-i18n-slot=\"1\">best forex traders in Dubai</span><span data-i18n-slot=\"2\"> often reflect a wider need for a trustworthy trading environment. Dubai forex traders should review the broker’s legal entity, disclosures,</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">account types</span></span><span data-i18n-slot=\"6\">, and whether it is</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"> </span><span data-i18n-slot=\"9\">a broker with proper fund protection</span></span><span data-i18n-slot=\"10\">. The linked guide explains factors traders can review when assessing broker safeguards. </span>",
+    "translation": "<span data-i18n-slot=\"0\">عمليات البحث عن </span><span data-i18n-slot=\"1\">أفضل متداولي الفوركس في دبي</span><span data-i18n-slot=\"2\"> غالبًا ما تعكس حاجة أوسع لبيئة تداول جديرة بالثقة. يجب على متداولي الفوركس في دبي مراجعة الكيان القانوني للوسيط، والإفصاحات،</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span><span data-i18n-slot=\"5\">أنواع الحسابات</span></span><span data-i18n-slot=\"6\">، وما إذا كان</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"> </span><span data-i18n-slot=\"9\">وسيط يتمتع بحماية مناسبة للأموال</span></span><span data-i18n-slot=\"10\">. يشرح الدليل المرتبط العوامل التي يمكن للمتداولين مراجعتها عند تقييم ضمانات الوسيط. </span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t97778a7c6db71858",
+    "english": "<span data-i18n-slot=\"0\">Beginners can first review</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">a complete beginner’s guide to forex trading</span></span><span data-i18n-slot=\"4\"> before applying technical-analysis signals to live markets.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يمكن للمبتدئين أن يراجعوا أولاً</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">دليل المبتدئين الكامل لتداول العملات الأجنبية</span></span><span data-i18n-slot=\"4\"> قبل تطبيق إشارات التحليل الفني على الأسواق الحية.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t70dfeb75075cf15b",
+    "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">hammer</span><span data-i18n-slot=\"2\"> has a small body near the top of its range, a long lower wick, and little or no upper wick. It is usually watched after a decline.</span>",
+    "translation": "<span data-i18n-slot=\"0\">تحتوي </span><span data-i18n-slot=\"1\">المطرقة</span><span data-i18n-slot=\"2\"> على جسم صغير بالقرب من الجزء العلوي من نطاقها، وظل سفلي طويل، وظل علوي قصير أو معدوم. وعادةً ما تتم مراقبتها بعد الانخفاض.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "taf9515029614cf58",
+    "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">shooting star</span><span data-i18n-slot=\"2\"> has a small body near the bottom of its range, a long upper wick, and little or no lower wick. Traders commonly watch for it after an upward move.</span>",
+    "translation": "<span data-i18n-slot=\"0\">شمعة </span><span data-i18n-slot=\"1\">الشهاب</span><span data-i18n-slot=\"2\"> لها جسم صغير بالقرب من أسفل نطاقها، وظل علوي طويل، وظل سفلي قصير أو معدوم. وعادةً ما يراقبها المتداولون بعد حركة صعودية.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "teb5f2903c540a87b",
+    "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">dark cloud cover</span><span data-i18n-slot=\"2\"> pattern begins with a bullish candle. The next candle is bearish and closes below the midpoint of the previous bullish body.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يبدأ نمط </span><span data-i18n-slot=\"1\">الغطاء السحابي الداكن</span><span data-i18n-slot=\"2\"> بشمعة صاعدة. الشمعة التالية هابطة وتغلق تحت منتصف الجسم الصاعد السابق.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tee59b96904716331",
+    "english": "<span data-i18n-slot=\"0\">Skipping practice:</span><span data-i18n-slot=\"1\"> Traders should</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">practice reading patterns on a demo account before trading live</span></span><span data-i18n-slot=\"5\">, while recognising that demo results cannot reproduce every live-trading challenge.</span>",
+    "translation": "<span data-i18n-slot=\"0\">تخطي التدريب:</span><span data-i18n-slot=\"1\"> يجب على المتداولين</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">التدرب على قراءة الأنماط في حساب تجريبي قبل التداول الحقيقي</span></span><span data-i18n-slot=\"5\">، مع إدراك أن النتائج التجريبية لا يمكنها إعادة إنتاج كل تحديات التداول المباشر.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tde1c051c63a975fa",
+    "english": "<span data-i18n-slot=\"0\">A demo account can test platform features and strategy rules, but real-money emotions are different. Understanding</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">the key differences between a forex demo and a real account</span></span><span data-i18n-slot=\"4\"> can help traders prepare for this psychological gap.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يمكن للحساب التجريبي اختبار ميزات النظام الأساسي وقواعد الإستراتيجية، لكن المشاعر المصاحبة للتداول بأموال حقيقية مختلفة. إن فهم</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">الاختلافات الرئيسية بين الحساب التجريبي للفوركس والحساب الحقيقي</span></span><span data-i18n-slot=\"4\"> يمكن أن يساعد المتداولين على الاستعداد لهذه الفجوة النفسية.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t896aaf6a448d843a",
+    "english": "<span data-i18n-slot=\"0\">Hypothetical example for illustration only:</span><span data-i18n-slot=\"1\"> A trader deposits </span><span data-i18n-slot=\"2\">$1,000</span><span data-i18n-slot=\"3\">. The account provides leverage of up to </span><span data-i18n-slot=\"4\">1:300</span><span data-i18n-slot=\"5\">, but the trader opens a </span><span data-i18n-slot=\"6\">$50,000 position</span><span data-i18n-slot=\"7\">, creating effective leverage of 50:1. At 1:300, the required margin for this position would be approximately </span><span data-i18n-slot=\"8\">$166.67</span><span data-i18n-slot=\"9\">, excluding costs and any platform-specific adjustments.</span>",
+    "translation": "<span data-i18n-slot=\"0\">مثال افتراضي للتوضيح فقط:</span><span data-i18n-slot=\"1\"> يقوم المتداول بإيداع </span><span data-i18n-slot=\"2\">1,000 دولار</span><span data-i18n-slot=\"3\">. يوفر الحساب رافعة مالية تصل إلى </span><span data-i18n-slot=\"4\">1:300</span><span data-i18n-slot=\"5\">، لكن المتداول يفتح </span><span data-i18n-slot=\"6\">صفقة بقيمة 50,000 دولار</span><span data-i18n-slot=\"7\">، مما يؤدي إلى إنشاء رافعة مالية فعالة بنسبة 50:1. عند 1:300، سيكون الهامش المطلوب لهذا المركز تقريبًا </span><span data-i18n-slot=\"8\">166.67 دولارًا</span><span data-i18n-slot=\"9\">، باستثناء التكاليف وأي تعديلات خاصة بالمنصة.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tcd753768f59148e0",
+    "english": "<span data-i18n-slot=\"0\">A structured approach such as</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">the 1-hour forex strategy</span></span><span data-i18n-slot=\"4\"> should be tested and adapted rather than followed without analysis.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يجب اختبار وتكييف نهج منظم مثل</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">استراتيجية الفوركس على إطار 1 ساعة</span></span><span data-i18n-slot=\"4\"> بدلاً من اتباعها بدون تحليل.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t1453ddcfdea06a47",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Step 2: Select an Index</span></span>",
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">الخطوة 2: اختيار مؤشر</span></span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t339a8cb306a5046b",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Step 4: Open a Trade</span></span>",
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">الخطوة 4: فتح صفقة</span></span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t64f147ebe717b383",
+    "english": "<span data-i18n-slot=\"0\">Here’s why many traders prefer </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">CFD index</span></span><span data-i18n-slot=\"3\"> trading</span><span data-i18n-slot=\"4\">:</span>",
+    "translation": "<span data-i18n-slot=\"0\">إليك سبب تفضيل العديد من المتداولين تداول </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">عقود الفروقات على المؤشرات</span></span><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\">:</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tbe12cb7c96e5c55e",
+    "english": "<span data-i18n-slot=\"0\">Reliable customer support is another critical factor when selecting a forex broker. Since forex trading operates 24 hours a day, traders may occasionally need assistance with technical issues or account management.</span>",
+    "translation": "<span data-i18n-slot=\"0\">يعد دعم العملاء الموثوق به عاملاً حاسماً آخر عند اختيار وسيط فوركس. نظرًا لأن تداول العملات الأجنبية يعمل على مدار 24 ساعة يوميًا، فقد يحتاج المتداولون أحيانًا إلى المساعدة في المشكلات الفنية أو إدارة الحساب.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tc5e80f7569bfac25",
+    "english": "<span data-i18n-slot=\"0\">Step 2: Choose a Regulated Broker</span>",
+    "translation": "<span data-i18n-slot=\"0\">الخطوة 2: اختر وسيطًا خاضعًا للرقابة</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tdf8e336c5ca05d36",
+    "english": "<span data-i18n-slot=\"0\">Step 6: Create a Trading Plan</span>",
+    "translation": "<span data-i18n-slot=\"0\">الخطوة 6: إنشاء خطة تداول</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t48fcb74c61eca11a",
+    "english": "<span data-i18n-slot=\"0\">✔ Risk only 1–2% of capital per trade</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> ✔ Use stop-loss orders</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span></span><span data-i18n-slot=\"6\"> ✔ Avoid over-leveraging</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"></span></span><span data-i18n-slot=\"9\"> ✔ Set profit targets</span><span data-i18n-slot=\"10\"><span data-i18n-slot=\"11\"></span></span><span data-i18n-slot=\"12\"> ✔ Avoid emotional trading.</span>",
+    "translation": "<span data-i18n-slot=\"0\">✔ المخاطرة فقط 1–2% من رأس المال لكل صفقة</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> ✔ استخدم أوامر وقف الخسارة</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span></span><span data-i18n-slot=\"6\"> ✔ تجنب الإفراط في الرفع المالي</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"></span></span><span data-i18n-slot=\"9\"> ✔ حدد أهداف الربح</span><span data-i18n-slot=\"10\"><span data-i18n-slot=\"11\"></span></span><span data-i18n-slot=\"12\"> ✔ تجنب التداول العاطفي.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "te09b12dee4b457ac",
+    "english": "<span data-i18n-slot=\"0\">(Explore all tools</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\">here</span></span></span><span data-i18n-slot=\"5\">)</span>",
+    "translation": "<span data-i18n-slot=\"0\">(استكشاف جميع الأدوات</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\">هنا</span></span></span><span data-i18n-slot=\"5\">)</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t807f99d26f2d19ca",
+    "english": "<span data-i18n-slot=\"0\">A well-structured </span><span data-i18n-slot=\"1\">Bitcoin CFD Trading Platform </span><span data-i18n-slot=\"2\">connects traders to deep liquidity pools, allowing consistent pricing and efficient order execution even during periods of increased market activity.</span>",
+    "translation": "<span data-i18n-slot=\"0\">تتيح </span><span data-i18n-slot=\"1\">منصة تداول عقود الفروقات على البيتكوين </span><span data-i18n-slot=\"2\">ذات البنية الجيدة للمتداولين الوصول إلى مجمعات سيولة عميقة، مما يسمح بتسعير متسق وتنفيذ فعال للأوامر حتى خلال فترات ازدياد نشاط السوق.</span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t897a705cf5293022",
+    "english": "<span data-i18n-slot=\"0\">Open a Trading Account:</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">Register</span></span><span data-i18n-slot=\"4\"> with the platform and complete the verification process.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"></span><span data-i18n-slot=\"7\"></span></span>",
+    "translation": "<span data-i18n-slot=\"0\">افتح حساب تداول:</span><span data-i18n-slot=\"1\"> </span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\">سجل</span></span><span data-i18n-slot=\"4\"> في المنصة وأكمل عملية التحقق.</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"></span><span data-i18n-slot=\"7\"></span></span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "ta6755e1bae214deb",
+    "english": "<span data-i18n-slot=\"0\">Fund Your Account:</span><span data-i18n-slot=\"1\"> Deposit funds using a secure payment method.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "translation": "<span data-i18n-slot=\"0\">موّل حسابك:</span><span data-i18n-slot=\"1\"> قم بإيداع الأموال باستخدام طريقة دفع آمنة.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tf5cc5efe02be4306",
+    "english": "<span data-i18n-slot=\"0\">Select Your Oil Instrument:</span><span data-i18n-slot=\"1\"> Decide whether you want to trade Brent, WTI, or other oil-related derivatives.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "translation": "<span data-i18n-slot=\"0\">حدد أداة النفط الخاصة بك:</span><span data-i18n-slot=\"1\"> قرر ما إذا كنت تريد تداول خام برنت أو خام غرب تكساس الوسيط أو المشتقات الأخرى المرتبطة بالنفط.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t43626ab93ac8e6eb",
+    "english": "<span data-i18n-slot=\"0\">Use Demo Accounts:</span><span data-i18n-slot=\"1\"> Many online platforms, including Upforex, offer demo accounts where you can practice trading without risking real money.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "translation": "<span data-i18n-slot=\"0\">استخدام الحسابات التجريبية:</span><span data-i18n-slot=\"1\"> تقدم العديد من المنصات عبر الإنترنت، بما في ذلك Upforex، حسابات تجريبية حيث يمكنك ممارسة التداول دون المخاطرة بأموال حقيقية.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t2a9c79a95f3e990d",
+    "english": "Benefits of Forex Trading",
+    "translation": "فوائد تداول العملات الأجنبية",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "t1094a2ebceffdbfd",
+    "english": "<span data-i18n-slot=\"0\">Ultra-Low Spreads from 0.0 Pips <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> Reduce trading costs with institutional-grade pricing. </span>",
+    "translation": "<span data-i18n-slot=\"0\">فروق أسعار منخفضة للغاية تبدأ من 0.0 نقطة <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> قلل تكاليف التداول من خلال التسعير المؤسسي. </span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  },
+  {
+    "key": "tb7dcc6eacaa2f260",
+    "english": "<span data-i18n-slot=\"0\">Leverage Up to 1:300 <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> Amplify your trading potential with customizable leverage. </span>",
+    "translation": "<span data-i18n-slot=\"0\">رافعة مالية تصل إلى 1:300 <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> عزز إمكانات التداول لديك برافعة مالية قابلة للتخصيص. </span>",
+    "kind": "html",
+    "reviewed": true,
+    "humanReviewed": false,
+    "reviewMethod": "assistant-bilingual-exact-source-financial-context-review",
+    "note": "Preserve source risk caveats, numerical examples, product terms and HTML slots. Assistant review is not native-human certification or validation of the source marketing/regulatory claims."
+  }
+]

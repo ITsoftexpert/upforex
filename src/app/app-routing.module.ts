@@ -4,21 +4,27 @@ import { NavbarComponent } from './layouts/navbar/navbar.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { TermsDisplayComponent } from './components/terms-display/terms-display.component';
 import { LegelDocumentPgeComponent } from './legel-document-pge/legel-document-pge.component';
+import { LOCALIZED_LANGUAGE_BY_PATH } from './core/config/localized-routes';
+import { PageLanguageService } from './core/services/page-language.service';
 
 const loadComponentsModule = () =>
   import('./components/components.module').then((m) => m.ComponentsModule);
 
 const routes: Routes = [
-  ...['hi', 'ar', 'fr', 'es', 'de', 'zh-cn', 'zh-tw', 'ja', 'pt', 'ru'].map(
+  ...Object.keys(LOCALIZED_LANGUAGE_BY_PATH).map(
     (path) => ({
       path,
       component: NavbarComponent,
+      canActivateChild: [PageLanguageService],
+      data: { localizedSeo: true },
       loadChildren: loadComponentsModule,
     })
   ),
   {
     path: '',
     component: NavbarComponent,
+    canActivateChild: [PageLanguageService],
+    data: { localizedSeo: true },
     loadChildren: loadComponentsModule,
   },
   {

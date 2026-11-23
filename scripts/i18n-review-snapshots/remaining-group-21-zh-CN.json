@@ -1,0 +1,791 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t7825e234e26b53cc",
+      "english": "<span data-i18n-slot=\"0\">You can apply the same process when reviewing</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Forex CFD trading on UPFOREX</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">查看</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UPFOREX的外汇差价合约交易</span></span><span data-i18n-slot=\"4\">时，您可以使用同样的流程。</span>"
+    },
+    {
+      "key": "t56e52de7d5005ead",
+      "english": "<span data-i18n-slot=\"0\">How Does Leverage Affect Forex Position Size?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆如何影响外汇头寸规模？</span>"
+    },
+    {
+      "key": "ta9c894e4e8b1df2c",
+      "english": "<span data-i18n-slot=\"0\">Margin:</span><span data-i18n-slot=\"1\"> How much account equity must be allocated to open that exposure?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保证金：</span><span data-i18n-slot=\"1\">必须分配多少账户净值才能开仓？</span>"
+    },
+    {
+      "key": "t93512d1261928a80",
+      "english": "<span data-i18n-slot=\"0\">Standard:</span><span data-i18n-slot=\"1\"> $100 minimum deposit, spreads from 0.1 pips, $0 commission.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">标准：</span><span data-i18n-slot=\"1\">最低存款 100 美元，点差 0.1 点起，佣金 0 美元。</span>"
+    },
+    {
+      "key": "t04852dd2ff288bbc",
+      "english": "<span data-i18n-slot=\"0\">All three accounts publish a 50% margin call level and 30% stop-out level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">所有三个账户均公布 50% 的追加保证金水平和 30% 的强制平仓水平。</span>"
+    },
+    {
+      "key": "t81dda9c2f7ee81e0",
+      "english": "<span data-i18n-slot=\"0\">What Is a Standard, Mini and Micro Lot in Forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是外汇中的标准手、迷你手和微型手？</span>"
+    },
+    {
+      "key": "t5d3da5909baecc9e",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">standard lot</span><span data-i18n-slot=\"2\"> is 100,000 currency units, a </span><span data-i18n-slot=\"3\">mini lot</span><span data-i18n-slot=\"4\"> is 10,000 units, and a </span><span data-i18n-slot=\"5\">micro lot</span><span data-i18n-slot=\"6\"> is 1,000 units.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一</span><span data-i18n-slot=\"1\">标准手</span><span data-i18n-slot=\"2\">为100,000货币单位，一</span><span data-i18n-slot=\"3\">迷你手</span><span data-i18n-slot=\"4\">为10,000单位，一</span><span data-i18n-slot=\"5\">微型手</span><span data-i18n-slot=\"6\">为1,000单位。</span>"
+    },
+    {
+      "key": "tf7a44fd1216023f3",
+      "english": "<span data-i18n-slot=\"0\">Trade Volume</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易量</span>"
+    },
+    {
+      "key": "t54bc1b976856f66d",
+      "english": "<span data-i18n-slot=\"0\">Lot Name</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">手数名称</span>"
+    },
+    {
+      "key": "t7e1721f52153a895",
+      "english": "<span data-i18n-slot=\"0\">1.00 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.00 手</span>"
+    },
+    {
+      "key": "tf7373515b181fc11",
+      "english": "<span data-i18n-slot=\"0\">0.50 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.50 手</span>"
+    },
+    {
+      "key": "tf60be4badc8587f2",
+      "english": "<span data-i18n-slot=\"0\">Half standard lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">半标准手</span>"
+    },
+    {
+      "key": "t87b0bad9fd5cdc15",
+      "english": "<span data-i18n-slot=\"0\">0.10 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.10 手</span>"
+    },
+    {
+      "key": "t047a55b7dd478071",
+      "english": "<span data-i18n-slot=\"0\">0.05 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.05手</span>"
+    },
+    {
+      "key": "ta4153b0d4c5c6ebf",
+      "english": "<span data-i18n-slot=\"0\">Five micro lots</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">五微手</span>"
+    },
+    {
+      "key": "t1212a82ba2d110f5",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01手</span>"
+    },
+    {
+      "key": "tb1ac8fe6af9298bc",
+      "english": "<span data-i18n-slot=\"0\">A micro lot size is therefore 0.01 lot, or 1,000 units in a forex currency pair.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因此，微型手数为 0.01 手，即外汇货币对中的 1,000 个单位。</span>"
+    },
+    {
+      "key": "td9e83a3acae369ce",
+      "english": "<span data-i18n-slot=\"0\">A forex lot does not have one fixed dollar value. The question can refer either to the </span><span data-i18n-slot=\"1\">pip value</span><span data-i18n-slot=\"2\"> of the position or to its approximate </span><span data-i18n-slot=\"3\">notional market value</span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一手外汇没有固定的美元价值。该问题可以涉及头寸的</span><span data-i18n-slot=\"1\">点值</span><span data-i18n-slot=\"2\">或其近似</span><span data-i18n-slot=\"3\">名义市场价值</span><span data-i18n-slot=\"4\">。</span>"
+    },
+    {
+      "key": "ta834146a2dd287ba",
+      "english": "<span data-i18n-slot=\"0\">Approx. EUR/USD Pip Value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">EUR/USD的大致点值</span>"
+    },
+    {
+      "key": "tb6036afc17ed6b20",
+      "english": "<span data-i18n-slot=\"0\">Illustrative Notional Value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">说明性名义价值</span>"
+    },
+    {
+      "key": "tb1ca3f1679f00e2c",
+      "english": "<span data-i18n-slot=\"0\">$0.50 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每点 0.50 美元</span>"
+    },
+    {
+      "key": "tc68514ae37ffe828",
+      "english": "<span data-i18n-slot=\"0\">$1.00 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每点 1.00 美元</span>"
+    },
+    {
+      "key": "t035383cab0881a2c",
+      "english": "<span data-i18n-slot=\"0\">$5.00 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每点 5.00 美元</span>"
+    },
+    {
+      "key": "ta3290024a2564538",
+      "english": "<span data-i18n-slot=\"0\">$10.00 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每点 10.00 美元</span>"
+    },
+    {
+      "key": "t6c6e4fcbd3c74e67",
+      "english": "<span data-i18n-slot=\"0\">The notional-value figures simply illustrate currency units multiplied by an example EUR/USD rate somewhere around 1.00–1.10. They are not live prices, margin requirements, account deposits or the cash amount needed to open the trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">名义价值数据只是用货币单位数量乘以约1.00–1.10的示例EUR/USD汇率。它们并非实时报价、保证金要求、账户存款额，也不是开仓所需的现金金额。</span>"
+    },
+    {
+      "key": "tf784c991a8334453",
+      "english": "<span data-i18n-slot=\"0\">How Does Position Sizing Work Beyond Forex Pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">除了外汇货币对之外，头寸调整如何发挥作用？</span>"
+    },
+    {
+      "key": "tdd26dc8331e88ac5",
+      "english": "<span data-i18n-slot=\"0\">This distinction matters when using searches such as XAUUSD lot size calculator, NAS100 lot size calculator or BTCUSD lot size calculator. A forex calculation should not simply be copied onto another CFD without checking its specification.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在使用 XAUUSD 手数计算器、NAS100 手数计算器或 BTCUSD 手数计算器等搜索时，这种区别很重要。不应在不检查其规格的情况下将外汇计算简单地复制到另一个差价合约上。</span>"
+    },
+    {
+      "key": "t44f7d4c292161048",
+      "english": "<span data-i18n-slot=\"0\">1.00 lot = 100 troy ounces</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.00 手 = 100 金衡盎司</span>"
+    },
+    {
+      "key": "t7bb5ad76f22d0f6c",
+      "english": "<span data-i18n-slot=\"0\">For a 1.00-lot position, a $10 price move would represent:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于 1.00 手头寸，价格变动 10 美元代表：</span>"
+    },
+    {
+      "key": "t3b8c129fbcff2383",
+      "english": "<span data-i18n-slot=\"0\">$100 ÷ $1,000 = 0.10 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">100 美元 ÷ 1,000 美元 = 0.10 手</span>"
+    },
+    {
+      "key": "t8729f0ae2996cd7e",
+      "english": "<span data-i18n-slot=\"0\">What Are Common Forex Position-Sizing Mistakes?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">常见的外汇头寸调整错误有哪些？</span>"
+    },
+    {
+      "key": "te5d44428c8fadcf8",
+      "english": "<span data-i18n-slot=\"0\">1. Picking a round lot size first</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. 先选择看起来规整的手数</span>"
+    },
+    {
+      "key": "t80c5f44efee5056a",
+      "english": "<span data-i18n-slot=\"0\">Choosing a 0.10 or 1.00 lot because it looks convenient reverses the correct process. Calculate the risk-based size first.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因为看起来方便而选择 0.10 或 1.00 手，这与正确的过程相反。首先计算基于风险的规模。</span>"
+    },
+    {
+      "key": "t6bfb3839c471dca9",
+      "english": "<span data-i18n-slot=\"0\">2. Ignoring stop-loss distance</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。忽略止损距离</span>"
+    },
+    {
+      "key": "t0355d44b148e3bd3",
+      "english": "<span data-i18n-slot=\"0\">A 20-pip stop and a 100-pip stop should not automatically use the same position size when the intended account risk is identical.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">当预期账户风险相同时，20 点止损和 100 点止损不应自动使用相同的头寸规模。</span>"
+    },
+    {
+      "key": "t902c56d666cc0c08",
+      "english": "<span data-i18n-slot=\"0\">3. Confusing leverage with risk</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。混淆杠杆与风险</span>"
+    },
+    {
+      "key": "t7a3cb86576ac3d6f",
+      "english": "<span data-i18n-slot=\"0\">4. Using forex pip values for gold or indices</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4. 将外汇点值套用于黄金或指数</span>"
+    },
+    {
+      "key": "t54e43dcfccadb1d1",
+      "english": "<span data-i18n-slot=\"0\">Different CFDs have different contract specifications. Always use the instrument-specific value.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">不同差价合约的合约规格各不相同。请始终使用该金融工具对应的数值。</span>"
+    },
+    {
+      "key": "tcf622462fac384f2",
+      "english": "<span data-i18n-slot=\"0\">5. Treating 0.01 lot as the same dollar exposure everywhere</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5。将 0.01 手视为相同的美元风险</span>"
+    },
+    {
+      "key": "t0a91cb9f20f530f1",
+      "english": "<span data-i18n-slot=\"0\">Review its contract specification, tick size and related trading details.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">查看其合约规格、价格变动单位和相关交易详情。</span>"
+    },
+    {
+      "key": "t1e79136748555305",
+      "english": "<span data-i18n-slot=\"0\">For traders researching</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">forex trading in the UAE</span></span><span data-i18n-slot=\"4\">, position sizing is a useful next step after learning how currency pairs, pips and order sizes work.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对研究</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">阿联酋外汇交易</span></span><span data-i18n-slot=\"4\">的交易者来说，在了解货币对、点和订单规模的运作方式后，学习头寸规模计算是有用的下一步。</span>"
+    },
+    {
+      "key": "t29edb36ebad42736",
+      "english": "<span data-i18n-slot=\"0\">FAQs About Forex Position Size and Lot Size</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有关外汇头寸规模和手数大小的常见问题解答</span>"
+    },
+    {
+      "key": "t3e0c4129ce462a6f",
+      "english": "<span data-i18n-slot=\"0\">What is position size in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇头寸规模是多少？</span>"
+    },
+    {
+      "key": "t0579ae20c15f0ca8",
+      "english": "<span data-i18n-slot=\"0\">Position size in forex is the amount of a currency pair controlled by a trade. It can be expressed as currency units or converted into lots, such as 0.01, 0.10 or 1.00 lot.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇中的头寸规模是指交易控制的货币对的数量。可以用货币单位表示，也可以换算成手数，如0.01、0.10或1.00手。</span>"
+    },
+    {
+      "key": "t92576b9d751027e1",
+      "english": "<span data-i18n-slot=\"0\">What is lot size in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇中的手数是多少？</span>"
+    },
+    {
+      "key": "t282c3e32e418d48c",
+      "english": "<span data-i18n-slot=\"0\">Lot size in forex is the standardised unit used to express trade volume. One standard lot is 100,000 currency units, a mini lot is 10,000 units, and a micro lot is 1,000 units.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇手数是表示交易量的标准化单位。一标准手为100,000货币单位，迷你手为10,000单位，微型手为1,000单位。</span>"
+    },
+    {
+      "key": "t12f248365bcfb5ac",
+      "english": "<span data-i18n-slot=\"0\">What does position size mean in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇交易中头寸规模意味着什么？</span>"
+    },
+    {
+      "key": "t814beb1170a2d145",
+      "english": "<span data-i18n-slot=\"0\">Position size means the total market exposure represented by a trade. Its monetary effect depends on the trade volume, price movement, instrument and other contract specifications.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">头寸规模是指一笔交易所代表的总市场风险敞口。其货币效应取决于交易量、价格变动、工具和其他合约规格。</span>"
+    },
+    {
+      "key": "tbcbd25588107c17e",
+      "english": "<span data-i18n-slot=\"0\">What is a micro lot?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是微型手？</span>"
+    },
+    {
+      "key": "t7d95dc7616dcbae8",
+      "english": "<span data-i18n-slot=\"0\">A micro lot is 0.01 standard lot, equal to 1,000 currency units in forex. UPFOREX publishes a 0.01 minimum lot size across its Standard, Pro-ECN and Elite-ECN accounts.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">微型手是 0.01 标准手，相当于外汇中的 1,000 个货币单位。 UPFOREX 在其标准账户、Pro-ECN 和 Elite-ECN 账户中发布了 0.01 的最小手数。</span>"
+    },
+    {
+      "key": "tf17593d36d5a492d",
+      "english": "<span data-i18n-slot=\"0\">How do you calculate lot size in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何计算外汇交易手数？</span>"
+    },
+    {
+      "key": "t979d2beff1fb5827",
+      "english": "<span data-i18n-slot=\"0\">Leverage affects the margin needed to open a position, not the risk-based calculation itself. A larger available leverage ratio should not automatically result in a larger position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">杠杆影响开仓所需的保证金，而不是基于风险的计算本身。较大的可用杠杆率不应自动导致较大的头寸。</span>"
+    },
+    {
+      "key": "td0f818eb39952dc1",
+      "english": "<span data-i18n-slot=\"0\">Is a forex position size calculator the same as a lot size calculator?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇头寸规模计算器与手数计算器相同吗？</span>"
+    },
+    {
+      "key": "tb4e37d78b2dc9672",
+      "english": "<span data-i18n-slot=\"0\">Calculate First, Then Choose the Trade Volume</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">先计算，再选择交易量</span>"
+    },
+    {
+      "key": "td8211620e5e55264",
+      "english": "<span data-i18n-slot=\"0\">If you are still building your foundation, continue with</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">How to Start Forex Trading for Beginners</span></span><span data-i18n-slot=\"4\">. You can also read the guide to the</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Minimum Amount Required for Forex Trading</span></span><span data-i18n-slot=\"8\"> to understand how account balance connects with position sizing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如果您仍在打基础，请继续阅读</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">初学者如何开始外汇交易</span></span><span data-i18n-slot=\"4\">。您还可以阅读</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">外汇交易所需的最低金额</span></span><span data-i18n-slot=\"8\">指南，了解账户余额与头寸规模的关系。</span>"
+    },
+    {
+      "key": "t13ac6168300d97d8",
+      "english": "<span data-i18n-slot=\"0\">What Is a Forex Currency Pair?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是外汇货币对？</span>"
+    },
+    {
+      "key": "t6db45e5fc09a0e93",
+      "english": "<span data-i18n-slot=\"0\">Forex currencies are quoted in pairs because their values are relative. Unlike an individual share with its own quoted price, a currency is being valued against another currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇货币成对报价，因为它们的价值是相对的。与具有自己报价的个人股票不同，一种货币是根据另一种货币进行估值的。</span>"
+    },
+    {
+      "key": "tbf12d337ed2c1cdf",
+      "english": "<span data-i18n-slot=\"0\">EUR/USD</span><span data-i18n-slot=\"1\"> euro against U.S. dollar</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">欧元/美元</span><span data-i18n-slot=\"1\">欧元兑美元</span>"
+    },
+    {
+      "key": "tc90e8f7a8dbb7bba",
+      "english": "<span data-i18n-slot=\"0\">GBP/USD</span><span data-i18n-slot=\"1\"> British pound against U.S. dollar</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">英镑/美元</span><span data-i18n-slot=\"1\">英镑兑美元</span>"
+    },
+    {
+      "key": "tfc08bc52bcb22146",
+      "english": "<span data-i18n-slot=\"0\">USD/JPY</span><span data-i18n-slot=\"1\"> U.S. dollar against Japanese yen</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">美元/日元</span><span data-i18n-slot=\"1\">美元兑日元</span>"
+    },
+    {
+      "key": "t7f17b774f56aaad2",
+      "english": "<span data-i18n-slot=\"0\">AUD/USD</span><span data-i18n-slot=\"1\"> Australian dollar against U.S. dollar</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">澳元/美元</span><span data-i18n-slot=\"1\">澳元兑美元</span>"
+    },
+    {
+      "key": "t9783086fe865ac89",
+      "english": "<span data-i18n-slot=\"0\">EUR/GBP</span><span data-i18n-slot=\"1\"> euro against British pound</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">欧元/英镑</span><span data-i18n-slot=\"1\">欧元兑英镑</span>"
+    },
+    {
+      "key": "t7535da68fa12760e",
+      "english": "<span data-i18n-slot=\"0\">What Are the Base and Quote Currency in a Forex Pair?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外汇货币对中的基础货币和报价货币是什么？</span>"
+    },
+    {
+      "key": "t500450a307ea2a13",
+      "english": "<span data-i18n-slot=\"0\">Take EUR/USD:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">以欧元/美元为例：</span>"
+    },
+    {
+      "key": "t3db76b5fcf1ad13f",
+      "english": "<span data-i18n-slot=\"0\">USD = quote currency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">美元 = 报价货币</span>"
+    },
+    {
+      "key": "t11c701717f520d13",
+      "english": "<span data-i18n-slot=\"0\">The pair's quoted price tells you how many units of the quote currency are needed for one unit of the base currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">货币对的报价告诉您一单位基础货币需要多少单位的报价货币。</span>"
+    },
+    {
+      "key": "t360d86c2192565b4",
+      "english": "<span data-i18n-slot=\"0\">How Do You Read a Currency Pair Such as EUR/USD?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">如何解读欧元/美元等货币对？</span>"
+    },
+    {
+      "key": "t9c9b84970170c5c1",
+      "english": "<span data-i18n-slot=\"0\">2. Identify the quote currency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。确定报价货币</span>"
+    },
+    {
+      "key": "tabde8a428e37d9b2",
+      "english": "<span data-i18n-slot=\"0\">3. Read the exchange rate</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。查看汇率</span>"
+    },
+    {
+      "key": "t071aa1a2aa47e2fa",
+      "english": "<span data-i18n-slot=\"0\">The pair has moved upward by 0.0050, or </span><span data-i18n-slot=\"1\">50 pips,</span><span data-i18n-slot=\"2\"> under the standard four-decimal convention used for this pair.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">该货币对已上涨 0.0050，即 </span><span data-i18n-slot=\"1\">50 点，</span><span data-i18n-slot=\"2\"> 根据该货币对使用的标准四位小数惯例。</span>"
+    },
+    {
+      "key": "ta6e23d819a0ebf39",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">pip</span><span data-i18n-slot=\"2\"> is a standard unit used to describe relatively small changes in a forex price. For many currency pairs, one pip corresponds to the fourth decimal place. The main exception is pairs involving the Japanese yen, such as USD/JPY, where one pip is typically the second decimal place rather than the fourth.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">点</span><span data-i18n-slot=\"2\">是一种标准单位，用于描述外汇价格相对较小的变化。对于许多货币对，一 点对应于小数点后第四位。主要的例外是涉及日元的货币对，例如美元/日元，其中一个点通常是小数点后第二位而不是第四位。</span>"
+    },
+    {
+      "key": "t260e8611e38df039",
+      "english": "<span data-i18n-slot=\"0\">Major pairs typically attract substantial market activity and generally have higher liquidity than less frequently traded combinations. Higher liquidity also tends to support more competitive spread characteristics, although spreads can change with market conditions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要货币对通常会吸引大量市场活动，并且通常比交易频率较低的组合具有更高的流动性。尽管利差可能会随着市场状况而变化，但更高的流动性也往往会支持更具竞争力的利差特征。</span>"
+    },
+    {
+      "key": "t25e074e7108ebcf1",
+      "english": "<span data-i18n-slot=\"0\">According to the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Bank for International Settlements' September 2025 Triennial Survey press release</span></span><span data-i18n-slot=\"4\">, the U.S. dollar appeared on one side of </span><span data-i18n-slot=\"5\">89% of all FX trades in April 2025</span><span data-i18n-slot=\"6\">. The BIS also reported that the top 10 most-traded currency pairs all involved the U.S. dollar.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">根据</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">国际清算银行2025年九月三年期调查的新闻稿</span></span><span data-i18n-slot=\"4\">，美元是</span><span data-i18n-slot=\"5\">2025年四月全部外汇交易中89%的交易的一方</span><span data-i18n-slot=\"6\">。BIS还报告，交易量最高的前10个货币对都涉及美元。</span>"
+    },
+    {
+      "key": "tb3557197d5079b77",
+      "english": "<span data-i18n-slot=\"0\">What Are Minor Currency Pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是次要货币对？</span>"
+    },
+    {
+      "key": "tb1fb5cbecd83c6d6",
+      "english": "<span data-i18n-slot=\"0\">Minor pairs can still have meaningful trading activity, especially when they combine widely used currencies. However, their liquidity and spread characteristics can differ from those of the most actively traded major pairs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次要货币对仍可能有一定的交易活跃度，特别是当它们由广泛使用的货币组成时。不过，其流动性与点差特征可能不同于交易最活跃的主要货币对。</span>"
+    },
+    {
+      "key": "t0354150659f9b78c",
+      "english": "<span data-i18n-slot=\"0\">What Are Exotic Currency Pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是奇异货币对？</span>"
+    },
+    {
+      "key": "tc43060a024ce6ee8",
+      "english": "<span data-i18n-slot=\"0\">Compared with major pairs, exotic pairs generally have lower liquidity and can have wider spread characteristics. Their price behaviour may also be more sensitive to country-specific economic, monetary or political developments.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">与主要货币对相比，奇异货币对通常具有较低的流动性，并且可以具有更广泛的点差特征。他们的价格行为也可能对特定国家的经济、货币或政治发展更加敏感。</span>"
+    },
+    {
+      "key": "tf875e1f523c896bd",
+      "english": "<span data-i18n-slot=\"0\">That does not make every exotic pair behave the same way. One common beginner mistake is assuming that every pair in the same category has identical liquidity or volatility.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这并不意味着所有稀有货币对的表现都相同。初学者常犯的错误是假设同一类别中的每个货币对都有相同的流动性或波动性。</span>"
+    }
+  ]
+}

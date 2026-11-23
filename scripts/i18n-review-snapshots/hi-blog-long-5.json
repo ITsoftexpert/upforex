@@ -1,0 +1,482 @@
+[
+  {
+    "key": "tef82ff6c147a04c4",
+    "english": "<span data-i18n-slot=\"0\">This is why due diligence is essential before opening any forex trading account.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+      "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">यही कारण है कि कोई भी विदेशी मुद्रा व्यापार खाता खोलने से पहले उचित परिश्रम आवश्यक है।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.6567190410774967,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "81ec0ca5a544622a725925585e286cd5a0c187942f223ddf44e81221b014837b",
+      "sourceTargetSha256": "30d17d030aaccf0cbdd79cb0677b08e23967709fe7fab74909e84caa5c32de73",
+      "backTranslation": "That’s why any foreign currency trading account is required before opening a due diligence.",
+      "similarity": 0.7727915836722313,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t91b1c118a01397aa",
+    "english": "<span data-i18n-slot=\"0\">OX Securities notes that leverage magnifies exposure, enabling efficient use of capital.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+      "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">OX Securities का कहना है कि उत्तोलन जोखिम को बढ़ाता है, जिससे पूंजी का कुशल उपयोग संभव हो पाता है।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7770226358517591,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "2756a56501735adfe823a225a523cf192d16368665cde7deb5cc5be2ceffc1fe",
+      "sourceTargetSha256": "4994f23f54bd2957e02850bce402b5cc3ea5c98dc6027127efd556aa64415056",
+      "backTranslation": "OX Securities says that leverage increases risk, making efficient use of capital possible.",
+      "similarity": 0.8390007908015742,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "te294738b1a77b469",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">1. Leverage Risk</span></span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+      "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">1. जोखिम का लाभ उठाएं</span></span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.6327613963272769,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "eeb71ef412b243d089cec2639ce59657d6fa94a0747c178ff59f25c55279ce24",
+      "sourceTargetSha256": "35b9bcd1df48ed8b77962ce5fc79d2b77f20fd00fca1b48fa4dafd28b8f8b9ff",
+      "backTranslation": "1. Take advantage of risk",
+      "similarity": 0.5445871846485982,
+      "threshold": 0.92,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t2c651cc114ca4dbb",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">2. Counterparty Risk</span></span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+      "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">2. प्रतिपक्ष जोखिम</span></span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.8198915524014255,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "83728ddea18e99ce202ee3308054e251d187c7f51449b8875e234a1b1aaf1b1a",
+      "sourceTargetSha256": "a5f0c62c1a8eb5fcd8b5f364321c2a917216db677b742f35c6004497fe5b9bd1",
+      "backTranslation": "2. antagonistic exposure",
+      "similarity": 0.5359030977790502,
+      "threshold": 0.92,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t1d5adc579b87f44b",
+    "english": "<span data-i18n-slot=\"0\">As explained by Investopedia, rapid price swings may lead to forced liquidation.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+      "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">जैसा कि इन्वेस्टोपेडिया द्वारा समझाया गया है, तेजी से कीमतों में उतार-चढ़ाव से जबरन परिसमापन हो सकता है।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7576032050069778,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "d1acde1e61f396258c9ecafa48520db4a07942edf58194008e397abd7fa8b08e",
+      "sourceTargetSha256": "370ef45a9263b3968106ba13caecb6af4575537249df7540ca1ffff1f69bd384",
+      "backTranslation": "As explained by Investopedia, rapid prices fluctuations can lead to seizures.",
+      "similarity": 0.699425218473785,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "tc203c736c1f8e01e",
+    "english": "<span data-i18n-slot=\"0\">Understanding what is spread in </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">forex</span></span><span data-i18n-slot=\"3\"> is important because it directly impacts your cost per trade. A tighter (smaller) spread means you spend less money when entering or exiting a trade. On the other hand, a wider spread increases your trading cost. For scalpers and day traders who place multiple trades in a single day, choosing a broker with low spreads can make a big difference in overall profitability.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+      "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">यह समझना कि </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">विदेशी मुद्रा</span></span><span data-i18n-slot=\"3\"> में क्या फैला है, महत्वपूर्ण है क्योंकि यह सीधे आपकी लागत प्रति व्यापार को प्रभावित करता है। एक सख्त (छोटा) प्रसार का मतलब है कि आप किसी व्यापार में प्रवेश करते या बाहर निकलते समय कम पैसा खर्च करते हैं। दूसरी ओर, व्यापक प्रसार से आपकी ट्रेडिंग लागत बढ़ जाती है। स्केलपर्स और डे ट्रेडर्स के लिए जो एक ही दिन में कई ट्रेड करते हैं, कम स्प्रेड वाले ब्रोकर को चुनने से समग्र लाभप्रदता में बड़ा अंतर आ सकता है।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7641795690934243,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "21b69245877837ca882a966c71af22fa8b2d3c8b89bad47ee32dff2435612b69",
+      "sourceTargetSha256": "1326fa59f26e0615fc9e265a033ab0bfd65e671cc8c872f140628dcb9c8dcaa2",
+      "backTranslation": "Understanding what stretches in forex is important as it directly affects your cost per trade. A strict spread means you spend less money when entering or exiting a business. On the other hand, a comprehensive spread increases your trading costs. For scallops and day traders who trade many in one day, choosing a low spread broker can make a huge difference in overall profitability.",
+      "similarity": 0.8855453185755342,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t918faa5d694ee2f5",
+    "english": "<span data-i18n-slot=\"0\">Variable Spread</span><span data-i18n-slot=\"1\"> – The spread changes depending on market activity. During high liquidity times (like London or New York sessions), spreads are usually tighter. However, during quiet hours or major news events, spreads can widen.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+      "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">परिवर्तनीय प्रसार</span><span data-i18n-slot=\"1\"> - बाजार गतिविधि के आधार पर प्रसार बदलता रहता है। उच्च तरलता के समय (जैसे लंदन या न्यूयॉर्क सत्र) के दौरान, प्रसार आमतौर पर कम होता है। हालाँकि, शांत घंटों या प्रमुख समाचार घटनाओं के दौरान, प्रसार बढ़ सकता है।</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7673184600312108,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "bdf8658d089f1bf724d02e705f6f9ee50934d0f62ba182cc6429bc16e4f267e0",
+      "sourceTargetSha256": "122b05c50d54c528275dd8b3b2f438290eaf23af4d6c9406e52cf307b2bf2130",
+      "backTranslation": "Variable diffusion - varies depending on market activity. During the time of high liquidity (e.g. London or New York session), the spread is usually low. However, during cool hours or major news events, the spread may increase.",
+      "similarity": 0.8701282371786295,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "tbfdbc1cc51ac1d48",
+    "english": "<span data-i18n-slot=\"0\">Every time you place a trade, the spread acts like your entry cost. For example, if the spread is 2 pips, your trade must move at least 2 pips in your favor before you start making a profit. This is why experienced traders often compare brokers and choose one with consistently low spreads.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+      "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">हर बार जब आप कोई व्यापार करते हैं, तो स्प्रेड आपकी प्रवेश लागत की तरह कार्य करता है। उदाहरण के लिए, यदि स्प्रेड 2 पिप्स है, तो लाभ कमाना शुरू करने से पहले आपके व्यापार में कम से कम 2 पिप्स आपके पक्ष में होने चाहिए। यही कारण है कि अनुभवी व्यापारी अक्सर दलालों की तुलना करते हैं और लगातार कम प्रसार वाले दलालों को चुनते हैं।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7024468413465635,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "638e40724668fe005e8791931fd68f9ebfe8f18182d062972c71fe922e7e292c",
+      "sourceTargetSha256": "348fd54c6f3a408d9f35e2040d2d59c5d43673a340ec1e637645ac85ff5cb70a",
+      "backTranslation": "Every time you do a business, Spread serves as your entry cost. For example, if the spread is 2 pips, at least 2 pips in your business should be on your side before you start earning profit. That’s why experienced traders often compare brokers and constantly choose low spread brokers.",
+      "similarity": 0.8733371037789124,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t65d3778cea4d0420",
+    "english": "<span data-i18n-slot=\"0\">Q4. How do spreads affect profit in forex trading?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans.</span><span data-i18n-slot=\"4\"> Your trade must first cover the spread before you start making a profit. For example, if the spread is 2 pips, the market needs to move at least 2 pips in your favor to break even.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+      "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">Q4. विदेशी मुद्रा व्यापार में स्प्रेड लाभ को कैसे प्रभावित करते हैं?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">उत्तर.</span><span data-i18n-slot=\"4\"> लाभ कमाना शुरू करने से पहले आपके व्यापार को पहले स्प्रेड को कवर करना होगा। उदाहरण के लिए, यदि स्प्रेड 2 पिप्स है, तो बाजार को संतुलन के लिए आपके पक्ष में कम से कम 2 पिप्स स्थानांतरित करने की आवश्यकता है।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7090451333409789,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "ffc02cbde3213ba5a98bfcfc95476962e890b34d77d08ff0efc77a79c7be0698",
+      "sourceTargetSha256": "feb29156353a085d1475446a6fd33f3892f34e8ab30bf84eb62e1bcfec8ff534",
+      "backTranslation": "Q4. How do foreign exchanges affect spread profit in trade? Ans. Your business must first cover the spread before you start making profits. For example, if the spread is 2 pips, the market needs to transfer at least 2 pips to your side for balance.",
+      "similarity": 0.8358329454800368,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t891120f1040250e1",
+    "english": "<span data-i18n-slot=\"0\">Q6. Do all forex brokers charge spreads?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans</span><span data-i18n-slot=\"4\">. Most brokers earn through spreads, but some also charge a small commission along with very low spreads, especially on professional trading accounts.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+      "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">Q6. क्या सभी विदेशी मुद्रा दलाल स्प्रेड शुल्क लेते हैं?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">उत्तर</span><span data-i18n-slot=\"4\">। अधिकांश ब्रोकर स्प्रेड के माध्यम से कमाते हैं, लेकिन कुछ बहुत कम स्प्रेड के साथ एक छोटा कमीशन भी लेते हैं, खासकर पेशेवर ट्रेडिंग खातों पर।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.651959215143937,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "d58b611633f7c310b28b7284c2a4b192eb51d96cddee72401cd36ce4026875a6",
+      "sourceTargetSha256": "1356dc0d1eb2c913d4be6c11f59e9747eaca48161e52c402cd73f4a5ba05336e",
+      "backTranslation": "Q6. Do all foreign exchanges charge the broker spread fee? Answer . Most brokers earn through spreads, but some also take a small commission with a very low spread, especially on professional trading accounts.",
+      "similarity": 0.8195726154990732,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t0b21fa90b5ca8c94",
+    "english": "<span data-i18n-slot=\"0\">Q8. How can I reduce the impact of spreads on my trading?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans</span><span data-i18n-slot=\"4\">. You can reduce spread costs by choosing a broker with tight spreads, trading during high liquidity hours, and avoiding volatile news events.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+      "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">Q8. मैं अपने व्यापार पर स्प्रेड के प्रभाव को कैसे कम कर सकता हूं?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">उत्तर</span><span data-i18n-slot=\"4\">। आप सीमित स्प्रेड वाले ब्रोकर को चुनकर, उच्च तरलता वाले घंटों के दौरान व्यापार करके और अस्थिर समाचार घटनाओं से बचकर स्प्रेड लागत को कम कर सकते हैं।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.6454574407279074,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "99f914e9058ab39916791d0176635c0c1e83334dcd98e18d2e56fedd879ae071",
+      "sourceTargetSha256": "8966a90c7da17bc02ffff2dc1c02e73243a90fca33f043b4fb50d76e8cff7566",
+      "backTranslation": "Q8. How can I reduce the impact of spread on my business? Answer . You can reduce spread costs by choosing a limited spread broker, trading during high liquidity hours and avoiding unstable news events.",
+      "similarity": 0.8800252061681366,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t8d1e514114cdfc4d",
+    "english": "<span data-i18n-slot=\"0\">Clearer Trends:</span><span data-i18n-slot=\"1\"> Price movements are easier to analyze compared to very short time frames.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+      "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">स्पष्ट रुझान:</span><span data-i18n-slot=\"1\"> बहुत कम समय सीमा की तुलना में मूल्य आंदोलनों का विश्लेषण करना आसान है।</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7717083125477386,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "d6a5d133abf7a79744c30c2db53e64f720b66b8a88c63a552446d800a6a817bc",
+      "sourceTargetSha256": "d15ac8f30da6434c0b61bae5665662910ceaef21699fd84973b7de74f376ba07",
+      "backTranslation": "Explicit trends: It is easy to analyze price movements than a very short time frame.",
+      "similarity": 0.885892742679055,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "tdca3490c79bf48e0",
+    "english": "<span data-i18n-slot=\"0\">Don’t Overtrade:</span><span data-i18n-slot=\"1\"> Just because you see movement doesn’t mean you should enter every trade.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+      "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">ओवरट्रेड न करें:</span><span data-i18n-slot=\"1\"> सिर्फ इसलिए कि आप हलचल देखते हैं इसका मतलब यह नहीं है कि आपको हर ट्रेड में प्रवेश करना चाहिए।</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7157475074847527,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "7bde522b0b354a7a98bf70cc60a4bfbaa0e1a2cc4f3f7704c9e97edfc7a85518",
+      "sourceTargetSha256": "95fad914766cd8df01166d050de04431e0c6e95e52e926ce110130d06cf69930",
+      "backTranslation": "Don’t overtrend: Just because you see the bustle doesn’t mean you should enter every trade.",
+      "similarity": 0.7217376226860254,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t94f07c6c08832d12",
+    "english": "<span data-i18n-slot=\"0\">Combine Time Frames:</span><span data-i18n-slot=\"1\"> Check higher time frames (like 4-hour or daily) to confirm the overall trend.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+      "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">समय सीमा को संयोजित करें:</span><span data-i18n-slot=\"1\"> समग्र प्रवृत्ति की पुष्टि करने के लिए उच्च समय सीमा (जैसे 4 घंटे या दैनिक) की जांच करें।</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7718508016204981,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "956aec474d586f0f8d4cbe0118ab2d1a095bbc5c8764d5f98c10a32d1d6b80a8",
+      "sourceTargetSha256": "7f183ae1da47e4c7664f369b9aaf5a160037611357e8f9d38feaa86b70ae1e02",
+      "backTranslation": "Combine the deadline: Check the high deadline (e.g. 4 hours or daily) to confirm the overall trend.",
+      "similarity": 0.7318063745068228,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t3a4365d5f1529493",
+    "english": "<span data-i18n-slot=\"0\">Setting Stops Too Tight:</span><span data-i18n-slot=\"1\"> Give your trade enough space to breathe. The 1-hour chart can have bigger swings than shorter time frames.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+      "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">सेटिंग स्टॉप बहुत तंग:</span><span data-i18n-slot=\"1\"> अपने व्यापार को सांस लेने के लिए पर्याप्त जगह दें। 1-घंटे के चार्ट में छोटी समय सीमा की तुलना में बड़े उतार-चढ़ाव हो सकते हैं।</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.752327906546226,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "a8f9ff264dc592607f060fcf7435aa2791ef480213050e3240239605e5285c86",
+      "sourceTargetSha256": "77c5626850b380c946e91e2d66639a5433b337c63be9859f8903650b5af0b9aa",
+      "backTranslation": "Setting Stop Very tight: Place enough to breathe your business. 1-hour charts may have larger fluctuations than short time limits.",
+      "similarity": 0.8564807387925872,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t52a0a49b66a91d9d",
+    "english": "<span data-i18n-slot=\"0\">Another crucial </span><span data-i18n-slot=\"1\">difference</span><span data-i18n-slot=\"2\"> is how trades are executed.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+      "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">एक और महत्वपूर्ण </span><span data-i18n-slot=\"1\">अंतर</span><span data-i18n-slot=\"2\"> यह है कि व्यापार कैसे निष्पादित किया जाता है।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7212809478406617,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "5cba82680c25281cd716e0494a2f9bd1fb775cfe0db55ac199fc00c5e1c15ffc",
+      "sourceTargetSha256": "5ed15618b120e1199d31ddfb622dc51f7eee07a6b64fb285f1b1915769428974",
+      "backTranslation": "Another important difference is how the business is executed.",
+      "similarity": 0.7001067721589285,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  }
+]

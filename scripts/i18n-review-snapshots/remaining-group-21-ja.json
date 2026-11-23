@@ -1,0 +1,479 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tf7a44fd1216023f3",
+      "english": "<span data-i18n-slot=\"0\">Trade Volume</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引数量</span>"
+    },
+    {
+      "key": "t7e1721f52153a895",
+      "english": "<span data-i18n-slot=\"0\">1.00 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.00ロット</span>"
+    },
+    {
+      "key": "t047a55b7dd478071",
+      "english": "<span data-i18n-slot=\"0\">0.05 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.05ロット</span>"
+    },
+    {
+      "key": "t1212a82ba2d110f5",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.01ロット</span>"
+    },
+    {
+      "key": "td9e83a3acae369ce",
+      "english": "<span data-i18n-slot=\"0\">A forex lot does not have one fixed dollar value. The question can refer either to the </span><span data-i18n-slot=\"1\">pip value</span><span data-i18n-slot=\"2\"> of the position or to its approximate </span><span data-i18n-slot=\"3\">notional market value</span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替ロットには 一 つの固定ドル額はありません。質問は、ポジションの</span><span data-i18n-slot=\"1\">ピップ値</span><span data-i18n-slot=\"2\">、またはそのおおよその</span><span data-i18n-slot=\"3\">想定元本市場価値</span><span data-i18n-slot=\"4\">のいずれかを参照することができます。</span>"
+    },
+    {
+      "key": "tb6036afc17ed6b20",
+      "english": "<span data-i18n-slot=\"0\">Illustrative Notional Value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">例示的な想定元本価値</span>"
+    },
+    {
+      "key": "tb1ca3f1679f00e2c",
+      "english": "<span data-i18n-slot=\"0\">$0.50 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ピップあたり$0.50</span>"
+    },
+    {
+      "key": "tc68514ae37ffe828",
+      "english": "<span data-i18n-slot=\"0\">$1.00 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ピップあたり$1.00</span>"
+    },
+    {
+      "key": "t035383cab0881a2c",
+      "english": "<span data-i18n-slot=\"0\">$5.00 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ピップあたり$5.00</span>"
+    },
+    {
+      "key": "ta3290024a2564538",
+      "english": "<span data-i18n-slot=\"0\">$10.00 per pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ピップあたり$10.00</span>"
+    },
+    {
+      "key": "tf784c991a8334453",
+      "english": "<span data-i18n-slot=\"0\">How Does Position Sizing Work Beyond Forex Pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジションサイジングは外国為替ペア以外でどのように機能しますか?</span>"
+    },
+    {
+      "key": "t44f7d4c292161048",
+      "english": "<span data-i18n-slot=\"0\">1.00 lot = 100 troy ounces</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.00ロット = 100トロイオンス</span>"
+    },
+    {
+      "key": "t3c9d8ac6c17063c0",
+      "english": "<span data-i18n-slot=\"0\">A $1.00 gold price movement changes the value of a 1.00 lot by $100</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.00 ドルの金の価格変動により、1.00 ロットの価値が 100 ドル変化します</span>"
+    },
+    {
+      "key": "tcb9b17fd89cdb007",
+      "english": "<span data-i18n-slot=\"0\">Available leverage determines buying power and margin requirements; it does not tell you how much should be risked on one trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">利用可能なレバレッジによって購買力と必要証拠金が決まります。 一回の取引でどれだけのリスクを負うべきかはわかりません。</span>"
+    },
+    {
+      "key": "tcf622462fac384f2",
+      "english": "<span data-i18n-slot=\"0\">5. Treating 0.01 lot as the same dollar exposure everywhere</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5. 0.01 ロットをどこでも同じドルのエクスポージャとして扱う</span>"
+    },
+    {
+      "key": "t39f5ad9076affddc",
+      "english": "<span data-i18n-slot=\"0\">A practical workflow is:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">実際のワークフローは次のとおりです。</span>"
+    },
+    {
+      "key": "t4f38747e21acc9b4",
+      "english": "<span data-i18n-slot=\"0\">Open the instrument in</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">MetaTrader 5</span></span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">銘柄を</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">MetaTrader 5</span></span><span data-i18n-slot=\"4\">で開きます。</span>"
+    },
+    {
+      "key": "t0a91cb9f20f530f1",
+      "english": "<span data-i18n-slot=\"0\">Review its contract specification, tick size and related trading details.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">契約の仕様、ティックサイズ、および関連する取引の詳細を確認します。</span>"
+    },
+    {
+      "key": "t3e0c4129ce462a6f",
+      "english": "<span data-i18n-slot=\"0\">What is position size in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">FXにおけるポジションサイズとは何ですか?</span>"
+    },
+    {
+      "key": "t0579ae20c15f0ca8",
+      "english": "<span data-i18n-slot=\"0\">Position size in forex is the amount of a currency pair controlled by a trade. It can be expressed as currency units or converted into lots, such as 0.01, 0.10 or 1.00 lot.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替におけるポジションサイズは、取引によって管理される通貨ペアの量です。通貨単位で表すことも、0.01、0.10、1.00 ロットなどのロットに変換することもできます。</span>"
+    },
+    {
+      "key": "t92576b9d751027e1",
+      "english": "<span data-i18n-slot=\"0\">What is lot size in forex?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">FXにおけるロットサイズとは何ですか？</span>"
+    },
+    {
+      "key": "t979d2beff1fb5827",
+      "english": "<span data-i18n-slot=\"0\">Leverage affects the margin needed to open a position, not the risk-based calculation itself. A larger available leverage ratio should not automatically result in a larger position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジは、リスクベースの計算自体ではなく、ポジションをオープンするために必要な証拠金に影響します。利用可能なレバレッジ比率が大きくなっても、自動的にポジションが大きくなるわけではありません。</span>"
+    },
+    {
+      "key": "td70396649f93ee56",
+      "english": "<span data-i18n-slot=\"0\">They usually serve the same practical purpose when trading forex: converting account risk, stop-loss distance and pip value into an appropriate trade volume or lot size. The exact inputs can vary between calculators.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これらは通常、外国為替取引時に同じ実用的な目的を果たします。つまり、アカウントのリスク、ストップロス距離、pip 値を適切な取引量またはロットサイズに変換します。正確な入力は計算機によって異なる場合があります。</span>"
+    },
+    {
+      "key": "tb4e37d78b2dc9672",
+      "english": "<span data-i18n-slot=\"0\">Calculate First, Then Choose the Trade Volume</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最初に計算してから取引量を選択してください</span>"
+    },
+    {
+      "key": "td8211620e5e55264",
+      "english": "<span data-i18n-slot=\"0\">If you are still building your foundation, continue with</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">How to Start Forex Trading for Beginners</span></span><span data-i18n-slot=\"4\">. You can also read the guide to the</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Minimum Amount Required for Forex Trading</span></span><span data-i18n-slot=\"8\"> to understand how account balance connects with position sizing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">まだ基礎を構築中の場合は、</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">初心者向けの外国為替取引の始め方</span></span><span data-i18n-slot=\"4\">に進んでください。また、</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">外国為替取引に必要な最低金額</span></span><span data-i18n-slot=\"8\">に関するガイドを読んで、口座残高がポジションサイジングとどのように関係しているかを理解することもできます。</span>"
+    },
+    {
+      "key": "t13ac6168300d97d8",
+      "english": "<span data-i18n-slot=\"0\">What Is a Forex Currency Pair?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替通貨ペアとは何ですか?</span>"
+    },
+    {
+      "key": "t6db45e5fc09a0e93",
+      "english": "<span data-i18n-slot=\"0\">Forex currencies are quoted in pairs because their values are relative. Unlike an individual share with its own quoted price, a currency is being valued against another currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替通貨は、その価値が相対的なものであるため、ペアで見積もられます。独自の相場価格を持つ個別株とは異なり、通貨は別の通貨に対して評価されます。</span>"
+    },
+    {
+      "key": "t9783086fe865ac89",
+      "english": "<span data-i18n-slot=\"0\">EUR/GBP</span><span data-i18n-slot=\"1\"> euro against British pound</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">EUR/GBP</span><span data-i18n-slot=\"1\">ユーロ対英国ポンド</span>"
+    },
+    {
+      "key": "t7535da68fa12760e",
+      "english": "<span data-i18n-slot=\"0\">What Are the Base and Quote Currency in a Forex Pair?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">外国為替ペアの基準通貨と建値通貨は何ですか?</span>"
+    },
+    {
+      "key": "t500450a307ea2a13",
+      "english": "<span data-i18n-slot=\"0\">Take EUR/USD:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ユーロ/米ドルの場合:</span>"
+    },
+    {
+      "key": "t11c701717f520d13",
+      "english": "<span data-i18n-slot=\"0\">The pair's quoted price tells you how many units of the quote currency are needed for one unit of the base currency.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通貨ペアの提示価格は、基準通貨一単位に対して建値通貨が何単位必要かを示します。</span>"
+    },
+    {
+      "key": "t7dc0885071a90668",
+      "english": "<span data-i18n-slot=\"0\">If:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次の場合:</span>"
+    },
+    {
+      "key": "teffbdac896484bd0",
+      "english": "<span data-i18n-slot=\"0\">then:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次に:</span>"
+    },
+    {
+      "key": "t9c9b84970170c5c1",
+      "english": "<span data-i18n-slot=\"0\">2. Identify the quote currency</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2. 相場通貨を特定する</span>"
+    },
+    {
+      "key": "t071aa1a2aa47e2fa",
+      "english": "<span data-i18n-slot=\"0\">The pair has moved upward by 0.0050, or </span><span data-i18n-slot=\"1\">50 pips,</span><span data-i18n-slot=\"2\"> under the standard four-decimal convention used for this pair.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">この通貨ペアは0.0050、すなわち</span><span data-i18n-slot=\"1\">50ピップス</span><span data-i18n-slot=\"2\">上昇しました。このペアには、小数点以下四桁の標準的な慣例を用いています。</span>"
+    },
+    {
+      "key": "ta6e23d819a0ebf39",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">pip</span><span data-i18n-slot=\"2\"> is a standard unit used to describe relatively small changes in a forex price. For many currency pairs, one pip corresponds to the fourth decimal place. The main exception is pairs involving the Japanese yen, such as USD/JPY, where one pip is typically the second decimal place rather than the fourth.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">ピップ</span><span data-i18n-slot=\"2\">は外国為替価格の比較的小さな変化を示す標準単位です。多くの通貨ペアでは、一ピップは小数点以下第四位に対応します。主な例外はUSD/JPYなどの日本円を含む通貨ペアで、通常、一ピップは第四位ではなく第二位です。</span>"
+    },
+    {
+      "key": "t1520a63cbe63c7a6",
+      "english": "<span data-i18n-slot=\"0\">This is why learning to read the base and quote currencies is more useful than simply memorising pair names.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">このため、単にペア名を覚えるよりも、基準通貨と相場通貨の読み方を学ぶ方がより有益です。</span>"
+    },
+    {
+      "key": "t25e074e7108ebcf1",
+      "english": "<span data-i18n-slot=\"0\">According to the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Bank for International Settlements' September 2025 Triennial Survey press release</span></span><span data-i18n-slot=\"4\">, the U.S. dollar appeared on one side of </span><span data-i18n-slot=\"5\">89% of all FX trades in April 2025</span><span data-i18n-slot=\"6\">. The BIS also reported that the top 10 most-traded currency pairs all involved the U.S. dollar.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">国際決済銀行の2025年九月の三年ごとの調査発表</span></span><span data-i18n-slot=\"4\">によると、米ドルは</span><span data-i18n-slot=\"5\">2025年四月の全外国為替取引の89%で取引の一方</span><span data-i18n-slot=\"6\">に含まれていました。BISはまた、取引高上位10の通貨ペアがすべて米ドルを含むと報告しました。</span>"
+    },
+    {
+      "key": "t1a1b3ec0f57d16aa",
+      "english": "<span data-i18n-slot=\"0\">For a UAE-based beginner, major pairs are useful to understand first because they make the relationship between globally recognised currencies easier to follow before exploring less liquid markets.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UAE に拠点を置く初心者にとって、流動性の低い市場を探索する前に、世界的に認知されている通貨間の関係を理解しやすくするため、メジャーペアを最初に理解するのに役立ちます。</span>"
+    },
+    {
+      "key": "tb3557197d5079b77",
+      "english": "<span data-i18n-slot=\"0\">What Are Minor Currency Pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">マイナー通貨ペアとは何ですか?</span>"
+    },
+    {
+      "key": "tb1fb5cbecd83c6d6",
+      "english": "<span data-i18n-slot=\"0\">Minor pairs can still have meaningful trading activity, especially when they combine widely used currencies. However, their liquidity and spread characteristics can differ from those of the most actively traded major pairs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">マイナー通貨ペアでも、特に広く使われる通貨を組み合わせる場合には、相応の取引が行われることがあります。ただし、流動性やスプレッドの特性は、最も活発に取引されるメジャー通貨ペアとは異なる場合があります。</span>"
+    },
+    {
+      "key": "t3c491f448779fbbe",
+      "english": "<span data-i18n-slot=\"0\">They are useful for traders who want exposure to the relative movement of two currencies without making the U.S. dollar one side of the trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">米ドルを取引の一方に含めずに、二つの通貨の相対的な動きにエクスポージャーを持ちたいトレーダーに役立ちます。</span>"
+    },
+    {
+      "key": "t0354150659f9b78c",
+      "english": "<span data-i18n-slot=\"0\">What Are Exotic Currency Pairs?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">エキゾチック通貨ペアとは何ですか?</span>"
+    },
+    {
+      "key": "t2fde322851284dc0",
+      "english": "<span data-i18n-slot=\"0\">An </span><span data-i18n-slot=\"1\">exotic pair</span><span data-i18n-slot=\"2\"> normally combines a widely traded currency with a currency from a smaller, developing, or emerging economy.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">エキゾチックペア</span><span data-i18n-slot=\"2\">は、通常、広く取引されている通貨と、小規模、発展途上、または新興国の通貨を組み合わせたものです。</span>"
+    },
+    {
+      "key": "tc43060a024ce6ee8",
+      "english": "<span data-i18n-slot=\"0\">Compared with major pairs, exotic pairs generally have lower liquidity and can have wider spread characteristics. Their price behaviour may also be more sensitive to country-specific economic, monetary or political developments.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">メジャーペアと比較して、エキゾチックペアは一般に流動性が低く、より広いスプレッド特性を持つことができます。また、彼らの価格行動は、国固有の経済、金融、政治の動向により敏感になる可能性があります。</span>"
+    },
+    {
+      "key": "tf875e1f523c896bd",
+      "english": "<span data-i18n-slot=\"0\">That does not make every exotic pair behave the same way. One common beginner mistake is assuming that every pair in the same category has identical liquidity or volatility.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">すべてのエキゾチックペアが同じように動作するわけではありません。初心者によくある間違いの 一 つは、同じカテゴリーのすべてのペアが同じ流動性またはボラティリティを持っていると仮定することです。</span>"
+    },
+    {
+      "key": "t442665bc545b0b10",
+      "english": "<span data-i18n-slot=\"0\">Major vs Minor vs Exotic Currency Pairs: What Are the Key Differences?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#content",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">メジャー通貨ペア、マイナー通貨ペア、エキゾチック通貨ペア: 主な違いは何ですか?</span>"
+    }
+  ]
+}

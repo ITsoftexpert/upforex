@@ -1,0 +1,667 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t3684ae52ec0a1d22",
+      "english": "<span data-i18n-slot=\"0\">Overnight financing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">隔夜融资</span>"
+    },
+    {
+      "key": "tafde055893157296",
+      "english": "<span data-i18n-slot=\"0\">A position can therefore experience both a spread and slippage.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因此，头寸可能会经历点差和滑点。</span>"
+    },
+    {
+      "key": "t2cbaacadbc59dca7",
+      "english": "<span data-i18n-slot=\"0\">What Causes Slippage in Forex and CFD Trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">是什么导致外汇和差价合约交易滑点？</span>"
+    },
+    {
+      "key": "t4b7e875badb0f767",
+      "english": "<span data-i18n-slot=\"0\">Central-bank announcements</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">央行公告</span>"
+    },
+    {
+      "key": "tb51dc75cf3f83308",
+      "english": "<span data-i18n-slot=\"0\">Lower liquidity can occur:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可能会出现流动性下降：</span>"
+    },
+    {
+      "key": "tc7fbb88abd971106",
+      "english": "<span data-i18n-slot=\"0\">Around certain market openings or closings</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在某些市场开市或收市期间</span>"
+    },
+    {
+      "key": "t02a4bc252ca19e7b",
+      "english": "<span data-i18n-slot=\"0\">During quieter trading sessions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易较为安静的时段</span>"
+    },
+    {
+      "key": "t83b3bff04f76968e",
+      "english": "<span data-i18n-slot=\"0\">In less actively traded instruments</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易不太活跃的工具</span>"
+    },
+    {
+      "key": "td9ce28ab8b860ea5",
+      "english": "<span data-i18n-slot=\"0\">This is one reason </span><span data-i18n-slot=\"1\">slippage in forex</span><span data-i18n-slot=\"2\"> may become more noticeable during highly volatile periods.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这也是</span><span data-i18n-slot=\"1\">外汇交易中的滑点</span><span data-i18n-slot=\"2\">在剧烈波动时可能更加明显的原因之一。</span>"
+    },
+    {
+      "key": "t7e7c7db952481bd1",
+      "english": "<span data-i18n-slot=\"0\">Order Size Relative to Liquidity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">相对于流动性的订单规模</span>"
+    },
+    {
+      "key": "t449867327e61a5cc",
+      "english": "<span data-i18n-slot=\"0\">Market orders generally prioritize execution rather than guaranteeing one specific execution price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市价单通常会优先执行，而不是保证一个特定的执行价格。</span>"
+    },
+    {
+      "key": "t28c20cc4f4fe7eea",
+      "english": "<span data-i18n-slot=\"0\">Limit orders work differently.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">限价订单的工作方式有所不同。</span>"
+    },
+    {
+      "key": "taa0458771b7c9ee5",
+      "english": "<span data-i18n-slot=\"0\">Positive Slippage vs Negative Slippage: What's the Difference?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">正滑点与负滑点：有什么区别？</span>"
+    },
+    {
+      "key": "t47d0a9cefffe82a2",
+      "english": "<span data-i18n-slot=\"0\">Lower execution price = positive slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">较低的执行价格=正滑点</span>"
+    },
+    {
+      "key": "tab623a2858d39f10",
+      "english": "<span data-i18n-slot=\"0\">Higher execution price = negative slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">较高的执行价格=负滑点</span>"
+    },
+    {
+      "key": "t8fdd12eea0934ce6",
+      "english": "<span data-i18n-slot=\"0\">For a </span><span data-i18n-slot=\"1\">sell order</span><span data-i18n-slot=\"2\">:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于</span><span data-i18n-slot=\"1\">卖单</span><span data-i18n-slot=\"2\">：</span>"
+    },
+    {
+      "key": "t8c2ac3988d0d79d8",
+      "english": "<span data-i18n-slot=\"0\">Higher execution price = positive slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">较高的执行价格 = 正滑点</span>"
+    },
+    {
+      "key": "taf9db31677145e6a",
+      "english": "<span data-i18n-slot=\"0\">Lower execution price = negative slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">较低的执行价格=负滑点</span>"
+    },
+    {
+      "key": "t86ab5b9408d5407c",
+      "english": "<span data-i18n-slot=\"0\">Positive vs Negative Slippage Comparison</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">正滑点与负滑点比较</span>"
+    },
+    {
+      "key": "ta7f88990949ec4c6",
+      "english": "<span data-i18n-slot=\"0\">What Happens</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">发生了什么</span>"
+    },
+    {
+      "key": "t67bb15db33b499cd",
+      "english": "<span data-i18n-slot=\"0\">Sell Order Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">卖单示例</span>"
+    },
+    {
+      "key": "t34f4649911ede163",
+      "english": "<span data-i18n-slot=\"0\">Positive slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">正滑点</span>"
+    },
+    {
+      "key": "t4cb17498a288a1a2",
+      "english": "<span data-i18n-slot=\"0\">Expected 1.1050, filled 1.1053</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">预期1.1050，成交1.1053</span>"
+    },
+    {
+      "key": "t1711a54d28f6bd2b",
+      "english": "<span data-i18n-slot=\"0\">Negative slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">负滑点</span>"
+    },
+    {
+      "key": "t773fc67b2fdabdd7",
+      "english": "<span data-i18n-slot=\"0\">Execution is less favorable than expected</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">执行情况不如预期</span>"
+    },
+    {
+      "key": "t9b5d5e44ea9f25f8",
+      "english": "<span data-i18n-slot=\"0\">Fast adverse movement, gaps, or reduced liquidity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">快速不利变动、缺口或流动性减少</span>"
+    },
+    {
+      "key": "tbab19f2d11fddd89",
+      "english": "<span data-i18n-slot=\"0\">No slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">无滑点</span>"
+    },
+    {
+      "key": "t6fce907a2e4245e0",
+      "english": "<span data-i18n-slot=\"0\">Execution matches the expected price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">执行符合预期价格</span>"
+    },
+    {
+      "key": "tc537767627e3429c",
+      "english": "<span data-i18n-slot=\"0\">These figures are illustrative and do not represent live UPFOREX prices or expected execution results.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这些数字仅供参考，并不代表实时 UPFOREX 价格或预期执行结果。</span>"
+    },
+    {
+      "key": "t846e91fb814b03dd",
+      "english": "<span data-i18n-slot=\"0\">How Is Slippage Calculated?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑点是如何计算的？</span>"
+    },
+    {
+      "key": "ta40c50343c36c0bc",
+      "english": "<span data-i18n-slot=\"0\">Slippage difference = Execution Price − Expected Price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑点差额 = 执行价格 - 预期价格</span>"
+    },
+    {
+      "key": "t45c83378ee915ad0",
+      "english": "<span data-i18n-slot=\"0\">For a currency pair where 0.0001 represents one pip, the execution difference is 4 pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于 0.0001 代表 一 点的货币对，执行差异为 4 点。</span>"
+    },
+    {
+      "key": "te3c249027c95b53e",
+      "english": "<span data-i18n-slot=\"0\">Because a buyer paid a higher price than expected, this represents </span><span data-i18n-slot=\"1\">4 pips of negative slippage</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">由于买家支付的价格高于预期，这代表</span><span data-i18n-slot=\"1\">4个点的负滑点</span><span data-i18n-slot=\"2\">。</span>"
+    },
+    {
+      "key": "t82d4ab83dfab4ecf",
+      "english": "<span data-i18n-slot=\"0\">For sell orders, the interpretation reverses.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对于卖单，解释相反。</span>"
+    },
+    {
+      "key": "t4b9e547f1bac98bf",
+      "english": "<span data-i18n-slot=\"0\">Pips, Points, and MT5</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点（Pip）、点（Point）与MT5</span>"
+    },
+    {
+      "key": "t0979fa14f03d7298",
+      "english": "<span data-i18n-slot=\"0\">Slippage can be expressed using price units such as pips or points depending on the instrument and platform conventions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑点可以用pip或point等价格单位表示，具体取决于金融工具和平台的惯例。</span>"
+    },
+    {
+      "key": "t694104e44efd8014",
+      "english": "<span data-i18n-slot=\"0\">Instant Execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">即时执行</span>"
+    },
+    {
+      "key": "t11f77668540c2d74",
+      "english": "<span data-i18n-slot=\"0\">Exchange Execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易所执行</span>"
+    },
+    {
+      "key": "t8de28469dde5c18b",
+      "english": "<span data-i18n-slot=\"0\">Execution Stage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">执行阶段</span>"
+    },
+    {
+      "key": "tc76642d5c513e049",
+      "english": "<span data-i18n-slot=\"0\">Positive Slippage Outcome</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">正滑点的结果</span>"
+    },
+    {
+      "key": "t75f745c90bc3d681",
+      "english": "<span data-i18n-slot=\"0\">Negative Slippage Outcome</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">负滑点结果</span>"
+    },
+    {
+      "key": "t4ca11dbd141b1fa1",
+      "english": "<span data-i18n-slot=\"0\">Actual execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实际执行</span>"
+    },
+    {
+      "key": "tf3d21b454d4092f7",
+      "english": "<span data-i18n-slot=\"0\">3 pips lower</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">降低 3 点</span>"
+    },
+    {
+      "key": "td6df1acebf89114a",
+      "english": "<span data-i18n-slot=\"0\">4 pips higher</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">上涨 4 点</span>"
+    },
+    {
+      "key": "t53e11f1e7d02300e",
+      "english": "<span data-i18n-slot=\"0\">More favorable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">更优惠</span>"
+    },
+    {
+      "key": "t41ed93de2831d9d2",
+      "english": "<span data-i18n-slot=\"0\">Less favorable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">不太有利</span>"
+    },
+    {
+      "key": "t081a491883b12d70",
+      "english": "<span data-i18n-slot=\"0\">Slippage type</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑点类型</span>"
+    },
+    {
+      "key": "t571e3ebc6c29b162",
+      "english": "<span data-i18n-slot=\"0\">Outcome 1: Positive Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">结果 1：正滑点</span>"
+    },
+    {
+      "key": "t96ff8894b54b5c6e",
+      "english": "<span data-i18n-slot=\"0\">The trader therefore receives a price 3 pips better than expected.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">因此，交易者获得的价格比预期有利3点。</span>"
+    },
+    {
+      "key": "t4f65195571488869",
+      "english": "<span data-i18n-slot=\"0\">Outcome 2: Negative Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">结果 2：负滑点</span>"
+    },
+    {
+      "key": "t88e65f6bbbed8363",
+      "english": "<span data-i18n-slot=\"0\">The buyer receives a price 4 pips worse than expected, creating negative slippage.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">买家收到的价格比预期差 4 点，造成负滑点。</span>"
+    },
+    {
+      "key": "tda3718b8fa2e2c14",
+      "english": "<span data-i18n-slot=\"0\">The examples show why the </span><span data-i18n-slot=\"1\">meaning of slippage</span><span data-i18n-slot=\"2\"> cannot be understood only from the size of the price difference.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">这些示例说明，</span><span data-i18n-slot=\"1\">滑点的含义</span><span data-i18n-slot=\"2\">不能仅根据价格差异的大小来理解。</span>"
+    },
+    {
+      "key": "t8169a695652588c9",
+      "english": "<span data-i18n-slot=\"0\">What Does High Slippage Mean?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">高滑点意味着什么？</span>"
+    },
+    {
+      "key": "tc8ce25f9ad687445",
+      "english": "<span data-i18n-slot=\"0\">An order is large relative to available liquidity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">订单相对于可用流动性来说较大</span>"
+    },
+    {
+      "key": "tf518f68125738021",
+      "english": "<span data-i18n-slot=\"0\">Execution is delayed</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">执行被延迟</span>"
+    },
+    {
+      "key": "t3002e6903179ce62",
+      "english": "<span data-i18n-slot=\"0\">High slippage does not have one universal numerical threshold.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">高滑点没有一个通用的数字阈值。</span>"
+    },
+    {
+      "key": "t83da3e863a6bd5d2",
+      "english": "<span data-i18n-slot=\"0\">What may be considered unusually large for one instrument could be normal for another because tick size, volatility, liquidity, and trading conditions differ.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">由于最小变动价位、波动性、流动性和交易条件各不相同，对某一金融工具而言异常大的滑点，对另一金融工具而言可能属于正常范围。</span>"
+    },
+    {
+      "key": "t67bccb832cd30bcd",
+      "english": "<span data-i18n-slot=\"0\">How Does the Execution Model Affect Slippage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">执行模型如何影响滑点？</span>"
+    },
+    {
+      "key": "t5a79465170964a0f",
+      "english": "<span data-i18n-slot=\"0\">Execution policy</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">执行策略</span>"
+    },
+    {
+      "key": "taf341fe633dc5ef8",
+      "english": "<span data-i18n-slot=\"0\">Liquidity arrangements</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流动性安排</span>"
+    },
+    {
+      "key": "t9c67339522be1fd7",
+      "english": "<span data-i18n-slot=\"0\">Requote or rejection rules</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">重新报价或拒绝规则</span>"
+    },
+    {
+      "key": "tc2e0b47765618397",
+      "english": "<span data-i18n-slot=\"0\">Order-routing structure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">订单路由结构</span>"
+    },
+    {
+      "key": "t01ccc0938b7b07bf",
+      "english": "<span data-i18n-slot=\"0\">Actual execution records</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实际执行记录</span>"
+    },
+    {
+      "key": "t943bc3f0de6555c8",
+      "english": "<span data-i18n-slot=\"0\">Searching for the “lowest slippage broker” without considering these factors can oversimplify execution quality.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在不考虑这些因素的情况下寻找“滑点最低的经纪商”可能会过度简化执行质量。</span>"
+    },
+    {
+      "key": "t792f4f026539ed8e",
+      "english": "<span data-i18n-slot=\"0\">How Can Traders Manage Slippage Risk?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交易者如何管理滑点风险？</span>"
+    },
+    {
+      "key": "t64aaea8d9ad1f11f",
+      "english": "<span data-i18n-slot=\"0\">However, this creates a trade-off.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">但是，这会产生一个权衡。</span>"
+    }
+  ]
+}

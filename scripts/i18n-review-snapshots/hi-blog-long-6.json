@@ -1,0 +1,390 @@
+[
+  {
+    "key": "ta2718d89cb7b9577",
+    "english": "<span data-i18n-slot=\"0\">Q- 1. How long should I practice on a forex demo account before going live?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Most experts suggest practicing on a demo account for at least 2–3 months, or until you consistently apply strategies and manage risk properly.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+      "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">प्रश्न- 1. लाइव होने से पहले मुझे फॉरेक्स डेमो अकाउंट पर कितने समय तक अभ्यास करना चाहिए?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> अधिकांश विशेषज्ञ कम से कम 2-3 महीने तक डेमो अकाउंट पर अभ्यास करने का सुझाव देते हैं, या जब तक आप लगातार रणनीतियों को लागू नहीं करते हैं और जोखिम को ठीक से प्रबंधित नहीं करते हैं।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-repair",
+    "similarity": 0.8320336419438463,
+    "problems": [
+      "Changed numeric values"
+    ]
+  },
+  {
+    "key": "tb60796abb840f4fd",
+    "english": "<span data-i18n-slot=\"0\">Experts suggest not risking more than </span><span data-i18n-slot=\"1\">1–2% of your capital</span><span data-i18n-slot=\"2\"> on a single trade. So, if you deposit $100, you should risk only $1–$2 per trade.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+      "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">विशेषज्ञों का सुझाव है कि एक ही व्यापार पर </span><span data-i18n-slot=\"1\">अपनी पूंजी का 1-2%</span><span data-i18n-slot=\"2\"> से अधिक जोखिम न उठाएं। इसलिए, यदि आप $100 जमा करते हैं, तो आपको प्रति ट्रेड केवल $1-$2 का जोखिम उठाना चाहिए।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-repair",
+    "similarity": 0.9040998917606342,
+    "problems": [
+      "Changed numeric values",
+      "Source denial/exclusion needs bilingual review"
+    ]
+  },
+  {
+    "key": "t8def2ea77f32aa67",
+    "english": "<span data-i18n-slot=\"0\">Clearly, having a slightly larger deposit makes trading less stressful and more educational.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+      "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">स्पष्ट रूप से, थोड़ा बड़ा जमा होने से व्यापार कम तनावपूर्ण और अधिक शैक्षिक हो जाता है।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7336092693136458,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "2ae831dbafff0368a9e1d4dcfbca8e6e02adc5b735c8f9dc70a548618137db75",
+      "sourceTargetSha256": "7fdd07b2ed6b46b6f7b360bffcf60a0e63b647dfc54d001dd463f2bdaf1c863c",
+      "backTranslation": "Clearly, having a slightly larger deposit makes the business less stressful and more educational.",
+      "similarity": 0.8822949264022828,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t368b6a3383362c81",
+    "english": "<span data-i18n-slot=\"0\">Trading without a plan</span><span data-i18n-slot=\"1\"> – Random trades lead to random results.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+      "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">बिना किसी योजना के व्यापार करना</span><span data-i18n-slot=\"1\"> - यादृच्छिक व्यापार से यादृच्छिक परिणाम मिलते हैं।</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7495207369034743,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "65c21929597943ff1026c74f53baa11a717b6df8034694582b935b157308d889",
+      "sourceTargetSha256": "146392df8e49fafac740c2a48a5a7671d14de4e10d34970113b1974860f50db5",
+      "backTranslation": "Doing business without a plan - random results get from random business.",
+      "similarity": 0.7206430115283937,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "tf9b9ae92807a573e",
+    "english": "<span data-i18n-slot=\"0\">More Profits Stay with You – </span>No commission means every winning trade delivers its full potential profit.",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/zero-commission-forex-trading#content",
+      "SSR:/blogs/zero-commission-forex-trading"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">अधिक लाभ आपके साथ रहेगा - </span>कोई कमीशन नहीं होने का मतलब है कि प्रत्येक जीतने वाला व्यापार अपना पूर्ण संभावित लाभ प्रदान करता है।",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7515981573253766,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "44ab37cd823a4020a0da2f95f33761ab8ea79506052b8e5d36e19c9daf86709d",
+      "sourceTargetSha256": "f0265a568d640b22b940bdcbaf918dfbac5c61e588c9eac9e73c2eae614bf234",
+      "backTranslation": "The more profit will remain with you – having no commission means every winning business offers its full potential profit.",
+      "similarity": 0.8840229686391119,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t2ee8f20f6e1390b7",
+    "english": "<span data-i18n-slot=\"0\">A:</span><span data-i18n-slot=\"1\"> Yes, UpForex is a regulated forex broker, with official licenses granted by authorities in Saint Lucia and Mauritius. Specifically, UpForex Ltd is incorporated in Saint Lucia under registration number 2024‑00700, and its affiliated company in Mauritius—UP Global Markets Ltd—is licensed by the Financial Services Commission (FSC) Mauritius as an Investment Dealer (License No. GB23204579).</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/best-regulated-forex-platform#content",
+      "SSR:/blogs/best-regulated-forex-platform"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">A:</span><span data-i18n-slot=\"1\"> हां, UpForex एक विनियमित विदेशी मुद्रा दलाल है, जिसके पास सेंट लूसिया और मॉरीशस में अधिकारियों द्वारा आधिकारिक लाइसेंस दिए गए हैं। विशेष रूप से, UpForex Ltd को सेंट लूसिया में पंजीकरण संख्या 2024‑00700 के तहत निगमित किया गया है, और मॉरीशस में इसकी संबद्ध कंपनी-UP Global Markets Ltd- को वित्तीय सेवा आयोग (FSC) मॉरीशस द्वारा एक निवेश डीलर (लाइसेंस संख्या GB23204579) के रूप में लाइसेंस प्राप्त है।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-repair",
+    "similarity": 0.9128267948147,
+    "problems": [
+      "Source denial/exclusion needs bilingual review"
+    ]
+  },
+  {
+    "key": "ta250a582ea789952",
+    "english": "<span data-i18n-slot=\"0\">The fear of losing funds to platform issues or shady practices is real — and justified. That’s why UpForex prioritizes complete fund protection. We use segregated bank accounts to keep your money separate from company funds, enforce negative balance protection so you can never lose more than you invest, and provide secure access with multi-layer encryption. Your capital stays untouched, and fully under your control — always.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/forex-broker-with-fund-protection#content",
+      "SSR:/blogs/forex-broker-with-fund-protection"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">The fear of losing funds to platform issues or shady practices is real — and justified. इसीलिए UpForex संपूर्ण फंड सुरक्षा को प्राथमिकता देता है। हम आपके पैसे को कंपनी के फंड से अलग रखने, नकारात्मक शेष सुरक्षा लागू करने के लिए अलग-अलग बैंक खातों का उपयोग करते हैं ताकि आप कभी भी निवेश से अधिक न खोएं, और मल्टी-लेयर एन्क्रिप्शन के साथ सुरक्षित पहुंच प्रदान करें। Your capital stays untouched, and fully under your control — always.</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-repair",
+    "similarity": 0.8965726010025606,
+    "problems": [
+      "Untranslated English passage",
+      "Source denial/exclusion needs bilingual review"
+    ]
+  },
+  {
+    "key": "tdd8624c63c8199f2",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Frequently Asked Questions - Forex Instant Withdrawals</span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+      "SSR:/blogs/forex-trading-with-instant-withdrawals"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">अक्सर पूछे जाने वाले प्रश्न - विदेशी मुद्रा तत्काल निकासी</span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.5908215947186738,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "2adbea617192d76163847916cfb1a30b67b5128d5617d0635eb0efac59bd187b",
+      "sourceTargetSha256": "1a4b3d0df3d61068e15d971aceb0f6198e234417e50a0fc6026003e529b3d871",
+      "backTranslation": "FAQs - Forex Immediate Withdrawals",
+      "similarity": 0.772427473525962,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "tb1e08ae4a899765a",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">How quickly can you withdraw earnings on forex?</span></span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+      "SSR:/blogs/forex-trading-with-instant-withdrawals"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">आप विदेशी मुद्रा पर कमाई कितनी जल्दी निकाल सकते हैं?</span></span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.5947376145291718,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "0674f694d5ee94d3c8dade77bf13a65481df905d2a7c46738b5580bc7e20c674",
+      "sourceTargetSha256": "e8b74bac2c1c4c0e8a042a20608be357f966a2e29bb6845e93b4e6a8399211ca",
+      "backTranslation": "How quickly can you withdraw earnings on foreign currency?",
+      "similarity": 0.8309852804751978,
+      "threshold": 0.92,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t5026e8f2b4cc3336",
+    "english": "<span data-i18n-slot=\"0\">Volatility per hour of EUR/USD during the Tokyo (Asian) session. Quiet Asian hours often see lower volatility – only around 5–7 pips of movement per hour on average – compared to the more active London or New York sessions.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+      "SSR:/blogs/strategy-snapshot-trading-breakouts"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">टोक्यो (एशियाई) सत्र के दौरान EUR/USD की प्रति घंटे अस्थिरता। अधिक सक्रिय लंदन या न्यूयॉर्क सत्रों की तुलना में शांत एशियाई घंटों में अक्सर कम अस्थिरता देखी जाती है - औसतन प्रति घंटे केवल 5-7 पिप्स की आवाजाही।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-repair",
+    "similarity": 0.8246811369347816,
+    "problems": [
+      "Changed numeric values"
+    ]
+  },
+  {
+    "key": "t0fa8f23164b46c3f",
+    "english": "These will serve as your breakout levels. (Pro tip: Tighter ranges often lead to stronger breakouts; if you see an unusually small range, get ready.)",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+      "SSR:/blogs/strategy-snapshot-trading-breakouts"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "ये आपके ब्रेकआउट लेवल के रूप में काम करेंगे। (प्रो टिप: सख्त रेंज अक्सर मजबूत ब्रेकआउट का कारण बनती है; यदि आप असामान्य रूप से छोटी रेंज देखते हैं, तो तैयार हो जाएं।)",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.564119426069238,
+    "problems": []
+  },
+  {
+    "key": "t4bc4bd02eb975bf0",
+    "english": "<span data-i18n-slot=\"0\">Confirm the Breakout: </span><span data-i18n-slot=\"1\">Rather than jumping in at the first tick beyond the range, it’s wise to confirm that the breakout is real. In low-liquidity conditions, false breakouts (or “fakeouts”) can happen when price pokes past the level but snaps back into the range. To filter these out, look for confirmation signals:</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+      "SSR:/blogs/strategy-snapshot-trading-breakouts"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">ब्रेकआउट की पुष्टि करें: </span><span data-i18n-slot=\"1\">सीमा से परे पहले टिक पर कूदने के बजाय, यह पुष्टि करना बुद्धिमानी है कि ब्रेकआउट वास्तविक है। कम-तरलता की स्थिति में, गलत ब्रेकआउट (या \"फर्जीआउट\") तब हो सकता है जब कीमत स्तर को पार कर जाती है लेकिन वापस सीमा में आ जाती है। इन्हें फ़िल्टर करने के लिए, पुष्टिकरण संकेतों को देखें:</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.5786858653782603,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "983364072eb13bc58c042d8d20a3951f8630a19b04b05e858bc4347e08a2cc83",
+      "sourceTargetSha256": "8351ba2331c0c31a1fcfd72c33c073a89414794fb7e72e1fdb5e88af90025ba0",
+      "backTranslation": "Confirm the breakout: Instead of jumping on the tick before the border, it is wise to confirm that the breakout is real. In case of low-liquidness, the wrong breakout (or “fergicout”) may occur when the price level is exceeded but the back falls into the border. To filter these, check the confirmation signals:",
+      "similarity": 0.8958334847152076,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t28f5f96d4e9b06a3",
+    "english": "Perhaps a secondary indicator like RSI or Stochastic showing momentum in the breakout direction. (Some traders wait for a retest – price breaking out then briefly retracing to the old level and bouncing off it – as extra confirmation, though in fast-moving low-liquidity breakouts you may not always get a retest.)",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+      "SSR:/blogs/strategy-snapshot-trading-breakouts"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "शायद आरएसआई या स्टोचैस्टिक जैसा कोई द्वितीयक संकेतक ब्रेकआउट दिशा में गति दिखा रहा है। (कुछ व्यापारी पुनः परीक्षण की प्रतीक्षा करते हैं - कीमत टूटती है और फिर थोड़े समय के लिए पुराने स्तर पर वापस आ जाती है और उसमें उछाल आती है - अतिरिक्त पुष्टि के रूप में, हालांकि तेजी से बढ़ने वाले कम-तरलता वाले ब्रेकआउट में आपको हमेशा पुनः परीक्षण नहीं मिल सकता है।)",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.6940611908763715,
+    "problems": []
+  },
+  {
+    "key": "tc6fcdc4b51c97c95",
+    "english": "<span data-i18n-slot=\"0\">Always stay flexible. Low-liquidity breakouts can be explosive but also erratic, so active trade management is key.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+      "SSR:/blogs/strategy-snapshot-trading-breakouts"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">हमेशा लचीले रहें. कम-तरलता वाले ब्रेकआउट विस्फोटक हो सकते हैं लेकिन अनियमित भी हो सकते हैं, इसलिए सक्रिय व्यापार प्रबंधन महत्वपूर्ण है।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7493448318291331,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "929bad5313c11b84f940a7ae7fe7e17e61e9f445f1313352e978ee5870ab26bf",
+      "sourceTargetSha256": "ab889af2479377791ea0434e04c9068b05fb13d6debccdd0c281bd44ecb62332",
+      "backTranslation": "Always be flexible. Low-liquid breakouts may be explosive but may also be irregular, so active business management is important.",
+      "similarity": 0.7580409884114195,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  },
+  {
+    "key": "t98d9d9a4ec496768",
+    "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Bollinger Bands: </span>When bands pinch together during a low-vol period, it signals a volatility compression. A subsequent sudden widening of the bands often accompanies a breakout move. Traders might use a Bollinger Band squeeze as an early warning that “something’s about to happen.”</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+      "SSR:/blogs/strategy-snapshot-trading-breakouts"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">बोलिंगर बैंड: </span>जब बैंड कम-वॉल्यूम अवधि के दौरान एक साथ चिपकते हैं, तो यह अस्थिरता संपीड़न का संकेत देता है। बैंड का बाद में अचानक चौड़ा होना अक्सर एक ब्रेकआउट कदम के साथ होता है। व्यापारी बोलिंगर बैंड स्क्वीज़ का उपयोग प्रारंभिक चेतावनी के रूप में कर सकते हैं कि \"कुछ होने वाला है।\"</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7575886699942428,
+    "problems": []
+  },
+  {
+    "key": "ta2f56c29b847e2c1",
+    "english": "<span data-i18n-slot=\"0\">Average True Range (ATR): </span><span data-i18n-slot=\"1\">ATR measures volatility. A very low ATR (compared to recent norms) suggests a quiet market. If ATR starts picking up along with a price move beyond your key level, that adds confidence to the breakout. In fact, some traders set volatility alerts so they are notified when ATR over a short window spikes above a threshold – a sign that a formerly sleepy market is revving up.</span>",
+    "kind": "html",
+    "sources": [
+      "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+      "SSR:/blogs/strategy-snapshot-trading-breakouts"
+    ],
+    "reasons": [
+      "Missing validated exact-source translation"
+    ],
+    "translation": "<span data-i18n-slot=\"0\">औसत ट्रू रेंज (एटीआर): </span><span data-i18n-slot=\"1\">एटीआर अस्थिरता को मापता है। बहुत कम एटीआर (हाल के मानदंडों की तुलना में) एक शांत बाजार का सुझाव देता है। यदि एटीआर आपके प्रमुख स्तर से आगे कीमत बढ़ने के साथ-साथ बढ़ना शुरू कर देता है, तो इससे ब्रेकआउट में आत्मविश्वास जुड़ जाता है। वास्तव में, कुछ व्यापारी अस्थिरता अलर्ट सेट करते हैं ताकि जब एक छोटी विंडो पर एटीआर एक सीमा से ऊपर बढ़ जाए तो उन्हें सूचित किया जाए - यह एक संकेत है कि पहले से सोया हुआ बाजार फिर से उभर रहा है।</span>",
+    "draftProvider": "google-consumer-local-drafts-v1",
+    "validationStatus": "requires-roundtrip",
+    "similarity": 0.7729270819577534,
+    "problems": [],
+    "backValidation": {
+      "method": "reverse-NMT-plus-English-semantic-and-value-checks",
+      "provider": "argos-local-reverse-v1",
+      "modelArchiveSha256": "f99eadf297073c0f5a320df5d634ebb73e9ab0b819404edf7bd0a0daf6b1ce43",
+      "sourceEnglishSha256": "69d8c6751c8385d0a8586d82c0ce40db188c938cabcf3bc1310a1363cebc5de9",
+      "sourceTargetSha256": "28a7b05a55b1e29747831f07aa3188fb07e5288ad8878597ad4b413697ce21c4",
+      "backTranslation": "Average True Range (ATR): ATR measures instability. Very low ATR (compared to recent norms) suggests a calm market. If the ATR starts moving along with the price ahead of your major level, it makes confidence in breakouts. In fact, some merchants set volatility alerts so that they should be informed when the ATR rises above a range on a small window - this is a sign that the already soy market is emerging.",
+      "similarity": 0.8946677614811072,
+      "threshold": 0.9,
+      "problems": [],
+      "passed": false,
+      "humanReviewed": false
+    }
+  }
+]

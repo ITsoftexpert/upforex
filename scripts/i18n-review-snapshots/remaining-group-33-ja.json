@@ -1,0 +1,567 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t5117a7669bd4003e",
+      "english": "<span data-i18n-slot=\"0\">Islamic Swap-Free Accounts for UAE Traders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UAEトレーダー向けイスラムスワップフリー口座</span>"
+    },
+    {
+      "key": "ta8067007014371ef",
+      "english": "<span data-i18n-slot=\"0\">Dedicated Support for UAE and Gulf Region Traders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UAEおよび湾岸地域のトレーダーに対する専用サポート</span>"
+    },
+    {
+      "key": "t484f1b35e555d35f",
+      "english": "<span data-i18n-slot=\"0\">Leverage is not free money; it multiplies both your gains and your losses. Start with the lowest leverage available and only increase it once you have a clear risk management strategy in place. Most experienced traders use far less than the maximum available leverage even when they have access to higher ratios.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">レバレッジは無料のお金ではありません。それはあなたの利益と損失の両方を倍増させます。利用可能な最も低いレバレッジから始めて、明確なリスク管理戦略を策定した場合にのみレバレッジを増やします。ほとんどの経験豊富なトレーダーは、より高い比率にアクセスできる場合でも、利用可能な最大レバレッジよりもはるかに少ないレバレッジを使用します。</span>"
+    },
+    {
+      "key": "tbed86ea9e22d4e37",
+      "english": "<span data-i18n-slot=\"0\">Gold’s 2026 volatility has tested even experienced traders. A 20% correction in January caught many off guard. If you do not have a plan for how you will respond to sharp moves, including your maximum loss per trade and your exit criteria, emotion will make your decisions for you, and usually not well.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2026年の金のボラティリティは、経験豊富なトレーダーにも試練となっています。一月の20%の調整は、多くの人にとって予想外でした。取引ごとの最大損失や決済基準など、急な値動きに対応する計画がなければ、感情が代わりに判断を下し、通常は良い結果になりません。</span>"
+    },
+    {
+      "key": "te51c15562d48a490",
+      "english": "<span data-i18n-slot=\"0\">This one is simple but critical. Unregulated brokers expose your capital to counterparty risk with no legal recourse if something goes wrong. Always verify that your broker holds a valid SCA, DFSA, or FSRA license before depositing a single dirham.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これは単純ですが重要です。規制されていないブローカーは、何か問題が発生した場合に法的手段を講じることなく、あなたの資本をカウンターパーティのリスクにさらします。 一 ディルハムを入金する前に、ブローカーが有効な SCA、DFSA、または FSRA ライセンスを保持していることを必ず確認してください。</span>"
+    },
+    {
+      "key": "t0b6dab3ed4c5d4b8",
+      "english": "<span data-i18n-slot=\"0\">UpForex offers accessible minimum deposit requirements for UAE traders. Because gold CFDs use leverage, even a modest deposit gives you meaningful market exposure. Visit the UpForex website or contact the support team for current account tier details.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex は、UAE のトレーダーにアクセス可能な最低入金額要件を提供します。金CFDはレバレッジを利用するため、少額の入金でも有意義な市場エクスポージャーを得ることができます。現在のアカウント階層の詳細については、UpForex Web サイトにアクセスするか、サポート チームにお問い合わせください。</span>"
+    },
+    {
+      "key": "tebe064dbd54fe57d",
+      "english": "<span data-i18n-slot=\"0\">Is gold CFD trading halal in the UAE?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UAEでは金CFD取引はハラールですか?</span>"
+    },
+    {
+      "key": "taf8612bce2ed5f18",
+      "english": "<span data-i18n-slot=\"0\">Yes. UpForex Financial Consultation LLC is licensed and regulated by the UAE Securities and Commodities Authority (SCA) under license No. 20200000350. UP Global Markets Ltd. is regulated by the Financial Services Commission (FSC) of Mauritius under license No. GB25204570.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/gold-cfd-trading-in-uae#content",
+        "SSR:/blogs/gold-cfd-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">はい。UpForex Financial Consultation LLCは、ライセンス番号20200000350に基づきUAE証券商品庁（SCA）の認可と規制を受けています。UP Global Markets Ltd.は、ライセンス番号GB25204570に基づきモーリシャス金融サービス委員会（FSC）の規制を受けています。</span>"
+    },
+    {
+      "key": "t773c030587971115",
+      "english": "<span data-i18n-slot=\"0\">Gold has never been more relevant for UAE investors than it is in 2026. After hitting an all-time high of $5,595 per ounce in January 2026 and trading above $4,700 through mid-year, gold has proven once again why it belongs in every serious investment portfolio. If you are wondering how to invest in gold in the UAE, whether you are a first-time investor or looking to diversify, this guide walks you through every method available, what each one costs, and what suits your goals best.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2026年ほど、UAEの投資家にとって金の重要性が高まったことはありません。2026年一月にオンス当たり5,595ドルという史上最高値を記録し、年央まで4,700ドルを超えて取引された後、金があらゆる本格的な投資ポートフォリオに含まれる理由が改めて証明されました。初めての投資家でも、分散投資を検討している場合でも、UAE で金に投資する方法を疑問に思っている場合、このガイドでは、利用可能なすべての方法、それぞれの費用、そして何があなたの目標に最も適しているかを説明します。</span>"
+    },
+    {
+      "key": "t7542e6343fe2f308",
+      "english": "<span data-i18n-slot=\"0\">Gold entered 2026 on the back of an extraordinary 2025 rally, driven by inflation concerns, geopolitical instability, and record-breaking central bank buying. In the UAE, 24K gold was trading near AED 600 per gram in Dubai as of early 2026, a level that reflects both global demand and the strength of the UAE’s gold ecosystem.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金は、インフレ懸念、地政学的不安定、記録的な中央銀行の買い入れに支えられた2025年の大幅上昇を背景に、2026年を迎えました。UAEでは、2026年初めの時点でドバイの24Kの金がグラム当たりAED600近辺で取引されていました。この水準は、世界の需要とUAEの金市場基盤の強さの双方を反映しています。</span>"
+    },
+    {
+      "key": "t44ccf130a22654b8",
+      "english": "<span data-i18n-slot=\"0\">Several forces are keeping gold elevated this year. The US Federal Reserve’s expected rate cuts are weakening the dollar, making gold more attractive. Central banks globally continue to accumulate gold as part of reserve diversification strategies. And ongoing geopolitical tensions across multiple regions are pushing institutional and retail investors alike toward safe-haven assets.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">今年はいくつかの勢力が金の価値を高めに維持している。米連邦準備理事会（FRB）の利下げ予想によりドルが下落し、金の魅力が高まっている。世界中の中央銀行は、外貨準備の多様化戦略の一環として金の蓄積を続けています。また、複数の地域で地政学的な緊張が続いているため、機関投資家も個人投資家も同様に安全な資産に向かうようになっています。</span>"
+    },
+    {
+      "key": "td25a4e24d4e07074",
+      "english": "<span data-i18n-slot=\"0\">Major institutions have significantly upgraded their 2026 price targets. J.P. Morgan forecasts gold to average $6,000 per ounce by Q4 2026, while Goldman Sachs and Deutsche Bank both cite a $5,400–$6,000 range. For UAE investors, that structural demand story makes a compelling case for getting exposure to gold now.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要機関は、2026 の価格目標を大幅にアップグレードしました。 J.P.モルガンは、Q4 2026のオンス当たり平均$ 6,000の金を予測し、ゴールドマン・サックスとDeutsche銀行は両方とも$ 5,400〜$ 6,000の範囲を引用します。 UAEの投資家にとって、構造的な需要の物語は今、金への暴露を得るための説得力のあるケースになります。</span>"
+    },
+    {
+      "key": "t12b60a9eec720f92",
+      "english": "<span data-i18n-slot=\"0\">Dubai is one of the world’s most active gold trading centers, and that gives UAE residents advantages that investors elsewhere simply do not have. Investment-grade gold bars and coins are zero-rated for VAT in the UAE. There is no capital gains tax on individual gold profits. The Dubai Multi Commodities Centre (DMCC) provides a regulated, transparent infrastructure for physical gold storage, refining, and trading. And the Dubai Gold &amp; Commodities Exchange (DGCX), which surpassed 2 million traded contracts by February 2026 with daily volumes up 30% year-on-year, gives you access to a liquid, local market.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ドバイは世界で最も活発な金取引の中心地の一つで、UAE居住者には他地域の投資家が得られない利点があります。UAEでは、投資適格の金地金と金貨に付加価値税のゼロ税率が適用されます。個人の金の利益にはキャピタルゲイン税がかかりません。ドバイ・マルチ・コモディティーズ・センター（DMCC）は、現物の金の保管、精製、取引のために、規制された透明な基盤を提供します。ドバイ金商品取引所（DGCX）は2026年二月までに取引契約数が2百万件を超え、日次取引量が前年比30%増加しており、流動性の高い地元市場へのアクセスを提供します。</span>"
+    },
+    {
+      "key": "t7d944946fc3f28b0",
+      "english": "<span data-i18n-slot=\"0\">There is no single ‘best’ way to invest in gold; it depends on your goals, time horizon, and how hands-on you want to be. Here is a snapshot before we dig into each option: </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金に投資する唯一の「最良の」方法はありません。それはあなたの目標、期間、そしてどの程度実践したいかによって異なります。各オプションを詳しく説明する前のスナップショットを次に示します。</span>"
+    },
+    {
+      "key": "te571e60c0ebb3e9a",
+      "english": "Entry Cost",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "参加費"
+    },
+    {
+      "key": "tc99d92730aafcf25",
+      "english": "Medium–High",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "中～高"
+    },
+    {
+      "key": "ted0a60ddab2c0227",
+      "english": "Long-term wealth preservation",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "長期的な資産保全"
+    },
+    {
+      "key": "t5a4cd0c1daaf54e5",
+      "english": "Gold Stocks (CFDs)",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "金株（CFD）"
+    },
+    {
+      "key": "te0c1b0e8836932d0",
+      "english": "Active traders, short–medium term",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "アクティブトレーダー、短期～中期"
+    },
+    {
+      "key": "t03ae517d2f4b2edf",
+      "english": "Low–Medium",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "低～中"
+    },
+    {
+      "key": "t78b06d61d3f187fb",
+      "english": "Gold Mutual Funds",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "ゴールド投資信託"
+    },
+    {
+      "key": "t3f92aa8ab654e89e",
+      "english": "Hands-off, diversified investors",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "介入しない多様な投資家"
+    },
+    {
+      "key": "t440e538d7ca6d6b3",
+      "english": "Beginners &amp; active UAE traders",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "初心者およびアクティブなUAEトレーダー"
+    },
+    {
+      "key": "t34ff0dc763236fa1",
+      "english": "<span data-i18n-slot=\"0\">Option 1: Buying Physical Gold in the UAE</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オプション 1: UAE で現物の金を購入する</span>"
+    },
+    {
+      "key": "tc3748b17981d3ce9",
+      "english": "<span data-i18n-slot=\"0\">As of mid-2026, 24K gold in Dubai is trading in the AED 560–620 per gram range depending on global spot prices. Investment-grade gold is zero-rated for VAT, but jewelry and making charges attract standard VAT. There is no capital gains tax for individual investors in the UAE.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2026年半ば時点で、ドバイの24Kの金は世界の現物価格に応じてグラム当たりAED560–620の範囲で取引されています。投資適格の金には付加価値税のゼロ税率が適用されますが、宝飾品や加工料金には標準税率が適用されます。UAEの個人投資家にはキャピタルゲイン税がかかりません。</span>"
+    },
+    {
+      "key": "t8df5237d7934c1d5",
+      "english": "<span data-i18n-slot=\"0\">Is Physical Gold Right for You?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">現物の金はあなたに適していますか?</span>"
+    },
+    {
+      "key": "t920ee1e28e1b5062",
+      "english": "<span data-i18n-slot=\"0\">Physical gold suits investors focused on long-term wealth preservation who want outright ownership of the asset. If you want flexibility, lower entry costs, or the ability to trade in and out quickly, one of the digital options below will serve you better.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">現物の金は、資産の完全な所有権を求める長期的な資産保全を重視する投資家に適しています。柔軟性、参入コストの削減、または迅速な下取りと交換の機能が必要な場合は、以下のデジタル オプションのいずれかが適しています。</span>"
+    },
+    {
+      "key": "tf2f4d356fbc17204",
+      "english": "<span data-i18n-slot=\"0\">Gold Stocks vs Physical Gold: Key Difference</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金関連株と現物の金：主な違い</span>"
+    },
+    {
+      "key": "t35bf3ebcf7f9d5a8",
+      "english": "<span data-i18n-slot=\"0\">Gold stocks can outperform physical gold in a bull market because of operating leverage; rising prices increase company profits at a faster rate. But in a downturn, stocks tend to fall more sharply than the metal itself. If you want pure gold price exposure, stocks introduce variables that go beyond the gold market.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金関連株は、営業レバレッジによって上昇相場で現物の金を上回る場合があります。価格上昇によって企業利益がより速いペースで増えるためです。一方、下落局面では株価は金そのものより大きく下がる傾向があります。金価格の動きだけへのエクスポージャーを求める場合、株式には金市場以外の変数が加わります。</span>"
+    },
+    {
+      "key": "tc99a24483b21ca1c",
+      "english": "<span data-i18n-slot=\"0\">A gold ETF tracks the price of gold and trades on a stock exchange just like a regular share. When you buy a gold ETF, you do not own physical gold; you are buying a financial instrument that mirrors its price. Several well-known gold ETFs are listed on major global exchanges and are accessible to international investors, including UAE residents.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金ETFは金の価格を追跡し、通常の株式と同様に証券取引所で取引されます。金ETFを購入するとき、あなたは現物の金を所有しているわけではありません。あなたはその価格を反映した金融商品を購入していることになります。いくつかの有名な金ETFは世界の主要取引所に上場されており、UAE居住者を含む国際投資家がアクセスできます。</span>"
+    },
+    {
+      "key": "t59178dbc1872f76e",
+      "english": "<span data-i18n-slot=\"0\">Option 4: Gold Mutual Funds</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オプション 4: ゴールド投資信託</span>"
+    },
+    {
+      "key": "tff24fb5e555b462e",
+      "english": "<span data-i18n-slot=\"0\">Who Should Consider Gold Mutual Funds?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">誰がゴールド投資信託を検討すべきですか?</span>"
+    },
+    {
+      "key": "t324a87cf2e97c76f",
+      "english": "<span data-i18n-slot=\"0\">Fractional physical gold</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">端数の物理的なゴールド</span>"
+    },
+    {
+      "key": "tef35dcaad89d44fa",
+      "english": "<span data-i18n-slot=\"0\">Yes, amplified exposure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">はい、増幅された露出</span>"
+    },
+    {
+      "key": "t063dd3e384760a7f",
+      "english": "<span data-i18n-slot=\"0\">Yes, profit in falling markets</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">はい、下落相場でも利益が得られます</span>"
+    },
+    {
+      "key": "tf03d4886ea95ebce",
+      "english": "<span data-i18n-slot=\"0\">Platform-dependent</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プラットフォームに依存する</span>"
+    },
+    {
+      "key": "tda80c2617e4ba77d",
+      "english": "<span data-i18n-slot=\"0\">Active traders &amp; hedgers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アクティブトレーダーとヘッジャー</span>"
+    },
+    {
+      "key": "tf16bde26eb6165dc",
+      "english": "<span data-i18n-slot=\"0\">Trade Gold With SCA-Regulated Confidence</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">SCA規制に従って安心して金を取引しましょう</span>"
+    },
+    {
+      "key": "tc4373daf8a71f40b",
+      "english": "<span data-i18n-slot=\"0\">UpForex Financial Consultation LLC operates under UAE Securities and Commodities Authority (SCA) license No. 20200000350, with UP Global Markets Ltd. additionally regulated by the FSC Mauritius (license No. GB25204570). When you</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">trade gold on UpForex</span></span><span data-i18n-slot=\"4\">, you trade within a legally accountable framework with investor protections in place.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex Financial Consultation LLCはUAE証券商品庁（SCA）のライセンス番号20200000350に基づいて事業を行い、UP Global Markets Ltd.もモーリシャスFSCの規制を受けています（ライセンス番号GB25204570）。</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UpForexで金を取引する</span></span><span data-i18n-slot=\"4\">際は、投資家保護が整備された、法的責任のある枠組みで取引します。</span>"
+    },
+    {
+      "key": "t447447e568c7ba59",
+      "english": "<span data-i18n-slot=\"0\">Tight Spreads on XAU/USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">XAU/USDの狭いスプレッド</span>"
+    },
+    {
+      "key": "t64af7f5b262aae65",
+      "english": "<span data-i18n-slot=\"0\">Unlike physical gold or tokenized platforms, UpForex gold CFDs let you profit whether prices rise or fall. If you expect a short-term correction after the January 2026 highs, you can short XAU/USD. If you believe the J.P. Morgan $6,000 target is in play by Q4, you go long. The market works both ways, and so does UpForex.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">現物の金やトークン化プラットフォームと異なり、UpForexの金CFDでは価格の上昇・下落の両方で利益を得られます。2026年一月の高値後に短期調整を予想するならXAU/USDを売ることができます。JPモルガンの$6,000の目標が第4四半期までに実現すると考えるなら買いで入ります。市場と同様、UpForexでも両方向で取引できます。</span>"
+    },
+    {
+      "key": "t26eeaa7282a354fc",
+      "english": "<span data-i18n-slot=\"0\">How to Invest in Gold for Beginners: 5 Rules Before You Start</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初心者のための金投資方法: 始める前の 5 つのルール</span>"
+    },
+    {
+      "key": "tcb5f189d97635dcd",
+      "english": "<span data-i18n-slot=\"0\">Physical gold involves dealer premiums, VAT on jewelry, storage, and insurance. CFDs involve spreads and overnight swap fees on positions held longer than a day. ETFs carry annual expense ratios. Mutual funds charge management fees. None of these are deal-breakers, but ignoring them will hurt your actual returns.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">現物の金には、ディーラーのプレミアム、宝石に対する VAT、保管、保険が含まれます。 CFD にはスプレッドと、一 日を超えて保有されるポジションのオーバーナイト スワップ手数料がかかります。 ETFには年間経費率が設定されています。投資信託には管理手数料がかかります。これらはいずれも取引を妨げるものではありませんが、無視すると実際の利益が損なわれることになります。</span>"
+    },
+    {
+      "key": "tb38f0a2326aacf73",
+      "english": "<span data-i18n-slot=\"0\">Rule 4: Practise on a Demo Account Before Going Live</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ルール 4: 本番稼働前にデモ口座で練習する</span>"
+    },
+    {
+      "key": "tdb5799b93a472e05",
+      "english": "<span data-i18n-slot=\"0\">Gold works best as a portfolio stabilizer, not your entire portfolio. Most professional portfolio managers allocate 5–15% of a portfolio to gold. Alongside gold, you might consider</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">index CFDs</span></span><span data-i18n-slot=\"4\">,</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">energy CFDs</span></span><span data-i18n-slot=\"8\">, or</span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">forex trading</span></span><span data-i18n-slot=\"12\"> to build a balanced, multi-asset approach.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ゴールドは、ポートフォリオ全体ではなく、ポートフォリオの安定剤として最適に機能します。プロのポートフォリオ マネージャーのほとんどは、ポートフォリオの 5 ～ 15% を金に割り当てます。バランスの取れた複数資産のアプローチを構築するには、金のほかに、</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">インデックス CFD</span></span><span data-i18n-slot=\"4\">、</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">エネルギー CFD</span></span><span data-i18n-slot=\"8\">、または</span><span data-i18n-slot=\"9\"><span data-i18n-slot=\"10\"> </span><span data-i18n-slot=\"11\">外国為替取引</span></span><span data-i18n-slot=\"12\">を検討することもできます。</span>"
+    },
+    {
+      "key": "tfe612f321b82ede6",
+      "english": "<span data-i18n-slot=\"0\">The DGCX, the Middle East’s largest commodities exchange, surpassed 2 million traded contracts in February 2026 with daily volumes up 30% year-on-year. This growth reflects both institutional and retail appetite for gold exposure in the UAE. For traders, the DGCX’s activity also contributes to the depth and liquidity of the broader UAE gold market.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">中東最大の商品取引所DGCXは、2026年二月の取引契約数が2百万件を超え、日次取引量は前年比30%増加しました。この成長は、UAEで金へのエクスポージャーを求める機関投資家と個人投資家の両方の需要を反映しています。DGCXの活動は、より広いUAEの金市場の厚みと流動性にも貢献しています。</span>"
+    },
+    {
+      "key": "t8f0eb02088202396",
+      "english": "<span data-i18n-slot=\"0\">Investment-grade gold bars and coins meeting the minimum 99% purity standard are zero-rated for VAT in the UAE. Jewelry and making charges attract standard VAT. Individual investors are not subject to capital gains tax on gold profits in the UAE, making it one of the most tax-efficient environments for gold investment anywhere in the world. Corporate tax may apply if gold trading forms part of a business activity, so seek independent advice if you are trading through a company structure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">純度99%以上の基準を満たす投資適格の金地金と金貨には、UAEで付加価値税のゼロ税率が適用されます。宝飾品や加工料金には標準税率が適用されます。UAEの個人投資家は金の利益に対するキャピタルゲイン税の対象ではなく、金投資で世界でも税効率の高い環境の一つです。金の取引が事業活動の一部である場合、法人税が適用される可能性があるため、会社組織を通じて取引する場合は独立した助言を受けてください。</span>"
+    },
+    {
+      "key": "t6ea44c026ec1b5d4",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between gold CFDs and buying physical gold?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">金CFDと現物の金の購入はどう違いますか？</span>"
+    },
+    {
+      "key": "td2c291b988eb9871",
+      "english": "<span data-i18n-slot=\"0\">Yes. UpForex Financial Consultation LLC is licensed and regulated by the UAE Securities and Commodities Authority (SCA) under Category 5 – Arrangement &amp; Advice, License No. 20200000350. UP Global Markets Ltd. is licensed by the FSC Mauritius under Licence No. GB25204570.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">はい。UpForex Financial Consultation LLCは、カテゴリー5の取次・助言業務として、UAE証券商品庁（SCA）の認可と規制を受けています（ライセンス番号20200000350）。UP Global Markets Ltd.はモーリシャスFSCの認可を受けています（ライセンス番号GB25204570）。</span>"
+    },
+    {
+      "key": "td3500330094323e2",
+      "english": "<span data-i18n-slot=\"0\">Gold has always held a special place in the UAE, and in 2026, that is truer than ever. Prices have hit record highs, demand is strong, and whether you are just starting out or looking to add gold to an existing portfolio, there has never been a better time to understand your options.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-invest-in-gold-in-the-uae#content",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UAE では金は常に特別な地位を占めてきましたが、2026 年にはそれがこれまで以上に真実になります。価格は記録的な高値に達し、需要は旺盛です。金を始めたばかりの場合でも、既存のポートフォリオに金を加えようとしている場合でも、選択肢を理解するのに今ほど適した時期はありません。</span>"
+    },
+    {
+      "key": "t9cb9a5351e4d9aeb",
+      "english": "<span data-i18n-slot=\"0\">Another reason OTC trading appeals to many UAE residents is convenience. Instead of opening separate accounts with multiple providers, you may be able to access several asset classes through one regulated platform.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">OTC取引が多くのUAE居住者に支持されるもう一つの理由は、利便性です。複数の業者で別々の口座を開く代わりに、一つの規制対象プラットフォームから複数の資産クラスにアクセスできる場合があります。</span>"
+    },
+    {
+      "key": "t829885ad4be203db",
+      "english": "<span data-i18n-slot=\"0\">OTC Trading vs Exchange Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">店頭取引と取引所取引</span>"
+    },
+    {
+      "key": "tdee0b4f98d955145",
+      "english": "<span data-i18n-slot=\"0\">Exchange Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引所取引</span>"
+    },
+    {
+      "key": "t316dbbad52db1c97",
+      "english": "<span data-i18n-slot=\"0\">Centralized exchange</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">集中型の取引所</span>"
+    },
+    {
+      "key": "te053414bd637801f",
+      "english": "<span data-i18n-slot=\"0\">Listed stocks, futures, ETFs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">上場株式、先物、ETF</span>"
+    },
+    {
+      "key": "tafe8fe8022682bce",
+      "english": "<span data-i18n-slot=\"0\">Hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#content",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">営業時間</span>"
+    }
+  ]
+}

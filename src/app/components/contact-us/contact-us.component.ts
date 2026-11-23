@@ -1,11 +1,12 @@
 import { Component, OnDestroy } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
-import { ReCaptchaV3Service } from 'ng-recaptcha';
+import { ReCaptchaV3Service } from 'ng-recaptcha-2';
 import { ToastrService } from 'ngx-toastr';
 import { Store } from 'src/app/Store/store';
 import { SendmailService } from 'src/services/sendmail.service';
 
 @Component({
+  standalone: false,
   selector: 'app-contact-us',
   templateUrl: './contact-us.component.html',
   styleUrls: ['./contact-us.component.scss'],

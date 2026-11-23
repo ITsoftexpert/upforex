@@ -1,3 +1,4 @@
+import { NativeTranslationService } from 'src/app/core/services/native-translation.service';
 import { Component, OnInit } from '@angular/core';
 import { Meta, Title } from '@angular/platform-browser';
 import { Store } from 'src/app/Store/store';
@@ -5,6 +6,7 @@ import { DOCUMENT } from '@angular/common';
 import { Inject } from '@angular/core';
 
 @Component({
+  standalone: false,
   selector: 'app-abu-dhabi-forex',
   templateUrl: './abu-dhabi-forex.component.html',
   styleUrls: ['./abu-dhabi-forex.component.scss'],
@@ -336,6 +338,7 @@ export class AbuDhabiForexComponent implements OnInit {
   ];
 
   constructor(
+    private native: NativeTranslationService,
     private store: Store,
     private titleService: Title,
     private metaService: Meta,
@@ -346,7 +349,7 @@ export class AbuDhabiForexComponent implements OnInit {
 
   ngOnInit(): void {
     this.titleService.setTitle(
-      'Forex Trading in Abu Dhabi, UAE | UPFOREX MT5 Access',
+      this.native.translate('Forex Trading in Abu Dhabi, UAE | UPFOREX MT5 Access'),
     );
 
     const schema = {
@@ -622,13 +625,13 @@ export class AbuDhabiForexComponent implements OnInit {
     this.metaService.updateTag({
       name: 'description',
       content:
-        'Access forex, metals, shares and available CFDs in Abu Dhabi through UPFOREX MetaTrader 5. Compare account types, platforms, regulation details and trading risk.',
+        this.native.translate('Access forex, metals, shares and available CFDs in Abu Dhabi through UPFOREX MetaTrader 5. Compare account types, platforms, regulation details and trading risk.'),
     });
 
     this.metaService.updateTag({
       name: 'keywords',
       content:
-        'forex trading Abu Dhabi, forex trading UAE, MetaTrader 5 Abu Dhabi, UPFOREX UAE, forex account types UAE',
+        this.native.translate('forex trading Abu Dhabi, forex trading UAE, MetaTrader 5 Abu Dhabi, UPFOREX UAE, forex account types UAE'),
     });
   }
 

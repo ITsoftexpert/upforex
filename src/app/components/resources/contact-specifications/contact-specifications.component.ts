@@ -15,6 +15,7 @@ import {
 } from './constant';
 
 @Component({
+  standalone: false,
   selector: 'app-contact-specifications',
   templateUrl: './contact-specifications.component.html',
   styleUrls: ['./contact-specifications.component.scss'],

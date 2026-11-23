@@ -1,0 +1,9 @@
+const fs=require('fs'),u=require('./i18n-release-utils.cjs');process.chdir(u.root);
+const before=u.read('tmp/merge-evidence/current-baseline-performance.json'),after=u.read('tmp/release-performance.json');
+if(!before?.results?.length||!after?.results?.length)throw Error('Both serialized local timing runs required');
+const routes=after.results.map(row=>{const old=before.results.find(item=>item.route===row.route);if(!old)throw Error('Missing baseline route');return {route:row.route,beforeMedianTtfbMs:old.median.ttfbMs,afterMedianTtfbMs:row.median.ttfbMs,deltaMs:Number((row.median.ttfbMs-old.median.ttfbMs).toFixed(2)),beforeHtmlGzipBytes:old.median.htmlGzipBytes,afterHtmlGzipBytes:row.median.htmlGzipBytes};});
+const assets=after.assets.map(row=>{const old=before.assets.find(item=>item.name.split('.')[0]===row.name.split('.')[0]);return {...row,previousGzipBytes:old?.gzipBytes,gzipDeltaBytes:old?row.gzipBytes-old.gzipBytes:null};});
+const report={baselineAt:before.checkedAt,mergedAt:after.checkedAt,method:'Same workstation, Node runtime, dependency lock and serialized benchmark; one warm-up plus three samples per route; no concurrent audit load',limitation:'Local samples, not live main or production CWV. Blog timings include the existing remote CMS and can vary.',routes,assets,staticRoutesWithOver100msIncrease:routes.filter(row=>!row.route.includes('/blogs')&&row.deltaMs>100),reports:{before:'tmp/merge-evidence/current-baseline-performance.json',after:'tmp/release-performance.json'}};
+fs.writeFileSync('tmp/merge-evidence/performance-comparison.json',JSON.stringify(report,null,2)+'\n');
+fs.writeFileSync('tmp/merge-evidence/bundle-comparison.json',JSON.stringify({baseline:before.checkedAt,note:report.limitation,assets},null,2)+'\n');
+console.log(JSON.stringify(report,null,2));

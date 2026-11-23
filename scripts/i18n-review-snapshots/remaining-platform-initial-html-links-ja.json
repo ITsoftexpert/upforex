@@ -1,0 +1,17 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tadb646dbb353cae5",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"> </span></span><span data-i18n-slot=\"2\">Those who </span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\">Trade on MT5 in UAE</span></span><span data-i18n-slot=\"5\"> typically include:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"> </span></span><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\">UAE で MT5 を使って取引する</span></span><span data-i18n-slot=\"5\">人には、通常、次のような人々が含まれます：</span>"
+    }
+  ]
+}

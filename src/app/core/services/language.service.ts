@@ -2,7 +2,7 @@ import { Injectable, Inject, Optional } from '@angular/core';
 import { DOCUMENT } from '@angular/common';
 import { TranslateService } from '@ngx-translate/core';
 import { BehaviorSubject, Observable } from 'rxjs';
-import { INITIAL_SITE_LANGUAGE, languageFromPath } from './bundled-translation.loader';
+import { isLocalizedLanguagePath, LOCALIZED_LANGUAGE_BY_PATH } from '../config/localized-routes';
 
 export interface Language {
   code: string;
@@ -54,8 +54,7 @@ export class LanguageService {
 
   constructor(
     private translate: TranslateService,
-    @Optional() @Inject(DOCUMENT) private document: Document,
-    @Inject(INITIAL_SITE_LANGUAGE) private initialLanguage: string
+    @Optional() @Inject(DOCUMENT) private document: Document
   ) {
     // Initialize BehaviorSubject with current language
     this.currentLanguageSubject = new BehaviorSubject<Language>(this.getCurrentLanguage());
@@ -73,11 +72,11 @@ export class LanguageService {
     if (!this.isBrowser()) {
       // On server, just set default language
       this.translate.setDefaultLang('en');
-      this.setLanguage(this.initialLanguage);
       return;
     }
 
-    const routeLanguage = languageFromPath(this.document?.location?.pathname || '');
+    this.translate.setDefaultLang('en');
+    const routeLanguage = this.getRouteLanguage();
     if (routeLanguage) {
       this.setLanguage(routeLanguage, true);
       return;
@@ -96,7 +95,6 @@ export class LanguageService {
     }
 
     // Default language must stay English unless the user manually changes it.
-    this.translate.setDefaultLang('en');
     this.setLanguage('en');
   }
 
@@ -168,11 +166,11 @@ export class LanguageService {
           localStorage.setItem(this.GT_MANUAL_SELECTION_KEY, 'true');
         }
 
+        window.dispatchEvent(new CustomEvent('upforex:language-change'));
       }
 
-      // The injected document also exists during SSR; update the rendered HTML
-      // language and direction instead of relying on the browser's global document.
-      if (this.document?.documentElement) {
+      // Use the injected document on both the server and browser.
+      if (this.document) {
         this.document.documentElement.setAttribute('dir', lang.dir);
         this.document.documentElement.setAttribute('lang', langCode);
       }
@@ -183,12 +181,8 @@ export class LanguageService {
   }
 
   getCurrentLanguage(): Language {
-    const routeLanguage = languageFromPath(this.document?.location?.pathname || '');
-    if (routeLanguage) {
-      return this.languages.find((language) => language.code === routeLanguage)!;
-    }
-
-    let savedLang = this.initialLanguage;
+    if (this.currentLanguageSubject) return this.currentLanguageSubject.value;
+    let savedLang = 'en';
 
     // Only read from localStorage in browser environment
     if (this.isBrowser()) {
@@ -202,7 +196,22 @@ export class LanguageService {
       }
     }
 
-    return this.languages.find((l) => l.code === savedLang) || this.languages[0];
+    return this.languages.find((l) => l.code === (this.getRouteLanguage() || savedLang)) || this.languages[0];
+  }
+
+  private getRouteLanguage(): string | undefined {
+    if (!this.isBrowser()) return undefined;
+    const prefix = window.location.pathname.split('/')[1];
+    return isLocalizedLanguagePath(prefix) ? LOCALIZED_LANGUAGE_BY_PATH[prefix] : undefined;
+  }
+
+  getLanguageUrl(langCode: string): string {
+    const segments = window.location.pathname.split('/').filter(Boolean);
+    if (segments.length && isLocalizedLanguagePath(segments[0])) segments.shift();
+    const prefix = Object.keys(LOCALIZED_LANGUAGE_BY_PATH)
+      .find((path) => LOCALIZED_LANGUAGE_BY_PATH[path] === langCode);
+    if (prefix) segments.unshift(prefix);
+    return '/' + segments.join('/') + window.location.search + window.location.hash;
   }
 }
 

@@ -16,12 +16,12 @@
       /> -->
       <img
         src="../../../assets/images/updated-logos/logo-1.webp"
-        alt="About Us"
+        [attr.alt]="'About Us' | localize"
         height="400"
         width="400"
         class="tw-rounded-2xl tw-object-contain"
         loading="lazy"
-        alt="upforex logo"
+        [attr.alt]="'upforex logo' | localize"
       />
     </div>
 
@@ -37,21 +37,13 @@
       <h1
         class="tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-montserrat tw-font-bold md:tw-my-4 text-white"
       >
-        Welcome to UPFOREX
-    </h1>
+         {{ 'Welcome to UPFOREX' | localize }} </h1>
       <p
         class="tw-text-base tw-text-white tw-font-montserrat tw-font-light tw-tracking-wide tw-leading-relaxed about-text mt-4"
       >
-        Welcome to UPFOREX, a leading Forex brokerage dedicated to equipping
-        traders worldwide with the tools they need. We offer exceptional
-        knowledge, and an extensive selection of trading accounts tailored for
-        <span class="tw-text-themePrimary"
-          >Retail Traders, Money Managers, Institutional Traders, Risk Managers,
-          and Investment Companies</span
-        >. At Upforex.com, your experience goes beyond trading; you gain entry
-        to a reliable platform crafted to uphold the highest standards in
-        security, transparency, and performance.
-      </p>
+         {{ 'Welcome to UPFOREX, a leading Forex brokerage dedicated to equipping traders worldwide with the tools they need. We offer exceptional knowledge, and an extensive selection of trading accounts tailored for' | localize }} <span class="tw-text-themePrimary"
+          >{{ 'Retail Traders, Money Managers, Institutional Traders, Risk Managers, and Investment Companies' | localize }}</span
+        >{{ '. At Upforex.com, your experience goes beyond trading; you gain entry to a reliable platform crafted to uphold the highest standards in security, transparency, and performance.' | localize }} </p>
     </div>
   </div>
 </div>
@@ -61,18 +53,15 @@
     <h2
       class="mt-3 tw-text-base md:tw-text-xl tw-text-white tw-font-montserrat tw-font-light tw-tracking-wider"
     >
-      TRUSTED CHOICE
-    </h2>
+       {{ 'TRUSTED CHOICE' | localize }} </h2>
     <p
       class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-montserrat tw-font-bold md:tw-my-4"
     >
-      Why Choose Upforex.com?
-    </p>
+       {{ 'Why Choose Upforex.com?' | localize }} </p>
     <p
       class="tw-text-sm tw-text-white tw-font-montserrat tw-font-light tw-tracking-wide tw-leading-relaxed"
     >
-      Dedicated to delivering excellence every single time.
-    </p>
+       {{ 'Dedicated to delivering excellence every single time.' | localize }} </p>
   </div>
   <div
     class="tw-grid tw-grid-cols-1 sm:tw-grid-cols-2 lg:tw-grid-cols-3 md:tw-px-16"
@@ -92,12 +81,12 @@
       <p
         class="tw-mt-4 tw-font-montserrat tw-text-lg tw-font-extrabold tw-tracking-wider tw-text-center"
       >
-        {{ item.title }}
+        {{ (item.title) | localize }}
       </p>
       <p
         class="tw-text-sm tw-font-semibold tw-text-white tw-font-montserrat tw-text-left"
       >
-        {{ item.description }}
+        {{ (item.description) | localize }}
       </p>
     </div>
   </div>

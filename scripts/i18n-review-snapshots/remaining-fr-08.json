@@ -1,0 +1,1577 @@
+{
+  "language": "fr",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t5328e32c39ade44c",
+      "english": "<span data-i18n-slot=\"0\">• Advanced charting and technical analysis tools</span>",
+      "translation": "<span data-i18n-slot=\"0\">•&nbsp;Outils avancés de création de graphiques et d'analyse technique</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter#content",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter"
+      ]
+    },
+    {
+      "key": "t1dacfaa4c585dfaa",
+      "english": "<span data-i18n-slot=\"0\">This guide explains what trusted and regulated forex brokers are, why regulation matters, how to verify broker credentials, and what risks traders face when regulation cannot be independently confirmed.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ce guide explique ce que sont les courtiers de change fiables et réglementés, pourquoi la réglementation est importante, comment vérifier les informations d'identification des courtiers et quels sont les risques auxquels les traders sont confrontés lorsque la réglementation ne peut pas être confirmée de manière indépendante.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ]
+    },
+    {
+      "key": "tfda40176686f955a",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Frequently Asked Questions (FAQs)</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Foire aux questions (FAQ)</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#content",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ]
+    },
+    {
+      "key": "t0f3d72b1175c8c45",
+      "english": "<span data-i18n-slot=\"0\">Lower volatility than single stocks</span>",
+      "translation": "<span data-i18n-slot=\"0\">Volatilité inférieure à celle des actions individuelles</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "tdfb336fb4580b62b",
+      "english": "<span data-i18n-slot=\"0\">You don’t buy the real index.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Vous n'achetez pas le véritable indice.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "t3790b31d8708e55f",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">2. Ability to Trade Both Rising and Falling Markets</span></span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">2. Capacité à négocier à la fois sur des marchés en hausse et en baisse</span></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "t165c79c4bce960f8",
+      "english": "<span data-i18n-slot=\"0\">One account</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un compte</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "t7fab904c6b4cb584",
+      "english": "<span data-i18n-slot=\"0\">No physical settlement</span>",
+      "translation": "<span data-i18n-slot=\"0\">Aucun règlement physique</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "tb3f42756cbbe0a2a",
+      "english": "<span data-i18n-slot=\"0\">No custody fees</span>",
+      "translation": "<span data-i18n-slot=\"0\">Aucun frais de garde</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "t1550cb9d7878ff4b",
+      "english": "<span data-i18n-slot=\"0\">As per Wikipedia, CFDs are purely price-speculation instruments.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Selon Wikipédia, les CFD sont de purs instruments de spéculation sur les prix.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "te294738b1a77b469",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">1. Leverage Risk</span></span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">1. Risque lié à l’effet de levier</span></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "td1aeb750524cec80",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">4. Margin Calls &amp; Overnight Costs</span></span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">4. Appels de marge et frais de nuit</span></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "te27d483d36bf3bcf",
+      "english": "<span data-i18n-slot=\"0\">Fast execution</span>",
+      "translation": "<span data-i18n-slot=\"0\">Exécution rapide</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "tc0c32d423bb15284",
+      "english": "<span data-i18n-slot=\"0\">Advanced charting tools</span>",
+      "translation": "<span data-i18n-slot=\"0\">Outils graphiques avancés</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "tffe5d19148d556ad",
+      "english": "<span data-i18n-slot=\"0\">Access to multiple indices</span>",
+      "translation": "<span data-i18n-slot=\"0\">Accès à plusieurs index</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "tc1e55348f552c5b8",
+      "english": "<span data-i18n-slot=\"0\">Competitive spreads</span>",
+      "translation": "<span data-i18n-slot=\"0\">Spreads compétitifs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "tb2dfd1ad839dce05",
+      "english": "<span data-i18n-slot=\"0\">Global exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Exposition mondiale</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#content",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ]
+    },
+    {
+      "key": "t794c90fc4fe4728a",
+      "english": "<span data-i18n-slot=\"0\">Two Core Approaches</span>",
+      "translation": "<span data-i18n-slot=\"0\">Deux approches principales</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#content",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights"
+      ]
+    },
+    {
+      "key": "tf3e2fa9c9ddc021e",
+      "english": "<span data-i18n-slot=\"0\">Staying Updated with Global Developments</span>",
+      "translation": "<span data-i18n-slot=\"0\">Rester informé des développements mondiaux</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#content",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights"
+      ]
+    },
+    {
+      "key": "t712a00cf4a9c71e3",
+      "english": "<span data-i18n-slot=\"0\">Q5. What are pips in forex spreads?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ans</span><span data-i18n-slot=\"4\">. A pip is the smallest unit of movement in a currency pair, usually the fourth decimal place. Spreads are measured in pips.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Q5. Que sont les pips dans les spreads de change&nbsp;?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Réponse</span><span data-i18n-slot=\"4\">. Un pip est la plus petite unité de mouvement dans une paire de devises, généralement la quatrième décimale. Les spreads sont mesurés en pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ]
+    },
+    {
+      "key": "tef261591c2ad9e33",
+      "english": "<span data-i18n-slot=\"0\">The 1 hour strategy is a trading method that uses the 1-hour time frame on forex charts. This means that each candle or bar on the chart represents one hour of market activity. Traders who use this strategy usually check the market every few hours instead of every few minutes.</span>",
+      "translation": "<span data-i18n-slot=\"0\">La stratégie sur 1 heure est une méthode de trading qui utilise l’unité de temps de 1 heure sur les graphiques forex. Chaque bougie ou barre du graphique représente donc une heure d’activité du marché. Les traders qui utilisent cette stratégie vérifient généralement le marché toutes les quelques heures plutôt que toutes les quelques minutes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ]
+    },
+    {
+      "key": "te6659f907505175e",
+      "english": "<span data-i18n-slot=\"0\">2. Wait for a Pullback</span>",
+      "translation": "<span data-i18n-slot=\"0\">2. Attendez un repli</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ]
+    },
+    {
+      "key": "t77c11de1a1f8b0b5",
+      "english": "<span data-i18n-slot=\"0\">Imagine the EUR/USD is in an uptrend on the 1-hour chart. The price pulls back to the 50 EMA, and a bullish engulfing candle appears at support.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Imaginez que l’EUR/USD soit en tendance haussière sur le graphique de 1 heure. Le cours se replie vers l’EMA 50 et une bougie d’avalement haussier apparaît sur le support.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ]
+    },
+    {
+      "key": "t4c14ceb3073636cf",
+      "english": "<span data-i18n-slot=\"0\">Entry:</span><span data-i18n-slot=\"1\"> Buy at the close of the engulfing candle.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Entrée&nbsp;:</span><span data-i18n-slot=\"1\"> Achetez à la clôture de la bougie engloutissante.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ]
+    },
+    {
+      "key": "tdca3490c79bf48e0",
+      "english": "<span data-i18n-slot=\"0\">Don’t Overtrade:</span><span data-i18n-slot=\"1\"> Just because you see movement doesn’t mean you should enter every trade.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Ne faites pas de transactions excessives&nbsp;:</span><span data-i18n-slot=\"1\"> Ce n'est pas parce que vous constatez un mouvement que vous devez participer à chaque transaction.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ]
+    },
+    {
+      "key": "t94f07c6c08832d12",
+      "english": "<span data-i18n-slot=\"0\">Combine Time Frames:</span><span data-i18n-slot=\"1\"> Check higher time frames (like 4-hour or daily) to confirm the overall trend.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Combiner des périodes&nbsp;:</span><span data-i18n-slot=\"1\"> Vérifiez des périodes plus élevées (comme 4&nbsp;heures ou quotidiennement) pour confirmer la tendance générale.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ]
+    },
+    {
+      "key": "t8b89f6bad77285cc",
+      "english": "<span data-i18n-slot=\"0\">Keep a Journal:</span><span data-i18n-slot=\"1\"> Record your trades, mistakes, and wins. This helps you improve faster.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Tenir un journal&nbsp;:</span><span data-i18n-slot=\"1\"> Enregistrez vos transactions, vos erreurs et vos gains. Cela vous aide à vous améliorer plus rapidement.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ]
+    },
+    {
+      "key": "tb73a64bde72d70a5",
+      "english": "<span data-i18n-slot=\"0\">Stay Patient:</span><span data-i18n-slot=\"1\"> Sometimes the best trade is no trade at all.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Restez patient&nbsp;:</span><span data-i18n-slot=\"1\"> Parfois, le meilleur échange est de ne pas échanger du tout.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ]
+    },
+    {
+      "key": "t3a4365d5f1529493",
+      "english": "<span data-i18n-slot=\"0\">Setting Stops Too Tight:</span><span data-i18n-slot=\"1\"> Give your trade enough space to breathe. The 1-hour chart can have bigger swings than shorter time frames.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Fixer des arrêts trop serrés&nbsp;:</span><span data-i18n-slot=\"1\"> Donnez à votre transaction suffisamment d'espace pour respirer. Le graphique sur 1&nbsp;heure peut présenter des fluctuations plus importantes que les périodes plus courtes.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ]
+    },
+    {
+      "key": "td1c728117895c9e9",
+      "english": "<span data-i18n-slot=\"0\">2. Market Execution and Slippage</span>",
+      "translation": "<span data-i18n-slot=\"0\">2. Exécution du marché et dérapage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ]
+    },
+    {
+      "key": "t52a0a49b66a91d9d",
+      "english": "<span data-i18n-slot=\"0\">Another crucial </span><span data-i18n-slot=\"1\">difference</span><span data-i18n-slot=\"2\"> is how trades are executed.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une autre </span><span data-i18n-slot=\"1\">différence</span><span data-i18n-slot=\"2\"> cruciale est la façon dont les transactions sont exécutées.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ]
+    },
+    {
+      "key": "t5c1744d6840cb8be",
+      "english": "<span data-i18n-slot=\"0\">Key takeaway:</span><span data-i18n-slot=\"1\"> Understand how fees impact your overall profitability before scaling up your trades.</span>",
+      "translation": "<span data-i18n-slot=\"0\">À retenir&nbsp;:</span><span data-i18n-slot=\"1\"> Comprenez l'impact des frais sur votre rentabilité globale avant d'augmenter vos transactions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ]
+    },
+    {
+      "key": "t1ed5479348f598c1",
+      "english": "<span data-i18n-slot=\"0\">5. Trading Habits and Discipline</span>",
+      "translation": "<span data-i18n-slot=\"0\">5. Habitudes commerciales et discipline</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ]
+    },
+    {
+      "key": "t1e6fc1a98708dd89",
+      "english": "<span data-i18n-slot=\"0\">Should You Skip Demo Trading?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Devriez-vous ignorer le trading de démonstration&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ]
+    },
+    {
+      "key": "t68841aa3b576d011",
+      "english": "<span data-i18n-slot=\"0\">Absolutely not. Demo accounts are a great way to learn </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">trading platforms</span></span><span data-i18n-slot=\"3\">, test strategies, and build confidence. However, remember that it cannot fully prepare you for the psychological and financial pressure of live trading. The smart approach is to:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Absolument pas. Les comptes de démonstration sont un excellent moyen d'apprendre les </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">plateformes de trading</span></span><span data-i18n-slot=\"3\">, de tester des stratégies et de renforcer la confiance. Cependant, n’oubliez pas qu’il ne peut pas vous préparer pleinement à la pression psychologique et financière du trading en direct. L'approche intelligente consiste à&nbsp;:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ]
+    },
+    {
+      "key": "t7e0d2c7f4e2cd04f",
+      "english": "<span data-i18n-slot=\"0\">While demo accounts are perfect for practice, live accounts are where the real learning begins. By understanding these differences and preparing in advance, you’ll be in a stronger position to succeed in the forex market.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Bien que les comptes de démonstration soient parfaits pour s'entraîner, les comptes réels sont le point de départ du véritable apprentissage. En comprenant ces différences et en vous préparant à l'avance, vous serez dans une position plus solide pour réussir sur le marché des changes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ]
+    },
+    {
+      "key": "tca45ff64b33574f4",
+      "english": "<span data-i18n-slot=\"0\">Q- 2. Do demo accounts reflect real market conditions accurately?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Demo accounts mirror market conditions closely but lack real execution issues like slippage, spreads, and emotional impact of real money trading.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Q- 2. Les comptes de démonstration reflètent-ils avec précision les conditions réelles du marché&nbsp;?</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Les comptes de démonstration reflètent fidèlement les conditions du marché, mais ne présentent pas de problèmes d'exécution réels tels que le dérapage, les spreads et l'impact émotionnel du trading en argent réel.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#content",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ]
+    },
+    {
+      "key": "tcdf605ef30d2d119",
+      "english": "<span data-i18n-slot=\"0\">Offers access to larger trade sizes and more features.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Offre un accès à des transactions de plus grande taille et à davantage de fonctionnalités.  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ]
+    },
+    {
+      "key": "tb869e12632bebb18",
+      "english": "<span data-i18n-slot=\"0\">Designed for beginners who want to trade smaller amounts.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Conçu pour les débutants qui souhaitent échanger de petits montants.  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ]
+    },
+    {
+      "key": "tb60796abb840f4fd",
+      "english": "<span data-i18n-slot=\"0\">Experts suggest not risking more than </span><span data-i18n-slot=\"1\">1–2% of your capital</span><span data-i18n-slot=\"2\"> on a single trade. So, if you deposit $100, you should risk only $1–$2 per trade.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les experts suggèrent de ne pas risquer plus de </span><span data-i18n-slot=\"1\">1 à 2&nbsp;% de votre capital</span><span data-i18n-slot=\"2\"> sur une seule transaction. Ainsi, si vous déposez 100&nbsp;$, vous ne devriez risquer que 1 à 2&nbsp;$ par transaction.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ]
+    },
+    {
+      "key": "t98ba2638177334ac",
+      "english": "<span data-i18n-slot=\"0\">This range allows you to:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cette plage vous permet de&nbsp;:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ]
+    },
+    {
+      "key": "t40ce3d88e28e4356",
+      "english": "<span data-i18n-slot=\"0\">Yes, it can be worth it if your goal is to </span><span data-i18n-slot=\"1\">learn</span><span data-i18n-slot=\"2\"> instead of making quick profits. A small deposit teaches you how the market works, how emotions affect decisions, and how to apply strategies in real time.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Oui, cela peut en valoir la peine si votre objectif est d'</span><span data-i18n-slot=\"1\">apprendre</span><span data-i18n-slot=\"2\"> au lieu de réaliser des profits rapides. Un petit dépôt vous apprend comment fonctionne le marché, comment les émotions affectent les décisions et comment appliquer des stratégies en temps réel.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ]
+    },
+    {
+      "key": "t3a2a3a2ebd7cdf36",
+      "english": "In today's fast-paced world of global currency exchange, dealers want more than just market access. They need speed, transparency, low costs, and cutting-edge tools to stay ahead of every pip movement. UpForex is built for exactly that.",
+      "translation": "Dans le monde actuel des changes, en évolution rapide, les courtiers veulent plus qu'un simple accès au marché. Ils ont besoin de rapidité, de transparence, de faibles coûts et d’outils de pointe pour garder une longueur d’avance sur chaque mouvement de pip. UpForex est conçu exactement pour cela.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ]
+    },
+    {
+      "key": "td10d340728d3a27d",
+      "english": "<span data-i18n-slot=\"0\">Why Zero Commission Forex Trading is a Game-Changer</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pourquoi le trading Forex sans commission change la donne</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ]
+    },
+    {
+      "key": "te4b17c78d341e09c",
+      "english": "Here’s what sets us apart for seasoned traders:",
+      "translation": "Voici ce qui nous distingue aux yeux des traders expérimentés :",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/zero-commission-forex-trading#content",
+        "SSR:/blogs/zero-commission-forex-trading"
+      ]
+    },
+    {
+      "key": "t890796774d3f1b6d",
+      "english": "<span data-i18n-slot=\"0\">Real-Time Execution –</span> No lag, no slippage",
+      "translation": "<span data-i18n-slot=\"0\">Exécution en temps réel&nbsp;–</span> Pas de décalage, pas de dérapage",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ]
+    },
+    {
+      "key": "teaac7f19f241e623",
+      "english": "Client funds are held in segregated bank accounts",
+      "translation": "Les fonds des clients sont détenus sur des comptes bancaires séparés",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ]
+    },
+    {
+      "key": "tddccd0c86803b220",
+      "english": "<span data-i18n-slot=\"0\">Segregated client accounts –</span> so your money is never mixed with the broker’s operational funds",
+      "translation": "<span data-i18n-slot=\"0\">Comptes clients séparés&nbsp;–</span> pour que votre argent ne soit jamais mélangé aux fonds opérationnels du courtier",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ]
+    },
+    {
+      "key": "td2520c7a7d3f33a2",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Segregated Client Funds</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Fonds clients séparés</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ]
+    },
+    {
+      "key": "t76836b575dbd6a3d",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Positive Reviews and Long-Term Presence</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Avis positifs et présence à long terme</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ]
+    },
+    {
+      "key": "t702305b6a972c890",
+      "english": "Ethical trading practices",
+      "translation": "Pratiques commerciales éthiques",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ]
+    },
+    {
+      "key": "tabc8da8239a1985a",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Segregated Client Accounts</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Comptes clients séparés</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ]
+    },
+    {
+      "key": "t96ea59b6ba3dcb6e",
+      "english": "<span data-i18n-slot=\"0\">To protect your capital, we follow the gold standard in financial operations — segregated client fund accounts. This means:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pour protéger votre capital, nous suivons la norme de référence en matière d'opérations financières&nbsp;: les comptes de fonds distincts pour les clients. Cela signifie&nbsp;:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ]
+    },
+    {
+      "key": "tce58f50ac197eece",
+      "english": "<span data-i18n-slot=\"0\">With so many platforms operating without proper licenses or safeguards, choosing the best regulated forex platform is more than just a smart move — it’s essential. At UpForex, our focus is not only on offering competitive spreads and advanced tools but on building long-term trader confidence.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Avec autant de plateformes fonctionnant sans licences ni garanties appropriées, choisir la plateforme de change la mieux réglementée est plus qu'une simple décision judicieuse : c'est essentiel. Chez UpForex, notre objectif n'est pas seulement d'offrir des spreads compétitifs et des outils avancés, mais également de renforcer la confiance des traders à long terme.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-regulated-forex-platform#content",
+        "SSR:/blogs/best-regulated-forex-platform"
+      ]
+    },
+    {
+      "key": "t6363cc014d7155ff",
+      "english": "Blazing-fast order execution with low latency",
+      "translation": "Exécution des ordres ultra-rapide avec une faible latence",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t005ec71536883d39",
+      "english": "Instant withdrawals with <span data-i18n-slot=\"0\">zero hidden charges</span>",
+      "translation": "Retraits instantanés avec <span data-i18n-slot=\"0\">zéro frais caché</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t9bbc70c4fcc9c1d4",
+      "english": "This system ensures that even if something goes wrong with the broker, your money is untouched and safely retrievable.",
+      "translation": "Ce système garantit que même en cas de problème avec le courtier, votre argent reste intact et peut être récupéré en toute sécurité.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "tbcaabf3cbd837382",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Bonus Trust Factor:</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Facteur de confiance bonus&nbsp;:</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t089a364c989660f4",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Lightning-Fast Order Execution on MT5</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Exécution ultra-rapide des ordres sur MT5</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t1341e1d55028c8b1",
+      "english": "UpForex ensures your trades go live at the exact moment you want, giving you a real competitive edge in the market.",
+      "translation": "UpForex garantit que vos transactions seront mises en ligne au moment précis que vous souhaitez, vous offrant ainsi un réel avantage concurrentiel sur le marché.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t98a6d7fc7811310a",
+      "english": "<span data-i18n-slot=\"0\">Withdraw your funds anytime —</span> even on weekends",
+      "translation": "<span data-i18n-slot=\"0\">Retirez vos fonds à tout moment,</span> même le week-end",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t91ed0891c28cf78b",
+      "english": "You earned it. You get it. No excuses.",
+      "translation": "Vous l’avez gagné. Vous le recevez. Sans excuses.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t124947fec2aaed00",
+      "english": "Whether you’re trading from home, office, or traveling — your entire trading ecosystem is synced across all devices. You can monitor charts, place trades, manage orders, and analyze indicators — all without skipping a beat.",
+      "translation": "Que vous négociiez depuis votre domicile, votre bureau ou en voyage, l'ensemble de votre écosystème commercial est synchronisé sur tous les appareils. Vous pouvez surveiller des graphiques, effectuer des transactions, gérer des ordres et analyser des indicateurs, le tout sans perdre de temps.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "tc5183ca01d57b74e",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Timeframes and Chart Tools</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. Unités de temps et outils graphiques</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t926de9bb12a811e3",
+      "english": "Trade multiple assets from one account",
+      "translation": "Négociez plusieurs actifs à partir d’un seul compte",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "td6f66dcec49ead00",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Can I trade forex with MetaTrader 5?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Puis-je échanger des devises avec MetaTrader 5&nbsp;?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-broker-for-metatrader-5#content",
+        "SSR:/blogs/best-forex-broker-for-metatrader-5"
+      ]
+    },
+    {
+      "key": "t1a856e0cc2b0b244",
+      "english": "Segregated bank accounts so your funds are never mixed with company expenses",
+      "translation": "Comptes bancaires séparés afin que vos fonds ne soient jamais mélangés aux dépenses de l'entreprise",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "t4be392af298ef7a5",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Smart Charting Tools</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">1. Outils de création de graphiques intelligents</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "t141f5e89430dfeab",
+      "english": "Multiple chart types (line, bar, candlestick)",
+      "translation": "Plusieurs types de graphiques (ligne, barre, chandelier)",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "tdf8235358a403fdb",
+      "english": "Trailing Stops to ride winning trades while protecting downside",
+      "translation": "Des stops suiveurs pour laisser courir les positions gagnantes tout en protégeant contre la baisse",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "tcaed077862fe5682",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q: Which forex broker is the most reputable?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q&nbsp;: Quel courtier forex est le plus réputé&nbsp;?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-broker-with-fund-protection#content",
+        "SSR:/blogs/forex-broker-with-fund-protection"
+      ]
+    },
+    {
+      "key": "t535aa272620a66f4",
+      "english": "<span data-i18n-slot=\"0\">UAE Forex Market in the News: Trends and Developments</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le marché Forex des Émirats arabes unis dans l'actualité&nbsp;: tendances et évolutions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ]
+    },
+    {
+      "key": "t9d35531a03295254",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">A Perfect Storm of Growth Drivers</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Une tempête parfaite de moteurs de croissance</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ]
+    },
+    {
+      "key": "t8bb53cbcdeb49e36",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">A: </span>The best Forex trading hours in Saudi Arabia are during the London and New York market sessions, which overlap between 3 PM and 8 PM KSA time (GMT+3). This is when liquidity and volatility are at their peak, especially for major currency pairs like <span data-i18n-slot=\"2\">EUR/USD</span>, <span data-i18n-slot=\"3\">GBP/USD</span>, and <span data-i18n-slot=\"4\">USD/JPY</span>. Many traders in the region also monitor oil-related news, as it directly affects local economies and currency performance.</span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">R : </span>Les meilleures heures de trading forex en Arabie saoudite correspondent aux séances de Londres et de New York, qui se chevauchent entre 3 PM et 8 PM, heure KSA (GMT+3). La liquidité et la volatilité y atteignent leur maximum, notamment pour les principales paires comme <span data-i18n-slot=\"2\">EUR/USD</span>, <span data-i18n-slot=\"3\">GBP/USD</span> et <span data-i18n-slot=\"4\">USD/JPY</span>. De nombreux traders de la région suivent aussi les actualités pétrolières, car elles influencent directement les économies locales et la performance des devises.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-the-middle-east#content",
+        "SSR:/blogs/forex-trading-in-the-middle-east"
+      ]
+    },
+    {
+      "key": "tae4c58fa00db3bca",
+      "english": "<span data-i18n-slot=\"0\">Trade from anywhere, anytime. UpForex offers a clean, responsive interface across all devices — no downloads required. You have access to the same robust tools whether you're using a desktop computer or a smartphone.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Échangez de n'importe où et à tout moment. UpForex offre une interface claire et réactive sur tous les appareils — aucun téléchargement n'est requis. Vous avez accès aux mêmes outils robustes, que vous utilisiez un ordinateur de bureau ou un smartphone.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "t5aac14d56856f1a3",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Real-Time Charts:</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Graphiques en temps réel&nbsp;:</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "ta44d53d73101a48d",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Zero Commission on Every Trade</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Zéro commission sur chaque transaction</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "t5912e6844511c08c",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. ₹10,000 Free Demo Account</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. Compte démo gratuit de 10,000 ₹</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "tbd49eeb03e3ba47a",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Fast Order Execution Without Slippage</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. Exécution rapide des ordres sans slippage</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "t1f0f6c7dc81030a3",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">6. Multi-Currency Withdrawals</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">6. Retraits multidevises</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "tb1e08ae4a899765a",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">How quickly can you withdraw earnings on forex?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">À quelle vitesse pouvez-vous retirer vos gains sur le Forex&nbsp;?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-with-instant-withdrawals#content",
+        "SSR:/blogs/forex-trading-with-instant-withdrawals"
+      ]
+    },
+    {
+      "key": "t40014ee9d0c7a311",
+      "english": "Traders who anticipated a potential breakout or had alert systems in place could catch a swift move. There have been instances of 30-50 pip jumps in a matter of minutes during such low-liquidity surprises. In extreme cases, so-called “flash crashes” have occurred in early Asian hours (such as an infamous yen rally one January a few years back), all due to the vacuum of liquidity – illustrating both the opportunity and risk of these periods.",
+      "translation": "Les traders qui anticipaient une cassure potentielle ou disposaient de systèmes d’alerte pouvaient capter un mouvement rapide. Des bonds de 30-50 pips se sont déjà produits en quelques minutes lors de telles surprises à faible liquidité. Dans des cas extrêmes, des « krachs éclair » sont survenus aux premières heures de la séance asiatique, comme la célèbre envolée du yen en janvier il y a quelques années, à cause du manque de liquidité, illustrant à la fois les possibilités et les risques de ces périodes.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "tb0d41fe433661d96",
+      "english": "<span data-i18n-slot=\"0\">Actionable Breakout Trading Steps for Low-Liquidity Times</span>",
+      "translation": "<span data-i18n-slot=\"0\">Étapes de trading de cassure réalisables en période de faible liquidité</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t653afd79c5a75677",
+      "english": "<span data-i18n-slot=\"0\">Now that we know why breakouts can be potent in low-liquidity conditions, let’s get into how to trade them. Whether you’re eyeing a quiet Tuesday mid-morning (Dubai time) when only Asia is open, or a late-night session U.S. markets have wound down, these actionable steps can help you plan a breakout trade:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Maintenant que nous savons pourquoi les cassures peuvent être puissantes lorsque la liquidité est faible, voyons comment les négocier. Que vous envisagiez un mardi calme en milieu de matinée, heure de Dubaï, lorsque seule l’Asie est ouverte, ou une séance tard dans la nuit après la fin de l’activité des marchés américains, ces étapes concrètes peuvent vous aider à planifier une transaction sur cassure :</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t0fa8f23164b46c3f",
+      "english": "These will serve as your breakout levels. (Pro tip: Tighter ranges often lead to stronger breakouts; if you see an unusually small range, get ready.)",
+      "translation": "Ces niveaux serviront de seuils de cassure. (Conseil de professionnel : les fourchettes plus étroites entraînent souvent des cassures plus fortes ; si vous observez une fourchette inhabituellement petite, préparez-vous.)",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t48b7c05757c3eee7",
+      "english": "<span data-i18n-slot=\"0\">A strong candle close outside the range (not just a brief wick above/below).</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une bougie forte se ferme en dehors de la plage (pas seulement une brève mèche au-dessus/en dessous).</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t752ae4cb882eabed",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Monitor and Adjust: </span>Breakout trading isn’t a “set and forget” strategy, especially not in fast conditions. Keep a close eye on price behavior after your entry. If the breakout shows signs of stalling or reversing (e.g. a sudden large opposite candle on high volume), you might choose to close early. Conversely, if the move is strong and fundamentals support it (e.g. news came that justifies a new trend), you might extend your profit target or trail your stop more loosely to catch a bigger move. </span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Surveiller et ajuster : </span>Le trading de cassure n’est pas une stratégie que l’on met en place puis oublie, surtout lorsque le marché évolue vite. Surveillez attentivement le comportement du cours après votre entrée. Si la cassure semble s’essouffler ou s’inverser, par exemple avec une grande bougie soudaine en sens opposé accompagnée d’un volume élevé, vous pouvez choisir de clôturer plus tôt. À l’inverse, si le mouvement est fort et soutenu par les fondamentaux, par exemple une actualité justifiant une nouvelle tendance, vous pouvez éloigner votre objectif de gain ou laisser davantage de marge à votre stop suiveur pour capter un mouvement plus ample.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t97c09eb51cfcc76b",
+      "english": "By following a structured approach like the above, you treat breakout trading less like gambling on a random spike and more like a systematic strategy with defined entry and exit rules. Next, we’ll discuss how using an advanced real-time forex trading platform can enhance your ability to execute this strategy effectively (and how to ensure your platform isn’t holding you back).",
+      "translation": "En suivant une approche structurée comme celle-ci, vous abordez le trading de cassure comme une stratégie systématique assortie de règles d’entrée et de sortie définies, plutôt que comme un pari sur un pic aléatoire. Nous verrons ensuite comment une plateforme avancée de trading forex en temps réel peut vous aider à exécuter efficacement cette stratégie, et comment vérifier que votre plateforme ne vous freine pas.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "tbebf63f921ffdb8b",
+      "english": "This stark difference underpins why a breakout after the Asian session can be so lucrative – it’s like stretching a rubber band that’s been held tight. Indeed, traders often observe that if the Asian range was particularly small, the subsequent London move is disproportionately large. Historical data backs this up: a tight overnight range (low volatility) often precedes an expansion in volatility when Europe opens, a phenomenon sometimes called the “volatility contraction-expansion” principle in technical analysis. Essentially, markets alternate between quiet and active phases.",
+      "translation": "Cette différence frappante explique pourquoi une cassure après la séance asiatique peut être si lucrative – c’est comme tendre un élastique qu’on tient fermement. En effet, les traders observent souvent que si la fourchette asiatique était particulièrement petite, le mouvement ultérieur de Londres est disproportionné. Les données historiques le confirment : une fourchette étroite au jour le jour (faible volatilité) précède souvent une expansion de la volatilité à l’ouverture de l’Europe, un phénomène parfois appelé principe de « contraction-expansion de la volatilité » dans l’analyse technique. Essentiellement, les marchés alternent entre des phases calmes et actives.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t36a79f8e8ec67c32",
+      "english": "This isn’t to say breakouts only happen at session overlaps; they can occur during low-liquidity periods too (for example, a sudden move during the Asian mid-day when Europe is still asleep). But in those cases, it’s usually news-driven. For instance, a surprise rate cut by the Bank of Japan announced at 12:00 noon Tokyo time (when markets are otherwise quiet) could send USD/JPY flying 100 pips before London even wakes up, because liquidity at that moment was low and all the pent-up reaction hit at once.",
+      "translation": "Cela ne signifie pas que les cassures surviennent uniquement lors des chevauchements de séances ; elles peuvent aussi se produire lorsque la liquidité est faible, par exemple lors d’un mouvement soudain au milieu de la journée asiatique alors que l’Europe dort encore. Dans ces cas, elles sont toutefois généralement provoquées par l’actualité. Ainsi, une baisse surprise des taux annoncée par la Banque du Japon à 12:00, à midi heure de Tokyo, lorsque les marchés sont autrement calmes, pourrait faire bondir USD/JPY de 100 pips avant même le réveil de Londres, car la liquidité était faible à cet instant et toute la réaction accumulée s’est manifestée d’un coup.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "ta686db831a3bb3cb",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">From a technical analysis perspective, certain indicators can help in breakout trading on low-liquidity days:</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Du point de vue de l’analyse technique, certains indicateurs peuvent aider à négocier les cassures lors des journées à faible liquidité :</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t29b0a42d1498aa9d",
+      "english": "However, let’s also address risk: low-liquidity breakouts are a double-edged sword. While they can produce big moves in your favor, they can also entail wider spreads and slippage. During an illiquid moment, the bid-ask spread can widen suddenly – you might notice this if you’re trading around 5pm New York when many banks temporarily go offline for end-of-day. A normally 1-pip spread on EUR/USD can widen to 3-4 pips briefly. Wider spreads mean you enter a trade already at a disadvantage (a higher hurdle to overcome), and they can also stop you out quicker if you placed a tight stop just beyond a level. Additionally, if you’re trading a breakout and everyone else is too (lots of stop orders hitting simultaneously), the price can skip levels – that’s slippage. Your order might fill a few pips away from your intended entry if the market gapped.",
+      "translation": "Abordons aussi les risques : les cassures en période de faible liquidité sont à double tranchant. Elles peuvent produire de forts mouvements en votre faveur, mais aussi des spreads plus larges et du slippage. Lorsque la liquidité manque, le spread acheteur-vendeur peut s’élargir soudainement, notamment vers 5pm, heure de New York, quand de nombreuses banques se déconnectent temporairement en fin de journée. Un spread habituel de 1 pip sur EUR/USD peut brièvement atteindre 3-4 pips. Vous entrez alors dans la transaction avec un désavantage plus important à surmonter, et votre stop peut se déclencher plus vite s’il est placé juste au-delà d’un niveau. De plus, si vous négociez une cassure en même temps que beaucoup d’autres traders et que de nombreux ordres stop se déclenchent simultanément, le cours peut sauter des niveaux : c’est le slippage. Votre ordre peut être exécuté à quelques pips du niveau d’entrée prévu si le marché présente un écart de cotation.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t2fb5c27ce3653312",
+      "english": "<span data-i18n-slot=\"0\">Choosing the Right Platform: Features to Boost Breakout Success</span>",
+      "translation": "<span data-i18n-slot=\"0\">Choisir la bonne plateforme : fonctionnalités pour améliorer la réussite des transactions sur cassure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "tf375cc97e618ac49",
+      "english": "<span data-i18n-slot=\"0\">Lightning-Fast Execution: </span>When a breakout hits, every millisecond counts. You need your orders executed instantly at the price you expect. A platform with a high-performance trading engine and servers located in major financial hubs (e.g. London, New York data centers) will reduce latency. Fast execution with minimal slippage ensures that if you click buy on a 1.3000 breakout, you actually get something like 1.3000 and not 1.3010. Some leading platforms even boast execution speeds of a few milliseconds and have policies to minimize slippage and rejections even during volatile spikes. The result: you capture more of the breakout move instead of losing profit to delays or price jumps.",
+      "translation": "<span data-i18n-slot=\"0\">Exécution ultra-rapide&nbsp;: </span>Lorsqu'une cassure se produit, chaque milliseconde compte. Vous avez besoin que vos ordres soient exécutés instantanément au prix que vous attendez. Une plateforme dotée d'un moteur de trading performant et de serveurs situés dans les principaux centres financiers (par exemple les centres de données de Londres et de New York) réduira la latence. Une exécution rapide avec un glissement minimal garantit que si vous cliquez sur acheter sur une cassure de 1.3000, vous obtiendrez en réalité quelque chose comme 1.3000 et non 1.3010. Certaines plates-formes leaders affichent même des vitesses d'exécution de quelques millisecondes et disposent de politiques visant à minimiser les dérapages et les rejets, même en cas de pics volatils. Le résultat&nbsp;: vous capturez davantage de mouvements de cassure au lieu de perdre des bénéfices à cause de retards ou de hausses de prix.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t6fe2d19422fcf498",
+      "english": "<span data-i18n-slot=\"0\">Real-Time Charting &amp; Technical Tools: </span><span data-i18n-slot=\"1\">The platform should offer real-time price feeds and advanced charting tools that update without delay. During a fast breakout, you’ll rely on up-to-the-second charts (e.g. 1-minute or tick charts) to make decisions. Look for features like customizable indicators (Bollinger Bands, ATR, volume indicators as mentioned), drawing tools to mark ranges, and possibly even automated pattern recognition. Volatility alerts or custom price alerts are a big plus – for example, being able to set an alert if GBP/USD breaks above 1.2500 or if its 5-minute ATR doubles, so you don’t miss the breakout. A platform with these alerts can effectively monitor the market for you in real time and notify you the moment conditions change.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Graphiques en temps réel et outils techniques : </span><span data-i18n-slot=\"1\">La plateforme doit offrir des flux de cours en temps réel et des outils graphiques avancés actualisés sans délai. Lors d’une cassure rapide, vous vous appuierez sur des graphiques à la seconde près, par exemple des graphiques de 1 minute ou en ticks, pour prendre vos décisions. Recherchez des indicateurs personnalisables, comme les bandes de Bollinger, l’ATR et les indicateurs de volume mentionnés, des outils de dessin pour délimiter les fourchettes, voire une reconnaissance automatique des figures. Les alertes de volatilité ou de cours personnalisées sont un atout majeur : par exemple, une alerte si GBP/USD dépasse 1.2500 ou si son ATR sur 5 minutes double, afin de ne pas manquer la cassure. Une plateforme dotée de ces alertes peut surveiller efficacement le marché pour vous en temps réel et vous prévenir dès que les conditions changent.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "tb8915edf714c3475",
+      "english": "<span data-i18n-slot=\"0\">Outperforming the Competition (Without Naming Them)</span>",
+      "translation": "<span data-i18n-slot=\"0\">Surperformer la concurrence (sans les nommer)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t2ac5162e6d59c0cc",
+      "english": "You have the same (or better) lightning-fast execution as professional traders.",
+      "translation": "Vous bénéficiez de la même (ou meilleure) exécution ultra-rapide que les traders professionnels.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ]
+    },
+    {
+      "key": "t3a267b95bb689af7",
+      "english": "<span data-i18n-slot=\"0\">UpForex’s Competitive Spread Structure</span>",
+      "translation": "<span data-i18n-slot=\"0\">La structure de spreads compétitifs d’UpForex</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t751cd48080e739c8",
+      "english": "<span data-i18n-slot=\"0\">Head-to-Head: UpForex vs. Leading Brokers</span>",
+      "translation": "<span data-i18n-slot=\"0\">Face à face&nbsp;: UpForex contre les principaux courtiers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t8b5562d48a014e86",
+      "english": "<span data-i18n-slot=\"0\">All-In Cost (Pips)</span>",
+      "translation": "<span data-i18n-slot=\"0\">Coût tout compris (pips)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t4272e5c17430bc55",
+      "english": "<span data-i18n-slot=\"0\">₹0 per trade</span>",
+      "translation": "<span data-i18n-slot=\"0\">0 ₹ par transaction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "td9b7f5bcd51275be",
+      "english": "<span data-i18n-slot=\"0\">0.4 – 4.4 (</span><span data-i18n-slot=\"1\">Myfxbook</span><span data-i18n-slot=\"2\">,</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span></span><span data-i18n-slot=\"5\">IC Markets</span><span data-i18n-slot=\"6\">)</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.4 – 4.4 (</span><span data-i18n-slot=\"1\">Myfxbook</span><span data-i18n-slot=\"2\">, </span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span></span><span data-i18n-slot=\"5\">IC Markets</span><span data-i18n-slot=\"6\">)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t0edbb6b511e4cb63",
+      "english": "<span data-i18n-slot=\"0\">$3.50 per lot round-turn</span>",
+      "translation": "<span data-i18n-slot=\"0\">3.50&nbsp;$ par lot aller-retour</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t8163ccdb8f7f1043",
+      "english": "<span data-i18n-slot=\"0\">Ultra-Tight Majors</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> EUR/USD from </span><span data-i18n-slot=\"4\">0.1 pips</span><span data-i18n-slot=\"5\">, matching raw-spread specialists without commissions .</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Majors ultra-serrés</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> EUR/USD à partir de </span><span data-i18n-slot=\"4\">0.1 pips</span><span data-i18n-slot=\"5\">, correspondant aux spécialistes des spreads bruts sans commissions.</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t85c9062e1402fa66",
+      "english": "<span data-i18n-slot=\"0\">Consistent Execution</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Deep liquidity and robust infrastructure ensure spreads stay tight 24/5.</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Exécution cohérente</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Une grande liquidité et une infrastructure robuste garantissent que les écarts restent serrés 24/5.</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t55c0a1028abf6632",
+      "english": "<span data-i18n-slot=\"0\">Micro-Lot Flexibility</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Trade </span><span data-i18n-slot=\"4\">0.01-lot</span><span data-i18n-slot=\"5\"> positions to manage risk precisely at low cost.</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Flexibilité des micro-lots</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Négociez </span><span data-i18n-slot=\"4\">0.01 lots</span><span data-i18n-slot=\"5\"> pour gérer les risques avec précision à faible coût.</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t0cc9b935c4b7640b",
+      "english": "<span data-i18n-slot=\"0\">Take Action: Trade Smarter with UpForex</span>",
+      "translation": "<span data-i18n-slot=\"0\">Passez à l'action&nbsp;: négociez plus intelligemment avec UpForex</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "t25da3c92d22652d0",
+      "english": "<span data-i18n-slot=\"0\">👉 </span><span data-i18n-slot=\"1\">Go Live with Confidence</span><span data-i18n-slot=\"2\">—open a micro-lot live account and trade majors from 0.1 pips:</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span></span><span data-i18n-slot=\"5\">Open Live Account</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">👉 </span><span data-i18n-slot=\"1\">Démarrez en toute confiance</span><span data-i18n-slot=\"2\">&nbsp;: ouvrez un compte réel de micro-lots et négociez des majors à partir de 0.1 pips&nbsp;:</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span></span><span data-i18n-slot=\"5\">Ouvrir un compte réel</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ]
+    },
+    {
+      "key": "tf9a537ad59049d35",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Feature / Outcome</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Caractéristique/Résultat</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t85726f3e20e17e04",
+      "english": "<span data-i18n-slot=\"0\">Refine entries/exits on real charts</span>",
+      "translation": "<span data-i18n-slot=\"0\">Affiner les entrées/sorties sur de vrais graphiques</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t236a8bcb74b8de47",
+      "english": "<span data-i18n-slot=\"0\">Platform Mastery</span>",
+      "translation": "<span data-i18n-slot=\"0\">Maîtrise de la plateforme</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t76ef5c005d7eaaca",
+      "english": "<span data-i18n-slot=\"0\">Performance Tracking</span>",
+      "translation": "<span data-i18n-slot=\"0\">Suivi des performances</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t7e82f661207e7ec5",
+      "english": "<span data-i18n-slot=\"0\">Detailed P&amp;L &amp; trade journals</span>",
+      "translation": "<span data-i18n-slot=\"0\">Résultats détaillés des gains et pertes et journaux de trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t207c42bb0eee48f5",
+      "english": "<span data-i18n-slot=\"0\">Profitability Odds</span>",
+      "translation": "<span data-i18n-slot=\"0\">Probabilité de rentabilité</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "tc181f4121e4ccd02",
+      "english": "<span data-i18n-slot=\"0\">Up to 40% of beginners blow accounts</span>",
+      "translation": "<span data-i18n-slot=\"0\">Jusqu’à 40% des débutants perdent tout le capital de leur compte</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t63776b2a84bb8776",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Explore Every Order Type</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Explorez chaque type d’ordre</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t42819e544a73c07a",
+      "english": "<span data-i18n-slot=\"0\">Market, limit, stop, trailing—see exactly how each behaves under live conditions.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Marché, limite, stop, suivi&nbsp;: découvrez exactement comment chacun se comporte dans des conditions réelles.  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t549dcb5117b7e9eb",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Test Strategies on Real Charts</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Tester les stratégies sur de vrais graphiques</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "td9c08b63eb91b2b7",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Master Platform Navigation</span></span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Maîtrisez la navigation sur la plateforme</span></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "td5671fd9474a6c59",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Launch Demo Trading</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Lancer le trading de démonstration</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t5d65511566edea79",
+      "english": "<span data-i18n-slot=\"0\"> From your dashboard, hit </span><span data-i18n-slot=\"1\">Start Demo Trading</span><span data-i18n-slot=\"2\">. Choose </span><span data-i18n-slot=\"3\">Web Trader</span><span data-i18n-slot=\"4\"> or download </span><span data-i18n-slot=\"5\">MT5/4</span><span data-i18n-slot=\"6\"> and log in with your demo credentials.</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"></span><span data-i18n-slot=\"9\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\"> Depuis votre tableau de bord, cliquez sur </span><span data-i18n-slot=\"1\">Démarrer le trading de démonstration</span><span data-i18n-slot=\"2\">. Choisissez </span><span data-i18n-slot=\"3\">Web Trader</span><span data-i18n-slot=\"4\"> ou téléchargez </span><span data-i18n-slot=\"5\">MT5/4</span><span data-i18n-slot=\"6\"> et connectez-vous avec vos identifiants de démonstration.</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"></span><span data-i18n-slot=\"9\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t264fc2fee65d9ac6",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Customize &amp; Trade</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Personnalisez et négociez</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "tf723bb8c264e5bce",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Why Beginners Should Always Demo First</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Pourquoi les débutants devraient toujours faire une démonstration en premier</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t14fb0bf6e10c8eae",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Zero-Stress Environment</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Environnement sans stress</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "tfe9c4e2a1266d170",
+      "english": "<span data-i18n-slot=\"0\"> No real stakes means clear thinking—no panic, no FOMO.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\"> Aucun enjeu réel signifie une réflexion claire&nbsp;: pas de panique, pas de FOMO.  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t64816bc6190951d6",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Confidence Building</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Renforcer la confiance</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "tf72121512e8858a3",
+      "english": "<span data-i18n-slot=\"0\"> Each winning demo trade reinforces your analysis and discipline.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\"> Chaque transaction de démonstration gagnante renforce votre analyse et votre discipline.  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t17afb279eaecf9d5",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Safe Failure</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Échouer sans risquer de capital réel</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "tcf96d8ffb236eb77",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Emotional Mastery</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Maîtrise émotionnelle</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t1a8dab2f844995ed",
+      "english": "<span data-i18n-slot=\"0\"> Practice cutting losers quickly and letting winners run before real-money pressure kicks in.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Entraînez-vous à couper rapidement les positions perdantes et à laisser courir les gagnantes avant de subir la pression de l’argent réel.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t49a899a63cb8a840",
+      "english": "<span data-i18n-slot=\"0\">Micro-Lot Live Accounts:</span><span data-i18n-slot=\"1\"> Trade with tiny positions (0.01 lots) for a smooth transition.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Comptes réels Micro-Lot&nbsp;:</span><span data-i18n-slot=\"1\"> Négociez avec de petites positions (0.01 lots) pour une transition en douceur.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t7f3ad8b56312b4c3",
+      "english": "<span data-i18n-slot=\"0\">Localized Market Insights:</span><span data-i18n-slot=\"1\"> Asia-Pacific session analysis and outlooks sharpen your edge.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span></span>",
+      "translation": "<span data-i18n-slot=\"0\">Informations localisées sur le marché&nbsp;:</span><span data-i18n-slot=\"1\"> L'analyse et les perspectives des sessions Asie-Pacifique renforcent votre avantage.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t842c86ffaf6f7fb9",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q1: How long should I demo trade before going live?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q1 : Combien de temps dois-je m’entraîner sur un compte démo avant de passer au trading réel ?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t0f3620a9d486eac5",
+      "english": "<span data-i18n-slot=\"0\"> Aim for </span><span data-i18n-slot=\"1\">1–2 weeks</span><span data-i18n-slot=\"2\"> or </span><span data-i18n-slot=\"3\">15–30 demo trades</span><span data-i18n-slot=\"4\">, targeting small, consistent gains with ≤1% risk per trade.</span>",
+      "translation": "<span data-i18n-slot=\"0\"> Visez </span><span data-i18n-slot=\"1\">1 à 2 semaines</span><span data-i18n-slot=\"2\"> ou </span><span data-i18n-slot=\"3\">15 à 30 transactions de démonstration</span><span data-i18n-slot=\"4\">, en ciblant des gains faibles et constants avec ≤&nbsp;1&nbsp;% de risque par transaction.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t6dd10ef317350193",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q3: Do demo spreads match live?</span></span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span></span><span data-i18n-slot=\"4\"> UpForex mirrors live spreads and execution speeds in demo. Only extreme volatility may cause minor variances.</span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">T3&nbsp;: Les spreads de démonstration correspondent-ils en direct&nbsp;?</span></span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span></span><span data-i18n-slot=\"4\"> UpForex reflète les spreads en direct et les vitesses d'exécution dans la démo. Seule une volatilité extrême peut entraîner des écarts mineurs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t0a9648e927dc3ec1",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q4: How do I bridge demo success to live profits?</span></span>",
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q4&nbsp;: Comment puis-je relier le succès de la démonstration aux bénéfices réels&nbsp;?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t0067987935d8efc1",
+      "english": "<span data-i18n-slot=\"0\"> Use identical leverage, lot sizes, and risk rules. Journal every trade to refine your plan before switching over.</span>",
+      "translation": "<span data-i18n-slot=\"0\"> Utilisez un effet de levier, des tailles de lot et des règles de risque identiques. Journalisez chaque transaction pour affiner votre plan avant de basculer.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "td70a21e168fd6c6b",
+      "english": "<span data-i18n-slot=\"0\">👉</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span></span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\">Start Your Free Demo on UpForex</span></span><span data-i18n-slot=\"5\"> – Practice risk-free, trade with confidence!</span>",
+      "translation": "<span data-i18n-slot=\"0\">👉</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span></span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\">Démarrez votre démo gratuite sur UpForex</span></span><span data-i18n-slot=\"5\"> – Entraînez-vous sans risque, négociez en toute confiance !</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ]
+    },
+    {
+      "key": "t8bcbfe9f9fccbcfb",
+      "english": "The forex market runs on a global network of banks and brokers, not a single exchange. Every trade involves two currencies—called a pair—like EUR/USD. When you place an order, your broker finds someone else who wants the opposite trade and matches you instantly.",
+      "translation": "Le marché des changes repose sur un réseau mondial de banques et de courtiers, plutôt que sur une bourse unique. Chaque transaction implique deux devises formant une paire, comme EUR/USD. Lorsque vous passez un ordre, votre courtier trouve une contrepartie souhaitant effectuer l’opération inverse et vous met instantanément en relation.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ]
+    },
+    {
+      "key": "t8957dbac8df32388",
+      "english": "<span data-i18n-slot=\"0\">Where Is It?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Où est-il&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ]
+    },
+    {
+      "key": "t2cdf0fee1a737c62",
+      "english": "The process of purchasing and selling currencies with the intention of turning a profit is called <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">forex trading</span></span>, sometimes referred to as currency trading or foreign exchange trading. You exchange your rupees for dollars. When the value of the dollar rises compared to the rupee, you technically make a profit if you exchange it back. That simple concept is the heart of forex trading—except it’s done online, on a much bigger scale, and involves traders from all over the world",
+      "translation": "L’achat et la vente de devises dans le but de réaliser un bénéfice s’appellent le <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">trading forex</span></span>, aussi appelé trading de devises ou négociation de changes. Vous échangez vos roupies contre des dollars. Si la valeur du dollar augmente par rapport à la roupie, vous réalisez techniquement un bénéfice en reconvertissant vos dollars. Ce principe simple constitue le cœur du trading forex, sauf que les opérations se font en ligne, à bien plus grande échelle, avec des traders du monde entier",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ]
+    },
+    {
+      "key": "t9242575642a37d1a",
+      "english": "<span data-i18n-slot=\"0\">Why Forex Is Hard to Trade ?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pourquoi le Forex est-il difficile à négocier&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ]
+    },
+    {
+      "key": "tb33fd928eaa67bca",
+      "english": "Forex markets are physically and psychologically taxing due to their 24-hour existence. In contrast to stock markets, which have regular trading hours, forex necessitates constant position monitoring or the establishment of exact exit points in order to guard against unfavorable movements during off-peak hours.",
+      "translation": "Les marchés des changes sont éprouvants physiquement et psychologiquement du fait de leur activité sur 24 heures. Contrairement aux marchés boursiers, qui ont des horaires de négociation réguliers, le forex exige de surveiller continuellement les positions ou de définir des niveaux de sortie précis afin de se protéger des mouvements défavorables pendant les heures creuses.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ]
+    },
+    {
+      "key": "t8f38c219c2699e03",
+      "english": "<span data-i18n-slot=\"0\">Trade 50+ Major, Minor &amp; Exotic Currency Pairs <span data-i18n-slot=\"1\"> : </span></span><span data-i18n-slot=\"2\"> Including EUR/USD, GBP/USD, USD/JPY, and more. </span>",
+      "translation": "<span data-i18n-slot=\"0\">Négociez plus de 50 paires de devises majeures, mineures et exotiques <span data-i18n-slot=\"1\">&nbsp;: </span></span><span data-i18n-slot=\"2\"> Y compris EUR/USD, GBP/USD, USD/JPY, et plus encore. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading#content",
+        "SSR:/blogs/forex-trading"
+      ]
+    },
+    {
+      "key": "tcbff4cb11283cac3",
+      "english": "<span data-i18n-slot=\"0\">What is a Reciprocal Tariff?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu'est-ce qu'un tarif réciproque&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "t6c4372b2e6552768",
+      "english": "The impact of tariffs was not limited to headlines, it slashed hundreds of billions in market value from some of the world's and America’s biggest corporations. Here’s a look at how five of the largest tech companies were hit:",
+      "translation": "L’impact des droits de douane ne s’est pas limité aux gros titres : ils ont réduit la valeur marchande de certaines des plus grandes entreprises mondiales et américaines de centaines de milliards. Voici un aperçu de la manière dont cinq des plus grandes entreprises technologiques ont été touchées&nbsp;:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "t45be0b30d5daf01a",
+      "english": "<span data-i18n-slot=\"0\">Company</span>",
+      "translation": "<span data-i18n-slot=\"0\">Entreprise</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "t337c98b0017db262",
+      "english": "<span data-i18n-slot=\"0\">Footwear and apparel stocks take a hit</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les actions des entreprises de chaussures et d’habillement sont touchées</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "t9d32030ac2ad9b16",
+      "english": "<span data-i18n-slot=\"0\">Here's how these stocks fared following the tariff announcement:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Voici comment ces actions se sont comportées après l'annonce des tarifs&nbsp;:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "tb381f92749f03faf",
+      "english": "<span data-i18n-slot=\"0\">M-Cap</span>",
+      "translation": "<span data-i18n-slot=\"0\">Capitalisation boursière</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "t1d003c10b34bcfde",
+      "english": "<span data-i18n-slot=\"0\">1-day loss</span>",
+      "translation": "<span data-i18n-slot=\"0\">Perte sur 1 jour</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "t0fc5c5ce4a9f7274",
+      "english": "<span data-i18n-slot=\"0\">Nike</span>",
+      "translation": "<span data-i18n-slot=\"0\">Nike</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "ta96a1b740f5f8230",
+      "english": "<span data-i18n-slot=\"0\">Deckers</span>",
+      "translation": "<span data-i18n-slot=\"0\">Deckers</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "t5111ce234fa4e023",
+      "english": "<span data-i18n-slot=\"0\">VF Corporation</span>",
+      "translation": "<span data-i18n-slot=\"0\">VF Corporation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "ta42b5ca2e01de5c4",
+      "english": "<span data-i18n-slot=\"0\">Tariffs rattle US dollar, other asset classes</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les tarifs douaniers ébranlent le dollar américain et d'autres classes d'actifs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "td255bf1a034cd108",
+      "english": "The selloff was not just limited to stocks. The ripple effects were felt across currencies, bonds, and volatility indexes.",
+      "translation": "La liquidation ne s’est pas limitée aux actions. Les effets d’entraînement se sont fait sentir sur les devises, les obligations et les indices de volatilité.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    },
+    {
+      "key": "t3844bf864075dab2",
+      "english": "The content is meant for education and general information purposes only. Investments in the securities market are subject to market risks, read all the related documents carefully before investing. Past performance is not indicative of future returns. The securities are quoted as an example and not as a recommendation. This in no way is to be construed as financial advice or a recommendation to invest in any specific stock or financial instrument. The Company strongly encourages its users/viewers to conduct their own research, and consult with a registered financial advisor before making any investment decisions. All disputes in relation to the content would not have access to an exchange investor redressal forum or arbitration mechanism. INDmoney Global (IFSC) Private Limited, Unit No. GA-02, Seat No. 1-4, Ground Floor, Pragya Accelerator Block-15 T, Road 11, Zone-1, Processing Area, GIFT SEZ, Gift City, Gandhinagar, Gujarat, India, 382355 IFSCA Broker-Dealer Registration No. IFSC/BD/2023-24/0016, IFSCA DP Reg No: IFSC/DP/2023-24/010.",
+      "translation": "Ce contenu est destiné uniquement à l’éducation et à l’information générale. Les investissements sur le marché des valeurs mobilières comportent des risques de marché ; lisez attentivement tous les documents associés avant d’investir. Les performances passées ne préjugent pas des rendements futurs. Les titres sont cités à titre d’exemple et ne constituent pas une recommandation. Ce contenu ne doit en aucun cas être interprété comme un conseil financier ou une recommandation d’investir dans une action ou un instrument financier particulier. La société encourage vivement ses utilisateurs et lecteurs à effectuer leurs propres recherches et à consulter un conseiller financier agréé avant toute décision d’investissement. Les litiges relatifs au contenu ne pourraient pas être portés devant un forum boursier de recours des investisseurs ni un mécanisme d’arbitrage. INDmoney Global (IFSC) Private Limited, unité n° GA-02, siège n° 1-4, rez-de-chaussée, Pragya Accelerator Block-15 T, Road 11, Zone-1, zone de traitement, GIFT SEZ, Gift City, Gandhinagar, Gujarat, Inde, 382355. Numéro d’immatriculation IFSCA Broker-Dealer : IFSC/BD/2023-24/0016 ; numéro d’immatriculation IFSCA DP : IFSC/DP/2023-24/010.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/trump-tarrif#content",
+        "SSR:/blogs/trump-tarrif"
+      ]
+    }
+  ]
+}

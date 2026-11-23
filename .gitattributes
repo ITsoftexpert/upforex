@@ -1,0 +1,2 @@
+# Keep checksummed public audit inputs identical on Windows and Linux.
+scripts/data/release-source/*.json text eol=lf

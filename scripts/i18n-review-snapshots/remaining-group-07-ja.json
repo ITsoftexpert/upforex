@@ -1,0 +1,688 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t9ab126c6f946953a",
+      "english": "<span data-i18n-slot=\"0\">There are no open positions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保有ポジションはありません</span>"
+    },
+    {
+      "key": "t6db026c926d0d5a1",
+      "english": "<span data-i18n-slot=\"0\">Consider an account showing:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次のようなアカウントを考えてみましょう。</span>"
+    },
+    {
+      "key": "tc6d854705f253fa4",
+      "english": "<span data-i18n-slot=\"0\">Floating loss: $400</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変動損失: $400</span>"
+    },
+    {
+      "key": "t4781fbb4c348f008",
+      "english": "<span data-i18n-slot=\"0\">Equity: $4,600</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金: 4,600ドル</span>"
+    },
+    {
+      "key": "t95adb07aacdeb5b6",
+      "english": "<span data-i18n-slot=\"0\">How Floating P/L Changes Equity Worked Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">含み損益が有効証拠金に与える変化の計算例</span>"
+    },
+    {
+      "key": "tbd31d5b60a96c3e0",
+      "english": "<span data-i18n-slot=\"0\">The figures below are hypothetical and are included only to demonstrate the relationship between Balance, floating P/L and Equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">以下の数値は仮定に基づくもので、残高、含み損益、有効証拠金の関係を示すためだけに記載しています。</span>"
+    },
+    {
+      "key": "tbfdec96c193d01d8",
+      "english": "<span data-i18n-slot=\"0\">Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金</span>"
+    },
+    {
+      "key": "t7ec72be1b96b8fe9",
+      "english": "<span data-i18n-slot=\"0\">Position just opened</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オープンしたばかりのポジション</span>"
+    },
+    {
+      "key": "te57710a0f9d66f28",
+      "english": "<span data-i18n-slot=\"0\">Price moves favorably</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">価格は順調に推移</span>"
+    },
+    {
+      "key": "t9a7d6799395f83dd",
+      "english": "<span data-i18n-slot=\"0\">Price later moves unfavorably</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">その後の価格は不利な動きをする</span>"
+    },
+    {
+      "key": "t02c554e7bcee8e97",
+      "english": "<span data-i18n-slot=\"0\">Floating P/L = $0</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変動損益 = $0</span>"
+    },
+    {
+      "key": "t251414547d6af568",
+      "english": "<span data-i18n-slot=\"0\">Equity = $5,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金 = 5,000 ドル</span>"
+    },
+    {
+      "key": "te4143d823292ff32",
+      "english": "<span data-i18n-slot=\"0\">Equity becomes:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金は次のようになります。</span>"
+    },
+    {
+      "key": "td50c5f53b39d7d3f",
+      "english": "<span data-i18n-slot=\"0\">Balance still shows:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">残高は引き続き表示されます:</span>"
+    },
+    {
+      "key": "t3b166ccebb88dbd8",
+      "english": "<span data-i18n-slot=\"0\">$5,000 - $350 = $4,650 Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5,000 ドル - 350 ドル = 4,650 ドルの有効証拠金</span>"
+    },
+    {
+      "key": "t2c7a437b23a0d34d",
+      "english": "<span data-i18n-slot=\"0\">Floating losses are still financial exposure even before they become realized losses. When leveraged forex or CFD positions move adversely, Equity can decline while the Balance figure remains unchanged.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">浮動損失は、実現損失になる前であっても財務上のエクスポージャーとなります。レバレッジをかけた外国為替またはCFDのポジションが不利に動くと、残高の数値は変わらないまま、有効証拠金が減少する可能性があります。</span>"
+    },
+    {
+      "key": "t3bb82a7e6548e380",
+      "english": "<span data-i18n-slot=\"0\">Equity uses the </span><span data-i18n-slot=\"1\">net floating P/L across all open positions</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金は</span><span data-i18n-slot=\"1\">すべてのオープンポジションにわたる純変動損益を使用します</span><span data-i18n-slot=\"2\">。</span>"
+    },
+    {
+      "key": "t7dcb831807aca5c2",
+      "english": "<span data-i18n-slot=\"0\">Position A = +$300 floating profit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジション A = +$300 変動利益</span>"
+    },
+    {
+      "key": "te49b9ddebd199f10",
+      "english": "<span data-i18n-slot=\"0\">Position B = -$450 floating loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジション B = -$450 変動損失</span>"
+    },
+    {
+      "key": "t3e3c6073c9d8f081",
+      "english": "<span data-i18n-slot=\"0\">Net floating P/L is:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">純浮動損益は次のとおりです。</span>"
+    },
+    {
+      "key": "tca3d0f95ef4de1ef",
+      "english": "<span data-i18n-slot=\"0\">With a $5,000 Balance:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">残高が 5,000 ドルの場合:</span>"
+    },
+    {
+      "key": "t7639d406c69dc194",
+      "english": "<span data-i18n-slot=\"0\">$5,000 - $150 = $4,850 Equity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5,000 ドル - 150 ドル = 4,850 ドルの有効証拠金</span>"
+    },
+    {
+      "key": "t81c4fdd946d68341",
+      "english": "<span data-i18n-slot=\"0\">Net Floating P/L</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">純変動損益</span>"
+    },
+    {
+      "key": "td8b1654eee2d4190",
+      "english": "<span data-i18n-slot=\"0\">Total Account Equity Value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座の有効証拠金の合計額</span>"
+    },
+    {
+      "key": "ta6eb0f2753527eb9",
+      "english": "<span data-i18n-slot=\"0\">How Do You Read Balance, Equity, Margin and Free Margin on MT5?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">MT5で残高、有効証拠金、証拠金、余剰証拠金をどう読み取りますか？</span>"
+    },
+    {
+      "key": "te10a871ad0701df6",
+      "english": "<span data-i18n-slot=\"0\">When positions are open, traders may see:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジションがオープンしている場合、トレーダーには以下が表示される場合があります。</span>"
+    },
+    {
+      "key": "ta4fdb113f6a0c0c9",
+      "english": "<span data-i18n-slot=\"0\">Balance:</span><span data-i18n-slot=\"1\"> settled account value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">残高:</span><span data-i18n-slot=\"1\"> 決済されたアカウントの金額</span>"
+    },
+    {
+      "key": "tceb3193912420e43",
+      "english": "<span data-i18n-slot=\"0\">Equity:</span><span data-i18n-slot=\"1\"> current value including floating P/L</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金:</span><span data-i18n-slot=\"1\">変動損益を含む現在値</span>"
+    },
+    {
+      "key": "t656fc8f0c3088076",
+      "english": "<span data-i18n-slot=\"0\">Margin Level:</span><span data-i18n-slot=\"1\"> the relationship between Equity and used Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証拠金維持率:</span><span data-i18n-slot=\"1\">有効証拠金と使用済み証拠金の関係</span>"
+    },
+    {
+      "key": "t02d1a2b90ddc0bfb",
+      "english": "<span data-i18n-slot=\"0\">Equity also feeds into the account's margin calculations. The full Free Margin, Margin Level, margin-call and stop-out mechanics are covered separately in the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Forex Leverage &amp; Margin Explained guide</span></span><span data-i18n-slot=\"4\">, so they do not need to be re-derived here.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金もアカウントの証拠金計算に反映されます。余剰証拠金、証拠金維持率、マージンコール、ストップアウトの仕組み全体については、</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">外国為替レバレッジとマージンの説明ガイド</span></span><span data-i18n-slot=\"4\">で個別に説明されているため、ここで再導出する必要はありません。</span>"
+    },
+    {
+      "key": "t8aecfd9997e48bc7",
+      "english": "<span data-i18n-slot=\"0\">Why Does Equity Matter?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金はなぜ重要ですか？</span>"
+    },
+    {
+      "key": "t7b3e08a9a1fbbbd3",
+      "english": "<span data-i18n-slot=\"0\">Equity matters because it provides a more current picture of an account than Balance alone when positions are open.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジションがオープンしている場合、残高のみよりも口座の最新の状況を把握できるため、有効証拠金が重要になります。</span>"
+    },
+    {
+      "key": "t65aa504dd30126af",
+      "english": "<span data-i18n-slot=\"0\">Two traders might each see:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">二 人のトレーダーがそれぞれ次のことを確認する可能性があります。</span>"
+    },
+    {
+      "key": "t79f2460e856cd0e8",
+      "english": "<span data-i18n-slot=\"0\">but their accounts could be in very different states.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">しかし、それらのアカウントの状態は大きく異なる可能性があります。</span>"
+    },
+    {
+      "key": "t1132905da2ad104b",
+      "english": "<span data-i18n-slot=\"0\">If Trader A has +$800 in net floating P/L:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダー A の純浮動損益が +$800 の場合:</span>"
+    },
+    {
+      "key": "t00b9d7ba1a7f82f4",
+      "english": "<span data-i18n-slot=\"0\">Equity = $10,800</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金 = 10,800 ドル</span>"
+    },
+    {
+      "key": "tdcf8bb88ae5152d8",
+      "english": "<span data-i18n-slot=\"0\">If Trader B has -$2,000 in net floating P/L:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダー B の純変動損益が -2,000 ドルの場合:</span>"
+    },
+    {
+      "key": "tb73e7cc9ef198dc5",
+      "english": "<span data-i18n-slot=\"0\">Equity = $8,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金 = 8,000ドル</span>"
+    },
+    {
+      "key": "t71f5d1d7133a0e1d",
+      "english": "<span data-i18n-slot=\"0\">The Balance figures are identical, but the total account equity values are not.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">残高の数値は同一ですが、アカウントの有効証拠金合計値は同一ではありません。</span>"
+    },
+    {
+      "key": "t940f8b4392702e41",
+      "english": "<span data-i18n-slot=\"0\">Equity also matters because margin calculations respond to current Equity rather than waiting for open losses to become realized.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">証拠金の計算は未決済の損失が実現するのを待つのではなく、現在の有効証拠金に応じて行われるため、有効証拠金も重要です。</span>"
+    },
+    {
+      "key": "t9d76f6808d9a9c5e",
+      "english": "<span data-i18n-slot=\"0\">Some traders may informally compare an </span><span data-i18n-slot=\"1\">account equity percentage</span><span data-i18n-slot=\"2\"> with Balance to see how far current Equity has moved from the settled account value. That can provide a simple visual comparison, but it should not be confused with the formal Margin Level percentage calculated from Equity and used Margin.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一部のトレーダーは、非公式に</span><span data-i18n-slot=\"1\">口座資産の割合</span><span data-i18n-slot=\"2\">を残高と比較して、現在の資産が決済された口座値からどれだけ離れているかを確認する場合があります。これにより、単純な視覚的な比較が可能になりますが、有効証拠金と使用された証拠金から計算された正式な証拠金維持率の割合と混同しないでください。</span>"
+    },
+    {
+      "key": "tbff95725046015d3",
+      "english": "<span data-i18n-slot=\"0\">Check Equity before opening or adding another position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">別のポジションをオープンまたは追加する前に、有効証拠金を確認してください。</span>"
+    },
+    {
+      "key": "t005ba70cc57e2e9e",
+      "english": "<span data-i18n-slot=\"0\">Read Floating P/L alongside Equity instead of looking only at Balance.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">残高だけを見るのではなく、変動損益を有効証拠金と合わせて読んでください。</span>"
+    },
+    {
+      "key": "tb765564c6db009ce",
+      "english": "<span data-i18n-slot=\"0\">Compare Equity with Balance to understand the net effect of current trades.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金と残高を比較して、現在の取引の純効果を理解します。</span>"
+    },
+    {
+      "key": "tcbb13baeb966dc48",
+      "english": "<span data-i18n-slot=\"0\">Remember that unrealized losses affect current Equity before they affect Balance.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">未実現損失は残高に影響を与える前に、現在の有効証拠金に影響を与えることに注意してください。</span>"
+    },
+    {
+      "key": "t915edb2300e0451f",
+      "english": "<span data-i18n-slot=\"0\">Check available Margin information before assuming the Balance figure represents usable trading capacity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">残高の数字が使用可能な取引能力を表していると考える前に、利用可能な証拠金情報を確認してください。</span>"
+    },
+    {
+      "key": "ta31e89fa83c503da",
+      "english": "<span data-i18n-slot=\"0\">Floating loss = $1,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変動損失 = 1,000 ドル</span>"
+    },
+    {
+      "key": "t4b15e57501092049",
+      "english": "<span data-i18n-slot=\"0\">Equity = $4,000</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金 = 4,000 ドル</span>"
+    },
+    {
+      "key": "te4c185f348294d17",
+      "english": "<span data-i18n-slot=\"0\">This misunderstanding can become particularly important when leveraged positions remain open during adverse market movement. The UPFOREX article on</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">why retail traders lose money</span></span><span data-i18n-slot=\"4\"> provides broader context on leverage, risk controls and unmanaged losses.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">この誤解は、市場が不利な動きをしているときにレバレッジがかかったポジションが残っている場合に特に重要になる可能性があります。 </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">個人トレーダーが損失を被る理由</span></span><span data-i18n-slot=\"4\">に関する UPFOREX の記事は、レバレッジ、リスク管理、管理されていない損失に関するより広範なコンテキストを提供します。</span>"
+    },
+    {
+      "key": "td34ba5f571423247",
+      "english": "<span data-i18n-slot=\"0\">Equity and an Equity Curve Are the Same Thing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金と有効証拠金曲線は同じものです</span>"
+    },
+    {
+      "key": "td82b0cde241eabf0",
+      "english": "<span data-i18n-slot=\"0\">They are different concepts. Account Equity is the account's value at a particular moment. An </span><span data-i18n-slot=\"1\">equity curve</span><span data-i18n-slot=\"2\"> is a chart showing how Equity has changed over a period of time. One is a live account figure; the other is a historical performance view.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これらは異なる概念です。口座の有効証拠金は、ある時点での口座の価値です。</span><span data-i18n-slot=\"1\">エクイティカーブ</span><span data-i18n-slot=\"2\">は、一定期間に有効証拠金がどのように変化したかを示すグラフです。前者は現在の口座の数値、後者は過去の運用成績を示します。</span>"
+    },
+    {
+      "key": "tc17ee933f5216bfb",
+      "english": "<span data-i18n-slot=\"0\">Equity Only Matters When It Is Very Low</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金が重要になるのは、有効証拠金が非常に低い場合のみです</span>"
+    },
+    {
+      "key": "te0b8ba2e47eca486",
+      "english": "<span data-i18n-slot=\"0\">Equity matters whenever positions are open because it reflects their current combined effect on the account. It can also be useful before adding further exposure. A trader who looks only at Balance may overlook a substantial floating loss already affecting current Equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ポジションがオープンしているときは常に有効証拠金が重要です。これは、アカウントに対する現在の複合効果が反映されるためです。さらに露出を加える前にも役立ちます。残高だけを見ているトレーダーは、現在の有効証拠金にすでに影響を与えている大幅な変動損失を見落とす可能性があります。</span>"
+    },
+    {
+      "key": "t626ee3d15b07e00b",
+      "english": "<span data-i18n-slot=\"0\">Using planned exits can help define how positions are managed as prices change. The</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Stop-Loss &amp; Take-Profit risk management guide</span></span><span data-i18n-slot=\"4\"> explains those order-management mechanics separately.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">計画的な決済を使用すると、価格の変化に応じてポジションを管理する方法を定義するのに役立ちます。 </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">ストップロスとテイクプロフィットのリスク管理ガイド</span></span><span data-i18n-slot=\"4\">では、これらの注文管理の仕組みについて個別に説明しています。</span>"
+    },
+    {
+      "key": "t5ea399380a7860f2",
+      "english": "<span data-i18n-slot=\"0\">What is account equity in trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引における口座有効証拠金とは何ですか?</span>"
+    },
+    {
+      "key": "t1376f60dfaf1876b",
+      "english": "<span data-i18n-slot=\"0\">Account equity is the current value of a trading account after the floating profit or loss from open positions is included. If there are no open positions or other equity adjustments, Balance and Equity will normally be the same. When open trades move in profit or loss, Equity changes while Balance can remain fixed.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座有効証拠金とは、オープンポジションからの変動損益を含めた後の取引口座の現在価値です。オープンポジションやその他の有効証拠金調整がない場合、通常、残高と有効証拠金は同じになります。開いている取引で損益が変動すると、残高は固定されたままですが、有効証拠金は変化します。</span>"
+    },
+    {
+      "key": "tb1729c6f6ed597d1",
+      "english": "<span data-i18n-slot=\"0\">Account Balance reflects settled account value and excludes the current floating result of open positions. Account Equity includes that floating profit or loss. This means Balance can remain unchanged while Equity rises or falls as open market positions change in value.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座残高は決済された口座価値を反映し、オープンポジションの現在の変動結果は除外されます。口座有効証拠金には、変動損益が含まれます。これは、公開市場ポジションの価値が変化するにつれて有効証拠金が上昇または下降しても、残高は変更されないことを意味します。</span>"
+    },
+    {
+      "key": "teaba2b1b28f8896d",
+      "english": "<span data-i18n-slot=\"0\">Why is my equity lower than my balance?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">資産が残高より少ないのはなぜですか?</span>"
+    },
+    {
+      "key": "td7782080ac098880",
+      "english": "<span data-i18n-slot=\"0\">Equity is usually lower than Balance when open positions have a net floating loss or when other applicable account adjustments reduce current equity. For example, a $5,000 Balance with a $400 floating loss produces approximately $4,600 in Equity in a simplified account calculation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オープンポジションに純変動損失がある場合、またはその他の該当する口座調整により現在の有効証拠金が減少する場合、通常、有効証拠金は残高よりも低くなります。たとえば、残高が 5,000 ドルで変動損失が 400 ドルの場合、単純な口座計算では約 4,600 ドルの有効証拠金が生じます。</span>"
+    },
+    {
+      "key": "tc820453588a6c221",
+      "english": "<span data-i18n-slot=\"0\">Can equity be higher than account balance?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金が口座残高よりも大きくなることはありますか?</span>"
+    },
+    {
+      "key": "t779fa3bd4fca1c73",
+      "english": "<span data-i18n-slot=\"0\">Yes. Equity can be higher than Balance when open positions have a net floating profit. A $5,000 Balance with a $300 floating profit would produce approximately $5,300 in Equity in a simplified example. If the position moves again before closing, that Equity figure can change.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">はい。オープンポジションに変動純利益がある場合、有効証拠金が残高より高くなる可能性があります。単純な例では、5,000 ドルの残高と 300 ドルの変動利益により、約 5,300 ドルの有効証拠金が生成されます。クローズする前にポジションが再び移動すると、その有効証拠金数値が変化する可能性があります。</span>"
+    },
+    {
+      "key": "t1e134e01448a29f7",
+      "english": "<span data-i18n-slot=\"0\">What happens to floating P/L when a trade closes?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">取引が終了すると変動損益はどうなりますか?</span>"
+    },
+    {
+      "key": "tecc369284a9dbbce",
+      "english": "<span data-i18n-slot=\"0\">Floating P/L stops being unrealized when the position closes. The final trading result becomes realized and is reflected in the account Balance, subject to the actual execution price and applicable trading costs. The closed position then stops contributing floating profit or loss to current Equity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変動損益は、ポジションがクローズされると未実現でなくなります。最終的な取引結果は実現され、実際の約定価格と該当する取引コストに応じてアカウント残高に反映されます。その後、クローズされたポジションは現在の有効証拠金への変動損益への寄与を停止します。</span>"
+    },
+    {
+      "key": "t490e54f7567488c1",
+      "english": "<span data-i18n-slot=\"0\">How is equity connected to margin level?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金は証拠金維持率にどのように関係しますか?</span>"
+    },
+    {
+      "key": "t4cfa263abe03caf8",
+      "english": "<span data-i18n-slot=\"0\">Equity is the account-value figure used within margin-level calculations. When floating losses reduce Equity, Margin Level can also fall if used Margin remains in place. The full calculation and margin-call mechanics are covered separately in UPFOREX's leverage and margin guide.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有効証拠金は、証拠金維持率の計算内で使用される口座価値の数値です。変動損失が有効証拠金を減少させる場合、使用済み証拠金が所定の位置に残っている場合、証拠金維持率も低下する可能性があります。完全な計算とマージンコールの仕組みについては、UPFOREX のレバレッジとマージンのガイドで個別に説明されています。</span>"
+    },
+    {
+      "key": "tdcb0627c03d1de10",
+      "english": "<span data-i18n-slot=\"0\">Is account equity the same as an equity curve?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">口座有効証拠金は有効証拠金曲線と同じですか?</span>"
+    },
+    {
+      "key": "tbf48f1c5e81801e3",
+      "english": "<span data-i18n-slot=\"0\">Balance, Equity and floating P/L describe different parts of the same trading account. Balance records settled results, floating P/L shows the unrealized result of current positions, and Equity combines those figures into a current account value.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">残高、有効証拠金および変動損益は、同じ取引口座の異なる部分を表します。残高は決済結果を記録し、変動損益は現在のポジションの未実現結果を示し、有効証拠金はこれらの数値を現在の口座価値に結合します。</span>"
+    },
+    {
+      "key": "t46d6b4a22317e57e",
+      "english": "What Is Lot Size in Forex? Standard, Mini and Micro Lots Explained",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#title",
+        "SSR:/blogs",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ],
+      "translation": "外国為替におけるロットサイズとは何ですか?標準ロット、ミニロット、マイクロロットの説明"
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "language": "zh-TW",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t2158546725d9808d",
+      "english": "<span data-i18n-slot=\"0\">Overnight financing or swap charges.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">隔夜融資或掉期費用。</span>"
+    },
+    {
+      "key": "tf4b2a23df5472efd",
+      "english": "<span data-i18n-slot=\"0\">Other account-related charges.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">其他與帳戶相關的費用。</span>"
+    },
+    {
+      "key": "td215036a74cc618c",
+      "english": "<span data-i18n-slot=\"0\">2. Choose Position Sizes Carefully</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。仔細選擇頭寸規模</span>"
+    },
+    {
+      "key": "t8ca7b4161b4c5abc",
+      "english": "<span data-i18n-slot=\"0\">Position sizing helps determine how much market exposure to take based on the amount you are prepared to risk.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">頭寸規模有助於根據您準備承擔風險的金額確定承擔多少市場風險。</span>"
+    },
+    {
+      "key": "tf6d39a23e9061f8f",
+      "english": "<span data-i18n-slot=\"0\">3. Understand Stop-Loss Orders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。瞭解止損單</span>"
+    },
+    {
+      "key": "t5d98ecba60869096",
+      "english": "<span data-i18n-slot=\"0\">However, stop-loss orders do not guarantee the exact closing price. During periods of high volatility or market gaps, execution may occur at a different price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">但是，止損單並不保證確切的平倉價格。在市場劇烈波動或出現跳空時，可能會以不同的價格成交。</span>"
+    },
+    {
+      "key": "tea5357fadd0c76ae",
+      "english": "<span data-i18n-slot=\"0\">4. Avoid Using Maximum Available Leverage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4。避免使用最大可用槓桿</span>"
+    },
+    {
+      "key": "t03f54a630055576f",
+      "english": "<span data-i18n-slot=\"0\">Beginners should first understand how margin works and practise managing positions before considering higher levels of exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初學者應首先了解保證金的運作方式並練習管理倉位，然後再考慮更高的風險水平。</span>"
+    },
+    {
+      "key": "t803e665539c09c9b",
+      "english": "<span data-i18n-slot=\"0\">5. Monitor Open Positions Regularly</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5。定期監控未平倉頭寸</span>"
+    },
+    {
+      "key": "tbe6ea23800b1304c",
+      "english": "<span data-i18n-slot=\"0\">What Should Beginners Know Before Using Forex Leverage in the UAE?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初學者在阿聯酋使用外匯槓桿之前應該瞭解什麼？</span>"
+    },
+    {
+      "key": "t474297a35607aaa5",
+      "english": "<span data-i18n-slot=\"0\">People interested in </span><span data-i18n-slot=\"1\">forex trading UAE</span><span data-i18n-slot=\"2\"> should understand that trading conditions can vary depending on the provider, financial instrument, account type, and applicable regulatory jurisdiction.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">對</span><span data-i18n-slot=\"1\">阿聯酋外匯交易</span><span data-i18n-slot=\"2\">感興趣的人應了解，交易條件可能因提供商、金融工具、帳戶類型以及適用的監管轄區而異。</span>"
+    },
+    {
+      "key": "t42631ad32e368429",
+      "english": "<span data-i18n-slot=\"0\">Understand margin requirements:</span><span data-i18n-slot=\"1\"> Check how much margin is needed to open and maintain a position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">瞭解保證金要求：</span><span data-i18n-slot=\"1\">檢查開倉和維持倉位需要多少保證金。</span>"
+    },
+    {
+      "key": "t42ae1f09a6fbaedf",
+      "english": "<span data-i18n-slot=\"0\">Compare trading costs:</span><span data-i18n-slot=\"1\"> Review spreads, commissions, overnight financing, and other charges.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">比較交易成本：</span><span data-i18n-slot=\"1\">審查點差、佣金、隔夜融資和其他費用。</span>"
+    },
+    {
+      "key": "t9e590079649f3cef",
+      "english": "<span data-i18n-slot=\"0\">Practise before trading live:</span><span data-i18n-slot=\"1\"> A demo account can help beginners understand order placement, platform functions, and how leveraged positions behave without risking real money.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">實時交易前練習：</span><span data-i18n-slot=\"1\">模擬賬戶可以幫助初學者瞭解訂單下達、平臺功能以及槓桿頭寸的行為方式，而無需冒真金白銀的風險。</span>"
+    },
+    {
+      "key": "te195c75979654703",
+      "english": "<span data-i18n-slot=\"0\">Frequently Asked Questions About Leverage in Forex Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">有關外匯交易槓桿的常見問題</span>"
+    },
+    {
+      "key": "tbd6bae59f958e12f",
+      "english": "<span data-i18n-slot=\"0\">2. Is high leverage better for forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">2。高槓桿是否更適合外匯交易？</span>"
+    },
+    {
+      "key": "te37c37c0caaa1b74",
+      "english": "<span data-i18n-slot=\"0\">3. Can beginners use leverage in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。初學者可以在外匯交易中使用槓桿嗎？</span>"
+    },
+    {
+      "key": "t598efccf06a2d2c1",
+      "english": "<span data-i18n-slot=\"0\">Beginners can access leveraged trading where permitted and subject to account eligibility. However, they should first understand margin, position sizing, and potential losses. Practising with a demo account can help build familiarity before considering live trading.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初學者可以在允許且符合賬戶資格的情況下進行槓桿交易。然而，他們應該首先了解保證金、頭寸規模和潛在損失。使用模擬賬戶進行練習有助於在考慮進行實時交易之前建立熟悉度。</span>"
+    },
+    {
+      "key": "t453fec687a8ddea0",
+      "english": "<span data-i18n-slot=\"0\">4. What happens when a forex trade reaches a margin call?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4。當外匯交易達到追加保證金時會發生什麼？</span>"
+    },
+    {
+      "key": "te4a27035117b7725",
+      "english": "<span data-i18n-slot=\"0\">A margin call may occur when account equity falls below a provider's required margin threshold. Depending on the provider's policies, traders may need to reduce exposure or add funds. Open positions may also be closed automatically.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">當賬戶淨值低於提供商要求的保證金閾值時，可能會發生追加保證金通知。根據提供商的政策，交易者可能需要減少風險或增加資金。未平倉頭寸也可能會自動平倉。</span>"
+    },
+    {
+      "key": "t7537ba82c0b6a0b0",
+      "english": "<span data-i18n-slot=\"0\">6. What is the difference between leverage and margin?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">6。槓桿和保證金有什麼區別？</span>"
+    },
+    {
+      "key": "t406b6113e6fbc047",
+      "english": "<span data-i18n-slot=\"0\">Leverage determines how large a position can be relative to the required capital. Margin is the amount of money required to open and maintain that position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">槓桿決定頭寸相對於所需資本的大小。保證金是開立和維持該倉位所需的金額。</span>"
+    },
+    {
+      "key": "t65c055d779accfb9",
+      "english": "<span data-i18n-slot=\"0\">Risk Warning: Forex and CFD trading involve significant risks and may not be suitable for every investor. Leverage can magnify both profits and losses, and you may lose some or all of your invested capital. Review the applicable product disclosures, account terms, and regulatory information before trading. This article is for educational purposes only and does not constitute financial or investment advice.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">風險警告：外匯和差價合約交易涉及重大風險，可能並不適合每個投資者。槓桿可以放大利潤和損失，您可能會損失部分或全部投資資金。交易前檢視適用的產品披露、賬戶條款和監管資訊。本文僅用於教育目的，不構成財務或投資建議。</span>"
+    },
+    {
+      "key": "tcd6656e24f34778c",
+      "english": "What Should You Know Before Starting Forex Trading in Abu Dhabi?",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#title",
+        "SSR:/blogs",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "在阿布扎比開始外匯交易之前您應該瞭解什麼？"
+    },
+    {
+      "key": "ta43df73407168ea2",
+      "english": "What to Know Before Starting Forex Trading in Abu Dhabi",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#metaTitle",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "在阿布扎比開始外匯交易之前需要了解什麼"
+    },
+    {
+      "key": "t9ff8e1bf2815fea1",
+      "english": "Planning to start forex trading in Abu Dhabi? Understand currency, leverage, trading platforms account types & risk management before getting started.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#description",
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#descriptionSnippet",
+        "SSR:/blogs",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "計劃在阿布扎比開始外匯交易？在開始之前瞭解貨幣、槓桿、交易平臺賬戶型別和風險管理。"
+    },
+    {
+      "key": "t573a0e3f75244a91",
+      "english": "forex broker UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#tag",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "外匯經紀商阿聯酋"
+    },
+    {
+      "key": "t7b34079fa19fa4b1",
+      "english": "FOREX BROKER UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#upperTag",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "阿聯酋外匯經紀商"
+    },
+    {
+      "key": "t7359dff63b50700c",
+      "english": "<span data-i18n-slot=\"0\">Unlike buying shares in a company, <span data-i18n-slot=\"1\">forex trading</span> involves comparing the value of one currency against another. Currencies are traded in pairs, and their prices change according to economic conditions, market demand and international developments.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">與購買公司股票不同，<span data-i18n-slot=\"1\">外匯交易</span>涉及比較一種貨幣與另一種貨幣的價值。貨幣成對交易，其價格根據經濟狀況、市場需求和國際發展而變化。</span>"
+    },
+    {
+      "key": "tb7e3ef5f084ae259",
+      "english": "<span data-i18n-slot=\"0\">Some commonly followed currency pairs include:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一些常見的貨幣對包括：</span>"
+    },
+    {
+      "key": "t475611aa25e8e10e",
+      "english": "<span data-i18n-slot=\"0\">USD/CHF – US Dollar and Swiss Franc</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">USD/CHF – 美元和瑞士法郎</span>"
+    },
+    {
+      "key": "t7ac6be4b41c1306f",
+      "english": "<span data-i18n-slot=\"0\">Understanding these differences is a useful starting point before exploring online forex trading in Abu Dhabi.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在探索阿布扎比線上外匯交易之前，瞭解這些差異是一個有用的起點。</span>"
+    },
+    {
+      "key": "t93c4c7067d7fe1c0",
+      "english": "<span data-i18n-slot=\"0\">Although the UAE Dirham is pegged to the US Dollar, international economic developments can still <span data-i18n-slot=\"1\">influence</span> other currency pairs followed by traders in Abu Dhabi.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">儘管阿聯酋迪拉姆與美元掛鉤，但國際經濟發展仍然可以<span data-i18n-slot=\"1\">影響</span>阿布扎比交易者關注的其他貨幣對。</span>"
+    },
+    {
+      "key": "ta16dc30b24bf5169",
+      "english": "<span data-i18n-slot=\"0\">3. Learn the Difference Between Major, Minor and Exotic Currency Pairs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。瞭解主要、次要和奇異貨幣對之間的區別</span>"
+    },
+    {
+      "key": "t6a047aa8166539c4",
+      "english": "<span data-i18n-slot=\"0\">Minor Currency Pairs:</span><span data-i18n-slot=\"1\"> These involve major currencies but do not include the US Dollar. Examples include EUR/GBP, EUR/CHF and GBP/JPY.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">次要貨幣對：</span><span data-i18n-slot=\"1\">這些貨幣對涉及主要貨幣，但不包括美元。例如歐元/英鎊、歐元/瑞士法郎和英鎊/日元。</span>"
+    },
+    {
+      "key": "t01a0ab19450aeaa7",
+      "english": "<span data-i18n-slot=\"0\">4. Understand Spreads, Pips and Trading Costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4. 了解點差、點和交易成本</span>"
+    },
+    {
+      "key": "t0c2fd98ff1ddc359",
+      "english": "<span data-i18n-slot=\"0\">Three terms you should understand are pips, spreads and commissions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">您應該瞭解的三個術語是點、點差和佣金。</span>"
+    },
+    {
+      "key": "tb177b976cc09ef1a",
+      "english": "<span data-i18n-slot=\"0\">What Is a Pip?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什麼是點？</span>"
+    },
+    {
+      "key": "tdf0b1b4d1d2f0ee5",
+      "english": "<span data-i18n-slot=\"0\">A pip is a standard measurement used to describe a change in the exchange rate of a currency pair.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">點是用於描述貨幣對匯率變化的標準衡量標準。</span>"
+    },
+    {
+      "key": "t9455856035210b82",
+      "english": "<span data-i18n-slot=\"0\">For most currency pairs, one pip represents a movement in the fourth decimal place. For example, if EUR/USD moves from 1.1050 to 1.1051, that is generally a one-pip movement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">對於大多數貨幣對，一個點代表小數點後第四位的變動。例如，如果歐元/美元從 1.1050 變動至 1.1051，這通常是一個點的變動。</span>"
+    },
+    {
+      "key": "t437f87b211db3622",
+      "english": "<span data-i18n-slot=\"0\">What Is a Spread?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什麼是點差？</span>"
+    },
+    {
+      "key": "t853c0658c050bd4a",
+      "english": "<span data-i18n-slot=\"0\">For example, if a currency pair has a buying price of 1.1052 and a selling price of 1.1050, the difference is two pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">例如，如果貨幣對的買入價為 1.1052，賣出價為 1.1050，則差價為 二 點。</span>"
+    },
+    {
+      "key": "t8fc2a3ca3a75edc6",
+      "english": "<span data-i18n-slot=\"0\">A wider spread can increase the cost of entering and exiting a position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">較大的點差會增加建倉和平倉的成本。</span>"
+    },
+    {
+      "key": "t4c17faebd8f6fc69",
+      "english": "<span data-i18n-slot=\"0\">Are There Additional Trading Charges?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">是否有額外的交易費用？</span>"
+    },
+    {
+      "key": "t6c8e2d71beb9d5e3",
+      "english": "<span data-i18n-slot=\"0\">Overnight financing or swap charges</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">隔夜融資或掉期費用</span>"
+    },
+    {
+      "key": "t0e5f1335c94f656b",
+      "english": "<span data-i18n-slot=\"0\">Currency conversion charges</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">貨幣兌換費用</span>"
+    },
+    {
+      "key": "t8d9711044b7ef4fc",
+      "english": "<span data-i18n-slot=\"0\">Deposit and withdrawal fees</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">存款和取款費用</span>"
+    },
+    {
+      "key": "tefbf7901ca4edee7",
+      "english": "<span data-i18n-slot=\"0\">Before opening an account, review the complete fee structure rather than comparing spreads alone.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在開戶之前，請檢視完整的費用結構，而不是單獨比較點差。</span>"
+    },
+    {
+      "key": "ta967030c7381c216",
+      "english": "<span data-i18n-slot=\"0\">5. Understand Leverage and Margin Before Opening a Trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5。開倉前瞭解槓桿和保證金</span>"
+    },
+    {
+      "key": "t00f13d4127c0cfcb",
+      "english": "<span data-i18n-slot=\"0\">Leverage is one of the most important concepts to understand before starting <span data-i18n-slot=\"1\">forex trading in Abu Dhabi</span>.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">槓桿是<span data-i18n-slot=\"1\">在阿布扎比開始外匯交易</span>之前需要了解的最重要的概念之一。</span>"
+    },
+    {
+      "key": "t8aa5fe5dec6eed1b",
+      "english": "<span data-i18n-slot=\"0\">Margin is the amount required to maintain an open trading position. If the available account equity falls below certain levels, the trading provider may issue a margin call or automatically close positions according to its terms.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">保證金是維持未平倉交易頭寸所需的金額。如果可用賬戶淨值低於一定水平，交易提供商可能會根據其條款發出追加保證金通知或自動平倉。</span>"
+    },
+    {
+      "key": "t2a9384f49095e16e",
+      "english": "<span data-i18n-slot=\"0\">Live market price monitoring</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">實時市場價格監控</span>"
+    },
+    {
+      "key": "t6db1c2104d41ac9a",
+      "english": "<span data-i18n-slot=\"0\">Multiple chart timeframes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多個圖表時間範圍</span>"
+    },
+    {
+      "key": "t31a41efad89740bc",
+      "english": "<span data-i18n-slot=\"0\">Desktop, mobile and web access</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#content",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">桌面、移動和網路訪問</span>"
+    }
+  ]
+}

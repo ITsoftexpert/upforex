@@ -1,0 +1,625 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t5ba1e95d6a088047",
+      "english": "Forex Quote: Bid, Ask, Spread & Pips | UPFOREX",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#metaTitle",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "Cotización de divisas: bid, ask, diferencial y pips | UPFOREX"
+    },
+    {
+      "key": "t1f6b435000e4da86",
+      "english": "Learn how to read a forex quote: bid, ask, spread, and pip movement explained, with a worked MT5 example.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#description",
+        "CMS:blogs/how-to-read-a-forex-quote#descriptionSnippet",
+        "SSR:/blogs",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "Aprenda a leer una cotización de Forex: explicación de oferta, demanda, diferencial y movimiento de pips, con un ejemplo elaborado de MT5."
+    },
+    {
+      "key": "t905154bffdfcdea7",
+      "english": "What is a forex quote showing bid ask and spread",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#imageAltTag",
+        "SSR:/blogs",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "¿Qué es una cotización de Forex que muestra oferta, demanda y diferencial?"
+    },
+    {
+      "key": "t890677991943d2b9",
+      "english": "forex quote",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#tag",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "cotización de divisas"
+    },
+    {
+      "key": "tcc70749943422b39",
+      "english": "FOREX QUOTE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#upperTag",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "COTIZACIÓN FOREX"
+    },
+    {
+      "key": "t16ce933451f80002",
+      "english": "bid ask spread",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#tag",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "diferencial de oferta y demanda"
+    },
+    {
+      "key": "t80358f343b6623c2",
+      "english": "BID ASK SPREAD",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#upperTag",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ],
+      "translation": "DIFERENCIAL ENTRE BID Y ASK"
+    },
+    {
+      "key": "tc5bc6999b92f99c1",
+      "english": "Forex Liquidity: Spreads, Slippage & Execution | UPFOREX",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#metaTitle",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "Liquidez Forex: diferenciales, deslizamiento y ejecución | UPFOREX"
+    },
+    {
+      "key": "t567d1c81b7046b0b",
+      "english": "Forex Liquidity",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#tag",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "Liquidez de divisas"
+    },
+    {
+      "key": "ta2b36101177f338b",
+      "english": "FOREX LIQUIDITY",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#upperTag",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "LIQUIDEZ FOREX"
+    },
+    {
+      "key": "t65e5887413b73114",
+      "english": "Trading Execution",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#tag",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "Ejecución comercial"
+    },
+    {
+      "key": "t0715ccb4d24fee94",
+      "english": "TRADING EXECUTION",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-forex-liquidity#upperTag",
+        "SSR:/blogs/what-is-forex-liquidity"
+      ],
+      "translation": "EJECUCIÓN COMERCIAL"
+    },
+    {
+      "key": "tb937b9d5aaa5e505",
+      "english": "What Is Slippage in Forex Trading? Positive vs Negative Slippage",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#title",
+        "SSR:/blogs",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "¿Qué es el deslizamiento en el comercio de divisas? Deslizamiento positivo versus negativo"
+    },
+    {
+      "key": "t9ed256e2fc8ffd06",
+      "english": "What Is Slippage in Forex? Positive vs Negative Slippage",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#metaTitle",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "¿Qué es el deslizamiento en Forex? Deslizamiento positivo versus negativo"
+    },
+    {
+      "key": "t6fdb94e882e43310",
+      "english": "Learn what slippage means in forex and CFD trading, why positive and negative slippage happens, and how traders can manage execution risk on MT5.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#description",
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#descriptionSnippet",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "Conozca qué significa el deslizamiento en el comercio de divisas y CFD, por qué ocurre el deslizamiento positivo y negativo y cómo los operadores pueden gestionar el riesgo de ejecución en MT5."
+    },
+    {
+      "key": "tea318392bfd99d00",
+      "english": "Forex Slippage – Positive and Negative Slippage in Trade Execution",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#imageAltTag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "Deslizamiento de Forex: deslizamiento positivo y negativo en la ejecución comercial"
+    },
+    {
+      "key": "te50784da329dd436",
+      "english": "Forex Slippage",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#tag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "Deslizamiento de divisas"
+    },
+    {
+      "key": "t750fe4fa25e69096",
+      "english": "FOREX SLIPPAGE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#upperTag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "DESLIZAMIENTO DE FOREX"
+    },
+    {
+      "key": "tddaa6362b70a64b4",
+      "english": "Slippage in Trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#tag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "Deslizamiento en el comercio"
+    },
+    {
+      "key": "td5cdbe42c50104d4",
+      "english": "SLIPPAGE IN TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#upperTag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "DESLIZAMIENTO EN EL COMERCIO"
+    },
+    {
+      "key": "t95c930035fc7be33",
+      "english": "Positive and Negative Slippage",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#tag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "Deslizamiento positivo y negativo"
+    },
+    {
+      "key": "t1ddae64313008a33",
+      "english": "POSITIVE AND NEGATIVE SLIPPAGE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#upperTag",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "DESLIZAMIENTO POSITIVO Y NEGATIVO"
+    },
+    {
+      "key": "t88d6063df8533a9f",
+      "english": "STOP ORDER MT5",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#upperTag",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "ORDEN STOP EN MT5"
+    },
+    {
+      "key": "tc8a193feb11f8dec",
+      "english": "MT5 ORDER TYPES",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/market-order-vs-limit-order-vs-stop-order#upperTag",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order"
+      ],
+      "translation": "TIPOS DE ÓRDENES EN MT5"
+    },
+    {
+      "key": "t159365284d0345b6",
+      "english": "Forex Correlation Explained: Currency Pair Risk | UpForex",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#metaTitle",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "Explicación de la correlación de Forex: riesgo de par de divisas | UpForex"
+    },
+    {
+      "key": "t9749368ec06e4310",
+      "english": "CURRENCY PAIR CORRELATION",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-correlation-explained#upperTag",
+        "SSR:/blogs/forex-correlation-explained"
+      ],
+      "translation": "CORRELACIÓN DE PAR DE MONEDAS"
+    },
+    {
+      "key": "tca995440dd70baae",
+      "english": "What Is Drawdown in Trading? Balance vs Equity Drawdown Explained",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#title",
+        "SSR:/blogs",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "¿Qué es la reducción en el comercio? Explicación de la reducción del saldo frente al capital"
+    },
+    {
+      "key": "t2be26b54e6056d64",
+      "english": "Learn what drawdown means in trading, how balance and equity drawdown differ, how to calculate it, and practical ways to manage risk.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#description",
+        "CMS:blogs/what-is-drawdown-in-trading#descriptionSnippet",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "Aprenda qué significa la reducción en el comercio, en qué se diferencian la reducción del saldo y del capital, cómo calcularla y formas prácticas de gestionar el riesgo."
+    },
+    {
+      "key": "taa81ed3f077ddf37",
+      "english": "Drawdown in Trading – Balance vs Equity and Maximum Drawdown",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#imageAltTag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "Reducción en el comercio: saldo frente a capital y reducción máxima"
+    },
+    {
+      "key": "tcca4bc3bd4b7acb3",
+      "english": "Drawdown in Trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#tag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "Reducción en el comercio"
+    },
+    {
+      "key": "tdd7f4edb7ab54cd3",
+      "english": "DRAWDOWN IN TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#upperTag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "REDUCCIÓN EN EL COMERCIO"
+    },
+    {
+      "key": "t7b4e729dad956411",
+      "english": "Forex Drawdown",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#tag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "Reducción de Forex"
+    },
+    {
+      "key": "te0e58bbd02528071",
+      "english": "FOREX DRAWDOWN",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#upperTag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "REDUCCIÓN DE FOREX"
+    },
+    {
+      "key": "ta1335831500433bf",
+      "english": "Maximum Drawdown",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#tag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "Reducción máxima"
+    },
+    {
+      "key": "t877ddc512aecf35f",
+      "english": "MAXIMUM DRAWDOWN",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-drawdown-in-trading#upperTag",
+        "SSR:/blogs/what-is-drawdown-in-trading"
+      ],
+      "translation": "REDUCCIÓN MÁXIMA"
+    },
+    {
+      "key": "te02d8d9f86b7493b",
+      "english": "How to Calculate Forex Position Size & Lot Size | UPFOREX",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#metaTitle",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ],
+      "translation": "Cómo calcular el tamaño de la posición y el tamaño del lote en Forex | UPFOREX"
+    },
+    {
+      "key": "tdd1871aef22bf7da",
+      "english": "What Is a Forex Currency Pair? Base, Quote, Major, Minor & Exotic Pairs Explained",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#title",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "¿Qué es un par de divisas? Moneda base, moneda cotizada y pares principales, secundarios y exóticos"
+    },
+    {
+      "key": "t4657dc94e3f54a4a",
+      "english": "What Is a Forex Currency Pair? Major, Minor & Exotic",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#metaTitle",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "¿Qué es un par de divisas Forex? Mayor, menor y exótico"
+    },
+    {
+      "key": "tdc0b64fcb6568b60",
+      "english": "MAJOR CURRENCY PAIRS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs//what-is-a-forex-currency-pair#upperTag",
+        "SSR:/blogs/what-is-a-forex-currency-pair"
+      ],
+      "translation": "PRINCIPALES PARES DE DIVISAS"
+    },
+    {
+      "key": "tb10a0fd2f445bb50",
+      "english": "FUNDAMENTALANALYSIS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#upperTag",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "ANÁLISIS FUNDAMENTAL"
+    },
+    {
+      "key": "t41eca4f69bfafe96",
+      "english": "How to Become an Introducing Broker (IB) with UpForex",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#title",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "Cómo convertirse en un corredor introductorio (IB) con UpForex"
+    },
+    {
+      "key": "t29cdf1a8529c8e62",
+      "english": "How to Become an Introducing Broker | UpForex",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#metaTitle",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "Cómo convertirse en un corredor introductorio | UpForex"
+    },
+    {
+      "key": "t88a288637070534b",
+      "english": "Learn how to become an introducing broker in 6 clear steps, understand variable commissions, compare IB roles, and explore an UpForex partner",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#description",
+        "CMS:blogs/how-to-become-an-introducing-broker#descriptionSnippet",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "Aprenda cómo convertirse en un corredor introductorio en 6 pasos claros, comprenda las comisiones variables, compare los roles de IB y explore un socio UpForex"
+    },
+    {
+      "key": "t95613323c25a3895",
+      "english": "ow to Become an Introducing Broker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#imageAltTag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "Cómo convertirse en un corredor introductorio"
+    },
+    {
+      "key": "tae87f6c03a1541fa",
+      "english": "IntroducingBroker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#tag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "Bróker introductor"
+    },
+    {
+      "key": "t626242e07b9da3da",
+      "english": "INTRODUCINGBROKER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#upperTag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "CORREDOR INTRODUCTOR"
+    },
+    {
+      "key": "tb9c47e22766e9148",
+      "english": "ForexIB",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#tag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "IB de Forex"
+    },
+    {
+      "key": "t343b28e22dfc8888",
+      "english": "FOREXIB",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#upperTag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "IB DE FOREX"
+    },
+    {
+      "key": "t1e2e49b2de3e08fa",
+      "english": "IBPROGRAM",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#upperTag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "PROGRAMA IB"
+    },
+    {
+      "key": "t3b1f56e62e27844a",
+      "english": "UpForexPartnership",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#tag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "Alianza con UpForex"
+    },
+    {
+      "key": "t5b3c46863c1d61ea",
+      "english": "UPFOREXPARTNERSHIP",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#upperTag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "ALIANZA CON UPFOREX"
+    },
+    {
+      "key": "t0a577c04d923491e",
+      "english": "ForexAffiliate",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#tag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "Afiliado Forex"
+    },
+    {
+      "key": "td10ff604f6b121de",
+      "english": "FOREXAFFILIATE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#upperTag",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "FOREXAFILIADO"
+    },
+    {
+      "key": "t5f7011c5eaf8ed83",
+      "english": "CopyTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#tag",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "Operaciones de copia"
+    },
+    {
+      "key": "t8fee30e5a28fb9a3",
+      "english": "COPYTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#upperTag",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "OPERACIONES DE COPIA"
+    },
+    {
+      "key": "t39dffd7be7bb2f7f",
+      "english": "MirrorTrading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#tag",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "Operaciones espejo"
+    },
+    {
+      "key": "tc64501dbcecbee9f",
+      "english": "MIRRORTRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#upperTag",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "COMERCIO ESPEJO"
+    },
+    {
+      "key": "t35c1653ba6837a4b",
+      "english": "TradingSignals",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#tag",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "Señales comerciales"
+    },
+    {
+      "key": "t323604fb5579c28b",
+      "english": "TRADINGSIGNALS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/copy-trading-and-social-trading-explained#upperTag",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ],
+      "translation": "SEÑALES COMERCIALES"
+    },
+    {
+      "key": "t12947b2436c652ee",
+      "english": "ECNBroker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#tag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "Bróker ECN"
+    },
+    {
+      "key": "t42a8c4843429f1ce",
+      "english": "ECNBROKER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#upperTag",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "BRÓKER ECN"
+    }
+  ]
+}

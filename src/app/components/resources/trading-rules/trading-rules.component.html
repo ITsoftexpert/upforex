@@ -3,44 +3,35 @@
     <p
       class="text-white tw-text-2xl md:tw-text-2xl lg:tw-text-4xl tw-font-bold md:tw-my-4 !tw-mb-8"
     >
-      Forex Trading Overview
-    </p>
+       {{ 'Forex Trading Overview' | localize }} </p>
     <p
       class="tw-text-xl tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed !tw-mb-8"
     >
-      MetaTrader 5 Features
-    </p>
+       {{ 'MetaTrader 5 Features' | localize }} </p>
     <p
       class="tw-text-sm tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed !tw-mb-8"
     >
-      MetaTrader 5 provides robust tools for tracking open positions,
-      calculating profit/loss, and managing account equity. It offers full
-      back-office functionality, allowing traders to monitor account metrics
-      effectively. Despite the automation, understanding manual calculations
-      ensures better decision-making and risk management.
-    </p>
+       {{ 'MetaTrader 5 provides robust tools for tracking open positions, calculating profit/loss, and managing account equity. It offers full back-office functionality, allowing traders to monitor account metrics effectively. Despite the automation, understanding manual calculations ensures better decision-making and risk management.' | localize }} </p>
     <p
       class="tw-text-xl tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      Major Currency Pairs
-    </p>
+       {{ 'Major Currency Pairs' | localize }} </p>
     <p
       class="tw-text-sm tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      Popular pairs include:
-    </p>
+       {{ 'Popular pairs include:' | localize }} </p>
     <div class="table-responsive">
       <table class="table table-dark table-hover">
         <thead>
           <tr>
-            <th class="tw-text-themePrimary">Term</th>
-            <th class="tw-text-themePrimary">Definition</th>
+            <th class="tw-text-themePrimary">{{ 'Term' | localize }}</th>
+            <th class="tw-text-themePrimary">{{ 'Definition' | localize }}</th>
           </tr>
         </thead>
         <tbody>
           <tr *ngFor="let item of currencyPairs">
-            <td>{{ item.pair }}</td>
-            <td>{{ item.description }}</td>
+            <td>{{ (item.pair) | localize }}</td>
+            <td>{{ (item.description) | localize }}</td>
           </tr>
         </tbody>
       </table>
@@ -49,53 +40,42 @@
     <p
       class="tw-text-sm tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      These pairs dominate trading due to their high liquidity and narrow
-      spreads.
-    </p>
+       {{ 'These pairs dominate trading due to their high liquidity and narrow spreads.' | localize }} </p>
   </div>
   <div class="tw-w-full tw-p-0 md:tw-p-4">
     <p
       class="tw-text-xl tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      Currency Mechanics
-    </p>
+       {{ 'Currency Mechanics' | localize }} </p>
     <p
       class="tw-text-base tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      <b class="tw-text-themePrimary">Base Currency : </b>
-      The first currency in a pair; determines the trade size.
-    </p>
+      <b class="tw-text-themePrimary">{{ 'Base Currency :' | localize }} </b>
+       {{ 'The first currency in a pair; determines the trade size.' | localize }} </p>
     <p
       class="tw-text-base tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      <b class="tw-text-themePrimary">Quote Currency : </b>
-      The second currency; used for profit/loss calculations.
-    </p>
+      <b class="tw-text-themePrimary">{{ 'Quote Currency :' | localize }} </b>
+       {{ 'The second currency; used for profit/loss calculations.' | localize }} </p>
     <p
       class="tw-text-base tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      <b class="tw-text-themePrimary">Example : </b>
-      In EUR/USD, EUR is the base currency, and USD is the quote.
-    </p>
+      <b class="tw-text-themePrimary">{{ 'Example :' | localize }} </b>
+       {{ 'In EUR/USD, EUR is the base currency, and USD is the quote.' | localize }} </p>
     <p
       class="tw-text-lg tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      Margin and Leverage Requirements
-    </p>
+       {{ 'Margin and Leverage Requirements' | localize }} </p>
     <p
       class="tw-text-base tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      <b class="tw-text-themePrimary">Margin : </b>
-      A minimum of $1,000 is required for 1 standard lot (100,000 units),
-      corresponding to 1% of trade size.
-    </p>
+      <b class="tw-text-themePrimary">{{ 'Margin :' | localize }} </b>
+       {{ 'A minimum of $1,000 is required for 1 standard lot (100,000 units), corresponding to 1% of trade size.' | localize }} </p>
     <p
       class="tw-text-base tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      <b class="tw-text-themePrimary">Leverage : </b>
-      Allows traders to control large positions with minimal capital, often
-      1:100.
-    </p>
+      <b class="tw-text-themePrimary">{{ 'Leverage :' | localize }} </b>
+       {{ 'Allows traders to control large positions with minimal capital, often 1:100.' | localize }} </p>
     <!-- <p
       class="tw-text-base tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
@@ -107,49 +87,40 @@
     <p
       class="tw-text-lg tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
     >
-      Profit/Loss Examples
-    </p>
+       {{ 'Profit/Loss Examples' | localize }} </p>
     <div class="row">
       <div class="col-12 col-lg-6 col-md-6 col-xl-6">
         <p
           class="tw-text-themePrimary tw-text-lg tw-font-semibold tw-tracking-wide tw-leading-relaxed"
         >
-          EUR/USD Trade:
-        </p>
+           {{ 'EUR/USD Trade:' | localize }} </p>
         <p class="tw-text-lg tw-text-white tw-tracking-wide tw-leading-relaxed">
-          Buy 5 lots at 1.3450 → Sell at 1.3490 = $2,000 profit.
-        </p>
+           {{ 'Buy 5 lots at 1.3450 → Sell at 1.3490 = $2,000 profit.' | localize }} </p>
         <p
           class="tw-text-sm tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
         >
-          Calculation: (1.3490 − 1.3450) × 5 × 100,000 = $2,000.
-        </p>
+           {{ 'Calculation: (1.3490 − 1.3450) × 5 × 100,000 = $2,000.' | localize }} </p>
       </div>
       <div class="col-12 col-lg-6 col-md-6 col-xl-6">
         <p
           class="tw-text-themePrimary tw-text-lg tw-font-semibold tw-tracking-wide tw-leading-relaxed"
         >
-          USD/CHF Trade:
-        </p>
+           {{ 'USD/CHF Trade:' | localize }} </p>
         <p class="tw-text-lg tw-text-white tw-tracking-wide tw-leading-relaxed">
-          Sell 3 lots at 0.8982 → Buy at 0.8924 = CHF 1,740 profit.
-        </p>
+           {{ 'Sell 3 lots at 0.8982 → Buy at 0.8924 = CHF 1,740 profit.' | localize }} </p>
         <p
           class="tw-text-sm tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
         >
-          Converted to USD:
-        </p>
+           {{ 'Converted to USD:' | localize }} </p>
         <p
           class="tw-text-sm tw-text-white tw-font-semibold tw-tracking-wide tw-leading-relaxed"
         >
-          Profit in CHF ÷ Close Price
-        </p>
+           {{ 'Profit in CHF ÷ Close Price' | localize }} </p>
       </div>
     </div>
   </div>
   <div
     class="tw-w-full tw-p-0 tw-text-white md:tw-p-4 text-center tw-text-base"
   >
-    This structured approach ensures clarity in trade planning and evaluation.
-  </div>
+     {{ 'This structured approach ensures clarity in trade planning and evaluation.' | localize }} </div>
 </div>

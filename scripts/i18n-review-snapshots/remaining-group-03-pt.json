@@ -1,0 +1,135 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t521160cbaf6162df",
+      "english": "<span data-i18n-slot=\"0\">Final Thoughts</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first#content",
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#content",
+        "CMS:blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors#content",
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#content",
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#content",
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#content",
+        "SSR:/blogs/not-sure-which-forex-broker-to-trust-important-factors-abu-dhabi-traders-should-check-first",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/mt5-stock-trading-dubai-a-beneficial-guideline-for-uae-investors",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Considerações Finais</span>"
+    },
+    {
+      "key": "tb3ca7cb1a94041d1",
+      "english": "forex trading UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#imageAltTag",
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#tag",
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#tag",
+        "SSR:/blogs",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "negociação forex Emirados Árabes Unidos"
+    },
+    {
+      "key": "t9c5adc31ef778f11",
+      "english": "FOREX TRADING UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#upperTag",
+        "CMS:blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi#upperTag",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know",
+        "SSR:/blogs/what-should-you-know-before-starting-forex-trading-in-abu-dhabi"
+      ],
+      "translation": "NEGOCIAÇÃO FOREX EAU"
+    },
+    {
+      "key": "t25ee62dd19364c0f",
+      "english": "<span data-i18n-slot=\"0\">Leverage is generally expressed as a ratio, such as:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A alavancagem é geralmente expressa como uma proporção, como:</span>"
+    },
+    {
+      "key": "td0493fce1471617c",
+      "english": "<span data-i18n-slot=\"0\">1:10 leverage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alavancagem de 1:10</span>"
+    },
+    {
+      "key": "tb05f48f91156d95f",
+      "english": "<span data-i18n-slot=\"0\">1:20 leverage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alavancagem de 1:20</span>"
+    },
+    {
+      "key": "t2087e99a26ad5df8",
+      "english": "<span data-i18n-slot=\"0\">1:50 leverage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alavancagem de 1:50</span>"
+    },
+    {
+      "key": "t094eab1a4047dd4c",
+      "english": "<span data-i18n-slot=\"0\">1:100 leverage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alavancagem de 1:100</span>"
+    },
+    {
+      "key": "tced611df5a176a0f",
+      "english": "<span data-i18n-slot=\"0\">1:200 leverage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Alavancagem de 1:200</span>"
+    },
+    {
+      "key": "tff8013460be6eaa8",
+      "english": "<span data-i18n-slot=\"0\">What Is the Difference Between Leverage and Margin?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Qual é a diferença entre alavancagem e margem?</span>"
+    },
+    {
+      "key": "t514cccfca640da24",
+      "english": "<span data-i18n-slot=\"0\">5. Additional Trading Costs</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know#content",
+        "SSR:/blogs/how-does-leverage-work-in-forex-trading-and-what-risks-should-traders-know"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">5. Custos adicionais de negociação</span>"
+    }
+  ]
+}

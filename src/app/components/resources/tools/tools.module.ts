@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { CommonModules } from '../../../common/common.module';
 
 import { ToolsRoutingModule } from './tools-routing.module';
 import { ToolsComponent } from './tools/tools.component';
@@ -32,6 +33,7 @@ import { NgIconsModule } from '@ng-icons/core';
   ],
   imports: [
     CommonModule,
+    CommonModules,
     ToolsRoutingModule,
     NgIconsModule.withIcons({ matArrowBack }),
   ],

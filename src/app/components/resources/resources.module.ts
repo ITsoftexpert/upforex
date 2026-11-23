@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { CommonModules } from '../../common/common.module';
 
 import { ResourcesRoutingModule } from './resources-routing.module';
 import { IntroToForexComponent } from './intro-to-forex/intro-to-forex.component';
@@ -16,6 +17,6 @@ import { FaqComponent } from './faq/faq.component';
     ContactSpecificationsComponent,
     FaqComponent,
   ],
-  imports: [CommonModule, ResourcesRoutingModule],
+  imports: [CommonModule, CommonModules, ResourcesRoutingModule],
 })
 export class ResourcesModule {}

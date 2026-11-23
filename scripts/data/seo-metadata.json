@@ -1,0 +1,1322 @@
+{
+  "source": {
+    "sheet": "https://docs.google.com/spreadsheets/d/14geinKQBoFMim9EoimH9vmc8a67tWim3gbBJWViuzOk/edit?gid=1581887777",
+    "tab": "1581887777",
+    "snapshot": "scripts/data/seo-metadata-sheet.csv",
+    "sha256": "be6c5d12e360431bf313a2c2e9c46d425be519ad47ecf88d8ad3ea2e9c058d99"
+  },
+  "pages": {
+    "/": {
+      "en": {
+        "title": "UPFOREX | Forex, CFD & Crypto Trading Platform on MT5",
+        "description": "Trade forex, CFDs and crypto on MetaTrader 5 with UPFOREX. Enjoy fast execution, competitive spreads and secure global account access."
+      },
+      "de": {
+        "title": "UPFOREX | Forex-, CFD- & Krypto-Handel auf MT5",
+        "description": "Handeln Sie Forex, CFDs und Krypto auf MetaTrader 5 mit UPFOREX. Schnelle Ausführung, wettbewerbsfähige Spreads und sicherer Kontozugang."
+      },
+      "es": {
+        "title": "UPFOREX | Plataforma de Trading de Forex, CFD y Cripto en MT5",
+        "description": "Opera forex, CFD y criptomonedas en MetaTrader 5 con UPFOREX. Ejecución rápida, spreads competitivos y acceso seguro a tu cuenta."
+      },
+      "ru": {
+        "title": "UPFOREX | Торговля Forex, CFD и криптовалютами на MT5",
+        "description": "Торгуйте Forex, CFD и криптовалютами на MetaTrader 5 с UPFOREX. Быстрое исполнение, конкурентные спреды и безопасный доступ к счёту."
+      },
+      "hi": {
+        "title": "UPFOREX | MT5 पर फॉरेक्स, CFD और क्रिप्टो ट्रेडिंग",
+        "description": "UPFOREX के साथ MetaTrader 5 पर फॉरेक्स, CFD और क्रिप्टो ट्रेड करें। तेज़ एक्ज़ीक्यूशन, प्रतिस्पर्धी स्प्रेड और सुरक्षित खाता एक्सेस।"
+      },
+      "pt": {
+        "title": "UPFOREX | Plataforma de Trading de Forex, CFD e Cripto MT5",
+        "description": "Negocie forex, CFDs e criptomoedas no MetaTrader 5 com a UPFOREX. Execução rápida, spreads competitivos e acesso seguro à conta."
+      },
+      "zh-CN": {
+        "title": "UPFOREX | MT5 外汇、差价合约与加密货币交易平台",
+        "description": "在 UPFOREX 通过 MetaTrader 5 交易外汇、差价合约和加密货币。执行快速、点差有竞争力，账户访问安全可靠。"
+      },
+      "zh-TW": {
+        "title": "UPFOREX | MT5 外匯、差價合約與加密貨幣交易平台",
+        "description": "在 UPFOREX 透過 MetaTrader 5 交易外匯、差價合約與加密貨幣。執行快速、點差具競爭力，帳戶存取安全可靠。"
+      },
+      "ar": {
+        "title": "UPFOREX | تداول الفوركس وCFD والعملات الرقمية على MT5",
+        "description": "تداول الفوركس وعقود الفروقات والعملات الرقمية على MetaTrader 5 مع UPFOREX. تنفيذ سريع وسبريدات تنافسية ووصول آمن إلى حسابك."
+      },
+      "fr": {
+        "title": "UPFOREX | Trading Forex, CFD et Crypto sur MT5",
+        "description": "Tradez le forex, les CFD et les cryptos sur MetaTrader 5 avec UPFOREX. Exécution rapide, spreads compétitifs et accès sécurisé au compte."
+      },
+      "ja": {
+        "title": "UPFOREX | MT5で取引するFX・CFD・仮想通貨",
+        "description": "UPFOREXならMetaTrader 5でFX、CFD、仮想通貨を取引可能。高速約定、競争力のあるスプレッド、安全なアカウントアクセスを提供します。"
+      }
+    },
+    "/about-us": {
+      "en": {
+        "title": "About UPFOREX | FSC Mauritius-Licensed Trading Broker",
+        "description": "Learn about UPFOREX and UP Global Markets Ltd, licensed by the FSC Mauritius. Discover our mission, trading technology and commitment to transparency."
+      },
+      "de": {
+        "title": "Über UPFOREX | Handelsbroker mit FSC-Lizenz Mauritius",
+        "description": "Erfahren Sie mehr über UPFOREX und UP Global Markets Ltd mit FSC-Lizenz in Mauritius: unsere Mission, Handelstechnologie und Transparenz."
+      },
+      "es": {
+        "title": "Sobre UPFOREX | Broker con licencia FSC de Mauricio",
+        "description": "Conoce UPFOREX y UP Global Markets Ltd, con licencia de la FSC de Mauricio. Descubre nuestra misión, tecnología de trading y compromiso con la transparencia."
+      },
+      "ru": {
+        "title": "О компании UPFOREX | Брокер с лицензией FSC Маврикия",
+        "description": "Узнайте о UPFOREX и UP Global Markets Ltd, лицензированной FSC Маврикия: наша миссия, торговые технологии и приверженность прозрачности."
+      },
+      "hi": {
+        "title": "UPFOREX के बारे में | FSC मॉरीशस लाइसेंस प्राप्त ब्रोकर",
+        "description": "UPFOREX और FSC मॉरीशस से लाइसेंस प्राप्त UP Global Markets Ltd के बारे में जानें: हमारा मिशन, ट्रेडिंग टेक्नोलॉजी और पारदर्शिता।"
+      },
+      "pt": {
+        "title": "Sobre a UPFOREX | Corretora licenciada pela FSC Maurício",
+        "description": "Conheça a UPFOREX e a UP Global Markets Ltd, licenciada pela FSC de Maurício: nossa missão, tecnologia de trading e compromisso com a transparência."
+      },
+      "zh-CN": {
+        "title": "关于 UPFOREX | 毛里求斯 FSC 持牌交易经纪商",
+        "description": "了解 UPFOREX 及持有毛里求斯 FSC 牌照的 UP Global Markets Ltd，认识我们的使命、交易技术与透明承诺。"
+      },
+      "zh-TW": {
+        "title": "關於 UPFOREX | 模里西斯 FSC 持牌交易經紀商",
+        "description": "了解 UPFOREX 及持有模里西斯 FSC 執照的 UP Global Markets Ltd，認識我們的使命、交易技術與透明承諾。"
+      },
+      "ar": {
+        "title": "عن UPFOREX | وسيط تداول مرخّص من FSC موريشيوس",
+        "description": "تعرّف على UPFOREX وشركة UP Global Markets Ltd المرخّصة من هيئة FSC في موريشيوس: رسالتنا وتقنيات التداول والتزامنا بالشفافية."
+      },
+      "fr": {
+        "title": "À propos d'UPFOREX | Courtier agréé FSC Maurice",
+        "description": "Découvrez UPFOREX et UP Global Markets Ltd, agréée par la FSC de Maurice : notre mission, notre technologie de trading et notre transparence."
+      },
+      "ja": {
+        "title": "UPFOREXについて | モーリシャスFSC認可ブローカー",
+        "description": "UPFOREXとモーリシャスFSCのライセンスを持つUP Global Markets Ltdをご紹介。理念、取引技術、透明性への取り組みをご覧ください。"
+      }
+    },
+    "/accounts": {
+      "en": {
+        "title": "Trading Accounts | Standard, Pro-ECN & Elite-ECN | UPFOREX",
+        "description": "Compare UPFOREX Standard, Pro-ECN and Elite-ECN accounts on MT5: minimum deposits, spreads, commissions and leverage. Open a demo or live account today."
+      },
+      "de": {
+        "title": "Handelskonten | Standard, Pro-ECN & Elite-ECN | UPFOREX",
+        "description": "Vergleichen Sie die UPFOREX-Konten Standard, Pro-ECN und Elite-ECN auf MT5: Mindesteinzahlung, Spreads, Provisionen und Hebel. Demo- oder Live-Konto eröffnen."
+      },
+      "es": {
+        "title": "Cuentas de Trading | Standard, Pro-ECN y Elite-ECN | UPFOREX",
+        "description": "Compara las cuentas Standard, Pro-ECN y Elite-ECN de UPFOREX en MT5: depósito mínimo, spreads, comisiones y apalancamiento. Abre una cuenta demo o real."
+      },
+      "ru": {
+        "title": "Торговые счета | Standard, Pro-ECN и Elite-ECN | UPFOREX",
+        "description": "Сравните счета UPFOREX Standard, Pro-ECN и Elite-ECN на MT5: минимальный депозит, спреды, комиссии и плечо. Откройте демо- или реальный счёт."
+      },
+      "hi": {
+        "title": "ट्रेडिंग अकाउंट | Standard, Pro-ECN और Elite-ECN | UPFOREX",
+        "description": "MT5 पर UPFOREX के Standard, Pro-ECN और Elite-ECN अकाउंट की तुलना करें: न्यूनतम जमा, स्प्रेड, कमीशन और लीवरेज। डेमो या लाइव अकाउंट खोलें।"
+      },
+      "pt": {
+        "title": "Contas de Trading | Standard, Pro-ECN e Elite-ECN | UPFOREX",
+        "description": "Compare as contas Standard, Pro-ECN e Elite-ECN da UPFOREX no MT5: depósito mínimo, spreads, comissões e alavancagem. Abra uma conta demo ou real."
+      },
+      "zh-CN": {
+        "title": "交易账户 | Standard、Pro-ECN 与 Elite-ECN | UPFOREX",
+        "description": "比较 UPFOREX 在 MT5 上的 Standard、Pro-ECN 和 Elite-ECN 账户：最低入金、点差、佣金与杠杆。立即开立模拟或真实账户。"
+      },
+      "zh-TW": {
+        "title": "交易帳戶 | Standard、Pro-ECN 與 Elite-ECN | UPFOREX",
+        "description": "比較 UPFOREX 在 MT5 上的 Standard、Pro-ECN 與 Elite-ECN 帳戶：最低入金、點差、佣金與槓桿。立即開立模擬或真實帳戶。"
+      },
+      "ar": {
+        "title": "حسابات التداول | Standard وPro-ECN وElite-ECN | UPFOREX",
+        "description": "قارن بين حسابات UPFOREX Standard وPro-ECN وElite-ECN على MT5: الحد الأدنى للإيداع والسبريد والعمولات والرافعة المالية. افتح حساباً تجريبياً أو حقيقياً."
+      },
+      "fr": {
+        "title": "Comptes de trading | Standard, Pro-ECN et Elite-ECN | UPFOREX",
+        "description": "Comparez les comptes UPFOREX Standard, Pro-ECN et Elite-ECN sur MT5 : dépôt minimum, spreads, commissions et levier. Ouvrez un compte démo ou réel."
+      },
+      "ja": {
+        "title": "取引口座 | Standard・Pro-ECN・Elite-ECN | UPFOREX",
+        "description": "MT5で利用できるUPFOREXのStandard、Pro-ECN、Elite-ECN口座を比較。最低入金額、スプレッド、手数料、レバレッジを確認できます。"
+      }
+    },
+    "/platforms/mt5": {
+      "en": {
+        "title": "MetaTrader 5 (MT5) Trading Platform | UPFOREX",
+        "description": "Trade forex, CFDs and crypto on MetaTrader 5 with UPFOREX. Advanced charting, one-click trading and apps for desktop, web, iOS and Android."
+      },
+      "de": {
+        "title": "MetaTrader 5 (MT5) Handelsplattform | UPFOREX",
+        "description": "Handeln Sie Forex, CFDs und Krypto auf MetaTrader 5 mit UPFOREX. Erweiterte Charts, Ein-Klick-Handel und Apps für Desktop, Web, iOS und Android."
+      },
+      "es": {
+        "title": "Plataforma de trading MetaTrader 5 (MT5) | UPFOREX",
+        "description": "Opera forex, CFD y cripto en MetaTrader 5 con UPFOREX. Gráficos avanzados, trading con un clic y apps para escritorio, web, iOS y Android."
+      },
+      "ru": {
+        "title": "Торговая платформа MetaTrader 5 (MT5) | UPFOREX",
+        "description": "Торгуйте Forex, CFD и криптовалютами на MetaTrader 5 с UPFOREX. Продвинутые графики, торговля в один клик, приложения для ПК, веб, iOS и Android."
+      },
+      "hi": {
+        "title": "MetaTrader 5 (MT5) ट्रेडिंग प्लेटफ़ॉर्म | UPFOREX",
+        "description": "UPFOREX के साथ MetaTrader 5 पर फॉरेक्स, CFD और क्रिप्टो ट्रेड करें। एडवांस्ड चार्टिंग, वन-क्लिक ट्रेडिंग और डेस्कटॉप, वेब, iOS व Android ऐप।"
+      },
+      "pt": {
+        "title": "Plataforma de trading MetaTrader 5 (MT5) | UPFOREX",
+        "description": "Negocie forex, CFDs e cripto no MetaTrader 5 com a UPFOREX. Gráficos avançados, negociação com um clique e apps para desktop, web, iOS e Android."
+      },
+      "zh-CN": {
+        "title": "MetaTrader 5 (MT5) 交易平台 | UPFOREX",
+        "description": "在 UPFOREX 通过 MetaTrader 5 交易外汇、差价合约和加密货币。高级图表、一键交易，支持桌面、网页、iOS 和 Android。"
+      },
+      "zh-TW": {
+        "title": "MetaTrader 5 (MT5) 交易平台 | UPFOREX",
+        "description": "在 UPFOREX 透過 MetaTrader 5 交易外匯、差價合約與加密貨幣。進階圖表、一鍵交易，支援桌面、網頁、iOS 與 Android。"
+      },
+      "ar": {
+        "title": "منصة التداول MetaTrader 5 (MT5) | UPFOREX",
+        "description": "تداول الفوركس وعقود الفروقات والعملات الرقمية على MetaTrader 5 مع UPFOREX. رسوم بيانية متقدمة وتداول بنقرة واحدة وتطبيقات للكمبيوتر والويب وiOS وAndroid."
+      },
+      "fr": {
+        "title": "Plateforme de trading MetaTrader 5 (MT5) | UPFOREX",
+        "description": "Tradez le forex, les CFD et les cryptos sur MetaTrader 5 avec UPFOREX. Graphiques avancés, trading en un clic et applis pour ordinateur, web, iOS et Android."
+      },
+      "ja": {
+        "title": "MetaTrader 5（MT5）取引プラットフォーム | UPFOREX",
+        "description": "UPFOREXのMetaTrader 5でFX、CFD、仮想通貨を取引。高度なチャート、ワンクリック取引、PC・Web・iOS・Android対応アプリを利用できます。"
+      }
+    },
+    "/products/forex-cfds": {
+      "en": {
+        "title": "Forex CFD Trading on MT5 | Currency Pairs | UPFOREX",
+        "description": "Trade forex CFDs on MetaTrader 5 with UPFOREX. Access currency pairs with competitive spreads, flexible leverage and fast execution."
+      },
+      "de": {
+        "title": "Forex-CFD-Handel auf MT5 | Währungspaare | UPFOREX",
+        "description": "Handeln Sie Forex-CFDs auf MetaTrader 5 mit UPFOREX: Währungspaare mit wettbewerbsfähigen Spreads, flexiblem Hebel und schneller Ausführung."
+      },
+      "es": {
+        "title": "Trading de CFD de Forex en MT5 | Pares de divisas | UPFOREX",
+        "description": "Opera CFD de forex en MetaTrader 5 con UPFOREX: pares de divisas con spreads competitivos, apalancamiento flexible y ejecución rápida."
+      },
+      "ru": {
+        "title": "Торговля Forex CFD на MT5 | Валютные пары | UPFOREX",
+        "description": "Торгуйте Forex CFD на MetaTrader 5 с UPFOREX: валютные пары, конкурентные спреды, гибкое плечо и быстрое исполнение."
+      },
+      "hi": {
+        "title": "MT5 पर फॉरेक्स CFD ट्रेडिंग | करेंसी पेयर | UPFOREX",
+        "description": "UPFOREX के साथ MetaTrader 5 पर फॉरेक्स CFD ट्रेड करें: प्रतिस्पर्धी स्प्रेड, लचीला लीवरेज और तेज़ एक्ज़ीक्यूशन के साथ करेंसी पेयर।"
+      },
+      "pt": {
+        "title": "Trading de CFDs de Forex no MT5 | Pares de moedas | UPFOREX",
+        "description": "Negocie CFDs de forex no MetaTrader 5 com a UPFOREX: pares de moedas com spreads competitivos, alavancagem flexível e execução rápida."
+      },
+      "zh-CN": {
+        "title": "MT5 外汇差价合约交易 | 货币对 | UPFOREX",
+        "description": "在 UPFOREX 通过 MetaTrader 5 交易外汇差价合约：货币对点差具竞争力，杠杆灵活，执行迅速。"
+      },
+      "zh-TW": {
+        "title": "MT5 外匯差價合約交易 | 貨幣對 | UPFOREX",
+        "description": "在 UPFOREX 透過 MetaTrader 5 交易外匯差價合約：貨幣對點差具競爭力，槓桿靈活，執行迅速。"
+      },
+      "ar": {
+        "title": "تداول عقود الفروقات على الفوركس عبر MT5 | UPFOREX",
+        "description": "تداول عقود الفروقات على الفوركس عبر MetaTrader 5 مع UPFOREX: أزواج عملات بسبريدات تنافسية ورافعة مرنة وتنفيذ سريع."
+      },
+      "fr": {
+        "title": "Trading de CFD Forex sur MT5 | Paires de devises | UPFOREX",
+        "description": "Tradez les CFD forex sur MetaTrader 5 avec UPFOREX : paires de devises, spreads compétitifs, levier flexible et exécution rapide."
+      },
+      "ja": {
+        "title": "FX CFD取引（MT5）| 通貨ペア | UPFOREX",
+        "description": "UPFOREXのMetaTrader 5でFX CFDを取引。通貨ペアを競争力のあるスプレッド、柔軟なレバレッジ、高速約定で提供します。"
+      }
+    },
+    "/products/stock-cfds": {
+      "en": {
+        "title": "Stock CFD Trading on 200+ Global Shares | UPFOREX",
+        "description": "Trade CFDs on 200+ leading company shares such as Apple and Tesla on MT5. Leverage, fast execution and transparent pricing, without owning the stock."
+      },
+      "de": {
+        "title": "Aktien-CFD-Handel auf 200+ globale Aktien | UPFOREX",
+        "description": "Handeln Sie CFDs auf über 200 führende Aktien wie Apple und Tesla auf MT5: Hebel, schnelle Ausführung und transparente Preise, ohne die Aktie zu besitzen."
+      },
+      "es": {
+        "title": "Trading de CFD de acciones: más de 200 empresas | UPFOREX",
+        "description": "Opera CFD sobre más de 200 acciones líderes como Apple y Tesla en MT5: apalancamiento, ejecución rápida y precios transparentes, sin poseer las acciones."
+      },
+      "ru": {
+        "title": "Торговля CFD на акции: более 200 компаний | UPFOREX",
+        "description": "Торгуйте CFD на 200+ ведущих акций, включая Apple и Tesla, на MT5: кредитное плечо, быстрое исполнение и прозрачные цены без владения акциями."
+      },
+      "hi": {
+        "title": "स्टॉक CFD ट्रेडिंग: 200+ वैश्विक शेयर | UPFOREX",
+        "description": "MT5 पर Apple और Tesla जैसे 200+ अग्रणी शेयरों पर CFD ट्रेड करें: लीवरेज, तेज़ एक्ज़ीक्यूशन और पारदर्शी कीमतें, शेयर के मालिक बने बिना।"
+      },
+      "pt": {
+        "title": "Trading de CFDs de ações: mais de 200 empresas | UPFOREX",
+        "description": "Negocie CFDs de mais de 200 ações líderes, como Apple e Tesla, no MT5: alavancagem, execução rápida e preços transparentes, sem possuir as ações."
+      },
+      "zh-CN": {
+        "title": "股票差价合约交易 | 200 多只全球股票 | UPFOREX",
+        "description": "在 MT5 上交易苹果、特斯拉等 200 多只龙头股票差价合约：杠杆交易、执行快速、报价透明，无需持有股票。"
+      },
+      "zh-TW": {
+        "title": "股票差價合約交易 | 200 多檔全球股票 | UPFOREX",
+        "description": "在 MT5 上交易蘋果、特斯拉等 200 多檔龍頭股票差價合約：槓桿交易、執行快速、報價透明，無需持有股票。"
+      },
+      "ar": {
+        "title": "تداول عقود الفروقات على الأسهم | أكثر من 200 سهم | UPFOREX",
+        "description": "تداول عقود الفروقات على أكثر من 200 سهم رائد مثل Apple وTesla عبر MT5: رافعة مالية وتنفيذ سريع وأسعار شفافة دون امتلاك السهم."
+      },
+      "fr": {
+        "title": "Trading de CFD sur actions : 200+ sociétés | UPFOREX",
+        "description": "Tradez les CFD sur plus de 200 actions de premier plan comme Apple et Tesla sur MT5 : levier, exécution rapide et prix transparents, sans détenir les titres."
+      },
+      "ja": {
+        "title": "株式CFD取引｜200銘柄以上のグローバル株 | UPFOREX",
+        "description": "MT5でAppleやTeslaなど200銘柄以上の主要株式CFDを取引。レバレッジ、高速約定、透明な価格設定で、株式を保有せずに取引できます。"
+      }
+    },
+    "/products/precious-metal": {
+      "en": {
+        "title": "Precious Metals CFD Trading Platform on MT5 | UPFOREX",
+        "description": "Trade gold and silver CFDs on MetaTrader 5 with UPFOREX. Competitive spreads and fast execution; contracts do not provide physical metal."
+      },
+      "de": {
+        "title": "Edelmetall-CFD-Handel auf MT5 | Gold & Silber | UPFOREX",
+        "description": "Handeln Sie Gold- und Silber-CFDs auf MetaTrader 5 mit UPFOREX: wettbewerbsfähige Spreads und schnelle Ausführung, ohne physische Lieferung."
+      },
+      "es": {
+        "title": "Trading de CFD de metales preciosos en MT5 | UPFOREX",
+        "description": "Opera CFD de oro y plata en MetaTrader 5 con UPFOREX: spreads competitivos y ejecución rápida. Los contratos no incluyen metal físico."
+      },
+      "ru": {
+        "title": "Торговля CFD на драгоценные металлы на MT5 | UPFOREX",
+        "description": "Торгуйте CFD на золото и серебро на MetaTrader 5 с UPFOREX: конкурентные спреды и быстрое исполнение. Контракты не предполагают поставку физического металла."
+      },
+      "hi": {
+        "title": "MT5 पर कीमती धातु CFD ट्रेडिंग | सोना और चांदी | UPFOREX",
+        "description": "UPFOREX के साथ MetaTrader 5 पर सोना और चांदी के CFD ट्रेड करें: प्रतिस्पर्धी स्प्रेड और तेज़ एक्ज़ीक्यूशन। इन कॉन्ट्रैक्ट में भौतिक धातु नहीं मिलती।"
+      },
+      "pt": {
+        "title": "Trading de CFDs de metais preciosos no MT5 | UPFOREX",
+        "description": "Negocie CFDs de ouro e prata no MetaTrader 5 com a UPFOREX: spreads competitivos e execução rápida. Os contratos não fornecem metal físico."
+      },
+      "zh-CN": {
+        "title": "MT5 贵金属差价合约交易 | 黄金与白银 | UPFOREX",
+        "description": "在 UPFOREX 通过 MetaTrader 5 交易黄金和白银差价合约：点差具竞争力，执行迅速。合约不涉及实物金属交割。"
+      },
+      "zh-TW": {
+        "title": "MT5 貴金屬差價合約交易 | 黃金與白銀 | UPFOREX",
+        "description": "在 UPFOREX 透過 MetaTrader 5 交易黃金與白銀差價合約：點差具競爭力，執行迅速。合約不涉及實物金屬交割。"
+      },
+      "ar": {
+        "title": "تداول عقود الفروقات على المعادن الثمينة عبر MT5 | UPFOREX",
+        "description": "تداول عقود الفروقات على الذهب والفضة عبر MetaTrader 5 مع UPFOREX: سبريدات تنافسية وتنفيذ سريع. لا توفّر العقود معدناً فعلياً."
+      },
+      "fr": {
+        "title": "Trading de CFD sur métaux précieux sur MT5 | UPFOREX",
+        "description": "Tradez les CFD sur l'or et l'argent sur MetaTrader 5 avec UPFOREX : spreads compétitifs et exécution rapide. Ces contrats n'impliquent pas de métal physique."
+      },
+      "ja": {
+        "title": "貴金属CFD取引（MT5）| 金・銀 | UPFOREX",
+        "description": "UPFOREXのMetaTrader 5で金・銀CFDを取引。競争力のあるスプレッドと高速約定。現物の金属は受け渡されません。"
+      }
+    },
+    "/products/index-cfds": {
+      "en": {
+        "title": "Index CFD Trading | Fast Execution on MT5 | UPFOREX",
+        "description": "Trade index CFDs on MetaTrader 5 with UPFOREX. Gain exposure to major global indices with fast execution, flexible leverage and portfolio hedging tools."
+      },
+      "de": {
+        "title": "Index-CFD-Handel | Schnelle Ausführung auf MT5 | UPFOREX",
+        "description": "Handeln Sie Index-CFDs auf MetaTrader 5 mit UPFOREX: Zugang zu wichtigen Weltindizes mit schneller Ausführung, flexiblem Hebel und Absicherungstools."
+      },
+      "es": {
+        "title": "Trading de CFD de índices | Ejecución rápida en MT5 | UPFOREX",
+        "description": "Opera CFD de índices en MetaTrader 5 con UPFOREX: accede a los principales índices mundiales con ejecución rápida, apalancamiento flexible y herramientas de cobertura."
+      },
+      "ru": {
+        "title": "Торговля CFD на индексы | Быстрое исполнение на MT5 | UPFOREX",
+        "description": "Торгуйте CFD на индексы на MetaTrader 5 с UPFOREX: ведущие мировые индексы, быстрое исполнение, гибкое плечо и инструменты хеджирования."
+      },
+      "hi": {
+        "title": "इंडेक्स CFD ट्रेडिंग | MT5 पर तेज़ एक्ज़ीक्यूशन | UPFOREX",
+        "description": "UPFOREX के साथ MetaTrader 5 पर इंडेक्स CFD ट्रेड करें: प्रमुख वैश्विक इंडेक्स, तेज़ एक्ज़ीक्यूशन, लचीला लीवरेज और पोर्टफोलियो हेजिंग टूल।"
+      },
+      "pt": {
+        "title": "Trading de CFDs de índices | Execução rápida no MT5 | UPFOREX",
+        "description": "Negocie CFDs de índices no MetaTrader 5 com a UPFOREX: acesse os principais índices globais com execução rápida, alavancagem flexível e ferramentas de hedge."
+      },
+      "zh-CN": {
+        "title": "指数差价合约交易 | MT5 快速执行 | UPFOREX",
+        "description": "在 UPFOREX 通过 MetaTrader 5 交易指数差价合约：参与全球主要指数行情，执行迅速、杠杆灵活，并提供对冲工具。"
+      },
+      "zh-TW": {
+        "title": "指數差價合約交易 | MT5 快速執行 | UPFOREX",
+        "description": "在 UPFOREX 透過 MetaTrader 5 交易指數差價合約：參與全球主要指數行情，執行迅速、槓桿靈活，並提供避險工具。"
+      },
+      "ar": {
+        "title": "تداول عقود الفروقات على المؤشرات | تنفيذ سريع عبر MT5 | UPFOREX",
+        "description": "تداول عقود الفروقات على المؤشرات عبر MetaTrader 5 مع UPFOREX: وصول إلى أهم المؤشرات العالمية بتنفيذ سريع ورافعة مرنة وأدوات تحوّط."
+      },
+      "fr": {
+        "title": "Trading de CFD sur indices | Exécution rapide sur MT5 | UPFOREX",
+        "description": "Tradez les CFD sur indices sur MetaTrader 5 avec UPFOREX : accédez aux grands indices mondiaux avec exécution rapide, levier flexible et outils de couverture."
+      },
+      "ja": {
+        "title": "株価指数CFD取引｜MT5で高速約定 | UPFOREX",
+        "description": "UPFOREXのMetaTrader 5で株価指数CFDを取引。主要な世界の株価指数に、高速約定、柔軟なレバレッジ、ヘッジツールでアクセス。"
+      }
+    },
+    "/products/energy-cfds": {
+      "en": {
+        "title": "Oil & Energy CFD Trading Platform on MT5 | UPFOREX",
+        "description": "Trade WTI and Brent oil CFDs on MetaTrader 5 with UPFOREX. Competitive spreads, flexible leverage and transparent pricing on global energy markets."
+      },
+      "de": {
+        "title": "Öl- & Energie-CFD-Handel auf MT5 | UPFOREX",
+        "description": "Handeln Sie WTI- und Brent-Öl-CFDs auf MetaTrader 5 mit UPFOREX: wettbewerbsfähige Spreads, flexibler Hebel und transparente Preise an den Energiemärkten."
+      },
+      "es": {
+        "title": "Trading de CFD de petróleo y energía en MT5 | UPFOREX",
+        "description": "Opera CFD de petróleo WTI y Brent en MetaTrader 5 con UPFOREX: spreads competitivos, apalancamiento flexible y precios transparentes en mercados de energía."
+      },
+      "ru": {
+        "title": "Торговля CFD на нефть и энергоносители на MT5 | UPFOREX",
+        "description": "Торгуйте CFD на нефть WTI и Brent на MetaTrader 5 с UPFOREX: конкурентные спреды, гибкое плечо и прозрачное ценообразование на энергетических рынках."
+      },
+      "hi": {
+        "title": "MT5 पर तेल और ऊर्जा CFD ट्रेडिंग | UPFOREX",
+        "description": "UPFOREX के साथ MetaTrader 5 पर WTI और ब्रेंट ऑयल CFD ट्रेड करें: प्रतिस्पर्धी स्प्रेड, लचीला लीवरेज और ऊर्जा बाज़ारों में पारदर्शी कीमतें।"
+      },
+      "pt": {
+        "title": "Trading de CFDs de petróleo e energia no MT5 | UPFOREX",
+        "description": "Negocie CFDs de petróleo WTI e Brent no MetaTrader 5 com a UPFOREX: spreads competitivos, alavancagem flexível e preços transparentes nos mercados de energia."
+      },
+      "zh-CN": {
+        "title": "MT5 原油与能源差价合约交易 | UPFOREX",
+        "description": "在 UPFOREX 通过 MetaTrader 5 交易 WTI 与布伦特原油差价合约：点差具竞争力、杠杆灵活，能源市场报价透明。"
+      },
+      "zh-TW": {
+        "title": "MT5 原油與能源差價合約交易 | UPFOREX",
+        "description": "在 UPFOREX 透過 MetaTrader 5 交易 WTI 與布蘭特原油差價合約：點差具競爭力、槓桿靈活，能源市場報價透明。"
+      },
+      "ar": {
+        "title": "تداول عقود الفروقات على النفط والطاقة عبر MT5 | UPFOREX",
+        "description": "تداول عقود الفروقات على نفط WTI وبرنت عبر MetaTrader 5 مع UPFOREX: سبريدات تنافسية ورافعة مرنة وأسعار شفافة في أسواق الطاقة."
+      },
+      "fr": {
+        "title": "Trading de CFD pétrole et énergie sur MT5 | UPFOREX",
+        "description": "Tradez les CFD sur le pétrole WTI et Brent sur MetaTrader 5 avec UPFOREX : spreads compétitifs, levier flexible et prix transparents sur les marchés de l'énergie."
+      },
+      "ja": {
+        "title": "原油・エネルギーCFD取引（MT5）| UPFOREX",
+        "description": "UPFOREXのMetaTrader 5でWTI・ブレント原油CFDを取引。競争力のあるスプレッド、柔軟なレバレッジ、透明な価格設定。"
+      }
+    },
+    "/products/cryptocurrencies-cfd": {
+      "en": {
+        "title": "Crypto CFD Trading | Bitcoin CFDs on MT5 | UPFOREX",
+        "description": "Trade Bitcoin and other cryptocurrency CFDs on MetaTrader 5 with UPFOREX, without owning the coins. Fast execution and advanced tools."
+      },
+      "de": {
+        "title": "Krypto-CFD-Handel | Bitcoin-CFDs auf MT5 | UPFOREX",
+        "description": "Handeln Sie Bitcoin- und andere Krypto-CFDs auf MetaTrader 5 mit UPFOREX, ohne die Coins zu besitzen. Schnelle Ausführung und fortschrittliche Tools."
+      },
+      "es": {
+        "title": "Trading de CFD de criptomonedas | Bitcoin en MT5 | UPFOREX",
+        "description": "Opera CFD de Bitcoin y otras criptomonedas en MetaTrader 5 con UPFOREX, sin poseer las monedas. Ejecución rápida y herramientas avanzadas."
+      },
+      "ru": {
+        "title": "Торговля криптовалютными CFD | Bitcoin на MT5 | UPFOREX",
+        "description": "Торгуйте CFD на Bitcoin и другие криптовалюты на MetaTrader 5 с UPFOREX без владения монетами. Быстрое исполнение и продвинутые инструменты."
+      },
+      "hi": {
+        "title": "क्रिप्टो CFD ट्रेडिंग | MT5 पर बिटकॉइन CFD | UPFOREX",
+        "description": "UPFOREX के साथ MetaTrader 5 पर बिटकॉइन और अन्य क्रिप्टोकरेंसी CFD ट्रेड करें, कॉइन के मालिक बने बिना। तेज़ एक्ज़ीक्यूशन और एडवांस्ड टूल।"
+      },
+      "pt": {
+        "title": "Trading de CFDs de criptomoedas | Bitcoin no MT5 | UPFOREX",
+        "description": "Negocie CFDs de Bitcoin e outras criptomoedas no MetaTrader 5 com a UPFOREX, sem possuir as moedas. Execução rápida e ferramentas avançadas."
+      },
+      "zh-CN": {
+        "title": "加密货币差价合约交易 | MT5 比特币 CFD | UPFOREX",
+        "description": "在 UPFOREX 通过 MetaTrader 5 交易比特币等加密货币差价合约，无需持有币种。执行快速，工具先进。"
+      },
+      "zh-TW": {
+        "title": "加密貨幣差價合約交易 | MT5 比特幣 CFD | UPFOREX",
+        "description": "在 UPFOREX 透過 MetaTrader 5 交易比特幣等加密貨幣差價合約，無需持有幣種。執行快速，工具先進。"
+      },
+      "ar": {
+        "title": "عقود الفروقات على العملات الرقمية | بيتكوين على MT5 | UPFOREX",
+        "description": "تداول عقود الفروقات على بيتكوين وعملات رقمية أخرى عبر MetaTrader 5 مع UPFOREX دون امتلاك العملات. تنفيذ سريع وأدوات متقدمة."
+      },
+      "fr": {
+        "title": "Trading de CFD crypto | CFD Bitcoin sur MT5 | UPFOREX",
+        "description": "Tradez les CFD sur Bitcoin et d'autres cryptomonnaies sur MetaTrader 5 avec UPFOREX, sans détenir les actifs. Exécution rapide et outils avancés."
+      },
+      "ja": {
+        "title": "仮想通貨CFD取引｜MT5でビットコインCFD | UPFOREX",
+        "description": "UPFOREXのMetaTrader 5でビットコインなど仮想通貨CFDを取引。コインを保有せずに取引でき、高速約定と高度なツールを利用できます。"
+      }
+    },
+    "/partnerships": {
+      "en": {
+        "title": "UPFOREX Partnerships | IB, Education & Social Trading",
+        "description": "Partner with UPFOREX: IB programs, money managers, education partners, finfluencers, country partners and social trading. Explore ways to earn with us."
+      },
+      "de": {
+        "title": "UPFOREX Partnerschaften | IB, Bildung & Social Trading",
+        "description": "Werden Sie UPFOREX-Partner: IB-Programme, Money Manager, Bildungspartner, Finfluencer, Länderpartner und Social Trading. Entdecken Sie Verdienstmöglichkeiten."
+      },
+      "es": {
+        "title": "Alianzas UPFOREX | IB, Educación y Social Trading",
+        "description": "Asóciate con UPFOREX: programas IB, gestores de dinero, socios educativos, finfluencers, socios de país y social trading. Descubre cómo generar ingresos."
+      },
+      "ru": {
+        "title": "Партнёрство UPFOREX | IB, обучение и соцтрейдинг",
+        "description": "Станьте партнёром UPFOREX: программы IB, управляющие, образовательные партнёры, финфлюенсеры, страновые партнёры и социальный трейдинг. Узнайте, как зарабатывать."
+      },
+      "hi": {
+        "title": "UPFOREX पार्टनरशिप | IB, एजुकेशन और सोशल ट्रेडिंग",
+        "description": "UPFOREX के साथ साझेदारी करें: IB प्रोग्राम, मनी मैनेजर, एजुकेशन पार्टनर, फिनफ्लुएंसर, कंट्री पार्टनर और सोशल ट्रेडिंग। कमाई के अवसर जानें।"
+      },
+      "pt": {
+        "title": "Parcerias UPFOREX | IB, Educação e Social Trading",
+        "description": "Seja parceiro da UPFOREX: programas IB, gestores de dinheiro, parceiros educacionais, finfluencers, parceiros de país e social trading. Veja como ganhar conosco."
+      },
+      "zh-CN": {
+        "title": "UPFOREX 合作伙伴计划 | IB、教育与社交交易",
+        "description": "与 UPFOREX 合作：IB 计划、资金经理、教育合作伙伴、金融博主、国家合作伙伴与社交交易。了解合作赚取收益的方式。"
+      },
+      "zh-TW": {
+        "title": "UPFOREX 合作夥伴計畫 | IB、教育與社群交易",
+        "description": "與 UPFOREX 合作：IB 計畫、資金經理、教育合作夥伴、財經網紅、國家合作夥伴與社群交易。了解合作賺取收益的方式。"
+      },
+      "ar": {
+        "title": "شراكات UPFOREX | الوسطاء والتعليم والتداول الاجتماعي",
+        "description": "كن شريكاً لـ UPFOREX: برامج الوسطاء (IB) ومديرو الأموال وشركاء التعليم والمؤثرون الماليون وشركاء الدول والتداول الاجتماعي. اكتشف فرص الربح."
+      },
+      "fr": {
+        "title": "Partenariats UPFOREX | IB, formation et trading social",
+        "description": "Devenez partenaire d'UPFOREX : programmes IB, gestionnaires de fonds, partenaires éducatifs, finfluenceurs, partenaires pays et trading social. Découvrez comment gagner."
+      },
+      "ja": {
+        "title": "UPFOREXパートナー | IB・教育・ソーシャルトレード",
+        "description": "UPFOREXとパートナーに：IBプログラム、マネーマネージャー、教育パートナー、フィンフルエンサー、国別パートナー、ソーシャルトレード。"
+      }
+    },
+    "/partnerships/partnership-benefits": {
+      "en": {
+        "title": "UPFOREX Partnership Program | Benefits & Earnings",
+        "description": "Discover the benefits of partnering with UPFOREX, from earning potential to partner tools and support. Compare programs and start earning."
+      },
+      "de": {
+        "title": "UPFOREX Partnerprogramm | Vorteile & Verdienst",
+        "description": "Entdecken Sie die Vorteile einer Partnerschaft mit UPFOREX: Verdienstpotenzial, Partner-Tools und Support. Programme vergleichen und loslegen."
+      },
+      "es": {
+        "title": "Programa de socios UPFOREX | Beneficios y ganancias",
+        "description": "Descubre las ventajas de asociarte con UPFOREX: potencial de ingresos, herramientas y soporte para socios. Compara programas y empieza a ganar."
+      },
+      "ru": {
+        "title": "Партнёрская программа UPFOREX | Преимущества и доход",
+        "description": "Узнайте о преимуществах партнёрства с UPFOREX: потенциал дохода, инструменты и поддержка партнёров. Сравните программы и начните зарабатывать."
+      },
+      "hi": {
+        "title": "UPFOREX पार्टनरशिप प्रोग्राम | लाभ और कमाई",
+        "description": "UPFOREX के साथ साझेदारी के लाभ जानें: कमाई की संभावना, पार्टनर टूल और सपोर्ट। प्रोग्राम की तुलना करें और कमाना शुरू करें।"
+      },
+      "pt": {
+        "title": "Programa de parceiros UPFOREX | Benefícios e ganhos",
+        "description": "Conheça as vantagens de ser parceiro da UPFOREX: potencial de ganhos, ferramentas e suporte. Compare os programas e comece a ganhar."
+      },
+      "zh-CN": {
+        "title": "UPFOREX 合作伙伴计划 | 权益与收益",
+        "description": "了解与 UPFOREX 合作的优势：收益潜力、合作伙伴工具与专属支持。比较各类计划，立即开始赚取收益。"
+      },
+      "zh-TW": {
+        "title": "UPFOREX 合作夥伴計畫 | 權益與收益",
+        "description": "了解與 UPFOREX 合作的優勢：收益潛力、合作夥伴工具與專屬支援。比較各類計畫，立即開始賺取收益。"
+      },
+      "ar": {
+        "title": "برنامج شراكة UPFOREX | المزايا والأرباح",
+        "description": "اكتشف مزايا الشراكة مع UPFOREX: إمكانات الربح وأدوات الشركاء والدعم. قارن بين البرامج وابدأ الربح اليوم."
+      },
+      "fr": {
+        "title": "Programme partenaire UPFOREX | Avantages et gains",
+        "description": "Découvrez les avantages du partenariat avec UPFOREX : potentiel de gains, outils et support dédiés. Comparez les programmes et commencez à gagner."
+      },
+      "ja": {
+        "title": "UPFOREXパートナープログラム | メリットと収益",
+        "description": "UPFOREXとパートナーになるメリットをご紹介。収益機会、パートナー向けツール、サポート体制を確認し、プログラムを比較できます。"
+      }
+    },
+    "/partnerships/ib-programs": {
+      "en": {
+        "title": "UPFOREX IB Program | Earn Commissions as a Broker",
+        "description": "Become a UPFOREX Introducing Broker. Earn commissions on referred clients' trading with transparent tracking and dedicated partner support."
+      },
+      "de": {
+        "title": "UPFOREX IB-Programm | Provisionen als Vermittler verdienen",
+        "description": "Werden Sie UPFOREX Introducing Broker: Verdienen Sie Provisionen auf das Trading vermittelter Kunden – mit transparentem Tracking und Partner-Support."
+      },
+      "es": {
+        "title": "Programa IB de UPFOREX | Gana comisiones como broker",
+        "description": "Conviértete en Introducing Broker de UPFOREX. Gana comisiones por la operativa de tus clientes referidos, con seguimiento transparente y soporte dedicado."
+      },
+      "ru": {
+        "title": "IB-программа UPFOREX | Комиссии для брокеров-партнёров",
+        "description": "Станьте Introducing Broker UPFOREX. Получайте комиссии с торговли привлечённых клиентов, прозрачная статистика и персональная поддержка партнёров."
+      },
+      "hi": {
+        "title": "UPFOREX IB प्रोग्राम | ब्रोकर के रूप में कमीशन कमाएं",
+        "description": "UPFOREX के इंट्रोड्यूसिंग ब्रोकर बनें। रेफर किए क्लाइंट की ट्रेडिंग पर कमीशन कमाएं, पारदर्शी ट्रैकिंग और समर्पित पार्टनर सपोर्ट के साथ।"
+      },
+      "pt": {
+        "title": "Programa IB da UPFOREX | Ganhe comissões como corretor",
+        "description": "Torne-se Introducing Broker da UPFOREX. Ganhe comissões sobre as operações dos clientes indicados, com acompanhamento transparente e suporte dedicado."
+      },
+      "zh-CN": {
+        "title": "UPFOREX IB 计划 | 作为经纪人赚取佣金",
+        "description": "成为 UPFOREX 介绍经纪商（IB）。从推荐客户的交易中赚取佣金，数据追踪透明，并获得专属合作伙伴支持。"
+      },
+      "zh-TW": {
+        "title": "UPFOREX IB 計畫 | 擔任經紀人賺取佣金",
+        "description": "成為 UPFOREX 介紹經紀商（IB）。從推薦客戶的交易中賺取佣金，數據追蹤透明，並獲得專屬合作夥伴支援。"
+      },
+      "ar": {
+        "title": "برنامج الوسطاء IB من UPFOREX | اربح العمولات",
+        "description": "كن وسيطاً مقدِّماً (IB) لدى UPFOREX. اربح عمولات من تداول العملاء الذين تُحيلهم مع تتبّع شفاف ودعم مخصص للشركاء."
+      },
+      "fr": {
+        "title": "Programme IB UPFOREX | Gagnez des commissions",
+        "description": "Devenez Introducing Broker UPFOREX. Gagnez des commissions sur le trading de vos clients parrainés, avec un suivi transparent et un support dédié."
+      },
+      "ja": {
+        "title": "UPFOREX IBプログラム | 紹介ブローカーとして報酬を獲得",
+        "description": "UPFOREXの紹介ブローカー（IB）に。紹介した顧客の取引に応じて報酬を獲得。透明性の高いトラッキングと専任パートナーサポート。"
+      }
+    },
+    "/partnerships/money-managers": {
+      "en": {
+        "title": "UPFOREX Money Manager Program | Grow Followers & Earn",
+        "description": "Join the UPFOREX Money Manager program: grow your following, manage investor capital on MT5 and earn performance-based rewards. Learn how to apply."
+      },
+      "de": {
+        "title": "UPFOREX Money-Manager-Programm | Follower & Verdienst",
+        "description": "Nutzen Sie das UPFOREX Money-Manager-Programm: Follower aufbauen, Anlegerkapital auf MT5 verwalten und erfolgsabhängige Vergütung verdienen. Jetzt bewerben."
+      },
+      "es": {
+        "title": "Programa de gestores UPFOREX | Seguidores e ingresos",
+        "description": "Únete al programa de gestores de dinero de UPFOREX: amplía tu audiencia, gestiona capital de inversores en MT5 y obtén recompensas por rendimiento. Solicítalo."
+      },
+      "ru": {
+        "title": "Программа управляющих UPFOREX | Подписчики и доход",
+        "description": "Присоединяйтесь к программе управляющих UPFOREX: наращивайте аудиторию, управляйте капиталом инвесторов на MT5 и получайте вознаграждение за результат."
+      },
+      "hi": {
+        "title": "UPFOREX मनी मैनेजर प्रोग्राम | फॉलोअर और कमाई",
+        "description": "UPFOREX मनी मैनेजर प्रोग्राम से जुड़ें: अपने फॉलोअर बढ़ाएं, MT5 पर निवेशकों की पूंजी मैनेज करें और परफॉर्मेंस-आधारित इनाम कमाएं। आवेदन करें।"
+      },
+      "pt": {
+        "title": "Programa de gestores UPFOREX | Seguidores e receita",
+        "description": "Participe do programa de gestores de dinheiro da UPFOREX: aumente seu público, gerencie capital de investidores no MT5 e receba recompensas por desempenho."
+      },
+      "zh-CN": {
+        "title": "UPFOREX 资金经理计划 | 扩大粉丝并获利",
+        "description": "加入 UPFOREX 资金经理计划：扩大粉丝群体，在 MT5 上管理投资者资金，并获得基于业绩的奖励。了解申请方式。"
+      },
+      "zh-TW": {
+        "title": "UPFOREX 資金經理計畫 | 擴大追蹤者並獲利",
+        "description": "加入 UPFOREX 資金經理計畫：擴大追蹤者群體，在 MT5 上管理投資人資金，並獲得依績效計算的獎勵。了解申請方式。"
+      },
+      "ar": {
+        "title": "برنامج مديري الأموال من UPFOREX | زد متابعيك واربح",
+        "description": "انضم إلى برنامج مديري الأموال من UPFOREX: نمِّ جمهورك وأدر أموال المستثمرين على MT5 واربح مكافآت مرتبطة بالأداء. تعرّف على طريقة التقديم."
+      },
+      "fr": {
+        "title": "Programme Money Manager UPFOREX | Audience et gains",
+        "description": "Rejoignez le programme Money Manager d'UPFOREX : développez votre audience, gérez le capital d'investisseurs sur MT5 et gagnez des récompenses liées à la performance."
+      },
+      "ja": {
+        "title": "UPFOREXマネーマネージャー | フォロワー増と収益化",
+        "description": "UPFOREXのマネーマネージャープログラムに参加。フォロワーを増やし、MT5で投資家の資金を運用して、実績に応じた報酬を獲得できます。"
+      }
+    },
+    "/partnerships/education-partners": {
+      "en": {
+        "title": "UPFOREX Education Partners Program | Teach & Earn",
+        "description": "Teach trading with UPFOREX. The Education Partners program lets trainers, academies and course creators earn rewards as their students trade. Apply now."
+      },
+      "de": {
+        "title": "UPFOREX Bildungspartner-Programm | Lehren & Verdienen",
+        "description": "Vermitteln Sie Trading-Wissen mit UPFOREX. Trainer, Akademien und Kursersteller verdienen Vergütungen, wenn ihre Schüler handeln. Jetzt bewerben."
+      },
+      "es": {
+        "title": "Socios educativos UPFOREX | Enseña y gana",
+        "description": "Enseña trading con UPFOREX. El programa de socios educativos permite a formadores, academias y creadores de cursos ganar recompensas cuando sus alumnos operan."
+      },
+      "ru": {
+        "title": "Образовательные партнёры UPFOREX | Обучайте и зарабатывайте",
+        "description": "Обучайте трейдингу вместе с UPFOREX. Тренеры, академии и авторы курсов получают вознаграждение, когда их ученики торгуют. Подайте заявку."
+      },
+      "hi": {
+        "title": "UPFOREX एजुकेशन पार्टनर प्रोग्राम | सिखाएं और कमाएं",
+        "description": "UPFOREX के साथ ट्रेडिंग सिखाएं। एजुकेशन पार्टनर प्रोग्राम में ट्रेनर, एकेडमी और कोर्स क्रिएटर अपने छात्रों की ट्रेडिंग पर इनाम कमाते हैं।"
+      },
+      "pt": {
+        "title": "Parceiros educacionais UPFOREX | Ensine e ganhe",
+        "description": "Ensine trading com a UPFOREX. O programa de parceiros educacionais permite que instrutores, academias e criadores de cursos ganhem recompensas quando seus alunos operam."
+      },
+      "zh-CN": {
+        "title": "UPFOREX 教育合作伙伴计划 | 授课并获利",
+        "description": "与 UPFOREX 一起传授交易知识。教育合作伙伴计划让培训师、学院和课程创作者在学员交易时获得奖励。立即申请。"
+      },
+      "zh-TW": {
+        "title": "UPFOREX 教育合作夥伴計畫 | 授課並獲利",
+        "description": "與 UPFOREX 一起傳授交易知識。教育合作夥伴計畫讓培訓師、學院與課程創作者在學員交易時獲得獎勵。立即申請。"
+      },
+      "ar": {
+        "title": "شركاء التعليم في UPFOREX | علِّم واربح",
+        "description": "علِّم التداول مع UPFOREX. يتيح برنامج شركاء التعليم للمدربين والأكاديميات ومنشئي الدورات كسب مكافآت عند تداول طلابهم. قدّم طلبك الآن."
+      },
+      "fr": {
+        "title": "Partenaires éducation UPFOREX | Enseignez et gagnez",
+        "description": "Enseignez le trading avec UPFOREX. Le programme Partenaires éducation permet aux formateurs, académies et créateurs de cours de gagner des récompenses. Postulez."
+      },
+      "ja": {
+        "title": "UPFOREX教育パートナー | 教えて収益を獲得",
+        "description": "UPFOREXと一緒にトレードを教えませんか。講師やスクール、講座制作者が受講生の取引に応じた報酬を獲得できます。"
+      }
+    },
+    "/partnerships/finfluencer": {
+      "en": {
+        "title": "UPFOREX Finfluencer Program | Influence & Earn Rewards",
+        "description": "Turn your audience into income with the UPFOREX Finfluencer Program. Share trading content, refer followers and earn rewards. See how to join."
+      },
+      "de": {
+        "title": "UPFOREX Finfluencer-Programm | Reichweite in Einnahmen",
+        "description": "Machen Sie Ihre Reichweite zu Einnahmen mit dem UPFOREX Finfluencer-Programm: Trading-Inhalte teilen, Follower empfehlen und Vergütungen verdienen."
+      },
+      "es": {
+        "title": "Programa Finfluencer UPFOREX | Influye y gana",
+        "description": "Convierte tu audiencia en ingresos con el programa Finfluencer de UPFOREX: comparte contenido de trading, recomienda seguidores y gana recompensas."
+      },
+      "ru": {
+        "title": "Программа для финфлюенсеров UPFOREX | Доход от аудитории",
+        "description": "Монетизируйте аудиторию с программой для финфлюенсеров UPFOREX: делитесь трейдинг-контентом, привлекайте подписчиков и получайте вознаграждение."
+      },
+      "hi": {
+        "title": "UPFOREX फिनफ्लुएंसर प्रोग्राम | प्रभाव से कमाई",
+        "description": "UPFOREX फिनफ्लुएंसर प्रोग्राम से अपनी ऑडियंस को आमदनी में बदलें: ट्रेडिंग कंटेंट शेयर करें, फॉलोअर्स को रेफर करें और इनाम कमाएं।"
+      },
+      "pt": {
+        "title": "Programa Finfluencer UPFOREX | Influencie e ganhe",
+        "description": "Transforme sua audiência em renda com o Programa Finfluencer da UPFOREX: compartilhe conteúdo de trading, indique seguidores e ganhe recompensas."
+      },
+      "zh-CN": {
+        "title": "UPFOREX 金融博主计划 | 影响力变现",
+        "description": "通过 UPFOREX 金融博主计划将影响力变现：分享交易内容、推荐粉丝并获得奖励。了解加入方式。"
+      },
+      "zh-TW": {
+        "title": "UPFOREX 財經網紅計畫 | 影響力變現",
+        "description": "透過 UPFOREX 財經網紅計畫將影響力變現：分享交易內容、推薦粉絲並獲得獎勵。了解加入方式。"
+      },
+      "ar": {
+        "title": "برنامج المؤثرين الماليين من UPFOREX | حوّل تأثيرك إلى أرباح",
+        "description": "حوّل جمهورك إلى دخل مع برنامج المؤثرين الماليين من UPFOREX: شارك محتوى التداول وأحِل المتابعين واربح المكافآت. تعرّف على طريقة الانضمام."
+      },
+      "fr": {
+        "title": "Programme Finfluenceur UPFOREX | Monétisez votre audience",
+        "description": "Transformez votre audience en revenus avec le programme Finfluenceur d'UPFOREX : partagez du contenu trading, parrainez vos abonnés et gagnez des récompenses."
+      },
+      "ja": {
+        "title": "UPFOREXフィンフルエンサー | 影響力を収益に",
+        "description": "UPFOREXのフィンフルエンサープログラムで、影響力を収益に。トレード情報を発信し、フォロワーを紹介して報酬を獲得できます。"
+      }
+    },
+    "/partnerships/country-partners": {
+      "en": {
+        "title": "UPFOREX Country Partners Program | Expand & Earn",
+        "description": "Grow UPFOREX in your market as a Country Partner. Build local networks, support clients in your region and earn rewards with full broker backing."
+      },
+      "de": {
+        "title": "UPFOREX Länderpartner-Programm | Expandieren & Verdienen",
+        "description": "Bauen Sie UPFOREX in Ihrem Markt als Länderpartner auf: lokale Netzwerke entwickeln, Kunden vor Ort betreuen und mit voller Broker-Unterstützung verdienen."
+      },
+      "es": {
+        "title": "Socios de país UPFOREX | Expande y gana",
+        "description": "Impulsa UPFOREX en tu mercado como socio de país: crea redes locales, atiende a clientes de tu región y gana recompensas con el respaldo total del broker."
+      },
+      "ru": {
+        "title": "Страновые партнёры UPFOREX | Развивайте и зарабатывайте",
+        "description": "Развивайте UPFOREX на своём рынке как страновой партнёр: стройте местные сети, поддерживайте клиентов региона и получайте вознаграждение при поддержке брокера."
+      },
+      "hi": {
+        "title": "UPFOREX कंट्री पार्टनर प्रोग्राम | विस्तार और कमाई",
+        "description": "कंट्री पार्टनर के रूप में अपने बाज़ार में UPFOREX को बढ़ाएं: स्थानीय नेटवर्क बनाएं, क्षेत्र के क्लाइंट को सपोर्ट करें और ब्रोकर के सहयोग से इनाम कमाएं।"
+      },
+      "pt": {
+        "title": "Parceiros de país UPFOREX | Expanda e ganhe",
+        "description": "Expanda a UPFOREX no seu mercado como parceiro de país: crie redes locais, apoie clientes da sua região e ganhe recompensas com todo o suporte da corretora."
+      },
+      "zh-CN": {
+        "title": "UPFOREX 国家合作伙伴计划 | 拓展并获利",
+        "description": "作为国家合作伙伴在本地市场发展 UPFOREX：建立本地网络、服务所在地区客户，并在经纪商全力支持下赚取奖励。"
+      },
+      "zh-TW": {
+        "title": "UPFOREX 國家合作夥伴計畫 | 拓展並獲利",
+        "description": "作為國家合作夥伴在在地市場發展 UPFOREX：建立在地網絡、服務所在地區客戶，並在經紀商全力支持下賺取獎勵。"
+      },
+      "ar": {
+        "title": "شركاء الدول في UPFOREX | وسّع نشاطك واربح",
+        "description": "وسّع حضور UPFOREX في سوقك كشريك دولة: ابنِ شبكات محلية وادعم عملاء منطقتك واربح المكافآت بدعم كامل من الوسيط."
+      },
+      "fr": {
+        "title": "Partenaires pays UPFOREX | Développez et gagnez",
+        "description": "Développez UPFOREX sur votre marché en tant que partenaire pays : créez des réseaux locaux, accompagnez les clients de votre région et gagnez des récompenses."
+      },
+      "ja": {
+        "title": "UPFOREX国別パートナー | 展開して収益を獲得",
+        "description": "国別パートナーとして、お住まいの市場でUPFOREXを展開。現地ネットワークを構築し、地域の顧客をサポートして報酬を獲得できます。"
+      }
+    },
+    "/partnerships/social-trading": {
+      "en": {
+        "title": "Join UPFOREX Social Trading Program | Trade & Earn",
+        "description": "Join UPFOREX Social Trading: follow experienced traders or share your own strategies on MT5 and earn rewards. Copying trades carries a risk of loss."
+      },
+      "de": {
+        "title": "UPFOREX Social Trading beitreten | Handeln & Verdienen",
+        "description": "Nutzen Sie UPFOREX Social Trading: Folgen Sie erfahrenen Tradern oder teilen Sie eigene Strategien auf MT5 und verdienen Sie. Copy-Trading birgt Verlustrisiken."
+      },
+      "es": {
+        "title": "Programa de Social Trading UPFOREX | Opera y gana",
+        "description": "Únete al Social Trading de UPFOREX: sigue a traders experimentados o comparte tus estrategias en MT5 y gana recompensas. Copiar operaciones conlleva riesgo de pérdida."
+      },
+      "ru": {
+        "title": "Социальный трейдинг UPFOREX | Торгуйте и зарабатывайте",
+        "description": "Присоединяйтесь к социальному трейдингу UPFOREX: следуйте за опытными трейдерами или делитесь стратегиями на MT5. Копирование сделок связано с риском потерь."
+      },
+      "hi": {
+        "title": "UPFOREX सोशल ट्रेडिंग से जुड़ें | ट्रेड करें और कमाएं",
+        "description": "UPFOREX सोशल ट्रेडिंग से जुड़ें: अनुभवी ट्रेडर्स को फॉलो करें या MT5 पर अपनी रणनीतियां शेयर करें। कॉपी ट्रेडिंग में नुकसान का जोखिम है।"
+      },
+      "pt": {
+        "title": "Social Trading UPFOREX | Negocie e ganhe",
+        "description": "Participe do Social Trading da UPFOREX: siga traders experientes ou compartilhe estratégias no MT5 e ganhe recompensas. Copiar operações envolve risco de perda."
+      },
+      "zh-CN": {
+        "title": "加入 UPFOREX 社交交易计划 | 交易并获利",
+        "description": "加入 UPFOREX 社交交易：在 MT5 上跟随资深交易员或分享自己的策略并获得奖励。跟单交易存在亏损风险。"
+      },
+      "zh-TW": {
+        "title": "加入 UPFOREX 社群交易計畫 | 交易並獲利",
+        "description": "加入 UPFOREX 社群交易：在 MT5 上跟隨資深交易員或分享自己的策略並獲得獎勵。跟單交易存在虧損風險。"
+      },
+      "ar": {
+        "title": "برنامج التداول الاجتماعي من UPFOREX | تداول واربح",
+        "description": "انضم إلى التداول الاجتماعي من UPFOREX: تابع متداولين ذوي خبرة أو شارك استراتيجياتك على MT5. نسخ الصفقات ينطوي على مخاطر الخسارة."
+      },
+      "fr": {
+        "title": "Trading social UPFOREX | Tradez et gagnez",
+        "description": "Rejoignez le trading social d'UPFOREX : suivez des traders expérimentés ou partagez vos stratégies sur MT5. Le copy trading comporte un risque de perte."
+      },
+      "ja": {
+        "title": "UPFOREXソーシャルトレード | 取引して報酬を獲得",
+        "description": "UPFOREXのソーシャルトレードに参加。MT5で経験豊富なトレーダーをフォロー、または戦略を共有。コピートレードには損失リスクがあります。"
+      }
+    },
+    "/partnerships/institutional-services": {
+      "en": {
+        "title": "UPFOREX Institutional Services | Forex & CFD Trading",
+        "description": "UPFOREX Institutional Services: deep liquidity, ECN connectivity and tailored solutions for brokers, funds and professional traders. Speak to our team."
+      },
+      "de": {
+        "title": "UPFOREX Institutional Services | Forex- & CFD-Handel",
+        "description": "UPFOREX Institutional Services: tiefe Liquidität, ECN-Anbindung und maßgeschneiderte Lösungen für Broker, Fonds und professionelle Trader. Sprechen Sie uns an."
+      },
+      "es": {
+        "title": "Servicios institucionales UPFOREX | Forex y CFD",
+        "description": "Servicios institucionales de UPFOREX: liquidez profunda, conectividad ECN y soluciones a medida para brokers, fondos y traders profesionales. Habla con nuestro equipo."
+      },
+      "ru": {
+        "title": "Институциональные услуги UPFOREX | Forex и CFD",
+        "description": "Институциональные услуги UPFOREX: глубокая ликвидность, ECN-подключение и индивидуальные решения для брокеров, фондов и профессиональных трейдеров."
+      },
+      "hi": {
+        "title": "UPFOREX इंस्टीट्यूशनल सर्विसेज़ | फॉरेक्स और CFD",
+        "description": "UPFOREX इंस्टीट्यूशनल सर्विसेज़: गहरी लिक्विडिटी, ECN कनेक्टिविटी और ब्रोकर, फंड व प्रोफेशनल ट्रेडर्स के लिए कस्टमाइज़्ड समाधान। हमारी टीम से बात करें।"
+      },
+      "pt": {
+        "title": "Serviços institucionais UPFOREX | Forex e CFDs",
+        "description": "Serviços institucionais da UPFOREX: liquidez profunda, conectividade ECN e soluções sob medida para corretoras, fundos e traders profissionais. Fale com nossa equipe."
+      },
+      "zh-CN": {
+        "title": "UPFOREX 机构服务 | 外汇与差价合约交易",
+        "description": "UPFOREX 机构服务：深度流动性、ECN 连接，为经纪商、基金和专业交易者提供定制化解决方案。欢迎联系我们的团队。"
+      },
+      "zh-TW": {
+        "title": "UPFOREX 機構服務 | 外匯與差價合約交易",
+        "description": "UPFOREX 機構服務：深度流動性、ECN 連線，為經紀商、基金與專業交易者提供客製化解決方案。歡迎聯繫我們的團隊。"
+      },
+      "ar": {
+        "title": "الخدمات المؤسسية من UPFOREX | الفوركس وعقود الفروقات",
+        "description": "الخدمات المؤسسية من UPFOREX: سيولة عميقة واتصال ECN وحلول مخصصة للوسطاء والصناديق والمتداولين المحترفين. تواصل مع فريقنا."
+      },
+      "fr": {
+        "title": "Services institutionnels UPFOREX | Forex et CFD",
+        "description": "Services institutionnels UPFOREX : liquidité profonde, connectivité ECN et solutions sur mesure pour courtiers, fonds et traders professionnels. Contactez notre équipe."
+      },
+      "ja": {
+        "title": "UPFOREX機関投資家向けサービス | FX・CFD",
+        "description": "UPFOREXの機関投資家向けサービス：厚い流動性、ECN接続、ブローカー・ファンド・プロ向けのカスタムソリューション。お気軽にご相談ください。"
+      }
+    },
+    "/resources/introduction-to-forex": {
+      "en": {
+        "title": "What Is Forex? Beginner's Guide to Trading | UPFOREX",
+        "description": "New to forex? Learn how currency trading works, from pairs, pips and leverage to spreads and risk management, in this beginner's guide from UPFOREX."
+      },
+      "de": {
+        "title": "Was ist Forex? Einsteigerleitfaden zum Trading | UPFOREX",
+        "description": "Neu im Forex-Handel? Lernen Sie, wie Devisenhandel funktioniert – von Währungspaaren, Pips und Hebel bis zu Spreads und Risikomanagement."
+      },
+      "es": {
+        "title": "¿Qué es el forex? Guía de trading para principiantes | UPFOREX",
+        "description": "¿Nuevo en forex? Aprende cómo funciona el trading de divisas: pares, pips, apalancamiento, spreads y gestión del riesgo en esta guía para principiantes."
+      },
+      "ru": {
+        "title": "Что такое Forex? Руководство для начинающих | UPFOREX",
+        "description": "Новичок на Forex? Узнайте, как работает торговля валютой: пары, пипсы, плечо, спреды и управление рисками в руководстве для начинающих от UPFOREX."
+      },
+      "hi": {
+        "title": "फॉरेक्स क्या है? शुरुआती ट्रेडिंग गाइड | UPFOREX",
+        "description": "फॉरेक्स में नए हैं? करेंसी ट्रेडिंग कैसे काम करती है, जानें: पेयर, पिप्स, लीवरेज, स्प्रेड और रिस्क मैनेजमेंट। UPFOREX की शुरुआती गाइड।"
+      },
+      "pt": {
+        "title": "O que é forex? Guia de trading para iniciantes | UPFOREX",
+        "description": "Novo no forex? Entenda como funciona a negociação de moedas: pares, pips, alavancagem, spreads e gestão de risco neste guia para iniciantes."
+      },
+      "zh-CN": {
+        "title": "什么是外汇？交易入门指南 | UPFOREX",
+        "description": "刚接触外汇？了解外汇交易如何运作：货币对、点值、杠杆、点差与风险管理。UPFOREX 为新手准备的入门指南。"
+      },
+      "zh-TW": {
+        "title": "什麼是外匯？交易入門指南 | UPFOREX",
+        "description": "剛接觸外匯？了解外匯交易如何運作：貨幣對、點值、槓桿、點差與風險管理。UPFOREX 為新手準備的入門指南。"
+      },
+      "ar": {
+        "title": "ما هو الفوركس؟ دليل المبتدئين للتداول | UPFOREX",
+        "description": "جديد في الفوركس؟ تعرّف على كيفية عمل تداول العملات: الأزواج والنقاط والرافعة المالية والسبريد وإدارة المخاطر في دليل المبتدئين من UPFOREX."
+      },
+      "fr": {
+        "title": "Qu'est-ce que le forex ? Guide du débutant | UPFOREX",
+        "description": "Débutant en forex ? Découvrez le fonctionnement du trading de devises : paires, pips, levier, spreads et gestion du risque dans ce guide d'UPFOREX."
+      },
+      "ja": {
+        "title": "FXとは？初心者向け取引ガイド | UPFOREX",
+        "description": "FXが初めての方へ。通貨ペア、pips、レバレッジ、スプレッド、リスク管理など、為替取引の仕組みをUPFOREXの初心者ガイドで解説します。"
+      }
+    },
+    "/resources/trading-glossary": {
+      "en": {
+        "title": "UPFOREX Glossary | Learn Forex & CFD Trading Terms",
+        "description": "Look up key forex and CFD terms such as pip, spread, margin, leverage, lot and stop-loss. The UPFOREX trading glossary explains each in plain language."
+      },
+      "de": {
+        "title": "UPFOREX Glossar | Forex- & CFD-Begriffe erklärt",
+        "description": "Schlagen Sie wichtige Forex- und CFD-Begriffe nach, etwa Pip, Spread, Margin, Hebel, Lot und Stop-Loss. Das UPFOREX-Glossar erklärt sie verständlich."
+      },
+      "es": {
+        "title": "Glosario UPFOREX | Términos de forex y CFD",
+        "description": "Consulta términos clave de forex y CFD como pip, spread, margen, apalancamiento, lote y stop loss. El glosario de UPFOREX los explica con claridad."
+      },
+      "ru": {
+        "title": "Глоссарий UPFOREX | Термины Forex и CFD",
+        "description": "Ключевые термины Forex и CFD: пипс, спред, маржа, плечо, лот, стоп-лосс. Глоссарий UPFOREX объясняет каждый понятным языком."
+      },
+      "hi": {
+        "title": "UPFOREX शब्दावली | फॉरेक्स और CFD ट्रेडिंग शब्द",
+        "description": "पिप, स्प्रेड, मार्जिन, लीवरेज, लॉट और स्टॉप-लॉस जैसे प्रमुख फॉरेक्स व CFD शब्द देखें। UPFOREX शब्दावली हर शब्द को सरल भाषा में समझाती है।"
+      },
+      "pt": {
+        "title": "Glossário UPFOREX | Termos de forex e CFDs",
+        "description": "Consulte termos essenciais de forex e CFDs como pip, spread, margem, alavancagem, lote e stop loss. O glossário da UPFOREX explica cada um com clareza."
+      },
+      "zh-CN": {
+        "title": "UPFOREX 术语表 | 外汇与差价合约术语",
+        "description": "查询点值、点差、保证金、杠杆、手数、止损等外汇与差价合约核心术语。UPFOREX 交易术语表以通俗语言逐一讲解。"
+      },
+      "zh-TW": {
+        "title": "UPFOREX 術語表 | 外匯與差價合約術語",
+        "description": "查詢點值、點差、保證金、槓桿、手數、停損等外匯與差價合約核心術語。UPFOREX 交易術語表以淺顯語言逐一說明。"
+      },
+      "ar": {
+        "title": "قاموس UPFOREX | مصطلحات الفوركس وعقود الفروقات",
+        "description": "ابحث عن أهم مصطلحات الفوركس وعقود الفروقات مثل النقطة والسبريد والهامش والرافعة والعقد ووقف الخسارة. يشرحها قاموس UPFOREX بلغة واضحة."
+      },
+      "fr": {
+        "title": "Glossaire UPFOREX | Termes du forex et des CFD",
+        "description": "Consultez les termes clés du forex et des CFD : pip, spread, marge, levier, lot, stop-loss. Le glossaire UPFOREX les explique en langage clair."
+      },
+      "ja": {
+        "title": "UPFOREX用語集 | FX・CFD取引の基本用語",
+        "description": "pips、スプレッド、証拠金、レバレッジ、ロット、ストップロスなど、FXとCFDの主要用語を解説。UPFOREXの取引用語集で確認できます。"
+      }
+    },
+    "/resources/tools": {
+      "en": {
+        "title": "UPFOREX Trading Tools | Calculators & Converters",
+        "description": "Use UPFOREX trading calculators and converters to estimate pip value, margin and profit and plan your risk before you place a trade."
+      },
+      "de": {
+        "title": "UPFOREX Trading-Tools | Rechner & Konverter",
+        "description": "Nutzen Sie die Rechner und Konverter von UPFOREX, um Pip-Wert, Margin und Gewinn zu schätzen und Ihr Risiko vor dem Trade zu planen."
+      },
+      "es": {
+        "title": "Herramientas de trading UPFOREX | Calculadoras",
+        "description": "Usa las calculadoras y conversores de UPFOREX para estimar el valor del pip, el margen y el beneficio, y planificar tu riesgo antes de operar."
+      },
+      "ru": {
+        "title": "Торговые инструменты UPFOREX | Калькуляторы",
+        "description": "Используйте калькуляторы и конвертеры UPFOREX, чтобы оценить стоимость пункта, маржу и прибыль и спланировать риск до открытия сделки."
+      },
+      "hi": {
+        "title": "UPFOREX ट्रेडिंग टूल्स | कैलकुलेटर और कन्वर्टर",
+        "description": "UPFOREX के कैलकुलेटर और कन्वर्टर से पिप वैल्यू, मार्जिन और मुनाफ़े का अनुमान लगाएं और ट्रेड से पहले अपना जोखिम प्लान करें।"
+      },
+      "pt": {
+        "title": "Ferramentas de trading UPFOREX | Calculadoras",
+        "description": "Use as calculadoras e conversores da UPFOREX para estimar valor do pip, margem e lucro e planejar seu risco antes de abrir uma operação."
+      },
+      "zh-CN": {
+        "title": "UPFOREX 交易工具 | 计算器与换算器",
+        "description": "使用 UPFOREX 交易计算器和换算器，估算点值、保证金与盈亏，在下单前规划好风险。"
+      },
+      "zh-TW": {
+        "title": "UPFOREX 交易工具 | 計算器與換算器",
+        "description": "使用 UPFOREX 交易計算器與換算器，估算點值、保證金與損益，在下單前規劃好風險。"
+      },
+      "ar": {
+        "title": "أدوات التداول من UPFOREX | الحاسبات والمحوّلات",
+        "description": "استخدم حاسبات ومحوّلات UPFOREX لتقدير قيمة النقطة والهامش والربح وتخطيط مخاطرك قبل تنفيذ الصفقة."
+      },
+      "fr": {
+        "title": "Outils de trading UPFOREX | Calculateurs",
+        "description": "Utilisez les calculateurs et convertisseurs UPFOREX pour estimer la valeur du pip, la marge et le profit, et planifier votre risque avant de trader."
+      },
+      "ja": {
+        "title": "UPFOREX取引ツール | 計算機・コンバーター",
+        "description": "UPFOREXの計算機とコンバーターで、pips価値・証拠金・損益を試算し、発注前にリスクを計画できます。"
+      }
+    },
+    "/resources/contract-specifications": {
+      "en": {
+        "title": "UPFOREX Contract Specifications | Forex & CFD Trading",
+        "description": "View UPFOREX contract specifications for forex, metals, indices, energies, shares and crypto CFDs, including lot sizes, spreads, margin and trading hours."
+      },
+      "de": {
+        "title": "UPFOREX Kontraktspezifikationen | Forex & CFDs",
+        "description": "Kontraktspezifikationen von UPFOREX für Forex, Metalle, Indizes, Energien, Aktien und Krypto-CFDs: Lotgrößen, Spreads, Margin und Handelszeiten."
+      },
+      "es": {
+        "title": "Especificaciones de contratos UPFOREX | Forex y CFD",
+        "description": "Consulta las especificaciones de contratos de UPFOREX para forex, metales, índices, energía, acciones y CFD de cripto: lotes, spreads, margen y horarios."
+      },
+      "ru": {
+        "title": "Спецификации контрактов UPFOREX | Forex и CFD",
+        "description": "Спецификации контрактов UPFOREX по Forex, металлам, индексам, энергоносителям, акциям и криптовалютным CFD: лоты, спреды, маржа и часы торговли."
+      },
+      "hi": {
+        "title": "UPFOREX कॉन्ट्रैक्ट स्पेसिफिकेशन | फॉरेक्स और CFD",
+        "description": "फॉरेक्स, धातु, इंडेक्स, ऊर्जा, शेयर और क्रिप्टो CFD के लिए UPFOREX कॉन्ट्रैक्ट स्पेसिफिकेशन देखें: लॉट साइज़, स्प्रेड, मार्जिन और ट्रेडिंग घंटे।"
+      },
+      "pt": {
+        "title": "Especificações de contratos UPFOREX | Forex e CFDs",
+        "description": "Veja as especificações de contratos da UPFOREX para forex, metais, índices, energia, ações e CFDs de cripto: lotes, spreads, margem e horários."
+      },
+      "zh-CN": {
+        "title": "UPFOREX 合约规格 | 外汇与差价合约",
+        "description": "查看 UPFOREX 外汇、金属、指数、能源、股票及加密货币差价合约的合约规格：手数大小、点差、保证金与交易时间。"
+      },
+      "zh-TW": {
+        "title": "UPFOREX 合約規格 | 外匯與差價合約",
+        "description": "查看 UPFOREX 外匯、金屬、指數、能源、股票及加密貨幣差價合約的合約規格：手數大小、點差、保證金與交易時間。"
+      },
+      "ar": {
+        "title": "مواصفات العقود في UPFOREX | الفوركس وعقود الفروقات",
+        "description": "اطّلع على مواصفات عقود UPFOREX للفوركس والمعادن والمؤشرات والطاقة والأسهم والعملات الرقمية: أحجام العقود والسبريد والهامش وساعات التداول."
+      },
+      "fr": {
+        "title": "Spécifications des contrats UPFOREX | Forex et CFD",
+        "description": "Consultez les spécifications des contrats UPFOREX pour le forex, les métaux, indices, énergies, actions et CFD crypto : lots, spreads, marge et horaires."
+      },
+      "ja": {
+        "title": "UPFOREX契約仕様 | FX・CFD取引条件",
+        "description": "UPFOREXのFX、貴金属、株価指数、エネルギー、株式、仮想通貨CFDの契約仕様を確認。ロットサイズ、スプレッド、証拠金、取引時間を掲載。"
+      }
+    },
+    "/resources/faq": {
+      "en": {
+        "title": "Forex & CFD Trading FAQs | Help Centre | UPFOREX",
+        "description": "Find answers to common questions about UPFOREX accounts, deposits, withdrawals, the MT5 platform and trading conditions in our Help Centre."
+      },
+      "de": {
+        "title": "Forex- & CFD-Handel FAQ | Hilfecenter | UPFOREX",
+        "description": "Antworten auf häufige Fragen zu UPFOREX-Konten, Einzahlungen, Auszahlungen, der MT5-Plattform und den Handelsbedingungen in unserem Hilfecenter."
+      },
+      "es": {
+        "title": "Preguntas frecuentes de forex y CFD | Ayuda | UPFOREX",
+        "description": "Encuentra respuestas a preguntas frecuentes sobre cuentas, depósitos, retiros, la plataforma MT5 y condiciones de trading de UPFOREX en nuestro Centro de ayuda."
+      },
+      "ru": {
+        "title": "FAQ по Forex и CFD | Центр помощи | UPFOREX",
+        "description": "Ответы на частые вопросы о счетах UPFOREX, пополнении, выводе средств, платформе MT5 и торговых условиях в нашем Центре помощи."
+      },
+      "hi": {
+        "title": "फॉरेक्स और CFD ट्रेडिंग FAQ | हेल्प सेंटर | UPFOREX",
+        "description": "हमारे हेल्प सेंटर में UPFOREX अकाउंट, डिपॉज़िट, विड्रॉअल, MT5 प्लेटफ़ॉर्म और ट्रेडिंग शर्तों से जुड़े आम सवालों के जवाब पाएं।"
+      },
+      "pt": {
+        "title": "FAQ de forex e CFDs | Central de ajuda | UPFOREX",
+        "description": "Encontre respostas para dúvidas frequentes sobre contas, depósitos, saques, plataforma MT5 e condições de trading da UPFOREX em nossa Central de ajuda."
+      },
+      "zh-CN": {
+        "title": "外汇与差价合约常见问题 | 帮助中心 | UPFOREX",
+        "description": "在帮助中心查找关于 UPFOREX 账户、入金、出金、MT5 平台和交易条件的常见问题解答。"
+      },
+      "zh-TW": {
+        "title": "外匯與差價合約常見問題 | 說明中心 | UPFOREX",
+        "description": "在說明中心查找關於 UPFOREX 帳戶、入金、出金、MT5 平台與交易條件的常見問題解答。"
+      },
+      "ar": {
+        "title": "الأسئلة الشائعة عن الفوركس وCFD | مركز المساعدة | UPFOREX",
+        "description": "اعثر على إجابات الأسئلة الشائعة حول حسابات UPFOREX والإيداع والسحب ومنصة MT5 وشروط التداول في مركز المساعدة."
+      },
+      "fr": {
+        "title": "FAQ forex et CFD | Centre d'aide | UPFOREX",
+        "description": "Trouvez des réponses aux questions fréquentes sur les comptes UPFOREX, les dépôts, retraits, la plateforme MT5 et les conditions de trading dans notre Centre d'aide."
+      },
+      "ja": {
+        "title": "FX・CFD取引のよくある質問 | ヘルプセンター | UPFOREX",
+        "description": "UPFOREXの口座、入出金、MT5プラットフォーム、取引条件に関するよくある質問への回答を、ヘルプセンターでご確認いただけます。"
+      }
+    },
+    "/risk-disclosure": {
+      "en": {
+        "title": "Understand Trading Risks | Official Disclosure | UPFOREX",
+        "description": "Read the UPFOREX risk disclosure. Forex and CFDs are leveraged products and carry a high risk of loss. Understand the risks before you trade."
+      },
+      "de": {
+        "title": "Handelsrisiken verstehen | Risikohinweise | UPFOREX",
+        "description": "Lesen Sie die Risikohinweise von UPFOREX. Forex und CFDs sind gehebelte Produkte mit hohem Verlustrisiko. Verstehen Sie die Risiken, bevor Sie handeln."
+      },
+      "es": {
+        "title": "Entiende los riesgos del trading | Aviso de riesgo | UPFOREX",
+        "description": "Lee el aviso de riesgo de UPFOREX. El forex y los CFD son productos apalancados con alto riesgo de pérdida. Comprende los riesgos antes de operar."
+      },
+      "ru": {
+        "title": "Риски торговли | Официальное предупреждение | UPFOREX",
+        "description": "Прочитайте уведомление о рисках UPFOREX. Forex и CFD — продукты с кредитным плечом и высоким риском потерь. Оцените риски до начала торговли."
+      },
+      "hi": {
+        "title": "ट्रेडिंग जोखिम समझें | रिस्क डिस्क्लोज़र | UPFOREX",
+        "description": "UPFOREX का रिस्क डिस्क्लोज़र पढ़ें। फॉरेक्स और CFD लीवरेज वाले उत्पाद हैं और इनमें नुकसान का उच्च जोखिम होता है। ट्रेड से पहले जोखिम समझें।"
+      },
+      "pt": {
+        "title": "Entenda os riscos do trading | Aviso de risco | UPFOREX",
+        "description": "Leia o aviso de risco da UPFOREX. Forex e CFDs são produtos alavancados com alto risco de perda. Entenda os riscos antes de operar."
+      },
+      "zh-CN": {
+        "title": "了解交易风险 | 官方风险披露 | UPFOREX",
+        "description": "阅读 UPFOREX 风险披露声明。外汇和差价合约属杠杆产品，存在较高的亏损风险。交易前请充分了解相关风险。"
+      },
+      "zh-TW": {
+        "title": "了解交易風險 | 官方風險揭露 | UPFOREX",
+        "description": "閱讀 UPFOREX 風險揭露聲明。外匯與差價合約屬槓桿產品，存在較高的虧損風險。交易前請充分了解相關風險。"
+      },
+      "ar": {
+        "title": "افهم مخاطر التداول | إفصاح المخاطر | UPFOREX",
+        "description": "اقرأ إفصاح المخاطر من UPFOREX. الفوركس وعقود الفروقات منتجات ذات رافعة مالية وتنطوي على مخاطر عالية للخسارة. افهم المخاطر قبل أن تتداول."
+      },
+      "fr": {
+        "title": "Comprendre les risques du trading | Avertissement | UPFOREX",
+        "description": "Lisez l'avertissement sur les risques d'UPFOREX. Le forex et les CFD sont des produits à effet de levier comportant un risque élevé de perte."
+      },
+      "ja": {
+        "title": "取引のリスクについて | リスク開示 | UPFOREX",
+        "description": "UPFOREXのリスク開示をご確認ください。FXとCFDはレバレッジ商品であり、高い損失リスクがあります。取引前にリスクをご理解ください。"
+      }
+    },
+    "/privacy-policy": {
+      "en": {
+        "title": "Privacy Policy | UPFOREX",
+        "description": "Read how UPFOREX collects, uses and protects your personal data, including cookies, data sharing and your privacy rights."
+      },
+      "de": {
+        "title": "Datenschutzerklärung | UPFOREX",
+        "description": "Erfahren Sie, wie UPFOREX Ihre personenbezogenen Daten erhebt, verwendet und schützt – einschließlich Cookies, Datenweitergabe und Ihrer Datenschutzrechte."
+      },
+      "es": {
+        "title": "Política de privacidad | UPFOREX",
+        "description": "Descubre cómo UPFOREX recopila, utiliza y protege tus datos personales, incluidas las cookies, el intercambio de datos y tus derechos de privacidad."
+      },
+      "ru": {
+        "title": "Политика конфиденциальности | UPFOREX",
+        "description": "Как UPFOREX собирает, использует и защищает ваши персональные данные: файлы cookie, передача данных и ваши права на конфиденциальность."
+      },
+      "hi": {
+        "title": "गोपनीयता नीति | UPFOREX",
+        "description": "जानें कि UPFOREX आपके व्यक्तिगत डेटा को कैसे एकत्र, उपयोग और सुरक्षित करता है, जिसमें कुकीज़, डेटा साझाकरण और आपके गोपनीयता अधिकार शामिल हैं।"
+      },
+      "pt": {
+        "title": "Política de privacidade | UPFOREX",
+        "description": "Saiba como a UPFOREX coleta, usa e protege seus dados pessoais, incluindo cookies, compartilhamento de dados e seus direitos de privacidade."
+      },
+      "zh-CN": {
+        "title": "隐私政策 | UPFOREX",
+        "description": "了解 UPFOREX 如何收集、使用和保护您的个人数据，包括 Cookie、数据共享及您享有的隐私权利。"
+      },
+      "zh-TW": {
+        "title": "隱私權政策 | UPFOREX",
+        "description": "了解 UPFOREX 如何蒐集、使用及保護您的個人資料，包括 Cookie、資料分享及您享有的隱私權利。"
+      },
+      "ar": {
+        "title": "سياسة الخصوصية | UPFOREX",
+        "description": "تعرّف على كيفية جمع UPFOREX لبياناتك الشخصية واستخدامها وحمايتها، بما في ذلك ملفات الارتباط ومشاركة البيانات وحقوق الخصوصية."
+      },
+      "fr": {
+        "title": "Politique de confidentialité | UPFOREX",
+        "description": "Découvrez comment UPFOREX collecte, utilise et protège vos données personnelles, y compris les cookies, le partage de données et vos droits."
+      },
+      "ja": {
+        "title": "プライバシーポリシー | UPFOREX",
+        "description": "UPFOREXが個人情報をどのように収集・利用・保護するか、Cookie、データ共有、お客様のプライバシー権について説明します。"
+      }
+    },
+    "/anti-money-laundering": {
+      "en": {
+        "title": "Anti-Money Laundering Policy | UPFOREX",
+        "description": "UPFOREX's Anti-Money Laundering (AML) and KYC policy: how we verify clients, monitor transactions and help prevent financial crime."
+      },
+      "de": {
+        "title": "Richtlinie zur Geldwäschebekämpfung (AML) | UPFOREX",
+        "description": "Die AML- und KYC-Richtlinie von UPFOREX: wie wir Kunden verifizieren, Transaktionen überwachen und zur Verhinderung von Finanzkriminalität beitragen."
+      },
+      "es": {
+        "title": "Política contra el blanqueo de capitales (AML) | UPFOREX",
+        "description": "La política AML y KYC de UPFOREX: cómo verificamos a los clientes, supervisamos las transacciones y ayudamos a prevenir la delincuencia financiera."
+      },
+      "ru": {
+        "title": "Политика противодействия отмыванию денег (AML) | UPFOREX",
+        "description": "Политика AML и KYC UPFOREX: как мы проверяем клиентов, отслеживаем операции и помогаем предотвращать финансовые преступления."
+      },
+      "hi": {
+        "title": "एंटी-मनी लॉन्डरिंग (AML) नीति | UPFOREX",
+        "description": "UPFOREX की एंटी-मनी लॉन्डरिंग (AML) और KYC नीति: हम क्लाइंट का सत्यापन, लेन-देन की निगरानी और वित्तीय अपराध की रोकथाम कैसे करते हैं।"
+      },
+      "pt": {
+        "title": "Política contra lavagem de dinheiro (AML) | UPFOREX",
+        "description": "A política de AML e KYC da UPFOREX: como verificamos clientes, monitoramos transações e ajudamos a prevenir crimes financeiros."
+      },
+      "zh-CN": {
+        "title": "反洗钱 (AML) 政策 | UPFOREX",
+        "description": "UPFOREX 的反洗钱 (AML) 与客户身份识别 (KYC) 政策：我们如何验证客户身份、监控交易并协助防范金融犯罪。"
+      },
+      "zh-TW": {
+        "title": "反洗錢 (AML) 政策 | UPFOREX",
+        "description": "UPFOREX 的反洗錢 (AML) 與客戶身分確認 (KYC) 政策：我們如何驗證客戶身分、監控交易並協助防範金融犯罪。"
+      },
+      "ar": {
+        "title": "سياسة مكافحة غسل الأموال (AML) | UPFOREX",
+        "description": "سياسة مكافحة غسل الأموال (AML) واعرف عميلك (KYC) لدى UPFOREX: كيف نتحقق من العملاء ونراقب المعاملات ونساعد في منع الجرائم المالية."
+      },
+      "fr": {
+        "title": "Politique anti-blanchiment (AML) | UPFOREX",
+        "description": "La politique AML et KYC d'UPFOREX : comment nous vérifions les clients, surveillons les transactions et contribuons à prévenir la criminalité financière."
+      },
+      "ja": {
+        "title": "マネーロンダリング対策（AML）方針 | UPFOREX",
+        "description": "UPFOREXのAML・KYC方針：顧客確認、取引モニタリング、金融犯罪防止への取り組みについてご説明します。"
+      }
+    },
+    "/legal-documents": {
+      "en": {
+        "title": "Legal Documents | Client Agreement, Terms & Policies | UPFOREX",
+        "description": "Access UPFOREX legal documents, including the client agreement, terms and conditions, risk disclosure and policies that govern your trading account."
+      },
+      "de": {
+        "title": "Rechtsdokumente | Kundenvereinbarung & AGB | UPFOREX",
+        "description": "Rechtsdokumente von UPFOREX: Kundenvereinbarung, Geschäftsbedingungen, Risikohinweise und Richtlinien, die Ihr Handelskonto regeln."
+      },
+      "es": {
+        "title": "Documentos legales | Contrato de cliente y términos | UPFOREX",
+        "description": "Accede a los documentos legales de UPFOREX: contrato de cliente, términos y condiciones, aviso de riesgo y políticas que rigen tu cuenta de trading."
+      },
+      "ru": {
+        "title": "Юридические документы | Клиентское соглашение | UPFOREX",
+        "description": "Юридические документы UPFOREX: клиентское соглашение, условия, уведомление о рисках и политики, регулирующие ваш торговый счёт."
+      },
+      "hi": {
+        "title": "कानूनी दस्तावेज़ | क्लाइंट एग्रीमेंट और शर्तें | UPFOREX",
+        "description": "UPFOREX के कानूनी दस्तावेज़ देखें: क्लाइंट एग्रीमेंट, नियम व शर्तें, रिस्क डिस्क्लोज़र और आपके ट्रेडिंग अकाउंट को नियंत्रित करने वाली नीतियां।"
+      },
+      "pt": {
+        "title": "Documentos legais | Contrato do cliente e termos | UPFOREX",
+        "description": "Acesse os documentos legais da UPFOREX: contrato do cliente, termos e condições, aviso de risco e políticas que regem sua conta de trading."
+      },
+      "zh-CN": {
+        "title": "法律文件 | 客户协议、条款与政策 | UPFOREX",
+        "description": "查阅 UPFOREX 法律文件，包括客户协议、条款与条件、风险披露及适用于您交易账户的各项政策。"
+      },
+      "zh-TW": {
+        "title": "法律文件 | 客戶協議、條款與政策 | UPFOREX",
+        "description": "查閱 UPFOREX 法律文件，包括客戶協議、條款與條件、風險揭露及適用於您交易帳戶的各項政策。"
+      },
+      "ar": {
+        "title": "المستندات القانونية | اتفاقية العميل والشروط | UPFOREX",
+        "description": "اطّلع على المستندات القانونية لدى UPFOREX، ومنها اتفاقية العميل والشروط والأحكام وإفصاح المخاطر والسياسات التي تنظّم حساب التداول."
+      },
+      "fr": {
+        "title": "Documents légaux | Contrat client et conditions | UPFOREX",
+        "description": "Accédez aux documents légaux d'UPFOREX : contrat client, conditions générales, avertissement sur les risques et politiques régissant votre compte de trading."
+      },
+      "ja": {
+        "title": "法的文書 | 顧客契約・利用規約・各種ポリシー | UPFOREX",
+        "description": "UPFOREXの法的文書（顧客契約書、利用規約、リスク開示、取引口座に適用される各種ポリシー）をご確認いただけます。"
+      }
+    },
+    "/blogs/what-is-a-forex-currency-pair": {
+      "en": {
+        "title": "What Is a Forex Currency Pair? Explained | UPFOREX Blog",
+        "description": "A forex currency pair shows one currency's value against another. Learn base and quote currencies, how to read quotes and how pairs are traded."
+      }
+    },
+    "/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders": {
+      "en": {
+        "title": "Trusted Forex Brokers: How UPFOREX Helps Traders",
+        "description": "What makes a forex broker trustworthy? See how regulation, transparent pricing and reliable support help traders, and how UPFOREX puts them into practice."
+      }
+    },
+    "/blogs/how-to-invest-in-gold-in-the-uae": {
+      "en": {
+        "title": "How to Invest in Gold in the UAE | UPFOREX Blog",
+        "description": "Explore how traders in the UAE can gain exposure to gold, including gold CFDs on MT5, and understand the costs, leverage and risks involved."
+      }
+    },
+    "/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter": {
+      "en": {
+        "title": "Energy CFD Trading in the UAE with UPFOREX | UPFOREX Blog",
+        "description": "Learn how energy CFDs on oil and gas work for traders in the UAE, what moves energy prices and how to trade them on MT5. CFDs carry a high risk of loss."
+      }
+    }
+  }
+}

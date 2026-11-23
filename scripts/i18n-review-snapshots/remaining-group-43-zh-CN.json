@@ -1,0 +1,567 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t7771b4a7433afa8d",
+      "english": "Ready to turn low-liquidity days into high-profit potential? Don’t let your efforts be undermined by subpar tools. Empower yourself with a cutting-edge, real-time forex trading platform that’s built for traders who mean business. Whether you’re in the skyscrapers of Dubai or at a late-night desk, you deserve a platform that offers lightning-fast execution, real-time charting, customizable alerts, and institutional-grade reliability. Take the next step: explore our platform’s free demo and see how our advanced features can amplify your breakout strategy.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/strategy-snapshot-trading-breakouts#content",
+        "SSR:/blogs/strategy-snapshot-trading-breakouts"
+      ],
+      "translation": "准备好将低流动性的日子转化为高利润的潜力了吗？不要让劣质工具破坏您的努力。利用专为认真开展业务的交易者打造的尖端实时外汇交易平台来增强您的能力。无论您是在迪拜的摩天大楼里还是在深夜的办公桌前，您都应该拥有一个能够提供闪电般快速执行、实时图表、可定制警报和机构级可靠性的平台。采取下一步：探索我们平台的免费演示，看看我们的高级功能如何增强您的突破策略。"
+    },
+    {
+      "key": "tf706b3d20bb44780",
+      "english": "<span data-i18n-slot=\"0\">Why Spreads Matter in Forex Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">为什么点差在外汇交易中很重要</span>"
+    },
+    {
+      "key": "tda5d581708c64cbf",
+      "english": "<span data-i18n-slot=\"0\">In forex, the </span><span data-i18n-slot=\"1\">spread</span><span data-i18n-slot=\"2\">—the gap between the bid and ask price—represents your immediate trading cost. Lower spreads reduce your upfront expense and improve profitability, especially for scalpers and high-frequency traders (</span><span data-i18n-slot=\"3\">Exness</span><span data-i18n-slot=\"4\">, Myfxbook</span><span data-i18n-slot=\"5\">). Tight spreads also minimize slippage and enhance execution quality, allowing you to capture small market moves with confidence (</span><span data-i18n-slot=\"6\">Exness</span><span data-i18n-slot=\"7\">).</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在外汇交易中，</span><span data-i18n-slot=\"1\">点差</span><span data-i18n-slot=\"2\">（买价和卖价之间的差距）代表您的即时交易成本。较低的点差可减少您的前期费用并提高盈利能力，特别是对于剥头皮交易者和高频交易者（</span><span data-i18n-slot=\"3\">Exness</span><span data-i18n-slot=\"4\">、Myfxbook</span><span data-i18n-slot=\"5\">）。低点差还可以最大限度地减少滑点并提高执行质量，让您能够自信地捕捉市场的小幅波动 (</span><span data-i18n-slot=\"6\">Exness</span><span data-i18n-slot=\"7\">)。</span>"
+    },
+    {
+      "key": "t3a267b95bb689af7",
+      "english": "<span data-i18n-slot=\"0\">UpForex’s Competitive Spread Structure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex 的竞争价差结构</span>"
+    },
+    {
+      "key": "t6fb41ec7006bdd17",
+      "english": "<span data-i18n-slot=\"0\">UpForex offers </span><span data-i18n-slot=\"1\">EUR/USD spreads from 0.1 pips</span><span data-i18n-slot=\"2\"> with </span><span data-i18n-slot=\"3\">zero commissions</span><span data-i18n-slot=\"4\">, meaning the spread you see is the only fee you pay—no hidden markups or overnight financing surprises . This transparent pricing ensures every pip works toward your bottom line, whether you’re trading majors, minors, or exotic pairs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex 提供 </span><span data-i18n-slot=\"1\">欧元/美元 点差 0.1 点起</span><span data-i18n-slot=\"2\">，</span><span data-i18n-slot=\"3\">零佣金</span><span data-i18n-slot=\"4\">，这意味着您看到的点差是您支付的唯一费用 - 没有隐藏的加价或隔夜融资惊喜。无论您是交易主要货币对、次要货币对还是奇异货币对，这种透明的定价都可确保每个点都能实现您的利润。</span>"
+    },
+    {
+      "key": "t3382bdc8e4a4f118",
+      "english": "<span data-i18n-slot=\"0\">EUR/USD Spread (Pips)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">欧元/美元点差（点）</span>"
+    },
+    {
+      "key": "t8b5562d48a014e86",
+      "english": "<span data-i18n-slot=\"0\">All-In Cost (Pips)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">总成本（点）</span>"
+    },
+    {
+      "key": "t4272e5c17430bc55",
+      "english": "<span data-i18n-slot=\"0\">₹0 per trade</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每笔交易 0 卢比</span>"
+    },
+    {
+      "key": "t780d1f3383a894fd",
+      "english": "<span data-i18n-slot=\"0\">$0.05–$3.50 per lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每批0.05–3.50美元</span>"
+    },
+    {
+      "key": "t448e6ad17dc4cb01",
+      "english": "<span data-i18n-slot=\"0\">$3.5 per lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每手 3.5 美元</span>"
+    },
+    {
+      "key": "t7cc4f10b593486fd",
+      "english": "<span data-i18n-slot=\"0\">$3.50 per side</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每边 3.50 美元</span>"
+    },
+    {
+      "key": "t0edbb6b511e4cb63",
+      "english": "<span data-i18n-slot=\"0\">$3.50 per lot round-turn</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每手回合 3.50 美元</span>"
+    },
+    {
+      "key": "t8163ccdb8f7f1043",
+      "english": "<span data-i18n-slot=\"0\">Ultra-Tight Majors</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> EUR/USD from </span><span data-i18n-slot=\"4\">0.1 pips</span><span data-i18n-slot=\"5\">, matching raw-spread specialists without commissions .</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">超紧缩主要货币</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> 欧元/美元 </span><span data-i18n-slot=\"4\">0.1 点</span><span data-i18n-slot=\"5\">，匹配原始点差专家，无需佣金。</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>"
+    },
+    {
+      "key": "t85c9062e1402fa66",
+      "english": "<span data-i18n-slot=\"0\">Consistent Execution</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Deep liquidity and robust infrastructure ensure spreads stay tight 24/5.</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">一致的执行</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">深厚的流动性和强大的基础设施确保点差 24/5 保持紧缩。</span><span data-i18n-slot=\"4\"><span data-i18n-slot=\"5\"></span><span data-i18n-slot=\"6\"></span></span>"
+    },
+    {
+      "key": "t55c0a1028abf6632",
+      "english": "<span data-i18n-slot=\"0\">Micro-Lot Flexibility</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\"> Trade </span><span data-i18n-slot=\"4\">0.01-lot</span><span data-i18n-slot=\"5\"> positions to manage risk precisely at low cost.</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">微型手灵活性</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">交易</span><span data-i18n-slot=\"4\">0.01手</span><span data-i18n-slot=\"5\">头寸，以低成本精确管理风险。</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>"
+    },
+    {
+      "key": "t0cc9b935c4b7640b",
+      "english": "<span data-i18n-slot=\"0\">Take Action: Trade Smarter with UpForex</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">采取行动：使用 UpForex 进行更明智的交易</span>"
+    },
+    {
+      "key": "tf5fb759eb2f24edc",
+      "english": "<span data-i18n-slot=\"0\">Ready to benefit from ultra-tight, commission-free spreads?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">准备好从超低的免佣金点差中受益了吗？</span>"
+    },
+    {
+      "key": "t25da3c92d22652d0",
+      "english": "<span data-i18n-slot=\"0\">👉 </span><span data-i18n-slot=\"1\">Go Live with Confidence</span><span data-i18n-slot=\"2\">—open a micro-lot live account and trade majors from 0.1 pips:</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span></span><span data-i18n-slot=\"5\">Open Live Account</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-forex-trading-platform#content",
+        "SSR:/blogs/best-forex-trading-platform"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">👉 </span><span data-i18n-slot=\"1\">充满信心地上线</span><span data-i18n-slot=\"2\">—开设微型手真实账户并以 0.1 点起交易主要品种：</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"> </span></span><span data-i18n-slot=\"5\">开设真实账户</span><span data-i18n-slot=\"6\"><span data-i18n-slot=\"7\"></span><span data-i18n-slot=\"8\"></span></span>"
+    },
+    {
+      "key": "tc29c312073699c82",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Demo vs. Live Trading: Why Starting with a Demo on UpForex Is Key for Forex Trading for Beginners</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">演示与实时交易：为什么从 UpForex 上的演示开始是初学者外汇交易的关键</span></span>"
+    },
+    {
+      "key": "t09d95a15a9fde629",
+      "english": "<span data-i18n-slot=\"0\">Jumping into real-money trading can feel like diving into the deep end without learning to swim. For </span><span data-i18n-slot=\"1\">forex trading for beginners</span><span data-i18n-slot=\"2\">, a demo account is your life jacket. UpForex’s demo mirrors its live engine—real-time prices, identical spreads, charting tools, and order types—using a virtual </span><span data-i18n-slot=\"3\">₹10,000</span><span data-i18n-slot=\"4\"> balance. Below, we’ll compare demo vs. live trading, show you exactly how to leverage UpForex’s demo, walk you through signup, and point you toward the next step: trading with confidence.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">直接进行真实资金交易，就像没有学会游泳便跳入深水区。对于</span><span data-i18n-slot=\"1\">外汇交易初学者</span><span data-i18n-slot=\"2\">，模拟账户就是救生衣。UpForex模拟账户反映真实交易引擎的实时价格、相同点差、图表工具及订单类型，使用虚拟的</span><span data-i18n-slot=\"3\">₹10,000</span><span data-i18n-slot=\"4\">余额。下面将比较模拟与真实交易，具体说明如何利用UpForex模拟账户、逐步注册，并迈向下一步：自信交易。</span>"
+    },
+    {
+      "key": "t51388f6bf904acbd",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Demo vs. Live: A Quick Comparison</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">演示与现场：快速比较</span></span>"
+    },
+    {
+      "key": "tf9a537ad59049d35",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Feature / Outcome</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">特点/结果</span></span>"
+    },
+    {
+      "key": "t780e92f87a232728",
+      "english": "<span data-i18n-slot=\"0\">Live Trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实时交易</span>"
+    },
+    {
+      "key": "t68a98c6b5a69808f",
+      "english": "<span data-i18n-slot=\"0\">₹0 real-money risk; learn by doing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">₹0真实资金风险；在实践中学习</span>"
+    },
+    {
+      "key": "tdac1cbaf4c31e573",
+      "english": "<span data-i18n-slot=\"0\">100% of losses hit your capital</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">100% 的损失都会影响您的资金</span>"
+    },
+    {
+      "key": "t85726f3e20e17e04",
+      "english": "<span data-i18n-slot=\"0\">Refine entries/exits on real charts</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在真实图表上优化进场/出场</span>"
+    },
+    {
+      "key": "tc63e802d9ceed1c1",
+      "english": "<span data-i18n-slot=\"0\">Fast-track order execution skills</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">快速订单执行技巧</span>"
+    },
+    {
+      "key": "t2730ebcca84ebdfc",
+      "english": "<span data-i18n-slot=\"0\">Steeper learning curve costs pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">陡峭的学习曲线成本点</span>"
+    },
+    {
+      "key": "t7e82f661207e7ec5",
+      "english": "<span data-i18n-slot=\"0\">Detailed P&amp;L &amp; trade journals</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">详细的损益表和贸易日志</span>"
+    },
+    {
+      "key": "t64bdd28767ff790f",
+      "english": "<span data-i18n-slot=\"0\">Confidence Level</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">置信度</span>"
+    },
+    {
+      "key": "tb64ca840f5031ffa",
+      "english": "<span data-i18n-slot=\"0\">Move live with a proven plan</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">带着经过验证的计划转入真实交易</span>"
+    },
+    {
+      "key": "t207c42bb0eee48f5",
+      "english": "<span data-i18n-slot=\"0\">Profitability Odds</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">盈利赔率</span>"
+    },
+    {
+      "key": "tc181f4121e4ccd02",
+      "english": "<span data-i18n-slot=\"0\">Up to 40% of beginners blow accounts</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">高达 40% 的初学者毁掉账户</span>"
+    },
+    {
+      "key": "tc0650150b517e46a",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">How Forex Trading for Beginners Can Leverage UpForex’s Demo</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">外汇交易初学者如何利用 UpForex 的演示</span></span>"
+    },
+    {
+      "key": "t42819e544a73c07a",
+      "english": "<span data-i18n-slot=\"0\">Market, limit, stop, trailing—see exactly how each behaves under live conditions.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">市价、限价、突破订单与追踪止损——准确观察每种订单在实时条件下的表现。</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>"
+    },
+    {
+      "key": "t549dcb5117b7e9eb",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Test Strategies on Real Charts</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">在真实图表上测试策略</span></span>"
+    },
+    {
+      "key": "t7d08057c013118ac",
+      "english": "<span data-i18n-slot=\"0\">Select your country/region for accurate spreads</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">选择您所在的国家/地区以获得准确的点差  </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span><span data-i18n-slot=\"3\"></span></span>"
+    },
+    {
+      "key": "t72c6ce4721abe003",
+      "english": "<span data-i18n-slot=\"0\">Accept terms &amp; </span><span data-i18n-slot=\"1\">Create Demo Account</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">接受条款并</span><span data-i18n-slot=\"1\">创建模拟帐户</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "td5671fd9474a6c59",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Launch Demo Trading</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">启动模拟交易</span></span>"
+    },
+    {
+      "key": "t5d65511566edea79",
+      "english": "<span data-i18n-slot=\"0\"> From your dashboard, hit </span><span data-i18n-slot=\"1\">Start Demo Trading</span><span data-i18n-slot=\"2\">. Choose </span><span data-i18n-slot=\"3\">Web Trader</span><span data-i18n-slot=\"4\"> or download </span><span data-i18n-slot=\"5\">MT5/4</span><span data-i18n-slot=\"6\"> and log in with your demo credentials.</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"></span><span data-i18n-slot=\"9\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"> 在仪表板上，点击 </span><span data-i18n-slot=\"1\">开始模拟交易</span><span data-i18n-slot=\"2\">。选择</span><span data-i18n-slot=\"3\">Web Trader</span><span data-i18n-slot=\"4\">或下载</span><span data-i18n-slot=\"5\">MT5/4</span><span data-i18n-slot=\"6\">并使用您的演示凭据登录。</span><span data-i18n-slot=\"7\"><span data-i18n-slot=\"8\"></span><span data-i18n-slot=\"9\"></span></span>"
+    },
+    {
+      "key": "t31f5751234092fbc",
+      "english": "<span data-i18n-slot=\"0\"> Ensure your demo balance reads </span><span data-i18n-slot=\"1\">₹10,000</span><span data-i18n-slot=\"2\">, then add pairs like EUR/USD your watchlist.</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span><span data-i18n-slot=\"5\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"> 确保您的演示余额为 </span><span data-i18n-slot=\"1\">10,000 卢比</span><span data-i18n-slot=\"2\">，然后将欧元/美元等货币对添加到您的关注列表中。</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\"></span><span data-i18n-slot=\"5\"></span></span>"
+    },
+    {
+      "key": "tf723bb8c264e5bce",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Why Beginners Should Always Demo First</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">为什么初学者应该首先演示</span></span>"
+    },
+    {
+      "key": "t14fb0bf6e10c8eae",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Zero-Stress Environment</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">零压力环境</span></span>"
+    },
+    {
+      "key": "t17afb279eaecf9d5",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Safe Failure</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">安全故障</span></span>"
+    },
+    {
+      "key": "tcf96d8ffb236eb77",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Emotional Mastery</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">情感掌控</span></span>"
+    },
+    {
+      "key": "t49a899a63cb8a840",
+      "english": "<span data-i18n-slot=\"0\">Micro-Lot Live Accounts:</span><span data-i18n-slot=\"1\"> Trade with tiny positions (0.01 lots) for a smooth transition.</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">小额真实账户：</span><span data-i18n-slot=\"1\">以小额头寸（0.01 手）进行交易，以实现平稳过渡。</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span><span data-i18n-slot=\"4\"></span></span>"
+    },
+    {
+      "key": "t9f1108df4526ea69",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">FAQs for Forex Trading for Beginners</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">外汇交易初学者常见问题解答</span></span>"
+    },
+    {
+      "key": "t842c86ffaf6f7fb9",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q1: How long should I demo trade before going live?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q1: 模拟交易需要多长时间才能上线？</span></span>"
+    },
+    {
+      "key": "t0f3620a9d486eac5",
+      "english": "<span data-i18n-slot=\"0\"> Aim for </span><span data-i18n-slot=\"1\">1–2 weeks</span><span data-i18n-slot=\"2\"> or </span><span data-i18n-slot=\"3\">15–30 demo trades</span><span data-i18n-slot=\"4\">, targeting small, consistent gains with ≤1% risk per trade.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">以</span><span data-i18n-slot=\"1\">1–2周</span><span data-i18n-slot=\"2\">或</span><span data-i18n-slot=\"3\">15–30笔模拟交易</span><span data-i18n-slot=\"4\">为目标，争取小而稳定的收益，每笔交易风险≤1%。</span>"
+    },
+    {
+      "key": "t85675ab1b3b14979",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q2: Can I use Expert Advisors (EAs) on demo?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q2：我可以在演示中使用智能交易系统 (EA) 吗？</span></span>"
+    },
+    {
+      "key": "t6dd10ef317350193",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q3: Do demo spreads match live?</span></span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span></span><span data-i18n-slot=\"4\"> UpForex mirrors live spreads and execution speeds in demo. Only extreme volatility may cause minor variances.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">问题 3：演示点差与实时点差相符吗？</span></span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"></span></span><span data-i18n-slot=\"4\"> UpForex 反映了演示中的实时点差和执行速度。只有极端的波动才可能导致微小的差异。</span>"
+    },
+    {
+      "key": "t0a9648e927dc3ec1",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q4: How do I bridge demo success to live profits?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">问题 4：如何将演示成功与实际利润联系起来？</span></span>"
+    },
+    {
+      "key": "t7becfc7f59dbf3c3",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Ready to Trade Smarter?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">准备好进行更智能的交易了吗？</span></span>"
+    },
+    {
+      "key": "t1c851ae0ddc8b0c8",
+      "english": "<span data-i18n-slot=\"0\">For </span><span data-i18n-slot=\"1\">forex trading for beginners</span><span data-i18n-slot=\"2\">, the smartest path is clear: </span><span data-i18n-slot=\"3\">demo first, live later</span><span data-i18n-slot=\"4\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-starting-with-a-demo-is-key-a-beginner#content",
+        "SSR:/blogs/why-starting-with-a-demo-is-key-a-beginner"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">对</span><span data-i18n-slot=\"1\">外汇交易初学者</span><span data-i18n-slot=\"2\">而言，最明智的路径很清楚：</span><span data-i18n-slot=\"3\">先模拟，再进行真实交易</span><span data-i18n-slot=\"4\">。</span>"
+    },
+    {
+      "key": "t656ab01558eb565d",
+      "english": "With over $7.5 trillion changing hands daily, the foreign currency (forex or FX) market is currently the largest financial marketplace in the world, with almost $850 million being transacted every second. Thanks to easily accessible online platforms, everyday investors can now participate in what was formerly the sole domain of banks and hedge funds.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "外汇（forex或FX）市场目前是全球最大的金融市场，每日交易额超过$7.5万亿，几乎每秒交易$850百万。借助容易使用的在线平台，普通投资者现在也可以参与此前仅属于银行和对冲基金的领域。"
+    },
+    {
+      "key": "t3f1c736fe57814d3",
+      "english": "Fundamentally, <span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">forex trading</span></span> entails purchasing one currency and selling another at the same time in an effort to profit from changes in their relative prices. For example, you would purchase EUR/USD now and sell it later at a higher rate if you think the euro will gain value relative to the US dollar. This Forex Trading for Beginners will equip you with the essentials—from understanding currency pairs and market hours to placing your first demo trade—so you can start your journey with confidence.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-start-forex-trading-for-beginners#content",
+        "SSR:/blogs/how-to-start-forex-trading-for-beginners"
+      ],
+      "translation": "从根本上来说，<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">外汇交易</span></span>需要同时购买一种货币并出售另一种货币，以从其相对价格的变化中获利。例如，如果您认为欧元相对于美元会升值，您可以现在购买欧元/美元，然后以更高的价格出售。本外汇交易初学者课程将为您提供从了解货币对和市场交易时间到进行首次模拟交易的基本知识，以便您可以充满信心地开始您的旅程。"
+    }
+  ]
+}

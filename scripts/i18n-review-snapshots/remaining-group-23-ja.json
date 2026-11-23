@@ -1,0 +1,507 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t39437f30e0e9cf78",
+      "english": "<span data-i18n-slot=\"0\">Beginners can access the market during these releases, but the conditions may be difficult because spreads, speed, and slippage can change quickly. Demo practice and observation may be more appropriate until the trader understands position sizing and execution risk.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初心者はこれらのリリース中に市場にアクセスできますが、スプレッド、スピード、スリッページが急速に変化する可能性があるため、状況が難しい場合があります。トレーダーがポジションサイジングと約定リスクを理解するまでは、デモの実践と観察の方が適切な場合があります。</span>"
+    },
+    {
+      "key": "t4158cac51581626f",
+      "english": "<span data-i18n-slot=\"0\">Prepare for the Event, Not Just the Direction</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-economic-events-move-the-market-nfp-cpi-fed#content",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">方向性だけでなくイベントの準備をする</span>"
+    },
+    {
+      "key": "t685901a53a2bd7a5",
+      "english": "<span data-i18n-slot=\"0\">An </span><span data-i18n-slot=\"1\">Introducing Broker (IB)</span><span data-i18n-slot=\"2\"> is a person or business that refers potential traders to a forex or CFD broker and may earn ongoing commission from eligible trading activity. The broker handles accounts, execution, deposits, withdrawals, and the trading platform, while the IB focuses on introductions, education, and client communication.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">紹介ブローカー（IB）</span><span data-i18n-slot=\"2\">とは、見込みトレーダーを外国為替またはCFDブローカーに紹介し、対象となる取引活動から継続的にコミッションを得る場合がある個人や企業です。ブローカーは口座、約定、入出金、取引プラットフォームを担当し、IBは紹介、教育、顧客とのコミュニケーションに重点を置きます。</span>"
+    },
+    {
+      "key": "t3d0c6ecc95872d6a",
+      "english": "<span data-i18n-slot=\"0\">This differs from a typical affiliate or cost-per-acquisition model. An affiliate is often paid once after a qualifying action, while an IB may continue receiving commission while accepted referred clients remain active under the agreement. Commission is commonly linked to trading volume, spread, or another agreed activity measure rather than sign-ups alone.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これは、典型的なアフィリエイトや獲得単価モデルとは異なります。アフィリエイトは多くの場合、適格なアクションの後に一度支払われますが、IB は、受け入れられた紹介クライアントが契約に基づいてアクティブなままである間、コミッションを受け取り続ける場合があります。手数料は一般に、サインアップだけではなく、取引量、スプレッド、またはその他の合意された活動指標に関連付けられます。</span>"
+    },
+    {
+      "key": "t909c36561da8b83e",
+      "english": "<span data-i18n-slot=\"0\">Quick Answer:</span><span data-i18n-slot=\"1\">Introducing Broker income is commission-based and depends on the trading activity of referred clients; it is not a fixed salary or guaranteed return. CFDs are leveraged products and carry a high level of risk; clients you refer should understand this risk before trading. UpForex operates through UP Global Markets Ltd (Mauritius FSC) and UPFOREX Financial Consultation LLC (UAE SCA). Always confirm current regulatory and program details directly with UpForex before entering into any partnership agreement.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">簡単な回答:</span><span data-i18n-slot=\"1\">イントロダクション ブローカーの収入は手数料ベースであり、紹介されたクライアントの取引活動によって異なります。固定給や保証された利益ではありません。 CFD はレバレッジ商品であり、高レベルのリスクを伴います。あなたが紹介するクライアントは、取引する前にこのリスクを理解する必要があります。 UpForex は、UP Global Markets Ltd (モーリシャス FSC) および UPFOREX Financial Consultation LLC (UAE SCA) を通じて動作します。パートナーシップ契約を締結する前に、常に UpForex で現在の規制とプログラムの詳細を直接確認してください。</span>"
+    },
+    {
+      "key": "tabb6b39c2b6c23a2",
+      "english": "<span data-i18n-slot=\"0\">An Introducing Broker is an independent person or business that introduces potential clients to a broker and may receive commission from eligible client trading activity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">イントロデューシング・ブローカーは、潜在的な顧客をブローカーに紹介する独立した個人または企業であり、適格な顧客の取引活動からコミッションを受け取る場合があります。</span>"
+    },
+    {
+      "key": "tc76255823af99c7a",
+      "english": "<span data-i18n-slot=\"0\">This forex and CFD model is different from the US regulatory term </span><span data-i18n-slot=\"1\">introducing broker-dealer</span><span data-i18n-slot=\"2\"> and from a futures Introducing Broker. Those roles have separate licensing and clearing requirements.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">この外国為替・CFDのモデルは、米国の規制上の用語である</span><span data-i18n-slot=\"1\">紹介ブローカー・ディーラー</span><span data-i18n-slot=\"2\">や、先物の紹介ブローカーとは異なります。これらの役割には、それぞれ別のライセンスと清算の要件があります。</span>"
+    },
+    {
+      "key": "t3b9d8a2a959b20e0",
+      "english": "<span data-i18n-slot=\"0\">How Do Introducing Brokers Earn Commission?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">紹介ブローカーはどのようにコミッションを獲得しますか?</span>"
+    },
+    {
+      "key": "t7318abb2e568815e",
+      "english": "<span data-i18n-slot=\"0\">Introducing Broker commission is generally connected to actual referred-client trading. Depending on the agreement, it may be calculated from eligible volume, spread contribution, account type, instrument, or another activity measure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">紹介ブローカーのコミッションは、一般に紹介顧客の実際の取引に結び付いています。契約によって、対象となる取引量、スプレッドへの寄与、口座タイプ、商品、その他の活動指標に基づいて計算される場合があります。</span>"
+    },
+    {
+      "key": "t450395d9db7d2273",
+      "english": "<span data-i18n-slot=\"0\">A registration alone may not generate commission. Before joining, confirm:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">登録だけでは手数料が発生しない場合があります。参加する前に、次のことを確認してください。</span>"
+    },
+    {
+      "key": "tc076751193819aa7",
+      "english": "<span data-i18n-slot=\"0\">Eligible accounts and instruments</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">対象となる口座と商品</span>"
+    },
+    {
+      "key": "t9ceb4775b89ac4ef",
+      "english": "<span data-i18n-slot=\"0\">Calculation method and exclusions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">計算方法と除外事項</span>"
+    },
+    {
+      "key": "tcea4cb95e6536ba5",
+      "english": "<span data-i18n-slot=\"0\">Client-attribution rules</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">クライアント帰属ルール</span>"
+    },
+    {
+      "key": "t6733e34a80059490",
+      "english": "<span data-i18n-slot=\"0\">Whether sub-IB arrangements exist</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">サブIB協定が存在するかどうか</span>"
+    },
+    {
+      "key": "t3431cc64c350930e",
+      "english": "<span data-i18n-slot=\"0\">Introducing Broker vs. Affiliate vs. Clearing Broker: What’s the Difference?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">イントロダクション・ブローカー、アフィリエイト、清算ブローカー: 違いは何ですか?</span>"
+    },
+    {
+      "key": "tf3a4c5d50efcacc7",
+      "english": "<span data-i18n-slot=\"0\">Clearing Broker</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">清算ブローカー</span>"
+    },
+    {
+      "key": "t6a828beeaae9d42c",
+      "english": "<span data-i18n-slot=\"0\">Generates leads or conversions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">見込み客やコンバージョンを生み出す</span>"
+    },
+    {
+      "key": "t1ee83facbdeacba8",
+      "english": "<span data-i18n-slot=\"0\">Institutional clearing fees</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">機関決済手数料</span>"
+    },
+    {
+      "key": "td807a5c25ca763c2",
+      "english": "<span data-i18n-slot=\"0\">Often limited after referral</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">紹介後に制限されることが多い</span>"
+    },
+    {
+      "key": "t76f6275c0dd350b8",
+      "english": "<span data-i18n-slot=\"0\">Operational clearing relationship</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オペレーショナル清算関係</span>"
+    },
+    {
+      "key": "t9018db52ae88968c",
+      "english": "<span data-i18n-slot=\"0\">Typical profile</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的なプロファイル</span>"
+    },
+    {
+      "key": "tecbf5f7fc2476c9d",
+      "english": "<span data-i18n-slot=\"0\">Handles clearing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">クリアリングを処理します</span>"
+    },
+    {
+      "key": "t1d0713a1487ccf95",
+      "english": "<span data-i18n-slot=\"0\">The key difference is continuity. An Introducing Broker program usually connects compensation to ongoing activity, while an affiliate arrangement may end after one qualifying conversion.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主な違いは継続性です。 IB プログラムは通常、継続的な活動に報酬を結び付けますが、アフィリエイト契約は 一 回の条件を満たすコンバージョン後に終了する場合があります。</span>"
+    },
+    {
+      "key": "te16a88008b6532c2",
+      "english": "<span data-i18n-slot=\"0\">Complete due diligence</span><span data-i18n-slot=\"1\"> covering your background and promotional channels.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">デューデリジェンスを完了します</span><span data-i18n-slot=\"1\">。対象には経歴や宣伝チャネルが含まれます。</span>"
+    },
+    {
+      "key": "t3b812a5f3092557f",
+      "english": "<span data-i18n-slot=\"0\">Earn commission from eligible activity</span><span data-i18n-slot=\"1\"> under the signed terms.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">署名された規約に基づき、対象となるアクティビティからコミッションを獲得</span><span data-i18n-slot=\"1\">してください。</span>"
+    },
+    {
+      "key": "tac34a3ce84ffa9a0",
+      "english": "<span data-i18n-slot=\"0\">What Makes a Strong Introducing Broker Program?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">強力な紹介ブローカー プログラムの特徴は何ですか?</span>"
+    },
+    {
+      "key": "t54f105202150985e",
+      "english": "<span data-i18n-slot=\"0\">The </span><span data-i18n-slot=\"1\">best Introducing Broker programs</span><span data-i18n-slot=\"2\"> are not necessarily those advertising the largest rate. Review:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">最良の紹介ブローカープログラム</span><span data-i18n-slot=\"2\">は、必ずしも最高のコミッション率を宣伝しているものとは限りません。次を確認してください：</span>"
+    },
+    {
+      "key": "t5e4c80746a55a166",
+      "english": "<span data-i18n-slot=\"0\">Who Should Consider Becoming an Introducing Broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">誰が紹介ブローカーになることを検討すべきですか?</span>"
+    },
+    {
+      "key": "t3d12f000a8b76724",
+      "english": "<span data-i18n-slot=\"0\">How to Become an Introducing Broker with UpForex</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">UpForex で紹介ブローカーになる方法</span>"
+    },
+    {
+      "key": "t3319788c46477366",
+      "english": "<span data-i18n-slot=\"0\">3. Test the Client Journey</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3. クライアント ジャーニーをテストする</span>"
+    },
+    {
+      "key": "t67cc7dea9f032cc0",
+      "english": "<span data-i18n-slot=\"0\">Use the option to</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">start with a demo account</span></span><span data-i18n-slot=\"4\"> before referring live clients. Demo conditions do not reproduce every live-market factor, but they help you understand the platform process.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">実際のクライアントを紹介する前に、オプションを使用して</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">デモ アカウントから開始します</span></span><span data-i18n-slot=\"4\">。デモの状態は実際の市場のすべての要素を再現するわけではありませんが、プラットフォームのプロセスを理解するのに役立ちます。</span>"
+    },
+    {
+      "key": "t0d7fd465718c4537",
+      "english": "<span data-i18n-slot=\"0\">4. Review Account Types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4. アカウントの種類を確認する</span>"
+    },
+    {
+      "key": "t6e68b6d92b66ffef",
+      "english": "<span data-i18n-slot=\"0\">Study spreads, commissions, minimum deposits, leverage, and instruments.</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Compare UpForex account types</span></span><span data-i18n-slot=\"4\"> instead of relying on old promotional material.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッド、コミッション、最低入金額、レバレッジ、商品を確認してください。</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">UpForexの口座タイプを比較してください</span></span><span data-i18n-slot=\"4\">。古い宣伝資料に頼らないようにしてください。</span>"
+    },
+    {
+      "key": "tfb257981e76051ef",
+      "english": "<span data-i18n-slot=\"0\">6. Complete Onboarding and Begin Referring</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">6. オンボーディングを完了して紹介を開始する</span>"
+    },
+    {
+      "key": "t1c643ebde47fe86d",
+      "english": "<span data-i18n-slot=\"0\">Referring clients without understanding the platform</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プラットフォームを理解せずにクライアントを紹介する</span>"
+    },
+    {
+      "key": "tff16b50f4229b1f5",
+      "english": "<span data-i18n-slot=\"0\">Ignoring the broker’s current legal and regulatory documents</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ブローカーの現在の法的規制文書を無視する</span>"
+    },
+    {
+      "key": "t92181d732131ca3b",
+      "english": "<span data-i18n-slot=\"0\">Publishing outdated account conditions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">古いアカウント条件の公開</span>"
+    },
+    {
+      "key": "tbf7a8d25592e8ccd",
+      "english": "<span data-i18n-slot=\"0\">Failing to disclose the commercial relationship</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">商業関係を開示しない</span>"
+    },
+    {
+      "key": "ta95f9b2856abc01e",
+      "english": "<span data-i18n-slot=\"0\">Not checking commission reports</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">コミッションレポートをチェックしていない</span>"
+    },
+    {
+      "key": "t02970222ab1d0542",
+      "english": "<span data-i18n-slot=\"0\">What is an Introducing Broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">紹介ブローカーとは何ですか?</span>"
+    },
+    {
+      "key": "t9e3b98a1998e29e7",
+      "english": "<span data-i18n-slot=\"0\">An Introducing Broker is a person or business that refers prospective clients to a broker and may earn commission from eligible trading activity. The broker provides the accounts, platform, execution, and compliance framework, while the IB focuses on referrals, education, and relationship support.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">紹介ブローカーとは、見込み顧客をブローカーに紹介し、対象となる取引活動からコミッションを得る場合がある個人や企業です。ブローカーは口座、プラットフォーム、約定、コンプライアンスの枠組みを提供し、IBは紹介、教育、顧客関係の支援に重点を置きます。</span>"
+    },
+    {
+      "key": "tf7f6c40d008eca1f",
+      "english": "<span data-i18n-slot=\"0\">How do Introducing Brokers get paid?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">紹介ブローカーの報酬はどのように支払われますか?</span>"
+    },
+    {
+      "key": "tdb6a603a61ab15ce",
+      "english": "<span data-i18n-slot=\"0\">Introducing Brokers are paid according to their agreement, often using eligible client volume, spread contribution, or another activity-based calculation. Registration alone may not qualify. Rates, exclusions, payment timing, and reporting should be confirmed before signing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">IB ブローカーは、多くの場合、適格な顧客ボリューム、スプレッド貢献、またはその他の活動ベースの計算を使用して、契約に従って支払われます。登録だけでは対象外となる場合があります。署名する前に、料金、除外、支払いのタイミング、レポートを確認する必要があります。</span>"
+    },
+    {
+      "key": "tf4fa55cdd6f9b6a5",
+      "english": "<span data-i18n-slot=\"0\">How much can an Introducing Broker earn?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">IB ブローカーはいくら稼げますか?</span>"
+    },
+    {
+      "key": "tb991a6d98e3551d5",
+      "english": "<span data-i18n-slot=\"0\">There is no fixed Introducing Broker salary or universal income figure. Earnings vary with the agreement, accepted referrals, eligible trading activity, instruments, and rates. Some periods may generate little or no commission.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">IB ブローカーの固定給与や普遍的な収入額はありません。収益は、契約、承認された紹介、適格な取引活動、商品、レートによって異なります。期間によっては、手数料がほとんどまたはまったく発生しない場合があります。</span>"
+    },
+    {
+      "key": "td2d84e94a30ccbb8",
+      "english": "<span data-i18n-slot=\"0\">Do I need a license to become an Introducing Broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">IB 業者になるにはライセンスが必要ですか?</span>"
+    },
+    {
+      "key": "t837fbd2c53ff2154",
+      "english": "<span data-i18n-slot=\"0\">Is there a cost to become an Introducing Broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">IB ブローカーになるには費用がかかりますか?</span>"
+    },
+    {
+      "key": "t4fe558438a15fc3f",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between an Introducing Broker and an affiliate?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">IB ブローカーとアフィリエイトの違いは何ですか?</span>"
+    },
+    {
+      "key": "t5289c14ed135d8e4",
+      "english": "<span data-i18n-slot=\"0\">What is an Introducing Broker agreement?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">IB 契約とは何ですか?</span>"
+    },
+    {
+      "key": "t6adbc095326db0f9",
+      "english": "<span data-i18n-slot=\"0\">Becoming an Introducing Broker may suit educators, creators, and professionals who already serve a trading-interested audience and can maintain an ongoing relationship. The opportunity depends on client activity, accurate communication, and written terms rather than a promised income.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-become-an-introducing-broker#content",
+        "SSR:/blogs/how-to-become-an-introducing-broker"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">IB ブローカーになることは、すでに取引に興味のある聴衆にサービスを提供し、継続的な関係を維持できる教育者、クリエイター、専門家に適しているかもしれません。その機会は、約束された収入ではなく、顧客の活動、正確なコミュニケーション、書面による条件によって決まります。</span>"
+    }
+  ]
+}

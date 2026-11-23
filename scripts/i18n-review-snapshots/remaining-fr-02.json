@@ -1,0 +1,1213 @@
+{
+  "language": "fr",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t4781fbb4c348f008",
+      "english": "<span data-i18n-slot=\"0\">Equity: $4,600</span>",
+      "translation": "<span data-i18n-slot=\"0\">Capitaux propres&nbsp;: 4,600&nbsp;$</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tbd31d5b60a96c3e0",
+      "english": "<span data-i18n-slot=\"0\">The figures below are hypothetical and are included only to demonstrate the relationship between Balance, floating P/L and Equity.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les chiffres ci-dessous sont hypothétiques et sont inclus uniquement pour démontrer la relation entre le solde, le résultat flottant et les capitaux propres.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t453e3ef770c9bc39",
+      "english": "<span data-i18n-slot=\"0\">Stage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Étape</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "CMS:blogs/what-is-drawdown-in-trading#content",
+        "CMS:blogs/copy-trading-and-social-trading-explained#content",
+        "SSR:/blogs/what-is-account-equity-in-trading",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/copy-trading-and-social-trading-explained"
+      ]
+    },
+    {
+      "key": "tbfdec96c193d01d8",
+      "english": "<span data-i18n-slot=\"0\">Equity</span>",
+      "translation": "<span data-i18n-slot=\"0\">Capitaux propres</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t7ec72be1b96b8fe9",
+      "english": "<span data-i18n-slot=\"0\">Position just opened</span>",
+      "translation": "<span data-i18n-slot=\"0\">Position tout juste ouverte</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "te57710a0f9d66f28",
+      "english": "<span data-i18n-slot=\"0\">Price moves favorably</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le prix évolue favorablement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t9a7d6799395f83dd",
+      "english": "<span data-i18n-slot=\"0\">Price later moves unfavorably</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le prix évolue ultérieurement de manière défavorable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tc1f2f08c2dc0c4ce",
+      "english": "<span data-i18n-slot=\"0\">When the Position Opens</span>",
+      "translation": "<span data-i18n-slot=\"0\">À l’ouverture de la position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "td50c5f53b39d7d3f",
+      "english": "<span data-i18n-slot=\"0\">Balance still shows:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le solde indique toujours&nbsp;:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t2047a6b075e0e2b4",
+      "english": "<span data-i18n-slot=\"0\">What Happens With More Than One Open Position?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Que se passe-t-il avec plusieurs positions ouvertes ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tb62e663d5a0ca345",
+      "english": "<span data-i18n-slot=\"0\">Position A</span>",
+      "translation": "<span data-i18n-slot=\"0\">Position&nbsp;A</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "ta73c5d26ce6f8826",
+      "english": "<span data-i18n-slot=\"0\">Position B</span>",
+      "translation": "<span data-i18n-slot=\"0\">Position B</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "td8b1654eee2d4190",
+      "english": "<span data-i18n-slot=\"0\">Total Account Equity Value</span>",
+      "translation": "<span data-i18n-slot=\"0\">Valeur totale des capitaux propres du compte</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "ta4fdb113f6a0c0c9",
+      "english": "<span data-i18n-slot=\"0\">Balance:</span><span data-i18n-slot=\"1\"> settled account value</span>",
+      "translation": "<span data-i18n-slot=\"0\">Solde :</span><span data-i18n-slot=\"1\"> valeur du compte après règlement</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tceb3193912420e43",
+      "english": "<span data-i18n-slot=\"0\">Equity:</span><span data-i18n-slot=\"1\"> current value including floating P/L</span>",
+      "translation": "<span data-i18n-slot=\"0\">Capitaux propres :</span><span data-i18n-slot=\"1\"> valeur actuelle incluant le P/L flottant</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t8aecfd9997e48bc7",
+      "english": "<span data-i18n-slot=\"0\">Why Does Equity Matter?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pourquoi les capitaux propres sont-ils importants ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tb73e7cc9ef198dc5",
+      "english": "<span data-i18n-slot=\"0\">Equity = $8,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Capitaux propres&nbsp;=&nbsp;8,000&nbsp;$</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t0a88de67aa5cd347",
+      "english": "<span data-i18n-slot=\"0\">Practical Checks When Positions Are Open</span>",
+      "translation": "<span data-i18n-slot=\"0\">Vérifications pratiques lorsque des positions sont ouvertes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tbff95725046015d3",
+      "english": "<span data-i18n-slot=\"0\">Check Equity before opening or adding another position.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Vérifiez les capitaux propres avant d’ouvrir ou d’ajouter une autre position.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tb765564c6db009ce",
+      "english": "<span data-i18n-slot=\"0\">Compare Equity with Balance to understand the net effect of current trades.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comparez les capitaux propres avec le solde pour comprendre l'effet net des transactions en cours.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t4b15e57501092049",
+      "english": "<span data-i18n-slot=\"0\">Equity = $4,000</span>",
+      "translation": "<span data-i18n-slot=\"0\">Capitaux propres&nbsp;=&nbsp;4,000&nbsp;$</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "td34ba5f571423247",
+      "english": "<span data-i18n-slot=\"0\">Equity and an Equity Curve Are the Same Thing</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les capitaux propres et une courbe de capitaux propres sont la même chose</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t1e134e01448a29f7",
+      "english": "<span data-i18n-slot=\"0\">What happens to floating P/L when a trade closes?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu'arrive-t-il au P/L flottant à la clôture d'une transaction&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "t4ef2753e4f90c4ce",
+      "english": "<span data-i18n-slot=\"0\">Does account balance change while a forex trade is open?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le solde du compte change-t-il pendant qu'une transaction de change est ouverte&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-account-equity-in-trading#content",
+        "SSR:/blogs/what-is-account-equity-in-trading"
+      ]
+    },
+    {
+      "key": "tf6573a24c96376f6",
+      "english": "<span data-i18n-slot=\"0\">Standard, Mini, and Micro Lots Explained</span>",
+      "translation": "<span data-i18n-slot=\"0\">Explication des lots standard, mini et micro</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t4c49652101120493",
+      "english": "<span data-i18n-slot=\"0\">Units of Base Currency</span>",
+      "translation": "<span data-i18n-slot=\"0\">Unités de devise de base</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t9176ca6e17f6dff2",
+      "english": "<span data-i18n-slot=\"0\">Smaller position sizing than a standard lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">Taille de position plus petite qu'un lot standard</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t816fa5c4c5aa79d0",
+      "english": "<span data-i18n-slot=\"0\">Micro Lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">Microlot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t1abde346ff7a5f26",
+      "english": "<span data-i18n-slot=\"0\">Fine-grained sizing for smaller calculated exposure</span>",
+      "translation": "<span data-i18n-slot=\"0\">Dimensionnement précis pour une exposition calculée plus faible</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t38e532860fca7744",
+      "english": "<span data-i18n-slot=\"0\">Nano Lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">Nanolot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t081640484c4610c6",
+      "english": "<span data-i18n-slot=\"0\">1 lot EUR/USD = 100,000 EUR</span>",
+      "translation": "<span data-i18n-slot=\"0\">1 lot EUR/USD = 100,000 EUR</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t462d23fc2f154e46",
+      "english": "<span data-i18n-slot=\"0\">1 lot GBP/USD = 100,000 GBP</span>",
+      "translation": "<span data-i18n-slot=\"0\">1 lot GBP/USD = 100,000 GBP</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t70f5d9930448cf87",
+      "english": "<span data-i18n-slot=\"0\">1 lot USD/JPY = 100,000 USD</span>",
+      "translation": "<span data-i18n-slot=\"0\">1 lot USD/JPY = 100,000 USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t7bab6abdae39b72d",
+      "english": "<span data-i18n-slot=\"0\">0.10 lot = 1 mini lot</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.10 lot = 1 mini lot</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t0220a0e9dc7e1e59",
+      "english": "<span data-i18n-slot=\"0\">This gives one-tenth of the exposure of a standard forex lot in the same currency pair.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cela donne un dixième de l'exposition d'un lot de devises standard dans la même paire de devises.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "ta3523c994751f86b",
+      "english": "<span data-i18n-slot=\"0\">A micro lot is a trade-volume measurement. It should not be confused with a separate “micro account” product; UPFOREX's published account tiers are Standard, Pro-ECN and Elite-ECN.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un microlot est une mesure du volume des échanges. Il ne doit pas être confondu avec un produit distinct « micro-compte »&nbsp;; Les niveaux de compte publiés de UPFOREX sont Standard, Pro-ECN et Elite-ECN.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t9973999ab8fa2024",
+      "english": "<span data-i18n-slot=\"0\">Lot Size = Risk Amount ÷ (Stop-Loss Distance × Pip Value per 1.00 Lot)</span>",
+      "translation": "<span data-i18n-slot=\"0\">Taille du lot = Montant du risque ÷ (Distance stop-loss × Valeur du pip par lot de 1.00)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t1a2930d51ffc9dbb",
+      "english": "<span data-i18n-slot=\"0\">Assume:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Supposons&nbsp;:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "CMS:blogs/how-to-calculate-forex-position-size:-formula,-lot-size-&-risk-examples#content",
+        "SSR:/blogs/what-is-lot-size-in-forex",
+        "SSR:/blogs/how-to-calculate-forex-position-size-formula-lot-size-risk-examples"
+      ]
+    },
+    {
+      "key": "td8ccc3ee191a4e8c",
+      "english": "<span data-i18n-slot=\"0\">Higher leverage does not transform a micro lot into a mini or standard lot. Likewise, reducing lot size does not change the leverage ratio itself.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un effet de levier plus élevé ne transforme pas un micro-lot en un mini-lot ou un lot standard. De même, la réduction de la taille des lots ne modifie pas le ratio de levier lui-même.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t127ce2f57cb12707",
+      "english": "<span data-i18n-slot=\"0\">This distinction is important for searches such as “0.01 lot size in dollars.”</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cette distinction est importante pour les recherches telles que « taille de lot de 0.01 en dollars ».</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "tfc4c4243a8b43767",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot = 1,000 EUR</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.01 lot = 1,000 EUR</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t89f392dde62ac477",
+      "english": "<span data-i18n-slot=\"0\">0.10 lot = 10,000 EUR</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.10 lot = 10,000 EUR</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t5461df918517e7c7",
+      "english": "<span data-i18n-slot=\"0\">1.00 lot = 100,000 EUR</span>",
+      "translation": "<span data-i18n-slot=\"0\">1.00 lot = 100,000 EUR</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t10341f17e3384da7",
+      "english": "<span data-i18n-slot=\"0\">0.01 lot = 1,000 USD</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.01 lot = 1,000 USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t8acd64a1363e5ab7",
+      "english": "<span data-i18n-slot=\"0\">0.10 lot = 10,000 USD</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.10 lot = 10,000 USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "tcfbf8e250170be07",
+      "english": "<span data-i18n-slot=\"0\">1.00 lot = 100,000 USD</span>",
+      "translation": "<span data-i18n-slot=\"0\">1.00 lot = 100,000&nbsp;USD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t2ab0b91dc29932f7",
+      "english": "<span data-i18n-slot=\"0\">Can I trade less than a micro lot?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Puis-je échanger moins d'un microlot&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t588fb8f85e4680e8",
+      "english": "<span data-i18n-slot=\"0\">A micro lot equals 0.01 standard lots, or 1,000 base-currency units in forex. Smaller nano lots of 100 units exist in some trading environments, but they are not universally available. UPFOREX currently publishes 0.01 as the minimum lot size for its account tiers, so permitted volume should be checked before placing an order.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un microlot équivaut à 0.01 lot standard, soit 1,000 unités de devise de base sur le forex. Des nanolots plus petits de 100 unités existent dans certains environnements de trading, mais ils ne sont pas disponibles partout. UPFOREX publie actuellement 0.01 comme taille minimale de lot pour ses catégories de comptes ; il faut donc vérifier le volume autorisé avant de passer un ordre.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-lot-size-in-forex#content",
+        "SSR:/blogs/what-is-lot-size-in-forex"
+      ]
+    },
+    {
+      "key": "t575f4852b214aab0",
+      "english": "<span data-i18n-slot=\"0\">A forex </span><span data-i18n-slot=\"1\">quote</span><span data-i18n-slot=\"2\"> shows the current two-sided price for a currency pair. The </span><span data-i18n-slot=\"3\">bid</span><span data-i18n-slot=\"4\"> is the price at which a trader can generally sell the pair, while the </span><span data-i18n-slot=\"5\">ask</span><span data-i18n-slot=\"6\"> is the price at which a trader can generally buy it. The difference between those two prices is the </span><span data-i18n-slot=\"7\">spread</span><span data-i18n-slot=\"8\">.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une </span><span data-i18n-slot=\"1\">cotation</span><span data-i18n-slot=\"2\"> de forex indique le prix bilatéral actuel d'une paire de devises. Le </span><span data-i18n-slot=\"3\">bid</span><span data-i18n-slot=\"4\"> est le prix auquel un trader peut généralement vendre la paire, tandis que le </span><span data-i18n-slot=\"5\">ask</span><span data-i18n-slot=\"6\"> est le prix auquel un trader peut généralement l'acheter. La différence entre ces deux prix est le </span><span data-i18n-slot=\"7\">spread</span><span data-i18n-slot=\"8\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t6f23096dde2b38af",
+      "english": "<span data-i18n-slot=\"0\">What Is a Forex Quote?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu'est-ce qu'une cotation Forex&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tc08c9d4fddce5ae5",
+      "english": "<span data-i18n-slot=\"0\">A forex quote is the two-sided market price displayed for a currency pair at a particular moment.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une cotation Forex est le prix de marché bilatéral affiché pour une paire de devises à un moment donné.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t5b4b404d0671a3cd",
+      "english": "<span data-i18n-slot=\"0\">1.0848</span><span data-i18n-slot=\"1\"> = bid</span>",
+      "translation": "<span data-i18n-slot=\"0\">1.0848</span><span data-i18n-slot=\"1\"> = cours acheteur (bid)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t5ec3d96cf68d7586",
+      "english": "<span data-i18n-slot=\"0\">Difference = spread</span>",
+      "translation": "<span data-i18n-slot=\"0\">Différence = spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t6b8cba32d63d457e",
+      "english": "<span data-i18n-slot=\"0\">What Are the Bid and Ask Prices in a Forex Quote?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Que sont les prix acheteur et vendeur dans une cotation Forex&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t85d9b5dd302728e7",
+      "english": "<span data-i18n-slot=\"0\">The bid is the price associated with selling the currency pair, while the ask is the price associated with buying it.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le bid est le cours associé à la vente de la paire de devises, tandis que l’ask est le cours associé à son achat.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tc6c9baa9b1717459",
+      "english": "<span data-i18n-slot=\"0\">If a trader submits a market sell, the relevant quoted side is approximately the bid at 1.0848.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Si un trader passe un ordre de vente au marché, le côté pertinent de la cotation est approximativement le cours acheteur de 1.0848.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t9b560dd666d9809e",
+      "english": "<span data-i18n-slot=\"0\">If a trader submits a market buy, the relevant quoted side is approximately the ask at 1.0850.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Si un trader soumet un achat sur le marché, le côté coté pertinent est approximativement le cours vendeur à 1.0850.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "ta35959878ae6a31f",
+      "english": "<span data-i18n-slot=\"0\">Actual execution can differ from the displayed quote when prices move or market conditions change, but the two-sided quote tells the trader which side of the market applies to each direction.</span>",
+      "translation": "<span data-i18n-slot=\"0\">L'exécution réelle peut différer de la cotation affichée lorsque les prix évoluent ou que les conditions du marché changent, mais la cotation bilatérale indique au trader quel côté du marché s'applique à chaque direction.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tb101bccc09d7c0d2",
+      "english": "<span data-i18n-slot=\"0\">Bid</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cours acheteur (bid)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t860c950eaf371084",
+      "english": "<span data-i18n-slot=\"0\">Ask</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cours vendeur (ask)</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t9fb59a61858e6fbd",
+      "english": "<span data-i18n-slot=\"0\">Difference between ask and bid</span>",
+      "translation": "<span data-i18n-slot=\"0\">Différence entre les cours vendeur et acheteur</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t9a60d0e7cb45b1f3",
+      "english": "<span data-i18n-slot=\"0\">The two-sided market price</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le prix du marché bilatéral</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t4f3ff4088c72c798",
+      "english": "<span data-i18n-slot=\"0\">The ask is normally above the bid. That gap is what creates the spread.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le cours vendeur est normalement supérieur au cours acheteur. Cet écart constitue le spread.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tc3b14d646a76af80",
+      "english": "<span data-i18n-slot=\"0\">What Is the Spread in a Forex Quote?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Quel est le spread dans une cotation Forex&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t7cea19c403db76f8",
+      "english": "<span data-i18n-slot=\"0\">The spread is the difference between the ask price and the bid price.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le spread est la différence entre le prix vendeur et le prix acheteur.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t0283c76c3b0d0b9a",
+      "english": "<span data-i18n-slot=\"0\">Bid: 1.0848</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Ask: 1.0850</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cours acheteur : 1.0848</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"></span></span><span data-i18n-slot=\"3\">Cours vendeur : 1.0850</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "td2d02ba0f0dbb384",
+      "english": "<span data-i18n-slot=\"0\">What Is a Direct vs an Indirect Quote?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu’est-ce qu’une cotation directe par rapport à une cotation indirecte ?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t72165e29c22440a7",
+      "english": "<span data-i18n-slot=\"0\">A direct quote expresses how much domestic currency is required for one unit of a foreign currency, while an indirect quote expresses how much foreign currency corresponds to one unit of domestic currency.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une cotation directe exprime la quantité de monnaie nationale requise pour une unité de monnaie étrangère, tandis qu'une cotation indirecte exprime la quantité de devise étrangère correspondant à une unité de monnaie nationale.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tfd4d06035b4f9e51",
+      "english": "<span data-i18n-slot=\"0\">This expresses one unit of the domestic currency in terms of the foreign currency.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cela exprime une unité de la monnaie nationale par rapport à la devise étrangère.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t8122e3e7d9932c9d",
+      "english": "<span data-i18n-slot=\"0\">What Do Base and Quote Currency Mean Here?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Que signifient ici les devises de base et de cotation&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t0bf8db81db01de4f",
+      "english": "<span data-i18n-slot=\"0\">USD is the quote currency.</span>",
+      "translation": "<span data-i18n-slot=\"0\">USD est la devise de cotation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "td0a4885849231346",
+      "english": "<span data-i18n-slot=\"0\">How Do You Read a Full Forex Quote?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment lire une cotation Forex complète&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t7be143a9edbcbdbb",
+      "english": "<span data-i18n-slot=\"0\">The easiest way to understand a forex quote is to work through both sides of one example and then watch the quote move.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le moyen le plus simple de comprendre une cotation Forex est de parcourir les deux côtés d'un exemple, puis d'observer l'évolution de la cotation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t3ac9d67d41907e75",
+      "english": "<span data-i18n-slot=\"0\">Step 1: Read the Starting Quote</span>",
+      "translation": "<span data-i18n-slot=\"0\">Étape 1 : Lire la cotation initiale</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t08c2de5812382494",
+      "english": "<span data-i18n-slot=\"0\">Bid = 1.0848</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cours acheteur = 1.0848</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t86abe8e1522b454b",
+      "english": "<span data-i18n-slot=\"0\">Ask = 1.0850</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cours vendeur = 1.0850</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t03dce32974be9e99",
+      "english": "<span data-i18n-slot=\"0\">Spread = 2 pips</span>",
+      "translation": "<span data-i18n-slot=\"0\">Écart de prix = 2 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t36775be552c4da2b",
+      "english": "<span data-i18n-slot=\"0\">A trader buying EUR/USD would look at the ask side.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Un trader qui achète de l'EUR/USD regarderait du côté vendeur.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "td10af0c9e8ceb72f",
+      "english": "<span data-i18n-slot=\"0\">The ask matters because the trader is buying the base currency.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le cours vendeur est important, car le trader achète la devise de base.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t78cd0e1a101923fa",
+      "english": "<span data-i18n-slot=\"0\">Step 4: Watch the Quote Move</span>",
+      "translation": "<span data-i18n-slot=\"0\">Étape&nbsp;4&nbsp;: Regardez le mouvement de la cotation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t0cbbb4631433590d",
+      "english": "<span data-i18n-slot=\"0\">Now assume the quote changes from:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Supposons maintenant que la cotation passe de :</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t7741a9bafd5e4a6c",
+      "english": "<span data-i18n-slot=\"0\">Both the bid and ask have risen by 2 pips.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les cours acheteur et vendeur ont tous deux augmenté de 2 pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tba8cbfaba5cd33a3",
+      "english": "<span data-i18n-slot=\"0\">Quote Stage</span>",
+      "translation": "<span data-i18n-slot=\"0\">Étape de la cotation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tadc3e0a95d0f08d5",
+      "english": "<span data-i18n-slot=\"0\">2 pips</span>",
+      "translation": "<span data-i18n-slot=\"0\">2 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t44e5845339c7e1e9",
+      "english": "<span data-i18n-slot=\"0\">Later quote</span>",
+      "translation": "<span data-i18n-slot=\"0\">Cotation ultérieure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t7091c16e0de8091e",
+      "english": "<span data-i18n-slot=\"0\">+2 pips</span>",
+      "translation": "<span data-i18n-slot=\"0\">+2 pips</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tf9c462ce5fffc132",
+      "english": "<span data-i18n-slot=\"0\">The pair has moved upward while the spread has remained 2 pips.</span>",
+      "translation": "<span data-i18n-slot=\"0\">La paire a augmenté tandis que le spread est resté à 2 pips.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t62362b59b10c4155",
+      "english": "<span data-i18n-slot=\"0\">Suppose a trader had entered a long position near the original ask of 1.0850.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Supposons qu'un trader ait pris une position longue proche du cours vendeur initial de 1.0850.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t43951ba97688f6c5",
+      "english": "<span data-i18n-slot=\"0\">At the later quote, the bid is now 1.0850. Because a long position is normally closed against the bid side, the market has moved enough for the new bid to reach the original illustrative entry price, before considering any other trading costs or execution differences.</span>",
+      "translation": "<span data-i18n-slot=\"0\">À la cotation ultérieure, le cours acheteur est désormais de 1.0850. Comme une position longue est normalement clôturée au cours acheteur, le marché a suffisamment évolué pour que le nouveau cours acheteur atteigne le prix d’entrée initial donné à titre d’exemple, avant prise en compte des autres coûts de trading ou différences d’exécution.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t21d661ca434613f4",
+      "english": "<span data-i18n-slot=\"0\">This is why reading only the middle of a quote or only one price can create confusion. The relevant side changes according to what the trader is doing.</span>",
+      "translation": "<span data-i18n-slot=\"0\">C’est pourquoi ne lire que le milieu d’une cotation ou un seul prix peut prêter à confusion. Le côté pertinent change selon ce que fait le trader.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tf7fa1e85cf0d3a67",
+      "english": "<span data-i18n-slot=\"0\">0.0001 = 1 pip</span>",
+      "translation": "<span data-i18n-slot=\"0\">0.0001 = 1 pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tff8d5e2f2e8c1647",
+      "english": "<span data-i18n-slot=\"0\">that side of the quote has moved by 1 pip.</span>",
+      "translation": "<span data-i18n-slot=\"0\">ce côté de la cotation a été déplacé de 1 pip.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tcce713c0696a492c",
+      "english": "<span data-i18n-slot=\"0\">A rising forex quote means the base currency is becoming more valuable relative to the quote currency, while a falling quote indicates the opposite relationship.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une cotation du Forex en hausse signifie que la devise de base devient plus précieuse par rapport à la devise de cotation, tandis qu'une cotation en baisse indique la relation inverse.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "td61dbb16636497a4",
+      "english": "<span data-i18n-slot=\"0\">If the quote instead falls to:</span>",
+      "translation": "<span data-i18n-slot=\"0\">Si la cotation baisse plutôt à :</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tcb855ad249d3a31c",
+      "english": "<span data-i18n-slot=\"0\">A short position generally benefits from downward movement after accounting for the relevant bid/ask sides.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une position courte bénéficie généralement d'un mouvement à la baisse après avoir pris en compte les côtés acheteur/vendeur pertinents.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t877b427cbf1ac9d8",
+      "english": "<span data-i18n-slot=\"0\">The key is to compare like with like. When assessing movement, compare bid with bid or ask with ask rather than comparing the original bid directly with a later ask.</span>",
+      "translation": "<span data-i18n-slot=\"0\">L’essentiel est de comparer ce qui est comparable. Pour évaluer une variation, comparez le cours acheteur avec le cours acheteur, ou le cours vendeur avec le cours vendeur, au lieu de comparer directement le cours acheteur initial avec un cours vendeur ultérieur.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t6da5699ca70a4c6e",
+      "english": "<span data-i18n-slot=\"0\">What Is the Difference Between a Live and Static Forex Quote?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Quelle est la différence entre une cotation Forex en direct et statique&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "te790b64db3124999",
+      "english": "<span data-i18n-slot=\"0\">Someone searching specifically for a “live forex quote” is therefore usually looking for real-time market data rather than an educational definition.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une personne recherchant spécifiquement une « cotation forex en direct » recherche donc généralement des données de marché en temps réel plutôt qu'une définition éducative.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t1fa485c1e69df3b7",
+      "english": "<span data-i18n-slot=\"0\">What Are Common Mistakes When Reading a Forex Quote?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Quelles sont les erreurs courantes lors de la lecture d'une cotation Forex&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "td1bcb972cb0e1e62",
+      "english": "<span data-i18n-slot=\"0\">Confusing Bid and Ask</span>",
+      "translation": "<span data-i18n-slot=\"0\">Confondre les cours acheteur et vendeur</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t192842f20d2977e8",
+      "english": "<span data-i18n-slot=\"0\">Ignoring the Spread</span>",
+      "translation": "<span data-i18n-slot=\"0\">Ignorer le spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t5cb8cdd042af8592",
+      "english": "<span data-i18n-slot=\"0\">If a position was opened using the ask, its closing value should not automatically be judged using another ask price.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Si une position a été ouverte à l'aide du cours vendeur, sa valeur de clôture ne doit pas être automatiquement jugée à l'aide d'un autre cours vendeur.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tb07124d2a5ba7404",
+      "english": "<span data-i18n-slot=\"0\">For a long position, the bid becomes relevant when closing.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Pour une position longue, le cours acheteur devient pertinent lors de la clôture.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t052201b5a973710b",
+      "english": "<span data-i18n-slot=\"0\">Assuming the Quote Is Fixed</span>",
+      "translation": "<span data-i18n-slot=\"0\">Supposer que la cotation est fixe</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t1d58339ee703034c",
+      "english": "<span data-i18n-slot=\"0\">Quotes update continuously when the market is active.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Les cotations sont mises à jour en permanence lorsque le marché est actif.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "taea19cafdce1ce5d",
+      "english": "<span data-i18n-slot=\"0\">Confusing Quote Currency With a Forex Quote</span>",
+      "translation": "<span data-i18n-slot=\"0\">Confondre la devise de cotation avec une cotation Forex</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t64b347f2efca7c96",
+      "english": "<span data-i18n-slot=\"0\">How Do You View Forex Quotes on UPFOREX MT5?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment afficher les cotations Forex sur UPFOREX MT5&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t06b6300fe514b813",
+      "english": "<span data-i18n-slot=\"0\">Identify the bid and ask.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Identifiez les cours acheteur et vendeur.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "td7c8f05bfc614e41",
+      "english": "<span data-i18n-slot=\"0\">Calculate the spread between them.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Calculez l'écart entre eux.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t4cb2798d594afd0f",
+      "english": "<span data-i18n-slot=\"0\">What is a forex quote?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu'est-ce qu'une cotation Forex&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t8f2c11200bc37b24",
+      "english": "<span data-i18n-slot=\"0\">A forex quote is the two-sided price shown for a currency pair. It normally contains a bid price associated with selling and an ask price associated with buying. The difference between the two is the spread, and changes in the quote show how the relative value of the two currencies is moving.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une cotation Forex est le prix bilatéral affiché pour une paire de devises. Il contient normalement un prix acheteur associé à la vente et un prix vendeur associé à l'achat. La différence entre les deux est le spread, et les changements dans la cotation montrent l'évolution de la valeur relative des deux devises.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "td34d7dac569f0506",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between bid and ask price?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Quelle est la différence entre le prix acheteur et le prix vendeur&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t27d0ff01aa8a0ff7",
+      "english": "<span data-i18n-slot=\"0\">The bid is the price associated with selling a currency pair, while the ask is the price associated with buying it. The ask is normally higher than the bid, and the difference between them is called the spread.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le cours acheteur correspond au prix associé à la vente d’une paire de devises, tandis que le cours vendeur correspond au prix associé à son achat. Le cours vendeur est normalement supérieur au cours acheteur ; la différence entre eux s’appelle le spread.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "tadd50a24fc2954c0",
+      "english": "<span data-i18n-slot=\"0\">What is the spread in a forex quote?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Quel est le spread dans une cotation Forex&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t29dbfbff6e3c3097",
+      "english": "<span data-i18n-slot=\"0\">The spread is the difference between the ask and bid prices. If EUR/USD is illustratively quoted at 1.0848 / 1.0850, the difference is 0.0002, which equals 2 pips for that pair. Spreads can change as liquidity, volatility and market conditions change.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Le spread est la différence entre les cours vendeur et acheteur. Si l’EUR/USD est coté, à titre d’exemple, à 1.0848 / 1.0850, la différence est de 0.0002, soit 2 pips pour cette paire. Les spreads peuvent évoluer avec la liquidité, la volatilité et les conditions du marché.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t851f584d77c06e25",
+      "english": "<span data-i18n-slot=\"0\">What is a direct quote in forex?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Qu'est-ce qu'une cotation directe sur le Forex&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t3fb2fb08b29035c8",
+      "english": "<span data-i18n-slot=\"0\">A direct quote shows the amount of domestic currency needed for one unit of a foreign currency. What counts as direct depends on the observer's domestic currency. An indirect quote reverses the relationship and expresses foreign currency per unit of domestic currency.</span>",
+      "translation": "<span data-i18n-slot=\"0\">Une cotation directe indique la quantité de monnaie nationale nécessaire pour une unité de monnaie étrangère. Ce qui est considéré comme direct dépend de la monnaie nationale de l’observateur. Une cotation indirecte inverse cette relation et exprime la quantité de monnaie étrangère par unité de monnaie nationale.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t937a5277eee0d477",
+      "english": "<span data-i18n-slot=\"0\">What is the quote currency in forex?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Quelle est la devise de cotation sur le Forex&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t9bb57b6febcda859",
+      "english": "<span data-i18n-slot=\"0\">The quote currency is the second currency shown in a forex pair. In EUR/USD, USD is the quote currency. The displayed pair price expresses the value of one unit of the base currency in terms of the quote currency.</span>",
+      "translation": "<span data-i18n-slot=\"0\">La devise de cotation est la deuxième devise affichée dans une paire de devises. En EUR/USD, USD est la devise de cotation. Le prix de la paire affiché exprime la valeur d'une unité de la devise de base en termes de devise de cotation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    },
+    {
+      "key": "t2526deb3256024c3",
+      "english": "<span data-i18n-slot=\"0\">How do you know whether a forex quote is rising or falling?</span>",
+      "translation": "<span data-i18n-slot=\"0\">Comment savoir si une cotation Forex est en hausse ou en baisse&nbsp;?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-read-a-forex-quote#content",
+        "SSR:/blogs/how-to-read-a-forex-quote"
+      ]
+    }
+  ]
+}

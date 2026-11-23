@@ -1,0 +1,487 @@
+{
+  "language": "pt",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "tafde055893157296",
+      "english": "<span data-i18n-slot=\"0\">A position can therefore experience both a spread and slippage.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Uma posição pode, portanto, sofrer um spread e uma derrapagem.</span>"
+    },
+    {
+      "key": "t9c7dde3ba1eba5d3",
+      "english": "<span data-i18n-slot=\"0\">During holidays</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Durante os feriados</span>"
+    },
+    {
+      "key": "t02a4bc252ca19e7b",
+      "english": "<span data-i18n-slot=\"0\">During quieter trading sessions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Durante sessões de negociação mais calmas</span>"
+    },
+    {
+      "key": "td9ce28ab8b860ea5",
+      "english": "<span data-i18n-slot=\"0\">This is one reason </span><span data-i18n-slot=\"1\">slippage in forex</span><span data-i18n-slot=\"2\"> may become more noticeable during highly volatile periods.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Esse é um dos motivos pelos quais a </span><span data-i18n-slot=\"1\">derrapagem no Forex</span><span data-i18n-slot=\"2\"> pode se tornar mais perceptível durante períodos altamente voláteis.</span>"
+    },
+    {
+      "key": "tf83e9cf7af494521",
+      "english": "<span data-i18n-slot=\"0\">Price movement during that interval can contribute to slippage.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O movimento dos preços durante esse intervalo pode contribuir para a derrapagem.</span>"
+    },
+    {
+      "key": "t28c20cc4f4fe7eea",
+      "english": "<span data-i18n-slot=\"0\">Limit orders work differently.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">As ordens limitadas funcionam de forma diferente.</span>"
+    },
+    {
+      "key": "tef1b07454f929663",
+      "english": "<span data-i18n-slot=\"0\">Understanding this difference is important because managing slippage often involves choosing between execution certainty and price control.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Compreender esta diferença é importante porque a gestão da derrapagem envolve frequentemente a escolha entre a certeza de execução e o controlo de preços.</span>"
+    },
+    {
+      "key": "taa0458771b7c9ee5",
+      "english": "<span data-i18n-slot=\"0\">Positive Slippage vs Negative Slippage: What's the Difference?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Derrapagem positiva vs derrapagem negativa: qual é a diferença?</span>"
+    },
+    {
+      "key": "t467bf38c9b2c5f8c",
+      "english": "<span data-i18n-slot=\"0\">Positive slippage means an order executes at a price more favorable than expected. Negative slippage means the execution price is less favorable.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A derrapagem positiva significa que uma ordem é executada a um preço mais favorável do que o esperado. A derrapagem negativa significa que o preço de execução é menos favorável.</span>"
+    },
+    {
+      "key": "t47d0a9cefffe82a2",
+      "english": "<span data-i18n-slot=\"0\">Lower execution price = positive slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Preço de execução mais baixo = derrapagem positiva</span>"
+    },
+    {
+      "key": "tab623a2858d39f10",
+      "english": "<span data-i18n-slot=\"0\">Higher execution price = negative slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Preço de execução mais alto = derrapagem negativa</span>"
+    },
+    {
+      "key": "t8c2ac3988d0d79d8",
+      "english": "<span data-i18n-slot=\"0\">Higher execution price = positive slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Preço de execução mais alto = derrapagem positiva</span>"
+    },
+    {
+      "key": "taf9db31677145e6a",
+      "english": "<span data-i18n-slot=\"0\">Lower execution price = negative slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Preço de execução mais baixo = derrapagem negativa</span>"
+    },
+    {
+      "key": "t07b8dd3936a3227b",
+      "english": "<span data-i18n-slot=\"0\">It should not automatically be interpreted as evidence that a broker deliberately selected one outcome. Individual fills need to be considered alongside market conditions, liquidity, order type, timing, execution rules, and available pricing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Isso não deve ser automaticamente interpretado como prova de que uma corretora escolheu deliberadamente um resultado. As execuções individuais devem ser avaliadas junto com as condições do mercado, a liquidez, o tipo de ordem, o momento, as regras de execução e as cotações disponíveis.</span>"
+    },
+    {
+      "key": "t86ab5b9408d5407c",
+      "english": "<span data-i18n-slot=\"0\">Positive vs Negative Slippage Comparison</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Comparação de deslizamento positivo vs negativo</span>"
+    },
+    {
+      "key": "ta096bf2747ffdcf5",
+      "english": "<span data-i18n-slot=\"0\">Buy Order Example</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Exemplo de pedido de compra</span>"
+    },
+    {
+      "key": "t34f4649911ede163",
+      "english": "<span data-i18n-slot=\"0\">Positive slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Deslizamento positivo</span>"
+    },
+    {
+      "key": "t1711a54d28f6bd2b",
+      "english": "<span data-i18n-slot=\"0\">Negative slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Derrapagem negativa</span>"
+    },
+    {
+      "key": "tbab19f2d11fddd89",
+      "english": "<span data-i18n-slot=\"0\">No slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Sem derrapagem</span>"
+    },
+    {
+      "key": "t6fce907a2e4245e0",
+      "english": "<span data-i18n-slot=\"0\">Execution matches the expected price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A execução corresponde ao preço esperado</span>"
+    },
+    {
+      "key": "t846e91fb814b03dd",
+      "english": "<span data-i18n-slot=\"0\">How Is Slippage Calculated?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como o deslizamento é calculado?</span>"
+    },
+    {
+      "key": "ta40c50343c36c0bc",
+      "english": "<span data-i18n-slot=\"0\">Slippage difference = Execution Price − Expected Price</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Diferença de deslizamento = Preço de Execução - Preço Esperado</span>"
+    },
+    {
+      "key": "t0979fa14f03d7298",
+      "english": "<span data-i18n-slot=\"0\">Slippage can be expressed using price units such as pips or points depending on the instrument and platform conventions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A derrapagem pode ser expressa usando unidades de preço, como pips ou pontos, dependendo do instrumento e das convenções da plataforma.</span>"
+    },
+    {
+      "key": "t11f77668540c2d74",
+      "english": "<span data-i18n-slot=\"0\">Exchange Execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Execução em bolsa</span>"
+    },
+    {
+      "key": "t0ea9102611098c9e",
+      "english": "<span data-i18n-slot=\"0\">Under Instant Execution, for example, a price movement beyond the accepted deviation may result in a requote rather than automatic execution at the changed price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Na Execução Instantânea, por exemplo, um movimento de preço além do desvio aceito pode resultar em uma nova cotação em vez de uma execução automática ao preço alterado.</span>"
+    },
+    {
+      "key": "tbe412a058d123075",
+      "english": "<span data-i18n-slot=\"0\">Traders should therefore understand the specific order and execution settings available through the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">MetaTrader 5 trading platform</span></span><span data-i18n-slot=\"4\"> rather than assuming that one setting applies to every instrument.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Os traders devem, portanto, compreender as configurações específicas de ordens e de execução disponíveis na </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">plataforma de negociação MetaTrader 5</span></span><span data-i18n-slot=\"4\">, em vez de supor que uma única configuração se aplica a todos os instrumentos.</span>"
+    },
+    {
+      "key": "tc76642d5c513e049",
+      "english": "<span data-i18n-slot=\"0\">Positive Slippage Outcome</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Resultado positivo de derrapagem</span>"
+    },
+    {
+      "key": "t75f745c90bc3d681",
+      "english": "<span data-i18n-slot=\"0\">Negative Slippage Outcome</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Resultado de derrapagem negativo</span>"
+    },
+    {
+      "key": "t4ca11dbd141b1fa1",
+      "english": "<span data-i18n-slot=\"0\">Actual execution</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Execução real</span>"
+    },
+    {
+      "key": "tf3d21b454d4092f7",
+      "english": "<span data-i18n-slot=\"0\">3 pips lower</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3 pips abaixo</span>"
+    },
+    {
+      "key": "t081a491883b12d70",
+      "english": "<span data-i18n-slot=\"0\">Slippage type</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tipo de deslizamento</span>"
+    },
+    {
+      "key": "t571e3ebc6c29b162",
+      "english": "<span data-i18n-slot=\"0\">Outcome 1: Positive Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Resultado 1: Deslizamento Positivo</span>"
+    },
+    {
+      "key": "t95649865f31e5fa3",
+      "english": "<span data-i18n-slot=\"0\">The market moves lower before the buy order executes.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O mercado cai antes que a ordem de compra seja executada.</span>"
+    },
+    {
+      "key": "t4f65195571488869",
+      "english": "<span data-i18n-slot=\"0\">Outcome 2: Negative Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Resultado 2: Derrapagem Negativa</span>"
+    },
+    {
+      "key": "tda3718b8fa2e2c14",
+      "english": "<span data-i18n-slot=\"0\">The examples show why the </span><span data-i18n-slot=\"1\">meaning of slippage</span><span data-i18n-slot=\"2\"> cannot be understood only from the size of the price difference.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Os exemplos mostram por que o </span><span data-i18n-slot=\"1\">significado de derrapagem</span><span data-i18n-slot=\"2\"> não pode ser entendido apenas a partir do tamanho da diferença de preço.</span>"
+    },
+    {
+      "key": "t8169a695652588c9",
+      "english": "<span data-i18n-slot=\"0\">What Does High Slippage Mean?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O que significa alto deslizamento?</span>"
+    },
+    {
+      "key": "tc8ce25f9ad687445",
+      "english": "<span data-i18n-slot=\"0\">An order is large relative to available liquidity</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Um pedido é grande em relação à liquidez disponível</span>"
+    },
+    {
+      "key": "t3002e6903179ce62",
+      "english": "<span data-i18n-slot=\"0\">High slippage does not have one universal numerical threshold.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">O alto deslizamento não possui um limite numérico universal.</span>"
+    },
+    {
+      "key": "t67bccb832cd30bcd",
+      "english": "<span data-i18n-slot=\"0\">How Does the Execution Model Affect Slippage?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como o modelo de execução afeta o deslizamento?</span>"
+    },
+    {
+      "key": "t5a79465170964a0f",
+      "english": "<span data-i18n-slot=\"0\">Execution policy</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Política de execução</span>"
+    },
+    {
+      "key": "t4b11ae8f34c70fe1",
+      "english": "<span data-i18n-slot=\"0\">Available order types</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tipos de ordens disponíveis</span>"
+    },
+    {
+      "key": "t9c67339522be1fd7",
+      "english": "<span data-i18n-slot=\"0\">Requote or rejection rules</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Regras de recotação ou rejeição</span>"
+    },
+    {
+      "key": "tc2e0b47765618397",
+      "english": "<span data-i18n-slot=\"0\">Order-routing structure</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Estrutura de roteamento de ordens</span>"
+    },
+    {
+      "key": "t01ccc0938b7b07bf",
+      "english": "<span data-i18n-slot=\"0\">Actual execution records</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Registros de execução reais</span>"
+    },
+    {
+      "key": "t943bc3f0de6555c8",
+      "english": "<span data-i18n-slot=\"0\">Searching for the “lowest slippage broker” without considering these factors can oversimplify execution quality.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Procurar o “corretor com menor slippage” sem considerar esses fatores pode simplificar demais a qualidade da execução.</span>"
+    },
+    {
+      "key": "t792f4f026539ed8e",
+      "english": "<span data-i18n-slot=\"0\">How Can Traders Manage Slippage Risk?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Como os comerciantes podem gerenciar o risco de derrapagem?</span>"
+    },
+    {
+      "key": "ta297a3342b47edc0",
+      "english": "<span data-i18n-slot=\"0\">Slippage cannot be eliminated completely, but traders can make execution choices that reduce exposure to some of the conditions associated with unfavorable fills.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">A derrapagem não pode ser eliminada completamente, mas os traders podem escolher formas de execução que reduzam a exposição a algumas condições associadas a execuções desfavoráveis.</span>"
+    },
+    {
+      "key": "t64aaea8d9ad1f11f",
+      "english": "<span data-i18n-slot=\"0\">However, this creates a trade-off.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/what-is-slippage-in-forex-and-cfd-trading#content",
+        "SSR:/blogs/what-is-slippage-in-forex-and-cfd-trading"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">No entanto, isso cria uma compensação.</span>"
+    }
+  ]
+}

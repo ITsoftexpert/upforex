@@ -1,0 +1,507 @@
+{
+  "language": "es",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t70dfeb75075cf15b",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">hammer</span><span data-i18n-slot=\"2\"> has a small body near the top of its range, a long lower wick, and little or no upper wick. It is usually watched after a decline.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un </span><span data-i18n-slot=\"1\">martillo</span><span data-i18n-slot=\"2\"> tiene un cuerpo pequeño cerca de la parte superior de su alcance, una mecha inferior larga y poca o ninguna mecha superior. Por lo general, se observa después de una caída.</span>"
+    },
+    {
+      "key": "t1cef09588c52b726",
+      "english": "<span data-i18n-slot=\"0\">Shooting Star</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Estrella fugaz</span>"
+    },
+    {
+      "key": "taf9515029614cf58",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">shooting star</span><span data-i18n-slot=\"2\"> has a small body near the bottom of its range, a long upper wick, and little or no lower wick. Traders commonly watch for it after an upward move.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Una </span><span data-i18n-slot=\"1\">estrella fugaz</span><span data-i18n-slot=\"2\"> tiene un cuerpo pequeño cerca del final de su alcance, una mecha superior larga y poca o ninguna mecha inferior. Los operadores suelen estar atentos a esto después de un movimiento alcista.</span>"
+    },
+    {
+      "key": "t0c5b1e7acf85309c",
+      "english": "<span data-i18n-slot=\"0\">Spinning Top</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Peonza</span>"
+    },
+    {
+      "key": "te49099be2d520cc0",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">spinning top</span><span data-i18n-slot=\"2\"> has a small body with visible upper and lower wicks. Unlike a doji, its open and close are not almost identical, but they remain close.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Una </span><span data-i18n-slot=\"1\">peonza</span><span data-i18n-slot=\"2\"> tiene un cuerpo pequeño con mechas superiores e inferiores visibles. A diferencia de un doji, su apertura y cierre no son casi idénticos, aunque permanecen próximos.</span>"
+    },
+    {
+      "key": "tb23bc05808325944",
+      "english": "<span data-i18n-slot=\"0\">Bullish Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrones de velas alcistas</span>"
+    },
+    {
+      "key": "t51dd18c3086ffa59",
+      "english": "<span data-i18n-slot=\"0\">Bullish candlestick patterns may show increasing buying pressure or a weakening downtrend. They are most useful when supported by context and confirmation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los patrones de velas alcistas pueden mostrar una creciente presión de compra o un debilitamiento de la tendencia bajista. Son más útiles cuando están respaldados por el contexto y la confirmación.</span>"
+    },
+    {
+      "key": "t4b95f3a9757cd44b",
+      "english": "<span data-i18n-slot=\"0\">Bullish Engulfing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Envolvente alcista</span>"
+    },
+    {
+      "key": "t239fc3be8ba9904c",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">bullish engulfing pattern</span><span data-i18n-slot=\"2\"> uses two candles: a bearish candle followed by a larger bullish candle whose body covers the previous body.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un </span><span data-i18n-slot=\"1\">patrón envolvente alcista</span><span data-i18n-slot=\"2\"> utiliza dos velas: una vela bajista seguida de una vela alcista más grande cuyo cuerpo cubre el cuerpo anterior.</span>"
+    },
+    {
+      "key": "t37090010666c9bbe",
+      "english": "<span data-i18n-slot=\"0\">Piercing Line</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Línea de perforación</span>"
+    },
+    {
+      "key": "tf2e9c1755100c847",
+      "english": "<span data-i18n-slot=\"0\">Bearish Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrones de velas bajistas</span>"
+    },
+    {
+      "key": "tdfe0354e962999e8",
+      "english": "<span data-i18n-slot=\"0\">Bearish Engulfing</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Envolvente bajista</span>"
+    },
+    {
+      "key": "t947dedd1e2ca668b",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">bearish engulfing pattern</span><span data-i18n-slot=\"2\"> uses a bullish candle followed by a larger bearish candle whose body covers the previous body.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un </span><span data-i18n-slot=\"1\">patrón envolvente bajista</span><span data-i18n-slot=\"2\"> utiliza una vela alcista seguida de una vela bajista más grande cuyo cuerpo cubre el cuerpo anterior.</span>"
+    },
+    {
+      "key": "teb5f2903c540a87b",
+      "english": "<span data-i18n-slot=\"0\">A </span><span data-i18n-slot=\"1\">dark cloud cover</span><span data-i18n-slot=\"2\"> pattern begins with a bullish candle. The next candle is bearish and closes below the midpoint of the previous bullish body.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Un patrón de </span><span data-i18n-slot=\"1\">nubes oscuras</span><span data-i18n-slot=\"2\"> comienza con una vela alcista. La siguiente vela es bajista y cierra por debajo del punto medio del cuerpo alcista anterior.</span>"
+    },
+    {
+      "key": "t8f3a5d67288b36e7",
+      "english": "<span data-i18n-slot=\"0\">Reversal Candlestick Patterns: What They Signal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrones de velas japonesas de reversión: lo que indican</span>"
+    },
+    {
+      "key": "t2e96b6763d6bdc22",
+      "english": "<span data-i18n-slot=\"0\">The hammer, bullish engulfing pattern, morning star, and piercing line are commonly treated as bullish reversal signals. The shooting star, bearish engulfing pattern, evening star, and dark cloud cover are bearish reversal signals. A doji or spinning top mainly shows indecision.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El martillo, el patrón envolvente alcista, la estrella de la mañana y la línea penetrante se tratan comúnmente como señales de reversión alcista. La estrella fugaz, el patrón envolvente bajista, la estrella vespertina y la capa de nubes oscuras son señales de reversión bajista. Un doji o peonza muestra principalmente indecisión.</span>"
+    },
+    {
+      "key": "t7f644732e9b162d0",
+      "english": "<span data-i18n-slot=\"0\">This hypothetical example explains how confirmation may develop. It is not a real trade and does not imply that every bullish engulfing pattern will produce an upward move.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Este ejemplo hipotético explica cómo se puede desarrollar la confirmación. No es una operación real y no implica que cada patrón envolvente alcista produzca un movimiento ascendente.</span>"
+    },
+    {
+      "key": "t8be61c0d4c75e329",
+      "english": "<span data-i18n-slot=\"0\">Quick-Reference Table: Bullish vs. Bearish Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tabla de referencia rápida: patrones alcistas frente a bajistas</span>"
+    },
+    {
+      "key": "tb71174060796f5f0",
+      "english": "<span data-i18n-slot=\"0\">Quick-Reference: Bullish vs. Bearish Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Referencia rápida: patrones de velas alcistas y bajistas</span>"
+    },
+    {
+      "key": "tf8542953ad36e5b5",
+      "english": "<span data-i18n-slot=\"0\">Pattern</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrón</span>"
+    },
+    {
+      "key": "t96ec432ec33f8f6a",
+      "english": "<span data-i18n-slot=\"0\">Candles Involved</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Velas involucradas</span>"
+    },
+    {
+      "key": "t47e95aa3d526cf47",
+      "english": "<span data-i18n-slot=\"0\">What It Signals</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Lo que indica</span>"
+    },
+    {
+      "key": "t6892db8c7460f650",
+      "english": "<span data-i18n-slot=\"0\">Bullish reversal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reversión alcista</span>"
+    },
+    {
+      "key": "tff93a39d3d97406b",
+      "english": "<span data-i18n-slot=\"0\">A downtrend pauses before buyers begin taking control</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Una tendencia bajista se detiene antes de que los compradores comiencen a tomar el control</span>"
+    },
+    {
+      "key": "t8a87f2c59346a4c7",
+      "english": "<span data-i18n-slot=\"0\">A bullish candle closes above the midpoint of the prior bearish body</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Una vela alcista cierra por encima del punto medio del cuerpo bajista anterior</span>"
+    },
+    {
+      "key": "t46104251f3154553",
+      "english": "<span data-i18n-slot=\"0\">Bearish reversal</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Reversión bajista</span>"
+    },
+    {
+      "key": "t8370763e45cf686a",
+      "english": "<span data-i18n-slot=\"0\">An uptrend pauses before sellers begin taking control</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Una tendencia alcista se detiene antes de que los vendedores comiencen a tomar el control</span>"
+    },
+    {
+      "key": "t7bd9ec49a215f053",
+      "english": "<span data-i18n-slot=\"0\">This table is a quick reference, not a complete trading system. Traders should not assign a fixed accuracy rate to any formation.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Esta tabla es una referencia rápida, no un sistema comercial completo. Los operadores no deben asignar una tasa de precisión fija a ninguna formación.</span>"
+    },
+    {
+      "key": "t0457c61f42486a0d",
+      "english": "<span data-i18n-slot=\"0\">How to Confirm a Candlestick Pattern Before Trading It</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Cómo confirmar un patrón de velas antes de negociarlo</span>"
+    },
+    {
+      "key": "td76198ed2e219a35",
+      "english": "<span data-i18n-slot=\"0\">Common Mistakes When Reading Candlestick Patterns</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Errores comunes al leer patrones de velas japonesas</span>"
+    },
+    {
+      "key": "t38df9d8401a3c23c",
+      "english": "<span data-i18n-slot=\"0\">Treating every wick as rejection:</span><span data-i18n-slot=\"1\"> Wicks can result from normal volatility.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Tratar cada mecha como rechazo:</span><span data-i18n-slot=\"1\"> Las mechas pueden resultar de una volatilidad normal.</span>"
+    },
+    {
+      "key": "tee59b96904716331",
+      "english": "<span data-i18n-slot=\"0\">Skipping practice:</span><span data-i18n-slot=\"1\"> Traders should</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">practice reading patterns on a demo account before trading live</span></span><span data-i18n-slot=\"5\">, while recognising that demo results cannot reproduce every live-trading challenge.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Omitir la práctica:</span><span data-i18n-slot=\"1\"> Los operadores deben</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">practicar la lectura de patrones en una cuenta de demostración antes de operar en vivo</span></span><span data-i18n-slot=\"5\">, reconociendo al mismo tiempo que los resultados de la demostración no pueden reproducir todos los desafíos del comercio en vivo.</span>"
+    },
+    {
+      "key": "tfffe466e4d55843c",
+      "english": "<span data-i18n-slot=\"0\">What is a candlestick pattern?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es un patrón de velas japonesas?</span>"
+    },
+    {
+      "key": "t32b6f50edb9ccac2",
+      "english": "<span data-i18n-slot=\"0\">How do you read a candlestick chart?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cómo se lee un gráfico de velas japonesas?</span>"
+    },
+    {
+      "key": "tb937c674c3045b26",
+      "english": "<span data-i18n-slot=\"0\">What are the most reliable candlestick patterns?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cuáles son los patrones de velas más fiables?</span>"
+    },
+    {
+      "key": "t164481225415e658",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between a bullish and bearish candlestick?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Cuál es la diferencia entre una vela alcista y bajista?</span>"
+    },
+    {
+      "key": "te2192a25961abeb7",
+      "english": "<span data-i18n-slot=\"0\">Are candlestick patterns accurate for predicting price moves?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Los patrones de velas japonesas son precisos para predecir movimientos de precios?</span>"
+    },
+    {
+      "key": "tb41eff319e8df7e3",
+      "english": "<span data-i18n-slot=\"0\">Candlestick patterns cannot predict price moves with certainty and do not have a fixed accuracy rate. They show how buyers and sellers behaved during a period. Their signals become more useful when combined with trend analysis, support and resistance, confirmation, volatility awareness, and controlled position sizing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los patrones de velas japonesas no pueden predecir los movimientos de precios con certeza y no tienen una tasa de precisión fija. Muestran cómo se comportaron los compradores y vendedores durante un período. Sus señales se vuelven más útiles cuando se combinan con análisis de tendencias, soporte y resistencia, confirmación, conocimiento de la volatilidad y dimensionamiento controlado de las posiciones.</span>"
+    },
+    {
+      "key": "t8fd4fbd8464d2690",
+      "english": "<span data-i18n-slot=\"0\">Can candlestick patterns be used in forex trading?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Se pueden utilizar patrones de velas japonesas en el comercio de divisas?</span>"
+    },
+    {
+      "key": "t35b83bc97cf8c46f",
+      "english": "<span data-i18n-slot=\"0\">Candlestick analysis works best as part of a complete process. A trader should understand the market context, wait for confirmation, define risk, and accept that even a well-formed pattern can fail.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El análisis de velas japonesas funciona mejor como parte de un proceso completo. Un operador debe comprender el contexto del mercado, esperar la confirmación, definir el riesgo y aceptar que incluso un patrón bien formado puede fallar.</span>"
+    },
+    {
+      "key": "t34fb2575478af609",
+      "english": "<span data-i18n-slot=\"0\">Traders who understand the risks and meet the applicable requirements may</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">open an UpForex trading account</span></span><span data-i18n-slot=\"4\"> to access the available platform and practise a carefully tested trading process.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/candlestick-patterns-how-to-read-charts#content",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Los operadores que comprendan los riesgos y cumplan con los requisitos aplicables pueden</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">abrir una UpForex cuenta comercial</span></span><span data-i18n-slot=\"4\"> para acceder a la plataforma disponible y practicar un proceso comercial cuidadosamente probado.</span>"
+    },
+    {
+      "key": "tf01720aefbdca380",
+      "english": "<span data-i18n-slot=\"0\">What Is a Retail Trader?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">¿Qué es un comerciante minorista?</span>"
+    },
+    {
+      "key": "t5bf19e17ee47fdbb",
+      "english": "<span data-i18n-slot=\"0\">Before risking real capital, traders should understand spreads, order types, margin, leverage, stop-loss orders, and market sessions. UpForex’s</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">complete beginner’s guide to forex trading</span></span><span data-i18n-slot=\"4\"> provides a useful starting framework.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Antes de arriesgar capital real, los operadores deben comprender los diferenciales, los tipos de órdenes, el margen, el apalancamiento, las órdenes de limitación de pérdidas y las sesiones de mercado. La</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">guía completa para principiantes sobre el comercio de divisas</span></span><span data-i18n-slot=\"4\"> de UpForex proporciona un marco de partida útil.</span>"
+    },
+    {
+      "key": "t6cb95b8cf6614450",
+      "english": "<span data-i18n-slot=\"0\">Factor</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Aspecto</span>"
+    },
+    {
+      "key": "t5e9f12c7eb0a1087",
+      "english": "<span data-i18n-slot=\"0\">Large pooled or managed capital</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Gran capital mancomunado o administrado</span>"
+    },
+    {
+      "key": "t01fad1d850cd6608",
+      "english": "<span data-i18n-slot=\"0\">Formal limits, reporting, and risk teams</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Límites formales, informes y equipos de riesgo</span>"
+    },
+    {
+      "key": "t92528d377fa66165",
+      "english": "<span data-i18n-slot=\"0\">Typical outcome pattern</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Patrón de resultados típico</span>"
+    },
+    {
+      "key": "t368cbdccfe39162a",
+      "english": "<span data-i18n-slot=\"0\">A larger share experience net losses</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Una proporción mayor experimenta pérdidas netas</span>"
+    },
+    {
+      "key": "t29d337aa6c2abb06",
+      "english": "<span data-i18n-slot=\"0\">Leverage lets a trader control a position larger than the deposit. It amplifies gains and losses, so a small market move can sharply change account equity and trigger a margin call or stop-out.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El apalancamiento permite a un operador controlar una posición mayor que el depósito. Amplifica las ganancias y pérdidas, por lo que un pequeño movimiento del mercado puede cambiar drásticamente el capital de la cuenta y provocar una llamada de margen o un stop-out.</span>"
+    },
+    {
+      "key": "tbb37a507928cde1f",
+      "english": "<span data-i18n-slot=\"0\">The maximum leverage for CFDs available to retail traders in the UAE can vary by provider, instrument, account classification, and applicable regulations. UpForex lists leverage of </span><span data-i18n-slot=\"1\">up to 1:300</span><span data-i18n-slot=\"2\">, subject to possible adjustments based on market and liquidity conditions. Its account page also lists a </span><span data-i18n-slot=\"3\">50% margin-call level</span><span data-i18n-slot=\"4\"> and a </span><span data-i18n-slot=\"5\">30% stop-out level</span><span data-i18n-slot=\"6\">. </span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/why-retail-traders-lose-money#content",
+        "SSR:/blogs/why-retail-traders-lose-money"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">El apalancamiento máximo de los CFD disponibles para los operadores minoristas de los EAU puede variar según el proveedor, el instrumento, la clasificación de la cuenta y la normativa aplicable. UpForex indica un apalancamiento de </span><span data-i18n-slot=\"1\">hasta 1:300</span><span data-i18n-slot=\"2\">, sujeto a posibles ajustes según las condiciones del mercado y de liquidez. Su página de cuentas también indica un </span><span data-i18n-slot=\"3\">nivel de llamada de margen del 50%</span><span data-i18n-slot=\"4\"> y un </span><span data-i18n-slot=\"5\">nivel de cierre forzoso del 30%</span><span data-i18n-slot=\"6\">.</span>"
+    }
+  ]
+}

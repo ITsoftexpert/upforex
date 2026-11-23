@@ -1,0 +1,467 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t776bf5adc29426a1",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q1. Is forex trading permissible for beginners in Dubai?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Q1。迪拜允许初学者进行外汇交易吗？</span></span>"
+    },
+    {
+      "key": "t6560fc381c1417aa",
+      "english": "<span data-i18n-slot=\"0\">Q2. Do I need a lot of money to start forex trading in Dubai?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q2. 在迪拜开始外汇交易需要很多资金吗？</span>"
+    },
+    {
+      "key": "ta67497eeda76ee26",
+      "english": "<span data-i18n-slot=\"0\">Q4. How can I find the best forex trading platform in Dubai?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#content",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">Q4. 如何找到迪拜最好的外汇交易平台？</span>"
+    },
+    {
+      "key": "t3f7f58ba13615648",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">What is Upforex?</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">什么是Upforex？</span></span>"
+    },
+    {
+      "key": "tcac0f41091690ffe",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. </span><span data-i18n-slot=\"2\">Advanced Trading Infrastructure</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4个 </span><span data-i18n-slot=\"2\">高级贸易基础设施</span></span>"
+    },
+    {
+      "key": "tb76cdf8721778def",
+      "english": "<span data-i18n-slot=\"0\">1. <span data-i18n-slot=\"1\">Forex CFDs</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1. <span data-i18n-slot=\"1\">外汇差价合约</span></span>"
+    },
+    {
+      "key": "t5488818d050ecf21",
+      "english": "<span data-i18n-slot=\"0\">Trade major and minor currency pairs with confidence through </span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Regulated Brokers Forex in Dubai</span></span><span data-i18n-slot=\"3\">. This ensures a secure and transparent trading environment while giving you full access to global currency markets.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">自信地交易主要及次要货币对，可通过</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">迪拜受监管的外汇经纪商</span></span><span data-i18n-slot=\"3\">。这能确保安全透明的交易环境，同时让您全面进入全球货币市场。</span>"
+    },
+    {
+      "key": "tfeb034544de8be1e",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2. Precious Metals</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">2。贵金属</span></span>"
+    },
+    {
+      "key": "t4789fbebd3910b75",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3. </span><span data-i18n-slot=\"2\">Cryptocurrency CFDs</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">3。 </span><span data-i18n-slot=\"2\">加密货币差价合约</span></span>"
+    },
+    {
+      "key": "t32fe9b8b461b0a21",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4. CFD Index</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">4。差价合约指数</span></span>"
+    },
+    {
+      "key": "t040b68257b3bd12d",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5. CFD Stocks</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">5。股票差价合约</span></span>"
+    },
+    {
+      "key": "tca1ca92990ac3e83",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">Engage in </span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\">CFD Stock Trading in UAE</span></span><span data-i18n-slot=\"5\"> to trade international equities without owning physical shares. CFD stock instruments give you the flexibility to manage positions and respond to company price movements effectively.</span></span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\">参与</span><span data-i18n-slot=\"3\"><span data-i18n-slot=\"4\">阿联酋差价合约股票交易</span></span><span data-i18n-slot=\"5\">无需拥有实物股票即可交易国际股票。差价合约股票工具让您能够灵活地管理头寸并有效响应公司价格变动。</span></span></span>"
+    },
+    {
+      "key": "tab3712f320e7be6d",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">7. Energy CFDs</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">7。能源差价合约</span></span>"
+    },
+    {
+      "key": "tabf5d90a2496c440",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Informational FAQs</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#content",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">信息常见问题解答</span></span>"
+    },
+    {
+      "key": "te6d511a290cd6cb4",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Bitcoin CFDs and Market Participation</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">比特币差价合约和市场参与</span></span>"
+    },
+    {
+      "key": "t1bb4500474b0cd48",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">Market Liquidity and Trading Volume</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">市场流动性和交易量</span></span>"
+    },
+    {
+      "key": "t7c35916ec7ca1078",
+      "english": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">FAQ’s</span></span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#content",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"><span data-i18n-slot=\"1\">常见问题解答</span></span>"
+    },
+    {
+      "key": "tf7a39eedceae8129",
+      "english": "<span data-i18n-slot=\"0\">CFDs carry a high level of risk.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">差价合约具有高风险。</span>"
+    },
+    {
+      "key": "te59304ae6e2e9c28",
+      "english": "What Is CFD Stock Trading?",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "什么是差价合约股票交易？"
+    },
+    {
+      "key": "t6a7b5a002cded82e",
+      "english": "Trading volume",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "交易量"
+    },
+    {
+      "key": "t1a16c80c4677393a",
+      "english": "Why Traders in the UAE Use Stock CFDs",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "为什么阿联酋的交易者使用股票差价合约"
+    },
+    {
+      "key": "tdc2d4680f5eebfca",
+      "english": "Share prices move for many reasons:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "股价变动的原因有很多："
+    },
+    {
+      "key": "t7a64ad4b83426509",
+      "english": "Company earnings",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "公司盈利"
+    },
+    {
+      "key": "teed4085fa6ca0cf9",
+      "english": "How a sector is doing",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "某个行业的表现如何"
+    },
+    {
+      "key": "t14033371cf102f23",
+      "english": "Steady Performance",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "运行稳定"
+    },
+    {
+      "key": "te1a0d4a66bb8e686",
+      "english": "An Easy-to-Use Layout",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "易于使用的布局"
+    },
+    {
+      "key": "t89ddcd8efd680dc2",
+      "english": "Charts that respond fast",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "快速响应的图表"
+    },
+    {
+      "key": "t0811ec7486139572",
+      "english": "Views you can change",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "您可以更改的视图"
+    },
+    {
+      "key": "t7a50622ba81d506f",
+      "english": "How Liquidity Affects Stock CFDs",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "流动性如何影响股票差价合约"
+    },
+    {
+      "key": "td94931840b7777fe",
+      "english": "Liquidity is how easily you can buy or sell a stock. In a liquid market, your trade doesn’t push the price much. Popular shares have many buyers and sellers around the world. That usually means steadier prices and smoother trades.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "流动性是指您购买或出售股票的容易程度。在流动性市场中，您的交易不会大幅推高价格。热门股票在世界各地有许多买家和卖家。这通常意味着更稳定的价格和更顺畅的交易。"
+    },
+    {
+      "key": "tc5293922b5999f60",
+      "english": "A good platform links to large global sources of liquidity. This keeps its prices close to the real market all day.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "一个好的平台可以连接到全球大量的流动性来源。这使其价格全天接近真实市场。"
+    },
+    {
+      "key": "t625c18885592a6d4",
+      "english": "Share prices react to a steady stream of news. This includes:",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "股价对源源不断的消息做出反应。这包括："
+    },
+    {
+      "key": "t316ffd41b15bef13",
+      "english": "Earnings reports",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "盈利报告"
+    },
+    {
+      "key": "tf5f006611a7c46e3",
+      "english": "Sector trends",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "行业趋势"
+    },
+    {
+      "key": "tb20e6825fb9a7e27",
+      "english": "<span data-i18n-slot=\"0\">Q2. Why does liquidity matter?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">问题2. 流动性为何重要?</span>"
+    },
+    {
+      "key": "t305074edecc1f383",
+      "english": "Earnings news, mergers and sector updates can move a share price. CFD prices change almost at once through live data.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "盈利消息、合并和行业更新可能会影响股价。差价合约价格通过实时数据几乎立即发生变化。"
+    },
+    {
+      "key": "tbb81ec1d482a8c1b",
+      "english": "Platforms show live buy and sell prices and contract details. Prices update all the time. This keeps CFD prices in line with the real market.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#content",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "平台显示实时买卖价格和合同详细信息。价格随时更新。这使差价合约价格与实际市场保持一致。"
+    },
+    {
+      "key": "t875602adf55fa6af",
+      "english": "Practice on a demo account before you trade for real.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "在进行真实交易之前，先在模拟账户上进行练习。"
+    },
+    {
+      "key": "t6b37f60dae73c96b",
+      "english": "Most traders use CFDs, or Contracts for Difference. A CFD lets you trade the price of a metal without owning it.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "大多数交易者使用差价合约或差价合约。差价合约让您可以在不拥有金属的情况下交易金属的价格。"
+    },
+    {
+      "key": "t5e73c0c51bbce501",
+      "english": "What Is Leverage?",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "什么是杠杆？"
+    },
+    {
+      "key": "t1898a8c82b717260",
+      "english": "Palladium",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "钯金"
+    },
+    {
+      "key": "tf81209c4a47133c0",
+      "english": "Currency moves",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "货币走势"
+    },
+    {
+      "key": "t46860b83e8b9db1f",
+      "english": "<span data-i18n-slot=\"0\">Live charts and indicators:</span> so you can follow prices as they change",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">实时图表和指标：</span>以便您可以跟踪价格变化"
+    },
+    {
+      "key": "t5a8c52cdc40d6819",
+      "english": "Final Note",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "最后说明"
+    },
+    {
+      "key": "t78cebb64d52e243a",
+      "english": "With CFDs, you trade price moves. This gives you flexibility and fast execution. You have no storage or transport to worry about.",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#content",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "通过差价合约，您可以交易价格变动。这为您提供了灵活性和快速执行。您无需担心存储或运输。"
+    },
+    {
+      "key": "t85d12ff15f261295",
+      "english": "<span data-i18n-slot=\"0\">Energy CFDs are commonly traded due to their liquidity and ongoing market activity. These instruments experience frequent price movement influenced by geopolitical events, economic data, seasonal demand, and global energy policies.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter#content",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">能源差价合约因其流动性和持续的市场活动而被广泛交易。这些工具的价格波动频繁，受到地缘政治事件、经济数据、季节性需求和全球能源政策的影响。</span>"
+    }
+  ]
+}

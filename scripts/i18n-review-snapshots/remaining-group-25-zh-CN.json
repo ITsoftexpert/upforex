@@ -1,0 +1,567 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t3513a204804ffada",
+      "english": "<span data-i18n-slot=\"0\">Spread and commission:</span><span data-i18n-slot=\"1\"> Raw pricing plus commission can indicate ECN-style pricing but does not prove routing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差和佣金：</span><span data-i18n-slot=\"1\">原始定价加上佣金可以指示ECN式定价，但不能证明路由。</span>"
+    },
+    {
+      "key": "t601f72680a81af54",
+      "english": "<span data-i18n-slot=\"0\">Spread behaviour:</span><span data-i18n-slot=\"1\"> Check whether spreads are fixed or floating during news and thin liquidity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">点差行为：</span><span data-i18n-slot=\"1\">检查新闻和流动性稀薄期间点差是固定还是浮动。</span>"
+    },
+    {
+      "key": "tbf7a9f42df3795f4",
+      "english": "<span data-i18n-slot=\"0\">Slippage policy:</span><span data-i18n-slot=\"1\"> Slippage can occur under either model.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">滑点政策：</span><span data-i18n-slot=\"1\">任一模型下都可能发生滑点。</span>"
+    },
+    {
+      "key": "t973950ef885a053f",
+      "english": "<span data-i18n-slot=\"0\">Execution Walkthrough: How the Same Trade Looks on Each Model</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">执行演练：相同交易在每个模型上的表现</span>"
+    },
+    {
+      "key": "te2cc7e9b44bfd243",
+      "english": "<span data-i18n-slot=\"0\">Assume a trader buys </span><span data-i18n-slot=\"1\">one standard lot of EUR/USD</span><span data-i18n-slot=\"2\">, where one pip is approximately </span><span data-i18n-slot=\"3\">$10</span><span data-i18n-slot=\"4\"> in a US-dollar account. The market midpoint does not move before closing.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">假设交易者买入</span><span data-i18n-slot=\"1\">一标准手欧元/美元</span><span data-i18n-slot=\"2\">，在美元账户中，每个pip约为</span><span data-i18n-slot=\"3\">$10</span><span data-i18n-slot=\"4\">。平仓前市场中间价保持不变。</span>"
+    },
+    {
+      "key": "t585f8f30afd67922",
+      "english": "<span data-i18n-slot=\"0\">Market Maker-Style Spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">做市商式价差</span>"
+    },
+    {
+      "key": "t5d9f5942a6ef929e",
+      "english": "<span data-i18n-slot=\"0\">ECN-Style Spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ECN 式点差</span>"
+    },
+    {
+      "key": "t33bbc52e649b04ea",
+      "english": "<span data-i18n-slot=\"0\">Illustrative spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">示例点差</span>"
+    },
+    {
+      "key": "t0ede3621fc2f8f9b",
+      "english": "<span data-i18n-slot=\"0\">1.0 pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">1.0 点</span>"
+    },
+    {
+      "key": "t480bf00ea3894538",
+      "english": "<span data-i18n-slot=\"0\">0.2 pip</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">0.2 点</span>"
+    },
+    {
+      "key": "t6dd3fc9fb3d89d57",
+      "english": "<span data-i18n-slot=\"0\">Approximate spread cost</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">大约点差成本</span>"
+    },
+    {
+      "key": "tf1d9e01ed56759ae",
+      "english": "<span data-i18n-slot=\"0\">Illustrative round-lot commission</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">每个“round lot”的佣金示例</span>"
+    },
+    {
+      "key": "tf60e5ebf02f4552b",
+      "english": "<span data-i18n-slot=\"0\">Main cost presentation</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">主要成本介绍</span>"
+    },
+    {
+      "key": "taf812f04c4cfc0ce",
+      "english": "<span data-i18n-slot=\"0\">Cost embedded in spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">价差中嵌入的成本</span>"
+    },
+    {
+      "key": "teb70240898dc6e2a",
+      "english": "<span data-i18n-slot=\"0\">Tighter spread plus commission</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">更小的点差加上佣金</span>"
+    },
+    {
+      "key": "t7f74460cb92ab06c",
+      "english": "<span data-i18n-slot=\"0\">“ECN guarantees the best price.”</span><span data-i18n-slot=\"1\"> False. Execution depends on available liquidity.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">“ECN 保证最优惠的价格。”</span><span data-i18n-slot=\"1\">错误。执行取决于可用的流动性。</span>"
+    },
+    {
+      "key": "te1af4348cecc74c4",
+      "english": "<span data-i18n-slot=\"0\">A spread-only account may suit a trader who:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">仅点差账户可能适合以下交易者：</span>"
+    },
+    {
+      "key": "t34d25a019ebc7ed7",
+      "english": "<span data-i18n-slot=\"0\">Prefers costs included in the spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">更喜欢将成本包含在价差中</span>"
+    },
+    {
+      "key": "t707d8916842384f6",
+      "english": "<span data-i18n-slot=\"0\">Uses strategies sensitive to spread</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">使用对价差敏感的策略</span>"
+    },
+    {
+      "key": "tc13e3af6de8dd970",
+      "english": "<span data-i18n-slot=\"0\">Can compare spread plus commission</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可以比较点差加佣金</span>"
+    },
+    {
+      "key": "td6da323769b630ff",
+      "english": "<span data-i18n-slot=\"0\">Understands that raw spreads remain variable</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">了解原始点差仍然存在变化</span>"
+    },
+    {
+      "key": "t2dfa21120c06e7e4",
+      "english": "<span data-i18n-slot=\"0\">What is a market maker broker?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是做市商经纪商？</span>"
+    },
+    {
+      "key": "tcc1580e4ee8c0470",
+      "english": "<span data-i18n-slot=\"0\">A market maker broker provides bid and ask quotes and may act as counterparty to client trades. It may internalize exposure, match opposing orders or hedge externally. This creates a potential conflict, but regulated firms can manage it through transparent policies and controls.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">做市商经纪商提供买入和卖出报价，并可以充当客户交易的对手方。它可以内部化风险敞口、匹配相反的订单或外部对冲。这会产生潜在的冲突，但受监管的公司可以通过透明的政策和控制来管理它。</span>"
+    },
+    {
+      "key": "t0a0535016c1bae11",
+      "english": "<span data-i18n-slot=\"0\">Risk Disclaimer:</span><span data-i18n-slot=\"1\"> Forex and CFD trading is leveraged, involves significant risk and may not be suitable for everyone. Losses may exceed the initial deposit. Past performance does not guarantee future results. Trade only with funds you can afford to lose and review the full</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">risk disclosure</span></span><span data-i18n-slot=\"5\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/ecn-vs-market-maker-broker-difference#content",
+        "SSR:/blogs/ecn-vs-market-maker-broker-difference"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">风险免责声明：</span><span data-i18n-slot=\"1\">外汇和差价合约交易是杠杆交易，涉及重大风险，可能并不适合所有人。损失可能超过初始存款。过去的表现并不能保证未来的结果。仅使用您可以承受损失的资金进行交易，并查看完整的</span><span data-i18n-slot=\"2\"><span data-i18n-slot=\"3\"> </span><span data-i18n-slot=\"4\">风险披露</span></span><span data-i18n-slot=\"5\">。</span>"
+    },
+    {
+      "key": "t5f2047d9ea55b9ed",
+      "english": "<span data-i18n-slot=\"0\">CFDs are leveraged products. Gains and losses are calculated from the full exposure rather than only the margin deposited, and losses may exceed the initial deposit depending on the product, jurisdiction and protections. This article is educational and is not personalized financial advice.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">差价合约是杠杆产品。收益和损失是根据全部风险敞口计算的，而不仅仅是存入的保证金，根据产品、司法管辖区和保护措施，损失可能会超过初始存款。本文具有教育意义，并非个性化的财务建议。</span>"
+    },
+    {
+      "key": "t0070970c5d18a63c",
+      "english": "<span data-i18n-slot=\"0\">What Is a Stock CFD, and Why Trade One During Earnings Season?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">什么是股票差价合约，为什么在财报季节进行交易？</span>"
+    },
+    {
+      "key": "t9fe506f04d3a9284",
+      "english": "<span data-i18n-slot=\"0\">A stock CFD reflects the price movement of a company’s shares without transferring ownership. The trader exchanges the difference between the position’s opening and closing values.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">股票差价合约反映了公司股票的价格变动，但不转移所有权。交易者交换头寸的开仓价和平仓价之间的差额。</span>"
+    },
+    {
+      "key": "ta58581613f306fd1",
+      "english": "<span data-i18n-slot=\"0\">During earnings season, CFDs allow traders to:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在财报季期间，差价合约允许交易者：</span>"
+    },
+    {
+      "key": "t9a158872b6a3e906",
+      "english": "<span data-i18n-slot=\"0\">Open long or short positions</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">开立多头或空头头寸</span>"
+    },
+    {
+      "key": "t841aab038cda5cad",
+      "english": "<span data-i18n-slot=\"0\">Use margin instead of paying the full share value</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">使用保证金而不是支付全部股票价值</span>"
+    },
+    {
+      "key": "t8509305422093438",
+      "english": "<span data-i18n-slot=\"0\">Define exposure in CFD units</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">以 CFD 单位定义风险</span>"
+    },
+    {
+      "key": "t6f6747d0eaa1bd3e",
+      "english": "<span data-i18n-slot=\"0\">Use stop-loss and take-profit orders</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">使用止损和止盈订单</span>"
+    },
+    {
+      "key": "tf53fd0bfd131426d",
+      "english": "<span data-i18n-slot=\"0\">CFD vs Buying the Actual Share</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">差价合约与购买实际股票</span>"
+    },
+    {
+      "key": "tba122e16b65fb8bc",
+      "english": "<span data-i18n-slot=\"0\">Stock CFD</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">股票差价合约</span>"
+    },
+    {
+      "key": "tc1034749df1d1d5f",
+      "english": "<span data-i18n-slot=\"0\">No ownership of the underlying share</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">没有相关股份的所有权</span>"
+    },
+    {
+      "key": "t4f086f5d61713a4b",
+      "english": "<span data-i18n-slot=\"0\">Usually traded on margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">通常以保证金进行交易</span>"
+    },
+    {
+      "key": "t609fc9063a0add7e",
+      "english": "<span data-i18n-slot=\"0\">Ability to go short</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">做空能力</span>"
+    },
+    {
+      "key": "t4640f4c7c5dec599",
+      "english": "<span data-i18n-slot=\"0\">Cash adjustments may apply</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">可能会进行现金调整</span>"
+    },
+    {
+      "key": "t19022eda411cf970",
+      "english": "<span data-i18n-slot=\"0\">Typical use case</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型用例</span>"
+    },
+    {
+      "key": "t79f5068500e80509",
+      "english": "<span data-i18n-slot=\"0\">Shorter-term speculation or hedging</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">短期投机或对冲</span>"
+    },
+    {
+      "key": "t811bda4a75cf40e6",
+      "english": "<span data-i18n-slot=\"0\">Share-price decline and concentration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">股价下跌和集中度</span>"
+    },
+    {
+      "key": "t0ecfe510ae34b07a",
+      "english": "<span data-i18n-slot=\"0\">Why Earnings Season Moves Apple, Tesla and Nvidia Differently</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">为什么财报季对苹果、特斯拉和英伟达的影响不同</span>"
+    },
+    {
+      "key": "t4d646460dfdac82c",
+      "english": "<span data-i18n-slot=\"0\">Earnings-Season Profile Comparison</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">季度收益概况比较</span>"
+    },
+    {
+      "key": "t09523b0fffbb83bd",
+      "english": "<span data-i18n-slot=\"0\">Stock</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">股票</span>"
+    },
+    {
+      "key": "t752bedd89c48bcb8",
+      "english": "<span data-i18n-slot=\"0\">Typical Volatility Driver</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">典型的波动性驱动因素</span>"
+    },
+    {
+      "key": "ta97dca43e18c401f",
+      "english": "<span data-i18n-slot=\"0\">Historical Earnings-Day Move Range*</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">历史收益日波动范围*</span>"
+    },
+    {
+      "key": "t93ea393b4f42705b",
+      "english": "<span data-i18n-slot=\"0\">Timing Consideration</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">时间考虑</span>"
+    },
+    {
+      "key": "t7f0996bc59ed46f0",
+      "english": "<span data-i18n-slot=\"0\">Deliveries, margins, pricing and commentary</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">交货、利润、定价和评论</span>"
+    },
+    {
+      "key": "t07c35a06043200c2",
+      "english": "<span data-i18n-slot=\"0\">Post-market releases may create gaps</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">盘后公布财报可能造成跳空</span>"
+    },
+    {
+      "key": "t2430dab852cd48d8",
+      "english": "<span data-i18n-slot=\"0\">Step-by-Step: How to Trade a Stock CFD Around an Earnings Report</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">分步：如何围绕收益报告交易股票差价合约</span>"
+    },
+    {
+      "key": "ta6ab05a410812526",
+      "english": "<span data-i18n-slot=\"0\">Focus on the metrics most likely to affect expectations:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">关注最有可能影响期望的指标：</span>"
+    },
+    {
+      "key": "tda7d49497b5070ab",
+      "english": "<span data-i18n-slot=\"0\">3. Check the Volatility Environment</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">3。检查波动环境</span>"
+    },
+    {
+      "key": "t0b6eb0acf75e6caa",
+      "english": "<span data-i18n-slot=\"0\">4. Calculate Position Size and Margin</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">4。计算头寸规模和保证金</span>"
+    },
+    {
+      "key": "t2ef222389ea25226",
+      "english": "<span data-i18n-slot=\"0\">Set the maximum acceptable monetary loss before choosing volume. Consider the stop distance, available margin, possible gap, costs and related positions.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">在选择交易量之前设置最大可接受的货币损失。考虑止损距离、可用保证金、可能的缺口、成本和相关仓位。</span>"
+    },
+    {
+      "key": "te37c9adfe3ebe553",
+      "english": "<span data-i18n-slot=\"0\">A long position expresses an expectation of a rise; a short position expresses an expectation of a decline. Staying flat is valid when the potential gap cannot fit the risk plan.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">多头持仓表达上涨预期，空头持仓表达下跌预期。当可能出现的跳空无法纳入风险计划时，保持空仓也是合理的选择。</span>"
+    },
+    {
+      "key": "t27953f3257f5157e",
+      "english": "<span data-i18n-slot=\"0\">6. Place the Order and Define the Exit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/how-to-trade-stock-cfds-apple,-tesla-&-nvidia#content",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">6。下订单并定义退出</span>"
+    }
+  ]
+}

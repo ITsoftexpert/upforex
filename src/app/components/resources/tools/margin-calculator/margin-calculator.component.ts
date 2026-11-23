@@ -7,6 +7,7 @@ import {
   Inject,
 } from '@angular/core';
 @Component({
+  standalone: false,
   selector: 'app-margin-calculator',
   templateUrl: './margin-calculator.component.html',
   styleUrls: ['./margin-calculator.component.scss'],

@@ -7,6 +7,7 @@ import {
   PLATFORM_ID,
 } from '@angular/core';
 @Component({
+  standalone: false,
   selector: 'app-profit-calculator',
   templateUrl: './profit-calculator.component.html',
   styleUrls: ['./profit-calculator.component.scss'],

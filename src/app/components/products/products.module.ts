@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { CommonModules } from '../../common/common.module';
 import { ProductsRoutingModule } from './products-routing.module';
 import { CryptoCfdComponent } from './crypto-cfd/crypto-cfd.component';
 import { EnergyFutureComponent } from './energy-future/energy-future.component';
@@ -17,6 +18,6 @@ import { UsStocksComponent } from './us-stocks/us-stocks.component';
     PreciousMetalComponent,
     UsStocksComponent,
   ],
-  imports: [CommonModule, ProductsRoutingModule],
+  imports: [CommonModule, CommonModules, ProductsRoutingModule],
 })
 export class ProductsModule {}

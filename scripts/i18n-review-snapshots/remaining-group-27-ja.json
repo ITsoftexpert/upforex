@@ -1,0 +1,637 @@
+{
+  "language": "ja",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t7c563da75e0266c5",
+      "english": "<span data-i18n-slot=\"0\">How to Set a Stop-Loss and Take-Profit on MT5</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">MT5 でストップロスとテイクプロフィットを設定する方法</span>"
+    },
+    {
+      "key": "t10c13b45fb2d2c17",
+      "english": "<span data-i18n-slot=\"0\">Open the order window for the chosen instrument.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">選択した商品の注文ウィンドウを開きます。</span>"
+    },
+    {
+      "key": "t05d823358dfe84e1",
+      "english": "<span data-i18n-slot=\"0\">Enter the target in the </span><span data-i18n-slot=\"1\">Take Profit</span><span data-i18n-slot=\"2\"> field.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\"></span><span data-i18n-slot=\"1\">利食い</span><span data-i18n-slot=\"2\">フィールドに目標を入力します。</span>"
+    },
+    {
+      "key": "t2d06582c15b84750",
+      "english": "<span data-i18n-slot=\"0\">Submit the order only after checking the planned exposure.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">計画されたエクスポージャーを確認した後でのみ注文を送信してください。</span>"
+    },
+    {
+      "key": "tdedc5e4bdb8bf57b",
+      "english": "<span data-i18n-slot=\"0\">When Modifying an Open Position</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">オープンポジションを変更する場合</span>"
+    },
+    {
+      "key": "t19957d84416d2ae4",
+      "english": "<span data-i18n-slot=\"0\">Enter or revise the stop-loss and take-profit values.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスとテイクプロフィットの値を入力または修正します。</span>"
+    },
+    {
+      "key": "t40140d52191c10a6",
+      "english": "<span data-i18n-slot=\"0\">Confirm the modification.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">変更を確認します。</span>"
+    },
+    {
+      "key": "t5d598bd6acf93812",
+      "english": "<span data-i18n-slot=\"0\">Common Stop-Loss and Take-Profit Mistakes</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">よくあるストップロスとテイクプロフィットの間違い</span>"
+    },
+    {
+      "key": "ta60bc9ec08618060",
+      "english": "<span data-i18n-slot=\"0\">Placing the Stop Too Close</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップの位置が近すぎる</span>"
+    },
+    {
+      "key": "tc2a0fe06b51d6bd4",
+      "english": "<span data-i18n-slot=\"0\">A very tight stop may be triggered by normal volatility even when the broader trade idea has not changed. Consider market structure and recent price range before selecting the level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">より広範なトレードの考え方が変わっていない場合でも、通常のボラティリティによって非常に厳しいストップが引き起こされる可能性があります。レベルを選択する前に、市場構造と最近の価格帯を考慮してください。</span>"
+    },
+    {
+      "key": "tccf7ae77071f5a85",
+      "english": "<span data-i18n-slot=\"0\">Trading Without a Stop-Loss</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスなしの取引</span>"
+    },
+    {
+      "key": "t2627ba91eff8a26d",
+      "english": "<span data-i18n-slot=\"0\">A trader who plans to “close manually” may hesitate when a loss develops or may be unable to react during a sudden move or connection problem.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">「手動で決済」することを計画しているトレーダーは、損失が発生したときに躊躇したり、突然の移動や接続の問題が発生したときに対応できない可能性があります。</span>"
+    },
+    {
+      "key": "t8f6fcc821bbd6418",
+      "english": "<span data-i18n-slot=\"0\">Moving the Stop Farther Away</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップをさらに遠くに移動する</span>"
+    },
+    {
+      "key": "t73e3bc001962886a",
+      "english": "<span data-i18n-slot=\"0\">Ignoring Spread, Gaps, and Slippage</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">スプレッド、ギャップ、スリッページの無視</span>"
+    },
+    {
+      "key": "t6f0a6fb74087d1b5",
+      "english": "<span data-i18n-slot=\"0\">A stop-loss is a trigger, not a guaranteed execution price. Fast markets, gaps, and low liquidity can cause the closing order to fill beyond the selected level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスはトリガーであり、保証された約定価格ではありません。急速な市場、ギャップ、流動性の低さにより、選択したレベルを超えて決済注文が約定される可能性があります。</span>"
+    },
+    {
+      "key": "ta2139f29c1e2a44f",
+      "english": "<span data-i18n-slot=\"0\">Choosing an Unrealistic Take-Profit</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">非現実的なテイクプロフィットの選択</span>"
+    },
+    {
+      "key": "ta89f23967f8e155e",
+      "english": "<span data-i18n-slot=\"0\">A stop-loss is an order attached to a position or pending order that triggers a closing instruction when price reaches a selected loss-control level. It helps define where a trade should end if the market moves against it, but slippage or gaps may cause execution beyond the requested price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスは、価格が選択した損失制御レベルに達したときに決済指示をトリガーする、ポジションまたは未決注文に関連付けられた注文です。これは、市場がそれに逆行した場合に取引をどこで終了するかを定義するのに役立ちますが、スリッページやギャップにより、要求された価格を超えて約定する可能性があります。</span>"
+    },
+    {
+      "key": "tb2b4172f70e860cb",
+      "english": "<span data-i18n-slot=\"0\">What is the difference between stop-loss and take-profit?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ストップロスとテイクプロフィットの違いは何ですか?</span>"
+    },
+    {
+      "key": "t883f7661b03e2ebd",
+      "english": "<span data-i18n-slot=\"0\">What is a trailing stop-loss and how does it work?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーリングストップロスとは何ですか?またその仕組みは何ですか?</span>"
+    },
+    {
+      "key": "tce943d29889688ad",
+      "english": "<span data-i18n-slot=\"0\">No. A stop-loss triggers an instruction to close the position, but it cannot guarantee the precise execution price. Gaps, low liquidity, rapid volatility, slippage, exchange rules, or rejected operations can result in a fill beyond the selected stop level.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">いいえ。ストップロスはポジションを閉じる指示をトリガーしますが、正確な約定価格を保証することはできません。ギャップ、低い流動性、急激なボラティリティ、スリッページ、為替ルール、または拒否されたオペレーションにより、選択したストップレベルを超えて約定が発生する可能性があります。</span>"
+    },
+    {
+      "key": "t1aa6f57750c887a3",
+      "english": "<span data-i18n-slot=\"0\">Should beginners always use a stop-loss?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初心者は常にストップロスを使用する必要がありますか?</span>"
+    },
+    {
+      "key": "tcb3874b490cff8f4",
+      "english": "<span data-i18n-slot=\"0\">Beginners should normally define their exit and maximum acceptable exposure before opening a leveraged trade. A stop-loss can support that process, but it must be paired with suitable position sizing and an understanding that execution may differ from the trigger price.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/stop-loss-and-take-profit-risk-management-guide#content",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">初心者は通常、レバレッジ取引を開始する前に、エグジットと許容可能な最大エクスポージャーを定義する必要があります。ストップロスはそのプロセスをサポートできますが、適切なポジションサイジングと、約定がトリガー価格と異なる可能性があることの理解と組み合わせる必要があります。</span>"
+    },
+    {
+      "key": "t10327d3a6de78ea4",
+      "english": "<span data-i18n-slot=\"0\">The table below shows typical institutional activity windows. These are reference periods rather than guaranteed opening and closing times for every currency pair or CFD.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">以下の表は、典型的な機関の活動ウィンドウを示しています。これらは基準期間であり、すべての通貨ペアまたは CFD の開始時間と終了時間を保証するものではありません。</span>"
+    },
+    {
+      "key": "t5274a18950de12db",
+      "english": "<span data-i18n-slot=\"0\">8:00 a.m.–5:00 p.m. Sydney time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">シドニー時間の午前8:00–午後5:00</span>"
+    },
+    {
+      "key": "tb00fd5e977674c91",
+      "english": "<span data-i18n-slot=\"0\">9:00 a.m.–6:00 p.m. Japan time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">日本時間の午前9:00–午後6:00</span>"
+    },
+    {
+      "key": "t16d5089f571394af",
+      "english": "<span data-i18n-slot=\"0\">8:00 a.m.–5:00 p.m. London time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ロンドン時間の午前8:00–午後5:00</span>"
+    },
+    {
+      "key": "t41045ba0f5dbfd8a",
+      "english": "<span data-i18n-slot=\"0\">11:00 a.m.–8:00 p.m. during BST; noon–9:00 p.m. during GMT</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">BST期間中は午前11:00–午後8:00、GMT期間中は正午–午後9:00</span>"
+    },
+    {
+      "key": "tb80c9d585a9d5a74",
+      "english": "<span data-i18n-slot=\"0\">8:00 a.m.–5:00 p.m. New York time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ニューヨーク時間の午前8:00–午後5:00</span>"
+    },
+    {
+      "key": "t630beccf656c9113",
+      "english": "<span data-i18n-slot=\"0\">4:00 p.m.–1:00 a.m. during EDT; 5:00 p.m.–2:00 a.m. during EST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">EDT期間中は午後4:00–午前1:00、EST期間中は午後5:00–午前2:00</span>"
+    },
+    {
+      "key": "tcea064668a1fa244",
+      "english": "<span data-i18n-slot=\"0\">These session windows align with the commonly used global forex-session framework. The UK and United States move their clocks at different times of the year, while Gulf Standard Time remains UTC+4 throughout the year. In 2026, US daylight saving runs from March 8 to November 1, while British Summer Time runs from March 29 to October 25.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">これらの取引時間帯は、一般的な世界の外国為替セッションの枠組みに沿っています。英国と米国の時計の切り替え時期は異なりますが、湾岸標準時は年間を通してUTC+4です。2026年の米国夏時間は三月8日から十一月1日まで、英国夏時間は三月29日から十月25日までです。</span>"
+    },
+    {
+      "key": "t1bbceb5900edaaf1",
+      "english": "<span data-i18n-slot=\"0\">Best overlap windows</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最適なオーバーラップウィンドウ</span>"
+    },
+    {
+      "key": "t7c7dac56ba9333d0",
+      "english": "<span data-i18n-slot=\"0\">Tokyo–London:</span><span data-i18n-slot=\"1\"> About </span><span data-i18n-slot=\"2\">11:00 a.m.–1:00 p.m. GST during BST</span><span data-i18n-slot=\"3\"> or </span><span data-i18n-slot=\"4\">noon–1:00 p.m. during GMT</span><span data-i18n-slot=\"5\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">東京とロンドン：</span><span data-i18n-slot=\"1\">およそ</span><span data-i18n-slot=\"2\">BST期間中は湾岸標準時（GST）の午前11:00–午後1:00</span><span data-i18n-slot=\"3\">、または</span><span data-i18n-slot=\"4\">GMT期間中は正午–午後1:00</span><span data-i18n-slot=\"5\">。</span>"
+    },
+    {
+      "key": "t94284af57616a00d",
+      "english": "<span data-i18n-slot=\"0\">London–New York:</span><span data-i18n-slot=\"1\"> About </span><span data-i18n-slot=\"2\">4:00–8:00 p.m. GST during joint daylight-saving periods</span><span data-i18n-slot=\"3\"> or </span><span data-i18n-slot=\"4\">5:00–9:00 p.m. during standard time</span><span data-i18n-slot=\"5\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ロンドンとニューヨーク：</span><span data-i18n-slot=\"1\">およそ</span><span data-i18n-slot=\"2\">両地域が夏時間の期間は湾岸標準時（GST）の午後4:00–8:00</span><span data-i18n-slot=\"3\">、または</span><span data-i18n-slot=\"4\">標準時間の期間は午後5:00–9:00</span><span data-i18n-slot=\"5\">。</span>"
+    },
+    {
+      "key": "t58af80c4bbf4d7a2",
+      "english": "<span data-i18n-slot=\"0\">During the short weeks when US and UK clock changes do not align, the London–New York overlap may temporarily run from approximately </span><span data-i18n-slot=\"1\">4:00–9:00 p.m. GST</span><span data-i18n-slot=\"2\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">米国と英国の時計の切り替え日が一致しない数週間は、ロンドンとニューヨークの重複時間帯が一時的におよそ</span><span data-i18n-slot=\"1\">湾岸標準時（GST）の午後4:00–9:00</span><span data-i18n-slot=\"2\">となる場合があります。</span>"
+    },
+    {
+      "key": "t75b544e4922d4508",
+      "english": "<span data-i18n-slot=\"0\">UK and US daylight saving</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">英国と米国の夏時間</span>"
+    },
+    {
+      "key": "td290d014ee83021a",
+      "english": "<span data-i18n-slot=\"0\">Liquidity does not guarantee a profitable setup. A trader should still assess spreads, volatility, economic releases and personal risk limits before entering.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">流動性は収益性の高いセットアップを保証するものではありません。トレーダーはエントリーする前に、スプレッド、ボラティリティ、経済的リリース、個人のリスク制限を評価する必要があります。</span>"
+    },
+    {
+      "key": "t0ce299f7605a6c33",
+      "english": "<span data-i18n-slot=\"0\">The official Nasdaq cash market trades from </span><span data-i18n-slot=\"1\">9:30 a.m. to 4:00 p.m. Eastern Time</span><span data-i18n-slot=\"2\">, Monday through Friday.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ナスダックの公式現物市場の取引時間は、</span><span data-i18n-slot=\"1\">米東部時間の午前9:30–午後4:00</span><span data-i18n-slot=\"2\">で、月曜日から金曜日です。</span>"
+    },
+    {
+      "key": "t4ca3bdfd7a7cb463",
+      "english": "<span data-i18n-slot=\"0\">During US daylight saving:</span><span data-i18n-slot=\"1\"> 5:30 p.m.–midnight GST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">米国夏時間中：</span><span data-i18n-slot=\"1\">湾岸標準時（GST）の午後5:30–深夜</span>"
+    },
+    {
+      "key": "teb2a2117a1166433",
+      "english": "<span data-i18n-slot=\"0\">During US standard time:</span><span data-i18n-slot=\"1\"> 6:30 p.m.–1:00 a.m. GST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">米国標準時間中：</span><span data-i18n-slot=\"1\">湾岸標準時（GST）の午後6:30–午前1:00</span>"
+    },
+    {
+      "key": "taede9e21e34278bb",
+      "english": "<span data-i18n-slot=\"0\">Nasdaq also lists pre-market trading from 4:00–9:30 a.m. ET and after-hours trading from 4:00–8:00 p.m. ET. In GST, that means:</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ナスダックでは、米東部時間（ET）の午前4:00–9:30にプレマーケット取引、午後4:00–8:00に時間外取引も設定されています。湾岸標準時（GST）に換算すると次のとおりです。</span>"
+    },
+    {
+      "key": "t2241080da04ca32b",
+      "english": "<span data-i18n-slot=\"0\">Nasdaq Session</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ナスダックセッション</span>"
+    },
+    {
+      "key": "tfbae3f11b796c35b",
+      "english": "<span data-i18n-slot=\"0\">During US DST</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">米国夏時間中</span>"
+    },
+    {
+      "key": "t5dd34091af43dcd3",
+      "english": "<span data-i18n-slot=\"0\">Pre-market</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プレマーケット取引</span>"
+    },
+    {
+      "key": "t60e325e5f401deff",
+      "english": "<span data-i18n-slot=\"0\">Noon–5:30 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">正午–午後5:30</span>"
+    },
+    {
+      "key": "t30703637d1dfe623",
+      "english": "<span data-i18n-slot=\"0\">5:30 p.m.–midnight</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">午後5:30–深夜</span>"
+    },
+    {
+      "key": "t1c74a3e9cb7f4567",
+      "english": "<span data-i18n-slot=\"0\">After-hours</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">時間外</span>"
+    },
+    {
+      "key": "tc2f29dff88347f13",
+      "english": "<span data-i18n-slot=\"0\">Traders should confirm instrument-specific access through the</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">Index CFDs</span></span><span data-i18n-slot=\"4\"> and</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">Stock CFDs</span></span><span data-i18n-slot=\"8\"> pages rather than assuming that all Nasdaq-related instruments use identical hours. UpForex confirms Nasdaq 100 exposure through its index-CFD offering and access to more than 200 company-share CFDs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">トレーダーは、すべてのナスダック関連商品が同じ時間を使用すると仮定するのではなく、</span><span data-i18n-slot=\"1\"><span data-i18n-slot=\"2\"> </span><span data-i18n-slot=\"3\">指数 CFD</span></span><span data-i18n-slot=\"4\"> および</span><span data-i18n-slot=\"5\"><span data-i18n-slot=\"6\"> </span><span data-i18n-slot=\"7\">株式 CFD</span></span><span data-i18n-slot=\"8\"> ページを通じて商品固有のアクセスを確認する必要があります。 UpForex は、インデックス CFD 提供と 200 を超える自社株 CFD へのアクセスを通じてナスダック 100 にエクスポージャーがあることを確認します。</span>"
+    },
+    {
+      "key": "t03a9fff279ed75c4",
+      "english": "<span data-i18n-slot=\"0\">Approximately 4:00–8:00 p.m. GST during daylight-saving periods</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">夏時間の期間は湾岸標準時（GST）の午後4:00–8:00ごろ</span>"
+    },
+    {
+      "key": "t70a8c24d29859cf7",
+      "english": "<span data-i18n-slot=\"0\">Approximately 5:00–9:00 p.m. GST during standard time</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">標準時間の期間は湾岸標準時（GST）の午後5:00–9:00ごろ</span>"
+    },
+    {
+      "key": "t987bc5f451888a68",
+      "english": "<span data-i18n-slot=\"0\">This window includes major European and US participation and may include American economic releases. Gold may therefore move more quickly, but increased volatility also raises execution and risk-management demands.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">この枠にはヨーロッパとアメリカの主要な参加者が含まれており、アメリカの経済発表も含まれる可能性があります。したがって、金の動きはより早くなる可能性がありますが、ボラティリティの増加により、執行とリスク管理の要求も高まります。</span>"
+    },
+    {
+      "key": "t18e45140562aaacc",
+      "english": "<span data-i18n-slot=\"0\">What Are the Abu Dhabi Securities Exchange Trading Hours?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">アブダビ証券取引所の取引時間は何時ですか?</span>"
+    },
+    {
+      "key": "td77c5d38b74ffcfa",
+      "english": "<span data-i18n-slot=\"0\">ADX’s official exchange-timings information currently lists its trading week as </span><span data-i18n-slot=\"1\">Monday through Friday</span><span data-i18n-slot=\"2\">. Its official auction information confirms the pre-opening session from </span><span data-i18n-slot=\"3\">9:30–10:00 a.m. GST</span><span data-i18n-slot=\"4\"> and shows that the pre-close auction begins at </span><span data-i18n-slot=\"5\">2:45 p.m. GST</span><span data-i18n-slot=\"6\">.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ADXの公式取引時間情報によると、現在の取引日は</span><span data-i18n-slot=\"1\">月曜日から金曜日</span><span data-i18n-slot=\"2\">です。公式オークション情報では、プレオープン時間は</span><span data-i18n-slot=\"3\">湾岸標準時（GST）の午前9:30–10:00</span><span data-i18n-slot=\"4\">で、プレクローズ・オークションは</span><span data-i18n-slot=\"5\">湾岸標準時（GST）の午後2:45</span><span data-i18n-slot=\"6\">に開始するとされています。</span>"
+    },
+    {
+      "key": "teb1af3e99416e3e3",
+      "english": "<span data-i18n-slot=\"0\">Pre-opening</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">プレオープン</span>"
+    },
+    {
+      "key": "t1f98cfd7b31783f3",
+      "english": "<span data-i18n-slot=\"0\">Continuous trading</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">継続的な取引</span>"
+    },
+    {
+      "key": "t7c2bb0537c71826f",
+      "english": "<span data-i18n-slot=\"0\">Which Trading Overlap Suits Which Instrument?</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">どの取引のオーバーラップがどの商品に適しているか?</span>"
+    },
+    {
+      "key": "t931a7f4dd179dcfd",
+      "english": "<span data-i18n-slot=\"0\">The most active window depends on where an instrument’s participants and underlying markets are concentrated.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">最もアクティブなウィンドウは、商品の参加者と基礎となる市場がどこに集中しているかによって異なります。</span>"
+    },
+    {
+      "key": "t22b3714b61c97815",
+      "english": "<span data-i18n-slot=\"0\">Sydney and Tokyo participation overlaps</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">シドニーと東京の参加が重複</span>"
+    },
+    {
+      "key": "t757af9fe103672b6",
+      "english": "<span data-i18n-slot=\"0\">11:00 a.m.–1:00 p.m. or noon–1:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">午前11:00–午後1:00、または正午–午後1:00</span>"
+    },
+    {
+      "key": "t3f0fe48aa62bae40",
+      "english": "<span data-i18n-slot=\"0\">4:00–8:00 p.m. or 5:00–9:00 p.m.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">午後4:00–8:00、または午後5:00–9:00</span>"
+    },
+    {
+      "key": "tee387ae12894669d",
+      "english": "<span data-i18n-slot=\"0\">The US cash equity market opens</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">米国の現物株式市場が開設される</span>"
+    },
+    {
+      "key": "t7114804e43dae178",
+      "english": "<span data-i18n-slot=\"0\">ADX continuous trading is active</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ADX継続取引がアクティブです</span>"
+    },
+    {
+      "key": "ta1ccf66707e61d59",
+      "english": "<span data-i18n-slot=\"0\">The London–New York overlap may suit traders seeking stronger liquidity in major USD pairs and gold. The Asian session may be more relevant to traders following JPY, AUD and NZD pairs.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">ロンドンとニューヨークの重複は、主要な米ドルペアと金のより強力な流動性を求めるトレーダーに適している可能性があります。アジアセッションは、JPY、AUD、NZDのペアをフォローしているトレーダーにとってより関連性が高いかもしれません。</span>"
+    },
+    {
+      "key": "t6a7c1ebe4fd48dda",
+      "english": "<span data-i18n-slot=\"0\">US index traders often focus on the hour before and after the Nasdaq cash market opening because participation and volatility may shift. That does not make the opening a buy or sell signal.</span>",
+      "kind": "html",
+      "sources": [
+        "CMS:blogs/best-trading-hours-middle-east-traders#content",
+        "SSR:/blogs/best-trading-hours-middle-east-traders"
+      ],
+      "translation": "<span data-i18n-slot=\"0\">米国指数のトレーダーは、参加状況とボラティリティが変わる可能性があるため、ナスダック現物市場の寄り付き前後の時間帯に注目することがよくあります。寄り付き自体が売買シグナルになるわけではありません。</span>"
+    }
+  ]
+}

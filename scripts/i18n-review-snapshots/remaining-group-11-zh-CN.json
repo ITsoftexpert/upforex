@@ -1,0 +1,796 @@
+{
+  "language": "zh-CN",
+  "method": "assistant-bilingual-exact-source-review",
+  "humanReviewed": false,
+  "rows": [
+    {
+      "key": "t2098030c2cec82cc",
+      "english": "OTC Trading in the UAE | Legal Guide for Dubai Traders | UpForex",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#title",
+        "CMS:blogs/otc-trading-in-uae#metaTitle",
+        "SSR:/blogs",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "阿联酋场外交易|迪拜商人法律指南| UpForex"
+    },
+    {
+      "key": "t605b26e459f8011c",
+      "english": "Learn what OTC trading means in the UAE, whether it is legal in Dubai, what you can trade, and how UpForex helps you access regulated OTC markets.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#description",
+        "CMS:blogs/otc-trading-in-uae#descriptionSnippet",
+        "SSR:/blogs/what-factors-influence-gold-and-silver-prices-in-the-global-market",
+        "SSR:/blogs/market-order-vs-limit-order-vs-stop-order",
+        "SSR:/blogs/what-is-drawdown-in-trading",
+        "SSR:/blogs/how-economic-events-move-the-market-nfp-cpi-fed",
+        "SSR:/blogs/how-to-become-an-introducing-broker",
+        "SSR:/blogs/copy-trading-and-social-trading-explained",
+        "SSR:/blogs/how-to-trade-stock-cfds-apple-tesla-nvidia",
+        "SSR:/blogs/stop-loss-and-take-profit-risk-management-guide",
+        "SSR:/blogs/best-trading-hours-middle-east-traders",
+        "SSR:/blogs/top-10-mistakes-new-forex-traders-make",
+        "SSR:/blogs/candlestick-patterns-how-to-read-charts",
+        "SSR:/blogs/how-to-invest-in-gold-in-the-uae",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "了解场外交易在阿联酋意味着什么、在迪拜是否合法、您可以交易什么，以及 UpForex 如何帮助您进入受监管的场外交易市场。"
+    },
+    {
+      "key": "t54a3f7a12d9d2205",
+      "english": "otc-trading-in-uae",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#imageAltTag",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "阿联酋场外交易"
+    },
+    {
+      "key": "t5027af2a98a6e89e",
+      "english": "OTC Trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#tag",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "场外交易"
+    },
+    {
+      "key": "tcc0074eadc296b1e",
+      "english": "OTC TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#upperTag",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "场外交易"
+    },
+    {
+      "key": "t503fa844f76050c8",
+      "english": "OTC Trading in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#tag",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "阿联酋场外交易"
+    },
+    {
+      "key": "tca820b84c784f688",
+      "english": "OTC TRADING IN UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/otc-trading-in-uae#upperTag",
+        "SSR:/blogs/otc-trading-in-uae"
+      ],
+      "translation": "阿联酋场外交易"
+    },
+    {
+      "key": "t3d6c745eb0e7061a",
+      "english": "Unlock Earning Opportunities with CFD Index Trading in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#title",
+        "SSR:/blogs",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "通过阿联酋差价合约指数交易释放盈利机会"
+    },
+    {
+      "key": "t79d422e27339c134",
+      "english": "CFD Index Trading in UAE | Profitable Investment Guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#metaTitle",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "阿联酋差价合约指数交易|盈利投资指南"
+    },
+    {
+      "key": "t9efdd0a67cd45c86",
+      "english": "Looking to begin CFD Index Trading in UAE? Discover expert advice and top tactics to boost profits. Join UpForex today to start your successful trading journey!",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#description",
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#descriptionSnippet",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "想要在阿联酋开始差价合约指数交易？发现专家建议和顶级策略以提高利润。立即加入 UpForex 开始您成功的交易之旅！"
+    },
+    {
+      "key": "t8bd3ea69443a5baf",
+      "english": "CFD Index Trading in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#imageAltTag",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "阿联酋差价合约指数交易"
+    },
+    {
+      "key": "te132bc94a8ad69ba",
+      "english": "cfd index",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#tag",
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#tag",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "差价合约指数"
+    },
+    {
+      "key": "t8485eb94bc55b77a",
+      "english": "CFD INDEX",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#upperTag",
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#upperTag",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "差价合约指数"
+    },
+    {
+      "key": "t5e833aaf17e21aef",
+      "english": "otc trading uae",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#tag",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "阿联酋场外交易"
+    },
+    {
+      "key": "t964d190f5b180d0f",
+      "english": "OTC TRADING UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae#upperTag",
+        "SSR:/blogs/unlock-earning-opportunities-with-cfd-index-trading-in-uae"
+      ],
+      "translation": "阿联酋场外交易"
+    },
+    {
+      "key": "tdd1a4393f9ccb649",
+      "english": "Best Forex Broker in Middle East",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#imageAltTag",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "中东最佳外汇经纪商"
+    },
+    {
+      "key": "t9f2e1d76b35abc24",
+      "english": "best forex trading platform dubai",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#tag",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "迪拜最佳外汇交易平台"
+    },
+    {
+      "key": "t0849e496fc493504",
+      "english": "BEST FOREX TRADING PLATFORM DUBAI",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#upperTag",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "迪拜最佳外汇交易平台"
+    },
+    {
+      "key": "tb8d6ac0a0d76e69c",
+      "english": "forex trading in dubai",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#tag",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "迪拜的外汇交易"
+    },
+    {
+      "key": "t9a37cd2ad824f97c",
+      "english": "FOREX TRADING IN DUBAI",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide#upperTag",
+        "SSR:/blogs/how-to-choose-the-best-forex-broker-in-middle-east-expert-guide"
+      ],
+      "translation": "迪拜的外汇交易"
+    },
+    {
+      "key": "t390d8ba070ae47f0",
+      "english": "Gold Trading in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-gold-trading-in-uae-complete-beginners-guide#imageAltTag",
+        "SSR:/blogs/what-is-gold-trading-in-uae-complete-beginners-guide"
+      ],
+      "translation": "阿联酋的黄金交易"
+    },
+    {
+      "key": "t03c26a210c60b519",
+      "english": "New to forex trading in Dubai? Learn the legal rules, trading process, and beginner basics in simple terms with expert guidance from Upforex. Contact us today.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#description",
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#descriptionSnippet",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "迪拜外汇交易新手？在 Upforex 的专家指导下，以简单的方式学习法律规则、交易流程和初学者基础知识。今天联系我们。"
+    },
+    {
+      "key": "tf27fd42a92ad093c",
+      "english": "Forex Trading in Dubai",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#imageAltTag",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "迪拜的外汇交易"
+    },
+    {
+      "key": "tb2d829c037946a16",
+      "english": "High leverage forex brokers",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#tag",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "高杠杆外汇经纪商"
+    },
+    {
+      "key": "te7cadb603878dd36",
+      "english": "HIGH LEVERAGE FOREX BROKERS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#upperTag",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "高杠杆外汇经纪商"
+    },
+    {
+      "key": "tfa32fe9c659be666",
+      "english": "trusted forex brokers",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#tag",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "值得信赖的外汇经纪商"
+    },
+    {
+      "key": "tfe95c0fc4fdcf606",
+      "english": "TRUSTED FOREX BROKERS",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners#upperTag",
+        "SSR:/blogs/forex-trading-in-dubai-laws-procedures-and-a-guide-for-beginners"
+      ],
+      "translation": "值得信赖的外汇经纪商"
+    },
+    {
+      "key": "tfe216504cca6e928",
+      "english": "Upforex Trading Platform | Global Markets Access in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#metaTitle",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets"
+      ],
+      "translation": "Upforex交易平台 | 在阿联酋连接全球市场"
+    },
+    {
+      "key": "t255b1990d495777c",
+      "english": "forex platform",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#tag",
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#tag",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "外汇平台"
+    },
+    {
+      "key": "t46467470a5d0b31c",
+      "english": "FOREX PLATFORM",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/upforex-a-trusted-trading-platform-connecting-global-markets#upperTag",
+        "CMS:blogs/minimum-amount-required-for-forex-trading-complete-guide#upperTag",
+        "SSR:/blogs/upforex-a-trusted-trading-platform-connecting-global-markets",
+        "SSR:/blogs/minimum-amount-required-for-forex-trading-complete-guide"
+      ],
+      "translation": "外汇平台"
+    },
+    {
+      "key": "t6ef0e8d8d15fcd9a",
+      "english": "Bitcoin CFD Trading Platform in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#imageAltTag",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "阿联酋比特币差价合约交易平台"
+    },
+    {
+      "key": "t09c632877171993b",
+      "english": "cfd bitcoin​",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#tag",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "比特币差价合约​"
+    },
+    {
+      "key": "t6bae7387046a227b",
+      "english": "CFD BITCOIN​",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#upperTag",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "差价合约比特币​"
+    },
+    {
+      "key": "t0331440e0b3f1af0",
+      "english": "bitcoin cfd",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#tag",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "比特币差价合约"
+    },
+    {
+      "key": "t90f0cb8ebd4d5a30",
+      "english": "BITCOIN CFD",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy#upperTag",
+        "SSR:/blogs/bitcoin-cfd-trading-platform-in-uae-market-access-in-a-digital-economy"
+      ],
+      "translation": "比特币差价合约"
+    },
+    {
+      "key": "teb5f95a4d937d4e4",
+      "english": "CFD Stock Trading in UAE for Global Equity Market Access",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#metaTitle",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "阿联酋的差价合约股票交易以获得全球股票市场准入"
+    },
+    {
+      "key": "tcb5f9df7dd08fa31",
+      "english": "CFD Stock Trading in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#imageAltTag",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "阿联酋的差价合约股票交易"
+    },
+    {
+      "key": "td3627b6ca845b1fc",
+      "english": "cfd stocks​",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#tag",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "差价合约股票​"
+    },
+    {
+      "key": "t6f70d58c34faba1c",
+      "english": "CFD STOCKS​",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#upperTag",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "股票差价合约​"
+    },
+    {
+      "key": "t402c26eb82ba51c1",
+      "english": "forex cfd trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#tag",
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#tag",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "外汇差价合约交易"
+    },
+    {
+      "key": "t7146c68b6c7d1be1",
+      "english": "FOREX CFD TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#upperTag",
+        "CMS:blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai#upperTag",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms",
+        "SSR:/blogs/how-to-choose-the-right-precious-metals-trading-platform-in-dubai"
+      ],
+      "translation": "外汇差价合约交易"
+    },
+    {
+      "key": "t21ac8e4dbe5a80f1",
+      "english": "cfd index​",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#tag",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "差价合约指数​"
+    },
+    {
+      "key": "t3d9f8b4d470c86b1",
+      "english": "CFD INDEX​",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms#upperTag",
+        "SSR:/blogs/cfd-stock-trading-in-uae-accessing-global-equity-markets-through-digital-platforms"
+      ],
+      "translation": "差价合约指数​"
+    },
+    {
+      "key": "t212941368e8a8114",
+      "english": "Energy CFD Trading UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter#imageAltTag",
+        "SSR:/blogs/energy-cfd-trading-in-uae-with-upforex-trade-global-energy-markets-smarter"
+      ],
+      "translation": "阿联酋能源差价合约交易"
+    },
+    {
+      "key": "t255dc2d6c03c44d0",
+      "english": "Trusted Forex Brokers in UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#imageAltTag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "阿联酋值得信赖的外汇经纪商"
+    },
+    {
+      "key": "tc3f37967669e4bc5",
+      "english": "upforex trading",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#tag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "UPFOREX交易"
+    },
+    {
+      "key": "t873e49e782b683c5",
+      "english": "UPFOREX TRADING",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#upperTag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "UPFOREX交易"
+    },
+    {
+      "key": "t7b919807a5fcf775",
+      "english": "trusted forex broker",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#tag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "值得信赖的外汇经纪商"
+    },
+    {
+      "key": "tb17ec8c7483cffb5",
+      "english": "TRUSTED FOREX BROKER",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#upperTag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "值得信赖的外汇经纪商"
+    },
+    {
+      "key": "t9aed486d58a0e39f",
+      "english": "regulated forex brokers uae",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#tag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "阿联酋受监管的外汇经纪商"
+    },
+    {
+      "key": "t92ff3cadc85a901f",
+      "english": "REGULATED FOREX BROKERS UAE",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders#upperTag",
+        "SSR:/blogs/trusted-forex-brokers-in-uae-how-upforex-helps-traders"
+      ],
+      "translation": "阿联酋受监管的外汇经纪商"
+    },
+    {
+      "key": "t9356ba32feeae9be",
+      "english": "CFD Index Trading Guide for Smart OTC Traders",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#metaTitle",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "面向精明场外交易者的指数差价合约交易指南"
+    },
+    {
+      "key": "t95059ebe8f3ba374",
+      "english": "Learn how CFD index and OTC trading work, what moves index prices, and how traders manage risks. A simple guide for beginners to understand CFD decisions.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#description",
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#descriptionSnippet",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "了解差价合约指数和场外交易如何运作、指数价格的变动因素以及交易者如何管理风险。初学者了解 CFD 决策的简单指南。"
+    },
+    {
+      "key": "tebd631b31205d7d5",
+      "english": "otc trading​",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#tag",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "场外交易​"
+    },
+    {
+      "key": "t05859e336156eed5",
+      "english": "OTC TRADING​",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#upperTag",
+        "SSR:/blogs/cfd-index-trading-and-otc-markets-explained-upforex"
+      ],
+      "translation": "场外交易​"
+    },
+    {
+      "key": "t90e244fb30884e61",
+      "english": "Crypto currency",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/cfd-index-trading-and-otc-markets-explained-upforex#category"
+      ],
+      "translation": "加密货币"
+    },
+    {
+      "key": "t4d34718d6fa1e03d",
+      "english": "Learn how to trade oil online with tips, strategies, and best practices. Explore crude oil trade, market analysis, and smart risk management. Upforex!",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices#description",
+        "CMS:blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices#descriptionSnippet",
+        "SSR:/blogs/online-oil-trading-proven-tips-smart-strategies-and-best-practices"
+      ],
+      "translation": "通过技巧、策略和最佳实践学习在线石油交易。探索原油交易、市场分析和明智的风险管理。Upforex！"
+    },
+    {
+      "key": "t45764ed1db90725f",
+      "english": "Learn how to trade gold online with strategies, and best practices. Trade gold confidently and explore precious metals markets effectively. Upforex!",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#description",
+        "CMS:blogs/learn-how-to-trade-gold-online-techniques-and-insights#descriptionSnippet",
+        "SSR:/blogs/learn-how-to-trade-gold-online-techniques-and-insights"
+      ],
+      "translation": "通过策略和最佳实践学习在线黄金交易。自信地交易黄金，并有效探索贵金属市场。Upforex！"
+    },
+    {
+      "key": "t5b4374ec834bfed4",
+      "english": "What is Spread in Forex? Everything You Need to Know",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#title",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "外汇中的点差是什么？你需要知道的一切"
+    },
+    {
+      "key": "t62c42957c119ffd5",
+      "english": "What is Spread in Forex? A Beginner-Friendly Guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#metaTitle",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "外汇中的点差是什么？适合初学者的指南"
+    },
+    {
+      "key": "t06d75688898ec770",
+      "english": "Learn what is spread in forex, how it affects trading costs, and the difference between fixed and variable spreads in this beginner-friendly guide.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#description",
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#descriptionSnippet",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "在这本适合初学者的指南中了解外汇中的点差是什么、它如何影响交易成本以及固定点差和可变点差之间的区别。"
+    },
+    {
+      "key": "t5ffadbef5268dad5",
+      "english": "Spread in Forex",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#imageAltTag",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "外汇点差"
+    },
+    {
+      "key": "t8ab7a118d6f4b924",
+      "english": "what is spread",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#tag",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "什么是点差"
+    },
+    {
+      "key": "t82acc95858e130e4",
+      "english": "WHAT IS SPREAD",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#upperTag",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "什么是点差"
+    },
+    {
+      "key": "tdc360f6fe1b5a9d5",
+      "english": "spread in forex",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#tag",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "外汇点差"
+    },
+    {
+      "key": "t599f59cf3b915a75",
+      "english": "SPREAD IN FOREX",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/what-is-spread-in-forex-everything-you-need-to-know#upperTag",
+        "SSR:/blogs/what-is-spread-in-forex-everything-you-need-to-know"
+      ],
+      "translation": "外汇点差"
+    },
+    {
+      "key": "t1f71766ba0e40497",
+      "english": "Mastering the 1 Hour Forex Strategy: Step-by-Step Guide",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#metaTitle",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "掌握 1 小时外汇策略：分步指南"
+    },
+    {
+      "key": "t9121bbc4ae475898",
+      "english": "web blog image 1 Hour Forex Strategy",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#imageAltTag",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "网络博客图片 1 小时外汇策略"
+    },
+    {
+      "key": "tc6cb7bf2440b7e18",
+      "english": "Forex Strategy",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#tag",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "外汇策略"
+    },
+    {
+      "key": "t5c88d3d220917938",
+      "english": "FOREX STRATEGY",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/1-hour-forex-strategy-a-simple-guide-for-traders#upperTag",
+        "SSR:/blogs/1-hour-forex-strategy-a-simple-guide-for-traders"
+      ],
+      "translation": "外汇策略"
+    },
+    {
+      "key": "t67f5d1bc1da0ffbc",
+      "english": "5 Key Differences Between Forex Demo and Real Account",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#title",
+        "SSR:/blogs",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "外汇模拟账户和真实账户之间的 5 个主要区别"
+    },
+    {
+      "key": "t1cee1d13a004a67b",
+      "english": "5 Crucial Difference Between Forex Demo and Real Account",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#metaTitle",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "外汇模拟账户和真实账户之间的 5 个关键区别"
+    },
+    {
+      "key": "tf66af64aea7fc53e",
+      "english": "Discover the differences between forex demo and real account. Learn how emotions, costs, and risks change when moving from practice to live trading.",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#description",
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#descriptionSnippet",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "了解外汇模拟账户和真实账户之间的差异。了解从练习转向实时交易时情绪、成本和风险如何变化。"
+    },
+    {
+      "key": "t052d8e28ea15c090",
+      "english": "Forex Demo and Real Account",
+      "kind": "text",
+      "sources": [
+        "CMS:blogs/5-key-differences-between-forex-demo-and-real-account#imageAltTag",
+        "SSR:/blogs/5-key-differences-between-forex-demo-and-real-account"
+      ],
+      "translation": "外汇模拟账户和真实账户"
+    }
+  ]
+}
