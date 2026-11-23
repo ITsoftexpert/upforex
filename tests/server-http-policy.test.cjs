@@ -88,3 +88,16 @@ test('uses immutable caching only for versioned bundles', async () => {
   assert.equal(versioned.headers['cache-control'], 'public, max-age=31536000, immutable');
   assert.equal(unversioned.headers['cache-control'], 'public, max-age=3600');
 });
+
+// A stale font/image must never be pinned just because it has a familiar filename.
+test('only content-versioned fonts and images receive immutable caching', async () => {
+  for (const file of ['/build/public-solid.0123456789abcdef.woff2', '/build/logo.0123456789abcdef.webp']) {
+    const { headers } = await response('/asset', { file });
+    assert.equal(headers['cache-control'], 'public, max-age=31536000, immutable');
+    assert.equal(headers['cloudflare-cdn-cache-control'], headers['cache-control']);
+  }
+  for (const file of ['/build/Montserrat.woff2', '/build/logo.webp', '/build/logo.1234.webp', '/build/catalog.0123456789abcdef.json']) {
+    const { headers } = await response('/asset', { file });
+    assert.equal(headers['cache-control'], 'public, max-age=3600');
+  }
+});

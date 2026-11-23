@@ -77,7 +77,7 @@ export function staticCacheHeaders(res: Response, file: string): void {
     noStore(res);
     return;
   }
-  const versioned = /\.[a-f0-9]{16,}\.(?:js|css)$/.test(basename(file));
+  const versioned = /\.[a-f0-9]{16,}\.(?:js|css|woff2|webp)$/.test(basename(file));
   const cache = versioned ? 'public, max-age=31536000, immutable' : 'public, max-age=3600';
   res.setHeader('Cache-Control', cache);
   res.setHeader('Cloudflare-CDN-Cache-Control', cache);

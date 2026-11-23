@@ -1,0 +1,115 @@
+MOBILE SPEED UPDATE - merged-upforex
+Reviewed base: 74a8a58b239480048a87f817117c5b025994ffc8
+Local evidence date: 23 November 2026 (Asia/Calcutta)
+
+MEASURED LOCAL RESULT
+Three cold-cache Chrome samples before and after; 390x844 viewport, 4x CPU slowdown,
+150ms latency and 200000 bytes/second. No benchmark ran during a build. A run that
+overlapped a validation subprocess is retained but excluded from the comparison.
+- Median LCP: 2.964s -> 2.672s (9.85% lower in this local comparison).
+- Median FCP: 1.292s -> 1.076s.
+- Median bytes received in the 25-second sample: 1,883,003 -> 1,508,251 (19.90% less).
+- CLS median unchanged: 0.0894.
+- Before/after final mobile screenshots have the same SHA-256.
+These are local lab measurements, not a Lighthouse score or field Core Web Vitals.
+
+CHANGES
+1. Keep the existing Montserrat and Font Awesome faces as complete fallbacks.
+   Add unicode-range subsets containing the same outlines and advance widths.
+   English homepage font assets total 440,340 -> 64,656 bytes (85.32% smaller).
+   French/German/Portuguese text, Cyrillic fallback and an icon outside the subset
+   have real-browser checks. No font size, weight, spacing or design rule changed.
+2. Give content-versioned .woff2 and .webp files the same immutable cache policy
+   as content-versioned JS/CSS. Unversioned assets stay revalidatable after one hour.
+   Private HTML, CMS JSON and cookies/auth cache bypass rules are unchanged.
+3. Add a read-only deployment checker. It compares the running homepage with the
+   exact build artifact and checks native SSR readiness, deferred video and the
+   number of explicit Analytics loaders. A stale page must fail this check.
+
+No existing Angular component/template, route, English copy, translation catalog,
+backend file, dependency version, Analytics ID or video URL was modified.
+Python/fontTools is used only to prepare checked-in font files; npm ci/build does
+not require Python, fontTools, a translation API, an account or a payment card.
+Font Awesome and Montserrat license notices are included with the new assets.
+
+LIVE FINDING - IMPORTANT
+The public homepage served main.9faee3ae49cbdaee.js during these checks, not the
+local main.65746c381d6e7087.js. It also lacked data-native-page-ready=true, contained
+a direct offscreen video source, and emitted two explicit gtag.js loaders.
+The local built homepage passed all four HTML checks; the public page failed all four.
+The checker also verifies the new font bytes and immutable cache headers when the
+HTML matches. This is not cryptographic attestation of the running server commit.
+This proves that the checked local release behavior was not yet being served.
+It does not identify the exact Jenkins/service/CDN configuration causing that.
+Live screenshots' 12-second LCP is not a score for the newly prepared local build.
+The separate live Chrome samples had median 4.084s LCP, which is still not a PSI score.
+
+DEPLOY THE COMPLETE FRONTEND ARTIFACT
+- Use the intended repository commit and the tested Node 24.18.0 / npm 11.16.0.
+- From the repository's project root: npm ci; then npm run build.
+- Deploy matching dist/upforex_Frontend/browser AND server from that same build.
+  Include server/data/public-blog-snapshot.json.
+- Restart the EXISTING frontend SSR process through the existing deployment method.
+  A browser-folder upload alone cannot update the running SSR process.
+- Confirm the reverse proxy serves pages through that process, with matching assets.
+- Refresh only stale public HTML caches after a successful process/artifact switch.
+- On the machine holding that exact built artifact, run:
+    node scripts/verify-deployed-build.cjs --base-url=https://www.upforex.com/
+  Require passed:true before treating the optimized build as live. The script is
+  read-only; it does not restart services, change CDN settings or deploy anything.
+- Then run fresh mobile PageSpeed checks. Field CWV reports reflect historical
+  visitor measurements and do not reset immediately after a release.
+
+OWNER-CONTROLLED ITEMS
+The S3 smart_trading.mp4 remains about 6.99 MB; its original URL and media bytes are
+unchanged. It does not download until near the viewport in the prepared frontend.
+Compress the supplied clip if it should use fewer bytes when visitors scroll to it.
+S3's missing Cache-Control headers cannot be changed by this frontend's Express
+headers. For long immutable media caching, publish content-versioned media URLs
+and configure the S3/CDN headers in the owner account. Keep unversioned media
+revalidatable so future replacements do not stay stale in visitor caches.
+The GTM container still requests additional Analytics code for the existing IDs.
+An owner should review duplicate GA4 tags inside GTM; no account tag was removed.
+See MEDIA_OPTIMIZATION_REQUESTS.txt for the existing media inventory.
+No backend/S3/GTM/Cloudflare/Jenkins settings have been changed by this update.
+
+REPEATABLE CHECKS
+npm run build
+npm run test:server
+npm run test:performance
+node --test tests/deployed-build.test.cjs
+node scripts/verify-font-delivery.cjs
+npm run verify:seo -- --require-complete
+npm run verify:ssr-i18n -- --require-complete
+node scripts/verify-video-playback.cjs --label=mobile-speed-final
+node scripts/verify-security-browser.cjs
+
+EVIDENCE (local, ignored tmp directory)
+tmp/mobile-speed-20261123/build-result.json
+tmp/mobile-speed-20261123/npm-run-build.log
+tmp/mobile-speed-20261123/performance-summary.json
+tmp/mobile-speed-20261123/font-browser.json
+tmp/mobile-speed-20261123/font-http.json
+tmp/mobile-speed-20261123/local-build-check.json
+tmp/mobile-speed-20261123/live-build-check.json
+tmp/mobile-speed-20261123/verification-results.json
+
+FONT REGENERATION (optional maintenance, not a build/deployment step)
+The supplied outputs were generated with fontTools 4.63.0 and Brotli 1.2.1.
+With fontTools[woff] available: python scripts/subset-web-fonts.py
+Regenerate after changing Font Awesome versions or when optimizing newly used
+icons. The complete original icon font still renders unlisted icons meanwhile.
+Font subset delivery follows the documented unicode-range mechanism:
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@font-face/unicode-range
+https://web.dev/articles/font-best-practices
+
+FINAL LOCAL VALIDATION
+npm run build: PASS (exit 0; full browser/SSR/compression/CMS snapshot).
+Server/cache/security tests: 35 PASS. Compression tests: 13 PASS.
+Deployment-checker negative/positive tests: 4 PASS.
+Real-browser font delivery, glyph pixels and fallback: PASS.
+Strict SEO: 1,110/1,110 translated initial bodies PASS; 0 missing; 0 failures.
+Strict SSR i18n: 1,110/1,110 translated initial bodies PASS; 0 missing; 0 failures.
+Visible video playback/pause/resume/geometry: 13 scenarios PASS.
+Browser UI regression: 22 checks PASS.
+Local artifact/SSR/font HTTP check: PASS. Live activation remains unverified.
