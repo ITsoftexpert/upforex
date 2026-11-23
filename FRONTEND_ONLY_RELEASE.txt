@@ -6,7 +6,7 @@ The prepared sibling backend and old paired ZIP are not prerequisites and are no
 FROM THE merged-upforex DIRECTORY
 1. Use Node 24 LTS (the local checks use Node 24.18.0).
 2. npm ci
-3. npm run build:ssr
+3. npm run build  (includes browser + SSR + compressed assets + public CMS snapshot)
 4. npm run test:i18n
 5. npm run test:regression
 6. npm run test:server
@@ -15,6 +15,10 @@ FROM THE merged-upforex DIRECTORY
 9. npm run verify:ssr-i18n -- --require-complete
 10. npm run verify:sheets
 11. npm run serve:ssr  (default port 4000)
+
+BUILD COMMANDS
+npm run build is the complete production SSR build. npm run build:ssr remains an equivalent explicit command. npm run build:browser is the optional browser-only target and does not create a complete SSR deployment.
+The .nvmrc pins the locally verified Node version (24.18.0); package.json lists the supported Node ranges. Use the matching Node toolchain and npm ci with development/build dependencies installed.
 
 HOSTING
 The reverse proxy must forward public pages AND /api/public/blogs and /api/public-cms-status to the frontend Node SSR process. Serve dist/upforex_Frontend/browser assets normally. Include dist/upforex_Frontend/server/data/public-blog-snapshot.json; build:ssr creates it automatically.

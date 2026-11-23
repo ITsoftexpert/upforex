@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "npm run build:ssr",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "test:regression": "ng test --watch=false --browsers=ChromeHeadless --ts-config=tsconfig.regression.spec.json --include=src/app/core/services/bundled-translation.loader.spec.ts --include=src/app/core/services/blog-copy-corrections.spec.ts --include=src/app/core/services/web-blog.service.spec.ts --include=src/app/components/list.blogs/list.blogs.component.spec.ts",
@@ -29,7 +29,8 @@
     "i18n:check-catalogs": "node scripts/prepare-native-catalogs.cjs",
     "test:i18n": "npm run test:cms && node --test scripts/i18n-pipeline.test.cjs scripts/i18n-release.test.cjs scripts/free-i18n.test.cjs scripts/security-dependencies.test.cjs scripts/legacy-seo-redirects.test.cjs scripts/local-cms-transport.test.cjs && ng test --watch=false --browsers=ChromeHeadless --ts-config=tsconfig.i18n.spec.json --include=src/app/app.component.spec.ts --include=src/app/core/services/language.service.spec.ts --include=src/app/core/services/hybrid-translation.service.spec.ts --include=src/app/core/services/server-language.initializer.spec.ts --include=src/app/core/services/page-language.service.spec.ts --include=src/app/core/services/native-translation.service.spec.ts --include=src/app/core/services/web-blog.service.spec.ts --include=src/app/components/partnership/ib-program/ib-program.component.spec.ts --progress=false --include=src/app/components/list.blogs/list.blogs.component.spec.ts --include=src/app/components/terms-display/pdf-export.spec.ts",
     "verify:sheets": "node scripts/verify-seo-sheets.cjs",
-    "test:cms": "tsc server/public-blog-store.ts --outDir tmp/public-cms-tests --module commonjs --target es2022 --skipLibCheck && node --test tests/public-blog-store.test.cjs"
+    "test:cms": "tsc server/public-blog-store.ts --outDir tmp/public-cms-tests --module commonjs --target es2022 --skipLibCheck && node --test tests/public-blog-store.test.cjs",
+    "build:browser": "ng build"
   },
   "private": true,
   "dependencies": {
