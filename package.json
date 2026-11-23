@@ -30,7 +30,11 @@
     "test:i18n": "npm run test:cms && node --test scripts/i18n-pipeline.test.cjs scripts/i18n-release.test.cjs scripts/free-i18n.test.cjs scripts/security-dependencies.test.cjs scripts/legacy-seo-redirects.test.cjs scripts/local-cms-transport.test.cjs && ng test --watch=false --browsers=ChromeHeadless --ts-config=tsconfig.i18n.spec.json --include=src/app/app.component.spec.ts --include=src/app/core/services/language.service.spec.ts --include=src/app/core/services/hybrid-translation.service.spec.ts --include=src/app/core/services/server-language.initializer.spec.ts --include=src/app/core/services/page-language.service.spec.ts --include=src/app/core/services/native-translation.service.spec.ts --include=src/app/core/services/web-blog.service.spec.ts --include=src/app/components/partnership/ib-program/ib-program.component.spec.ts --progress=false --include=src/app/components/list.blogs/list.blogs.component.spec.ts --include=src/app/components/terms-display/pdf-export.spec.ts",
     "verify:sheets": "node scripts/verify-seo-sheets.cjs",
     "test:cms": "tsc server/public-blog-store.ts --outDir tmp/public-cms-tests --module commonjs --target es2022 --skipLibCheck && node --test tests/public-blog-store.test.cjs",
-    "build:browser": "ng build"
+    "build:browser": "ng build",
+    "preinstall": "node scripts/check-runtime.cjs",
+    "prebuild": "node scripts/check-runtime.cjs",
+    "prebuild:ssr": "node scripts/check-runtime.cjs",
+    "preserve:ssr": "node scripts/check-runtime.cjs"
   },
   "private": true,
   "dependencies": {
@@ -89,7 +93,7 @@
     "typescript": "5.9.3"
   },
   "engines": {
-    "node": "^20.19.0 || ^22.12.0 || >=24.0.0",
+    "node": "^20.19.0 || ^22.12.0 || ^24.0.0",
     "npm": ">=10"
   },
   "overrides": {

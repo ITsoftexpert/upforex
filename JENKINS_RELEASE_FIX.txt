@@ -1,0 +1,118 @@
+JENKINS NODE BUILD FIX - reviewed against the supplied failed log and Pipeline
+
+CONFIRMED CAUSE
+Jenkins checked out c42b742 but used Node v18.19.1 and npm 9.2.0.
+Angular 21 requires a supported newer Node. The first fatal error was the
+CommonJS require of ESM parse5 in generate-public-sitemap.cjs under Node 18.
+The exact ERR_REQUIRE_ESM was reproduced with official Node 18.19.1 locally.
+The existing local build used Node 24.18.0 / npm 11.16.0 instead.
+.nvmrc records that version but does not select it inside a Jenkins Pipeline.
+The supplied Deploy stage was skipped because Build Application failed.
+
+PROJECT CHANGES
+- Dependency-free scripts/check-runtime.cjs gives a clear Node/npm failure.
+- npm preinstall, prebuild, prebuild:ssr and preserve:ssr invoke the guard.
+- .npmrc enables engine-strict so unsupported installs fail early.
+- Node engine ranges match Angular 21's documented supported LTS majors.
+- package-lock changes only the root engine/install-script metadata.
+  No dependency versions were changed.
+- Jenkinsfile.build selects the tested Node tool and uses npm ci --include=dev.
+  It is deliberately BUILD ONLY and contains no deployment or PM2 mutations.
+- scripts/inspect-frontend-runtime.cjs is read-only and checks the actual running
+  frontend executable; it never prints complete PM2 environment data.
+- App source, design, content, translations and routes are unchanged.
+
+REQUIRED ONE-TIME JENKINS CONFIGURATION
+1. Manage Jenkins > Plugins: ensure the official NodeJS plugin is available.
+   This tool does not require a paid API or a card.
+2. Manage Jenkins > Tools > NodeJS installations > Add NodeJS:
+     Name: upforex-node-24.18.0
+     Install automatically: enabled
+     Version: NodeJS 24.18.0
+   This creates a Jenkins-managed tool; do not replace the system Node used by
+   the locked backend.
+3. In the existing job's Configure > Pipeline script, add immediately after
+   agent any:
+
+     tools {
+         nodejs 'upforex-node-24.18.0'
+     }
+
+4. Replace the existing sh 'npm install' with:
+
+     sh 'npm ci --include=dev'
+
+5. After Code Checkout and before Install Dependencies add:
+
+     stage('Verify Node') {
+         steps {
+             sh 'node --version'
+             sh 'npm --version'
+             sh 'node scripts/check-runtime.cjs'
+         }
+     }
+
+   Keep the existing build command npm run build:ssr. The selected Node tool
+   must cover BOTH Install Dependencies and Build Application.
+   For a separate build-only job, use the complete Jenkinsfile.build.
+   Do not treat that build-only job as a live deployment.
+
+FRONTEND RUNTIME CHECK BEFORE OWNER DEPLOYMENT
+The build agent Node and the running frontend Node are separate settings.
+Before allowing the existing Deploy stage to reload the app, add this read-only
+check as its first shell step:
+
+     sh 'sudo -u ubuntu node scripts/inspect-frontend-runtime.cjs --require-supported'
+
+The inspector is intentionally compatible with Node 18 so it can report an old
+runtime safely. It only reports Upforex-Portal, actual Node version, status,
+script path, cwd and execution mode. It does not change any process.
+For npm/shell wrapper entries the inspector also requires a separate child-runtime
+check; it does not treat the wrapper Node as proof of the actual SSR child.
+If supported:false, keep deployment on hold and configure a supported Node for
+that frontend service first. PM2 cluster and fork modes need different handling;
+do not update/restart a shared PM2 daemon or change the locked backend globally.
+No PM2 reload/interpreter-update/save automation was added by this correction.
+The existing service configuration and production deployment remain with owner.
+
+AFTER OWNER CONFIGURATION
+The Jenkins version lines must show the selected Node 24 tool and npm 10+.
+Require npm ci and build:ssr to pass. Require the actual frontend runtime check
+to pass before the existing deployment step is used.
+After deployment, from the directory holding that exact built artifact, run:
+
+     node scripts/verify-deployed-build.cjs --base-url=https://www.upforex.com/
+
+The previous mobile report showed old live assets; Git push alone does not change
+Jenkins' saved inline Pipeline or the live service runtime.
+
+VERIFICATION / EVIDENCE
+node --test tests/runtime-compatibility.test.cjs tests/frontend-runtime-inspection.test.cjs
+Official Node 18 reproduction: tmp/jenkins-runtime-fix/node18-reproduction.json
+Fresh isolated install/build: tmp/jenkins-runtime-fix/clean-build-results.json
+Full command logs: tmp/jenkins-runtime-fix/npm-ci.log and build-ssr.log
+The local proof is not a successful rerun on the actual Jenkins agent.
+
+PRIMARY REFERENCES
+https://angular.dev/reference/versions
+https://plugins.jenkins.io/nodejs/
+
+CURRENT VERIFIED RESULT
+- Exact Node 18.19.1 ERR_REQUIRE_ESM reproduced; Angular CLI also rejects Node 18.
+- Fresh isolated npm ci --include=dev under Node 24.18.0 / npm 11.16.0: PASS.
+- Exact npm run build:ssr command in that clean copy: PASS (exit 0).
+- Runtime/inspection tests: 8 PASS. Fresh browser UI: 22 checks PASS.
+- npm audit during install: 0 vulnerabilities.
+- Existing app source and all resolved dependency versions unchanged.
+- Initial main/styles/runtime/polyfills/scripts byte COUNTS unchanged. CSS,
+  polyfills and scripts bytes match; minified main/runtime symbol names and
+  hashes can differ between fresh build directories. Always deploy a matching
+  browser/server artifact and run verification against that exact build.
+- Browser verification now uses the existing checksum/version-validated public
+  source fallback when ignored tmp/english-blog-api.json is absent in a clean CI
+  checkout; this changes verification only, not the application's CMS data.
+- Actual Jenkins job/tool configuration has not been changed or rerun here.
+- Production PM2 configuration has not been changed.
+- Automatic approval review rejected proposed PM2 runtime/reload/save automation
+  because production deployment remained with the owner. The safer build-only
+  correction and read-only inspection were prepared instead.

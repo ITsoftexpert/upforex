@@ -25,7 +25,7 @@ async function main(){
   const u=require('./i18n-release-utils.cjs'),doc=u.parse(articleHtml),component=u.elements(doc,'app-blogs')[0];
   const text=node=>node.nodeName==='#text'?node.value:(node.childNodes||[]).map(text).join(' ');
   assert.equal(u.elements(component,'h1').length,1,'Article title must exist before JavaScript');
-  assert.equal(text(u.elements(component,'h1')[0]).trim(),JSON.parse(fs.readFileSync('tmp/english-blog-api.json','utf8')).data.find(article=>article.permaLink===articleSlug).title);
+  assert.equal(text(u.elements(component,'h1')[0]).trim(),u.read('tmp/english-blog-api.json').data.find(article=>article.permaLink===articleSlug).title);
   assert(u.elements(component,'div').some(node=>u.attribute(node,'class')==='sidebar'),'SSR must include the original recommended-article sidebar');
   records.push({check:'Asynchronously loaded article title and sidebar exist in initial SSR HTML',passed:true});
   const executable=['C:/Program Files/Google/Chrome/Application/chrome.exe','C:/Program Files (x86)/Google/Chrome/Application/chrome.exe'].find(f=>fs.existsSync(f));

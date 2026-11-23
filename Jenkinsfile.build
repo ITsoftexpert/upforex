@@ -1,0 +1,47 @@
+// Build-only pipeline: this file does not deploy or change PM2 processes.
+// Configure the NodeJS tool upforex-node-24.18.0 once in Manage Jenkins > Tools.
+pipeline {
+    agent any
+    tools {
+        nodejs 'upforex-node-24.18.0'
+    }
+    options {
+        skipDefaultCheckout(true)
+        disableConcurrentBuilds()
+    }
+    stages {
+        stage('Code Checkout') {
+            steps {
+                git branch: 'main', credentialsId: 'Github', url: 'https://github.com/ITsoftexpert/upforex.git'
+            }
+        }
+        stage('Verify Node') {
+            steps {
+                sh '''
+                    set -eu
+                    node --version
+                    npm --version
+                    node scripts/check-runtime.cjs
+                    node --test tests/runtime-compatibility.test.cjs tests/frontend-runtime-inspection.test.cjs
+                '''
+            }
+        }
+        stage('Install Dependencies') {
+            steps {
+                sh 'npm ci --include=dev'
+            }
+        }
+        stage('Build Application') {
+            steps {
+                sh '''
+                    set -eu
+                    npm run build:ssr
+                    test -s dist/upforex_Frontend/server/main.js
+                    test -s dist/upforex_Frontend/server/data/public-blog-snapshot.json
+                    test -s dist/upforex_Frontend/browser/webfonts/fa-solid-900.woff2
+                    test -s dist/upforex_Frontend/browser/webfonts/fa-brands-400.woff2
+                '''
+            }
+        }
+    }
+}
